@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T14:00:03.862328+00:00",
+  "generated_at_utc": "2026-02-22T14:26:23.305081+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -166,41 +166,42 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 13:24:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 14:15:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tottenham",
         "Ezra",
-        "#WinWith1v1Africa",
+        "Tottenham",
         "Simi",
+        "#WinWith1v1Africa",
         "Spurs",
         "He's 4",
+        "#NFOLIV",
+        "#TOTARS",
         "Bella",
-        "#OneByZupaNova",
         "NDLEA",
-        "Atiku",
-        "Happy Birthday Lex"
+        "Arsenal 2"
       ],
       "hashtags": [
         "#WinWith1v1Africa",
-        "#OneByZupaNova",
+        "#NFOLIV",
         "#TOTARS",
-        "#sundayvibes",
+        "#OneByZupaNova",
         "#TosAlphaFund",
+        "#sundayvibes",
         "#SundayService",
         "#Probux"
       ],
       "regular_topics": [
-        "Tottenham",
         "Ezra",
+        "Tottenham",
         "Simi",
         "Spurs",
         "He's 4",
         "Bella",
         "NDLEA",
-        "Atiku",
-        "Happy Birthday Lex",
-        "Trenches Ambassador",
-        "Bowen"
+        "Arsenal 2",
+        "Aang",
+        "Nottingham",
+        "Atiku"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
