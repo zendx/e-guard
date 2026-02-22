@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-22T20:37:01.991535+00:00",
+  "generated_at_utc": "2026-02-22T20:47:05.908778+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 20:21:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 19:30:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "El Mencho",
         "Jack Hughes",
-        "Canadians",
-        "Jalisco",
-        "Puerto Vallarta",
         "#USAHockey",
-        "CJNG",
+        "El Mencho",
         "Gold",
+        "Canadians",
         "Team USA",
-        "M\u00e9xico"
+        "Hellebuyck",
+        "Connor Hellebuyck",
+        "Jalisco",
+        "Puerto Vallarta"
       ],
       "hashtags": [
         "#USAHockey",
+        "#TOTARS",
         "#D2Day",
         "#MakeItYours",
-        "#TOTARS",
         "#bucciovertimechallenge"
       ],
       "regular_topics": [
         "Canada",
-        "El Mencho",
         "Jack Hughes",
+        "El Mencho",
+        "Gold",
         "Canadians",
+        "Team USA",
+        "Hellebuyck",
+        "Connor Hellebuyck",
         "Jalisco",
         "Puerto Vallarta",
-        "CJNG",
-        "Gold",
-        "Team USA",
-        "M\u00e9xico",
-        "Olympics"
+        "CJNG"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -120,19 +120,19 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 19:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 20:32:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
         "#T20WorldCup",
         "South Africa",
         "Spurs",
-        "Abhishek",
+        "El Mencho",
+        "CJNG",
         "Axar",
+        "Abhishek",
         "Gambhir",
-        "Ahmedabad",
-        "Virat Kohli",
-        "#TOTARS",
-        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940"
+        "Jalisco",
+        "Virat Kohli"
       ],
       "hashtags": [
         "#INDvsSA",
@@ -144,15 +144,15 @@
       "regular_topics": [
         "South Africa",
         "Spurs",
-        "Abhishek",
-        "Axar",
-        "Gambhir",
-        "Ahmedabad",
-        "Virat Kohli",
-        "Washington Sundar",
-        "CJNG",
         "El Mencho",
-        "Sanju"
+        "CJNG",
+        "Axar",
+        "Abhishek",
+        "Gambhir",
+        "Jalisco",
+        "Virat Kohli",
+        "Ahmedabad",
+        "Team India"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
