@@ -1,42 +1,40 @@
 {
-  "generated_at_utc": "2026-02-22T14:48:49.634907+00:00",
+  "generated_at_utc": "2026-02-22T15:13:37.893903+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 13:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 14:09:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#USAHockey",
-        "Good Sunday",
+        "Matt Boldy",
         "Go USA",
+        "Matthews",
+        "Good Sunday",
+        "1-0 USA",
+        "Toews",
         "Muhammad Qasim",
+        "#GoldMedalGame",
         "#sundayvibes",
-        "USA vs Canada",
-        "Greenland",
-        "Kurt Russell",
-        "Sidney Crosby",
-        "TSA PreCheck",
-        "#GoldMedalGame"
+        "Binnington"
       ],
       "hashtags": [
         "#USAHockey",
-        "#sundayvibes",
         "#GoldMedalGame",
-        "#FreeBird",
-        "#blizzard"
+        "#sundayvibes"
       ],
       "regular_topics": [
-        "Good Sunday",
+        "Matt Boldy",
         "Go USA",
+        "Matthews",
+        "Good Sunday",
+        "1-0 USA",
+        "Toews",
         "Muhammad Qasim",
-        "USA vs Canada",
+        "Binnington",
         "Greenland",
-        "Kurt Russell",
-        "Sidney Crosby",
-        "TSA PreCheck",
-        "Blessed Sunday",
         "USA USA USA",
-        "Mike Eruzione"
+        "Hellebuyck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
