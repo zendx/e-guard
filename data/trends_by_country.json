@@ -1,42 +1,39 @@
 {
-  "generated_at_utc": "2026-02-22T23:06:48.113177+00:00",
+  "generated_at_utc": "2026-02-22T23:14:23.972075+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 21:15:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:06:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "El Mencho",
         "Puerto Vallarta",
-        "Jalisco",
         "Canadians",
-        "Jack Hughes",
+        "Jalisco",
+        "Tourette",
         "M\u00e9xico",
-        "Mobley",
         "Olympics",
-        "Cavs",
-        "Gold"
+        "Jack Hughes",
+        "Mobley",
+        "Cavs"
       ],
       "hashtags": [
-        "#D2Day",
-        "#MakeItYours",
         "#Autotrader400",
-        "#ClosingCeremony",
-        "#ThunderUp"
+        "#ClosingCeremony"
       ],
       "regular_topics": [
         "Canada",
         "El Mencho",
         "Puerto Vallarta",
-        "Jalisco",
         "Canadians",
-        "Jack Hughes",
+        "Jalisco",
+        "Tourette",
         "M\u00e9xico",
-        "Mobley",
         "Olympics",
-        "Cavs",
-        "Gold"
+        "Jack Hughes",
+        "Mobley",
+        "Cavs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -157,19 +154,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 22:12:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 23:03:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Mencho",
-        "Tottenham",
-        "Spurs",
         "CJNG",
+        "Tottenham",
+        "Simi",
+        "Spurs",
         "Gyokeres",
-        "#TOTARS",
-        "Tomorrow is Monday",
-        "#COYG",
         "Jalisco",
-        "Eberechi Eze",
-        "Puerto Vallarta"
+        "Ezra",
+        "Puerto Vallarta",
+        "Tomorrow is Monday",
+        "#TOTARS"
       ],
       "hashtags": [
         "#TOTARS",
@@ -177,15 +174,15 @@
       ],
       "regular_topics": [
         "El Mencho",
-        "Tottenham",
-        "Spurs",
         "CJNG",
+        "Tottenham",
+        "Simi",
+        "Spurs",
         "Gyokeres",
-        "Tomorrow is Monday",
         "Jalisco",
-        "Eberechi Eze",
+        "Ezra",
         "Puerto Vallarta",
-        "Mosquera",
+        "Tomorrow is Monday",
         "Kcee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
