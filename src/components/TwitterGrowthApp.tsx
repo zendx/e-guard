@@ -268,7 +268,7 @@ export default function TwitterGrowthApp() {
             <TrendingUp size={24} className="text-white" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold tracking-tight">X-Boost Vane</h1>
+            <h1 className="text-2xl font-bold tracking-tight">Swave</h1>
             <p className="text-sm text-gray-400">
               Maximize your impressions instantly
             </p>

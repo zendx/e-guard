@@ -160,8 +160,7 @@ export async function POST() {
       return NextResponse.json(
         {
           success: false,
-          message:
-            "Manual scan is disabled on Vercel. Use GitHub Actions workflow to refresh trends.",
+          message: "Manual scan is unavailable in this environment.",
         },
         { status: 501, headers: CACHE_HEADERS },
       );
