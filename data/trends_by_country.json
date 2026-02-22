@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T18:58:00.246519+00:00",
+  "generated_at_utc": "2026-02-22T19:20:58.595426+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -81,38 +81,38 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 18:03:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:54:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
+        "Spurs",
         "#CANvsUSA",
-        "MacKinnon",
-        "#Olympics2026",
         "Makar",
+        "Gyokeres",
         "Jack Hughes",
-        "3 OT",
+        "Olympic",
+        "Tottenham",
         "Team Canada",
-        "Crosby",
         "Team USA",
-        "Spurs"
+        "3 OT"
       ],
       "hashtags": [
         "#CANvsUSA",
-        "#Olympics2026",
         "#TOTARS",
-        "#INDvsSA"
+        "#INDvsSA",
+        "#COYG"
       ],
       "regular_topics": [
         "Hellebuyck",
-        "MacKinnon",
-        "Makar",
-        "Jack Hughes",
-        "3 OT",
-        "Team Canada",
-        "Crosby",
-        "Team USA",
         "Spurs",
-        "Gaudreau",
-        "Matthews"
+        "Makar",
+        "Gyokeres",
+        "Jack Hughes",
+        "Olympic",
+        "Tottenham",
+        "Team Canada",
+        "Team USA",
+        "3 OT",
+        "Puerto Vallarta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
