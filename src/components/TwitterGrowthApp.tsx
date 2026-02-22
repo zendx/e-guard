@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Check, Copy, RefreshCw, TrendingUp, Twitter } from "lucide-react";
+import { Check, Copy, RefreshCw, TrendingUp } from "lucide-react";
 
 type TrendsApiCountry = {
   topics?: string[];
@@ -406,9 +406,15 @@ export default function TwitterGrowthApp() {
           <button
             onClick={shareToX}
             disabled={visibleTrends.length === 0}
-            className="flex items-center justify-center gap-2 rounded-2xl bg-[#1d9bf0] py-4 font-bold transition-all hover:bg-[#1a8cd8] active:scale-95"
+            className="flex items-center justify-center gap-2 rounded-2xl bg-black py-4 font-bold text-white transition-all hover:bg-neutral-900 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
           >
-            <Twitter size={20} fill="currentColor" />
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 24 24"
+              className="h-5 w-5 fill-current"
+            >
+              <path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.54l-5.12-6.7L5.23 22H2l7.6-8.68L1.25 2h6.7l4.62 6.1zM17.11 20h1.8L6.97 3.9H5.03z" />
+            </svg>
             Post to X
           </button>
         </div>
