@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T20:50:51.166409+00:00",
+  "generated_at_utc": "2026-02-22T21:13:20.783764+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,76 +43,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 20:42:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 19:48:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "#BAFTAs",
         "#TOTARS",
         "Gabriel",
         "Gyokeres",
+        "#BAFTAs",
         "Tottenham",
-        "Spence",
-        "Tourette",
         "Saka",
-        "Romero",
-        "Mosquera"
+        "Spence",
+        "Dragusin",
+        "Declan Rice",
+        "#COYG"
       ],
       "hashtags": [
-        "#BAFTAs",
         "#TOTARS",
-        "#ClosingCeremony",
+        "#BAFTAs",
+        "#COYG",
         "#Arsenal",
-        "#COYG"
+        "#THFC"
       ],
       "regular_topics": [
         "Spurs",
         "Gabriel",
         "Gyokeres",
         "Tottenham",
-        "Spence",
-        "Tourette",
         "Saka",
-        "Romero",
-        "Mosquera",
+        "Spence",
         "Dragusin",
-        "Declan Rice"
+        "Declan Rice",
+        "Trossard",
+        "Gary Neville",
+        "Mosquera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 20:40:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 19:45:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Puerto Vallarta",
         "Hellebuyck",
-        "El Mencho",
-        "McDavid",
+        "Puerto Vallarta",
         "Spurs",
-        "Olympic",
-        "Jalisco",
-        "CJNG",
         "Gyokeres",
+        "Olympic",
+        "#CANvsUSA",
+        "Makar",
+        "El Mencho",
+        "Jack Hughes",
         "Team USA",
-        "Hughes"
+        "Tottenham"
       ],
       "hashtags": [
-        "#TOTARS",
         "#CANvsUSA",
-        "#COYG"
+        "#TOTARS",
+        "#COYG",
+        "#Arsenal"
       ],
       "regular_topics": [
-        "Puerto Vallarta",
         "Hellebuyck",
-        "El Mencho",
-        "McDavid",
+        "Puerto Vallarta",
         "Spurs",
-        "Olympic",
-        "Jalisco",
-        "CJNG",
         "Gyokeres",
+        "Olympic",
+        "Makar",
+        "El Mencho",
+        "Jack Hughes",
         "Team USA",
-        "Hughes"
+        "Tottenham",
+        "Gaudreau"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
