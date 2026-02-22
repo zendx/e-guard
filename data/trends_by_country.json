@@ -1,138 +1,134 @@
 {
-  "generated_at_utc": "2026-02-22T20:34:16.745218+00:00",
+  "generated_at_utc": "2026-02-22T23:00:54.318231+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 20:21:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:06:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "El Mencho",
-        "Jack Hughes",
+        "Puerto Vallarta",
         "Canadians",
         "Jalisco",
-        "Puerto Vallarta",
-        "#USAHockey",
-        "CJNG",
-        "Gold",
-        "Team USA",
-        "M\u00e9xico"
+        "Tourette",
+        "M\u00e9xico",
+        "Olympics",
+        "Jack Hughes",
+        "Mobley",
+        "Cavs"
       ],
       "hashtags": [
-        "#USAHockey",
-        "#D2Day",
-        "#MakeItYours",
-        "#TOTARS",
-        "#bucciovertimechallenge"
+        "#Autotrader400",
+        "#ClosingCeremony"
       ],
       "regular_topics": [
         "Canada",
         "El Mencho",
-        "Jack Hughes",
+        "Puerto Vallarta",
         "Canadians",
         "Jalisco",
-        "Puerto Vallarta",
-        "CJNG",
-        "Gold",
-        "Team USA",
+        "Tourette",
         "M\u00e9xico",
-        "Olympics"
+        "Olympics",
+        "Jack Hughes",
+        "Mobley",
+        "Cavs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 19:48:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 21:36:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Charlie",
         "Spurs",
-        "#TOTARS",
-        "Gabriel",
-        "Gyokeres",
         "#BAFTAs",
-        "Tottenham",
-        "Saka",
-        "Spence",
-        "Dragusin",
-        "Declan Rice",
-        "#COYG"
+        "Curtis",
+        "Helena",
+        "Shaq",
+        "Tourette",
+        "Gabriel",
+        "Lauren",
+        "Belle and Harrison",
+        "Robert Aramayo"
       ],
       "hashtags": [
-        "#TOTARS",
         "#BAFTAs",
-        "#COYG",
-        "#Arsenal",
-        "#THFC"
+        "#TOTARS",
+        "#ClosingCeremony",
+        "#forgotten80s",
+        "#whowantstobeamillionaire"
       ],
       "regular_topics": [
+        "Charlie",
         "Spurs",
+        "Curtis",
+        "Helena",
+        "Shaq",
+        "Tourette",
         "Gabriel",
-        "Gyokeres",
-        "Tottenham",
-        "Saka",
-        "Spence",
-        "Dragusin",
-        "Declan Rice",
-        "Trossard",
-        "Gary Neville",
-        "Mosquera"
+        "Lauren",
+        "Belle and Harrison",
+        "Robert Aramayo",
+        "I Swear"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 19:45:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 21:33:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Hellebuyck",
         "Puerto Vallarta",
-        "Spurs",
-        "Gyokeres",
-        "Olympic",
-        "#CANvsUSA",
-        "Makar",
         "El Mencho",
-        "Jack Hughes",
-        "Team USA",
-        "Tottenham"
+        "Hellebuyck",
+        "Mexique",
+        "CJNG",
+        "Spurs",
+        "Jalisco",
+        "Olympic",
+        "Cartel",
+        "Hughes",
+        "As a Canadian"
       ],
       "hashtags": [
         "#CANvsUSA",
         "#TOTARS",
-        "#COYG",
-        "#Arsenal"
+        "#COYG"
       ],
       "regular_topics": [
-        "Hellebuyck",
         "Puerto Vallarta",
-        "Spurs",
-        "Gyokeres",
-        "Olympic",
-        "Makar",
         "El Mencho",
-        "Jack Hughes",
-        "Team USA",
-        "Tottenham",
-        "Gaudreau"
+        "Hellebuyck",
+        "Mexique",
+        "CJNG",
+        "Spurs",
+        "Jalisco",
+        "Olympic",
+        "Cartel",
+        "Hughes",
+        "As a Canadian"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 19:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 21:24:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
         "#T20WorldCup",
         "South Africa",
+        "CJNG",
+        "El Mencho",
         "Spurs",
-        "Abhishek",
         "Axar",
+        "Jalisco",
+        "Abhishek",
         "Gambhir",
-        "Ahmedabad",
-        "Virat Kohli",
-        "#TOTARS",
-        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940"
+        "Ahmedabad"
       ],
       "hashtags": [
         "#INDvsSA",
@@ -143,54 +139,52 @@
       ],
       "regular_topics": [
         "South Africa",
+        "CJNG",
+        "El Mencho",
         "Spurs",
-        "Abhishek",
         "Axar",
+        "Jalisco",
+        "Abhishek",
         "Gambhir",
         "Ahmedabad",
         "Virat Kohli",
-        "Washington Sundar",
-        "CJNG",
-        "El Mencho",
-        "Sanju"
+        "Puerto Vallarta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 19:33:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 21:20:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
         "Tottenham",
-        "#TOTARS",
+        "Spurs",
         "Gyokeres",
+        "#TOTARS",
+        "El Mencho",
+        "CJNG",
         "#COYG",
         "Eberechi Eze",
-        "Trossard",
         "Mosquera",
-        "Declan Rice",
-        "North London",
-        "AC Milan"
+        "AC Milan",
+        "Gabriel"
       ],
       "hashtags": [
         "#TOTARS",
-        "#COYG",
-        "#NFOLIV",
-        "#PremierLeague"
+        "#COYG"
       ],
       "regular_topics": [
-        "Spurs",
         "Tottenham",
+        "Spurs",
         "Gyokeres",
+        "El Mencho",
+        "CJNG",
         "Eberechi Eze",
-        "Trossard",
         "Mosquera",
-        "Declan Rice",
-        "North London",
         "AC Milan",
-        "Spence",
-        "Cancelo"
+        "Gabriel",
+        "North London",
+        "Tomorrow is Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"

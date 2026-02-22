@@ -200,3 +200,39 @@ Example raw URL format:
 - `npm run start` - start production server.
 - `npm run lint` - lint codebase.
 
+
+## Post Optimizer Feature
+
+The app now includes an AI-powered post optimizer panel in `src/components/TwitterGrowthApp.tsx`.
+
+### Integration Architecture
+
+- API Layer: `src/app/api/optimize-post/route.ts` uses Vercel AI SDK `streamText()` with Anthropic Claude Sonnet 3.5.
+- Context Injection:
+- Backend loads current trend topics (`/api/trends` data source) and injects them into the optimizer prompt.
+- Prompt includes hook rewrite, contextual trend insertion, whitespace readability, and `<280` character constraint.
+- UI Component:
+- Input box for user draft.
+- `Boost Me` button that triggers streamed rewrite.
+- Side-by-side rendering of `Old Post` vs `Optimized Post` with `+42% Projected Reach` badge.
+
+### Required Environment Variables
+
+- `ANTHROPIC_API_KEY` (required) - API key for Anthropic Messages API.
+- `ANTHROPIC_MODEL` (optional) - defaults to `claude-3-5-sonnet-latest`.
+- `NEXT_PUBLIC_DEFAULT_PLAN` (optional) - set `free` or `pro` for default UI plan state.
+
+Example `.env.local`:
+
+```bash
+ANTHROPIC_API_KEY=your_key_here
+ANTHROPIC_MODEL=claude-3-5-sonnet-latest
+NEXT_PUBLIC_DEFAULT_PLAN=free
+```
+
+The optimizer route automatically injects the latest trends context from `data/trends_by_country.json` (or configured GitHub raw JSON in production) before requesting the rewrite.
+
+### Monetization Gate
+
+- Free users: can view trends but cannot use optimizer (`402` response from optimizer API).
+- Pro users ($19/mo): can use AI Post Optimizer and receive streamed rewrite output.

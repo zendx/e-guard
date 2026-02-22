@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Check, Copy, RefreshCw, TrendingUp } from "lucide-react";
+import { Check, Copy, RefreshCw, TrendingUp, WandSparkles } from "lucide-react";
 
 type TrendsApiCountry = {
   topics?: string[];
@@ -23,6 +23,9 @@ type ScanApiResponse = {
   stdout?: string;
   stderr?: string;
 };
+
+type TopicMode = "all" | "hashtags" | "regular";
+type UserPlan = "free" | "pro";
 
 const fallbackTrendsByCountry: Record<string, string[]> = {
   USA: [
@@ -53,7 +56,8 @@ const fallbackTrendsByCountry: Record<string, string[]> = {
   ],
 };
 
-type TopicMode = "all" | "hashtags" | "regular";
+const defaultPlan: UserPlan =
+  process.env.NEXT_PUBLIC_DEFAULT_PLAN === "pro" ? "pro" : "free";
 
 export default function TwitterGrowthApp() {
   const [allTrendsByCountry, setAllTrendsByCountry] = useState<
@@ -77,10 +81,18 @@ export default function TwitterGrowthApp() {
   const [isScanning, setIsScanning] = useState(false);
   const [copied, setCopied] = useState(false);
 
+  const [userPlan, setUserPlan] = useState<UserPlan>(defaultPlan);
+  const [userPost, setUserPost] = useState("");
+  const [optimizedPost, setOptimizedPost] = useState("");
+  const [isOptimizing, setIsOptimizing] = useState(false);
+  const [optimizeError, setOptimizeError] = useState<string | null>(null);
+  const [copiedOptimized, setCopiedOptimized] = useState(false);
+
   const countries = useMemo(
     () => Object.keys(allTrendsByCountry),
     [allTrendsByCountry],
   );
+
   const visibleTrends = useMemo(() => {
     if (topicMode === "hashtags") {
       return hashtagsByCountry[selectedCountry] ?? [];
@@ -96,6 +108,7 @@ export default function TwitterGrowthApp() {
     hashtagsByCountry,
     regularTrendsByCountry,
   ]);
+
   const trendString = useMemo(() => visibleTrends.join(" "), [visibleTrends]);
   const currentTimestamp = countryTimestamps[selectedCountry] ?? null;
 
@@ -203,6 +216,7 @@ export default function TwitterGrowthApp() {
     const interval = window.setInterval(() => {
       void loadTrends(mounted);
     }, 60000);
+
     return () => {
       mounted = false;
       window.clearInterval(interval);
@@ -236,6 +250,65 @@ export default function TwitterGrowthApp() {
     }
   };
 
+  const optimizePost = async () => {
+    if (!userPost.trim()) {
+      setOptimizeError("Write a post first.");
+      return;
+    }
+
+    setIsOptimizing(true);
+    setOptimizeError(null);
+    setOptimizedPost("");
+    setCopiedOptimized(false);
+
+    try {
+      const response = await fetch("/api/optimize-post", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          post: userPost,
+          country: selectedCountry,
+          mode: topicMode,
+          plan: userPlan,
+        }),
+      });
+
+      if (!response.ok) {
+        const errorJson = (await response.json().catch(() => null)) as
+          | { error?: string }
+          | null;
+        setOptimizeError(errorJson?.error ?? "Optimizer request failed.");
+        return;
+      }
+
+      if (!response.body) {
+        setOptimizeError("Streaming not available in this environment.");
+        return;
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      let streamed = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) {
+          break;
+        }
+
+        streamed += decoder.decode(value, { stream: true });
+        setOptimizedPost(streamed);
+      }
+
+      streamed += decoder.decode();
+      setOptimizedPost(streamed.trim());
+    } catch {
+      setOptimizeError("Could not reach optimizer API.");
+    } finally {
+      setIsOptimizing(false);
+    }
+  };
+
   const copyToClipboard = async () => {
     if (!trendString) {
       return;
@@ -243,6 +316,15 @@ export default function TwitterGrowthApp() {
     await navigator.clipboard.writeText(trendString);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
+  };
+
+  const copyOptimizedToClipboard = async () => {
+    if (!optimizedPost) {
+      return;
+    }
+    await navigator.clipboard.writeText(optimizedPost);
+    setCopiedOptimized(true);
+    setTimeout(() => setCopiedOptimized(false), 2000);
   };
 
   const shareToX = () => {
@@ -262,16 +344,14 @@ export default function TwitterGrowthApp() {
     <div className="relative flex min-h-screen flex-col items-center justify-center bg-[#0f1419] p-6 font-sans text-white">
       <div className="pointer-events-none absolute top-0 left-1/2 h-64 w-full max-w-2xl -translate-x-1/2 bg-blue-500/10 blur-[120px]" />
 
-      <div className="w-full max-w-xl rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
+      <div className="w-full max-w-3xl rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
         <div className="mb-8 flex items-center gap-3">
           <div className="rounded-lg bg-blue-500 p-2">
             <TrendingUp size={24} className="text-white" />
           </div>
           <div>
             <h1 className="text-2xl font-bold tracking-tight">Swave</h1>
-            <p className="text-sm text-gray-400">
-              Maximize your impressions instantly
-            </p>
+            <p className="text-sm text-gray-400">Maximize your impressions instantly</p>
           </div>
         </div>
 
@@ -296,9 +376,9 @@ export default function TwitterGrowthApp() {
             />
             {isScanning ? "Scanning..." : "Scan Fresh Topics"}
           </button>
-          {scanStatus ? (
-            <p className="mb-4 text-xs text-blue-300">{scanStatus}</p>
-          ) : null}
+
+          {scanStatus ? <p className="mb-4 text-xs text-blue-300">{scanStatus}</p> : null}
+
           <div className="mb-5 flex flex-wrap gap-2">
             {countries.map((country) => (
               <button
@@ -374,30 +454,26 @@ export default function TwitterGrowthApp() {
             {visibleTrends.length > 0 ? (
               visibleTrends.map((trend, index) => (
                 <span
-                  key={index}
+                  key={`${trend}-${index}`}
                   className="cursor-default rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-sm font-medium text-blue-300 transition-colors hover:bg-blue-500/20"
                 >
                   {trend}
                 </span>
               ))
             ) : (
-              <p className="text-sm text-gray-400">
-                No topics available yet for this country.
-              </p>
+              <p className="text-sm text-gray-400">No topics available yet for this country.</p>
             )}
           </div>
           {currentTimestamp ? (
-            <p className="mt-3 text-xs text-gray-500">
-              Source timestamp: {currentTimestamp}
-            </p>
+            <p className="mt-3 text-xs text-gray-500">Source timestamp: {currentTimestamp}</p>
           ) : null}
         </div>
 
-        <div className="grid grid-cols-2 gap-4">
+        <div className="mb-8 grid grid-cols-2 gap-4">
           <button
             onClick={copyToClipboard}
             disabled={visibleTrends.length === 0}
-            className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95"
+            className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
           >
             {copied ? <Check size={20} /> : <Copy size={20} />}
             {copied ? "Copied!" : "Copy Trends"}
@@ -419,11 +495,111 @@ export default function TwitterGrowthApp() {
           </button>
         </div>
 
+        <div className="rounded-2xl border border-white/10 bg-black/30 p-5">
+          <div className="mb-3 flex items-center justify-between gap-3">
+            <div className="flex items-center gap-2">
+              <WandSparkles size={18} className="text-blue-300" />
+              <h2 className="text-lg font-semibold text-white">AI Post Optimizer</h2>
+            </div>
+            <span className="rounded-full border border-emerald-400/30 bg-emerald-500/15 px-3 py-1 text-xs font-semibold text-emerald-200">
+              +42% Projected Reach
+            </span>
+          </div>
+
+          <p className="mb-4 text-xs text-gray-400">
+            Free users can view trends only. Pro users can click Boost Me for a streamed Claude rewrite.
+          </p>
+
+          <div className="mb-4 grid grid-cols-2 gap-2">
+            <button
+              onClick={() => setUserPlan("free")}
+              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                userPlan === "free"
+                  ? "border-slate-300/60 bg-slate-200/20 text-slate-100"
+                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+              }`}
+            >
+              Free Plan
+            </button>
+            <button
+              onClick={() => setUserPlan("pro")}
+              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                userPlan === "pro"
+                  ? "border-amber-300/70 bg-amber-300/20 text-amber-100"
+                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+              }`}
+            >
+              Pro Plan ($19/mo)
+            </button>
+          </div>
+
+          <textarea
+            value={userPost}
+            onChange={(event) => setUserPost(event.target.value)}
+            placeholder="Paste your draft post here..."
+            rows={5}
+            className="w-full resize-y rounded-xl border border-white/10 bg-[#0b1016] px-4 py-3 text-sm text-white outline-none ring-blue-400/40 placeholder:text-gray-500 focus:ring"
+          />
+
+          <div className="mt-3 mb-4 flex items-center justify-between">
+            <p className="text-xs text-gray-500">Draft length: {userPost.length} chars</p>
+            <p className="text-xs text-gray-500">
+              Trend context: {visibleTrends.slice(0, 3).join(" | ") || "none"}
+            </p>
+          </div>
+
+          <button
+            onClick={optimizePost}
+            disabled={isOptimizing || !userPost.trim()}
+            className="flex w-full items-center justify-center gap-2 rounded-xl border border-blue-400/35 bg-blue-500/20 px-4 py-3 text-sm font-semibold text-blue-100 transition-colors hover:bg-blue-500/30 disabled:cursor-not-allowed disabled:opacity-60"
+          >
+            <WandSparkles size={16} />
+            {isOptimizing ? "Boosting..." : "Boost Me"}
+          </button>
+
+          {optimizeError ? (
+            <p className="mt-3 rounded-lg border border-rose-400/30 bg-rose-500/10 px-3 py-2 text-xs text-rose-200">
+              {optimizeError}
+            </p>
+          ) : null}
+
+          <div className="mt-5 grid gap-3 md:grid-cols-2">
+            <div className="rounded-xl border border-white/10 bg-[#0e151d] p-4">
+              <p className="mb-2 text-xs font-semibold tracking-wide text-gray-400 uppercase">Old Post</p>
+              <p className="whitespace-pre-line text-sm text-gray-100">
+                {userPost.trim() || "Your original draft will appear here."}
+              </p>
+            </div>
+            <div className="rounded-xl border border-blue-400/30 bg-[#0f1a25] p-4">
+              <div className="mb-2 flex items-center justify-between gap-2">
+                <p className="text-xs font-semibold tracking-wide text-blue-300 uppercase">
+                  Optimized Post
+                </p>
+                <button
+                  onClick={copyOptimizedToClipboard}
+                  disabled={!optimizedPost}
+                  className="inline-flex items-center gap-1 rounded-md border border-white/15 bg-white/5 px-2.5 py-1 text-xs font-medium text-gray-200 hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-60"
+                >
+                  {copiedOptimized ? <Check size={14} /> : <Copy size={14} />}
+                  {copiedOptimized ? "Copied" : "Copy"}
+                </button>
+              </div>
+              <p className="whitespace-pre-line text-sm text-gray-100">
+                {optimizedPost || (isOptimizing ? "Streaming optimized rewrite..." : "Boosted post will stream here.")}
+              </p>
+              {optimizedPost ? (
+                <p className="mt-2 text-xs text-gray-500">{optimizedPost.length}/280</p>
+              ) : null}
+            </div>
+          </div>
+        </div>
+
         <p className="mt-6 text-center text-xs text-gray-500">
-          Adding trending tags can increase reach by up to 40%.
+          Adding relevant trends can increase reach by up to 40%.
           <br />
           Use responsibly to avoid spam filters.
         </p>
+
         {source || generatedAtUtc ? (
           <p className="mt-4 text-center text-xs text-gray-600">
             {source ? `Data source: ${source}` : ""}
