@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T17:16:15.365541+00:00",
+  "generated_at_utc": "2026-02-22T17:47:27.444857+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,81 +42,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 16:20:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 17:12:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TOTARS",
+        "Spurs",
         "Liverpool",
+        "Declan Rice",
         "Forest",
-        "#NFOLIV",
-        "Slot",
         "Gakpo",
+        "Slot",
+        "#NFOLIV",
         "Ekitike",
-        "Macca",
-        "Jones",
-        "Rio Ngumoha",
-        "Mac Allister",
-        "#SAFC"
+        "Gary Neville",
+        "Tottenham"
       ],
       "hashtags": [
+        "#TOTARS",
         "#NFOLIV",
         "#SAFC",
         "#wwfc",
-        "#NOTLIV",
-        "#swfc"
+        "#INDvsSA"
       ],
       "regular_topics": [
+        "Spurs",
         "Liverpool",
+        "Declan Rice",
         "Forest",
-        "Slot",
         "Gakpo",
+        "Slot",
         "Ekitike",
-        "Macca",
-        "Jones",
-        "Rio Ngumoha",
-        "Mac Allister",
-        "Wirtz",
-        "Souttar"
+        "Gary Neville",
+        "Tottenham",
+        "Livi",
+        "Macca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 16:18:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 17:09:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
         "#CANvsUSA",
-        "McDavid",
         "#Olympics2026",
+        "MacKinnon",
         "3 OT",
         "#TeamCanada",
         "Makar",
         "Jack Hughes",
+        "Toews",
         "Crosby",
-        "Team USA",
-        "Auston Matthews"
+        "Gaudreau"
       ],
       "hashtags": [
         "#CANvsUSA",
         "#Olympics2026",
         "#TeamCanada",
         "#bucciovertimechallenge",
-        "#Hockey",
-        "#GoldMedal",
-        "#NFOLIV",
         "#INDvsSA"
       ],
       "regular_topics": [
         "Hellebuyck",
-        "McDavid",
+        "MacKinnon",
         "3 OT",
         "Makar",
         "Jack Hughes",
+        "Toews",
         "Crosby",
+        "Gaudreau",
+        "Matthews",
         "Team USA",
-        "Auston Matthews",
-        "Congrats USA",
-        "noah schnapp",
-        "Gaudreau"
+        "Binnington"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
