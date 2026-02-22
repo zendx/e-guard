@@ -1,0 +1,41 @@
+name: Update Trends Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install scraper dependencies
+        run: pip install -r requirements-trends-scraper.txt
+
+      - name: Scrape latest trends
+        run: python scripts/scrape_trending_topics.py --output data/trends_by_country.json
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/trends_by_country.json
+          if git diff --cached --quiet; then
+            echo "No trends changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update trends data"
+          git push

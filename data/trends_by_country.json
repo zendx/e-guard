@@ -1,0 +1,209 @@
+{
+  "generated_at_utc": "2026-02-22T14:00:03.862328+00:00",
+  "source": "trends24.in (public web scrape)",
+  "countries": {
+    "USA": {
+      "slug": "united-states",
+      "timeline_timestamp": "Sun Feb 22 2026 13:16:17 GMT+0000 (Coordinated Universal Time)",
+      "topics": [
+        "#USAHockey",
+        "Good Sunday",
+        "Go USA",
+        "Muhammad Qasim",
+        "#sundayvibes",
+        "USA vs Canada",
+        "Greenland",
+        "Kurt Russell",
+        "Sidney Crosby",
+        "TSA PreCheck",
+        "#GoldMedalGame"
+      ],
+      "hashtags": [
+        "#USAHockey",
+        "#sundayvibes",
+        "#GoldMedalGame",
+        "#FreeBird",
+        "#blizzard"
+      ],
+      "regular_topics": [
+        "Good Sunday",
+        "Go USA",
+        "Muhammad Qasim",
+        "USA vs Canada",
+        "Greenland",
+        "Kurt Russell",
+        "Sidney Crosby",
+        "TSA PreCheck",
+        "Blessed Sunday",
+        "USA USA USA",
+        "Mike Eruzione"
+      ],
+      "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
+      "source_url": "https://trends24.in/united-states/"
+    },
+    "UK": {
+      "slug": "united-kingdom",
+      "timeline_timestamp": "Sun Feb 22 2026 13:42:25 GMT+0000 (Coordinated Universal Time)",
+      "topics": [
+        "Kalvin Phillips",
+        "#swfc",
+        "Sri Lanka",
+        "Jacks",
+        "#SHUSHW",
+        "sheffield wednesday",
+        "Zoe Atkin",
+        "#bbclaurak",
+        "Hamer",
+        "Greenland",
+        "Bamford"
+      ],
+      "hashtags": [
+        "#swfc",
+        "#SHUSHW",
+        "#bbclaurak",
+        "#SLvENG",
+        "#ENGvSL",
+        "#sundayvibes",
+        "#sufc",
+        "#TOTARS",
+        "#SundayMorning",
+        "#SundayYellow",
+        "#ShakespeareSunday"
+      ],
+      "regular_topics": [
+        "Kalvin Phillips",
+        "Sri Lanka",
+        "Jacks",
+        "sheffield wednesday",
+        "Zoe Atkin",
+        "Hamer",
+        "Greenland",
+        "Bamford",
+        "Wayne",
+        "Kenneth Williams",
+        "North London Derby"
+      ],
+      "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
+      "source_url": "https://trends24.in/united-kingdom/"
+    },
+    "Canada": {
+      "slug": "canada",
+      "timeline_timestamp": "Sun Feb 22 2026 13:40:11 GMT+0000 (Coordinated Universal Time)",
+      "topics": [
+        "Tom Wilson",
+        "Toews",
+        "Boldy",
+        "Canada",
+        "Crosby",
+        "noah schnapp",
+        "#CANvsUSA",
+        "Radko Gudas",
+        "Larkin",
+        "Alabama",
+        "Tyson Barrie"
+      ],
+      "hashtags": [
+        "#CANvsUSA",
+        "#UFCHouston",
+        "#MilanoCortina2026",
+        "#CFMTL",
+        "#tfclive"
+      ],
+      "regular_topics": [
+        "Tom Wilson",
+        "Toews",
+        "Boldy",
+        "Canada",
+        "Crosby",
+        "noah schnapp",
+        "Radko Gudas",
+        "Larkin",
+        "Alabama",
+        "Tyson Barrie",
+        "Ron MacLean"
+      ],
+      "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
+      "source_url": "https://trends24.in/canada/"
+    },
+    "India": {
+      "slug": "india",
+      "timeline_timestamp": "Sun Feb 22 2026 13:28:14 GMT+0000 (Coordinated Universal Time)",
+      "topics": [
+        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
+        "Baakhabar Sant Rampal Ji",
+        "#INDvsSA",
+        "#SLvsENG",
+        "#BCDElections2026",
+        "Will Jacks",
+        "England",
+        "Axar Patel",
+        "\u0939\u091c\u0930\u0924 \u092e\u0941\u0939\u092e\u094d\u092e\u0926",
+        "#RishabShettysJAIHANUMAN",
+        "\u0915\u092c\u0940\u0930 \u0905\u0932\u094d\u0932\u093e\u0939"
+      ],
+      "hashtags": [
+        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
+        "#INDvsSA",
+        "#SLvsENG",
+        "#BCDElections2026",
+        "#RishabShettysJAIHANUMAN"
+      ],
+      "regular_topics": [
+        "Baakhabar Sant Rampal Ji",
+        "Will Jacks",
+        "England",
+        "Axar Patel",
+        "\u0939\u091c\u0930\u0924 \u092e\u0941\u0939\u092e\u094d\u092e\u0926",
+        "\u0915\u092c\u0940\u0930 \u0905\u0932\u094d\u0932\u093e\u0939",
+        "South Africa",
+        "Washington Sundar",
+        "\u0928\u092c\u0940 \u092e\u0941\u0939\u092e\u094d\u092e\u0926",
+        "Phil Salt",
+        "Tyson"
+      ],
+      "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
+      "source_url": "https://trends24.in/india/"
+    },
+    "Nigeria": {
+      "slug": "nigeria",
+      "timeline_timestamp": "Sun Feb 22 2026 13:24:14 GMT+0000 (Coordinated Universal Time)",
+      "topics": [
+        "Tottenham",
+        "Ezra",
+        "#WinWith1v1Africa",
+        "Simi",
+        "Spurs",
+        "He's 4",
+        "Bella",
+        "#OneByZupaNova",
+        "NDLEA",
+        "Atiku",
+        "Happy Birthday Lex"
+      ],
+      "hashtags": [
+        "#WinWith1v1Africa",
+        "#OneByZupaNova",
+        "#TOTARS",
+        "#sundayvibes",
+        "#TosAlphaFund",
+        "#SundayService",
+        "#Probux"
+      ],
+      "regular_topics": [
+        "Tottenham",
+        "Ezra",
+        "Simi",
+        "Spurs",
+        "He's 4",
+        "Bella",
+        "NDLEA",
+        "Atiku",
+        "Happy Birthday Lex",
+        "Trenches Ambassador",
+        "Bowen"
+      ],
+      "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
+      "source_url": "https://trends24.in/nigeria/"
+    }
+  }
+}
