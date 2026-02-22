@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T22:47:24.147876+00:00",
+  "generated_at_utc": "2026-02-22T23:06:48.113177+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -82,37 +82,36 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 21:33:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:27:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Puerto Vallarta",
         "El Mencho",
-        "Hellebuyck",
         "Mexique",
-        "CJNG",
-        "Spurs",
+        "Tourette",
+        "Cartels",
+        "McDavid",
         "Jalisco",
+        "CJNG",
         "Olympic",
-        "Cartel",
-        "Hughes",
-        "As a Canadian"
+        "As a Canadian",
+        "Kash Patel"
       ],
       "hashtags": [
         "#CANvsUSA",
-        "#TOTARS",
-        "#COYG"
+        "#TOTARS"
       ],
       "regular_topics": [
         "Puerto Vallarta",
         "El Mencho",
-        "Hellebuyck",
         "Mexique",
-        "CJNG",
-        "Spurs",
+        "Tourette",
+        "Cartels",
+        "McDavid",
         "Jalisco",
+        "CJNG",
         "Olympic",
-        "Cartel",
-        "Hughes",
-        "As a Canadian"
+        "As a Canadian",
+        "Kash Patel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
