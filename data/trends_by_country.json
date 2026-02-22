@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-02-22T19:20:58.595426+00:00",
+  "generated_at_utc": "2026-02-22T19:42:48.853082+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 17:42:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:36:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Jack Hughes",
         "#USAHockey",
-        "#Olympics2026",
-        "Connor Hellebuyck",
         "Gold",
-        "USA USA USA",
-        "McDavid",
-        "#bucciovertimechallenge",
+        "Team USA",
+        "Connor Hellebuyck",
         "Canadians",
-        "Free Bird"
+        "USA USA USA",
+        "El Mencho",
+        "Cavs",
+        "MacKinnon"
       ],
       "hashtags": [
         "#USAHockey",
-        "#Olympics2026",
         "#bucciovertimechallenge",
         "#TOTARS"
       ],
       "regular_topics": [
         "Canada",
         "Jack Hughes",
-        "Connor Hellebuyck",
         "Gold",
-        "USA USA USA",
-        "McDavid",
+        "Team USA",
+        "Connor Hellebuyck",
         "Canadians",
-        "Free Bird",
-        "Go USA",
+        "USA USA USA",
+        "El Mencho",
+        "Cavs",
         "MacKinnon",
-        "Mike Tirico"
+        "Mar-a-Lago"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -81,38 +80,38 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 18:54:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:03:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
-        "Spurs",
         "#CANvsUSA",
+        "MacKinnon",
+        "#Olympics2026",
         "Makar",
-        "Gyokeres",
         "Jack Hughes",
-        "Olympic",
-        "Tottenham",
+        "3 OT",
         "Team Canada",
+        "Crosby",
         "Team USA",
-        "3 OT"
+        "Spurs"
       ],
       "hashtags": [
         "#CANvsUSA",
+        "#Olympics2026",
         "#TOTARS",
-        "#INDvsSA",
-        "#COYG"
+        "#INDvsSA"
       ],
       "regular_topics": [
         "Hellebuyck",
-        "Spurs",
+        "MacKinnon",
         "Makar",
-        "Gyokeres",
         "Jack Hughes",
-        "Olympic",
-        "Tottenham",
-        "Team Canada",
-        "Team USA",
         "3 OT",
-        "Puerto Vallarta"
+        "Team Canada",
+        "Crosby",
+        "Team USA",
+        "Spurs",
+        "Gaudreau",
+        "Matthews"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -158,24 +157,25 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 18:40:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 19:33:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "Tottenham",
         "#TOTARS",
         "Gyokeres",
+        "#COYG",
         "Eberechi Eze",
         "Trossard",
+        "Mosquera",
         "Declan Rice",
-        "Cancelo",
-        "Fermin",
-        "Kolo Muani",
-        "Xavi Simons"
+        "North London",
+        "AC Milan"
       ],
       "hashtags": [
         "#TOTARS",
         "#COYG",
-        "#NFOLIV"
+        "#NFOLIV",
+        "#PremierLeague"
       ],
       "regular_topics": [
         "Spurs",
@@ -183,12 +183,12 @@
         "Gyokeres",
         "Eberechi Eze",
         "Trossard",
+        "Mosquera",
         "Declan Rice",
-        "Cancelo",
-        "Fermin",
-        "Kolo Muani",
-        "Xavi Simons",
-        "Spence"
+        "North London",
+        "AC Milan",
+        "Spence",
+        "Cancelo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
