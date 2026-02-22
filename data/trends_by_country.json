@@ -1,114 +1,114 @@
 {
-  "generated_at_utc": "2026-02-22T23:14:23.972075+00:00",
+  "generated_at_utc": "2026-02-22T23:44:59.425377+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 22:06:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
+        "Tourette",
         "El Mencho",
         "Puerto Vallarta",
         "Canadians",
-        "Jalisco",
-        "Tourette",
+        "Larson",
         "M\u00e9xico",
+        "Jalisco",
+        "CJNG",
         "Olympics",
-        "Jack Hughes",
-        "Mobley",
-        "Cavs"
+        "Delroy"
       ],
       "hashtags": [
+        "#NASCAR",
         "#Autotrader400",
         "#ClosingCeremony"
       ],
       "regular_topics": [
         "Canada",
+        "Tourette",
         "El Mencho",
         "Puerto Vallarta",
         "Canadians",
-        "Jalisco",
-        "Tourette",
+        "Larson",
         "M\u00e9xico",
+        "Jalisco",
+        "CJNG",
         "Olympics",
-        "Jack Hughes",
-        "Mobley",
-        "Cavs"
+        "Delroy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 22:28:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 23:20:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Carrington",
-        "Scott",
-        "Charlie",
+        "Belle",
         "Tourette",
-        "Spurs",
-        "Lauren",
+        "Scott",
+        "Carrington",
+        "Charlie",
         "Ciaran",
+        "Lauren",
+        "Spurs",
         "#BAFTAs",
         "Curtis",
-        "Helena",
         "#LoveIslandUK"
       ],
       "hashtags": [
         "#BAFTAs",
         "#LoveIslandUK",
         "#loveislandallstar",
-        "#ClosingCeremony",
-        "#forgotten80s"
+        "#forgotten80s",
+        "#ClosingCeremony"
       ],
       "regular_topics": [
-        "Carrington",
-        "Scott",
-        "Charlie",
+        "Belle",
         "Tourette",
-        "Spurs",
-        "Lauren",
+        "Scott",
+        "Carrington",
+        "Charlie",
         "Ciaran",
+        "Lauren",
+        "Spurs",
         "Curtis",
         "Helena",
-        "Shaq",
-        "Belle and Harrison"
+        "Shaq"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 22:27:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 23:18:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Puerto Vallarta",
-        "El Mencho",
-        "Mexique",
         "Tourette",
+        "El Mencho",
         "Cartels",
-        "McDavid",
-        "Jalisco",
+        "Mexique",
         "CJNG",
-        "Olympic",
+        "Jalisco",
+        "McDavid",
+        "The Mexican",
         "As a Canadian",
-        "Kash Patel"
+        "Hellebuyck"
       ],
       "hashtags": [
-        "#CANvsUSA",
-        "#TOTARS"
+        "#nlwx"
       ],
       "regular_topics": [
         "Puerto Vallarta",
-        "El Mencho",
-        "Mexique",
         "Tourette",
+        "El Mencho",
         "Cartels",
-        "McDavid",
-        "Jalisco",
+        "Mexique",
         "CJNG",
-        "Olympic",
+        "Jalisco",
+        "McDavid",
+        "The Mexican",
         "As a Canadian",
-        "Kash Patel"
+        "Hellebuyck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
