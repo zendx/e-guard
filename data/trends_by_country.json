@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T17:47:27.444857+00:00",
+  "generated_at_utc": "2026-02-22T18:18:05.610847+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,158 +42,153 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 17:12:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:04:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TOTARS",
         "Spurs",
-        "Liverpool",
+        "Gabriel",
+        "#TOTARS",
         "Declan Rice",
-        "Forest",
-        "Gakpo",
-        "Slot",
-        "#NFOLIV",
-        "Ekitike",
+        "Gyokeres",
+        "Tottenham",
+        "Trossard",
         "Gary Neville",
-        "Tottenham"
+        "Liverpool",
+        "Dragusin",
+        "Kolo Muani"
       ],
       "hashtags": [
         "#TOTARS",
         "#NFOLIV",
+        "#NFFC",
         "#SAFC",
-        "#wwfc",
-        "#INDvsSA"
+        "#COYS"
       ],
       "regular_topics": [
         "Spurs",
-        "Liverpool",
+        "Gabriel",
         "Declan Rice",
-        "Forest",
-        "Gakpo",
-        "Slot",
-        "Ekitike",
-        "Gary Neville",
+        "Gyokeres",
         "Tottenham",
-        "Livi",
-        "Macca"
+        "Trossard",
+        "Gary Neville",
+        "Liverpool",
+        "Dragusin",
+        "Kolo Muani",
+        "Vicario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 17:09:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:03:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
         "#CANvsUSA",
-        "#Olympics2026",
         "MacKinnon",
-        "3 OT",
-        "#TeamCanada",
+        "#Olympics2026",
         "Makar",
         "Jack Hughes",
-        "Toews",
+        "3 OT",
+        "Team Canada",
         "Crosby",
-        "Gaudreau"
+        "Team USA",
+        "Spurs"
       ],
       "hashtags": [
         "#CANvsUSA",
         "#Olympics2026",
-        "#TeamCanada",
-        "#bucciovertimechallenge",
+        "#TOTARS",
         "#INDvsSA"
       ],
       "regular_topics": [
         "Hellebuyck",
         "MacKinnon",
-        "3 OT",
         "Makar",
         "Jack Hughes",
-        "Toews",
+        "3 OT",
+        "Team Canada",
         "Crosby",
-        "Gaudreau",
-        "Matthews",
         "Team USA",
-        "Binnington"
+        "Spurs",
+        "Gaudreau",
+        "Matthews"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 17:01:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 17:52:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
         "#T20WorldCup",
-        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
-        "Baakhabar Sant Rampal Ji",
         "South Africa",
         "Abhishek",
         "Axar",
-        "Washington Sundar",
+        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
         "Gambhir",
-        "Dube",
-        "Hardik"
+        "Baakhabar Sant Rampal Ji",
+        "Ahmedabad",
+        "Washington Sundar",
+        "Virat Kohli"
       ],
       "hashtags": [
         "#INDvsSA",
         "#T20WorldCup",
         "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
-        "#IndiavsSA",
-        "#Virosh",
         "#AskAakash",
-        "#ViratKohli\ud80c\udcf5",
-        "#NFOLIV"
+        "#Virosh"
       ],
       "regular_topics": [
-        "Baakhabar Sant Rampal Ji",
         "South Africa",
         "Abhishek",
         "Axar",
-        "Washington Sundar",
         "Gambhir",
+        "Baakhabar Sant Rampal Ji",
+        "Ahmedabad",
+        "Washington Sundar",
+        "Virat Kohli",
         "Dube",
         "Hardik",
-        "Miller",
-        "Bumrah",
-        "Ahmedabad"
+        "Miller"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 16:56:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 17:48:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Liverpool",
-        "Cancelo",
-        "Tottenham",
-        "Ezra",
-        "Simi",
         "#TOTARS",
-        "Slot",
-        "#NFOLIV",
-        "Balde",
+        "Tottenham",
         "Spurs",
-        "Mac Allister"
+        "Cancelo",
+        "Declan Rice",
+        "Fermin",
+        "Liverpool",
+        "Kolo Muani",
+        "Trossard",
+        "Gyokeres",
+        "Ezra"
       ],
       "hashtags": [
         "#TOTARS",
         "#NFOLIV",
-        "#NPFL26",
-        "#Probux"
+        "#NPFL26"
       ],
       "regular_topics": [
-        "Liverpool",
-        "Cancelo",
         "Tottenham",
-        "Ezra",
-        "Simi",
-        "Slot",
-        "Balde",
         "Spurs",
-        "Mac Allister",
-        "Nottingham Forest",
-        "Gakpo"
+        "Cancelo",
+        "Declan Rice",
+        "Fermin",
+        "Liverpool",
+        "Kolo Muani",
+        "Trossard",
+        "Gyokeres",
+        "Ezra",
+        "Balde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
