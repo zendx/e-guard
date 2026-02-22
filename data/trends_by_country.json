@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T14:26:23.305081+00:00",
+  "generated_at_utc": "2026-02-22T14:48:49.634907+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,84 +43,79 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 13:42:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 14:33:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kalvin Phillips",
+        "Wirtz",
         "#swfc",
+        "Jones",
+        "#NFOLIV",
+        "Sheffield Wednesday",
+        "Kalvin Phillips",
+        "Gakpo",
+        "Anthony Taylor",
         "Sri Lanka",
-        "Jacks",
-        "#SHUSHW",
-        "sheffield wednesday",
-        "Zoe Atkin",
-        "#bbclaurak",
-        "Hamer",
-        "Greenland",
-        "Bamford"
+        "#sufc",
+        "Jacks"
       ],
       "hashtags": [
         "#swfc",
-        "#SHUSHW",
-        "#bbclaurak",
-        "#SLvENG",
-        "#ENGvSL",
-        "#sundayvibes",
+        "#NFOLIV",
         "#sufc",
-        "#TOTARS",
-        "#SundayMorning",
-        "#SundayYellow",
-        "#ShakespeareSunday"
+        "#SHUSHW",
+        "#twitterblades"
       ],
       "regular_topics": [
+        "Wirtz",
+        "Jones",
+        "Sheffield Wednesday",
         "Kalvin Phillips",
+        "Gakpo",
+        "Anthony Taylor",
         "Sri Lanka",
         "Jacks",
-        "sheffield wednesday",
-        "Zoe Atkin",
-        "Hamer",
-        "Greenland",
-        "Bamford",
-        "Wayne",
-        "Kenneth Williams",
-        "North London Derby"
+        "Gomez",
+        "Peck",
+        "Elliot Anderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 13:40:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 14:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tom Wilson",
         "Toews",
-        "Boldy",
-        "Canada",
-        "Crosby",
-        "noah schnapp",
+        "Marchand",
+        "#TeamCanada",
+        "#Olympics2026",
         "#CANvsUSA",
-        "Radko Gudas",
-        "Larkin",
-        "Alabama",
-        "Tyson Barrie"
+        "Boldy",
+        "Tom Wilson",
+        "Hellebuyck",
+        "Go Canada Go",
+        "Crosby",
+        "Binnington"
       ],
       "hashtags": [
+        "#TeamCanada",
+        "#Olympics2026",
         "#CANvsUSA",
-        "#UFCHouston",
-        "#MilanoCortina2026",
-        "#CFMTL",
-        "#tfclive"
+        "#GoldMedalGame",
+        "#Hockey",
+        "#CanadaVsUSA"
       ],
       "regular_topics": [
-        "Tom Wilson",
         "Toews",
+        "Marchand",
         "Boldy",
-        "Canada",
+        "Tom Wilson",
+        "Hellebuyck",
+        "Go Canada Go",
         "Crosby",
+        "Binnington",
+        "Theodore",
         "noah schnapp",
-        "Radko Gudas",
-        "Larkin",
-        "Alabama",
-        "Tyson Barrie",
-        "Ron MacLean"
+        "Doughty"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
