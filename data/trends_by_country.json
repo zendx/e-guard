@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-02-22T18:18:05.610847+00:00",
+  "generated_at_utc": "2026-02-22T18:58:00.246519+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 16:51:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 17:42:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "#USAHockey",
         "Jack Hughes",
+        "#USAHockey",
         "#Olympics2026",
         "Connor Hellebuyck",
         "Gold",
         "USA USA USA",
-        "#bucciovertimechallenge",
         "McDavid",
-        "PLAY FREE BIRD",
-        "Mike Tirico"
+        "#bucciovertimechallenge",
+        "Canadians",
+        "Free Bird"
       ],
       "hashtags": [
         "#USAHockey",
         "#Olympics2026",
         "#bucciovertimechallenge",
-        "#USAvsCAN"
+        "#TOTARS"
       ],
       "regular_topics": [
         "Canada",
@@ -31,11 +31,11 @@
         "Gold",
         "USA USA USA",
         "McDavid",
-        "PLAY FREE BIRD",
-        "Mike Tirico",
-        "Go USA",
         "Canadians",
-        "MacKinnon"
+        "Free Bird",
+        "Go USA",
+        "MacKinnon",
+        "Mike Tirico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -119,76 +119,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 17:52:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:44:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
         "#T20WorldCup",
         "South Africa",
+        "Spurs",
         "Abhishek",
         "Axar",
-        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
         "Gambhir",
-        "Baakhabar Sant Rampal Ji",
+        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
         "Ahmedabad",
-        "Washington Sundar",
-        "Virat Kohli"
+        "Virat Kohli",
+        "Baakhabar Sant Rampal Ji"
       ],
       "hashtags": [
         "#INDvsSA",
         "#T20WorldCup",
         "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
-        "#AskAakash",
+        "#TOTARS",
         "#Virosh"
       ],
       "regular_topics": [
         "South Africa",
+        "Spurs",
         "Abhishek",
         "Axar",
         "Gambhir",
-        "Baakhabar Sant Rampal Ji",
         "Ahmedabad",
-        "Washington Sundar",
         "Virat Kohli",
-        "Dube",
-        "Hardik",
-        "Miller"
+        "Baakhabar Sant Rampal Ji",
+        "Washington Sundar",
+        "Team India",
+        "Surya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 17:48:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 18:40:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TOTARS",
-        "Tottenham",
         "Spurs",
-        "Cancelo",
-        "Declan Rice",
-        "Fermin",
-        "Liverpool",
-        "Kolo Muani",
-        "Trossard",
+        "Tottenham",
+        "#TOTARS",
         "Gyokeres",
-        "Ezra"
+        "Eberechi Eze",
+        "Trossard",
+        "Declan Rice",
+        "Cancelo",
+        "Fermin",
+        "Kolo Muani",
+        "Xavi Simons"
       ],
       "hashtags": [
         "#TOTARS",
-        "#NFOLIV",
-        "#NPFL26"
+        "#COYG",
+        "#NFOLIV"
       ],
       "regular_topics": [
-        "Tottenham",
         "Spurs",
-        "Cancelo",
-        "Declan Rice",
-        "Fermin",
-        "Liverpool",
-        "Kolo Muani",
-        "Trossard",
+        "Tottenham",
         "Gyokeres",
-        "Ezra",
-        "Balde"
+        "Eberechi Eze",
+        "Trossard",
+        "Declan Rice",
+        "Cancelo",
+        "Fermin",
+        "Kolo Muani",
+        "Xavi Simons",
+        "Spence"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
