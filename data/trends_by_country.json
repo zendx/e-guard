@@ -1,78 +1,81 @@
 {
-  "generated_at_utc": "2026-02-22T23:00:54.318231+00:00",
+  "generated_at_utc": "2026-02-22T22:47:24.147876+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 22:06:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 21:15:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "El Mencho",
         "Puerto Vallarta",
-        "Canadians",
         "Jalisco",
-        "Tourette",
-        "M\u00e9xico",
-        "Olympics",
+        "Canadians",
         "Jack Hughes",
+        "M\u00e9xico",
         "Mobley",
-        "Cavs"
+        "Olympics",
+        "Cavs",
+        "Gold"
       ],
       "hashtags": [
+        "#D2Day",
+        "#MakeItYours",
         "#Autotrader400",
-        "#ClosingCeremony"
+        "#ClosingCeremony",
+        "#ThunderUp"
       ],
       "regular_topics": [
         "Canada",
         "El Mencho",
         "Puerto Vallarta",
-        "Canadians",
         "Jalisco",
-        "Tourette",
-        "M\u00e9xico",
-        "Olympics",
+        "Canadians",
         "Jack Hughes",
+        "M\u00e9xico",
         "Mobley",
-        "Cavs"
+        "Olympics",
+        "Cavs",
+        "Gold"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 21:36:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:28:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Carrington",
+        "Scott",
         "Charlie",
+        "Tourette",
         "Spurs",
+        "Lauren",
+        "Ciaran",
         "#BAFTAs",
         "Curtis",
         "Helena",
-        "Shaq",
-        "Tourette",
-        "Gabriel",
-        "Lauren",
-        "Belle and Harrison",
-        "Robert Aramayo"
+        "#LoveIslandUK"
       ],
       "hashtags": [
         "#BAFTAs",
-        "#TOTARS",
+        "#LoveIslandUK",
+        "#loveislandallstar",
         "#ClosingCeremony",
-        "#forgotten80s",
-        "#whowantstobeamillionaire"
+        "#forgotten80s"
       ],
       "regular_topics": [
+        "Carrington",
+        "Scott",
         "Charlie",
+        "Tourette",
         "Spurs",
+        "Lauren",
+        "Ciaran",
         "Curtis",
         "Helena",
         "Shaq",
-        "Tourette",
-        "Gabriel",
-        "Lauren",
-        "Belle and Harrison",
-        "Robert Aramayo",
-        "I Swear"
+        "Belle and Harrison"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -116,75 +119,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 21:24:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:16:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
         "#T20WorldCup",
-        "South Africa",
-        "CJNG",
         "El Mencho",
+        "CJNG",
+        "South Africa",
         "Spurs",
         "Axar",
         "Jalisco",
         "Abhishek",
-        "Gambhir",
-        "Ahmedabad"
+        "Puerto Vallarta",
+        "Gambhir"
       ],
       "hashtags": [
         "#INDvsSA",
         "#T20WorldCup",
-        "#TOTARS",
         "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
-        "#Virosh"
+        "#Virosh",
+        "#BAFTA"
       ],
       "regular_topics": [
-        "South Africa",
-        "CJNG",
         "El Mencho",
+        "CJNG",
+        "South Africa",
         "Spurs",
         "Axar",
         "Jalisco",
         "Abhishek",
+        "Puerto Vallarta",
         "Gambhir",
-        "Ahmedabad",
-        "Virat Kohli",
-        "Puerto Vallarta"
+        "Tilak",
+        "Virat Kohli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 21:20:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 22:12:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "El Mencho",
         "Tottenham",
         "Spurs",
+        "CJNG",
         "Gyokeres",
         "#TOTARS",
-        "El Mencho",
-        "CJNG",
+        "Tomorrow is Monday",
         "#COYG",
+        "Jalisco",
         "Eberechi Eze",
-        "Mosquera",
-        "AC Milan",
-        "Gabriel"
+        "Puerto Vallarta"
       ],
       "hashtags": [
         "#TOTARS",
         "#COYG"
       ],
       "regular_topics": [
+        "El Mencho",
         "Tottenham",
         "Spurs",
-        "Gyokeres",
-        "El Mencho",
         "CJNG",
+        "Gyokeres",
+        "Tomorrow is Monday",
+        "Jalisco",
         "Eberechi Eze",
+        "Puerto Vallarta",
         "Mosquera",
-        "AC Milan",
-        "Gabriel",
-        "North London",
-        "Tomorrow is Monday"
+        "Kcee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
