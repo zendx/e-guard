@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-02-23T10:37:52.667165+00:00",
+  "generated_at_utc": "2026-02-23T10:53:17.589852+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 10:15:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 09:21:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
-        "#GirlRulesSeries",
         "Kash",
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
-        "Good Monday",
         "#LCDLF6",
-        "8 OUT NOW",
-        "jaemin",
-        "960 SAT",
         "#AKOTSK",
-        "#nolimit"
+        "960 SAT",
+        "#GirlRulesSeries",
+        "#nolimit",
+        "#teenagegirls",
+        "FBI Director",
+        "Oriana",
+        "Maekar"
       ],
       "hashtags": [
-        "#GirlRulesSeries",
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
         "#LCDLF6",
         "#AKOTSK",
-        "#nolimit"
+        "#GirlRulesSeries",
+        "#nolimit",
+        "#teenagegirls"
       ],
       "regular_topics": [
         "Tourette",
         "Kash",
-        "Good Monday",
-        "8 OUT NOW",
-        "jaemin",
         "960 SAT",
-        "Fear God",
         "FBI Director",
         "Oriana",
         "Maekar",
-        "Cartels"
+        "Claressa",
+        "Cartels",
+        "Horacio",
+        "El Mencho",
+        "BAFTA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 09:43:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 10:34:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
         "Spurs",
         "#TOTARS",
-        "#BAFTAs",
+        "BAFTAs",
+        "#jeremyvine",
+        "John Davidson",
         "Gabriel",
         "Tottenham",
-        "John Davidson",
         "#NFOLIV",
-        "Gyokeres",
         "#MondayMotivation",
-        "I Swear"
+        "Gyokeres"
       ],
       "hashtags": [
         "#TOTARS",
-        "#BAFTAs",
+        "#jeremyvine",
         "#NFOLIV",
         "#MondayMotivation",
-        "#River"
+        "#thismorning"
       ],
       "regular_topics": [
         "Tourette",
         "Spurs",
+        "BAFTAs",
+        "John Davidson",
         "Gabriel",
         "Tottenham",
-        "John Davidson",
         "Gyokeres",
         "I Swear",
+        "Martin Keown",
         "Arsenal",
-        "Gakpo",
-        "Carrington",
-        "Clacton"
+        "Gakpo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 09:39:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 10:32:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Hellebuyck",
