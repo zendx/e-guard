@@ -1,201 +1,201 @@
 {
-  "generated_at_utc": "2026-02-23T17:52:12.659625+00:00",
+  "generated_at_utc": "2026-02-23T18:45:14.849303+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 16:18:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 17:09:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kash",
         "Tourette",
         "Yoko Taro",
+        "#SpaceMarine2",
         "Angel Families",
-        "Good Monday",
         "Judge Cannon",
         "Jack Smith",
-        "Evangelion",
+        "Gavin",
         "960 SAT",
-        "#MondayMotivation",
-        "#MondayVibes"
+        "Evangelion",
+        "#MondayMotivation"
       ],
       "hashtags": [
+        "#SpaceMarine2",
         "#MondayMotivation",
         "#MondayVibes",
-        "#SpaceMarine2",
         "#blizzard",
-        "#SiEresShowseraMCM"
+        "#\u0e23\u0e32\u0e04\u0e35GALA"
       ],
       "regular_topics": [
         "Kash",
         "Tourette",
         "Yoko Taro",
         "Angel Families",
-        "Good Monday",
         "Judge Cannon",
         "Jack Smith",
-        "Evangelion",
+        "Gavin",
         "960 SAT",
-        "Gavin Newsom",
-        "BAFTA"
+        "Evangelion",
+        "FBI Director",
+        "Good Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 16:40:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 18:24:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
+        "Peter Mandelson",
+        "#TheChase",
+        "Mandy",
         "Shadow Home Secretary",
         "John Davidson",
-        "Phil Neville",
-        "Martin Lewis",
-        "West Indies",
-        "Urdu",
-        "Kemi",
         "Jamie Foxx",
-        "BAFTA",
-        "Keown"
+        "#SpaceMarine2",
+        "Urdu",
+        "#tippingpoint",
+        "Martin Lewis"
       ],
       "hashtags": [
-        "#politicslive",
-        "#thismorning",
-        "#MondayVibes",
-        "#MondayMotivation"
+        "#TheChase",
+        "#SpaceMarine2",
+        "#tippingpoint",
+        "#WWE2K26",
+        "#SteamNextFest",
+        "#EVEMUN"
       ],
       "regular_topics": [
         "Tourette",
+        "Peter Mandelson",
+        "Mandy",
         "Shadow Home Secretary",
         "John Davidson",
-        "Phil Neville",
-        "Martin Lewis",
-        "West Indies",
-        "Urdu",
-        "Kemi",
         "Jamie Foxx",
-        "BAFTA",
-        "Keown"
+        "Urdu",
+        "Martin Lewis",
+        "Kemi",
+        "West Indies",
+        "Nuns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 16:39:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 18:21:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Hellebuyck",
         "Puerto Vallarta",
         "Tourette",
-        "#canvsusa",
-        "Makar",
+        "McDavid",
         "El Mencho",
+        "#CANVSUSA",
         "Jack Hughes",
-        "Toews",
-        "MAID",
-        "Team USA"
+        "Makar",
+        "Ford",
+        "MAID"
       ],
       "hashtags": [
-        "#canvsusa",
+        "#CANVSUSA",
         "#SpaceMarine2",
-        "#MondayMotivation",
         "#\u0e23\u0e32\u0e04\u0e35GALA",
-        "#AKOTSK"
+        "#RHOP"
       ],
       "regular_topics": [
         "Canada",
         "Hellebuyck",
         "Puerto Vallarta",
         "Tourette",
-        "Makar",
+        "McDavid",
         "El Mencho",
         "Jack Hughes",
-        "Toews",
+        "Makar",
+        "Ford",
         "MAID",
-        "Team USA",
-        "As a Canadian"
+        "Kash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Feb 23 2026 17:21:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 18:15:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WIvsZIM",
-        "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
         "West Indies",
+        "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
         "5Days Left For Bodh Diwas",
         "Zimbabwe",
-        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
+        "Ranchi",
+        "#AirAmbulance",
+        "#PlaneCrash",
+        "Chatra",
         "Brad Evans",
-        "#DontMessWithSubedaar",
-        "Shimron Hetmyer",
-        "Satlok",
-        "Powell"
+        "Shimron Hetmyer"
       ],
       "hashtags": [
         "#WIvsZIM",
         "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
-        "#DontMessWithSubedaar",
-        "#YouManiacSeries",
-        "#UPgoesGlobal"
+        "#AirAmbulance",
+        "#PlaneCrash",
+        "#DontMessWithSubedaar"
       ],
       "regular_topics": [
         "West Indies",
         "5Days Left For Bodh Diwas",
         "Zimbabwe",
-        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
+        "Ranchi",
+        "Chatra",
         "Brad Evans",
         "Shimron Hetmyer",
-        "Satlok",
-        "Powell",
-        "Sant Garibdas Ji",
-        "Akeal Hosein",
-        "Wankhede"
+        "\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930 \u0915\u092c\u0940\u0930",
+        "SA vs WI",
+        "FEARLESS QUEEN MANISHA",
+        "Powell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 17:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 18:07:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
+        "BcGame Signal",
         "Chery Himla",
         "UEFA",
-        "#OkpebholoIsWorking",
         "Shaiboy X Oxlade",
+        "#OkpebholoisWorking",
         "#GloXSamsung",
-        "#ClickOptionsDemoContest",
         "Gianluca Prestianni",
-        "Blord",
-        "$BKN",
-        "Thursday and Friday"
+        "Thursday and Friday",
+        "Man United",
+        "$BKN"
       ],
       "hashtags": [
-        "#OkpebholoIsWorking",
+        "#OkpebholoisWorking",
         "#GloXSamsung",
         "#ClickOptionsDemoContest",
         "#ElitesOnly",
         "#Xoarupoa",
         "#EVEMUN",
-        "#ImisiAyanwale",
         "#MondayMotivation",
-        "#NewWeek"
+        "#ImisiAyanwale"
       ],
       "regular_topics": [
         "Everton",
+        "BcGame Signal",
         "Chery Himla",
         "UEFA",
         "Shaiboy X Oxlade",
         "Gianluca Prestianni",
-        "Blord",
-        "$BKN",
         "Thursday and Friday",
-        "ICPC",
-        "Berger",
-        "Trade $UP"
+        "Man United",
+        "$BKN",
+        "Deyemi",
+        "PLATINUM in France"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
