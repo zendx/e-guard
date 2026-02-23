@@ -1,81 +1,82 @@
 {
-  "generated_at_utc": "2026-02-23T14:48:30.486951+00:00",
+  "generated_at_utc": "2026-02-23T15:47:42.867353+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 13:42:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 15:27:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Monday",
-        "Yoko Taro",
         "Kash",
+        "Yoko Taro",
+        "Good Monday",
         "Tourette",
-        "#MondayVibes",
-        "#MondayMotivation",
-        "#SiEresShowseraMCM",
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
-        "Fear God",
         "Evangelion",
-        "DataHaven Testnet"
+        "#MondayMotivation",
+        "#MondayVibes",
+        "960 SAT",
+        "#SiEresShowseraMCM",
+        "Gavin Newsom",
+        "Judge Cannon"
       ],
       "hashtags": [
-        "#MondayVibes",
         "#MondayMotivation",
+        "#MondayVibes",
         "#SiEresShowseraMCM",
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
-        "#23Feb"
+        "#blizzard",
+        "#\u0e23\u0e32\u0e04\u0e35GALA"
       ],
       "regular_topics": [
-        "Good Monday",
-        "Yoko Taro",
         "Kash",
+        "Yoko Taro",
+        "Good Monday",
         "Tourette",
-        "Fear God",
         "Evangelion",
-        "DataHaven Testnet",
         "960 SAT",
-        "SAROCHA X THE STAIN GALA",
-        "$NVO",
-        "John Davidson"
+        "Gavin Newsom",
+        "Judge Cannon",
+        "DataHaven Testnet",
+        "Fear God",
+        "Fast and Furious"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 14:03:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 14:54:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
-        "Spurs",
-        "BAFTAs",
-        "John Davidson",
-        "#TOTARS",
-        "#thismorning",
         "Phil Neville",
-        "Gabriel",
-        "I Swear",
-        "Tottenham",
-        "Arsenal"
+        "John Davidson",
+        "Tim Howard",
+        "Kemi",
+        "Martin Lewis",
+        "Shadow Home Secretary",
+        "Keown",
+        "Free Palestine",
+        "BAFTAs",
+        "Wayne Rooney"
       ],
       "hashtags": [
-        "#TOTARS",
-        "#thismorning",
         "#politicslive",
-        "#NFOLIV",
-        "#LunchPun"
+        "#thismorning",
+        "#jeremyvine",
+        "#MondayVibes",
+        "#popmaster",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Tourette",
-        "Spurs",
-        "BAFTAs",
-        "John Davidson",
         "Phil Neville",
-        "Gabriel",
-        "I Swear",
-        "Tottenham",
-        "Arsenal",
+        "John Davidson",
         "Tim Howard",
-        "Gyokeres"
+        "Kemi",
+        "Martin Lewis",
+        "Shadow Home Secretary",
+        "Keown",
+        "Free Palestine",
+        "BAFTAs",
+        "Wayne Rooney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
