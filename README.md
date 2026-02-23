@@ -201,38 +201,77 @@ Example raw URL format:
 - `npm run lint` - lint codebase.
 
 
-## Post Optimizer Feature
+## Website + Registration System
 
-The app now includes an AI-powered post optimizer panel in `src/components/TwitterGrowthApp.tsx`.
+The project now includes a full product-site flow:
 
-### Integration Architecture
+- `/` - professional marketing homepage
+- `/pricing` - free and pro plan page (pro marked coming soon)
+- `/auth` - register/login page
+- `/dashboard` - authenticated free-user dashboard
 
-- API Layer: `src/app/api/optimize-post/route.ts` uses Vercel AI SDK `streamText()` with Anthropic Claude Sonnet 3.5.
-- Context Injection:
-- Backend loads current trend topics (`/api/trends` data source) and injects them into the optimizer prompt.
-- Prompt includes hook rewrite, contextual trend insertion, whitespace readability, and `<280` character constraint.
-- UI Component:
-- Input box for user draft.
-- `Boost Me` button that triggers streamed rewrite.
-- Side-by-side rendering of `Old Post` vs `Optimized Post` with `+42% Projected Reach` badge.
+### Authentication Architecture
 
-### Required Environment Variables
+- Users register/login through API routes:
+- `POST /api/auth/register`
+- `POST /api/auth/login`
+- `GET /api/auth/session`
+- `POST /api/auth/logout`
+- User/session persistence is stored in Supabase tables.
+- Sessions are tracked using HTTP-only cookie `swave_session`.
+- Passwords are hashed with Node `scrypt`.
+- Supabase schema file:
+- `data/supabase_schema.sql`
 
-- `ANTHROPIC_API_KEY` (required) - API key for Anthropic Messages API.
-- `ANTHROPIC_MODEL` (optional) - defaults to `claude-3-5-sonnet-latest`.
-- `NEXT_PUBLIC_DEFAULT_PLAN` (optional) - set `free` or `pro` for default UI plan state.
+### Free vs Pro Experience
 
-Example `.env.local`:
+- Free users can register and use the trends dashboard now.
+- Free users get 10 tracked actions total (`Copy Trends` + `Post to X` clicks).
+- After 10 uses, trends are blurred and copy/post actions are disabled.
+- Pro plan is visible in pricing and dashboard and marked as coming soon.
+- Pro optimizer API scaffold remains at `src/app/api/optimize-post/route.ts` for future activation.
 
-```bash
-ANTHROPIC_API_KEY=your_key_here
-ANTHROPIC_MODEL=claude-3-5-sonnet-latest
-NEXT_PUBLIC_DEFAULT_PLAN=free
-```
+### Admin Panel
 
-The optimizer route automatically injects the latest trends context from `data/trends_by_country.json` (or configured GitHub raw JSON in production) before requesting the rewrite.
+- Route: `/admin` (admin-only).
+- Admin capabilities:
+- View registered users with status and usage metrics.
+- Edit user profile data (full name, address, country, state).
+- Adjust free usage limits:
+- Sitewide global limit
+- Per-user override and usage count adjustments
+- Suspend users.
+- Disable users.
+- Re-activate users.
+- Delete any violating user account directly.
+- Send notifications:
+- Broadcast to all users.
+- Dedicated messages to specific users.
+- Review account delete requests and:
+- Approve (which deletes the account)
+- Reject
+- User notifications are visible in the dashboard notifications card.
 
-### Monetization Gate
+### User Profile + Deletion Requests
 
-- Free users: can view trends but cannot use optimizer (`402` response from optimizer API).
-- Pro users ($19/mo): can use AI Post Optimizer and receive streamed rewrite output.
+- Users can edit profile data in dashboard:
+- Full name
+- Email (read-only/unchanged)
+- Address
+- Country
+- State
+- Users can request account deletion from dashboard with a reason.
+- Admin reviews these requests in `/admin`.
+
+### Environment Variables
+
+- `SUPABASE_URL` (required)
+- `SUPABASE_SERVICE_ROLE_KEY` (required)
+- `ADMIN_EMAILS` (comma-separated emails to auto-mark new registrations as admin)
+- `ANTHROPIC_API_KEY` (required only when enabling optimizer requests)
+- `ANTHROPIC_MODEL` (optional, default `claude-3-5-sonnet-latest`)
+
+Important note:
+- If you already created tables before this update, re-run `data/supabase_schema.sql` to add:
+- Profile columns (`address`, `country`, `state`) on `app_users`
+- `account_delete_requests` table

@@ -1,7 +1,9 @@
-"use client";
+﻿"use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Check, Copy, RefreshCw, TrendingUp, WandSparkles } from "lucide-react";
+import Link from "next/link";
+import { Bell, Check, Copy, LogOut, RefreshCw, Save, TrendingUp, WandSparkles } from "lucide-react";
+import type { AccountDeleteRequest, AuthUser, UserNotification, UserUsage } from "@/lib/auth-types";
 
 type TrendsApiCountry = {
   topics?: string[];
@@ -24,8 +26,19 @@ type ScanApiResponse = {
   stderr?: string;
 };
 
+type UserContextResponse = {
+  user?: AuthUser;
+  usage?: UserUsage;
+  notifications?: UserNotification[];
+  deleteRequest?: AccountDeleteRequest | null;
+  error?: string;
+};
+
 type TopicMode = "all" | "hashtags" | "regular";
-type UserPlan = "free" | "pro";
+
+type TwitterGrowthAppProps = {
+  user: AuthUser;
+};
 
 const fallbackTrendsByCountry: Record<string, string[]> = {
   USA: [
@@ -56,10 +69,8 @@ const fallbackTrendsByCountry: Record<string, string[]> = {
   ],
 };
 
-const defaultPlan: UserPlan =
-  process.env.NEXT_PUBLIC_DEFAULT_PLAN === "pro" ? "pro" : "free";
-
-export default function TwitterGrowthApp() {
+export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
+  const [currentUser, setCurrentUser] = useState<AuthUser>(user);
   const [allTrendsByCountry, setAllTrendsByCountry] = useState<
     Record<string, string[]>
   >(fallbackTrendsByCountry);
@@ -80,13 +91,22 @@ export default function TwitterGrowthApp() {
   const [scanStatus, setScanStatus] = useState<string | null>(null);
   const [isScanning, setIsScanning] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [isLoggingOut, setIsLoggingOut] = useState(false);
+  const [usage, setUsage] = useState<UserUsage | null>(null);
+  const [notifications, setNotifications] = useState<UserNotification[]>([]);
+  const [usageError, setUsageError] = useState<string | null>(null);
+  const [deleteRequest, setDeleteRequest] = useState<AccountDeleteRequest | null>(null);
 
-  const [userPlan, setUserPlan] = useState<UserPlan>(defaultPlan);
-  const [userPost, setUserPost] = useState("");
-  const [optimizedPost, setOptimizedPost] = useState("");
-  const [isOptimizing, setIsOptimizing] = useState(false);
-  const [optimizeError, setOptimizeError] = useState<string | null>(null);
-  const [copiedOptimized, setCopiedOptimized] = useState(false);
+  const [profileName, setProfileName] = useState(user.name);
+  const [profileAddress, setProfileAddress] = useState(user.address ?? "");
+  const [profileCountry, setProfileCountry] = useState(user.country ?? "");
+  const [profileState, setProfileState] = useState(user.state ?? "");
+  const [profileStatus, setProfileStatus] = useState<string | null>(null);
+  const [isSavingProfile, setIsSavingProfile] = useState(false);
+
+  const [deleteReason, setDeleteReason] = useState("");
+  const [deleteStatus, setDeleteStatus] = useState<string | null>(null);
+  const [isRequestingDelete, setIsRequestingDelete] = useState(false);
 
   const countries = useMemo(
     () => Object.keys(allTrendsByCountry),
@@ -111,6 +131,30 @@ export default function TwitterGrowthApp() {
 
   const trendString = useMemo(() => visibleTrends.join(" "), [visibleTrends]);
   const currentTimestamp = countryTimestamps[selectedCountry] ?? null;
+
+  const freeLimitReached =
+    currentUser.plan === "free" && (usage?.freeRemaining ?? 0) <= 0;
+
+  const loadUserContext = useCallback(async () => {
+    try {
+      const response = await fetch("/api/user/context", { cache: "no-store" });
+      const data = (await response.json()) as UserContextResponse;
+      if (!response.ok) {
+        setUsageError(data.error ?? "Failed to load user context.");
+        return;
+      }
+
+      if (data.user) {
+        setCurrentUser(data.user);
+      }
+      setUsage(data.usage ?? null);
+      setNotifications(Array.isArray(data.notifications) ? data.notifications : []);
+      setDeleteRequest(data.deleteRequest ?? null);
+      setUsageError(null);
+    } catch {
+      setUsageError("Failed to load user usage and notifications.");
+    }
+  }, []);
 
   const loadTrends = useCallback(
     async (mounted = true) => {
@@ -141,19 +185,19 @@ export default function TwitterGrowthApp() {
           const regularTopics = Array.isArray(info?.regular_topics)
             ? info.regular_topics
             : allTopics.filter((topic) => !topic.startsWith("#"));
+          const mergedTopics = Array.from(
+            new Set([...allTopics, ...hashtags, ...regularTopics]),
+          ).slice(0, 20);
 
           if (
-            allTopics.length === 0 &&
+            mergedTopics.length === 0 &&
             hashtags.length === 0 &&
             regularTopics.length === 0
           ) {
             continue;
           }
 
-          nextAllTrendsByCountry[country] =
-            allTopics.length > 0
-              ? allTopics
-              : [...hashtags, ...regularTopics].slice(0, 11);
+          nextAllTrendsByCountry[country] = mergedTopics;
           nextHashtagsByCountry[country] = hashtags;
           nextRegularByCountry[country] = regularTopics;
 
@@ -183,26 +227,6 @@ export default function TwitterGrowthApp() {
       } catch {
         if (mounted) {
           setLoadError("Could not load fresh trends. Showing fallback data.");
-          setHashtagsByCountry((current) =>
-            Object.keys(current).length > 0
-              ? current
-              : Object.fromEntries(
-                  Object.entries(fallbackTrendsByCountry).map(([country, topics]) => [
-                    country,
-                    topics.filter((topic) => topic.startsWith("#")),
-                  ]),
-                ),
-          );
-          setRegularTrendsByCountry((current) =>
-            Object.keys(current).length > 0
-              ? current
-              : Object.fromEntries(
-                  Object.entries(fallbackTrendsByCountry).map(([country, topics]) => [
-                    country,
-                    topics.filter((topic) => !topic.startsWith("#")),
-                  ]),
-                ),
-          );
         }
       }
     },
@@ -212,8 +236,11 @@ export default function TwitterGrowthApp() {
   useEffect(() => {
     let mounted = true;
 
+    void loadUserContext();
     loadTrends(mounted);
+
     const interval = window.setInterval(() => {
+      void loadUserContext();
       void loadTrends(mounted);
     }, 60000);
 
@@ -221,7 +248,7 @@ export default function TwitterGrowthApp() {
       mounted = false;
       window.clearInterval(interval);
     };
-  }, [loadTrends]);
+  }, [loadTrends, loadUserContext]);
 
   const scanFreshTopics = async () => {
     setIsScanning(true);
@@ -250,363 +277,490 @@ export default function TwitterGrowthApp() {
     }
   };
 
-  const optimizePost = async () => {
-    if (!userPost.trim()) {
-      setOptimizeError("Write a post first.");
-      return;
+  const logout = async () => {
+    setIsLoggingOut(true);
+    await fetch("/api/auth/logout", { method: "POST" });
+    window.location.href = "/";
+  };
+
+  const trackAction = async (action: "copy" | "post") => {
+    const response = await fetch("/api/user/track", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ action }),
+    });
+
+    const data = (await response.json().catch(() => null)) as
+      | { usage?: UserUsage; error?: string }
+      | null;
+
+    if (!response.ok) {
+      setUsageError(data?.error ?? "Failed to track usage.");
+      return null;
     }
 
-    setIsOptimizing(true);
-    setOptimizeError(null);
-    setOptimizedPost("");
-    setCopiedOptimized(false);
-
-    try {
-      const response = await fetch("/api/optimize-post", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          post: userPost,
-          country: selectedCountry,
-          mode: topicMode,
-          plan: userPlan,
-        }),
-      });
-
-      if (!response.ok) {
-        const errorJson = (await response.json().catch(() => null)) as
-          | { error?: string }
-          | null;
-        setOptimizeError(errorJson?.error ?? "Optimizer request failed.");
-        return;
+    if (data?.usage) {
+      setUsage(data.usage);
+      if (data.usage.freeRemaining <= 0) {
+        setUsageError("Free limit reached. Upgrade to Pro when available.");
       }
-
-      if (!response.body) {
-        setOptimizeError("Streaming not available in this environment.");
-        return;
-      }
-
-      const reader = response.body.getReader();
-      const decoder = new TextDecoder();
-      let streamed = "";
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) {
-          break;
-        }
-
-        streamed += decoder.decode(value, { stream: true });
-        setOptimizedPost(streamed);
-      }
-
-      streamed += decoder.decode();
-      setOptimizedPost(streamed.trim());
-    } catch {
-      setOptimizeError("Could not reach optimizer API.");
-    } finally {
-      setIsOptimizing(false);
+      return data.usage;
     }
+
+    return null;
   };
 
   const copyToClipboard = async () => {
-    if (!trendString) {
+    if (!trendString || freeLimitReached) {
+      setUsageError("Free limit reached. Upgrade to Pro when available.");
       return;
     }
+
+    const nextUsage = await trackAction("copy");
+    if (!nextUsage) {
+      return;
+    }
+
     await navigator.clipboard.writeText(trendString);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
 
-  const copyOptimizedToClipboard = async () => {
-    if (!optimizedPost) {
+  const shareToX = async () => {
+    if (freeLimitReached) {
+      setUsageError("Free limit reached. Upgrade to Pro when available.");
       return;
     }
-    await navigator.clipboard.writeText(optimizedPost);
-    setCopiedOptimized(true);
-    setTimeout(() => setCopiedOptimized(false), 2000);
-  };
 
-  const shareToX = () => {
-    const modeLabel =
-      topicMode === "hashtags"
-        ? "hashtags"
-        : topicMode === "regular"
-          ? "regular topics"
-          : "top trends";
-    const text = encodeURIComponent(
-      `Top ${modeLabel} in ${selectedCountry} right now: ${trendString}`,
-    );
+    const nextUsage = await trackAction("post");
+    if (!nextUsage) {
+      return;
+    }
+
+    const text = encodeURIComponent(trendString);
     window.open(`https://twitter.com/intent/tweet?text=${text}`, "_blank");
   };
 
+  const saveProfile = async () => {
+    setIsSavingProfile(true);
+    setProfileStatus(null);
+
+    try {
+      const response = await fetch("/api/user/profile", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: profileName,
+          address: profileAddress,
+          country: profileCountry,
+          state: profileState,
+        }),
+      });
+
+      const data = (await response.json().catch(() => null)) as
+        | { success?: boolean; user?: AuthUser; error?: string }
+        | null;
+
+      if (!response.ok || !data?.success || !data.user) {
+        setProfileStatus(data?.error ?? "Failed to update profile.");
+        return;
+      }
+
+      setCurrentUser(data.user);
+      setProfileName(data.user.name);
+      setProfileAddress(data.user.address);
+      setProfileCountry(data.user.country);
+      setProfileState(data.user.state);
+      setProfileStatus("Profile updated successfully.");
+    } catch {
+      setProfileStatus("Failed to update profile.");
+    } finally {
+      setIsSavingProfile(false);
+    }
+  };
+
+  const submitDeleteRequest = async () => {
+    setIsRequestingDelete(true);
+    setDeleteStatus(null);
+
+    try {
+      const response = await fetch("/api/user/delete-request", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ reason: deleteReason }),
+      });
+
+      const data = (await response.json().catch(() => null)) as
+        | { success?: boolean; error?: string }
+        | null;
+
+      if (!response.ok || !data?.success) {
+        setDeleteStatus(data?.error ?? "Failed to submit delete request.");
+        return;
+      }
+
+      setDeleteReason("");
+      setDeleteStatus("Delete request submitted for admin review.");
+      await loadUserContext();
+    } catch {
+      setDeleteStatus("Failed to submit delete request.");
+    } finally {
+      setIsRequestingDelete(false);
+    }
+  };
+
   return (
-    <div className="relative flex min-h-screen flex-col items-center justify-center bg-[#0f1419] p-6 font-sans text-white">
+    <div className="relative min-h-screen bg-[#0f1419] p-6 text-white">
       <div className="pointer-events-none absolute top-0 left-1/2 h-64 w-full max-w-2xl -translate-x-1/2 bg-blue-500/10 blur-[120px]" />
 
-      <div className="w-full max-w-3xl rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
-        <div className="mb-8 flex items-center gap-3">
-          <div className="rounded-lg bg-blue-500 p-2">
-            <TrendingUp size={24} className="text-white" />
+      <div className="relative mx-auto w-full max-w-6xl">
+        <div className="mb-5 flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-white/10 bg-white/5 p-4 backdrop-blur-xl">
+          <div className="flex items-center gap-3">
+            <div className="rounded-lg bg-blue-500 p-2">
+              <TrendingUp size={22} className="text-white" />
+            </div>
+            <div>
+              <p className="text-lg font-bold">Swave Dashboard</p>
+              <p className="text-xs text-gray-400">
+                Signed in as {currentUser.name} ({currentUser.email})
+              </p>
+            </div>
           </div>
-          <div>
-            <h1 className="text-2xl font-bold tracking-tight">Swave</h1>
-            <p className="text-sm text-gray-400">Maximize your impressions instantly</p>
+
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="rounded-full border border-slate-300/40 bg-slate-200/10 px-3 py-1 text-xs font-semibold text-slate-100">
+              {currentUser.plan === "pro" ? "Pro Plan" : "Free Plan"}
+            </span>
+            {currentUser.isAdmin ? (
+              <Link
+                href="/admin"
+                className="rounded-lg border border-cyan-300/40 bg-cyan-300/10 px-3 py-2 text-xs font-semibold text-cyan-100 hover:bg-cyan-300/20"
+              >
+                Admin Panel
+              </Link>
+            ) : null}
+            <Link
+              href="/pricing"
+              className="rounded-lg border border-amber-300/40 bg-amber-300/10 px-3 py-2 text-xs font-semibold text-amber-100 hover:bg-amber-300/20"
+            >
+              Pro Coming Soon
+            </Link>
+            <button
+              onClick={logout}
+              disabled={isLoggingOut}
+              className="inline-flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 px-3 py-2 text-xs font-semibold text-gray-200 hover:bg-white/10 disabled:opacity-60"
+            >
+              <LogOut size={14} />
+              {isLoggingOut ? "Signing out..." : "Sign out"}
+            </button>
           </div>
         </div>
 
-        <div className="mb-8">
-          {loadError ? (
-            <p className="mb-4 rounded-lg border border-amber-400/20 bg-amber-500/10 px-3 py-2 text-xs text-amber-300">
-              {loadError}
-            </p>
-          ) : null}
+        <div className="mb-5 grid gap-3 md:grid-cols-3">
+          <div className="rounded-xl border border-white/10 bg-white/5 p-4">
+            <p className="text-xs text-gray-400">Usage</p>
+            <p className="mt-2 text-lg font-bold">{usage ? `${usage.usageCount}/${usage.freeLimit}` : "--"}</p>
+          </div>
+          <div className="rounded-xl border border-white/10 bg-white/5 p-4">
+            <p className="text-xs text-gray-400">Copy Clicks</p>
+            <p className="mt-2 text-lg font-bold">{usage?.copyClicks ?? "--"}</p>
+          </div>
+          <div className="rounded-xl border border-white/10 bg-white/5 p-4">
+            <p className="text-xs text-gray-400">Post to X Clicks</p>
+            <p className="mt-2 text-lg font-bold">{usage?.postClicks ?? "--"}</p>
+          </div>
+        </div>
 
-          <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
-            Trending By Country
-          </label>
-          <button
-            onClick={scanFreshTopics}
-            disabled={isScanning}
-            className="mb-4 flex w-full items-center justify-center gap-2 rounded-xl border border-blue-500/30 bg-blue-500/15 px-4 py-3 text-sm font-semibold text-blue-200 transition-colors hover:bg-blue-500/25 disabled:cursor-not-allowed disabled:opacity-60"
-          >
-            <RefreshCw
-              size={16}
-              className={isScanning ? "animate-spin" : undefined}
-            />
-            {isScanning ? "Scanning..." : "Scan Fresh Topics"}
-          </button>
+        {usageError ? (
+          <p className="mb-5 rounded-lg border border-rose-400/35 bg-rose-500/10 px-3 py-2 text-xs text-rose-200">
+            {usageError}
+          </p>
+        ) : null}
 
-          {scanStatus ? <p className="mb-4 text-xs text-blue-300">{scanStatus}</p> : null}
-
-          <div className="mb-5 flex flex-wrap gap-2">
-            {countries.map((country) => (
+        <div className="mb-5 grid gap-4 lg:grid-cols-2">
+          <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+            <p className="mb-3 text-sm font-semibold text-cyan-100">Profile / KYC</p>
+            <div className="space-y-3">
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Full name</label>
+                <input
+                  value={profileName}
+                  onChange={(event) => setProfileName(event.target.value)}
+                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                />
+              </div>
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Email (unchanged)</label>
+                <input
+                  value={currentUser.email}
+                  disabled
+                  className="w-full cursor-not-allowed rounded-lg border border-white/10 bg-black/30 px-3 py-2 text-sm text-slate-400"
+                />
+              </div>
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Address</label>
+                <input
+                  value={profileAddress}
+                  onChange={(event) => setProfileAddress(event.target.value)}
+                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                />
+              </div>
+              <div className="grid gap-3 md:grid-cols-2">
+                <div>
+                  <label className="mb-1 block text-xs text-slate-300">Country</label>
+                  <input
+                    value={profileCountry}
+                    onChange={(event) => setProfileCountry(event.target.value)}
+                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                  />
+                </div>
+                <div>
+                  <label className="mb-1 block text-xs text-slate-300">State</label>
+                  <input
+                    value={profileState}
+                    onChange={(event) => setProfileState(event.target.value)}
+                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                  />
+                </div>
+              </div>
               <button
-                key={country}
+                onClick={saveProfile}
+                disabled={isSavingProfile}
+                className="inline-flex items-center gap-2 rounded-lg bg-cyan-400 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-cyan-300 disabled:opacity-60"
+              >
+                <Save size={14} />
+                {isSavingProfile ? "Saving..." : "Save Profile"}
+              </button>
+              {profileStatus ? <p className="text-xs text-slate-300">{profileStatus}</p> : null}
+            </div>
+          </div>
+
+          <div className="rounded-2xl border border-rose-300/20 bg-rose-400/5 p-5">
+            <p className="mb-3 text-sm font-semibold text-rose-100">Delete Account Request</p>
+            {deleteRequest ? (
+              <p className="mb-3 rounded-lg border border-amber-300/40 bg-amber-400/10 px-3 py-2 text-xs text-amber-100">
+                You already have a pending delete request submitted on {deleteRequest.createdAt}.
+              </p>
+            ) : null}
+            <textarea
+              value={deleteReason}
+              onChange={(event) => setDeleteReason(event.target.value)}
+              placeholder="Reason for deleting account"
+              rows={3}
+              disabled={Boolean(deleteRequest)}
+              className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm disabled:cursor-not-allowed disabled:opacity-60"
+            />
+            <button
+              onClick={submitDeleteRequest}
+              disabled={isRequestingDelete || Boolean(deleteRequest)}
+              className="mt-3 rounded-lg border border-rose-300/50 bg-rose-400/15 px-4 py-2 text-sm font-semibold text-rose-100 hover:bg-rose-400/25 disabled:opacity-60"
+            >
+              {isRequestingDelete ? "Submitting..." : "Request Account Deletion"}
+            </button>
+            {deleteStatus ? <p className="mt-2 text-xs text-rose-100">{deleteStatus}</p> : null}
+          </div>
+        </div>
+
+        <div className="mb-5 rounded-2xl border border-white/10 bg-white/5 p-4">
+          <div className="mb-3 flex items-center gap-2">
+            <Bell size={16} className="text-cyan-200" />
+            <p className="text-sm font-semibold text-cyan-100">Notifications</p>
+          </div>
+          {notifications.length > 0 ? (
+            <div className="space-y-2">
+              {notifications.slice(0, 5).map((item) => (
+                <div
+                  key={item.id}
+                  className="rounded-lg border border-white/10 bg-black/20 px-3 py-2"
+                >
+                  <p className="text-xs font-semibold text-white">
+                    {item.title} {item.isBroadcast ? "(Broadcast)" : "(Direct)"}
+                  </p>
+                  <p className="text-xs text-gray-300">{item.message}</p>
+                  <p className="mt-1 text-[10px] text-gray-500">{item.createdAt}</p>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p className="text-xs text-gray-400">No notifications yet.</p>
+          )}
+        </div>
+
+        <div className="rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
+          <div className="mb-8">
+            {loadError ? (
+              <p className="mb-4 rounded-lg border border-amber-400/20 bg-amber-500/10 px-3 py-2 text-xs text-amber-300">
+                {loadError}
+              </p>
+            ) : null}
+
+            <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
+              Trending By Country
+            </label>
+            <button
+              onClick={scanFreshTopics}
+              disabled={isScanning}
+              className="mb-4 flex w-full items-center justify-center gap-2 rounded-xl border border-blue-500/30 bg-blue-500/15 px-4 py-3 text-sm font-semibold text-blue-200 transition-colors hover:bg-blue-500/25 disabled:cursor-not-allowed disabled:opacity-60"
+            >
+              <RefreshCw
+                size={16}
+                className={isScanning ? "animate-spin" : undefined}
+              />
+              {isScanning ? "Scanning..." : "Scan Fresh Topics"}
+            </button>
+
+            {scanStatus ? <p className="mb-4 text-xs text-blue-300">{scanStatus}</p> : null}
+
+            <div className="mb-5 flex flex-wrap gap-2">
+              {countries.map((country) => (
+                <button
+                  key={country}
+                  onClick={() => {
+                    setSelectedCountry(country);
+                    setCopied(false);
+                  }}
+                  className={`rounded-full border px-3 py-1 text-sm font-semibold transition-colors ${
+                    selectedCountry === country
+                      ? "border-blue-400 bg-blue-500/25 text-blue-200"
+                      : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+                  }`}
+                >
+                  {country}
+                </button>
+              ))}
+            </div>
+
+            <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
+              Topic View
+            </label>
+            <div className="mb-5 grid grid-cols-3 gap-2">
+              <button
                 onClick={() => {
-                  setSelectedCountry(country);
+                  setTopicMode("all");
                   setCopied(false);
                 }}
-                className={`rounded-full border px-3 py-1 text-sm font-semibold transition-colors ${
-                  selectedCountry === country
+                className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                  topicMode === "all"
                     ? "border-blue-400 bg-blue-500/25 text-blue-200"
                     : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
                 }`}
               >
-                {country}
+                All Topics
               </button>
-            ))}
-          </div>
-
-          <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
-            Topic View
-          </label>
-          <div className="mb-5 grid grid-cols-3 gap-2">
-            <button
-              onClick={() => {
-                setTopicMode("all");
-                setCopied(false);
-              }}
-              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
-                topicMode === "all"
-                  ? "border-blue-400 bg-blue-500/25 text-blue-200"
-                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
-              }`}
-            >
-              All Topics
-            </button>
-            <button
-              onClick={() => {
-                setTopicMode("hashtags");
-                setCopied(false);
-              }}
-              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
-                topicMode === "hashtags"
-                  ? "border-blue-400 bg-blue-500/25 text-blue-200"
-                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
-              }`}
-            >
-              Hashtags
-            </button>
-            <button
-              onClick={() => {
-                setTopicMode("regular");
-                setCopied(false);
-              }}
-              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
-                topicMode === "regular"
-                  ? "border-blue-400 bg-blue-500/25 text-blue-200"
-                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
-              }`}
-            >
-              Regular
-            </button>
-          </div>
-
-          <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
-            {topicMode === "hashtags"
-              ? `Top Hashtags In ${selectedCountry}`
-              : topicMode === "regular"
-                ? `Top Regular Topics In ${selectedCountry}`
-                : `Top Trending In ${selectedCountry}`}
-          </label>
-          <div className="flex min-h-[120px] flex-wrap gap-2 rounded-2xl border border-white/5 bg-black/40 p-4">
-            {visibleTrends.length > 0 ? (
-              visibleTrends.map((trend, index) => (
-                <span
-                  key={`${trend}-${index}`}
-                  className="cursor-default rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-sm font-medium text-blue-300 transition-colors hover:bg-blue-500/20"
-                >
-                  {trend}
-                </span>
-              ))
-            ) : (
-              <p className="text-sm text-gray-400">No topics available yet for this country.</p>
-            )}
-          </div>
-          {currentTimestamp ? (
-            <p className="mt-3 text-xs text-gray-500">Source timestamp: {currentTimestamp}</p>
-          ) : null}
-        </div>
-
-        <div className="mb-8 grid grid-cols-2 gap-4">
-          <button
-            onClick={copyToClipboard}
-            disabled={visibleTrends.length === 0}
-            className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
-          >
-            {copied ? <Check size={20} /> : <Copy size={20} />}
-            {copied ? "Copied!" : "Copy Trends"}
-          </button>
-
-          <button
-            onClick={shareToX}
-            disabled={visibleTrends.length === 0}
-            className="flex items-center justify-center gap-2 rounded-2xl bg-black py-4 font-bold text-white transition-all hover:bg-neutral-900 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
-          >
-            <svg
-              aria-hidden="true"
-              viewBox="0 0 24 24"
-              className="h-5 w-5 fill-current"
-            >
-              <path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.54l-5.12-6.7L5.23 22H2l7.6-8.68L1.25 2h6.7l4.62 6.1zM17.11 20h1.8L6.97 3.9H5.03z" />
-            </svg>
-            Post to X
-          </button>
-        </div>
-
-        <div className="rounded-2xl border border-white/10 bg-black/30 p-5">
-          <div className="mb-3 flex items-center justify-between gap-3">
-            <div className="flex items-center gap-2">
-              <WandSparkles size={18} className="text-blue-300" />
-              <h2 className="text-lg font-semibold text-white">AI Post Optimizer</h2>
+              <button
+                onClick={() => {
+                  setTopicMode("hashtags");
+                  setCopied(false);
+                }}
+                className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                  topicMode === "hashtags"
+                    ? "border-blue-400 bg-blue-500/25 text-blue-200"
+                    : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+                }`}
+              >
+                Hashtags
+              </button>
+              <button
+                onClick={() => {
+                  setTopicMode("regular");
+                  setCopied(false);
+                }}
+                className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                  topicMode === "regular"
+                    ? "border-blue-400 bg-blue-500/25 text-blue-200"
+                    : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+                }`}
+              >
+                Regular
+              </button>
             </div>
-            <span className="rounded-full border border-emerald-400/30 bg-emerald-500/15 px-3 py-1 text-xs font-semibold text-emerald-200">
-              +42% Projected Reach
-            </span>
+
+            <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
+              {topicMode === "hashtags"
+                ? `Top Hashtags In ${selectedCountry}`
+                : topicMode === "regular"
+                  ? `Top Regular Topics In ${selectedCountry}`
+                  : `Top Trending In ${selectedCountry}`}
+            </label>
+            <div
+              className={`flex min-h-[120px] flex-wrap gap-2 rounded-2xl border border-white/5 bg-black/40 p-4 transition ${
+                freeLimitReached ? "blur-[3px] opacity-60" : ""
+              }`}
+            >
+              {visibleTrends.length > 0 ? (
+                visibleTrends.map((trend, index) => (
+                  <span
+                    key={`${trend}-${index}`}
+                    className="cursor-default rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-sm font-medium text-blue-300 transition-colors hover:bg-blue-500/20"
+                  >
+                    {trend}
+                  </span>
+                ))
+              ) : (
+                <p className="text-sm text-gray-400">No topics available yet for this country.</p>
+              )}
+            </div>
+            {currentTimestamp ? (
+              <p className="mt-3 text-xs text-gray-500">Source timestamp: {currentTimestamp}</p>
+            ) : null}
           </div>
 
-          <p className="mb-4 text-xs text-gray-400">
-            Free users can view trends only. Pro users can click Boost Me for a streamed Claude rewrite.
+          <div className="mb-8 grid grid-cols-2 gap-4">
+            <button
+              onClick={copyToClipboard}
+              disabled={visibleTrends.length === 0 || freeLimitReached}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
+            >
+              {copied ? <Check size={20} /> : <Copy size={20} />}
+              {copied ? "Copied!" : "Copy Trends"}
+            </button>
+
+            <button
+              onClick={shareToX}
+              disabled={visibleTrends.length === 0 || freeLimitReached}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-black py-4 font-bold text-white transition-all hover:bg-neutral-900 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
+            >
+              <svg
+                aria-hidden="true"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+              >
+                <path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.54l-5.12-6.7L5.23 22H2l7.6-8.68L1.25 2h6.7l4.62 6.1zM17.11 20h1.8L6.97 3.9H5.03z" />
+              </svg>
+              Post to X
+            </button>
+          </div>
+
+          <div className="rounded-2xl border border-amber-300/20 bg-amber-400/5 p-5">
+            <div className="mb-2 flex items-center gap-2">
+              <WandSparkles size={18} className="text-amber-200" />
+              <h2 className="text-lg font-semibold text-amber-100">Pro Optimizer (Coming Soon)</h2>
+            </div>
+            <p className="text-sm text-amber-100/90">
+              AI rewrite tools, side-by-side post optimization, and projected reach scoring will launch in the Pro plan.
+            </p>
+            <Link
+              href="/pricing"
+              className="mt-4 inline-flex rounded-lg border border-amber-300/35 bg-amber-300/15 px-3 py-2 text-xs font-semibold text-amber-100 hover:bg-amber-300/25"
+            >
+              View Pricing
+            </Link>
+          </div>
+
+          <p className="mt-6 text-center text-xs text-gray-500">
+            Adding relevant trends can increase reach by up to 40%.
+            <br />
+            Use responsibly to avoid spam filters.
           </p>
 
-          <div className="mb-4 grid grid-cols-2 gap-2">
-            <button
-              onClick={() => setUserPlan("free")}
-              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
-                userPlan === "free"
-                  ? "border-slate-300/60 bg-slate-200/20 text-slate-100"
-                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
-              }`}
-            >
-              Free Plan
-            </button>
-            <button
-              onClick={() => setUserPlan("pro")}
-              className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
-                userPlan === "pro"
-                  ? "border-amber-300/70 bg-amber-300/20 text-amber-100"
-                  : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
-              }`}
-            >
-              Pro Plan ($19/mo)
-            </button>
-          </div>
-
-          <textarea
-            value={userPost}
-            onChange={(event) => setUserPost(event.target.value)}
-            placeholder="Paste your draft post here..."
-            rows={5}
-            className="w-full resize-y rounded-xl border border-white/10 bg-[#0b1016] px-4 py-3 text-sm text-white outline-none ring-blue-400/40 placeholder:text-gray-500 focus:ring"
-          />
-
-          <div className="mt-3 mb-4 flex items-center justify-between">
-            <p className="text-xs text-gray-500">Draft length: {userPost.length} chars</p>
-            <p className="text-xs text-gray-500">
-              Trend context: {visibleTrends.slice(0, 3).join(" | ") || "none"}
-            </p>
-          </div>
-
-          <button
-            onClick={optimizePost}
-            disabled={isOptimizing || !userPost.trim()}
-            className="flex w-full items-center justify-center gap-2 rounded-xl border border-blue-400/35 bg-blue-500/20 px-4 py-3 text-sm font-semibold text-blue-100 transition-colors hover:bg-blue-500/30 disabled:cursor-not-allowed disabled:opacity-60"
-          >
-            <WandSparkles size={16} />
-            {isOptimizing ? "Boosting..." : "Boost Me"}
-          </button>
-
-          {optimizeError ? (
-            <p className="mt-3 rounded-lg border border-rose-400/30 bg-rose-500/10 px-3 py-2 text-xs text-rose-200">
-              {optimizeError}
+          {source || generatedAtUtc ? (
+            <p className="mt-4 text-center text-xs text-gray-600">
+              {source ? `Data source: ${source}` : ""}
+              {source && generatedAtUtc ? " | " : ""}
+              {generatedAtUtc ? `Generated: ${generatedAtUtc}` : ""}
             </p>
           ) : null}
-
-          <div className="mt-5 grid gap-3 md:grid-cols-2">
-            <div className="rounded-xl border border-white/10 bg-[#0e151d] p-4">
-              <p className="mb-2 text-xs font-semibold tracking-wide text-gray-400 uppercase">Old Post</p>
-              <p className="whitespace-pre-line text-sm text-gray-100">
-                {userPost.trim() || "Your original draft will appear here."}
-              </p>
-            </div>
-            <div className="rounded-xl border border-blue-400/30 bg-[#0f1a25] p-4">
-              <div className="mb-2 flex items-center justify-between gap-2">
-                <p className="text-xs font-semibold tracking-wide text-blue-300 uppercase">
-                  Optimized Post
-                </p>
-                <button
-                  onClick={copyOptimizedToClipboard}
-                  disabled={!optimizedPost}
-                  className="inline-flex items-center gap-1 rounded-md border border-white/15 bg-white/5 px-2.5 py-1 text-xs font-medium text-gray-200 hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-60"
-                >
-                  {copiedOptimized ? <Check size={14} /> : <Copy size={14} />}
-                  {copiedOptimized ? "Copied" : "Copy"}
-                </button>
-              </div>
-              <p className="whitespace-pre-line text-sm text-gray-100">
-                {optimizedPost || (isOptimizing ? "Streaming optimized rewrite..." : "Boosted post will stream here.")}
-              </p>
-              {optimizedPost ? (
-                <p className="mt-2 text-xs text-gray-500">{optimizedPost.length}/280</p>
-              ) : null}
-            </div>
-          </div>
         </div>
-
-        <p className="mt-6 text-center text-xs text-gray-500">
-          Adding relevant trends can increase reach by up to 40%.
-          <br />
-          Use responsibly to avoid spam filters.
-        </p>
-
-        {source || generatedAtUtc ? (
-          <p className="mt-4 text-center text-xs text-gray-600">
-            {source ? `Data source: ${source}` : ""}
-            {source && generatedAtUtc ? " | " : ""}
-            {generatedAtUtc ? `Generated: ${generatedAtUtc}` : ""}
-          </p>
-        ) : null}
       </div>
     </div>
   );

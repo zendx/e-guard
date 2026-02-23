@@ -3,6 +3,7 @@ import path from "node:path";
 import { NextResponse } from "next/server";
 import { anthropic } from "@ai-sdk/anthropic";
 import { streamText } from "ai";
+import { requireSessionUser } from "@/lib/auth-session";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
@@ -26,7 +27,6 @@ type OptimizeRequestBody = {
   post?: string;
   country?: string;
   mode?: "all" | "hashtags" | "regular";
-  plan?: "free" | "pro";
 };
 
 function resolveGithubRawUrl(): string | null {
@@ -107,6 +107,11 @@ function buildTrendsContext(
 
 export async function POST(request: Request) {
   try {
+    const auth = await requireSessionUser();
+    if (!auth.ok) {
+      return auth.response;
+    }
+
     const apiKey = process.env.ANTHROPIC_API_KEY;
     if (!apiKey) {
       return NextResponse.json(
@@ -122,9 +127,7 @@ export async function POST(request: Request) {
     const post = typeof body.post === "string" ? body.post.trim() : "";
     const country = typeof body.country === "string" ? body.country.trim() : "USA";
     const mode = body.mode === "hashtags" || body.mode === "regular" ? body.mode : "all";
-    const plan = body.plan === "pro" ? "pro" : "free";
-
-    if (plan !== "pro") {
+    if (auth.user.plan !== "pro") {
       return NextResponse.json(
         {
           error: "AI Post Optimizer is a Pro feature. Upgrade to unlock Boost Me.",
