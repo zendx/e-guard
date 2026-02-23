@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-23T15:47:42.867353+00:00",
+  "generated_at_utc": "2026-02-23T16:40:35.397701+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,47 +43,45 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 14:54:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 15:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
+        "Shadow Home Secretary",
         "Phil Neville",
         "John Davidson",
-        "Tim Howard",
         "Kemi",
+        "West Indies",
         "Martin Lewis",
-        "Shadow Home Secretary",
+        "The BBC",
+        "Tim Howard",
         "Keown",
-        "Free Palestine",
-        "BAFTAs",
-        "Wayne Rooney"
+        "Free Palestine"
       ],
       "hashtags": [
         "#politicslive",
         "#thismorning",
-        "#jeremyvine",
         "#MondayVibes",
-        "#popmaster",
         "#MondayMotivation"
       ],
       "regular_topics": [
         "Tourette",
+        "Shadow Home Secretary",
         "Phil Neville",
         "John Davidson",
-        "Tim Howard",
         "Kemi",
+        "West Indies",
         "Martin Lewis",
-        "Shadow Home Secretary",
+        "The BBC",
+        "Tim Howard",
         "Keown",
-        "Free Palestine",
-        "BAFTAs",
-        "Wayne Rooney"
+        "Free Palestine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 14:00:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 15:44:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Hellebuyck",
@@ -91,18 +89,18 @@
         "#canvsusa",
         "Tourette",
         "Makar",
-        "Yoko Taro",
         "El Mencho",
-        "Toews",
         "Jack Hughes",
-        "Team USA"
+        "Toews",
+        "Team USA",
+        "MAID"
       ],
       "hashtags": [
         "#canvsusa",
-        "#Olympics2026",
+        "#MondayMorning",
         "#\u0e23\u0e32\u0e04\u0e35GALA",
-        "#UFCHouston",
-        "#AKOTSK"
+        "#MondayVibes",
+        "#UFCHouston"
       ],
       "regular_topics": [
         "Canada",
@@ -110,92 +108,92 @@
         "Puerto Vallarta",
         "Tourette",
         "Makar",
-        "Yoko Taro",
         "El Mencho",
-        "Toews",
         "Jack Hughes",
+        "Toews",
         "Team USA",
-        "MAID"
+        "MAID",
+        "Kash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Feb 23 2026 14:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 16:30:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
         "5Days Left For Bodh Diwas",
         "#WIvsZIM",
-        "#UPgoesGlobal",
-        "#GadgetsNowAwards2025",
+        "West Indies",
+        "#DontMessWithSubedaar",
+        "Shimron Hetmyer",
         "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
-        "Hetmyer",
+        "Zimbabwe",
+        "Powell",
         "#StartupSingamSeason2",
-        "HQ IDS",
-        "Satlok",
-        "West Indies"
+        "Satlok"
       ],
       "hashtags": [
         "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
         "#WIvsZIM",
-        "#UPgoesGlobal",
-        "#GadgetsNowAwards2025",
-        "#StartupSingamSeason2"
+        "#DontMessWithSubedaar",
+        "#StartupSingamSeason2",
+        "#UPgoesGlobal"
       ],
       "regular_topics": [
         "5Days Left For Bodh Diwas",
-        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
-        "Hetmyer",
-        "HQ IDS",
-        "Satlok",
         "West Indies",
+        "Shimron Hetmyer",
+        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
+        "Zimbabwe",
+        "Powell",
+        "Satlok",
         "Sant Garibdas Ji",
         "\u0905\u0928\u0928\u094d\u0924 \u0915\u094b\u091f\u093f",
-        "Powell",
-        "\u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u0926\u0940\u092a\u0915",
-        "\u092a\u0942\u0930\u094d\u0935\u093e\u0902\u091a\u0932 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947"
+        "Akeal Hosein",
+        "Wankhede"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 14:39:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 16:24:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
-        "#ClickOptionsDemoContest",
+        "UEFA",
+        "#OkpebholoisWorking",
         "#GloXSamsung",
+        "Shaiboy X Oxlade",
+        "Chery Himla",
+        "#ClickOptionsDemoContest",
         "Blord",
+        "ICPC",
         "Thursday and Friday",
-        "Spotify Nigeria",
-        "IMISI X SOFT CANADA",
-        "Trade $MOVA",
-        "El Mencho",
-        "Phil Neville",
-        "Baraka"
+        "Berger"
       ],
       "hashtags": [
-        "#ClickOptionsDemoContest",
+        "#OkpebholoisWorking",
         "#GloXSamsung",
-        "#OkpebholoIsWorking",
+        "#ClickOptionsDemoContest",
         "#ElitesOnly",
-        "#MondayMotivation",
         "#ImisiAyanwale",
+        "#MondayMotivation",
         "#EVEMUN"
       ],
       "regular_topics": [
         "Everton",
+        "UEFA",
+        "Shaiboy X Oxlade",
+        "Chery Himla",
         "Blord",
+        "ICPC",
         "Thursday and Friday",
-        "Spotify Nigeria",
-        "IMISI X SOFT CANADA",
-        "Trade $MOVA",
-        "El Mencho",
-        "Phil Neville",
+        "Berger",
         "Baraka",
-        "friday and monday",
-        "CONGRATULATIONS IMISI"
+        "$BKN",
+        "El Mencho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
