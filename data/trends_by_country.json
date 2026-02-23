@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-02-23T19:49:33.013743+00:00",
+  "generated_at_utc": "2026-02-23T20:32:06.940113+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 18:54:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 19:45:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gavin",
-        "Kash",
         "Tourette",
-        "#doordashinmybag",
-        "Peter Mandelson",
+        "Kash",
         "Criterion",
-        "Judge Cannon",
+        "Peter Mandelson",
+        "#BURBERRYAW26xSEUNGMIN",
         "#SpaceMarine2",
-        "Jack Smith",
+        "#doordashinmybag",
         "960 SAT",
-        "Nick Reiner"
+        "Sesko",
+        "Judge Cannon"
       ],
       "hashtags": [
-        "#doordashinmybag",
-        "#SpaceMarine2",
-        "#WWE2K26",
         "#BURBERRYAW26xSEUNGMIN",
-        "#MondayMotivation"
+        "#SpaceMarine2",
+        "#doordashinmybag",
+        "#WWE2K26",
+        "#SEUNGMINxBURBERRY"
       ],
       "regular_topics": [
         "Gavin",
-        "Kash",
         "Tourette",
-        "Peter Mandelson",
+        "Kash",
         "Criterion",
+        "Peter Mandelson",
+        "960 SAT",
+        "Sesko",
         "Judge Cannon",
         "Jack Smith",
-        "960 SAT",
-        "Nick Reiner",
         "Yoko Taro",
-        "Angel Families"
+        "Nick Reiner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 19:16:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 20:08:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sesko",
         "Tourette",
         "Peter Mandelson",
+        "#EVEMUN",
+        "Everton",
+        "Carrick",
         "Moyes",
         "Mandy",
         "Martinez",
-        "#TheChase",
         "Yoro",
-        "Everton",
-        "John Davidson",
-        "Shadow Home Secretary"
+        "John Davidson"
       ],
       "hashtags": [
-        "#TheChase",
         "#EVEMUN",
+        "#TheChase",
         "#SpaceMarine2",
-        "#WWE2K26",
-        "#tippingpoint"
+        "#SEUNGMINxBURBERRY",
+        "#WWE2K26"
       ],
       "regular_topics": [
         "Sesko",
         "Tourette",
         "Peter Mandelson",
+        "Everton",
+        "Carrick",
         "Moyes",
         "Mandy",
         "Martinez",
         "Yoro",
-        "Everton",
         "John Davidson",
-        "Shadow Home Secretary",
         "Jamie Foxx"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,23 +82,22 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 19:15:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 20:06:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Puerto Vallarta",
         "Hellebuyck",
         "Tourette",
-        "McDavid",
         "Ford",
-        "El Mencho",
+        "McDavid",
         "Sesko",
-        "Makar",
+        "El Mencho",
+        "Kash",
         "Jack Hughes",
-        "Kash"
+        "Makar"
       ],
       "hashtags": [
-        "#CanVsUSA",
-        "#SpaceMarine2",
+        "#CanVsUsa",
         "#\u0e23\u0e32\u0e04\u0e35GALA",
         "#RHOP"
       ],
@@ -107,13 +106,13 @@
         "Puerto Vallarta",
         "Hellebuyck",
         "Tourette",
-        "McDavid",
         "Ford",
-        "El Mencho",
+        "McDavid",
         "Sesko",
-        "Makar",
+        "El Mencho",
+        "Kash",
         "Jack Hughes",
-        "Kash"
+        "Makar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -159,40 +158,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 18:58:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 19:51:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
-        "BcGame Signal",
-        "Martinez",
-        "Chery Himla",
         "Sesko",
+        "Martinez",
+        "Carrick",
         "Yoro",
-        "UEFA",
+        "BcGame Signal",
         "Licha",
-        "Shaiboy X Oxlade",
         "Kogi",
-        "#OkpebholoisWorking"
+        "Man United",
+        "Chery Himla",
+        "Oxlade"
       ],
       "hashtags": [
-        "#OkpebholoisWorking",
-        "#GloXSamsung",
         "#EVEMUN",
+        "#OkpebholoIsWorking",
+        "#GloXSamsung",
         "#GGMU",
-        "#ClickOptionsDemoContest",
         "#KuCoin"
       ],
       "regular_topics": [
         "Everton",
-        "BcGame Signal",
-        "Martinez",
-        "Chery Himla",
         "Sesko",
+        "Martinez",
+        "Carrick",
         "Yoro",
-        "UEFA",
+        "BcGame Signal",
         "Licha",
-        "Shaiboy X Oxlade",
         "Kogi",
-        "Man United"
+        "Man United",
+        "Chery Himla",
+        "Oxlade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
