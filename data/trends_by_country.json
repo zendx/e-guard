@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-23T07:45:31.818842+00:00",
+  "generated_at_utc": "2026-02-23T07:52:18.235289+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 07:36:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:45:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tourette",
         "Kash",
-        "#LCDLF6",
+        "Tourette",
         "#AKOTSK",
-        "960 SAT",
+        "#LCDLF6",
         "FBI Director",
-        "#IndustryHBO",
         "Claressa",
+        "#IndustryHBO",
+        "960 SAT",
+        "#RHOP",
         "Oriana",
-        "Maekar",
-        "#RHOP"
+        "Maekar"
       ],
       "hashtags": [
-        "#LCDLF6",
         "#AKOTSK",
+        "#LCDLF6",
         "#IndustryHBO",
         "#RHOP",
         "#AKnightOfTheSevenKingdoms"
       ],
       "regular_topics": [
-        "Tourette",
         "Kash",
-        "960 SAT",
+        "Tourette",
         "FBI Director",
         "Claressa",
+        "960 SAT",
         "Oriana",
         "Maekar",
         "Lakers",
         "El Mencho",
-        "Horacio",
-        "Celinee"
+        "Celinee",
+        "M\u00e9xico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -166,38 +166,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 06:51:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 07:42:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
         "Happy New Week",
         "Simi",
         "Spurs",
-        "#TOTARS",
-        "Ezra",
-        "GM CT",
         "Amen",
+        "Ezra",
+        "#TOTARS",
+        "MY HELP HAS COME",
         "El Mencho",
-        "CJNG",
+        "GM CT",
         "#MondayMotivation"
       ],
       "hashtags": [
         "#TOTARS",
         "#MondayMotivation",
-        "#RamadanDay06",
-        "#chebur",
-        "#NFOLIV"
+        "#NSPPD",
+        "#NFOLIV",
+        "#COYG"
       ],
       "regular_topics": [
         "Tottenham",
         "Happy New Week",
         "Simi",
         "Spurs",
-        "Ezra",
-        "GM CT",
         "Amen",
+        "Ezra",
+        "MY HELP HAS COME",
         "El Mencho",
+        "GM CT",
         "CJNG",
-        "Cancelo",
         "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
