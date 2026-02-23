@@ -1,46 +1,46 @@
 {
-  "generated_at_utc": "2026-02-23T12:34:20.044727+00:00",
+  "generated_at_utc": "2026-02-23T13:59:55.456703+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 11:57:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 12:51:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Monday",
         "Yoko Taro",
-        "Tourette",
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
         "Kash",
+        "Tourette",
         "#MondayMotivation",
-        "Fear God",
-        "#GirlRulesSeries",
-        "SAROCHA X THE STAIN GALA",
         "#MondayVibes",
-        "960 SAT"
+        "#\u0e23\u0e32\u0e04\u0e35GALA",
+        "Fear God",
+        "SAROCHA X THE STAIN GALA",
+        "960 SAT",
+        "#GirlRulesSeries"
       ],
       "hashtags": [
-        "#\u0e23\u0e32\u0e04\u0e35GALA",
         "#MondayMotivation",
-        "#GirlRulesSeries",
         "#MondayVibes",
+        "#\u0e23\u0e32\u0e04\u0e35GALA",
+        "#GirlRulesSeries",
         "#\u0e23\u0e32\u0e04\u0e35THESTAIN",
+        "#blizzard",
         "#nolimit",
         "#teenagegirls",
-        "#somno",
-        "#LCDLF6"
+        "#somno"
       ],
       "regular_topics": [
         "Good Monday",
         "Yoko Taro",
-        "Tourette",
         "Kash",
+        "Tourette",
         "Fear God",
         "SAROCHA X THE STAIN GALA",
         "960 SAT",
-        "8 OUT NOW",
-        "jeno",
-        "jaemin",
-        "Evangelion"
+        "Evangelion",
+        "FBI Director",
+        "Luci4",
+        "jaemin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -86,37 +86,37 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 11:27:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 12:18:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Hellebuyck",
         "Puerto Vallarta",
         "#canvsusa",
         "Makar",
-        "Toews",
         "Tourette",
+        "Toews",
         "Jack Hughes",
-        "MacKinnon",
         "El Mencho",
+        "MacKinnon",
         "Team USA"
       ],
       "hashtags": [
         "#canvsusa",
         "#Olympics2026",
+        "#GirlRulesSeries",
         "#TOTARS",
-        "#UFCHouston",
-        "#AKOTSK"
+        "#UFCHouston"
       ],
       "regular_topics": [
         "Canada",
         "Hellebuyck",
         "Puerto Vallarta",
         "Makar",
-        "Toews",
         "Tourette",
+        "Toews",
         "Jack Hughes",
-        "MacKinnon",
         "El Mencho",
+        "MacKinnon",
         "Team USA",
         "Alabama"
       ],
@@ -170,39 +170,40 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 12:03:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 13:45:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Simi",
-        "Tottenham",
-        "El Mencho",
-        "Ezra",
-        "Spurs",
-        "Happy New Week",
-        "#TOTARS",
-        "Blord",
         "Everton",
-        "Arsenal",
-        "CJNG"
+        "Blord",
+        "#ClickOptionsDemoContest",
+        "Thursday and Friday",
+        "Phil Neville",
+        "Happy New Week",
+        "El Mencho",
+        "#MondayMotivation",
+        "IMISI X SOFT CANADA",
+        "Baraka",
+        "Spotify Nigeria"
       ],
       "hashtags": [
-        "#TOTARS",
+        "#ClickOptionsDemoContest",
         "#MondayMotivation",
-        "#vankedisitrader",
         "#ElitesOnly",
-        "#COYG"
+        "#ImisiAyanwale",
+        "#EVEMUN",
+        "#MondayVibes"
       ],
       "regular_topics": [
-        "Simi",
-        "Tottenham",
-        "El Mencho",
-        "Ezra",
-        "Spurs",
-        "Happy New Week",
-        "Blord",
         "Everton",
-        "Arsenal",
-        "CJNG",
-        "Chelsea"
+        "Blord",
+        "Thursday and Friday",
+        "Phil Neville",
+        "Happy New Week",
+        "El Mencho",
+        "IMISI X SOFT CANADA",
+        "Baraka",
+        "Spotify Nigeria",
+        "CONGRATULATIONS IMISI",
+        "IMISI THE BRAND AMBASSADOR"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
