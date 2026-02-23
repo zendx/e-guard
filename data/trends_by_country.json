@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-23T07:18:05.175391+00:00",
+  "generated_at_utc": "2026-02-23T07:52:18.235289+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -166,38 +166,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 06:51:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 07:42:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
         "Happy New Week",
         "Simi",
         "Spurs",
-        "#TOTARS",
-        "Ezra",
-        "GM CT",
         "Amen",
+        "Ezra",
+        "#TOTARS",
+        "MY HELP HAS COME",
         "El Mencho",
-        "CJNG",
+        "GM CT",
         "#MondayMotivation"
       ],
       "hashtags": [
         "#TOTARS",
         "#MondayMotivation",
-        "#RamadanDay06",
-        "#chebur",
-        "#NFOLIV"
+        "#NSPPD",
+        "#NFOLIV",
+        "#COYG"
       ],
       "regular_topics": [
         "Tottenham",
         "Happy New Week",
         "Simi",
         "Spurs",
-        "Ezra",
-        "GM CT",
         "Amen",
+        "Ezra",
+        "MY HELP HAS COME",
         "El Mencho",
+        "GM CT",
         "CJNG",
-        "Cancelo",
         "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
