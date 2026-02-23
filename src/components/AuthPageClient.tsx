@@ -71,7 +71,7 @@ export default function AuthPageClient() {
       <div className="relative mx-auto w-full max-w-md rounded-3xl border border-white/15 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
         <div className="mb-6">
           <Link href="/" className="text-xs font-semibold tracking-[0.24em] text-cyan-300 uppercase">
-            Swave
+            S-Trends
           </Link>
           <h1 className="mt-2 text-2xl font-bold">{title}</h1>
           <p className="mt-1 text-sm text-slate-300">
@@ -170,7 +170,7 @@ export default function AuthPageClient() {
         </form>
 
         <p className="mt-5 text-center text-xs text-slate-400">
-          By continuing, you agree to use Swave responsibly.
+          By continuing, you agree to use S-Trends responsibly.
         </p>
       </div>
     </div>

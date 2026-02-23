@@ -6,7 +6,7 @@ export default function PricingPage() {
       <div className="mx-auto w-full max-w-5xl">
         <header className="mb-10 flex items-center justify-between">
           <Link href="/" className="text-lg font-bold tracking-wide text-cyan-300">
-            Swave
+            S-Trends
           </Link>
           <div className="flex items-center gap-3 text-sm">
             <Link href="/" className="text-slate-300 hover:text-white">Home</Link>

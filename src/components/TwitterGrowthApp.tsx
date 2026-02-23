@@ -435,7 +435,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
               <TrendingUp size={22} className="text-white" />
             </div>
             <div>
-              <p className="text-lg font-bold">Swave Dashboard</p>
+              <p className="text-lg font-bold">S-Trends Dashboard</p>
               <p className="text-xs text-gray-400">
                 Signed in as {currentUser.name} ({currentUser.email})
               </p>

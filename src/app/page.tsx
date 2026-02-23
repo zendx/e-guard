@@ -23,7 +23,7 @@ export default function Home() {
     <div className="min-h-screen bg-[#07101b] text-white">
       <header className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-6">
         <Link href="/" className="text-lg font-bold tracking-wide text-cyan-300">
-          Swave
+          S-Trends
         </Link>
         <nav className="flex items-center gap-5 text-sm text-slate-300">
           <Link href="/pricing" className="hover:text-white">Pricing</Link>

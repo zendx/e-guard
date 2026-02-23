@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Swave - X Impression/Views booster",
+  title: "S-Trends - X Impression/Views booster",
   description: "Country-based X trend discovery to boost impressions and views.",
 };
 
