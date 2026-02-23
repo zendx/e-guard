@@ -40,6 +40,10 @@ type TwitterGrowthAppProps = {
   user: AuthUser;
 };
 
+function normalizeTopicLabel(topic: string): string {
+  return topic.replace(/\s+/g, " ").trim();
+}
+
 const fallbackTrendsByCountry: Record<string, string[]> = {
   USA: [
     "#OpenAI",
@@ -129,7 +133,18 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
     regularTrendsByCountry,
   ]);
 
-  const trendString = useMemo(() => visibleTrends.join(" "), [visibleTrends]);
+  const normalizedVisibleTrends = useMemo(
+    () =>
+      visibleTrends
+        .map((topic) => normalizeTopicLabel(topic))
+        .filter((topic) => topic.length > 0),
+    [visibleTrends],
+  );
+
+  const trendString = useMemo(
+    () => normalizedVisibleTrends.join(" "),
+    [normalizedVisibleTrends],
+  );
   const currentTimestamp = countryTimestamps[selectedCountry] ?? null;
 
   const freeLimitReached =
@@ -687,15 +702,25 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
                 freeLimitReached ? "blur-[3px] opacity-60" : ""
               }`}
             >
-              {visibleTrends.length > 0 ? (
-                visibleTrends.map((trend, index) => (
-                  <span
-                    key={`${trend}-${index}`}
-                    className="cursor-default rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-sm font-medium text-blue-300 transition-colors hover:bg-blue-500/20"
-                  >
-                    {trend}
-                  </span>
-                ))
+              {normalizedVisibleTrends.length > 0 ? (
+                <ol className="grid w-full gap-2 sm:grid-cols-2">
+                  {normalizedVisibleTrends.map((trend, index) => (
+                    <li
+                      key={`${trend}-${index}`}
+                      className="flex items-start gap-2 rounded-xl border border-blue-500/20 bg-blue-500/10 px-3 py-2"
+                    >
+                      <span className="mt-0.5 inline-flex h-5 min-w-5 items-center justify-center rounded-full bg-blue-500/30 px-1 text-[10px] font-bold text-blue-100">
+                        {index + 1}
+                      </span>
+                      <span
+                        title={trend}
+                        className="text-sm leading-5 font-medium text-blue-200 break-words"
+                      >
+                        {trend}
+                      </span>
+                    </li>
+                  ))}
+                </ol>
               ) : (
                 <p className="text-sm text-gray-400">No topics available yet for this country.</p>
               )}
@@ -708,7 +733,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           <div className="mb-8 grid grid-cols-2 gap-4">
             <button
               onClick={copyToClipboard}
-              disabled={visibleTrends.length === 0 || freeLimitReached}
+              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached}
               className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
             >
               {copied ? <Check size={20} /> : <Copy size={20} />}
@@ -717,7 +742,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
 
             <button
               onClick={shareToX}
-              disabled={visibleTrends.length === 0 || freeLimitReached}
+              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached}
               className="flex items-center justify-center gap-2 rounded-2xl bg-black py-4 font-bold text-white transition-all hover:bg-neutral-900 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
             >
               <svg
