@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-02-23T06:38:05.414413+00:00",
+  "generated_at_utc": "2026-02-23T07:18:05.175391+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 05:54:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:45:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kash",
         "Tourette",
         "#AKOTSK",
         "#LCDLF6",
-        "Claressa",
         "FBI Director",
+        "Claressa",
         "#IndustryHBO",
-        "Lakers",
-        "#RHOP",
         "960 SAT",
-        "#AKnightOfTheSevenKingdoms"
+        "#RHOP",
+        "Oriana",
+        "Maekar"
       ],
       "hashtags": [
         "#AKOTSK",
@@ -28,41 +28,41 @@
       "regular_topics": [
         "Kash",
         "Tourette",
-        "Claressa",
         "FBI Director",
-        "Lakers",
+        "Claressa",
         "960 SAT",
-        "Maekar",
         "Oriana",
-        "Payton Pritchard",
+        "Maekar",
+        "Lakers",
         "El Mencho",
-        "Celtics"
+        "Celinee",
+        "M\u00e9xico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 06:16:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 07:08:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "#TOTARS",
         "Tourette",
+        "#TOTARS",
         "#River",
         "#BAFTAs",
-        "#NexiraPreTGE",
         "Tottenham",
         "Gabriel",
         "Gyokeres",
         "#NFOLIV",
+        "Carrington",
         "Gakpo"
       ],
       "hashtags": [
         "#TOTARS",
         "#River",
         "#BAFTAs",
-        "#NexiraPreTGE",
-        "#NFOLIV"
+        "#NFOLIV",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Spurs",
@@ -70,38 +70,38 @@
         "Tottenham",
         "Gabriel",
         "Gyokeres",
-        "Gakpo",
         "Carrington",
-        "Clacton",
+        "Gakpo",
         "Arsenal",
-        "Spence",
-        "Forest"
+        "Clacton",
+        "Forest",
+        "I Swear"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 06:15:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 07:06:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
         "Canada",
         "Puerto Vallarta",
-        "#CANvsUSA",
+        "#canvsusa",
         "Makar",
         "Toews",
-        "Jack Hughes",
         "MacKinnon",
+        "Jack Hughes",
         "#Olympics2026",
         "Team USA",
         "Alabama"
       ],
       "hashtags": [
-        "#CANvsUSA",
+        "#canvsusa",
         "#Olympics2026",
+        "#bucciovertimechallenge",
         "#AKOTSK",
-        "#IndustryHBO",
-        "#bucciovertimechallenge"
+        "#90dayfiance"
       ],
       "regular_topics": [
         "Hellebuyck",
@@ -109,56 +109,56 @@
         "Puerto Vallarta",
         "Makar",
         "Toews",
-        "Jack Hughes",
         "MacKinnon",
+        "Jack Hughes",
         "Team USA",
         "Alabama",
-        "MAID",
-        "El Mencho"
+        "El Mencho",
+        "Tourette"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Feb 23 2026 06:03:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:55:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HappyBirthdayManojKumarJain",
+        "#AmitShahSarthiSamvad",
+        "#GalaxyAI",
         "#\u0930\u093e\u0939\u0941\u0932_\u0917\u093e\u0902\u0927\u0940_\u0936\u0930\u094d\u092e_\u0915\u0930\u094b",
-        "#LifeLessons",
-        "#GurmeetRamRahim",
+        "#HappyBirthdayManojKumarJain",
+        "#AIPhone",
         "\u0917\u093e\u0921\u0917\u0947 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "#AayaSher",
-        "El Mencho",
-        "Spiritual Awakening",
-        "Protect Spiritual Center",
+        "Bharat Taxi",
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
-        "CJNG"
+        "Spiritual Awakening",
+        "El Mencho",
+        "IDFC First Bank"
       ],
       "hashtags": [
-        "#HappyBirthdayManojKumarJain",
+        "#AmitShahSarthiSamvad",
+        "#GalaxyAI",
         "#\u0930\u093e\u0939\u0941\u0932_\u0917\u093e\u0902\u0927\u0940_\u0936\u0930\u094d\u092e_\u0915\u0930\u094b",
-        "#LifeLessons",
-        "#GurmeetRamRahim",
+        "#HappyBirthdayManojKumarJain",
+        "#AIPhone",
         "#AayaSher",
-        "#MukulRoy",
-        "#SaveAshram",
         "#TheParadise",
-        "#GodMorningMonday",
-        "#Save_Hindu_Girls",
-        "#MondayMotivation"
+        "#LifeLessons",
+        "#MukulRoy",
+        "#GurmeetRamRahim",
+        "#Nani"
       ],
       "regular_topics": [
         "\u0917\u093e\u0921\u0917\u0947 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "El Mencho",
-        "Spiritual Awakening",
-        "Protect Spiritual Center",
+        "Bharat Taxi",
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
-        "CJNG",
-        "\u092e\u0941\u0915\u0941\u0932 \u0930\u0949\u092f",
+        "Spiritual Awakening",
+        "El Mencho",
+        "IDFC First Bank",
         "\u0921\u094d\u0930\u0917 \u092e\u093e\u092b\u093f\u092f\u093e",
         "ABVP",
-        "\u0928\u093f\u0930\u0902\u0915\u093e\u0930\u0940 \u092e\u093f\u0936\u0928",
+        "CJNG",
+        "\u092e\u0941\u0915\u0941\u0932 \u0930\u0949\u092f",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u091c\u094c\u0928\u092a\u0941\u0930\u093f\u092f\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -166,39 +166,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 05:57:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:51:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
+        "Happy New Week",
         "Simi",
         "Spurs",
         "#TOTARS",
-        "Happy New Week",
         "Ezra",
-        "El Mencho",
         "GM CT",
+        "Amen",
+        "El Mencho",
         "CJNG",
-        "Cancelo",
-        "Gyokeres"
+        "#MondayMotivation"
       ],
       "hashtags": [
         "#TOTARS",
         "#MondayMotivation",
         "#RamadanDay06",
-        "#COYG",
-        "#chebur"
+        "#chebur",
+        "#NFOLIV"
       ],
       "regular_topics": [
         "Tottenham",
+        "Happy New Week",
         "Simi",
         "Spurs",
-        "Happy New Week",
         "Ezra",
-        "El Mencho",
         "GM CT",
+        "Amen",
+        "El Mencho",
         "CJNG",
         "Cancelo",
-        "Gyokeres",
-        "Ya Allah"
+        "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
