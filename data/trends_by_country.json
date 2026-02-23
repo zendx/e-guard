@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-23T00:51:38.994166+00:00",
+  "generated_at_utc": "2026-02-23T01:02:15.774821+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -115,23 +115,23 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Feb 23 2026 00:00:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 00:54:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#GodMorningMonday",
         "#INDvsSA",
         "El Mencho",
-        "#T20WorldCup",
         "CJNG",
-        "South Africa",
-        "Spurs",
         "Puerto Vallarta",
+        "South Africa",
+        "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
         "Jalisco",
         "Nemesio Oseguera Cervantes",
-        "Axar",
-        "Gambhir"
+        "Spurs",
+        "Axar"
       ],
       "hashtags": [
+        "#GodMorningMonday",
         "#INDvsSA",
-        "#T20WorldCup",
         "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
         "#VIROSH",
         "#VijayDeverakonda"
@@ -139,52 +139,52 @@
       "regular_topics": [
         "El Mencho",
         "CJNG",
-        "South Africa",
-        "Spurs",
         "Puerto Vallarta",
+        "South Africa",
         "Jalisco",
         "Nemesio Oseguera Cervantes",
+        "Spurs",
         "Axar",
-        "Gambhir",
         "Abhishek",
-        "Tilak"
+        "Gambhir",
+        "Virat Kohli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 23:56:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 00:48:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Mencho",
         "CJNG",
         "Simi",
+        "Puerto Vallarta",
+        "Jalisco",
         "Tottenham",
         "Spurs",
-        "Puerto Vallarta",
-        "Ezra",
-        "Jalisco",
         "STOP RAPING WOMEN",
-        "Gyokeres",
-        "Nemesio Oseguera Cervantes"
+        "Ezra",
+        "Nemesio Oseguera Cervantes",
+        "Gyokeres"
       ],
       "hashtags": [
         "#TOTARS",
         "#COYG",
-        "#Arsenal"
+        "#Probux"
       ],
       "regular_topics": [
         "El Mencho",
         "CJNG",
         "Simi",
+        "Puerto Vallarta",
+        "Jalisco",
         "Tottenham",
         "Spurs",
-        "Puerto Vallarta",
-        "Ezra",
-        "Jalisco",
         "STOP RAPING WOMEN",
-        "Gyokeres",
-        "Nemesio Oseguera Cervantes"
+        "Ezra",
+        "Nemesio Oseguera Cervantes",
+        "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
