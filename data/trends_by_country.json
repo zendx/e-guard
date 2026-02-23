@@ -1,59 +1,59 @@
 {
-  "generated_at_utc": "2026-02-22T23:44:59.425377+00:00",
+  "generated_at_utc": "2026-02-23T00:51:38.994166+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Feb 22 2026 22:57:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 23:52:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Canada",
         "Tourette",
+        "Canada",
         "El Mencho",
         "Puerto Vallarta",
         "Canadians",
-        "Larson",
         "M\u00e9xico",
         "Jalisco",
         "CJNG",
-        "Olympics",
-        "Delroy"
+        "Larson",
+        "Podz",
+        "#NASCAR"
       ],
       "hashtags": [
         "#NASCAR",
         "#Autotrader400",
-        "#ClosingCeremony"
+        "#DubNation"
       ],
       "regular_topics": [
-        "Canada",
         "Tourette",
+        "Canada",
         "El Mencho",
         "Puerto Vallarta",
         "Canadians",
-        "Larson",
         "M\u00e9xico",
         "Jalisco",
         "CJNG",
-        "Olympics",
-        "Delroy"
+        "Larson",
+        "Podz",
+        "Nuggets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Feb 22 2026 23:20:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 00:12:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Belle",
         "Tourette",
+        "Belle",
         "Scott",
         "Carrington",
         "Charlie",
         "Ciaran",
-        "Lauren",
+        "John Davidson",
         "Spurs",
         "#BAFTAs",
-        "Curtis",
-        "#LoveIslandUK"
+        "I Swear",
+        "Lauren"
       ],
       "hashtags": [
         "#BAFTAs",
@@ -63,35 +63,35 @@
         "#ClosingCeremony"
       ],
       "regular_topics": [
-        "Belle",
         "Tourette",
+        "Belle",
         "Scott",
         "Carrington",
         "Charlie",
         "Ciaran",
-        "Lauren",
+        "John Davidson",
         "Spurs",
-        "Curtis",
-        "Helena",
-        "Shaq"
+        "I Swear",
+        "Lauren",
+        "Curtis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Feb 22 2026 23:18:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 00:09:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Puerto Vallarta",
         "Tourette",
         "El Mencho",
         "Cartels",
+        "Jalisco",
         "Mexique",
         "CJNG",
-        "Jalisco",
+        "Cancun",
         "McDavid",
         "The Mexican",
-        "As a Canadian",
         "Hellebuyck"
       ],
       "hashtags": [
@@ -102,12 +102,12 @@
         "Tourette",
         "El Mencho",
         "Cartels",
+        "Jalisco",
         "Mexique",
         "CJNG",
-        "Jalisco",
+        "Cancun",
         "McDavid",
         "The Mexican",
-        "As a Canadian",
         "Hellebuyck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -115,75 +115,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Feb 22 2026 22:16:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 00:00:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsSA",
-        "#T20WorldCup",
         "El Mencho",
+        "#T20WorldCup",
         "CJNG",
         "South Africa",
         "Spurs",
-        "Axar",
-        "Jalisco",
-        "Abhishek",
         "Puerto Vallarta",
+        "Jalisco",
+        "Nemesio Oseguera Cervantes",
+        "Axar",
         "Gambhir"
       ],
       "hashtags": [
         "#INDvsSA",
         "#T20WorldCup",
         "#\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u0940_\u092f\u0925\u093e\u0930\u094d\u0925_\u091c\u093e\u0928\u0915\u093e\u0930\u0940",
-        "#Virosh",
-        "#BAFTA"
+        "#VIROSH",
+        "#VijayDeverakonda"
       ],
       "regular_topics": [
         "El Mencho",
         "CJNG",
         "South Africa",
         "Spurs",
-        "Axar",
-        "Jalisco",
-        "Abhishek",
         "Puerto Vallarta",
+        "Jalisco",
+        "Nemesio Oseguera Cervantes",
+        "Axar",
         "Gambhir",
-        "Tilak",
-        "Virat Kohli"
+        "Abhishek",
+        "Tilak"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Feb 22 2026 23:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Feb 22 2026 23:56:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Mencho",
         "CJNG",
-        "Tottenham",
         "Simi",
+        "Tottenham",
         "Spurs",
-        "Gyokeres",
-        "Jalisco",
-        "Ezra",
         "Puerto Vallarta",
-        "Tomorrow is Monday",
-        "#TOTARS"
+        "Ezra",
+        "Jalisco",
+        "STOP RAPING WOMEN",
+        "Gyokeres",
+        "Nemesio Oseguera Cervantes"
       ],
       "hashtags": [
         "#TOTARS",
-        "#COYG"
+        "#COYG",
+        "#Arsenal"
       ],
       "regular_topics": [
         "El Mencho",
         "CJNG",
-        "Tottenham",
         "Simi",
+        "Tottenham",
         "Spurs",
-        "Gyokeres",
-        "Jalisco",
-        "Ezra",
         "Puerto Vallarta",
-        "Tomorrow is Monday",
-        "Kcee"
+        "Ezra",
+        "Jalisco",
+        "STOP RAPING WOMEN",
+        "Gyokeres",
+        "Nemesio Oseguera Cervantes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
