@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-02-23T05:23:44.170815+00:00",
+  "generated_at_utc": "2026-02-23T06:38:05.414413+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Feb 23 2026 04:09:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 05:54:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kash",
         "Tourette",
         "#AKOTSK",
-        "Lakers",
-        "#RHOP",
+        "#LCDLF6",
         "Claressa",
         "FBI Director",
-        "Payton Pritchard",
         "#IndustryHBO",
-        "#AKnightOfTheSevenKingdoms",
-        "#BaddiesUSA"
+        "Lakers",
+        "#RHOP",
+        "960 SAT",
+        "#AKnightOfTheSevenKingdoms"
       ],
       "hashtags": [
         "#AKOTSK",
-        "#RHOP",
+        "#LCDLF6",
         "#IndustryHBO",
-        "#AKnightOfTheSevenKingdoms",
-        "#BaddiesUSA"
+        "#RHOP",
+        "#AKnightOfTheSevenKingdoms"
       ],
       "regular_topics": [
         "Kash",
         "Tourette",
-        "Lakers",
         "Claressa",
         "FBI Director",
+        "Lakers",
+        "960 SAT",
+        "Maekar",
+        "Oriana",
         "Payton Pritchard",
-        "Kelly Price",
-        "Celtics",
         "El Mencho",
-        "Canadians",
-        "Puerto Vallarta"
+        "Celtics"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Feb 23 2026 04:33:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:16:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "Tourette",
         "#TOTARS",
+        "Tourette",
+        "#River",
         "#BAFTAs",
+        "#NexiraPreTGE",
         "Tottenham",
         "Gabriel",
         "Gyokeres",
-        "#River",
-        "Delroy",
-        "John Davidson",
-        "#NFOLIV"
+        "#NFOLIV",
+        "Gakpo"
       ],
       "hashtags": [
         "#TOTARS",
-        "#BAFTAs",
         "#River",
-        "#NFOLIV",
-        "#loveisland"
+        "#BAFTAs",
+        "#NexiraPreTGE",
+        "#NFOLIV"
       ],
       "regular_topics": [
         "Spurs",
@@ -70,19 +70,19 @@
         "Tottenham",
         "Gabriel",
         "Gyokeres",
-        "Delroy",
-        "John Davidson",
         "Gakpo",
         "Carrington",
         "Clacton",
-        "Arsenal"
+        "Arsenal",
+        "Spence",
+        "Forest"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Feb 23 2026 04:30:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:15:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hellebuyck",
         "Canada",
@@ -90,18 +90,18 @@
         "#CANvsUSA",
         "Makar",
         "Toews",
-        "#Olympics2026",
-        "MacKinnon",
         "Jack Hughes",
-        "Alabama",
-        "Team USA"
+        "MacKinnon",
+        "#Olympics2026",
+        "Team USA",
+        "Alabama"
       ],
       "hashtags": [
         "#CANvsUSA",
         "#Olympics2026",
-        "#90DayFiance",
+        "#AKOTSK",
         "#IndustryHBO",
-        "#AKOTSK"
+        "#bucciovertimechallenge"
       ],
       "regular_topics": [
         "Hellebuyck",
@@ -109,10 +109,10 @@
         "Puerto Vallarta",
         "Makar",
         "Toews",
-        "MacKinnon",
         "Jack Hughes",
-        "Alabama",
+        "MacKinnon",
         "Team USA",
+        "Alabama",
         "MAID",
         "El Mencho"
       ],
@@ -121,84 +121,84 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Feb 23 2026 04:21:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 06:03:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HappyBirthdayManojKumarJain",
+        "#\u0930\u093e\u0939\u0941\u0932_\u0917\u093e\u0902\u0927\u0940_\u0936\u0930\u094d\u092e_\u0915\u0930\u094b",
         "#LifeLessons",
         "#GurmeetRamRahim",
-        "#SaveAshram",
-        "Protect Spiritual Center",
-        "Spiritual Awakening",
-        "#GodMorningMonday",
         "\u0917\u093e\u0921\u0917\u0947 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "#AayaSher",
         "El Mencho",
-        "#MukulRoy",
+        "Spiritual Awakening",
+        "Protect Spiritual Center",
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
         "CJNG"
       ],
       "hashtags": [
+        "#HappyBirthdayManojKumarJain",
+        "#\u0930\u093e\u0939\u0941\u0932_\u0917\u093e\u0902\u0927\u0940_\u0936\u0930\u094d\u092e_\u0915\u0930\u094b",
         "#LifeLessons",
         "#GurmeetRamRahim",
-        "#SaveAshram",
-        "#GodMorningMonday",
+        "#AayaSher",
         "#MukulRoy",
+        "#SaveAshram",
+        "#TheParadise",
+        "#GodMorningMonday",
         "#Save_Hindu_Girls",
-        "#MondayVibes",
-        "#MondayMorning",
-        "#MondayMotivation",
-        "#Boong",
-        "#BAFTA"
+        "#MondayMotivation"
       ],
       "regular_topics": [
-        "Protect Spiritual Center",
-        "Spiritual Awakening",
         "\u0917\u093e\u0921\u0917\u0947 \u092e\u0939\u093e\u0930\u093e\u091c",
         "El Mencho",
+        "Spiritual Awakening",
+        "Protect Spiritual Center",
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
         "CJNG",
         "\u092e\u0941\u0915\u0941\u0932 \u0930\u0949\u092f",
+        "\u0921\u094d\u0930\u0917 \u092e\u093e\u092b\u093f\u092f\u093e",
+        "ABVP",
         "\u0928\u093f\u0930\u0902\u0915\u093e\u0930\u0940 \u092e\u093f\u0936\u0928",
-        "Jalisco New Generation Cartel",
-        "Nemesio Oseguera Cervantes",
-        "Puerto Vallarta"
+        "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u091c\u094c\u0928\u092a\u0941\u0930\u093f\u092f\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Feb 23 2026 05:06:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Feb 23 2026 05:57:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
-        "Spurs",
         "Simi",
+        "Spurs",
         "#TOTARS",
+        "Happy New Week",
         "Ezra",
-        "#RamadanDay6",
         "El Mencho",
-        "Ya Allah",
+        "GM CT",
+        "CJNG",
         "Cancelo",
-        "Gyokeres",
-        "CJNG"
+        "Gyokeres"
       ],
       "hashtags": [
         "#TOTARS",
-        "#RamadanDay6",
         "#MondayMotivation",
+        "#RamadanDay06",
         "#COYG",
         "#chebur"
       ],
       "regular_topics": [
         "Tottenham",
-        "Spurs",
         "Simi",
+        "Spurs",
+        "Happy New Week",
         "Ezra",
         "El Mencho",
-        "Ya Allah",
+        "GM CT",
+        "CJNG",
         "Cancelo",
         "Gyokeres",
-        "CJNG",
-        "Happy New Week",
-        "Chelsea"
+        "Ya Allah"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
