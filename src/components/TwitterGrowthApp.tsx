@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { Bell, Check, Copy, LogOut, RefreshCw, Save, TrendingUp, WandSparkles } from "lucide-react";
 import type { AccountDeleteRequest, AuthUser, UserNotification, UserUsage } from "@/lib/auth-types";
+import InactivityLogout from "@/components/InactivityLogout";
 
 type TrendsApiCountry = {
   topics?: string[];
@@ -425,7 +426,8 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
   };
 
   return (
-    <div className="relative min-h-screen bg-[#0f1419] p-6 text-white">
+    <div className="relative min-h-screen bg-[#0f1419] p-4 text-white sm:p-6">
+      <InactivityLogout />
       <div className="pointer-events-none absolute top-0 left-1/2 h-64 w-full max-w-2xl -translate-x-1/2 bg-blue-500/10 blur-[120px]" />
 
       <div className="relative mx-auto w-full max-w-6xl">
@@ -601,7 +603,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           )}
         </div>
 
-        <div className="rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur-xl">
+        <div className="rounded-3xl border border-white/10 bg-white/5 p-5 shadow-2xl backdrop-blur-xl sm:p-8">
           <div className="mb-8">
             {loadError ? (
               <p className="mb-4 rounded-lg border border-amber-400/20 bg-amber-500/10 px-3 py-2 text-xs text-amber-300">
@@ -648,7 +650,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
             <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
               Topic View
             </label>
-            <div className="mb-5 grid grid-cols-3 gap-2">
+            <div className="mb-5 grid grid-cols-1 gap-2 sm:grid-cols-3">
               <button
                 onClick={() => {
                   setTopicMode("all");
@@ -730,7 +732,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
             ) : null}
           </div>
 
-          <div className="mb-8 grid grid-cols-2 gap-4">
+          <div className="mb-8 grid grid-cols-1 gap-4 sm:grid-cols-2">
             <button
               onClick={copyToClipboard}
               disabled={normalizedVisibleTrends.length === 0 || freeLimitReached}

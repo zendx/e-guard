@@ -3,6 +3,7 @@
 import { FormEvent, useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { AccountDeleteRequest, AuthUser, AuthUserStatus, UserNotification, UserUsage } from "@/lib/auth-types";
+import InactivityLogout from "@/components/InactivityLogout";
 
 type AdminUser = AuthUser & {
   metrics: UserUsage;
@@ -28,6 +29,24 @@ type UsageSettingsResponse = {
   globalFreeLimit?: number;
   error?: string;
 };
+
+const NEW_USER_WINDOW_MS = 1000 * 60 * 60 * 24;
+
+function isNewUser(createdAt: string): boolean {
+  const createdAtMs = Date.parse(createdAt);
+  if (Number.isNaN(createdAtMs)) {
+    return false;
+  }
+  return Date.now() - createdAtMs <= NEW_USER_WINDOW_MS;
+}
+
+function formatDateTime(value: string): string {
+  const parsed = Date.parse(value);
+  if (Number.isNaN(parsed)) {
+    return value;
+  }
+  return new Date(parsed).toLocaleString();
+}
 
 export default function AdminPanel() {
   const [users, setUsers] = useState<AdminUser[]>([]);
@@ -69,6 +88,26 @@ export default function AdminPanel() {
   const selectedUsageUser = useMemo(
     () => users.find((u) => u.id === usageUserId) ?? null,
     [users, usageUserId],
+  );
+  const sortedUsers = useMemo(
+    () => [...users].sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt)),
+    [users],
+  );
+  const newUsers = useMemo(
+    () => sortedUsers.filter((user) => isNewUser(user.createdAt)),
+    [sortedUsers],
+  );
+  const activeCount = useMemo(
+    () => users.filter((user) => user.status === "active").length,
+    [users],
+  );
+  const suspendedCount = useMemo(
+    () => users.filter((user) => user.status === "suspended").length,
+    [users],
+  );
+  const disabledCount = useMemo(
+    () => users.filter((user) => user.status === "disabled").length,
+    [users],
   );
 
   const hydrateEditForm = (userId: string) => {
@@ -381,7 +420,8 @@ export default function AdminPanel() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0b1320] px-6 py-8 text-white">
+    <div className="min-h-screen bg-[#0b1320] px-4 py-6 text-white sm:px-6 sm:py-8">
+      <InactivityLogout />
       <div className="mx-auto w-full max-w-7xl">
         <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
           <div>
@@ -403,6 +443,55 @@ export default function AdminPanel() {
             {error}
           </p>
         ) : null}
+
+        <div className="mb-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+          <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
+            <p className="text-xs text-slate-300">Total Users</p>
+            <p className="mt-2 text-2xl font-bold text-white">{users.length}</p>
+          </div>
+          <div className="rounded-2xl border border-cyan-300/30 bg-cyan-300/10 p-4">
+            <p className="text-xs text-cyan-100">New (Last 24h)</p>
+            <p className="mt-2 text-2xl font-bold text-cyan-100">{newUsers.length}</p>
+          </div>
+          <div className="rounded-2xl border border-amber-300/30 bg-amber-300/10 p-4">
+            <p className="text-xs text-amber-100">Suspended</p>
+            <p className="mt-2 text-2xl font-bold text-amber-100">{suspendedCount}</p>
+          </div>
+          <div className="rounded-2xl border border-rose-300/30 bg-rose-300/10 p-4">
+            <p className="text-xs text-rose-100">Disabled</p>
+            <p className="mt-2 text-2xl font-bold text-rose-100">{disabledCount}</p>
+            <p className="mt-1 text-[11px] text-rose-100/80">Active: {activeCount}</p>
+          </div>
+        </div>
+
+        <div className="mb-6 rounded-2xl border border-cyan-300/30 bg-cyan-300/10 p-5">
+          <div className="mb-3 flex items-center justify-between gap-2">
+            <h2 className="text-lg font-semibold text-cyan-100">New Registrations</h2>
+            <span className="rounded-full border border-cyan-200/40 px-2 py-1 text-[11px] text-cyan-100">
+              Last 24 hours
+            </span>
+          </div>
+          {loadingUsers ? (
+            <p className="text-sm text-cyan-100/90">Loading users...</p>
+          ) : newUsers.length === 0 ? (
+            <p className="text-sm text-cyan-100/90">No new registrations in the past 24 hours.</p>
+          ) : (
+            <div className="grid gap-2 md:grid-cols-2 xl:grid-cols-3">
+              {newUsers.slice(0, 6).map((user) => (
+                <div
+                  key={user.id}
+                  className="rounded-xl border border-cyan-200/30 bg-black/20 px-3 py-2"
+                >
+                  <p className="text-sm font-semibold text-white">{user.name}</p>
+                  <p className="text-xs text-cyan-100/90">{user.email}</p>
+                  <p className="mt-1 text-[11px] text-cyan-100/70">
+                    Registered: {formatDateTime(user.createdAt)}
+                  </p>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
 
         <div className="mb-6 grid gap-5 lg:grid-cols-2">
           <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
@@ -639,11 +728,72 @@ export default function AdminPanel() {
           {loadingUsers ? (
             <p className="text-sm text-slate-300">Loading users...</p>
           ) : (
-            <div className="overflow-x-auto">
-              <table className="w-full text-left text-sm">
+            <>
+              <div className="space-y-3 md:hidden">
+                {sortedUsers.map((u) => (
+                  <div key={u.id} className="rounded-xl border border-white/10 bg-black/20 p-3">
+                    <div className="flex items-start justify-between gap-2">
+                      <div>
+                        <p className="font-semibold text-white">{u.name}</p>
+                        <p className="text-xs text-slate-400">{u.email}</p>
+                      </div>
+                      <div className="flex flex-wrap justify-end gap-1">
+                        {isNewUser(u.createdAt) ? (
+                          <span className="rounded-full border border-cyan-300/50 bg-cyan-300/20 px-2 py-0.5 text-[10px] font-semibold text-cyan-100">
+                            New
+                          </span>
+                        ) : null}
+                        <span className="rounded-full border border-white/15 px-2 py-0.5 text-[10px] uppercase text-slate-300">
+                          {u.status}
+                        </span>
+                      </div>
+                    </div>
+                    <p className="mt-2 text-[11px] text-slate-400">
+                      Registered: {formatDateTime(u.createdAt)}
+                    </p>
+                    <div className="mt-2 grid grid-cols-3 gap-2 text-xs text-slate-300">
+                      <p>Copy: {u.metrics.copyClicks}</p>
+                      <p>Post: {u.metrics.postClicks}</p>
+                      <p>Usage: {u.metrics.usageCount}/{u.metrics.freeLimit}</p>
+                    </div>
+                    <div className="mt-3 flex flex-wrap gap-1">
+                      <button
+                        onClick={() => updateStatus(u.id, "active")}
+                        className="rounded border border-emerald-300/40 bg-emerald-300/15 px-2 py-1 text-xs"
+                      >
+                        Activate
+                      </button>
+                      <button
+                        onClick={() => updateStatus(u.id, "suspended")}
+                        className="rounded border border-amber-300/40 bg-amber-300/15 px-2 py-1 text-xs"
+                      >
+                        Suspend
+                      </button>
+                      <button
+                        onClick={() => updateStatus(u.id, "disabled")}
+                        className="rounded border border-rose-300/40 bg-rose-300/15 px-2 py-1 text-xs"
+                      >
+                        Disable
+                      </button>
+                      {!u.isAdmin ? (
+                        <button
+                          onClick={() => directDeleteUser(u.id)}
+                          className="rounded border border-rose-500/50 bg-rose-500/20 px-2 py-1 text-xs"
+                        >
+                          Delete
+                        </button>
+                      ) : null}
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="hidden overflow-x-auto md:block">
+                <table className="w-full text-left text-sm">
                 <thead className="text-xs text-slate-300 uppercase">
                   <tr>
                     <th className="pb-2">User</th>
+                    <th className="pb-2">Registered</th>
                     <th className="pb-2">Status</th>
                     <th className="pb-2">KYC</th>
                     <th className="pb-2">Copy</th>
@@ -654,12 +804,20 @@ export default function AdminPanel() {
                   </tr>
                 </thead>
                 <tbody>
-                  {users.map((u) => (
+                  {sortedUsers.map((u) => (
                     <tr key={u.id} className="border-t border-white/10 align-top">
                       <td className="py-2">
-                        <p className="font-semibold text-white">{u.name}</p>
+                        <div className="flex items-center gap-2">
+                          <p className="font-semibold text-white">{u.name}</p>
+                          {isNewUser(u.createdAt) ? (
+                            <span className="rounded-full border border-cyan-300/50 bg-cyan-300/20 px-2 py-0.5 text-[10px] font-semibold text-cyan-100">
+                              New
+                            </span>
+                          ) : null}
+                        </div>
                         <p className="text-xs text-slate-400">{u.email}</p>
                       </td>
+                      <td className="py-2 text-xs text-slate-300">{formatDateTime(u.createdAt)}</td>
                       <td className="py-2">{u.status}</td>
                       <td className="py-2 text-xs text-slate-300">
                         <p>{u.country || "-"}</p>
@@ -702,8 +860,9 @@ export default function AdminPanel() {
                     </tr>
                   ))}
                 </tbody>
-              </table>
-            </div>
+                </table>
+              </div>
+            </>
           )}
         </div>
 
