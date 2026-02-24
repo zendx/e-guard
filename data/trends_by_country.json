@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-24T21:35:11.720790+00:00",
+  "generated_at_utc": "2026-02-24T22:20:53.937551+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Feb 24 2026 21:03:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 21:54:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "SOTU",
         "State of the Union",
         "Candace",
-        "Konnor Griffin",
+        "Bodo",
+        "Trent Williams",
+        "Inter Milan",
         "Erika",
-        "#RHOA",
         "NYPD",
-        "#PIPPKIN",
-        "Dressrosa",
-        "Girard",
-        "Stripe"
+        "Konnor Griffin",
+        "Martin Short",
+        "Carville"
       ],
       "hashtags": [
         "#RHOA",
         "#PIPPKIN",
-        "#stayselcaday",
         "#Sanremo2026",
-        "#JUNGKOOKxCALVINKLEIN"
+        "#stayselcaday",
+        "#ChampionsLeague"
       ],
       "regular_topics": [
         "SOTU",
         "State of the Union",
         "Candace",
-        "Konnor Griffin",
+        "Bodo",
+        "Trent Williams",
+        "Inter Milan",
         "Erika",
         "NYPD",
-        "Dressrosa",
-        "Girard",
-        "Stripe",
+        "Konnor Griffin",
         "Martin Short",
-        "Bongino"
+        "Carville"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -120,83 +120,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Feb 24 2026 20:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 22:06:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PAKvsENG",
         "Harry Brook",
-        "England",
         "#AayaSher",
-        "SAATHIYA OUT NOW",
-        "#AskFarrhana",
         "#TheParadise",
-        "Babar Azam",
+        "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
         "#\u0928\u093f\u092e\u0902\u0924\u094d\u0930\u0923\u0938\u0902\u0938\u093e\u0930\u0915\u094b_\u0938\u092e\u094d\u092e\u093e\u0928\u0915\u0947\u0938\u093e\u0925",
-        "TVSiQube",
-        "Usman Tariq"
+        "5Days Left For Bodh Diwas",
+        "England",
+        "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
+        "SAATHIYA OUT NOW",
+        "Bodo Glimt"
       ],
       "hashtags": [
         "#PAKvsENG",
         "#AayaSher",
-        "#AskFarrhana",
         "#TheParadise",
-        "#\u0928\u093f\u092e\u0902\u0924\u094d\u0930\u0923\u0938\u0902\u0938\u093e\u0930\u0915\u094b_\u0938\u092e\u094d\u092e\u093e\u0928\u0915\u0947\u0938\u093e\u0925",
-        "#RinkuSingh",
-        "#CongratsECI",
-        "#PradaFW26xPond",
-        "#PsychoSaiyaan",
-        "#Nani",
-        "#CatForCashEP6"
+        "#\u0938\u0902\u0924\u0917\u0930\u0940\u092c\u0926\u093e\u0938_\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
+        "#\u0928\u093f\u092e\u0902\u0924\u094d\u0930\u0923\u0938\u0902\u0938\u093e\u0930\u0915\u094b_\u0938\u092e\u094d\u092e\u093e\u0928\u0915\u0947\u0938\u093e\u0925"
       ],
       "regular_topics": [
         "Harry Brook",
+        "5Days Left For Bodh Diwas",
         "England",
+        "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
         "SAATHIYA OUT NOW",
-        "Babar Azam",
-        "TVSiQube",
-        "Usman Tariq",
-        "\u0932\u0949\u0930\u0947\u0902\u0938 \u092c\u093f\u0936\u094d\u0928\u094b\u0908",
-        "\u0939\u0948\u0930\u0940 \u092c\u094d\u0930\u0941\u0915",
-        "National Declaration 2026",
-        "\u0930\u093f\u0902\u0915\u0942 \u0938\u093f\u0902\u0939",
-        "Shadab"
+        "Bodo Glimt",
+        "Gau Raksha Abhiyan",
+        "Cultural Heritage",
+        "West Indies",
+        "Inter Milan",
+        "COBOL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Feb 24 2026 21:09:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 22:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Inter Milan",
+        "Bodo",
+        "Bod\u00f8",
         "Qarabag",
+        "San Siro",
+        "Frank Mba",
+        "Ibrahim Chatta",
+        "Akanji",
         "Edo State",
         "Sorloth",
-        "Club Brugge",
-        "Frank Mba",
-        "Chatta",
-        "Inter Milan",
-        "Tunji Disu",
-        "Sakura",
-        "Femi Adebayo",
-        "Sowore"
+        "Norwegian"
       ],
       "hashtags": [
-        "#AMTheLowPriest",
         "#ChampionsLeague",
-        "#DARINLIZZIE",
-        "#GloxSamsungUnpacked"
+        "#DARINLIZZIE"
       ],
       "regular_topics": [
+        "Inter Milan",
+        "Bodo",
+        "Bod\u00f8",
         "Qarabag",
+        "San Siro",
+        "Frank Mba",
+        "Ibrahim Chatta",
+        "Akanji",
         "Edo State",
         "Sorloth",
-        "Club Brugge",
-        "Frank Mba",
-        "Chatta",
-        "Inter Milan",
-        "Tunji Disu",
-        "Sakura",
-        "Femi Adebayo",
-        "Sowore"
+        "Norwegian"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
