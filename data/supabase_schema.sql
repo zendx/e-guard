@@ -61,6 +61,13 @@ create table if not exists public.notifications (
   created_at timestamptz not null default now()
 );
 
+create table if not exists public.notification_reads (
+  notification_id uuid not null references public.notifications(id) on delete cascade,
+  user_id uuid not null references public.app_users(id) on delete cascade,
+  read_at timestamptz not null default now(),
+  primary key (notification_id, user_id)
+);
+
 create table if not exists public.account_delete_requests (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references public.app_users(id) on delete cascade,
@@ -74,6 +81,7 @@ create table if not exists public.account_delete_requests (
 create index if not exists notifications_user_id_idx on public.notifications(user_id);
 create index if not exists notifications_broadcast_idx on public.notifications(is_broadcast);
 create index if not exists notifications_created_at_idx on public.notifications(created_at desc);
+create index if not exists notification_reads_user_id_idx on public.notification_reads(user_id);
 create index if not exists account_delete_requests_user_id_idx on public.account_delete_requests(user_id);
 create index if not exists account_delete_requests_status_idx on public.account_delete_requests(status);
 
@@ -104,5 +112,6 @@ alter table public.app_users disable row level security;
 alter table public.app_sessions disable row level security;
 alter table public.user_metrics disable row level security;
 alter table public.notifications disable row level security;
+alter table public.notification_reads disable row level security;
 alter table public.account_delete_requests disable row level security;
 alter table public.app_settings disable row level security;

@@ -185,7 +185,7 @@ def build_payload(results: List[CountryTrends]) -> Dict[str, object]:
 
     return {
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
-        "source": "trends24.in (public web scrape)",
+        "source": "x.com (API | Public Web Scrape)",
         "countries": countries,
     }
 

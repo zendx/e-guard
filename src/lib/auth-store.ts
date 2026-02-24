@@ -17,6 +17,7 @@ const USERS_TABLE = "app_users";
 const SESSIONS_TABLE = "app_sessions";
 const METRICS_TABLE = "user_metrics";
 const NOTIFICATIONS_TABLE = "notifications";
+const NOTIFICATION_READS_TABLE = "notification_reads";
 const DELETE_REQUESTS_TABLE = "account_delete_requests";
 const APP_SETTINGS_TABLE = "app_settings";
 
@@ -64,6 +65,12 @@ type DbNotification = {
   message: string;
   is_broadcast: boolean;
   created_at: string;
+};
+
+type DbNotificationRead = {
+  notification_id: string;
+  user_id: string;
+  read_at: string;
 };
 
 type DbDeleteRequest = {
@@ -483,14 +490,114 @@ export async function getNotificationsForUser(userId: string): Promise<UserNotif
 
   const merged = [...(directData ?? []), ...(broadcastData ?? [])] as DbNotification[];
   merged.sort((a, b) => Date.parse(b.created_at) - Date.parse(a.created_at));
+  const sliced = merged.slice(0, 100);
+  const notificationIds = sliced.map((row) => row.id);
 
-  return merged.slice(0, 20).map((row) => ({
-    id: row.id,
-    title: row.title,
-    message: row.message,
-    isBroadcast: row.is_broadcast,
-    createdAt: row.created_at,
+  if (notificationIds.length === 0) {
+    return [];
+  }
+
+  const { data: readRows, error: readError } = await supabase
+    .from(NOTIFICATION_READS_TABLE)
+    .select("notification_id,user_id,read_at")
+    .eq("user_id", userId)
+    .in("notification_id", notificationIds);
+
+  if (readError) {
+    throw new Error("Failed to load notification read states.");
+  }
+
+  const readMap = new Map<string, string>();
+  for (const row of (readRows ?? []) as DbNotificationRead[]) {
+    readMap.set(row.notification_id, row.read_at);
+  }
+
+  return sliced.map((row) => {
+    const readAt = readMap.get(row.id) ?? null;
+    return {
+      id: row.id,
+      title: row.title,
+      message: row.message,
+      isBroadcast: row.is_broadcast,
+      createdAt: row.created_at,
+      isRead: readAt !== null,
+      readAt,
+    };
+  });
+}
+
+export async function getUnreadNotificationCount(userId: string): Promise<number> {
+  const notifications = await getNotificationsForUser(userId);
+  return notifications.filter((notification) => notification.isRead !== true).length;
+}
+
+export async function markNotificationAsRead(
+  userId: string,
+  notificationId: string,
+): Promise<{ success: true } | { error: string }> {
+  const supabase = getSupabaseAdminClient();
+
+  const { data: notificationRow, error: notificationError } = await supabase
+    .from(NOTIFICATIONS_TABLE)
+    .select("id,user_id,is_broadcast")
+    .eq("id", notificationId)
+    .maybeSingle();
+
+  if (notificationError || !notificationRow) {
+    return { error: "Notification not found." };
+  }
+
+  const notification = notificationRow as Pick<DbNotification, "id" | "user_id" | "is_broadcast">;
+  const canAccess = notification.is_broadcast || notification.user_id === userId;
+  if (!canAccess) {
+    return { error: "Forbidden notification access." };
+  }
+
+  const { error } = await supabase.from(NOTIFICATION_READS_TABLE).upsert(
+    {
+      notification_id: notificationId,
+      user_id: userId,
+      read_at: new Date().toISOString(),
+    },
+    { onConflict: "notification_id,user_id" },
+  );
+
+  if (error) {
+    return { error: "Failed to mark notification as read." };
+  }
+
+  return { success: true };
+}
+
+export async function markAllNotificationsAsRead(
+  userId: string,
+): Promise<{ success: true } | { error: string }> {
+  const supabase = getSupabaseAdminClient();
+  const notifications = await getNotificationsForUser(userId);
+  const unreadNotificationIds = notifications
+    .filter((notification) => notification.isRead !== true)
+    .map((notification) => notification.id);
+
+  if (unreadNotificationIds.length === 0) {
+    return { success: true };
+  }
+
+  const now = new Date().toISOString();
+  const payload = unreadNotificationIds.map((notificationId) => ({
+    notification_id: notificationId,
+    user_id: userId,
+    read_at: now,
   }));
+
+  const { error } = await supabase
+    .from(NOTIFICATION_READS_TABLE)
+    .upsert(payload, { onConflict: "notification_id,user_id" });
+
+  if (error) {
+    return { error: "Failed to mark notifications as read." };
+  }
+
+  return { success: true };
 }
 
 export async function sendNotification(input: {
@@ -573,6 +680,52 @@ export async function updateOwnProfile(input: {
   }
 
   return { user: toAuthUser(data as DbUser) };
+}
+
+export async function deleteOwnAccount(input: {
+  user: AuthUser;
+  email: string;
+  password: string;
+}): Promise<{ success: true } | { error: string }> {
+  const normalizedEmail = input.email.trim().toLowerCase();
+  if (!normalizedEmail || !input.password) {
+    return { error: "Email and password are required." };
+  }
+
+  if (normalizedEmail !== input.user.email.toLowerCase()) {
+    return { error: "Email does not match your current account." };
+  }
+
+  const supabase = getSupabaseAdminClient();
+  const { data: userRow, error: userError } = await supabase
+    .from(USERS_TABLE)
+    .select("id,email,password_hash")
+    .eq("id", input.user.id)
+    .maybeSingle();
+
+  if (userError || !userRow) {
+    return { error: "Account not found." };
+  }
+
+  const dbUser = userRow as Pick<DbUser, "id" | "email" | "password_hash">;
+  if (dbUser.email.toLowerCase() !== normalizedEmail) {
+    return { error: "Email does not match your current account." };
+  }
+
+  if (!verifyPassword(input.password, dbUser.password_hash)) {
+    return { error: "Invalid email or password." };
+  }
+
+  const { error: deleteError } = await supabase
+    .from(USERS_TABLE)
+    .delete()
+    .eq("id", input.user.id);
+
+  if (deleteError) {
+    return { error: "Failed to delete user account." };
+  }
+
+  return { success: true };
 }
 
 export async function createDeleteRequest(input: {

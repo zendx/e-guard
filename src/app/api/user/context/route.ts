@@ -1,5 +1,8 @@
-﻿import { NextResponse } from "next/server";
-import { getNotificationsForUser, getPendingDeleteRequestForUser, getUserUsage } from "@/lib/auth-store";
+import { NextResponse } from "next/server";
+import {
+  getUnreadNotificationCount,
+  getUserUsage,
+} from "@/lib/auth-store";
 import { requireSessionUser } from "@/lib/auth-session";
 
 export const dynamic = "force-dynamic";
@@ -12,17 +15,15 @@ export async function GET() {
   }
 
   try {
-    const [usage, notifications, deleteRequest] = await Promise.all([
+    const [usage, unreadNotifications] = await Promise.all([
       getUserUsage(auth.user.id),
-      getNotificationsForUser(auth.user.id),
-      getPendingDeleteRequestForUser(auth.user.id),
+      getUnreadNotificationCount(auth.user.id),
     ]);
 
     return NextResponse.json({
       user: auth.user,
       usage,
-      notifications,
-      deleteRequest,
+      unreadNotifications,
     });
   } catch (error) {
     const message = error instanceof Error ? error.message : "Failed to load context.";

@@ -21,6 +21,8 @@ export type UserNotification = {
   message: string;
   isBroadcast: boolean;
   createdAt: string;
+  isRead?: boolean;
+  readAt?: string | null;
 };
 
 export type UserUsage = {

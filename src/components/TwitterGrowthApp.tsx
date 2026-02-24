@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { Bell, Check, Copy, LogOut, RefreshCw, Save, TrendingUp, WandSparkles } from "lucide-react";
-import type { AccountDeleteRequest, AuthUser, UserNotification, UserUsage } from "@/lib/auth-types";
+import type { AuthUser, UserUsage } from "@/lib/auth-types";
 import InactivityLogout from "@/components/InactivityLogout";
 
 type TrendsApiCountry = {
@@ -30,8 +30,7 @@ type ScanApiResponse = {
 type UserContextResponse = {
   user?: AuthUser;
   usage?: UserUsage;
-  notifications?: UserNotification[];
-  deleteRequest?: AccountDeleteRequest | null;
+  unreadNotifications?: number;
   error?: string;
 };
 
@@ -98,9 +97,8 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
   const [copied, setCopied] = useState(false);
   const [isLoggingOut, setIsLoggingOut] = useState(false);
   const [usage, setUsage] = useState<UserUsage | null>(null);
-  const [notifications, setNotifications] = useState<UserNotification[]>([]);
+  const [unreadNotifications, setUnreadNotifications] = useState(0);
   const [usageError, setUsageError] = useState<string | null>(null);
-  const [deleteRequest, setDeleteRequest] = useState<AccountDeleteRequest | null>(null);
 
   const [profileName, setProfileName] = useState(user.name);
   const [profileAddress, setProfileAddress] = useState(user.address ?? "");
@@ -108,10 +106,6 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
   const [profileState, setProfileState] = useState(user.state ?? "");
   const [profileStatus, setProfileStatus] = useState<string | null>(null);
   const [isSavingProfile, setIsSavingProfile] = useState(false);
-
-  const [deleteReason, setDeleteReason] = useState("");
-  const [deleteStatus, setDeleteStatus] = useState<string | null>(null);
-  const [isRequestingDelete, setIsRequestingDelete] = useState(false);
 
   const countries = useMemo(
     () => Object.keys(allTrendsByCountry),
@@ -164,11 +158,12 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
         setCurrentUser(data.user);
       }
       setUsage(data.usage ?? null);
-      setNotifications(Array.isArray(data.notifications) ? data.notifications : []);
-      setDeleteRequest(data.deleteRequest ?? null);
+      setUnreadNotifications(
+        typeof data.unreadNotifications === "number" ? data.unreadNotifications : 0,
+      );
       setUsageError(null);
     } catch {
-      setUsageError("Failed to load user usage and notifications.");
+      setUsageError("Failed to load user context.");
     }
   }, []);
 
@@ -395,36 +390,6 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
     }
   };
 
-  const submitDeleteRequest = async () => {
-    setIsRequestingDelete(true);
-    setDeleteStatus(null);
-
-    try {
-      const response = await fetch("/api/user/delete-request", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ reason: deleteReason }),
-      });
-
-      const data = (await response.json().catch(() => null)) as
-        | { success?: boolean; error?: string }
-        | null;
-
-      if (!response.ok || !data?.success) {
-        setDeleteStatus(data?.error ?? "Failed to submit delete request.");
-        return;
-      }
-
-      setDeleteReason("");
-      setDeleteStatus("Delete request submitted for admin review.");
-      await loadUserContext();
-    } catch {
-      setDeleteStatus("Failed to submit delete request.");
-    } finally {
-      setIsRequestingDelete(false);
-    }
-  };
-
   return (
     <div className="relative min-h-screen bg-[#0f1419] p-4 text-white sm:p-6">
       <InactivityLogout />
@@ -445,6 +410,18 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           </div>
 
           <div className="flex flex-wrap items-center gap-2">
+            <Link
+              href="/notifications"
+              className="relative inline-flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 px-3 py-2 text-xs font-semibold text-gray-200 hover:bg-white/10"
+            >
+              <Bell size={14} />
+              Notifications
+              {unreadNotifications > 0 ? (
+                <span className="absolute -top-2 -right-2 rounded-full bg-rose-500 px-1.5 py-0.5 text-[10px] font-bold text-white">
+                  {unreadNotifications > 99 ? "99+" : unreadNotifications}
+                </span>
+              ) : null}
+            </Link>
             <span className="rounded-full border border-slate-300/40 bg-slate-200/10 px-3 py-1 text-xs font-semibold text-slate-100">
               {currentUser.plan === "pro" ? "Pro Plan" : "Free Plan"}
             </span>
@@ -494,7 +471,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           </p>
         ) : null}
 
-        <div className="mb-5 grid gap-4 lg:grid-cols-2">
+        <div className="mb-5">
           <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
             <p className="mb-3 text-sm font-semibold text-cyan-100">Profile / KYC</p>
             <div className="space-y-3">
@@ -549,58 +526,16 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
                 {isSavingProfile ? "Saving..." : "Save Profile"}
               </button>
               {profileStatus ? <p className="text-xs text-slate-300">{profileStatus}</p> : null}
-            </div>
-          </div>
-
-          <div className="rounded-2xl border border-rose-300/20 bg-rose-400/5 p-5">
-            <p className="mb-3 text-sm font-semibold text-rose-100">Delete Account Request</p>
-            {deleteRequest ? (
-              <p className="mb-3 rounded-lg border border-amber-300/40 bg-amber-400/10 px-3 py-2 text-xs text-amber-100">
-                You already have a pending delete request submitted on {deleteRequest.createdAt}.
-              </p>
-            ) : null}
-            <textarea
-              value={deleteReason}
-              onChange={(event) => setDeleteReason(event.target.value)}
-              placeholder="Reason for deleting account"
-              rows={3}
-              disabled={Boolean(deleteRequest)}
-              className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm disabled:cursor-not-allowed disabled:opacity-60"
-            />
-            <button
-              onClick={submitDeleteRequest}
-              disabled={isRequestingDelete || Boolean(deleteRequest)}
-              className="mt-3 rounded-lg border border-rose-300/50 bg-rose-400/15 px-4 py-2 text-sm font-semibold text-rose-100 hover:bg-rose-400/25 disabled:opacity-60"
-            >
-              {isRequestingDelete ? "Submitting..." : "Request Account Deletion"}
-            </button>
-            {deleteStatus ? <p className="mt-2 text-xs text-rose-100">{deleteStatus}</p> : null}
-          </div>
-        </div>
-
-        <div className="mb-5 rounded-2xl border border-white/10 bg-white/5 p-4">
-          <div className="mb-3 flex items-center gap-2">
-            <Bell size={16} className="text-cyan-200" />
-            <p className="text-sm font-semibold text-cyan-100">Notifications</p>
-          </div>
-          {notifications.length > 0 ? (
-            <div className="space-y-2">
-              {notifications.slice(0, 5).map((item) => (
-                <div
-                  key={item.id}
-                  className="rounded-lg border border-white/10 bg-black/20 px-3 py-2"
+              <div className="pt-2">
+                <Link
+                  href="/delete-account"
+                  className="inline-flex rounded-lg border border-rose-300/50 bg-rose-400/15 px-4 py-2 text-sm font-semibold text-rose-100 hover:bg-rose-400/25"
                 >
-                  <p className="text-xs font-semibold text-white">
-                    {item.title} {item.isBroadcast ? "(Broadcast)" : "(Direct)"}
-                  </p>
-                  <p className="text-xs text-gray-300">{item.message}</p>
-                  <p className="mt-1 text-[10px] text-gray-500">{item.createdAt}</p>
-                </div>
-              ))}
+                  Delete Account
+                </Link>
+              </div>
             </div>
-          ) : (
-            <p className="text-xs text-gray-400">No notifications yet.</p>
-          )}
+          </div>
         </div>
 
         <div className="rounded-3xl border border-white/10 bg-white/5 p-5 shadow-2xl backdrop-blur-xl sm:p-8">
