@@ -99,7 +99,7 @@ function toAuthUser(user: DbUser): AuthUser {
     user.status === "active" || user.status === "suspended" || user.status === "disabled"
       ? user.status
       : "active";
-  const planValue = user.plan === "pro" ? "pro" : "free";
+  const planValue = user.is_admin === true || user.plan === "pro" ? "pro" : "free";
 
   return {
     id: user.id,

@@ -10,6 +10,7 @@ type TrendsApiCountry = {
   topics?: string[];
   hashtags?: string[];
   regular_topics?: string[];
+  fast_rising?: string[];
   timeline_timestamp?: string;
 };
 
@@ -34,7 +35,7 @@ type UserContextResponse = {
   error?: string;
 };
 
-type TopicMode = "all" | "hashtags" | "regular";
+type TopicMode = "all" | "hashtags" | "regular" | "fast_rising";
 
 type TwitterGrowthAppProps = {
   user: AuthUser;
@@ -84,6 +85,9 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
   const [regularTrendsByCountry, setRegularTrendsByCountry] = useState<
     Record<string, string[]>
   >({});
+  const [fastRisingByCountry, setFastRisingByCountry] = useState<
+    Record<string, string[]>
+  >({});
   const [countryTimestamps, setCountryTimestamps] = useState<
     Record<string, string>
   >({});
@@ -119,6 +123,9 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
     if (topicMode === "regular") {
       return regularTrendsByCountry[selectedCountry] ?? [];
     }
+    if (topicMode === "fast_rising") {
+      return fastRisingByCountry[selectedCountry] ?? [];
+    }
     return allTrendsByCountry[selectedCountry] ?? [];
   }, [
     topicMode,
@@ -126,6 +133,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
     allTrendsByCountry,
     hashtagsByCountry,
     regularTrendsByCountry,
+    fastRisingByCountry,
   ]);
 
   const normalizedVisibleTrends = useMemo(
@@ -144,6 +152,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
 
   const freeLimitReached =
     currentUser.plan === "free" && (usage?.freeRemaining ?? 0) <= 0;
+  const isFastRisingLocked = topicMode === "fast_rising" && currentUser.plan !== "pro";
 
   const loadUserContext = useCallback(async () => {
     try {
@@ -185,6 +194,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
         const nextAllTrendsByCountry: Record<string, string[]> = {};
         const nextHashtagsByCountry: Record<string, string[]> = {};
         const nextRegularByCountry: Record<string, string[]> = {};
+        const nextFastRisingByCountry: Record<string, string[]> = {};
         const nextTimestamps: Record<string, string> = {};
         const countriesPayload = data.countries ?? {};
 
@@ -196,6 +206,9 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           const regularTopics = Array.isArray(info?.regular_topics)
             ? info.regular_topics
             : allTopics.filter((topic) => !topic.startsWith("#"));
+          const fastRisingTopics = Array.isArray(info?.fast_rising)
+            ? info.fast_rising
+            : [];
           const mergedTopics = Array.from(
             new Set([...allTopics, ...hashtags, ...regularTopics]),
           ).slice(0, 20);
@@ -211,6 +224,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           nextAllTrendsByCountry[country] = mergedTopics;
           nextHashtagsByCountry[country] = hashtags;
           nextRegularByCountry[country] = regularTopics;
+          nextFastRisingByCountry[country] = fastRisingTopics;
 
           if (info.timeline_timestamp) {
             nextTimestamps[country] = info.timeline_timestamp;
@@ -221,6 +235,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           setAllTrendsByCountry(nextAllTrendsByCountry);
           setHashtagsByCountry(nextHashtagsByCountry);
           setRegularTrendsByCountry(nextRegularByCountry);
+          setFastRisingByCountry(nextFastRisingByCountry);
           setCountryTimestamps(nextTimestamps);
           setLoadError(null);
 
@@ -471,73 +486,6 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           </p>
         ) : null}
 
-        <div className="mb-5">
-          <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-            <p className="mb-3 text-sm font-semibold text-cyan-100">Profile / KYC</p>
-            <div className="space-y-3">
-              <div>
-                <label className="mb-1 block text-xs text-slate-300">Full name</label>
-                <input
-                  value={profileName}
-                  onChange={(event) => setProfileName(event.target.value)}
-                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
-                />
-              </div>
-              <div>
-                <label className="mb-1 block text-xs text-slate-300">Email (unchanged)</label>
-                <input
-                  value={currentUser.email}
-                  disabled
-                  className="w-full cursor-not-allowed rounded-lg border border-white/10 bg-black/30 px-3 py-2 text-sm text-slate-400"
-                />
-              </div>
-              <div>
-                <label className="mb-1 block text-xs text-slate-300">Address</label>
-                <input
-                  value={profileAddress}
-                  onChange={(event) => setProfileAddress(event.target.value)}
-                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
-                />
-              </div>
-              <div className="grid gap-3 md:grid-cols-2">
-                <div>
-                  <label className="mb-1 block text-xs text-slate-300">Country</label>
-                  <input
-                    value={profileCountry}
-                    onChange={(event) => setProfileCountry(event.target.value)}
-                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
-                  />
-                </div>
-                <div>
-                  <label className="mb-1 block text-xs text-slate-300">State</label>
-                  <input
-                    value={profileState}
-                    onChange={(event) => setProfileState(event.target.value)}
-                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
-                  />
-                </div>
-              </div>
-              <button
-                onClick={saveProfile}
-                disabled={isSavingProfile}
-                className="inline-flex items-center gap-2 rounded-lg bg-cyan-400 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-cyan-300 disabled:opacity-60"
-              >
-                <Save size={14} />
-                {isSavingProfile ? "Saving..." : "Save Profile"}
-              </button>
-              {profileStatus ? <p className="text-xs text-slate-300">{profileStatus}</p> : null}
-              <div className="pt-2">
-                <Link
-                  href="/delete-account"
-                  className="inline-flex rounded-lg border border-rose-300/50 bg-rose-400/15 px-4 py-2 text-sm font-semibold text-rose-100 hover:bg-rose-400/25"
-                >
-                  Delete Account
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <div className="rounded-3xl border border-white/10 bg-white/5 p-5 shadow-2xl backdrop-blur-xl sm:p-8">
           <div className="mb-8">
             {loadError ? (
@@ -585,7 +533,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
             <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
               Topic View
             </label>
-            <div className="mb-5 grid grid-cols-1 gap-2 sm:grid-cols-3">
+            <div className="mb-5 grid grid-cols-1 gap-2 sm:grid-cols-4">
               <button
                 onClick={() => {
                   setTopicMode("all");
@@ -625,6 +573,19 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
               >
                 Regular
               </button>
+              <button
+                onClick={() => {
+                  setTopicMode("fast_rising");
+                  setCopied(false);
+                }}
+                className={`rounded-lg border px-3 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+                  topicMode === "fast_rising"
+                    ? "border-blue-400 bg-blue-500/25 text-blue-200"
+                    : "border-white/15 bg-white/5 text-gray-300 hover:bg-white/10"
+                }`}
+              >
+                Fast Rising
+              </button>
             </div>
 
             <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
@@ -632,11 +593,13 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
                 ? `Top Hashtags In ${selectedCountry}`
                 : topicMode === "regular"
                   ? `Top Regular Topics In ${selectedCountry}`
+                  : topicMode === "fast_rising"
+                    ? `Fast Rising In ${selectedCountry}`
                   : `Top Trending In ${selectedCountry}`}
             </label>
             <div
-              className={`flex min-h-[120px] flex-wrap gap-2 rounded-2xl border border-white/5 bg-black/40 p-4 transition ${
-                freeLimitReached ? "blur-[3px] opacity-60" : ""
+              className={`relative flex min-h-[120px] flex-wrap gap-2 rounded-2xl border border-white/5 bg-black/40 p-4 transition ${
+                freeLimitReached || isFastRisingLocked ? "blur-[3px] opacity-60" : ""
               }`}
             >
               {normalizedVisibleTrends.length > 0 ? (
@@ -662,6 +625,11 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
                 <p className="text-sm text-gray-400">No topics available yet for this country.</p>
               )}
             </div>
+            {isFastRisingLocked ? (
+              <p className="mt-2 text-xs text-amber-200">
+                Fast Rising is currently shown as blurred preview for non-Pro users.
+              </p>
+            ) : null}
             {currentTimestamp ? (
               <p className="mt-3 text-xs text-gray-500">Source timestamp: {currentTimestamp}</p>
             ) : null}
@@ -670,7 +638,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
           <div className="mb-8 grid grid-cols-1 gap-4 sm:grid-cols-2">
             <button
               onClick={copyToClipboard}
-              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached}
+              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached || isFastRisingLocked}
               className="flex items-center justify-center gap-2 rounded-2xl bg-white py-4 font-bold text-black transition-all hover:bg-gray-200 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
             >
               {copied ? <Check size={20} /> : <Copy size={20} />}
@@ -679,7 +647,7 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
 
             <button
               onClick={shareToX}
-              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached}
+              disabled={normalizedVisibleTrends.length === 0 || freeLimitReached || isFastRisingLocked}
               className="flex items-center justify-center gap-2 rounded-2xl bg-black py-4 font-bold text-white transition-all hover:bg-neutral-900 active:scale-95 disabled:cursor-not-allowed disabled:opacity-60"
             >
               <svg
@@ -722,6 +690,73 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
               {generatedAtUtc ? `Generated: ${generatedAtUtc}` : ""}
             </p>
           ) : null}
+        </div>
+
+        <div className="mt-5">
+          <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+            <p className="mb-3 text-sm font-semibold text-cyan-100">Profile / KYC</p>
+            <div className="space-y-3">
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Full name</label>
+                <input
+                  value={profileName}
+                  onChange={(event) => setProfileName(event.target.value)}
+                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                />
+              </div>
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Email (unchanged)</label>
+                <input
+                  value={currentUser.email}
+                  disabled
+                  className="w-full cursor-not-allowed rounded-lg border border-white/10 bg-black/30 px-3 py-2 text-sm text-slate-400"
+                />
+              </div>
+              <div>
+                <label className="mb-1 block text-xs text-slate-300">Address</label>
+                <input
+                  value={profileAddress}
+                  onChange={(event) => setProfileAddress(event.target.value)}
+                  className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                />
+              </div>
+              <div className="grid gap-3 md:grid-cols-2">
+                <div>
+                  <label className="mb-1 block text-xs text-slate-300">Country</label>
+                  <input
+                    value={profileCountry}
+                    onChange={(event) => setProfileCountry(event.target.value)}
+                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                  />
+                </div>
+                <div>
+                  <label className="mb-1 block text-xs text-slate-300">State</label>
+                  <input
+                    value={profileState}
+                    onChange={(event) => setProfileState(event.target.value)}
+                    className="w-full rounded-lg border border-white/15 bg-black/20 px-3 py-2 text-sm"
+                  />
+                </div>
+              </div>
+              <div className="flex items-center justify-between gap-3 pt-2">
+                <button
+                  onClick={saveProfile}
+                  disabled={isSavingProfile}
+                  className="inline-flex items-center gap-2 rounded-lg bg-cyan-400 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-cyan-300 disabled:opacity-60"
+                >
+                  <Save size={14} />
+                  {isSavingProfile ? "Saving..." : "Save Profile"}
+                </button>
+                <Link
+                  href="/delete-account"
+                  className="inline-flex rounded-lg border border-rose-300/50 bg-rose-400/15 px-4 py-2 text-sm font-semibold text-rose-100 hover:bg-rose-400/25"
+                >
+                  Delete Account
+                </Link>
+              </div>
+              {profileStatus ? <p className="text-xs text-slate-300">{profileStatus}</p> : null}
+            </div>
+          </div>
         </div>
       </div>
     </div>
