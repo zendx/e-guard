@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-02-24T10:22:28.328386+00:00",
+  "generated_at_utc": "2026-02-24T10:36:13.030518+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Feb 24 2026 08:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 09:45:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
         "Robert Carradine",
+        "#WWERaw",
         "Revenge of the Nerds",
         "AJ Styles",
         "Lizzie McGuire",
         "NYPD",
         "#ThankYouAJ",
-        "Spurs",
         "TRON",
-        "Pistons",
-        "Undertaker"
+        "Margo Kaplan",
+        "Wemby",
+        "The Vision"
       ],
       "hashtags": [
         "#WWERaw",
         "#ThankYouAJ",
         "#WWEHOF",
-        "#TheRookie",
-        "#Hoppers"
+        "#somno",
+        "#DistrictV"
       ],
       "regular_topics": [
         "Robert Carradine",
@@ -31,38 +31,38 @@
         "AJ Styles",
         "Lizzie McGuire",
         "NYPD",
-        "Spurs",
         "TRON",
-        "Pistons",
+        "Margo Kaplan",
+        "Wemby",
+        "The Vision",
         "Undertaker",
-        "Raquel",
-        "The Vision"
+        "Raquel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Feb 24 2026 09:16:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 10:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
         "Sesko",
         "John Davidson",
         "Everton",
         "Lammens",
+        "Ukraine",
         "#EVEMUN",
         "BAFTAs",
         "Cunha",
         "Ciaran",
-        "#thicktrunktuesday",
         "Moyes"
       ],
       "hashtags": [
         "#EVEMUN",
-        "#thicktrunktuesday",
         "#MUFC",
-        "#LoveIslandAllStars",
-        "#WWERaw"
+        "#thicktrunktuesday",
+        "#WWERaw",
+        "#ASongOrMovieForHerbsVariety"
       ],
       "regular_topics": [
         "Tourette",
@@ -70,11 +70,11 @@
         "John Davidson",
         "Everton",
         "Lammens",
+        "Ukraine",
         "BAFTAs",
         "Cunha",
         "Ciaran",
         "Moyes",
-        "Ukraine",
         "I Swear"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,84 +120,80 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Feb 24 2026 09:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 09:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091b\u0924\u094d\u0924\u0940\u0938\u0917\u0922\u093c_SANKALP_\u092c\u091c\u091f",
-        "#ESIC75",
         "#OPReformsCG",
         "#BhoothBangla",
-        "#IStandWithYouthCongress",
+        "#ESIC75",
+        "#BloodyRomeo",
         "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
         "iQOO 15R",
-        "PM-KISAN",
-        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
+        "Keralam",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "COBOL"
+        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
+        "Anthropic"
       ],
       "hashtags": [
         "#\u091b\u0924\u094d\u0924\u0940\u0938\u0917\u0922\u093c_SANKALP_\u092c\u091c\u091f",
-        "#ESIC75",
         "#OPReformsCG",
         "#BhoothBangla",
-        "#IStandWithYouthCongress",
+        "#ESIC75",
         "#BloodyRomeo",
-        "#ConfusionConfusion",
-        "#Kalki2",
-        "#VishnuVinyasamOnFeb27",
-        "#\u0b8e\u0b9f\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bbf\u0baf\u0bbe\u0bb0\u0bcd_\u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
-        "#UdayBhanuChib"
+        "#IStandWithYouthCongress",
+        "#ConfusionConfusion"
       ],
       "regular_topics": [
         "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
         "iQOO 15R",
-        "PM-KISAN",
-        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
+        "Keralam",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "COBOL",
-        "Periyar",
+        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
         "Anthropic",
-        "Wispr Flow",
-        "The Kerala Story 2",
-        "Snapdragon 8 Gen 5"
+        "Snapdragon 8 Gen 5",
+        "Periyar",
+        "COBOL",
+        "4Days Left For Bodh Diwas",
+        "The Kerala Story 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Feb 24 2026 09:51:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 09:00:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
         "Sesko",
         "Lammens",
         "#EVEMUN",
-        "El Mencho",
         "Simi",
+        "El Mencho",
         "Carrick",
-        "#FocusbyErllyboy",
-        "David",
         "Onana",
-        "Cunha"
+        "#FocusbyErllyboy",
+        "Cunha",
+        "David"
       ],
       "hashtags": [
         "#EVEMUN",
         "#FocusbyErllyboy",
-        "#GGMU",
         "#NSPPD",
-        "#MUFC"
+        "#GGMU",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Everton",
         "Sesko",
         "Lammens",
-        "El Mencho",
         "Simi",
+        "El Mencho",
         "Carrick",
-        "David",
         "Onana",
         "Cunha",
+        "David",
         "Seyi Law",
-        "Trade $INX"
+        "Ezra"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
