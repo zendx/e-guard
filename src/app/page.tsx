@@ -26,6 +26,7 @@ export default function Home() {
           S-Trends
         </Link>
         <nav className="flex items-center gap-5 text-sm text-slate-300">
+          <Link href="/how-it-works" className="hover:text-white">How It Works</Link>
           <Link href="/pricing" className="hover:text-white">Pricing</Link>
           <Link href="/auth?mode=login" className="hover:text-white">Login</Link>
           <Link
