@@ -1,4 +1,5 @@
 import Link from "next/link";
+import PublicHeader from "@/components/PublicHeader";
 
 const steps = [
   {
@@ -31,25 +32,17 @@ export default function HowItWorksPage() {
   return (
     <div className="min-h-screen bg-[#07101b] px-6 py-10 text-white">
       <div className="mx-auto w-full max-w-5xl">
-        <header className="mb-10 flex items-center justify-between">
-          <Link href="/" className="text-lg font-bold tracking-wide text-cyan-300">
-            S-Trends
-          </Link>
-          <div className="flex items-center gap-3 text-sm">
-            <Link href="/" className="text-slate-300 hover:text-white">
-              Home
-            </Link>
-            <Link href="/pricing" className="text-slate-300 hover:text-white">
-              Pricing
-            </Link>
-            <Link
-              href="/auth?mode=register"
-              className="rounded-lg border border-cyan-300/40 bg-cyan-400/15 px-3 py-2 font-semibold text-cyan-100 hover:bg-cyan-400/25"
-            >
-              Get Started
-            </Link>
-          </div>
-        </header>
+        <div className="mb-10">
+          <PublicHeader
+            navItems={[
+              { href: "/", label: "Home" },
+              { href: "/pricing", label: "Pricing" },
+              { href: "/auth?mode=login", label: "Login" },
+            ]}
+            ctaHref="/auth?mode=register"
+            ctaLabel="Get Started"
+          />
+        </div>
 
         <section className="relative overflow-hidden rounded-3xl border border-cyan-300/20 bg-gradient-to-br from-cyan-400/15 via-sky-400/10 to-blue-500/10 p-7">
           <div className="pointer-events-none absolute -top-16 -right-16 h-52 w-52 rounded-full bg-cyan-300/15 blur-3xl" />

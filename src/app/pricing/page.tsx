@@ -1,18 +1,21 @@
 import Link from "next/link";
+import PublicHeader from "@/components/PublicHeader";
 
 export default function PricingPage() {
   return (
     <div className="min-h-screen bg-[#07101b] px-6 py-10 text-white">
       <div className="mx-auto w-full max-w-5xl">
-        <header className="mb-10 flex items-center justify-between">
-          <Link href="/" className="text-lg font-bold tracking-wide text-cyan-300">
-            S-Trends
-          </Link>
-          <div className="flex items-center gap-3 text-sm">
-            <Link href="/" className="text-slate-300 hover:text-white">Home</Link>
-            <Link href="/auth?mode=login" className="text-slate-300 hover:text-white">Login</Link>
-          </div>
-        </header>
+        <div className="mb-10">
+          <PublicHeader
+            navItems={[
+              { href: "/", label: "Home" },
+              { href: "/how-it-works", label: "How It Works" },
+              { href: "/auth?mode=login", label: "Login" },
+            ]}
+            ctaHref="/auth?mode=register"
+            ctaLabel="Get Started"
+          />
+        </div>
 
         <h1 className="text-3xl font-bold">Simple plans for creators and growth teams</h1>
         <p className="mt-3 max-w-2xl text-slate-300">

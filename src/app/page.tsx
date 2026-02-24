@@ -1,4 +1,5 @@
 import Link from "next/link";
+import PublicHeader from "@/components/PublicHeader";
 
 const features = [
   {
@@ -21,22 +22,17 @@ const features = [
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#07101b] text-white">
-      <header className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-6">
-        <Link href="/" className="text-lg font-bold tracking-wide text-cyan-300">
-          S-Trends
-        </Link>
-        <nav className="flex items-center gap-5 text-sm text-slate-300">
-          <Link href="/how-it-works" className="hover:text-white">How It Works</Link>
-          <Link href="/pricing" className="hover:text-white">Pricing</Link>
-          <Link href="/auth?mode=login" className="hover:text-white">Login</Link>
-          <Link
-            href="/auth?mode=register"
-            className="rounded-lg border border-cyan-300/40 bg-cyan-400/15 px-3 py-2 font-semibold text-cyan-100 hover:bg-cyan-400/25"
-          >
-            Get Started
-          </Link>
-        </nav>
-      </header>
+      <div className="mx-auto w-full max-w-6xl px-6 py-6">
+        <PublicHeader
+          navItems={[
+            { href: "/how-it-works", label: "How It Works" },
+            { href: "/pricing", label: "Pricing" },
+            { href: "/auth?mode=login", label: "Login" },
+          ]}
+          ctaHref="/auth?mode=register"
+          ctaLabel="Get Started"
+        />
+      </div>
 
       <main className="mx-auto grid w-full max-w-6xl gap-10 px-6 pb-16 pt-8 lg:grid-cols-[1.1fr_0.9fr]">
         <section>
