@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-02-24T09:39:35.761258+00:00",
+  "generated_at_utc": "2026-02-24T10:36:13.030518+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Feb 24 2026 08:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 09:45:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
         "Robert Carradine",
+        "#WWERaw",
         "Revenge of the Nerds",
         "AJ Styles",
         "Lizzie McGuire",
         "NYPD",
         "#ThankYouAJ",
-        "Spurs",
         "TRON",
-        "Pistons",
-        "Undertaker"
+        "Margo Kaplan",
+        "Wemby",
+        "The Vision"
       ],
       "hashtags": [
         "#WWERaw",
         "#ThankYouAJ",
         "#WWEHOF",
-        "#TheRookie",
-        "#Hoppers"
+        "#somno",
+        "#DistrictV"
       ],
       "regular_topics": [
         "Robert Carradine",
@@ -31,38 +31,38 @@
         "AJ Styles",
         "Lizzie McGuire",
         "NYPD",
-        "Spurs",
         "TRON",
-        "Pistons",
+        "Margo Kaplan",
+        "Wemby",
+        "The Vision",
         "Undertaker",
-        "Raquel",
-        "The Vision"
+        "Raquel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Feb 24 2026 09:16:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 10:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
         "Sesko",
         "John Davidson",
         "Everton",
         "Lammens",
+        "Ukraine",
         "#EVEMUN",
         "BAFTAs",
         "Cunha",
         "Ciaran",
-        "#thicktrunktuesday",
         "Moyes"
       ],
       "hashtags": [
         "#EVEMUN",
-        "#thicktrunktuesday",
         "#MUFC",
-        "#LoveIslandAllStars",
-        "#WWERaw"
+        "#thicktrunktuesday",
+        "#WWERaw",
+        "#ASongOrMovieForHerbsVariety"
       ],
       "regular_topics": [
         "Tourette",
@@ -70,11 +70,11 @@
         "John Davidson",
         "Everton",
         "Lammens",
+        "Ukraine",
         "BAFTAs",
         "Cunha",
         "Ciaran",
         "Moyes",
-        "Ukraine",
         "I Swear"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
