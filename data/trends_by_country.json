@@ -1,19 +1,19 @@
 {
-  "generated_at_utc": "2026-02-24T08:18:51.337170+00:00",
+  "generated_at_utc": "2026-02-24T08:32:11.277354+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Feb 24 2026 08:03:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 07:09:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
-        "Robert Carradine",
         "AJ Styles",
         "Revenge of the Nerds",
+        "Robert Carradine",
         "Lizzie McGuire",
-        "NYPD",
         "Spurs",
         "Pistons",
+        "NYPD",
         "Undertaker",
         "Wemby",
         "The Vision"
@@ -23,20 +23,20 @@
         "#LCDLF6",
         "#WWEHOF",
         "#TheRookie",
-        "#kubball"
+        "#RawOnNetflix"
       ],
       "regular_topics": [
-        "Robert Carradine",
         "AJ Styles",
         "Revenge of the Nerds",
+        "Robert Carradine",
         "Lizzie McGuire",
-        "NYPD",
         "Spurs",
         "Pistons",
+        "NYPD",
         "Undertaker",
         "Wemby",
         "The Vision",
-        "Raquel"
+        "WWE Hall of Fame"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Feb 24 2026 07:30:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 08:21:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
         "Puerto Vallarta",
@@ -94,12 +94,13 @@
         "El Mencho",
         "Olympics",
         "Cartels",
-        "McDavid"
+        "Chicoutimi"
       ],
       "hashtags": [
         "#WWERaw",
         "#canvsusa",
-        "#ThankYouAJ"
+        "#EVEMUN",
+        "#TheRookie"
       ],
       "regular_topics": [
         "Tourette",
@@ -111,53 +112,50 @@
         "El Mencho",
         "Olympics",
         "Cartels",
-        "McDavid",
-        "Jack Hughes"
+        "Chicoutimi",
+        "Mexique"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Feb 24 2026 07:20:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Feb 24 2026 08:12:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BhoothBangla",
         "#BloodyRomeo",
         "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
+        "#IStandWithYouthCongress",
         "#DelhiRiots2020",
         "#HappyBirthdayNani",
-        "#HerLineage",
-        "Gau Raksha Abhiyan",
-        "Cultural Heritage",
+        "iQOO 15R",
+        "Keralam",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Gaushala",
-        "iQOO 15R"
+        "Cultural Heritage",
+        "COBOL"
       ],
       "hashtags": [
         "#BhoothBangla",
         "#BloodyRomeo",
+        "#IStandWithYouthCongress",
         "#DelhiRiots2020",
         "#HappyBirthdayNani",
-        "#HerLineage",
+        "#Kalki2",
         "#\u0b8e\u0ba9\u0bcd\u0bb1\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd_\u0b85\u0bae\u0bcd\u0bae\u0bbe",
-        "#IStandWithYouthCongress",
-        "#\u092c\u0947\u091f\u093f\u092f\u094b\u0902_\u0938\u0947_\u0935\u0902\u0936",
-        "#UdayBhanuChib",
-        "#AkshayKumar",
-        "#SaveAsharamjiAshram"
+        "#UdayBhanuChib"
       ],
       "regular_topics": [
         "\u0909\u0926\u092f \u092d\u093e\u0928\u0941",
-        "Gau Raksha Abhiyan",
-        "Cultural Heritage",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Gaushala",
         "iQOO 15R",
         "Keralam",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "Cultural Heritage",
         "COBOL",
-        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
+        "Gau Raksha Abhiyan",
         "Anthropic",
-        "\u0938\u093e\u0917\u0930 \u0932\u094b\u0915\u0938\u092d\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+        "Snapdragon 8 Gen 5",
+        "\u092a\u091f\u093f\u092f\u093e\u0932\u093e \u0939\u093e\u0909\u0938 \u0915\u094b\u0930\u094d\u091f",
+        "\u0906\u0926\u0930\u094d\u0936 \u0928\u0917\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
