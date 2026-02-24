@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { loginUser, SESSION_COOKIE_NAME } from "@/lib/auth-store";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
@@ -12,9 +13,18 @@ type LoginBody = {
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as LoginBody;
+    const ip = getClientIp(request);
+    const normalizedEmail = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
+    const rl = checkRateLimit(`login:${ip}:${normalizedEmail}`, 10, 15 * 60 * 1000);
+    if (!rl.ok) {
+      return NextResponse.json(
+        { error: "Too many login attempts. Try again later." },
+        { status: 429, headers: { "Retry-After": "900" } },
+      );
+    }
 
     const result = await loginUser({
-      email: typeof body.email === "string" ? body.email : "",
+      email: normalizedEmail,
       password: typeof body.password === "string" ? body.password : "",
     });
 
@@ -31,6 +41,7 @@ export async function POST(request: Request) {
       secure: process.env.NODE_ENV === "production",
       path: "/",
       maxAge: 60 * 60 * 24 * 7,
+      priority: "high",
     });
 
     return response;

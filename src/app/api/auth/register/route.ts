@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { registerUser, SESSION_COOKIE_NAME } from "@/lib/auth-store";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
@@ -14,6 +15,14 @@ type RegisterBody = {
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as RegisterBody;
+    const ip = getClientIp(request);
+    const rl = checkRateLimit(`register:${ip}`, 8, 60 * 60 * 1000);
+    if (!rl.ok) {
+      return NextResponse.json(
+        { error: "Too many registration attempts. Try again later." },
+        { status: 429, headers: { "Retry-After": "3600" } },
+      );
+    }
 
     const result = await registerUser({
       name: typeof body.name === "string" ? body.name : "",
@@ -36,6 +45,7 @@ export async function POST(request: Request) {
       secure: process.env.NODE_ENV === "production",
       path: "/",
       maxAge: 60 * 60 * 24 * 7,
+      priority: "high",
     });
 
     return response;

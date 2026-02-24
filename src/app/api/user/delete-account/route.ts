@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { deleteOwnAccount } from "@/lib/auth-store";
 import { requireSessionUser } from "@/lib/auth-session";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 type Body = {
   email?: string;
@@ -18,6 +19,15 @@ export async function POST(request: Request) {
 
   try {
     const body = (await request.json()) as Body;
+    const ip = getClientIp(request);
+    const rl = checkRateLimit(`delete-account:${ip}:${auth.user.id}`, 5, 15 * 60 * 1000);
+    if (!rl.ok) {
+      return NextResponse.json(
+        { error: "Too many attempts. Try again later." },
+        { status: 429, headers: { "Retry-After": "900" } },
+      );
+    }
+
     const result = await deleteOwnAccount({
       user: auth.user,
       email: typeof body.email === "string" ? body.email : "",
