@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-02-25T09:40:28.600492+00:00",
+  "generated_at_utc": "2026-02-25T10:38:19.396877+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Feb 25 2026 08:27:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 09:18:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SOTU2026",
         "Democrats",
         "Luka",
+        "The Middle",
         "State of the Union",
+        "Left and Right",
         "President Trump",
         "Al Green",
         "Omar",
         "Dems",
-        "Medal of Honor",
-        "Iryna",
-        "Pocahontas"
+        "Medal of Honor"
       ],
       "hashtags": [
         "#SOTU2026",
         "#LakeShow",
         "#READYORNOT2",
-        "#WWENXT",
-        "#ChallengeVarka"
+        "#Varka",
+        "#WWENXT"
       ],
       "regular_topics": [
         "Democrats",
         "Luka",
+        "The Middle",
         "State of the Union",
+        "Left and Right",
         "President Trump",
         "Al Green",
         "Omar",
         "Dems",
         "Medal of Honor",
-        "Iryna",
-        "Pocahontas",
-        "Abigail Spanberger"
+        "Iryna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Feb 25 2026 08:48:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 09:40:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
         "John Davidson",
         "Ukraine",
         "#PIPPKIN",
-        "#BBCBreakfast",
         "Bodo",
-        "#RoseWednesday",
-        "#r4today",
-        "#WindowsOnWednesday",
+        "#ASongOrMovieForInconvenience",
         "BAFTAs",
+        "State of the Union",
+        "#r4today",
+        "#RoseWednesday",
         "Harry Brook"
       ],
       "hashtags": [
         "#PIPPKIN",
-        "#BBCBreakfast",
-        "#RoseWednesday",
+        "#ASongOrMovieForInconvenience",
         "#r4today",
-        "#WindowsOnWednesday"
+        "#RoseWednesday",
+        "#OldFashioned"
       ],
       "regular_topics": [
         "Tourette",
@@ -70,48 +70,49 @@
         "Ukraine",
         "Bodo",
         "BAFTAs",
+        "State of the Union",
         "Harry Brook",
         "Sesko",
         "Everton",
-        "State of the Union",
         "Urdu",
-        "Testnet"
+        "Democrats"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Feb 25 2026 08:44:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 09:36:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
         "SOTU",
         "State of the Union",
         "White House",
-        "Luka",
         "Tourette",
         "PSPP",
         "Candace",
+        "Luka",
         "Girard",
         "Kulak",
-        "Chicoutimi"
+        "Matthews"
       ],
       "hashtags": [
         "#WWENXT",
-        "#CatForCashEP6"
+        "#CatForCashEP6",
+        "#JUNGKOOKxCALVINKLEIN"
       ],
       "regular_topics": [
         "Ukraine",
         "SOTU",
         "State of the Union",
         "White House",
-        "Luka",
         "Tourette",
         "PSPP",
         "Candace",
+        "Luka",
         "Girard",
         "Kulak",
-        "Chicoutimi"
+        "Matthews"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
