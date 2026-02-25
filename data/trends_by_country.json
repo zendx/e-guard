@@ -1,118 +1,115 @@
 {
-  "generated_at_utc": "2026-02-25T20:58:46.188339+00:00",
+  "generated_at_utc": "2026-02-25T21:33:15.875491+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Feb 25 2026 19:40:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 20:32:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "jungkook",
+        "Mary",
         "#RHOSLC",
         "Dortmund",
-        "Jane Street",
-        "Larry Summers",
-        "Mary Cosby",
-        "Mark Kelly",
         "Atalanta",
-        "#GalaxyUnpacked",
-        "Fetterman",
-        "harry styles"
+        "Benfica",
+        "Jane Street",
+        "harry styles",
+        "Larry Summers",
+        "Asencio",
+        "Lestat"
       ],
       "hashtags": [
         "#RHOSLC",
+        "#GalaxyGiveaways",
+        "#GalaxyS26",
         "#GalaxyUnpacked",
-        "#askAva",
-        "#MortalKombat2",
-        "#GalaxyS26"
+        "#MortalKombat2"
       ],
       "regular_topics": [
         "jungkook",
+        "Mary",
         "Dortmund",
-        "Jane Street",
-        "Larry Summers",
-        "Mary Cosby",
-        "Mark Kelly",
         "Atalanta",
-        "Fetterman",
+        "Benfica",
+        "Jane Street",
         "harry styles",
+        "Larry Summers",
+        "Asencio",
         "Lestat",
-        "Dover"
+        "Mark Kelly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Feb 25 2026 20:03:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 20:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dortmund",
         "jungkook",
+        "Benfica",
         "#ATABVB",
-        "#thechase",
-        "#TheOneShow",
-        "harry styles",
-        "Adeyemi",
-        "Guirassy",
-        "Hippo",
-        "PMQs",
-        "Brittany"
+        "#RMABEN",
+        "Priske",
+        "james marriott",
+        "Maghoma",
+        "Osman",
+        "#oufc",
+        "Stanno"
       ],
       "hashtags": [
         "#ATABVB",
-        "#thechase",
-        "#TheOneShow",
-        "#aplaceinthesun",
-        "#ChampionsLeague",
-        "#GortonAndDenton",
-        "#VoteGreen"
+        "#RMABEN",
+        "#oufc",
+        "#swfc",
+        "#RHOSLC"
       ],
       "regular_topics": [
         "Dortmund",
         "jungkook",
-        "harry styles",
-        "Adeyemi",
-        "Guirassy",
+        "Benfica",
+        "Priske",
+        "james marriott",
+        "Maghoma",
+        "Osman",
+        "Stanno",
         "Hippo",
-        "PMQs",
-        "Brittany",
-        "Turki",
-        "Hoyle",
-        "Benfica"
+        "Madrid",
+        "Brittany"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Feb 25 2026 19:57:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 20:51:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
-        "Dortmund",
+        "jungkook",
         "SOTU",
         "State of the Union",
-        "jungkook",
-        "#PinkShirtDay",
-        "Atalanta",
+        "Dortmund",
         "White House",
+        "#PinkShirtDay",
         "Darren",
+        "Atalanta",
         "Democrats",
         "PSPP"
       ],
       "hashtags": [
         "#PinkShirtDay",
         "#RHOSLC",
-        "#WWENXT",
-        "#LeafsForever"
+        "#WWENXT"
       ],
       "regular_topics": [
         "Ukraine",
-        "Dortmund",
+        "jungkook",
         "SOTU",
         "State of the Union",
-        "jungkook",
-        "Atalanta",
+        "Dortmund",
         "White House",
         "Darren",
+        "Atalanta",
         "Democrats",
         "PSPP",
         "Candace"
@@ -122,43 +119,44 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Feb 25 2026 19:51:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 20:42:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "jungkook",
         "Israel",
-        "#SLvsNZ",
+        "Speaker of the Knesset Medal",
         "Dortmund",
-        "#NZvsSL",
+        "#SLvsNZ",
         "Atalanta",
-        "Sri Lanka",
+        "Benfica",
+        "#NZvsSL",
         "Hamas",
-        "#BesharmPM",
-        "New Zealand",
-        "16 YEARS OF SHRADDHA KAPOOR"
+        "Sri Lanka",
+        "Courtois"
       ],
       "hashtags": [
         "#SLvsNZ",
         "#NZvsSL",
         "#BesharmPM",
+        "#GalaxyS26Ultra",
         "#Ekaki",
+        "#ChampionsLeague",
         "#\u0938\u0902\u0935\u093f\u0927\u093e\u0928_\u0928\u093f\u0930\u094d\u092e\u093e\u0924\u093e_BN_\u0930\u093e\u0935",
         "#SympathySeekerBaseerAli",
-        "#winvivoV70Elite",
-        "#ZEISSPortraitSoPro",
-        "#vivoV70Series"
+        "#NallakannuRIP",
+        "#winvivoV70Elite"
       ],
       "regular_topics": [
         "jungkook",
         "Israel",
+        "Speaker of the Knesset Medal",
         "Dortmund",
         "Atalanta",
-        "Sri Lanka",
+        "Benfica",
         "Hamas",
-        "New Zealand",
+        "Sri Lanka",
+        "Courtois",
         "16 YEARS OF SHRADDHA KAPOOR",
-        "Gaza",
-        "Rachin Ravindra",
-        "\u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u0941\u0932\u093f\u0938"
+        "New Zealand"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
