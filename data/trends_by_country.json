@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-25T06:36:24.663498+00:00",
+  "generated_at_utc": "2026-02-25T07:43:32.575771+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Feb 25 2026 05:51:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 06:42:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SOTU2026",
         "Democrats",
+        "Luka",
         "State of the Union",
         "Al Green",
         "President Trump",
-        "Ilhan Omar",
+        "Dems",
+        "Omar",
         "Medal of Honor",
         "Abigail Spanberger",
-        "Pocahontas",
-        "#WWENXT",
-        "Jaden McDaniels"
+        "Pocahontas"
       ],
       "hashtags": [
         "#SOTU2026",
+        "#LakeShow",
         "#WWENXT",
         "#KarinaxPrada",
-        "#ChallengeVarka",
-        "#iubb"
+        "#ChallengeVarka"
       ],
       "regular_topics": [
         "Democrats",
+        "Luka",
         "State of the Union",
         "Al Green",
         "President Trump",
-        "Ilhan Omar",
+        "Dems",
+        "Omar",
         "Medal of Honor",
         "Abigail Spanberger",
         "Pocahontas",
-        "Jaden McDaniels",
-        "Iryna",
-        "Eric Slover"
+        "Iryna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -120,71 +120,71 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Feb 25 2026 06:00:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 06:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CompromisedCongress",
+        "#KIAASA_IPO",
+        "Ashok Chaudhary",
         "#WomenEmpowerment",
+        "Om Prakash",
+        "#OperationSindoor",
         "Rashtra Nirman",
         "Yuva Shakti",
-        "Vyasan Mukti",
-        "Self Esteem",
         "Prime Minister of Pakistan",
-        "#OperationSindoor",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "#SOTU2026",
-        "Pakistan PM"
+        "Vyasan Mukti",
+        "Self Esteem"
       ],
       "hashtags": [
         "#CompromisedCongress",
+        "#KIAASA_IPO",
         "#WomenEmpowerment",
         "#OperationSindoor",
         "#SOTU2026",
-        "#SaveAsharamjiAshram",
-        "#GodMorningWednesday",
-        "#Bhogi",
-        "#wednesdaymotivation",
+        "#RemoveBanzal",
+        "#\u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915_\u0936\u093f\u0915\u094d\u0937\u0915_\u092d\u0930\u094d\u0924\u0940\u0926\u094b",
         "#IndiaPakistan",
-        "#bbvipal5",
-        "#\u0950_\u0917\u0902_\u0917\u0923\u092a\u0924\u092f\u0947_\u0928\u092e\u0903"
+        "#Bhogi",
+        "#SaveAsharamjiAshram",
+        "#GodMorningWednesday"
       ],
       "regular_topics": [
+        "Ashok Chaudhary",
+        "Om Prakash",
         "Rashtra Nirman",
         "Yuva Shakti",
+        "Prime Minister of Pakistan",
         "Vyasan Mukti",
         "Self Esteem",
-        "Prime Minister of Pakistan",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "Pakistan PM",
         "Israel",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0935\u0940\u0930 \u0938\u094b\u0930\u0947\u0928",
-        "Pak PM",
-        "State of the Union"
+        "Pakistan PM"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Feb 25 2026 05:56:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 06:48:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Inter Milan",
-        "#RamadanDay08",
         "David",
         "Bodo",
         "Tunji Disu",
         "Seyi Law",
-        "Everton",
         "Sesko",
         "Frank Mba",
-        "Ya Allah",
+        "Everton",
+        "GM CT",
+        "#RamadanDay08",
         "El Mencho"
       ],
       "hashtags": [
         "#RamadanDay08",
-        "#EndlessPossibilities",
+        "#endlesspossibilities",
+        "#LaCasaDeLosFamososCol3",
         "#gloxsamsungunpacked",
-        "#EVEMUN",
-        "#focusbyerllyboy"
+        "#SOTU2026"
       ],
       "regular_topics": [
         "Inter Milan",
@@ -192,12 +192,12 @@
         "Bodo",
         "Tunji Disu",
         "Seyi Law",
-        "Everton",
         "Sesko",
         "Frank Mba",
-        "Ya Allah",
+        "Everton",
+        "GM CT",
         "El Mencho",
-        "Simi"
+        "Edo State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
