@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-02-25T07:43:32.575771+00:00",
+  "generated_at_utc": "2026-02-25T08:34:02.919175+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Feb 25 2026 06:42:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 07:36:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SOTU2026",
-        "Democrats",
         "Luka",
+        "Democrats",
         "State of the Union",
         "Al Green",
         "President Trump",
@@ -22,12 +22,12 @@
         "#SOTU2026",
         "#LakeShow",
         "#WWENXT",
-        "#KarinaxPrada",
+        "#READYORNOT2",
         "#ChallengeVarka"
       ],
       "regular_topics": [
-        "Democrats",
         "Luka",
+        "Democrats",
         "State of the Union",
         "Al Green",
         "President Trump",
@@ -36,168 +36,163 @@
         "Medal of Honor",
         "Abigail Spanberger",
         "Pocahontas",
-        "Iryna"
+        "Iryna Zarutska"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Feb 25 2026 06:12:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 07:56:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tourette",
-        "#PIPPKIN",
         "John Davidson",
         "Ukraine",
+        "#PIPPKIN",
         "Bodo Glimt",
-        "State of the Union",
-        "#WWENXT",
-        "Sesko",
+        "#BBCBreakfast",
         "BAFTAs",
-        "#SOTU2026",
-        "Harry Brook"
+        "#River",
+        "Sesko",
+        "Harry Brook",
+        "Everton"
       ],
       "hashtags": [
         "#PIPPKIN",
-        "#WWENXT",
-        "#SOTU2026",
-        "#Sanremo2026",
-        "#ENGvPAK"
+        "#BBCBreakfast",
+        "#River",
+        "#RoseWednesday",
+        "#Sanremo2026"
       ],
       "regular_topics": [
         "Tourette",
         "John Davidson",
         "Ukraine",
         "Bodo Glimt",
-        "State of the Union",
-        "Sesko",
         "BAFTAs",
+        "Sesko",
         "Harry Brook",
         "Everton",
-        "Moyes",
-        "Jamie Foxx"
+        "Democrats",
+        "State of the Union",
+        "Moyes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Feb 25 2026 06:08:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 07:52:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
         "SOTU",
         "State of the Union",
-        "Luka",
         "White House",
+        "Luka",
         "Tourette",
         "PSPP",
-        "Democrats",
         "Candace",
         "Kulak",
-        "#WWENXT"
+        "Girard",
+        "Matthews"
       ],
       "hashtags": [
         "#WWENXT",
-        "#WeTheNorth",
         "#IranianRevolution2026",
-        "#Varka"
+        "#Varka",
+        "#GenshinImpact",
+        "#CatForCashEP6"
       ],
       "regular_topics": [
         "Ukraine",
         "SOTU",
         "State of the Union",
-        "Luka",
         "White House",
+        "Luka",
         "Tourette",
         "PSPP",
-        "Democrats",
         "Candace",
         "Kulak",
-        "Girard"
+        "Girard",
+        "Matthews"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Feb 25 2026 06:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 07:45:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CompromisedCongress",
+        "#HMDAiFeaturePhone",
+        "#RSCode",
         "#KIAASA_IPO",
         "Ashok Chaudhary",
-        "#WomenEmpowerment",
-        "Om Prakash",
         "#OperationSindoor",
-        "Rashtra Nirman",
-        "Yuva Shakti",
         "Prime Minister of Pakistan",
-        "Vyasan Mukti",
-        "Self Esteem"
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
+        "\u0935\u0940\u0930 \u0938\u094b\u0930\u0947\u0928",
+        "Pakistan PM",
+        "Israel"
       ],
       "hashtags": [
         "#CompromisedCongress",
+        "#HMDAiFeaturePhone",
+        "#RSCode",
         "#KIAASA_IPO",
-        "#WomenEmpowerment",
-        "#OperationSindoor",
-        "#SOTU2026",
-        "#RemoveBanzal",
-        "#\u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915_\u0936\u093f\u0915\u094d\u0937\u0915_\u092d\u0930\u094d\u0924\u0940\u0926\u094b",
-        "#IndiaPakistan",
-        "#Bhogi",
-        "#SaveAsharamjiAshram",
-        "#GodMorningWednesday"
+        "#OperationSindoor"
       ],
       "regular_topics": [
         "Ashok Chaudhary",
+        "Prime Minister of Pakistan",
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
+        "\u0935\u0940\u0930 \u0938\u094b\u0930\u0947\u0928",
+        "Pakistan PM",
+        "Israel",
         "Om Prakash",
         "Rashtra Nirman",
         "Yuva Shakti",
-        "Prime Minister of Pakistan",
         "Vyasan Mukti",
-        "Self Esteem",
-        "Israel",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0935\u0940\u0930 \u0938\u094b\u0930\u0947\u0928",
-        "Pakistan PM"
+        "Judiciary"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Feb 25 2026 06:48:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Feb 25 2026 07:42:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bodo",
         "Inter Milan",
         "David",
-        "Bodo",
         "Tunji Disu",
         "Seyi Law",
-        "Sesko",
         "Frank Mba",
-        "Everton",
         "GM CT",
-        "#RamadanDay08",
-        "El Mencho"
+        "Sesko",
+        "Everton",
+        "Edo State",
+        "#Budget2026"
       ],
       "hashtags": [
+        "#Budget2026",
+        "#NSPPD",
+        "#SOTU2026",
         "#RamadanDay08",
-        "#endlesspossibilities",
-        "#LaCasaDeLosFamososCol3",
-        "#gloxsamsungunpacked",
-        "#SOTU2026"
+        "#TresGracas"
       ],
       "regular_topics": [
+        "Bodo",
         "Inter Milan",
         "David",
-        "Bodo",
         "Tunji Disu",
         "Seyi Law",
-        "Sesko",
         "Frank Mba",
-        "Everton",
         "GM CT",
-        "El Mencho",
-        "Edo State"
+        "Sesko",
+        "Everton",
+        "Edo State",
+        "Simi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
