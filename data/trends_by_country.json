@@ -1,65 +1,65 @@
 {
-  "generated_at_utc": "2026-02-26T05:15:09.047271+00:00",
+  "generated_at_utc": "2026-02-26T06:15:02.975566+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Feb 26 2026 04:20:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 05:12:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Survivor50",
-        "#AEWDynamite",
         "Smiling Friends",
+        "#AEWDynamite",
         "Cirie",
         "Ozzy",
+        "Zach",
+        "Morty",
         "Jenna",
-        "Colby",
         "Kyle",
-        "Andrade",
-        "Genevieve",
-        "St. John"
+        "Colby",
+        "Explore Concrete"
       ],
       "hashtags": [
         "#Survivor50",
         "#AEWDynamite",
-        "#Scrubs",
         "#SouthernCharm",
-        "#SistasOnBET"
+        "#Scrubs",
+        "#GoKingsGo"
       ],
       "regular_topics": [
         "Smiling Friends",
         "Cirie",
         "Ozzy",
-        "Jenna",
-        "Colby",
-        "Kyle",
-        "Andrade",
-        "Genevieve",
-        "St. John",
         "Zach",
-        "UConn"
+        "Morty",
+        "Jenna",
+        "Kyle",
+        "Colby",
+        "Explore Concrete",
+        "Genevieve",
+        "Andrade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Feb 26 2026 03:48:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 05:32:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDynamite",
         "Dortmund",
+        "#AEWDynamite",
         "jungkook",
         "Tourette",
-        "#PMQs",
+        "#PMQS",
         "Juve",
         "Gorton",
-        "Andrade",
         "John Davidson",
-        "Brody",
-        "Benfica"
+        "#Survivor50",
+        "Bodo",
+        "Ukraine"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#PMQs",
+        "#PMQS",
         "#Survivor50",
         "#DirtyBusiness",
         "#PIPPKIN"
@@ -70,12 +70,12 @@
         "Tourette",
         "Juve",
         "Gorton",
-        "Andrade",
         "John Davidson",
-        "Brody",
-        "Benfica",
+        "Bodo",
         "Ukraine",
-        "Bodo"
+        "Greens",
+        "Benfica",
+        "Hoyle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
