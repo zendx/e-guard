@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-02-26T08:32:01.853521+00:00",
+  "generated_at_utc": "2026-02-26T09:36:29.926652+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Feb 26 2026 07:48:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 08:39:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Smiling Friends",
         "#Survivor50",
@@ -15,8 +15,8 @@
         "#AEWDynamite",
         "Hiller",
         "Cirie",
-        "#GoKingsGo",
-        "Ducks"
+        "Jania",
+        "#GoKingsGo"
       ],
       "hashtags": [
         "#Survivor50",
@@ -32,74 +32,74 @@
         "Explore Concrete",
         "Hiller",
         "Cirie",
-        "Ducks",
-        "Kyle",
-        "Ozzy",
         "Jania",
-        "Oilers"
+        "Ducks",
+        "Adult Swim",
+        "Kyle",
+        "Ozzy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Feb 26 2026 08:08:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 09:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#River",
-        "jungkook",
-        "Dortmund",
-        "Tourette",
-        "Gorton",
-        "#PMQs",
         "#ScaryBubble1",
-        "#AdoorableThursday",
-        "Juve",
+        "Gorton",
+        "Jungkook",
+        "Dortmund",
+        "Atalanta",
+        "Tourette",
+        "#PMQs",
+        "Vote Green",
         "#Peaceful",
-        "John Davidson"
+        "#AdoorableThursday"
       ],
       "hashtags": [
         "#River",
-        "#PMQs",
         "#ScaryBubble1",
-        "#AdoorableThursday",
-        "#Peaceful"
+        "#PMQs",
+        "#Peaceful",
+        "#AdoorableThursday"
       ],
       "regular_topics": [
-        "jungkook",
-        "Dortmund",
-        "Tourette",
         "Gorton",
+        "Jungkook",
+        "Dortmund",
+        "Atalanta",
+        "Tourette",
+        "Vote Green",
         "Juve",
         "John Davidson",
-        "Greens",
         "Camp Haven",
         "Ukraine",
-        "Bodo",
-        "Benfica"
+        "Baroness Amos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Feb 26 2026 08:06:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 08:57:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nurse",
         "Ukraine",
-        "Oilers",
         "#Survivor50",
+        "Oilers",
         "Skinner",
         "SOTU",
-        "jungkook",
-        "#PinkShirtDay",
-        "#LeafsForever",
+        "Jungkook",
         "Bowman",
-        "Myers"
+        "#LeafsForever",
+        "Myers",
+        "Ingram"
       ],
       "hashtags": [
         "#Survivor50",
-        "#PinkShirtDay",
         "#LeafsForever",
+        "#pinkshirtday",
         "#Canucks",
         "#AEWDynamite"
       ],
@@ -109,7 +109,7 @@
         "Oilers",
         "Skinner",
         "SOTU",
-        "jungkook",
+        "Jungkook",
         "Bowman",
         "Myers",
         "Ingram",
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Feb 26 2026 07:57:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 08:51:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WinGalaxyS26Ultra",
-        "#RamJiAakeBhalaKarenge",
         "#SarthiSamvad",
         "#GalaxyAI",
-        "#DNPAConclave2026",
+        "#GalaxyUnpacked",
+        "#RamJiAakeBhalaKarenge",
         "A. Nightography",
-        "Privacy Display",
+        "Auqib Nabi",
         "B. Creative Studio",
-        "2Days Left For Bodh Diwas",
-        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
-        "\u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930"
+        "Privacy Display",
+        "NCERT",
+        "B. 200MP"
       ],
       "hashtags": [
         "#WinGalaxyS26Ultra",
-        "#RamJiAakeBhalaKarenge",
         "#SarthiSamvad",
         "#GalaxyAI",
-        "#DNPAConclave2026"
+        "#GalaxyUnpacked",
+        "#RamJiAakeBhalaKarenge"
       ],
       "regular_topics": [
         "A. Nightography",
-        "Privacy Display",
-        "B. Creative Studio",
-        "2Days Left For Bodh Diwas",
-        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
-        "\u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
         "Auqib Nabi",
-        "B. 200MP",
+        "B. Creative Studio",
+        "Privacy Display",
         "NCERT",
+        "B. 200MP",
+        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
         "C. Super Steady",
-        "A. Black"
+        "2Days Left For Bodh Diwas",
+        "\u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
+        "C. Sky Blue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Feb 26 2026 07:54:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 08:45:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "I HAVE MY CONGRATULATIONS",
         "Galatasaray",
         "Benfica",
-        "#NoIDPcampInEdu",
+        "I HAVE MY CONGRATULATIONS",
         "Dortmund",
-        "GM CT",
+        "#NoIDPcampInEdu",
         "Atalanta",
+        "GM CT",
+        "Victor Osimhen",
         "Amen",
-        "#NSPPD",
-        "Monaco",
+        "Tunji Disu",
         "Seyi Law"
       ],
       "hashtags": [
         "#NoIDPcampInEdu",
         "#NSPPD",
-        "#RamadanDay09",
-        "#Survivor2026",
-        "#RMABEN"
+        "#RMABEN",
+        "#ChampionsLeague",
+        "#munchitlovedrop"
       ],
       "regular_topics": [
-        "I HAVE MY CONGRATULATIONS",
         "Galatasaray",
         "Benfica",
+        "I HAVE MY CONGRATULATIONS",
         "Dortmund",
-        "GM CT",
         "Atalanta",
+        "GM CT",
+        "Victor Osimhen",
         "Amen",
-        "Monaco",
-        "Seyi Law",
         "Tunji Disu",
-        "Victor Osimhen"
+        "Seyi Law",
+        "Monaco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
