@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-26T21:00:08.945146+00:00",
+  "generated_at_utc": "2026-02-26T21:37:14.934848+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Feb 26 2026 19:06:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Feb 26 2026 20:48:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Hillary Clinton",
+        "Clint",
         "#OlandriaxRobertoCavalli",
-        "SAVE Act",
-        "Anthony Richardson",
         "Boebert",
-        "#SkylineSweeps",
-        "Bain",
+        "SAVE Act",
+        "Benny",
+        "Anthony Richardson",
+        "Zane Durant",
+        "Crocs",
+        "Melania",
         "Thune",
-        "Sweat",
-        "Nano Banana 2",
-        "Melania"
+        "#TrumpAffordabilityMeltdown"
       ],
       "hashtags": [
         "#OlandriaxRobertoCavalli",
+        "#TrumpAffordabilityMeltdown",
         "#SkylineSweeps",
-        "#MorphUSDC",
-        "#Marathon",
-        "#BridgertonS4"
+        "#BridgertonS4",
+        "#NFLCombine"
       ],
       "regular_topics": [
-        "Hillary Clinton",
-        "SAVE Act",
-        "Anthony Richardson",
+        "Clint",
         "Boebert",
-        "Bain",
-        "Thune",
-        "Sweat",
-        "Nano Banana 2",
+        "SAVE Act",
+        "Benny",
+        "Anthony Richardson",
+        "Zane Durant",
+        "Crocs",
         "Melania",
-        "Benny Johnson",
-        "Jets"
+        "Thune",
+        "Marathon",
+        "Jonathan Majors"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
