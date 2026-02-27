@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-02-27T20:16:39.002641+00:00",
+  "generated_at_utc": "2026-02-27T20:48:29.742144+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Feb 27 2026 19:28:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 20:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Pombon",
-        "Gecqua",
         "Bill Clinton",
-        "Browt",
-        "Pokemon",
+        "Pombon",
         "#OlandriaxGCDS",
-        "Zapatero",
+        "Gecqua",
         "Jim Carrey",
-        "Kratos",
-        "Monica Lewinsky",
-        "#FursuitFriday"
+        "Pokemon",
+        "Browt",
+        "Max Landis",
+        "Zapatero",
+        "Monica",
+        "Kratos"
       ],
       "hashtags": [
         "#OlandriaxGCDS",
         "#FursuitFriday",
         "#SaveActTaxesYourVote",
-        "#BitMartUS",
-        "#OlandriaxBlumarine"
+        "#\u30dd\u30b1\u30e2\u30f3\u30d7\u30ec\u30bc\u30f3\u30c4",
+        "#OnlyFriendsDreamOnEP1"
       ],
       "regular_topics": [
+        "Bill Clinton",
         "Pombon",
         "Gecqua",
-        "Bill Clinton",
-        "Browt",
-        "Pokemon",
-        "Zapatero",
         "Jim Carrey",
-        "Kratos",
-        "Monica Lewinsky",
+        "Pokemon",
+        "Browt",
         "Max Landis",
-        "Scouting America"
+        "Zapatero",
+        "Monica",
+        "Kratos",
+        "Usyk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Feb 27 2026 19:48:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 20:40:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
-        "The CEO of X",
-        "Usyk",
         "Watkins",
-        "Elon's X.",
-        "Digne",
-        "X Platform",
-        "The X Network",
-        "Tammy",
-        "#FPLCommunity",
-        "Buendia"
+        "Usyk",
+        "#Listing",
+        "#LastVotes",
+        "#AVFC",
+        "Buendia",
+        "#VoteNow",
+        "Boney M",
+        "The CEO of X",
+        "X Platform"
       ],
       "hashtags": [
         "#TOTP",
-        "#FPLCommunity",
-        "#GW28",
-        "#PokemonWindsWaves",
-        "#MattBadloss"
+        "#Listing",
+        "#LastVotes",
+        "#AVFC",
+        "#VoteNow"
       ],
       "regular_topics": [
-        "The CEO of X",
-        "Usyk",
         "Watkins",
-        "Elon's X.",
-        "Digne",
+        "Usyk",
+        "Buendia",
+        "Boney M",
+        "The CEO of X",
         "X Platform",
         "The X Network",
+        "Elon's X.",
+        "Digne",
         "Tammy",
-        "Buendia",
-        "Jacks",
         "Westlife"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,65 +82,71 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Feb 27 2026 19:45:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 20:39:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pombon",
         "#PokemonDay",
         "Browt",
-        "Hillary",
+        "Bill Clinton",
         "Gecqua",
-        "Stenberg",
         "Paramount",
-        "Noah Dobson",
-        "McKenna",
+        "Jim Carrey",
         "Ukraine",
-        "Monty"
+        "Monty",
+        "Pakistan",
+        "Science Centre"
       ],
       "hashtags": [
         "#PokemonDay",
-        "#LeafsForever",
         "#GoHabsGo",
         "#ResidentEvilRequiem",
-        "#LetsGoOilers"
+        "#OlandriaxBlumarine",
+        "#HSRxFortnite"
       ],
       "regular_topics": [
         "Pombon",
         "Browt",
-        "Hillary",
+        "Bill Clinton",
         "Gecqua",
-        "Stenberg",
         "Paramount",
-        "Noah Dobson",
-        "McKenna",
+        "Jim Carrey",
         "Ukraine",
         "Monty",
-        "Jim Carrey"
+        "Pakistan",
+        "Science Centre",
+        "Leafs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Feb 27 2026 19:39:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 20:30:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ENGvsNZ",
         "#\u092e\u094b\u0926\u0940_\u092a\u0930\u094d\u091a\u0940_\u0935\u093e\u092a\u093f\u0938_\u0932\u094b",
         "Jacks",
-        "#PAKvsSL",
-        "#BodhDiwas_Of_SantGaribdasJi",
         "Vijay",
+        "#PAKvsSL",
+        "#PakistanAfghanistanWar",
+        "#BodhDiwas_Of_SantGaribdasJi",
         "Sant Rampal Ji Maharaj",
         "England",
         "Rehan Ahmed",
-        "#PakistanAfghanistanWar",
-        "Glenn Phillips"
+        "TANYA MITTAL X EKTA KAPOOR"
       ],
       "hashtags": [
         "#ENGvsNZ",
         "#\u092e\u094b\u0926\u0940_\u092a\u0930\u094d\u091a\u0940_\u0935\u093e\u092a\u093f\u0938_\u0932\u094b",
         "#PAKvsSL",
+        "#PakistanAfghanistanWar",
         "#BodhDiwas_Of_SantGaribdasJi",
-        "#PakistanAfghanistanWar"
+        "#OnlyFriendsDreamOnEP1",
+        "#GoldenHeartFarrhana",
+        "#Tabaahi",
+        "#RisingBharatSummit2026",
+        "#saleemwastik",
+        "#\u0b9a\u0b99\u0bcd\u0b95\u0bc0\u0ba4\u0bbe\u0bb5\u0bc8_\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf_\u0bb5\u0bbf\u0b9c\u0baf\u0bcd"
       ],
       "regular_topics": [
         "Jacks",
@@ -148,9 +154,9 @@
         "Sant Rampal Ji Maharaj",
         "England",
         "Rehan Ahmed",
-        "Glenn Phillips",
-        "New Zealand",
         "TANYA MITTAL X EKTA KAPOOR",
+        "New Zealand",
+        "Glenn Phillips",
         "Santner",
         "Ferguson",
         "Henry"
