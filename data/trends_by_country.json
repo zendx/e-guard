@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-02-27T17:57:13.475871+00:00",
+  "generated_at_utc": "2026-02-27T18:33:06.476014+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Feb 27 2026 16:52:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 17:44:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pombon",
         "Browt",
-        "#PokemonWindsWaves",
+        "#PokemonDay",
         "#BitMartUS",
         "Kratos",
+        "Bill Clinton",
         "Gen 10",
         "Boy Scouts",
+        "Jim Carrey",
         "Pomeranian",
-        "Sobble",
-        "Switch 2",
         "Scouting America"
       ],
       "hashtags": [
-        "#PokemonWindsWaves",
+        "#PokemonDay",
         "#BitMartUS",
-        "#OlandriaxBlumarine",
         "#FursuitFriday",
-        "#BlumarineFW26"
+        "#OnlyFriendsDreamOnEP1",
+        "#FanCashDropPromotion"
       ],
       "regular_topics": [
         "Pombon",
         "Browt",
         "Kratos",
+        "Bill Clinton",
         "Gen 10",
         "Boy Scouts",
+        "Jim Carrey",
         "Pomeranian",
-        "Sobble",
-        "Switch 2",
         "Scouting America",
-        "Rowlet",
-        "Popplio"
+        "Atreus",
+        "Sobble"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,39 +82,39 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Feb 27 2026 17:12:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 18:03:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pombon",
+        "#PokemonWindsWaves",
         "Browt",
         "Gecqua",
-        "#PokemonDay",
         "Kratos",
+        "Hillary",
         "#GoHabsGo",
-        "#LeafsForever",
-        "Gen 10",
         "Monty",
-        "Clint",
-        "Noah Dobson"
+        "Noah Dobson",
+        "#LeafsForever",
+        "Ukraine"
       ],
       "hashtags": [
-        "#PokemonDay",
+        "#PokemonWindsWaves",
         "#GoHabsGo",
         "#LeafsForever",
-        "#LetsGoOilers",
-        "#ENGvsNZ"
+        "#ENGvsNZ",
+        "#LetsGoOilers"
       ],
       "regular_topics": [
         "Pombon",
         "Browt",
         "Gecqua",
         "Kratos",
-        "Gen 10",
+        "Hillary",
         "Monty",
-        "Clint",
         "Noah Dobson",
-        "Nurse",
         "Ukraine",
-        "Science Centre"
+        "Paramount",
+        "Science Centre",
+        "Nurse"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
