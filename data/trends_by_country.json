@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-27T22:12:12.150176+00:00",
+  "generated_at_utc": "2026-02-27T22:47:10.610312+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Feb 27 2026 20:40:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 21:36:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
-        "Watkins",
-        "Usyk",
-        "#Listing",
-        "#LastVotes",
         "#AVFC",
         "Buendia",
-        "#VoteNow",
-        "Boney M",
-        "The CEO of X",
-        "X Platform"
+        "#WOLAVL",
+        "Tammy",
+        "Emery",
+        "Barkley",
+        "#LastVotes",
+        "#AlmostThere",
+        "Usyk",
+        "Rogers"
       ],
       "hashtags": [
         "#TOTP",
-        "#Listing",
-        "#LastVotes",
         "#AVFC",
-        "#VoteNow"
+        "#WOLAVL",
+        "#LastVotes",
+        "#AlmostThere"
       ],
       "regular_topics": [
-        "Watkins",
-        "Usyk",
         "Buendia",
+        "Tammy",
+        "Emery",
+        "Barkley",
+        "Usyk",
+        "Rogers",
+        "Digne",
         "Boney M",
         "The CEO of X",
         "X Platform",
-        "The X Network",
-        "Elon's X.",
-        "Digne",
-        "Tammy",
-        "Westlife"
+        "The X Network"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Feb 27 2026 20:39:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 21:32:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Pombon",
         "#PokemonDay",
+        "Pombon",
         "Browt",
+        "Jim Carrey",
         "Bill Clinton",
         "Gecqua",
         "Paramount",
-        "Jim Carrey",
         "Ukraine",
         "Monty",
-        "Pakistan",
-        "Science Centre"
+        "Science Centre",
+        "Pakistan"
       ],
       "hashtags": [
         "#PokemonDay",
         "#GoHabsGo",
         "#ResidentEvilRequiem",
         "#OlandriaxBlumarine",
-        "#HSRxFortnite"
+        "#LetsGoOilers"
       ],
       "regular_topics": [
         "Pombon",
         "Browt",
+        "Jim Carrey",
         "Bill Clinton",
         "Gecqua",
         "Paramount",
-        "Jim Carrey",
         "Ukraine",
         "Monty",
-        "Pakistan",
         "Science Centre",
-        "Leafs"
+        "Pakistan",
+        "Taliban"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -166,7 +166,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Feb 27 2026 20:27:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 21:18:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Moore",
         "#UCLdraw",
@@ -177,14 +177,14 @@
         "The Club",
         "UEFA",
         "Budapest",
-        "Chelsea",
-        "Bodo"
+        "Porto",
+        "Chelsea"
       ],
       "hashtags": [
         "#UCLdraw",
-        "#NecondePetition",
-        "#OlandriaxGCDS",
+        "#\u30dd\u30b1\u30e2\u30f3\u30d7\u30ec\u30bc\u30f3\u30c4",
         "#Vina2026",
+        "#JOMETxAISA",
         "#GalaxyAI"
       ],
       "regular_topics": [
@@ -196,9 +196,9 @@
         "The Club",
         "UEFA",
         "Budapest",
+        "Porto",
         "Chelsea",
-        "Bodo",
-        "Real Madrid"
+        "Ooni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
