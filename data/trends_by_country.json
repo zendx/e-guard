@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-02-27T19:25:06.782590+00:00",
+  "generated_at_utc": "2026-02-27T19:50:49.761225+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Feb 27 2026 18:36:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 19:28:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pombon",
         "Gecqua",
+        "Bill Clinton",
         "Browt",
         "Pokemon",
-        "Bill Clinton",
-        "Kratos",
-        "Jim Carrey",
-        "Zapatero",
-        "#BitMartUS",
         "#OlandriaxGCDS",
-        "Monica"
+        "Zapatero",
+        "Jim Carrey",
+        "Kratos",
+        "Monica Lewinsky",
+        "#FursuitFriday"
       ],
       "hashtags": [
-        "#BitMartUS",
         "#OlandriaxGCDS",
         "#FursuitFriday",
-        "#OlandriaxBlumarine",
-        "#OnlyFriendsDreamOnEP1"
+        "#SaveActTaxesYourVote",
+        "#BitMartUS",
+        "#OlandriaxBlumarine"
       ],
       "regular_topics": [
         "Pombon",
         "Gecqua",
+        "Bill Clinton",
         "Browt",
         "Pokemon",
-        "Bill Clinton",
-        "Kratos",
-        "Jim Carrey",
         "Zapatero",
-        "Monica",
-        "Boy Scouts",
-        "Gen 10"
+        "Jim Carrey",
+        "Kratos",
+        "Monica Lewinsky",
+        "Max Landis",
+        "Scouting America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Feb 27 2026 18:57:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 18:06:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BitMartUS",
         "The CEO of X",
-        "Elon's X.",
         "X Platform",
-        "Tesla",
         "The X Network",
+        "Elon's X.",
+        "Tesla",
         "Jacks",
-        "#FPLCommunity",
-        "Digne",
-        "#GW28",
-        "Pombon",
-        "#ENGvNZ"
+        "SpaceX",
+        "#TheChase",
+        "#ENGvsNZ",
+        "Pombon"
       ],
       "hashtags": [
-        "#FPLCommunity",
-        "#GW28",
-        "#ENGvNZ",
+        "#BitMartUS",
+        "#TheChase",
+        "#ENGvsNZ",
         "#PokemonWindsWaves",
         "#T20WorldCup2026"
       ],
       "regular_topics": [
         "The CEO of X",
-        "Elon's X.",
         "X Platform",
-        "Tesla",
         "The X Network",
+        "Elon's X.",
+        "Tesla",
         "Jacks",
-        "Digne",
+        "SpaceX",
         "Pombon",
         "Kratos",
-        "Browt",
-        "SpaceX"
+        "Gecqua",
+        "Browt"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -160,39 +160,41 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Feb 27 2026 18:42:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Feb 27 2026 19:33:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amaechi",
         "The Club",
+        "#NecondePetition",
         "The Face",
+        "Paul Onuachu",
+        "Room 6",
         "Genesis Globe",
-        "Kratos",
         "#SteveAyubaLeads",
-        "Newcastle",
-        "Bayern",
-        "Liverpool",
         "Heat",
-        "Barca"
+        "Newcastle",
+        "Kratos"
       ],
       "hashtags": [
+        "#NecondePetition",
         "#SteveAyubaLeads",
+        "#UCLdraw",
         "#WhoIsTakingOverAbujaNext",
         "#OnlyFriendsDreamOnEP1",
-        "#UCLdraw",
-        "#JOMETxAISA"
+        "#JOMETxAISA",
+        "#EVEANDBOYXWILLIAMEST"
       ],
       "regular_topics": [
         "Amaechi",
         "The Club",
         "The Face",
+        "Paul Onuachu",
+        "Room 6",
         "Genesis Globe",
-        "Kratos",
-        "Newcastle",
-        "Bayern",
-        "Liverpool",
         "Heat",
-        "Barca",
-        "Seyi Tinubu"
+        "Newcastle",
+        "Kratos",
+        "Ameachi",
+        "Marcus Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
