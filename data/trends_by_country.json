@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-02-28T22:44:16.564813+00:00",
+  "generated_at_utc": "2026-02-28T23:10:55.122909+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Feb 28 2026 22:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 21:30:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Khamenei",
@@ -14,12 +14,11 @@
         "IRGC",
         "Islamic",
         "Iraq",
-        "Persian",
+        "Taylen Green",
         "Netanyahu",
-        "Taylen Green"
+        "#ThankYouTrump"
       ],
       "hashtags": [
-        "#UFCMexico",
         "#ThankYouTrump",
         "#WWEChamber",
         "#Brits2026"
@@ -33,86 +32,85 @@
         "IRGC",
         "Islamic",
         "Iraq",
-        "Persian",
+        "Taylen Green",
         "Netanyahu",
-        "Taylen Green"
+        "Death to America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 21:51:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 22:42:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Brits2026",
+        "#BRITsAwards",
         "Iran",
         "#TheBrits",
         "Dubai",
-        "#TheBritAwards",
-        "Leeds",
+        "Olivia Dean",
         "Khamenei",
+        "Mark Ronson",
+        "Leeds",
         "Jack Whitehall",
-        "Bjork",
-        "Raye",
-        "Israel"
+        "Wolf Alice"
       ],
       "hashtags": [
         "#Brits2026",
+        "#BRITsAwards",
         "#TheBrits",
-        "#TheBritAwards",
-        "#lufc",
-        "#BritainsGotTalent"
+        "#BritainsGotTalent",
+        "#lufc"
       ],
       "regular_topics": [
         "Iran",
         "Dubai",
-        "Leeds",
-        "Khamenei",
-        "Jack Whitehall",
-        "Bjork",
-        "Raye",
-        "Israel",
-        "Noel",
         "Olivia Dean",
-        "harry styles"
+        "Khamenei",
+        "Mark Ronson",
+        "Leeds",
+        "Jack Whitehall",
+        "Wolf Alice",
+        "Noel",
+        "Sombr",
+        "Bjork"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 21:45:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 22:39:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Israel",
         "Khamenei",
+        "Israel",
         "#CFMTL",
         "#ThankYouTrump",
         "IRGC",
-        "Netanyahu",
         "Dubai",
-        "Ingram",
+        "Netanyahu",
         "Middle East",
-        "Islamic"
+        "Walman",
+        "Ingram"
       ],
       "hashtags": [
         "#CFMTL",
         "#ThankYouTrump",
-        "#Tehran",
-        "#NCRIAlternative"
+        "#UFCMexico"
       ],
       "regular_topics": [
         "Iran",
-        "Israel",
         "Khamenei",
+        "Israel",
         "IRGC",
-        "Netanyahu",
         "Dubai",
-        "Ingram",
+        "Netanyahu",
         "Middle East",
-        "Islamic",
-        "Iraq",
-        "Khomeini"
+        "Walman",
+        "Ingram",
+        "Khomeini",
+        "Donadel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
