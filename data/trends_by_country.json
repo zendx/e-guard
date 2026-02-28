@@ -1,39 +1,41 @@
 {
-  "generated_at_utc": "2026-02-28T22:10:51.565486+00:00",
+  "generated_at_utc": "2026-02-28T22:44:16.564813+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Feb 28 2026 20:36:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 22:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Israel",
         "Khamenei",
+        "Israel",
         "Middle East",
-        "IRGC",
         "Dubai",
+        "IRGC",
         "Islamic",
-        "Taylen Green",
         "Iraq",
+        "Persian",
         "Netanyahu",
-        "#ThankYouTrump"
+        "Taylen Green"
       ],
       "hashtags": [
+        "#UFCMexico",
         "#ThankYouTrump",
-        "#WWEChamber"
+        "#WWEChamber",
+        "#Brits2026"
       ],
       "regular_topics": [
         "Iran",
-        "Israel",
         "Khamenei",
+        "Israel",
         "Middle East",
-        "IRGC",
         "Dubai",
+        "IRGC",
         "Islamic",
-        "Taylen Green",
         "Iraq",
+        "Persian",
         "Netanyahu",
-        "Death to America"
+        "Taylen Green"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -117,44 +119,44 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Feb 28 2026 21:40:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 22:32:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldWar3",
         "Iran",
         "Dubai",
+        "#Khamenei",
         "#astrosumitbajaj",
         "#Tehran",
-        "Khamenei",
         "#SLvsPAK",
-        "#savas",
+        "Tel Aviv",
+        "Trump",
         "Strait of Hormuz",
-        "Middle East",
-        "Tel Aviv"
+        "Netanyahu"
       ],
       "hashtags": [
         "#WorldWar3",
+        "#Khamenei",
         "#astrosumitbajaj",
         "#Tehran",
         "#SLvsPAK",
         "#savas",
-        "#HBDCMMKStalin",
         "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629",
         "#\u0627\u0644\u0644\u0647\u0645_\u0627\u062d\u0641\u0638_\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "#HBDCMMKStalin",
         "#fixing",
-        "#\u30bd\u30ed\u30d5\u30a7\u30b9\u5b9f\u6cc12026",
         "#\u0637\u0647\u0631\u0627\u0646"
       ],
       "regular_topics": [
         "Iran",
         "Dubai",
-        "Khamenei",
-        "Strait of Hormuz",
-        "Middle East",
         "Tel Aviv",
+        "Trump",
+        "Strait of Hormuz",
+        "Netanyahu",
+        "Middle East",
+        "Burj Khalifa",
         "Dasun Shanaka",
         "Bahrain",
-        "Netanyahu",
-        "\u092c\u0941\u0930\u094d\u091c \u0916\u0932\u0940\u092b\u093e",
         "Sri Lanka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -162,39 +164,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Feb 28 2026 21:36:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 22:28:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Khamenei",
-        "Dubai",
-        "Lamine Yamal",
         "Trump",
-        "Leeds",
-        "Al Nassr",
-        "#TahbuhLive",
+        "#TheAtmosphere26",
+        "Dubai",
         "Netanyahu",
-        "Semenyo",
-        "Pickford"
+        "Remove Nigeria",
+        "Al Nassr",
+        "Pickford",
+        "Tel Aviv",
+        "#savas"
       ],
       "hashtags": [
-        "#TahbuhLive",
+        "#TheAtmosphere26",
         "#savas",
-        "#LEEMCI",
+        "#TahbuhLive",
         "#Tehran",
-        "#NaijaEarlyYears"
+        "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629"
       ],
       "regular_topics": [
         "Iran",
         "Khamenei",
-        "Dubai",
-        "Lamine Yamal",
         "Trump",
-        "Leeds",
-        "Al Nassr",
+        "Dubai",
         "Netanyahu",
-        "Semenyo",
+        "Remove Nigeria",
+        "Al Nassr",
         "Pickford",
-        "Fox News"
+        "Tel Aviv",
+        "Lamine Yamal",
+        "Leeds"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
