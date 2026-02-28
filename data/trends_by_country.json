@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-28T08:47:54.865618+00:00",
+  "generated_at_utc": "2026-02-28T09:15:00.494912+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 07:57:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 08:48:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Greens",
         "Tehran",
         "Gorton",
         "Labour",
-        "#River",
+        "MATCH DAY",
         "Reform",
-        "Preventative",
+        "Trump",
         "x platform",
         "the x network",
-        "elon's x."
+        "Elon's X."
       ],
       "hashtags": [
-        "#River",
         "#AVFC",
-        "#postboxsaturday",
-        "#totp",
-        "#BitMartUS"
+        "#Caturday",
+        "#River",
+        "#MotoGP",
+        "#PostboxSaturday"
       ],
       "regular_topics": [
         "Iran",
@@ -70,46 +70,46 @@
         "Tehran",
         "Gorton",
         "Labour",
+        "MATCH DAY",
         "Reform",
-        "Preventative",
+        "Trump",
         "x platform",
         "the x network",
-        "elon's x.",
-        "the ceo of x"
+        "Elon's X."
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 07:54:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 08:45:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
+        "Mr. President",
         "Tehran",
-        "Jokic",
         "Anthropic",
         "Jim Carrey",
-        "Caruso",
+        "Jokic",
         "Lu Dort",
-        "Bill Clinton",
         "#SmackDown",
+        "Bill Clinton",
         "Khamenei",
         "#PokemonDay"
       ],
       "hashtags": [
         "#SmackDown",
         "#PokemonDay",
-        "#NHLJets",
-        "#ResidentEvilRequiem",
-        "#ShowtimePoweredBySB19_VISA"
+        "#LoveYouTeacherSeries",
+        "#MIGA",
+        "#ResidentEvilRequiem"
       ],
       "regular_topics": [
         "Iran",
+        "Mr. President",
         "Tehran",
-        "Jokic",
         "Anthropic",
         "Jim Carrey",
-        "Caruso",
+        "Jokic",
         "Lu Dort",
         "Bill Clinton",
         "Khamenei",
