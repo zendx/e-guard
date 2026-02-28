@@ -1,118 +1,118 @@
 {
-  "generated_at_utc": "2026-02-28T07:45:06.039903+00:00",
+  "generated_at_utc": "2026-02-28T08:14:55.152155+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Feb 28 2026 06:42:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:33:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jokic",
         "Dort",
+        "Tehran",
+        "Anthropic",
         "#SmackDown",
         "Cam Johnson",
-        "Anthropic",
+        "#Iran",
         "Caruso",
-        "Shai",
-        "The AI-generated",
-        "Nuggets",
         "OpenAI",
-        "Chet"
+        "Shai",
+        "The AI-generated"
       ],
       "hashtags": [
         "#SmackDown",
-        "#OPLive",
+        "#Iran",
         "#DragRace",
-        "#ReCOLOR3D",
-        "#njnbgusa"
+        "#OPLive",
+        "#OrmFriendOfBvlgari"
       ],
       "regular_topics": [
         "Jokic",
         "Dort",
-        "Cam Johnson",
+        "Tehran",
         "Anthropic",
+        "Cam Johnson",
         "Caruso",
+        "OpenAI",
         "Shai",
         "The AI-generated",
-        "Nuggets",
-        "OpenAI",
-        "Chet",
-        "Denver"
+        "US and Israel",
+        "Nuggets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 07:06:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:57:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Greens",
-        "Gorton",
-        "#River",
-        "Labour",
-        "Reform",
         "Iran",
-        "Israel",
-        "X Platform",
-        "#AVFC",
+        "Greens",
+        "Tehran",
+        "Gorton",
+        "Labour",
+        "#River",
+        "Reform",
+        "Preventative",
+        "x platform",
         "the x network",
-        "Tehran"
+        "elon's x."
       ],
       "hashtags": [
         "#River",
         "#AVFC",
-        "#SmackDown",
-        "#WOLAVL",
-        "#totp"
+        "#postboxsaturday",
+        "#totp",
+        "#BitMartUS"
       ],
       "regular_topics": [
+        "Iran",
         "Greens",
+        "Tehran",
         "Gorton",
         "Labour",
         "Reform",
-        "Iran",
-        "Israel",
-        "X Platform",
+        "Preventative",
+        "x platform",
         "the x network",
-        "Tehran",
         "elon's x.",
-        "Jokic"
+        "the ceo of x"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 07:03:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:54:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jokic",
-        "Lu Dort",
+        "Iran",
         "Tehran",
+        "Jokic",
         "Anthropic",
         "Jim Carrey",
-        "Iran",
         "Caruso",
-        "Israel",
-        "#SmackDown",
+        "Lu Dort",
         "Bill Clinton",
+        "#SmackDown",
+        "Khamenei",
         "#PokemonDay"
       ],
       "hashtags": [
         "#SmackDown",
         "#PokemonDay",
-        "#UFC327",
+        "#NHLJets",
         "#ResidentEvilRequiem",
-        "#NHLJets"
+        "#ShowtimePoweredBySB19_VISA"
       ],
       "regular_topics": [
-        "Jokic",
-        "Lu Dort",
+        "Iran",
         "Tehran",
+        "Jokic",
         "Anthropic",
         "Jim Carrey",
-        "Iran",
         "Caruso",
-        "Israel",
+        "Lu Dort",
         "Bill Clinton",
+        "Khamenei",
         "Oman",
         "Pombon"
       ],
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Feb 28 2026 06:54:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:45:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RisingRajasthanWithModi",
+        "#Iran",
         "Tehran",
-        "#NationalScienceDay",
-        "#TheKeralaStory2InCinemasNow",
+        "#RisingRajasthanWithModi",
         "#ABPIdeasOfIndia",
-        "Iran",
         "#M3MBigBillionPropertySale",
+        "#TheKeralaStory2InCinemasNow",
+        "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0924\u0947\u0939\u0930\u093e\u0928",
         "\u092a\u094d\u0930\u0925\u092e \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
-        "\u0930\u093e\u091c\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
-        "\u0915\u092c\u0940\u0930 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930"
+        "Khamenei",
+        "\u0930\u093e\u091c\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0938\u093e\u0926"
       ],
       "hashtags": [
+        "#Iran",
         "#RisingRajasthanWithModi",
-        "#NationalScienceDay",
-        "#TheKeralaStory2InCinemasNow",
         "#ABPIdeasOfIndia",
-        "#M3MBigBillionPropertySale"
+        "#M3MBigBillionPropertySale",
+        "#TheKeralaStory2InCinemasNow"
       ],
       "regular_topics": [
         "Tehran",
-        "Iran",
+        "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0924\u0947\u0939\u0930\u093e\u0928",
         "\u092a\u094d\u0930\u0925\u092e \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
+        "Khamenei",
         "\u0930\u093e\u091c\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
-        "\u0915\u092c\u0940\u0930 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930",
-        "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0924\u0947\u0939\u0930\u093e\u0928",
+        "Middle East",
+        "Roar of the Lion",
         "Raman Effect",
-        "Anthropic",
-        "Culture And Progress",
-        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915"
+        "Isfahan",
+        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Feb 28 2026 06:48:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:40:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Iran",
+        "Tehran",
         "Hypo",
         "King Mitchy",
         "Moore",
-        "#RamadanDay11",
         "#UCLdraw",
-        "Jokic",
         "Aston Villa",
+        "#RamadanDay11",
+        "Isreal",
         "Bayern",
-        "The Club",
-        "Happy Birthday Harry",
-        "Amaechi"
+        "GM CT"
       ],
       "hashtags": [
-        "#RamadanDay11",
         "#UCLdraw",
+        "#RamadanDay11",
+        "#Epstine",
         "#HallelujahFestival",
-        "#jometxaisa",
-        "#OnlyFriendsDreamOnEP1"
+        "#PokemonWindsWaves"
       ],
       "regular_topics": [
+        "Iran",
+        "Tehran",
         "Hypo",
         "King Mitchy",
         "Moore",
-        "Jokic",
         "Aston Villa",
+        "Isreal",
         "Bayern",
+        "GM CT",
         "The Club",
-        "Happy Birthday Harry",
-        "Amaechi",
-        "Newcastle",
-        "Anthropic"
+        "Happy Birthday Harry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
