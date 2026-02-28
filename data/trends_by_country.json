@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-28T16:12:54.273119+00:00",
+  "generated_at_utc": "2026-02-28T16:45:56.781759+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -39,46 +39,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 15:44:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 16:36:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
-        "Nick Pope",
-        "Middle East",
         "Dubai",
-        "McNeil",
-        "IRGC",
-        "#SAFC",
+        "Gakpo",
+        "HALF TIME",
+        "Middle East",
+        "Nick Pope",
         "Beto",
-        "KICK OFF",
-        "#LIVWHU"
+        "#LIVWHU",
+        "IRGC",
+        "McNeil"
       ],
       "hashtags": [
-        "#SAFC",
         "#LIVWHU",
-        "#ncfc",
+        "#oafc",
+        "#twitterclarets",
         "#BOUSUN",
-        "#PAKvsSL"
+        "#SAFC"
       ],
       "regular_topics": [
         "Iran",
         "Israel",
-        "Nick Pope",
-        "Middle East",
         "Dubai",
-        "McNeil",
-        "IRGC",
+        "Gakpo",
+        "HALF TIME",
+        "Middle East",
+        "Nick Pope",
         "Beto",
-        "KICK OFF",
-        "Iraq",
-        "Netanyahu"
+        "IRGC",
+        "McNeil",
+        "Lamine Yamal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 15:42:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 16:33:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
@@ -87,10 +87,10 @@
         "Dubai",
         "Netanyahu",
         "Islamic",
-        "#PAKvsSL",
-        "Khamenei",
+        "Lamine",
+        "Davos",
         "Iraq",
-        "Qatar"
+        "#PAKvsSL"
       ],
       "hashtags": [
         "#PAKvsSL",
@@ -104,55 +104,55 @@
         "Dubai",
         "Netanyahu",
         "Islamic",
-        "Khamenei",
+        "Lamine",
+        "Davos",
         "Iraq",
-        "Qatar",
-        "Tehran"
+        "Khamenei"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Feb 28 2026 15:33:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 16:27:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SLvsPAK",
         "Iran",
+        "Dubai",
         "Sri Lanka",
         "#Tehran",
-        "Dubai",
+        "Palm Jumeirah",
         "Middle East",
+        "Strait of Hormuz",
+        "#fixing",
         "Sahibzada Farhan",
-        "#GalaxyS26UltraAIPhone",
-        "Qatar",
-        "Pakistan",
-        "#savas"
+        "Lamine"
       ],
       "hashtags": [
         "#SLvsPAK",
         "#Tehran",
-        "#GalaxyS26UltraAIPhone",
-        "#savas",
+        "#fixing",
         "#\u0637\u0647\u0631\u0627\u0646",
-        "#RamCharanBdayMonth",
+        "#savas",
+        "#GalaxyS26UltraAIPhone",
+        "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629",
+        "#HBDCMMKStalin",
         "#ICCT20WorldCup2026",
-        "#Xiaomi17Series",
-        "#XiaomiLaunch",
-        "#AnishchitSeNishchit",
-        "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629"
+        "#RamCharanBdayMonth",
+        "#Suriya46"
       ],
       "regular_topics": [
         "Iran",
-        "Sri Lanka",
         "Dubai",
+        "Sri Lanka",
+        "Palm Jumeirah",
         "Middle East",
+        "Strait of Hormuz",
         "Sahibzada Farhan",
+        "Lamine",
         "Qatar",
-        "Pakistan",
-        "Bahrain",
-        "Fakhar Zaman",
-        "Saudi Arabia",
-        "Gulf"
+        "Gulf",
+        "Pakistan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
