@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-28T21:39:35.810604+00:00",
+  "generated_at_utc": "2026-02-28T22:10:51.565486+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -40,63 +40,64 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 20:57:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 21:51:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Brits2026",
         "Iran",
-        "Leeds",
-        "Olivia Dean",
-        "Israel",
         "#TheBrits",
-        "Khamenei",
-        "#BRITsAwards",
         "Dubai",
-        "HARRY STYLES",
-        "#lufc"
+        "#TheBritAwards",
+        "Leeds",
+        "Khamenei",
+        "Jack Whitehall",
+        "Bjork",
+        "Raye",
+        "Israel"
       ],
       "hashtags": [
         "#Brits2026",
         "#TheBrits",
-        "#BRITsAwards",
+        "#TheBritAwards",
         "#lufc",
         "#BritainsGotTalent"
       ],
       "regular_topics": [
         "Iran",
-        "Leeds",
-        "Olivia Dean",
-        "Israel",
-        "Khamenei",
         "Dubai",
-        "HARRY STYLES",
-        "Farke",
+        "Leeds",
+        "Khamenei",
         "Jack Whitehall",
-        "Rodri",
-        "Wolf Alice"
+        "Bjork",
+        "Raye",
+        "Israel",
+        "Noel",
+        "Olivia Dean",
+        "harry styles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 20:54:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 21:45:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
         "Khamenei",
+        "#CFMTL",
         "#ThankYouTrump",
         "IRGC",
         "Netanyahu",
         "Dubai",
+        "Ingram",
         "Middle East",
-        "Ayatollah",
-        "#CFMTL",
         "Islamic"
       ],
       "hashtags": [
-        "#ThankYouTrump",
         "#CFMTL",
-        "#Tehran"
+        "#ThankYouTrump",
+        "#Tehran",
+        "#NCRIAlternative"
       ],
       "regular_topics": [
         "Iran",
@@ -105,30 +106,30 @@
         "IRGC",
         "Netanyahu",
         "Dubai",
+        "Ingram",
         "Middle East",
-        "Ayatollah",
         "Islamic",
-        "Leeds",
-        "Iraq"
+        "Iraq",
+        "Khomeini"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Feb 28 2026 20:48:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 21:40:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldWar3",
         "Iran",
         "Dubai",
         "#astrosumitbajaj",
         "#Tehran",
-        "#SLvsPAK",
         "Khamenei",
-        "Strait of Hormuz",
+        "#SLvsPAK",
         "#savas",
-        "Pakistan",
-        "Bahrain"
+        "Strait of Hormuz",
+        "Middle East",
+        "Tel Aviv"
       ],
       "hashtags": [
         "#WorldWar3",
@@ -137,63 +138,63 @@
         "#SLvsPAK",
         "#savas",
         "#HBDCMMKStalin",
-        "#fixing",
         "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-        "#\u0637\u0647\u0631\u0627\u0646",
+        "#\u0627\u0644\u0644\u0647\u0645_\u0627\u062d\u0641\u0638_\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "#fixing",
         "#\u30bd\u30ed\u30d5\u30a7\u30b9\u5b9f\u6cc12026",
-        "#saldiri"
+        "#\u0637\u0647\u0631\u0627\u0646"
       ],
       "regular_topics": [
         "Iran",
         "Dubai",
         "Khamenei",
         "Strait of Hormuz",
-        "Pakistan",
-        "Bahrain",
         "Middle East",
+        "Tel Aviv",
         "Dasun Shanaka",
-        "Sri Lanka",
+        "Bahrain",
+        "Netanyahu",
         "\u092c\u0941\u0930\u094d\u091c \u0916\u0932\u0940\u092b\u093e",
-        "Gulf"
+        "Sri Lanka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Feb 28 2026 20:42:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 21:36:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Israel",
-        "Lamine Yamal",
-        "Leeds",
-        "Dubai",
         "Khamenei",
+        "Dubai",
+        "Lamine Yamal",
+        "Trump",
+        "Leeds",
+        "Al Nassr",
         "#TahbuhLive",
+        "Netanyahu",
         "Semenyo",
-        "#LEEMCI",
-        "Saudi Arabia",
-        "Burnley"
+        "Pickford"
       ],
       "hashtags": [
         "#TahbuhLive",
-        "#LEEMCI",
         "#savas",
-        "#NaijaEarlyYears",
-        "#Tehran"
+        "#LEEMCI",
+        "#Tehran",
+        "#NaijaEarlyYears"
       ],
       "regular_topics": [
         "Iran",
-        "Israel",
-        "Lamine Yamal",
-        "Leeds",
-        "Dubai",
         "Khamenei",
+        "Dubai",
+        "Lamine Yamal",
+        "Trump",
+        "Leeds",
+        "Al Nassr",
+        "Netanyahu",
         "Semenyo",
-        "Saudi Arabia",
-        "Burnley",
-        "Pedri",
-        "Villarreal"
+        "Pickford",
+        "Fox News"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
