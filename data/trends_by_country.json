@@ -1,193 +1,198 @@
 {
-  "generated_at_utc": "2026-02-28T13:51:05.146600+00:00",
+  "generated_at_utc": "2026-02-28T14:11:31.963812+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Feb 28 2026 13:39:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 12:48:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Middle East",
         "Operation Epic Fury",
+        "Middle East",
         "Bahrain",
-        "Iraq",
         "Tehran",
-        "Netanyahu",
+        "Iraq",
         "Qatar",
+        "Kuwait",
         "Good Saturday",
-        "Saudi Arabia",
-        "Kuwait"
+        "Netanyahu",
+        "IRGC"
       ],
       "hashtags": [
         "#JesusComingAtRapture",
+        "#WorldWarIII",
         "#SaturdayVibes",
-        "#TAEHYUNGxCELINE"
+        "#DGFW26",
+        "#saturdaymorning"
       ],
       "regular_topics": [
         "Iran",
-        "Middle East",
         "Operation Epic Fury",
+        "Middle East",
         "Bahrain",
-        "Iraq",
         "Tehran",
-        "Netanyahu",
+        "Iraq",
         "Qatar",
+        "Kuwait",
         "Good Saturday",
-        "Saudi Arabia",
-        "Kuwait"
+        "Netanyahu",
+        "IRGC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 13:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 14:00:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
+        "Israel",
         "Middle East",
         "IRGC",
+        "McNeil",
         "Iraq",
-        "Bahrain",
-        "Netanyahu",
-        "Dubai",
         "#BOUSUN",
-        "Qatar",
-        "Cobra",
-        "Tehran"
+        "Dubai",
+        "Netanyahu",
+        "#SAFC",
+        "Travis"
       ],
       "hashtags": [
         "#BOUSUN",
-        "#Caturday"
+        "#SAFC",
+        "#dcfc",
+        "#pufc",
+        "#afcb"
       ],
       "regular_topics": [
         "Iran",
+        "Israel",
         "Middle East",
         "IRGC",
+        "McNeil",
         "Iraq",
-        "Bahrain",
-        "Netanyahu",
         "Dubai",
-        "Qatar",
-        "Cobra",
-        "Tehran",
-        "Kuwait"
+        "Netanyahu",
+        "Travis",
+        "Bahrain",
+        "Islamic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 13:06:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 13:57:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Middle East",
+        "IRGC",
         "Bahrain",
         "Anthropic",
-        "Qatar",
-        "Mr. President",
-        "IRGC",
+        "Netanyahu",
         "Jim Carrey",
-        "Kuwait",
-        "Tehran",
-        "Islamic"
+        "Mr. President",
+        "Qatar",
+        "Islamic",
+        "Iraq"
       ],
       "hashtags": [
         "#SmackDown",
         "#PokemonWindsWaves",
-        "#PBBCollab20TheBigNight",
-        "#KingRezaPahlavi",
-        "#ResidentEvilRequiem"
+        "#PBBCollab20TheBigNight"
       ],
       "regular_topics": [
         "Iran",
         "Middle East",
+        "IRGC",
         "Bahrain",
         "Anthropic",
-        "Qatar",
-        "Mr. President",
-        "IRGC",
+        "Netanyahu",
         "Jim Carrey",
-        "Kuwait",
-        "Tehran",
-        "Islamic"
+        "Mr. President",
+        "Qatar",
+        "Islamic",
+        "Iraq"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Feb 28 2026 12:57:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 13:48:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "#Tehran",
         "Qatar",
         "Bahrain",
-        "#AnishchitSeNishchit",
         "Middle East",
-        "#SemiconRevolution",
+        "#RamCharanBdayMonth",
+        "#IdeasOfIndia2026",
+        "Dubai",
         "Kuwait",
         "Abu Dhabi",
-        "#SWBigBillionPropertySale",
-        "#Isreal"
+        "#SemiconRevolution"
       ],
       "hashtags": [
         "#Tehran",
-        "#AnishchitSeNishchit",
+        "#RamCharanBdayMonth",
+        "#IdeasOfIndia2026",
         "#SemiconRevolution",
+        "#Isreal",
+        "#SLvsPAK",
+        "#AnishchitSeNishchit",
         "#SWBigBillionPropertySale",
-        "#Isreal"
+        "#\u0637\u0647\u0631\u0627\u0646"
       ],
       "regular_topics": [
         "Iran",
         "Qatar",
         "Bahrain",
         "Middle East",
+        "Dubai",
         "Kuwait",
         "Abu Dhabi",
-        "AdityaBirla SunLifeInsurance",
         "Saudi Arabia",
-        "Dubai",
-        "ABP IOI26",
-        "Gulf"
+        "AdityaBirla SunLifeInsurance",
+        "Gulf",
+        "ABP IOI26"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Feb 28 2026 12:52:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 13:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Middle East",
         "Saudi Arabia",
-        "Qatar",
-        "#UncutxtramagazineXUcheMontana",
+        "Middle East",
         "North Korea",
+        "Qatar",
         "Bahrain",
+        "#BriteBensonGoodTime",
         "Trump",
+        "#UncutxtramagazineXUcheMontana",
         "Russia",
-        "Kuwait",
-        "Tehran"
+        "Kuwait"
       ],
       "hashtags": [
-        "#UncutxtramagazineXUcheMontana",
         "#BriteBensonGoodTime",
-        "#YangaByMsJorji",
-        "#bayobets",
-        "#PokemonWindsWaves"
+        "#UncutxtramagazineXUcheMontana",
+        "#YangaByMsJorji"
       ],
       "regular_topics": [
         "Iran",
-        "Middle East",
         "Saudi Arabia",
-        "Qatar",
+        "Middle East",
         "North Korea",
+        "Qatar",
         "Bahrain",
         "Trump",
         "Russia",
         "Kuwait",
-        "Tehran",
-        "Hypo"
+        "Gulf",
+        "Tehran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
