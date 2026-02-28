@@ -1,26 +1,25 @@
 {
-  "generated_at_utc": "2026-02-28T18:15:54.372248+00:00",
+  "generated_at_utc": "2026-02-28T18:52:30.992896+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Feb 28 2026 17:06:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 17:57:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
         "Middle East",
         "Dubai",
         "Iraq",
-        "Islamic",
-        "Lamine",
         "IRGC",
-        "Operation Epic Fury",
+        "Islamic",
         "Ayatollah",
-        "Death to America"
+        "Lamine",
+        "Operation Epic Fury",
+        "Strait of Hormuz"
       ],
       "hashtags": [
-        "#PAKvsSL",
-        "#LIVWHU"
+        "#PAKvsSL"
       ],
       "regular_topics": [
         "Iran",
@@ -28,90 +27,90 @@
         "Middle East",
         "Dubai",
         "Iraq",
-        "Islamic",
-        "Lamine",
         "IRGC",
-        "Operation Epic Fury",
+        "Islamic",
         "Ayatollah",
-        "Death to America"
+        "Lamine",
+        "Operation Epic Fury",
+        "Strait of Hormuz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 17:28:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 18:20:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Burnley",
         "Israel",
-        "#NUFC",
         "Dubai",
+        "#NUFC",
+        "Burnley",
+        "Leeds",
         "Pickford",
-        "FULL TIME",
-        "Pope",
         "Howe",
-        "West Ham",
+        "Pope",
+        "FULL TIME",
         "Middle East"
       ],
       "hashtags": [
         "#NUFC",
+        "#LEEMCI",
         "#bcafc",
-        "#LIVWHU",
         "#htafc",
         "#twitterclarets"
       ],
       "regular_topics": [
         "Iran",
-        "Burnley",
         "Israel",
         "Dubai",
+        "Burnley",
+        "Leeds",
         "Pickford",
-        "FULL TIME",
-        "Pope",
         "Howe",
-        "West Ham",
+        "Pope",
+        "FULL TIME",
         "Middle East",
-        "HALF TIME"
+        "West Ham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 17:27:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 18:18:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
-        "Middle East",
         "Dubai",
+        "Middle East",
         "IRGC",
-        "Burnley",
         "Islamic",
+        "Burnley",
+        "Iraq",
         "Netanyahu",
-        "Lamine",
-        "Brentford",
-        "#PAKvsSL"
+        "#ThankYouTrump",
+        "Davos"
       ],
       "hashtags": [
+        "#ThankYouTrump",
         "#PAKvsSL",
-        "#LIVWHU",
         "#Tehran",
-        "#Caturday",
-        "#ThankYouTrump"
+        "#LIVWHU",
+        "#Caturday"
       ],
       "regular_topics": [
         "Iran",
         "Israel",
-        "Middle East",
         "Dubai",
+        "Middle East",
         "IRGC",
-        "Burnley",
         "Islamic",
+        "Burnley",
+        "Iraq",
         "Netanyahu",
-        "Lamine",
-        "Brentford",
-        "Iraq"
+        "Davos",
+        "Strait of Hormuz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
