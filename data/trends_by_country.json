@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-28T07:26:57.629948+00:00",
+  "generated_at_utc": "2026-02-28T07:45:06.039903+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Feb 28 2026 06:15:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:06:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Greens",
         "Gorton",
-        "#SmackDown",
+        "#River",
         "Labour",
         "Reform",
-        "Jokic",
-        "#avfc",
+        "Iran",
+        "Israel",
         "X Platform",
-        "#River",
+        "#AVFC",
         "the x network",
-        "elon's x."
+        "Tehran"
       ],
       "hashtags": [
-        "#SmackDown",
-        "#avfc",
         "#River",
+        "#AVFC",
+        "#SmackDown",
         "#WOLAVL",
-        "#TOTP"
+        "#totp"
       ],
       "regular_topics": [
         "Greens",
         "Gorton",
         "Labour",
         "Reform",
-        "Jokic",
+        "Iran",
+        "Israel",
         "X Platform",
         "the x network",
+        "Tehran",
         "elon's x.",
-        "Buendia",
-        "the ceo of x",
-        "Churchill"
+        "Jokic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Feb 28 2026 06:09:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Feb 28 2026 07:03:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jokic",
         "Lu Dort",
-        "#SmackDown",
+        "Tehran",
         "Anthropic",
         "Jim Carrey",
+        "Iran",
         "Caruso",
+        "Israel",
+        "#SmackDown",
         "Bill Clinton",
-        "Rhea",
-        "#ReCOLOR3D",
-        "Shai",
-        "#PokemonWindsWaves"
+        "#PokemonDay"
       ],
       "hashtags": [
         "#SmackDown",
-        "#ReCOLOR3D",
-        "#PokemonWindsWaves",
+        "#PokemonDay",
         "#UFC327",
-        "#SB19VISA"
+        "#ResidentEvilRequiem",
+        "#NHLJets"
       ],
       "regular_topics": [
         "Jokic",
         "Lu Dort",
+        "Tehran",
         "Anthropic",
         "Jim Carrey",
+        "Iran",
         "Caruso",
+        "Israel",
         "Bill Clinton",
-        "Rhea",
-        "Shai",
         "Oman",
-        "Pombon",
-        "OpenAI"
+        "Pombon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
