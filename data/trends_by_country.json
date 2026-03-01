@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-03-01T18:53:48.234530+00:00",
+  "generated_at_utc": "2026-03-01T19:13:57.466371+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 01 2026 17:30:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 18:21:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
+        "#PIPPKIN",
+        "Neto",
+        "Senegal",
         "#INDvsWI",
-        "3 US",
-        "Chelsea",
-        "Trossard",
-        "Caicedo",
-        "Reece James",
-        "Sanju Samson",
-        "Hanoi Jane",
-        "Palmer",
         "Sanchez",
-        "#WomensHistoryMonth"
+        "3 US",
+        "Trossard",
+        "Reece James",
+        "#ARSvCHE",
+        "Ndiaga Diagne"
       ],
       "hashtags": [
+        "#PIPPKIN",
         "#INDvsWI",
-        "#WomensHistoryMonth",
-        "#SundayVibes",
-        "#MUFC",
-        "#ARSvCHE"
+        "#ARSvCHE",
+        "#IndyCar",
+        "#WomensHistoryMonth"
       ],
       "regular_topics": [
-        "3 US",
-        "Chelsea",
-        "Trossard",
-        "Caicedo",
-        "Reece James",
-        "Sanju Samson",
-        "Hanoi Jane",
-        "Palmer",
+        "Arsenal",
+        "Neto",
+        "Senegal",
         "Sanchez",
-        "Good Sunday",
-        "Aaron Jones"
+        "3 US",
+        "Trossard",
+        "Reece James",
+        "Ndiaga Diagne",
+        "Palmer",
+        "Hanoi Jane",
+        "Sanju Samson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 01 2026 17:51:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 18:42:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Trossard",
         "Chelsea",
-        "#PIPPKIN",
         "Sanchez",
-        "Rice",
-        "Reece James",
         "Gary Neville",
-        "Palmer",
         "#ARSvCHE",
-        "Zubimendi",
-        "Cunha"
+        "Neto",
+        "#PIPPKIN",
+        "Raya",
+        "Reece James",
+        "Rice",
+        "Trossard",
+        "Palmer"
       ],
       "hashtags": [
-        "#PIPPKIN",
         "#ARSvCHE",
-        "#MUNCRY",
+        "#PIPPKIN",
+        "#COYG",
         "#nffc",
         "#MUFC"
       ],
       "regular_topics": [
-        "Trossard",
         "Chelsea",
         "Sanchez",
-        "Rice",
-        "Reece James",
         "Gary Neville",
+        "Neto",
+        "Raya",
+        "Reece James",
+        "Rice",
+        "Trossard",
         "Palmer",
-        "Zubimendi",
-        "Cunha",
-        "Caicedo",
-        "Sesko"
+        "Delap",
+        "Zubimendi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,39 +121,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 01 2026 17:40:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 18:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsWI",
-        "Sanju Samson",
+        "#SanjuSamson",
         "#T20WorldCup2026",
         "\u0938\u0902\u091c\u0942 \u0938\u0948\u092e\u0938\u0928",
+        "#TeamIndia",
+        "#INDIAVsWI",
         "Abhishek Sharma",
         "West Indies",
-        "#\u0926\u0939\u0947\u091c_\u0915\u0947_\u0926\u093e\u0928\u0935_\u0915\u093e_\u0916\u093e\u0924\u094d\u092e\u093e",
-        "Team India",
-        "Sant RampalJi Bans Dowry",
-        "#dubaiattack",
-        "#semifinal"
+        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e"
       ],
       "hashtags": [
         "#INDvsWI",
+        "#SanjuSamson",
         "#T20WorldCup2026",
-        "#\u0926\u0939\u0947\u091c_\u0915\u0947_\u0926\u093e\u0928\u0935_\u0915\u093e_\u0916\u093e\u0924\u094d\u092e\u093e",
-        "#dubaiattack",
-        "#semifinal"
+        "#TeamIndia",
+        "#INDIAVsWI"
       ],
       "regular_topics": [
-        "Sanju Samson",
         "\u0938\u0902\u091c\u0942 \u0938\u0948\u092e\u0938\u0928",
         "Abhishek Sharma",
         "West Indies",
-        "Team India",
-        "Sant RampalJi Bans Dowry",
-        "Eden Gardens",
-        "Surya",
+        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
-        "Some 97",
-        "Chetta"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e",
+        "Sant RampalJi Bans Dowry",
+        "Gambhir",
+        "Eden Gardens",
+        "Hardik",
+        "Chelsea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
