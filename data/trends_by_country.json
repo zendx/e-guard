@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-01T07:06:31.554531+00:00",
+  "generated_at_utc": "2026-03-01T07:49:46.443035+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 01 2026 06:09:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 07:03:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "connor",
         "HOZIER",
@@ -12,50 +12,50 @@
         "Mumford",
         "Danhausen",
         "#UFCMexico",
-        "Moreno",
-        "Kavanagh",
         "Arman",
+        "Kavanagh",
+        "Moreno",
         "Seth",
         "Gonzaga"
       ],
       "hashtags": [
         "#WWEChamber",
         "#UFCMexico",
-        "#EliminationChamber",
-        "#NAACPImageAwards",
-        "#RAF06"
+        "#TokyoRevengers",
+        "#Toonami",
+        "#EliminationChamber"
       ],
       "regular_topics": [
         "connor",
         "HOZIER",
         "Mumford",
         "Danhausen",
-        "Moreno",
-        "Kavanagh",
         "Arman",
+        "Kavanagh",
+        "Moreno",
         "Seth",
         "Gonzaga",
-        "Navarrete",
-        "Drew"
+        "Iranians",
+        "Khamenei"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 01 2026 06:32:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 07:24:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#River",
         "#WWEChamber",
+        "St David",
         "#UFCMexico",
-        "Danhausen",
-        "Kavanagh",
         "#Khamenei",
-        "Moreno",
+        "Kavanagh",
+        "Danhausen",
         "#ConnorStorrieOnSNL",
         "Seth",
-        "Randy Orton",
-        "Drew"
+        "Moreno",
+        "Orton"
       ],
       "hashtags": [
         "#River",
@@ -63,138 +63,143 @@
         "#UFCMexico",
         "#Khamenei",
         "#ConnorStorrieOnSNL",
-        "#Dubai",
-        "#BritAwards2026",
-        "#IranWar"
+        "#IranWar",
+        "#Dubai"
       ],
       "regular_topics": [
-        "Danhausen",
+        "St David",
         "Kavanagh",
-        "Moreno",
+        "Danhausen",
         "Seth",
-        "Randy Orton",
+        "Moreno",
+        "Orton",
         "Drew",
-        "Mania",
         "Logan Paul",
+        "WrestleMania",
         "LA Knight",
-        "Triple H",
-        "Punk"
+        "Triple H"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 01 2026 06:30:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 07:21:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "connor",
         "hudson",
         "HOZIER",
         "#WWEChamber",
+        "Khamenei",
         "Mumford",
+        "#ThankYouTrump",
+        "Foote",
         "#UFCMexico",
         "Danhausen",
-        "#ThankYouTrump",
-        "Khamenei",
-        "Kavanagh",
-        "#TFCLive"
+        "Kavanagh"
       ],
       "hashtags": [
         "#WWEChamber",
-        "#UFCMexico",
         "#ThankYouTrump",
+        "#UFCMexico",
         "#TFCLive",
-        "#VWFC"
+        "#VWFC",
+        "#LeafsForever",
+        "#Iranian",
+        "#EliminationChamber",
+        "#GoSensGo",
+        "#Habs"
       ],
       "regular_topics": [
         "connor",
         "hudson",
         "HOZIER",
-        "Mumford",
-        "Danhausen",
         "Khamenei",
+        "Mumford",
+        "Foote",
+        "Danhausen",
         "Kavanagh",
         "Lingling Kwong",
         "Moreno",
-        "Seth",
-        "Drew"
+        "Seth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 01 2026 06:21:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 07:15:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Khamenei",
-        "#HBDCMMKStalin",
         "#PuducherryWithModi",
-        "#KeralaStory2InCinemasNow",
+        "#KejriwalJhukegaNahi",
+        "#KattarCorruptKerjiwal",
         "\u0905\u092f\u093e\u0924\u0941\u0932\u094d\u0932\u093e \u0905\u0932\u0940",
         "Alyssa Healy",
+        "Karachi",
         "Dubai",
-        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
-        "Kya Kare Kya Na Kare",
-        "Grahan Ke Niyam",
-        "Shia"
+        "\u0936\u093f\u092f\u093e \u0938\u092e\u0941\u0926\u093e\u092f",
+        "Shia",
+        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f"
       ],
       "hashtags": [
         "#Khamenei",
-        "#HBDCMMKStalin",
         "#PuducherryWithModi",
-        "#KeralaStory2InCinemasNow"
+        "#KejriwalJhukegaNahi",
+        "#KattarCorruptKerjiwal"
       ],
       "regular_topics": [
         "\u0905\u092f\u093e\u0924\u0941\u0932\u094d\u0932\u093e \u0905\u0932\u0940",
         "Alyssa Healy",
+        "Karachi",
         "Dubai",
-        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
-        "Kya Kare Kya Na Kare",
-        "Grahan Ke Niyam",
+        "\u0936\u093f\u092f\u093e \u0938\u092e\u0941\u0926\u093e\u092f",
         "Shia",
-        "\u0928\u093e\u0917\u0930\u093f\u0915 \u0938\u0941\u0930\u0915\u094d\u0937\u093e",
+        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
+        "Kashmir",
+        "Pahalgam",
         "\u0908\u0930\u093e\u0928\u0940 \u0938\u0941\u092a\u094d\u0930\u0940\u092e",
-        "MSG Gurumantra Bhandara Month",
-        "\u0936\u093f\u092f\u093e \u0938\u092e\u0941\u0926\u093e\u092f"
+        "\u0932\u093e\u0932 \u091a\u094c\u0915"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 01 2026 06:16:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 07:08:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Iran",
         "Happy New Month",
+        "#Khamenei",
+        "May March",
+        "#RamadanDay12",
+        "#March2026",
         "Trump",
-        "Middle East",
-        "Dubai",
-        "Hypo",
-        "Islamic",
-        "Lamine Yamal",
-        "King Mitchy",
-        "Saudi Arabia",
-        "#RamadanDay12"
+        "Dear March",
+        "NO BAD DAYS IN MARCH",
+        "Mossad",
+        "Marching",
+        "Dubai"
       ],
       "hashtags": [
+        "#Khamenei",
         "#RamadanDay12",
-        "#\u062e\u0627\u0645\u0646\u0626\u064a",
-        "#savas",
         "#March2026",
-        "#britebensongoodtime"
+        "#Israel",
+        "#\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0644\u062b\u0629",
+        "#savas"
       ],
       "regular_topics": [
-        "Iran",
         "Happy New Month",
+        "May March",
         "Trump",
-        "Middle East",
+        "Dear March",
+        "NO BAD DAYS IN MARCH",
+        "Mossad",
+        "Marching",
         "Dubai",
-        "Hypo",
-        "Islamic",
-        "Lamine Yamal",
-        "King Mitchy",
-        "Saudi Arabia",
-        "Russia"
+        "World War III",
+        "Natasha",
+        "Death to America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
