@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-03-01T22:11:24.867807+00:00",
+  "generated_at_utc": "2026-03-01T22:46:12.684543+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 01 2026 21:51:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 20:57:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Purdue",
         "Property of Allah",
-        "#SendBarron",
-        "Senegal",
         "Arsenal",
+        "Senegal",
         "Diawara",
-        "Marines",
-        "Ndiaga Diagne",
-        "Bones Hyland",
+        "#SendBarron",
+        "Chelsea",
         "#NewYorkForever",
-        "Ding"
+        "Mikal Bridges",
+        "Josh Hart",
+        "Ndiaga Diagne"
       ],
       "hashtags": [
         "#SendBarron",
         "#NewYorkForever",
         "#PIPPKIN",
-        "#Knicks",
+        "#IndyCar",
         "#IranWar"
       ],
       "regular_topics": [
         "Purdue",
         "Property of Allah",
-        "Senegal",
         "Arsenal",
+        "Senegal",
         "Diawara",
-        "Marines",
-        "Ndiaga Diagne",
-        "Bones Hyland",
-        "Ding",
+        "Chelsea",
+        "Mikal Bridges",
         "Josh Hart",
-        "Buckeyes"
+        "Ndiaga Diagne",
+        "Buckeyes",
+        "Alex Palou"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 01 2026 21:20:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 22:12:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
+        "#MAFSUK",
+        "Knock",
         "Sanchez",
         "Raya",
+        "Neto",
         "Gary Neville",
-        "Rice",
-        "Knock",
         "#callthemidwife",
-        "#MAFSUK",
-        "#ARSvCHE",
-        "#whowantstobeamillionaire",
-        "Reece James"
+        "Rice",
+        "Roma",
+        "#whowantstobeamillionaire"
       ],
       "hashtags": [
-        "#callthemidwife",
         "#MAFSUK",
-        "#ARSvCHE",
+        "#callthemidwife",
         "#whowantstobeamillionaire",
-        "#TheFloor"
+        "#ARSvCHE",
+        "#forgotten80s"
       ],
       "regular_topics": [
         "Chelsea",
+        "Knock",
         "Sanchez",
         "Raya",
+        "Neto",
         "Gary Neville",
         "Rice",
-        "Knock",
-        "Reece James",
-        "Palmer",
-        "Timber",
-        "Trossard",
-        "Roma"
+        "Roma",
+        "Keye",
+        "The Smiths",
+        "Reece James"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 01 2026 21:18:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 22:09:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
@@ -93,15 +93,15 @@
         "Dubai",
         "#WWEChamber",
         "Netanyahu",
-        "Chelsea",
-        "Tehran"
+        "Tehran",
+        "Islamic"
       ],
       "hashtags": [
         "#ThankYouTrump",
         "#WWEChamber",
-        "#CanWNT",
         "#UFCMexico",
-        "#INDvsWI"
+        "#INDvsWI",
+        "#ThankYouPresidentTrump"
       ],
       "regular_topics": [
         "Iran",
@@ -111,17 +111,17 @@
         "Middle East",
         "Dubai",
         "Netanyahu",
-        "Chelsea",
         "Tehran",
         "Islamic",
-        "Arsenal"
+        "Chelsea",
+        "Iraq"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 01 2026 21:06:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 21:57:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsWI",
         "#SanjuSamson",
@@ -131,9 +131,9 @@
         "#INDIAVsWI",
         "Abhishek",
         "West Indies",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
+        "Arsenal",
         "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
-        "Arsenal"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e"
       ],
       "hashtags": [
         "#INDvsWI",
@@ -146,14 +146,14 @@
         "\u0938\u0902\u091c\u0942 \u0938\u0948\u092e\u0938\u0928",
         "Abhishek",
         "West Indies",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
-        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
         "Arsenal",
+        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
+        "Jerusalem",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e",
         "Chelsea",
         "Eden Gardens",
-        "Gambhir",
-        "Hardik"
+        "Gambhir"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
