@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-01T16:13:37.936873+00:00",
+  "generated_at_utc": "2026-03-01T16:47:55.617240+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 01 2026 16:08:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 15:16:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MUNCRY",
-        "Sesko",
-        "#nffc",
-        "Cunha",
-        "#MUFC",
         "Dalot",
-        "Fulham",
-        "Palace",
-        "Carrick",
         "Yoro",
-        "Amad"
+        "Shaw",
+        "#MUNCRY",
+        "Iwobi",
+        "Rangers",
+        "Amad",
+        "Vicario",
+        "Gallagher",
+        "Fulham",
+        "#FULTOT"
       ],
       "hashtags": [
         "#MUNCRY",
-        "#nffc",
-        "#MUFC",
-        "#THFC",
-        "#FULTOT"
+        "#FULTOT",
+        "#RANCEL",
+        "#OldFirm",
+        "#INDvsWI"
       ],
       "regular_topics": [
-        "Sesko",
-        "Cunha",
         "Dalot",
-        "Fulham",
-        "Palace",
-        "Carrick",
         "Yoro",
-        "Amad",
-        "Lacroix",
         "Shaw",
-        "Gallagher"
+        "Iwobi",
+        "Rangers",
+        "Amad",
+        "Vicario",
+        "Gallagher",
+        "Fulham",
+        "Hearts",
+        "Rohl"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 01 2026 16:04:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 01 2026 15:12:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Israel",
@@ -90,30 +90,30 @@
         "#WWEChamber",
         "#ThankYouTrump",
         "Middle East",
-        "Sesko",
         "Dubai",
         "IRGC",
-        "Netanyahu",
-        "Cunha"
+        "Dalot",
+        "Amad",
+        "Yoro"
       ],
       "hashtags": [
         "#WWEChamber",
         "#ThankYouTrump",
-        "#INDvsWI",
         "#MUNCRY",
-        "#MUFC"
+        "#UFCMexico",
+        "#ConnorStorrieOnSNL"
       ],
       "regular_topics": [
         "Iran",
         "Israel",
         "Khamenei",
         "Middle East",
-        "Sesko",
         "Dubai",
         "IRGC",
-        "Netanyahu",
-        "Cunha",
+        "Dalot",
         "Amad",
+        "Yoro",
+        "Cunha",
         "Islamic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
