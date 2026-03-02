@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-02T19:54:32.149426+00:00",
+  "generated_at_utc": "2026-03-02T20:22:16.533377+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 02 2026 18:36:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 19:28:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Texans",
-        "Spain",
-        "Monty",
         "Denzel",
-        "Gibbs",
+        "Spain",
+        "Shingles",
+        "Texans",
+        "David Montgomery",
+        "Monty",
         "Kuwait",
-        "Lions",
         "CJ Stroud",
-        "Scruggs",
-        "#IranIsraelWar",
-        "Smoothie King"
+        "Luke Kornet",
+        "Gibbs",
+        "Lions"
       ],
       "hashtags": [
         "#IranIsraelWar",
-        "#RSD2026",
         "#WWEHOF",
-        "#OnePride",
-        "#MondayMotivation"
+        "#drwfirstgoal",
+        "#LaSayonaPitiyanqui",
+        "#OnePride"
       ],
       "regular_topics": [
-        "Texans",
-        "Spain",
-        "Monty",
         "Denzel",
-        "Gibbs",
+        "Spain",
+        "Shingles",
+        "Texans",
+        "David Montgomery",
+        "Monty",
         "Kuwait",
-        "Lions",
         "CJ Stroud",
-        "Scruggs",
-        "Smoothie King",
-        "Shingles"
+        "Luke Kornet",
+        "Gibbs",
+        "Lions"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
