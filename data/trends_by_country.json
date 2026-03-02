@@ -1,29 +1,33 @@
 {
-  "generated_at_utc": "2026-03-02T11:49:49.066050+00:00",
+  "generated_at_utc": "2026-03-02T12:30:01.996835+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 02 2026 10:48:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 11:39:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LingOrmDiorAW26APTLook",
         "Kuwait",
         "Good Monday",
         "Ras Tanura",
+        "#MondayMotivation",
         "F-15",
         "Saudi Aramco",
-        "#IranWar",
-        "#IndustryHBO",
-        "Lebanon",
-        "Hezbollah",
-        "Yasmin"
+        "#LinglingKwong",
+        "#OrmKornnaphat",
+        "Friendly",
+        "#IranWar"
       ],
       "hashtags": [
         "#LingOrmDiorAW26APTLook",
+        "#MondayMotivation",
+        "#LinglingKwong",
+        "#OrmKornnaphat",
         "#IranWar",
         "#IndustryHBO",
-        "#OrmKornnaphat",
-        "#LinglingKwong"
+        "#ActorAwards",
+        "#BaddiesUSA",
+        "#RHOP"
       ],
       "regular_topics": [
         "Kuwait",
@@ -31,61 +35,60 @@
         "Ras Tanura",
         "F-15",
         "Saudi Aramco",
+        "Friendly",
         "Lebanon",
         "Hezbollah",
-        "Yasmin",
         "Zendaya",
-        "Oscar",
-        "Harrison Ford"
+        "Gulf",
+        "Faye"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 02 2026 10:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 11:08:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Israel",
         "Dubai",
         "Cyprus",
         "Middle East",
         "Chelsea",
-        "Sanchez",
         "Trump",
+        "Sanchez",
         "IRGC",
-        "Kuwait",
-        "Iraq"
+        "#popmaster",
+        "Iraq",
+        "Kuwait"
       ],
       "hashtags": [
+        "#popmaster",
         "#ARSvCHE",
-        "#r4today",
+        "#thismorning",
         "#MondayMotivation",
-        "#MUNCRY",
-        "#Brits2026"
+        "#MUNCRY"
       ],
       "regular_topics": [
         "Iran",
-        "Israel",
         "Dubai",
         "Cyprus",
         "Middle East",
         "Chelsea",
-        "Sanchez",
         "Trump",
+        "Sanchez",
         "IRGC",
+        "Iraq",
         "Kuwait",
-        "Iraq"
+        "St David"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 02 2026 10:15:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 11:06:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "Israel",
         "#ThankYouTrump",
         "Khamenei",
         "IRGC",
@@ -94,7 +97,8 @@
         "Dubai",
         "Islamic",
         "Tehran",
-        "#ActorAwards"
+        "#ActorAwards",
+        "Iraq"
       ],
       "hashtags": [
         "#ThankYouTrump",
@@ -105,7 +109,6 @@
       ],
       "regular_topics": [
         "Iran",
-        "Israel",
         "Khamenei",
         "IRGC",
         "Middle East",
@@ -113,6 +116,7 @@
         "Islamic",
         "Tehran",
         "Iraq",
+        "Hezbollah",
         "Kuwait",
         "Persian"
       ],
@@ -121,44 +125,45 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 02 2026 10:06:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 11:48:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IranWar",
-        "#ATM_Telangana",
-        "#KeralaStory2TruthWins",
-        "#MisuseOfPower",
-        "#AllNewVClassLWB",
-        "Ras Tanura",
+        "#F15Crash",
+        "#Gst_harassment_hyd",
+        "#CongratulationsTeamOsama",
+        "#IranIsraelWar",
         "Kuwait",
         "F-15",
+        "Ras Tanura",
         "\u0938\u090a\u0926\u0940 \u0905\u0930\u092c",
-        "\u0924\u0947\u0932 \u0930\u093f\u092b\u093e\u0907\u0928\u0930\u0940",
-        "Several US"
+        "\u091f\u0940\u092e \u0913\u0938\u093e\u092e\u093e",
+        "\u0924\u0947\u0932 \u0930\u093f\u092b\u093e\u0907\u0928\u0930\u0940"
       ],
       "hashtags": [
         "#IranWar",
-        "#ATM_Telangana",
-        "#KeralaStory2TruthWins",
-        "#MisuseOfPower",
-        "#AllNewVClassLWB",
-        "#HolikaDahan",
-        "#DaughtersOfDelhi",
         "#F15Crash",
-        "#\u0915\u0943\u0937\u093f_\u0915\u0948\u092c\u093f\u0928\u0947\u091f_\u092e\u0927\u094d\u092f\u092a\u094d\u0930\u0926\u0947\u0936",
+        "#Gst_harassment_hyd",
+        "#CongratulationsTeamOsama",
+        "#IranIsraelWar",
+        "#ATM_Telangana",
+        "#AllNewVClassLWB",
+        "#\u0627\u0644\u062e\u0631\u062c",
+        "#\u0639\u0627\u062c\u0644_\u0627\u0644\u0627\u0646",
+        "#HolikaDahan",
         "#TapashilirSanglap"
       ],
       "regular_topics": [
-        "Ras Tanura",
         "Kuwait",
         "F-15",
+        "Ras Tanura",
         "\u0938\u090a\u0926\u0940 \u0905\u0930\u092c",
+        "\u091f\u0940\u092e \u0913\u0938\u093e\u092e\u093e",
         "\u0924\u0947\u0932 \u0930\u093f\u092b\u093e\u0907\u0928\u0930\u0940",
-        "Several US",
-        "Hezbollah",
-        "gRaCe God",
-        "\u091c\u0928\u091c\u093e\u0924\u0940\u092f \u0905\u0902\u091a\u0932",
-        "India and Canada",
-        "V-Class"
+        "Canada",
+        "\u0938\u090a\u0926\u0940 \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+        "Friendly",
+        "Cyprus",
+        "Jets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
