@@ -1,70 +1,69 @@
 {
-  "generated_at_utc": "2026-03-02T18:01:27.083703+00:00",
+  "generated_at_utc": "2026-03-02T18:39:32.738498+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 02 2026 16:51:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 17:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Texans",
-        "David Montgomery",
         "Spain",
         "Monty",
         "Gibbs",
         "Lions",
-        "Hegseth",
         "Kuwait",
         "Scruggs",
-        "Joe Mixon",
-        "Sonic and Knuckles"
+        "Hegseth",
+        "CJ Stroud",
+        "Mixon",
+        "Woody Marks"
       ],
       "hashtags": [
-        "#MondayMotivation",
-        "#OnePride",
-        "#LingOrmDiorAW26APTLook",
+        "#RSD2026",
         "#WWEHOF",
-        "#FELIXxLouisVuittonPFW"
+        "#OnePride",
+        "#MondayMotivation",
+        "#IranIsraelWar"
       ],
       "regular_topics": [
         "Texans",
-        "David Montgomery",
         "Spain",
         "Monty",
         "Gibbs",
         "Lions",
-        "Hegseth",
         "Kuwait",
         "Scruggs",
-        "Joe Mixon",
-        "Sonic and Knuckles"
+        "Hegseth",
+        "CJ Stroud",
+        "Mixon",
+        "Woody Marks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 02 2026 17:12:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 18:03:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#tippingpoint",
+        "#thechase",
         "Edinburgh",
         "North Sea",
-        "#TheChase",
-        "Cyprus",
-        "Hegseth",
         "Ed Davey",
-        "iPhone 17e",
-        "Grangemouth",
-        "Navy",
-        "#IranIsraelWar"
+        "#tippingpoint",
+        "Cyprus",
+        "Elizabeth Taylor",
+        "#pointless",
+        "Subway",
+        "OJO Birthday",
+        "Hegseth"
       ],
       "hashtags": [
+        "#thechase",
         "#tippingpoint",
-        "#TheChase",
+        "#pointless",
         "#IranIsraelWar",
         "#KingRezaPahlavi",
         "#PoliticsLive",
-        "#LingOrmDiorAW26APTLook",
-        "#RHOP",
         "#EpsteinWar",
         "#WorldBookDay",
         "#MondayMotivation"
@@ -72,34 +71,34 @@
       "regular_topics": [
         "Edinburgh",
         "North Sea",
-        "Cyprus",
-        "Hegseth",
         "Ed Davey",
-        "iPhone 17e",
-        "Grangemouth",
-        "Navy",
-        "Police Scotland",
-        "Wenger",
-        "Rachel Reeves"
+        "Cyprus",
+        "Elizabeth Taylor",
+        "Subway",
+        "OJO Birthday",
+        "Hegseth",
+        "Brewdog",
+        "Kuwaiti",
+        "iPhone 17e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 02 2026 17:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 18:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "#ThankYouTrump",
-        "Khamenei",
-        "IRGC",
-        "Middle East",
         "#ThankYouNetanyahu",
+        "IRGC",
+        "Khamenei",
+        "Middle East",
         "Kuwait",
         "Dubai",
+        "#ThankYouPresidentTrump",
         "Islamic",
-        "Ayatollah",
-        "Tehran"
+        "Ayatollah"
       ],
       "hashtags": [
         "#ThankYouTrump",
@@ -110,16 +109,16 @@
       ],
       "regular_topics": [
         "Iran",
-        "Khamenei",
         "IRGC",
+        "Khamenei",
         "Middle East",
         "Kuwait",
         "Dubai",
         "Islamic",
         "Ayatollah",
         "Tehran",
-        "Iraq",
-        "Texans"
+        "Hezbollah",
+        "Iraq"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -165,45 +164,45 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 02 2026 16:57:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 02 2026 17:51:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JeansCarnivalLagos",
         "#Dior",
+        "50 Nigerian",
+        "#Faxait",
+        "ICPC",
         "#TWBUTheMovie",
         "Getafe",
-        "Work of Art",
-        "ICPC",
         "Distraction",
-        "Xeet",
-        "Made in Lagos",
-        "Daddy",
-        "#HypoForASaferTomorrow"
+        "#IranIsraelWar",
+        "Work of Art",
+        "Xeet"
       ],
       "hashtags": [
         "#JeansCarnivalLagos",
         "#Dior",
+        "#Faxait",
         "#TWBUTheMovie",
+        "#IranIsraelWar",
         "#HypoForASaferTomorrow",
-        "#LingOrm",
-        "#NextLevelPrayers2026",
-        "#EAA84",
+        "#cratgyamyi",
         "#\u0639\u0627\u062c\u0644_\u0627\u0644\u0627\u0646",
-        "#TradFi",
-        "#BitgetAfrica",
+        "#EAA84",
+        "#NextLevelPrayers2026",
         "#KingRezaPahlavi"
       ],
       "regular_topics": [
-        "Getafe",
-        "Work of Art",
+        "50 Nigerian",
         "ICPC",
+        "Getafe",
         "Distraction",
+        "Work of Art",
         "Xeet",
+        "Borno",
         "Made in Lagos",
         "Daddy",
-        "Pete Hegseth",
         "Boy Alone",
-        "Ogba",
-        "African Giant"
+        "Pete Hegseth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
