@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-03-03T06:06:18.732999+00:00",
+  "generated_at_utc": "2026-03-03T07:12:56.559635+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 03 2026 05:00:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 05:52:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Roman",
+        "Arike",
         "Penta",
         "#Unrivaled",
-        "Arike",
         "Keyonte George",
         "Stewie",
-        "Giannis",
         "Megyn",
-        "Paige",
-        "#TheRookie"
+        "Podz",
+        "Giannis",
+        "Paige"
       ],
       "hashtags": [
         "#WWERaw",
         "#Unrivaled",
         "#TheRookie",
-        "#RawOnNetflix",
-        "#IranIsraelWar"
+        "#TexasHockey",
+        "#RawOnNetflix"
       ],
       "regular_topics": [
         "Roman",
-        "Penta",
         "Arike",
+        "Penta",
         "Keyonte George",
         "Stewie",
-        "Giannis",
         "Megyn",
+        "Podz",
+        "Giannis",
         "Paige",
         "Arizona",
-        "Breeze",
-        "Mist"
+        "Yanic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 03 2026 04:28:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 07:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "#WWERaw",
-        "#River",
+        "Elon's X.",
+        "The CEO of X",
+        "The X Network",
+        "X Platform",
+        "Tesla",
         "Cyprus",
-        "Dubai",
-        "Trump",
-        "Middle East",
-        "Roman",
-        "Iraq",
-        "Penta",
-        "Rusev"
+        "#River",
+        "SpaceX",
+        "#WWERaw",
+        "Dubai"
       ],
       "hashtags": [
-        "#WWERaw",
         "#River",
-        "#RawOnNetflix",
-        "#TheRookie",
-        "#bcfc"
+        "#WWERaw",
+        "#thicktrunktuesday",
+        "#TheChase",
+        "#BCFC"
       ],
       "regular_topics": [
         "Iran",
+        "Elon's X.",
+        "The CEO of X",
+        "The X Network",
+        "X Platform",
+        "Tesla",
         "Cyprus",
+        "SpaceX",
         "Dubai",
         "Trump",
-        "Middle East",
-        "Roman",
-        "Iraq",
-        "Penta",
-        "Rusev",
-        "IRGC",
-        "Kuwait"
+        "Middle East"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 03 2026 04:27:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 07:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
-        "#WWERaw",
-        "#ThankYouTrump",
         "#ThankYouNetanyahu",
+        "#ThankYouTrump",
+        "#Canucks",
         "Hage",
+        "#WWERaw",
         "IRGC",
         "Middle East",
-        "Kuwait",
-        "Khamenei",
         "#ThankYouPresidentTrump",
-        "Murphy"
+        "Kuwait",
+        "Thomas"
       ],
       "hashtags": [
-        "#WWERaw",
-        "#ThankYouTrump",
         "#ThankYouNetanyahu",
-        "#ThankYouPresidentTrump",
-        "#LeafsForever"
+        "#ThankYouTrump",
+        "#Canucks",
+        "#WWERaw",
+        "#ThankYouPresidentTrump"
       ],
       "regular_topics": [
         "Iran",
@@ -109,96 +109,96 @@
         "IRGC",
         "Middle East",
         "Kuwait",
-        "Khamenei",
-        "Murphy",
         "Thomas",
-        "Roman",
-        "Dragon Lee",
-        "Brookfield"
+        "Murphy",
+        "Khamenei",
+        "Musqueam",
+        "Brookfield",
+        "Foote"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 03 2026 04:18:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 06:54:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HappyHoli",
-        "#FeedTheNeedy",
+        "Happy Holi",
         "#WorldWildlifeDay",
-        "Festival Of Colours",
+        "#Officerharrasment",
         "#TelAvivBlast",
-        "#IranIsraelWar",
-        "Natural Colours",
-        "\u092b\u0942\u0921 \u092c\u0948\u0902\u0915",
-        "Food Bank",
-        "Riyadh",
-        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e"
+        "Sonia Gandhi",
+        "#FeedTheNeedy",
+        "#\u0627\u0644\u0631\u064a\u0627\u0636_\u0627\u0644\u0627\u0646",
+        "\u091f\u093e\u091f\u093e \u0938\u092e\u0942\u0939",
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Claude",
+        "\u091c\u092e\u0936\u0947\u0926\u091c\u0940 \u091f\u093e\u091f\u093e"
       ],
       "hashtags": [
-        "#HappyHoli",
-        "#FeedTheNeedy",
         "#WorldWildlifeDay",
+        "#Officerharrasment",
         "#TelAvivBlast",
-        "#IranIsraelWar",
-        "#GodMorningTuesday",
-        "#WWERaw",
-        "#\u0935\u093f\u0936\u094d\u0935_\u0935\u0928\u094d\u092f\u091c\u0940\u0935_\u0926\u093f\u0935\u0938",
+        "#FeedTheNeedy",
         "#\u0627\u0644\u0631\u064a\u0627\u0636_\u0627\u0644\u0627\u0646",
+        "#IranIsraelWar",
         "#\u0939\u094b\u0932\u0940",
-        "#DolaPurnima"
+        "#ShraddhaKapoor",
+        "#Riyadh",
+        "#USIranConflict",
+        "#GodMorningTuesday"
       ],
       "regular_topics": [
-        "Festival Of Colours",
-        "Natural Colours",
-        "\u092b\u0942\u0921 \u092c\u0948\u0902\u0915",
-        "Food Bank",
-        "Riyadh",
-        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e",
+        "Happy Holi",
+        "Sonia Gandhi",
         "\u091f\u093e\u091f\u093e \u0938\u092e\u0942\u0939",
-        "Dera Sacha Sauda",
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Claude",
         "\u091c\u092e\u0936\u0947\u0926\u091c\u0940 \u091f\u093e\u091f\u093e",
         "\u092c\u093e\u0932\u0915\u0943\u0937\u094d\u0923 \u0936\u093f\u0935\u0930\u093e\u092e \u092e\u0941\u0902\u091c\u0947",
-        "\u091c\u0948\u0935 \u0935\u093f\u0935\u093f\u0927\u0924\u093e"
+        "\u092b\u0942\u0921 \u092c\u0948\u0902\u0915",
+        "\u091c\u0948\u0935 \u0935\u093f\u0935\u093f\u0927\u0924\u093e",
+        "\u091a\u0948\u0924\u0928\u094d\u092f \u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941",
+        "\u0930\u0935\u093f \u0915\u093f\u0936\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 03 2026 04:15:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 06:51:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Iran",
         "Moore",
+        "Iran",
         "Getafe",
-        "#RamadanDay14",
-        "X or Telegram",
         "Arsenal",
-        "Happy New Month",
+        "GM CT",
         "Chelsea",
+        "#RamadanDay14",
         "Trump",
-        "Middle East",
-        "0.041 ETH"
+        "Taco Tuesday",
+        "Happy New Month",
+        "Flamengo"
       ],
       "hashtags": [
         "#RamadanDay14",
-        "#MondayMotivation",
-        "#arsvche",
+        "#TelAviv",
         "#Dior",
-        "#saracares"
+        "#saracares",
+        "#\u0627\u0644\u0631\u064a\u0627\u0636_\u0627\u0644\u0627\u0646"
       ],
       "regular_topics": [
-        "Iran",
         "Moore",
+        "Iran",
         "Getafe",
-        "X or Telegram",
         "Arsenal",
-        "Happy New Month",
+        "GM CT",
         "Chelsea",
         "Trump",
-        "Middle East",
-        "0.041 ETH",
-        "Max Supply"
+        "Taco Tuesday",
+        "Happy New Month",
+        "Flamengo",
+        "Middle East"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
