@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-03T20:53:20.288970+00:00",
+  "generated_at_utc": "2026-03-03T21:22:23.056160+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 03 2026 20:06:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 20:57:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Churchill",
         "Spain",
+        "Gravenberch",
         "Trump",
-        "Roosevelt",
-        "#LEESUN",
-        "HMS Dragon",
-        "LUKE HEMMINGS",
-        "#MartinLewis",
         "#WOLLIV",
-        "#Lionesses",
-        "#TheChase"
+        "Roosevelt",
+        "#lufc",
+        "Joao Gomes",
+        "#LEESUN",
+        "#colu",
+        "#twitterclarets"
       ],
       "hashtags": [
-        "#LEESUN",
-        "#MartinLewis",
         "#WOLLIV",
-        "#Lionesses",
-        "#TheChase"
+        "#lufc",
+        "#LEESUN",
+        "#colu",
+        "#twitterclarets"
       ],
       "regular_topics": [
         "Churchill",
         "Spain",
+        "Gravenberch",
         "Trump",
         "Roosevelt",
-        "HMS Dragon",
-        "LUKE HEMMINGS",
-        "Eisenhower",
+        "Joao Gomes",
         "All 20",
-        "Dagenham",
-        "Redbridge",
-        "Russo"
+        "Ferran",
+        "O'Nien",
+        "HMS Dragon",
+        "Bernal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 03 2026 20:03:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 20:54:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
         "Spain",
@@ -93,15 +93,15 @@
         "Buffalo",
         "Middle East",
         "IRGC",
-        "The Dark Knight",
-        "#ThankYouPresidentTrump"
+        "#ThankYouPresidentTrump",
+        "Ferran"
       ],
       "hashtags": [
         "#ThankYouNetanyahu",
         "#ThankYouTrump",
         "#ThankYouPresidentTrump",
-        "#WWERaw",
-        "#ThankYouBibi"
+        "#GrandD\u00eenerLouvre",
+        "#OlandriaxPFW"
       ],
       "regular_topics": [
         "Iran",
@@ -111,10 +111,10 @@
         "Buffalo",
         "Middle East",
         "IRGC",
-        "The Dark Knight",
+        "Ferran",
         "Murphy",
-        "Brookfield",
-        "Musqueam"
+        "Musqueam",
+        "Brookfield"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
