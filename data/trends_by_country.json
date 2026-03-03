@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-03T22:54:03.413010+00:00",
+  "generated_at_utc": "2026-03-03T23:14:43.778664+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -81,38 +81,38 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 03 2026 21:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 22:39:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iran",
+        "Wolves",
         "Spain",
+        "Liverpool",
         "Thomas",
         "Hage",
         "#ThankYouNetanyahu",
         "#ThankYouTrump",
-        "Highguard",
-        "Geoff",
-        "Middle East",
-        "Buffalo",
-        "Bernal"
+        "#WOLLIV",
+        "Bernal",
+        "Highguard"
       ],
       "hashtags": [
         "#ThankYouNetanyahu",
         "#ThankYouTrump",
+        "#WOLLIV",
         "#ThankYouPresidentTrump",
-        "#OlandriaxPFW",
-        "#GrandD\u00eenerLouvre"
+        "#OlandriaxPFW"
       ],
       "regular_topics": [
         "Iran",
+        "Wolves",
         "Spain",
+        "Liverpool",
         "Thomas",
         "Hage",
-        "Highguard",
-        "Geoff",
-        "Middle East",
-        "Buffalo",
         "Bernal",
-        "IRGC",
+        "Highguard",
+        "Slot",
+        "Middle East",
         "John Tory"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,40 +120,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 03 2026 21:39:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 03 2026 22:30:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ferran",
-        "#USIranWar",
-        "Balde",
-        "Spain",
-        "Lamine",
-        "US Consulate in Dubai",
-        "#BarcaAtleti",
-        "Rashford",
         "Bernal",
-        "\u0906\u0932\u094b\u0915 \u0936\u0930\u094d\u092e\u093e",
-        "Olmo"
+        "Ferran",
+        "Pedri",
+        "Balde",
+        "Barca",
+        "Cancelo",
+        "Lamine",
+        "Cubarsi",
+        "Wolves",
+        "Araujo",
+        "#USIranWar"
       ],
       "hashtags": [
         "#USIranWar",
-        "#BarcaAtleti",
-        "#\u0930\u093e\u092e_\u0930\u0902\u0917_\u0939\u094b\u0930\u0940_\u0939\u094b",
+        "#WOLLIV",
+        "#CopaDelRey",
         "#BTS_ARIRANG",
-        "#USIranConflict",
-        "#DelegateToSai"
+        "#\u0930\u093e\u092e_\u0930\u0902\u0917_\u0939\u094b\u0930\u0940_\u0939\u094b"
       ],
       "regular_topics": [
-        "Ferran",
-        "Balde",
-        "Spain",
-        "Lamine",
-        "US Consulate in Dubai",
-        "Rashford",
         "Bernal",
-        "\u0906\u0932\u094b\u0915 \u0936\u0930\u094d\u092e\u093e",
-        "Olmo",
+        "Ferran",
+        "Pedri",
+        "Balde",
+        "Barca",
         "Cancelo",
-        "Fermin"
+        "Lamine",
+        "Cubarsi",
+        "Wolves",
+        "Araujo",
+        "Barcelona"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
