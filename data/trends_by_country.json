@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-04T21:22:34.661422+00:00",
+  "generated_at_utc": "2026-03-04T21:53:48.064116+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -41,39 +41,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 04 2026 20:20:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 21:15:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mosquera",
-        "Watkins",
-        "Semenyo",
-        "Jorgensen",
-        "Brighton",
-        "#BHAARS",
-        "#AVLCHE",
-        "Fofana",
+        "Casemiro",
+        "Joao Pedro",
         "#NEWMUN",
-        "Zubimendi",
-        "Douglas Luiz"
+        "Mosquera",
+        "Newcastle",
+        "Ramsey",
+        "#AVFC",
+        "Watkins",
+        "Brighton",
+        "Garnacho",
+        "Mbeumo"
       ],
       "hashtags": [
-        "#BHAARS",
-        "#AVLCHE",
         "#NEWMUN",
-        "#BRIARS",
+        "#AVFC",
+        "#AVLCHE",
+        "#BHAARS",
         "#FULWHU"
       ],
       "regular_topics": [
+        "Casemiro",
+        "Joao Pedro",
         "Mosquera",
+        "Newcastle",
+        "Ramsey",
         "Watkins",
-        "Semenyo",
-        "Jorgensen",
         "Brighton",
-        "Fofana",
-        "Zubimendi",
-        "Douglas Luiz",
-        "Bailey",
-        "Fernandes",
-        "Buendia"
+        "Garnacho",
+        "Mbeumo",
+        "Gyokeres",
+        "Joelinton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
