@@ -1,40 +1,42 @@
 {
-  "generated_at_utc": "2026-03-04T23:18:46.202565+00:00",
+  "generated_at_utc": "2026-03-04T23:48:59.348883+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 04 2026 21:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 22:39:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cornyn",
+        "Lou Holtz",
         "Paxton",
         "Diggs",
+        "Newcastle",
+        "Carrick",
+        "Malacia",
+        "Parayko",
         "Green Lantern",
-        "Lou Holtz",
-        "Rams",
-        "Casemiro",
-        "Chiefs",
-        "McDuffie",
-        "Joao Pedro",
-        "Wendy"
+        "Ugarte",
+        "Casemiro"
       ],
       "hashtags": [
+        "#NEWMUN",
+        "#MUFC",
         "#COYG",
-        "#BHAARS",
-        "#AVLCHE"
+        "#TheFive",
+        "#NUFC"
       ],
       "regular_topics": [
         "Cornyn",
+        "Lou Holtz",
         "Paxton",
         "Diggs",
+        "Newcastle",
+        "Carrick",
+        "Malacia",
+        "Parayko",
         "Green Lantern",
-        "Lou Holtz",
-        "Rams",
-        "Casemiro",
-        "Chiefs",
-        "McDuffie",
-        "Joao Pedro",
-        "Wendy"
+        "Ugarte",
+        "Casemiro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -119,18 +121,18 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 04 2026 22:48:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 23:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NEWMUN",
         "Carrick",
+        "#NEWMUN",
         "Newcastle",
         "Malacia",
         "Indian Ocean",
-        "Ugarte",
         "Casemiro",
+        "Ugarte",
         "#MUFC",
-        "Finn Allen",
         "Mbeumo",
+        "Amad",
         "Hincapie"
       ],
       "hashtags": [
@@ -145,32 +147,32 @@
         "Newcastle",
         "Malacia",
         "Indian Ocean",
-        "Ugarte",
         "Casemiro",
-        "Finn Allen",
+        "Ugarte",
         "Mbeumo",
-        "Hincapie",
         "Amad",
-        "Dalot"
+        "Hincapie",
+        "Mainoo",
+        "Finn Allen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Mar 04 2026 22:44:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 23:36:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Newcastle",
         "Malacia",
         "Joao Pedro",
-        "#NEWMUN",
         "Ugarte",
+        "Manchester United",
+        "#NEWMUN",
         "Casemiro",
-        "Mbeumo",
         "Amad",
-        "Man U",
-        "Osula"
+        "Mbeumo",
+        "Man U"
       ],
       "hashtags": [
         "#NEWMUN",
@@ -185,12 +187,12 @@
         "Malacia",
         "Joao Pedro",
         "Ugarte",
+        "Manchester United",
         "Casemiro",
-        "Mbeumo",
         "Amad",
+        "Mbeumo",
         "Man U",
-        "Osula",
-        "Nottingham Forest"
+        "Osula"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
