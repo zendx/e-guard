@@ -1,40 +1,40 @@
 {
-  "generated_at_utc": "2026-03-04T21:53:48.064116+00:00",
+  "generated_at_utc": "2026-03-04T22:19:18.337155+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 04 2026 20:51:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 21:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cornyn",
         "Paxton",
-        "Rams",
-        "Stefon Diggs",
+        "Diggs",
         "Green Lantern",
+        "Lou Holtz",
+        "Rams",
+        "Casemiro",
         "Chiefs",
         "McDuffie",
         "Joao Pedro",
-        "Wendy",
-        "Karoline Leavitt",
-        "Walz"
+        "Wendy"
       ],
       "hashtags": [
+        "#COYG",
         "#BHAARS",
-        "#AVLCHE",
-        "#BTSLiveonNetflix"
+        "#AVLCHE"
       ],
       "regular_topics": [
         "Cornyn",
         "Paxton",
-        "Rams",
-        "Stefon Diggs",
+        "Diggs",
         "Green Lantern",
+        "Lou Holtz",
+        "Rams",
+        "Casemiro",
         "Chiefs",
         "McDuffie",
         "Joao Pedro",
-        "Wendy",
-        "Karoline Leavitt",
-        "Walz"
+        "Wendy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -158,39 +158,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Mar 04 2026 20:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 04 2026 21:52:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joao Pedro",
+        "Casemiro",
         "#AVLCHE",
         "#BHAARS",
-        "Mosquera",
-        "Garnacho",
-        "Brighton",
-        "Semenyo",
-        "Jorgensen",
-        "Aston Villa",
+        "#NEWMUN",
+        "Nottingham Forest",
+        "#COYG",
+        "Mbeumo",
         "Newcastle",
-        "Enzo"
+        "Brighton",
+        "Garnacho"
       ],
       "hashtags": [
         "#AVLCHE",
         "#BHAARS",
         "#NEWMUN",
-        "#ASTCHE",
-        "#BRIARS"
+        "#COYG",
+        "#MCINFO"
       ],
       "regular_topics": [
         "Joao Pedro",
-        "Mosquera",
-        "Garnacho",
-        "Brighton",
-        "Semenyo",
-        "Jorgensen",
-        "Aston Villa",
+        "Casemiro",
+        "Nottingham Forest",
+        "Mbeumo",
         "Newcastle",
-        "Enzo",
-        "Watkins",
-        "Zubimendi"
+        "Brighton",
+        "Garnacho",
+        "Amad",
+        "Aston Villa",
+        "Murillo",
+        "Cole Palmer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
