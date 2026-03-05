@@ -1,81 +1,92 @@
 {
-  "generated_at_utc": "2026-03-05T11:04:52.309735+00:00",
+  "generated_at_utc": "2026-03-05T11:52:06.810863+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 05 2026 10:08:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 05 2026 11:03:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Azerbaijan",
+        "Good Thursday",
         "Marine",
+        "#OffWhiteFW26",
+        "#Wordle1720",
         "HS4 AT MIDNIGHT",
-        "Julia",
         "Megumi",
-        "#Survivor50",
-        "Caeli",
         "Chabad",
-        "#AEWDynamite",
-        "Hornets",
-        "Sheehy"
+        "Julia",
+        "#Survivor50",
+        "#Pokopia"
       ],
       "hashtags": [
+        "#OffWhiteFW26",
+        "#Wordle1720",
         "#Survivor50",
-        "#AEWDynamite",
         "#Pokopia",
+        "#AEWDynamite",
+        "#WorldBaseballClassic",
         "#LittleMissDramaTour",
-        "#WorldBaseballClassic"
+        "#onechicagocrossover",
+        "#FELIX",
+        "#USIranWar"
       ],
       "regular_topics": [
         "Azerbaijan",
+        "Good Thursday",
         "Marine",
         "HS4 AT MIDNIGHT",
-        "Julia",
         "Megumi",
-        "Caeli",
         "Chabad",
+        "Julia",
+        "Caeli",
         "Hornets",
-        "Sheehy",
-        "Brian McGinnis",
-        "Gege"
+        "Yuji",
+        "Brian McGinnis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 05 2026 10:33:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 05 2026 11:24:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldBookDay2026",
-        "Iran",
-        "Trump",
-        "Carrick",
-        "#NEWMUN",
-        "Brighton",
-        "Malacia",
-        "Newcastle",
-        "Cyprus",
-        "Ugarte",
-        "Starmer"
+        "#ITV7InItToWinIt",
+        "#popmaster",
+        "Sels",
+        "Swede",
+        "Inothewayurthinkin",
+        "Azerbaijan",
+        "Haaland",
+        "Scholes",
+        "UNBRIDLED",
+        "Miliband"
       ],
       "hashtags": [
         "#WorldBookDay2026",
-        "#NEWMUN",
-        "#BBCBreakfast",
         "#ITV7InItToWinIt",
-        "#MUFC"
+        "#popmaster",
+        "#StPiransDay",
+        "#Valley",
+        "#AdoorableThursday",
+        "#r4today",
+        "#JeremyVine",
+        "#Cornwall",
+        "#IWD2026",
+        "#BTSLiveonNetflix"
       ],
       "regular_topics": [
-        "Iran",
-        "Trump",
-        "Carrick",
-        "Brighton",
-        "Malacia",
-        "Newcastle",
-        "Cyprus",
-        "Ugarte",
-        "Starmer",
-        "Spain",
-        "Osula"
+        "Sels",
+        "Swede",
+        "Inothewayurthinkin",
+        "Azerbaijan",
+        "Haaland",
+        "Scholes",
+        "UNBRIDLED",
+        "Miliband",
+        "Gool Peran Lowen",
+        "Rodri",
+        "Dermot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -159,14 +170,14 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Mar 05 2026 10:18:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 05 2026 11:09:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Newcastle",
         "Malacia",
         "Joao Pedro",
         "Carrick",
-        "#Bankstrivia",
         "Brighton",
+        "#Bankstrivia",
         "#NEWMUN",
         "Ugarte",
         "#AVLCHE",
@@ -190,8 +201,8 @@
         "Mikel",
         "Casemiro",
         "Osula",
-        "Portable",
-        "Frank"
+        "Amad",
+        "Portable"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
