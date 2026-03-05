@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-05T21:56:44.503915+00:00",
+  "generated_at_utc": "2026-03-05T22:23:14.122630+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -118,15 +118,15 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 05 2026 20:45:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 05 2026 21:39:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#INDvsENG",
         "#T20WC2026",
         "Bumrah",
         "Jacob Bethell",
+        "England",
         "#TeamIndia",
         "Thala",
-        "#T20WC26",
         "Varun",
         "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
         "Axar Patel",
@@ -138,16 +138,14 @@
         "#TeamIndia",
         "#T20WC26",
         "#INDvsNZ",
+        "#T20WorldCup26",
         "#SanjuSamson",
-        "#dhoni",
-        "#IndianCricketTeam",
-        "#MenInBlue",
-        "#WeStandWithSangeetha",
-        "#BleedBlue"
+        "#MSDhoni"
       ],
       "regular_topics": [
         "Bumrah",
         "Jacob Bethell",
+        "England",
         "Thala",
         "Varun",
         "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
@@ -155,8 +153,7 @@
         "Hardik",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
         "Ahmedabad",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e",
-        "Kuldeep"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
