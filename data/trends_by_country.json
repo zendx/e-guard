@@ -1,200 +1,202 @@
 {
-  "generated_at_utc": "2026-03-06T11:18:54.557918+00:00",
+  "generated_at_utc": "2026-03-06T11:48:00.296532+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 06 2026 10:27:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 11:18:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "harry styles",
-        "#LOEWEFW26",
-        "#BoyfriendOnDemandOnNetflix",
+        "Ohtani",
         "#hololivefesEXPO26_DAY1",
-        "#WWE2K26",
+        "#LOEWEFW26",
+        "harry styles",
+        "#BoyfriendOnDemandOnNetflix",
         "#ActressJISOONetflixDebut",
+        "#WWE2K26",
         "BOYFRIEND ON DEMAND OUT NOW",
-        "Marcus Smart",
-        "Coming Up Roses",
         "John Carlson",
-        "Dance No More"
+        "Maradona",
+        "Marcus Smart"
       ],
       "hashtags": [
+        "#hololivefesEXPO26_DAY1",
         "#LOEWEFW26",
         "#BoyfriendOnDemandOnNetflix",
-        "#hololivefesEXPO26_DAY1",
-        "#WWE2K26",
-        "#ActressJISOONetflixDebut"
+        "#ActressJISOONetflixDebut",
+        "#WWE2K26"
       ],
       "regular_topics": [
+        "Ohtani",
         "harry styles",
         "BOYFRIEND ON DEMAND OUT NOW",
-        "Marcus Smart",
-        "Coming Up Roses",
         "John Carlson",
-        "Dance No More",
-        "Messi",
         "Maradona",
-        "American Girls",
-        "robby",
-        "Taste Back"
+        "Marcus Smart",
+        "Wordle 1,721 X",
+        "Messi",
+        "Dance No More",
+        "Coming Up Roses",
+        "Marlon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 06 2026 10:48:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 11:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "#TOTCRY",
-        "#WorldBookDay",
         "Lammy",
+        "#TOTCRY",
+        "World Book Day",
         "Tottenham",
         "#TheApprentice",
         "Tudor",
         "Cyprus",
-        "#FlowersOnFriday",
+        "Mastermind",
         "Van de Ven",
-        "Adam Wharton"
+        "#WHFreeBet"
       ],
       "hashtags": [
         "#TOTCRY",
-        "#WorldBookDay",
         "#TheApprentice",
-        "#FlowersOnFriday",
-        "#BBCbreakfast"
+        "#WHFreeBet",
+        "#THFC",
+        "#INDvsENG"
       ],
       "regular_topics": [
         "Spurs",
         "Lammy",
+        "World Book Day",
         "Tottenham",
         "Tudor",
         "Cyprus",
+        "Mastermind",
         "Van de Ven",
         "Adam Wharton",
-        "Palace",
-        "Archie Gray",
-        "Championship",
-        "Swede"
+        "Foreign Secretary",
+        "Championship"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 06 2026 10:45:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 11:39:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Buffalo",
         "Garland",
         "#hololivefesEXPO26_DAY1",
         "John Carlson",
-        "Parayko",
         "Noem",
-        "Perron",
-        "#Canucks",
-        "#KingRezaPahlavi",
+        "Parayko",
         "Stanley",
-        "Foegele"
+        "#KingRezaPahlavi",
+        "#Canucks",
+        "Foegele",
+        "Perron"
       ],
       "hashtags": [
         "#hololivefesEXPO26_DAY1",
-        "#Canucks",
         "#KingRezaPahlavi",
-        "#DigitalBlackOutIran",
-        "#911onABC"
+        "#Canucks",
+        "#911onABC",
+        "#DigitalBlackOutIran"
       ],
       "regular_topics": [
         "Buffalo",
         "Garland",
         "John Carlson",
-        "Parayko",
         "Noem",
-        "Perron",
+        "Parayko",
         "Stanley",
         "Foegele",
-        "Weegar",
-        "Spurs",
-        "Sabres"
+        "Perron",
+        "Concrete",
+        "weegar",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 06 2026 10:36:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 11:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SamsungGalaxyAI",
-        "#Budget4ViksitMaharashtra",
         "\u0905\u0928\u0941\u091c \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0940",
         "#UPSC",
-        "#LetOurChildrenHeal",
+        "#Budget4ViksitMaharashtra",
         "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e",
-        "#CharakInCinemas",
+        "#AnujAgnihotri",
+        "#LetOurChildrenHeal",
+        "\u0938\u0902\u0918 \u0932\u094b\u0915 \u0938\u0947\u0935\u093e \u0906\u092f\u094b\u0917",
         "Russian",
-        "Mission C1000",
         "Privacy Display",
-        "\u0915\u0930\u094d\u0928\u093e\u091f\u0915 \u0938\u0930\u0915\u093e\u0930"
+        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0930\u094d\u0935\u093f\u0938"
       ],
       "hashtags": [
         "#SamsungGalaxyAI",
-        "#Budget4ViksitMaharashtra",
         "#UPSC",
+        "#Budget4ViksitMaharashtra",
+        "#AnujAgnihotri",
         "#LetOurChildrenHeal",
-        "#CharakInCinemas"
+        "#\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc12030",
+        "#DidiForBengal"
       ],
       "regular_topics": [
         "\u0905\u0928\u0941\u091c \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0940",
         "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e",
+        "\u0938\u0902\u0918 \u0932\u094b\u0915 \u0938\u0947\u0935\u093e \u0906\u092f\u094b\u0917",
         "Russian",
-        "Mission C1000",
         "Privacy Display",
+        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0930\u094d\u0935\u093f\u0938",
         "\u0915\u0930\u094d\u0928\u093e\u091f\u0915 \u0938\u0930\u0915\u093e\u0930",
         "Baakhabar Sant Rampal Ji",
-        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0930\u094d\u0935\u093f\u0938",
-        "\u0930\u0942\u0938\u0940 \u0924\u0947\u0932",
-        "AIPhone",
-        "BOYFRIEND ON DEMAND OUT NOW"
+        "\u0907\u0902\u0921\u093f\u092f\u093e \u0930\u0948\u0902\u0915",
+        "Etherean",
+        "AIR 1"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 06 2026 10:33:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 11:24:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Etherean",
         "#WomenHelpingWomen",
-        "Adelabu",
+        "Gundogan",
         "Ghana",
-        "Independence Day",
-        "#AskBinance",
+        "Adelabu",
         "#bbvipal5",
-        "Frank Mba",
+        "210 Trillion",
+        "National Grid",
         "Itel",
-        "New Music Friday",
-        "Gundogan"
+        "#\u0635\u0648\u062a_\u0627\u0644\u0627\u0646\u0641\u062c\u0627\u0631\u0627\u062a",
+        "Kubwa"
       ],
       "hashtags": [
         "#WomenHelpingWomen",
-        "#AskBinance",
         "#bbvipal5",
+        "#\u0635\u0648\u062a_\u0627\u0644\u0627\u0646\u0641\u062c\u0627\u0631\u0627\u062a",
+        "#AskBinance",
         "#ZenithBankIWD2026",
-        "#RamadanDay17",
         "#INDvsENG",
-        "#OffWhitexZeeNunew"
+        "#RamadanDay17"
       ],
       "regular_topics": [
         "Etherean",
-        "Adelabu",
-        "Ghana",
-        "Independence Day",
-        "Frank Mba",
-        "Itel",
-        "New Music Friday",
         "Gundogan",
-        "NetNaija",
+        "Ghana",
+        "Adelabu",
+        "210 Trillion",
+        "National Grid",
+        "Itel",
+        "Kubwa",
         "Pete Edochie",
-        "National Grid"
+        "Solar",
+        "NEPA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
