@@ -1,19 +1,19 @@
 {
-  "generated_at_utc": "2026-03-06T09:59:20.906478+00:00",
+  "generated_at_utc": "2026-03-06T10:33:57.590007+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 06 2026 08:42:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 09:33:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "harry styles",
-        "Marcus Smart",
         "#WWE2K26",
-        "coming up roses",
+        "Marcus Smart",
         "#BoyfriendOnDemandOnNetflix",
         "#ActressJISOONetflixDebut",
-        "Dance No More",
+        "Coming Up Roses",
         "BOYFRIEND ON DEMAND OUT NOW",
+        "Dance No More",
         "#thepitt",
         "John Carlson",
         "#KATTDO"
@@ -28,14 +28,14 @@
       "regular_topics": [
         "harry styles",
         "Marcus Smart",
-        "coming up roses",
-        "Dance No More",
+        "Coming Up Roses",
         "BOYFRIEND ON DEMAND OUT NOW",
+        "Dance No More",
         "John Carlson",
         "American Girls",
-        "robby",
         "ARE YOU LISTENING YET",
         "Taste Back",
+        "robby",
         "Carla's Song"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,156 +43,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 06 2026 08:12:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 09:56:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "#TOTCRY",
         "#WorldBookDay",
-        "Wordle 1,721 X",
+        "Lammy",
         "Tottenham",
-        "#fingerpostfriday",
+        "Wordle 1,721 X",
         "#TheApprentice",
         "#FridayFeeling",
+        "#BBCbreakfast",
         "Tudor",
-        "Adam Wharton",
-        "Van de Ven"
+        "Adam Wharton"
       ],
       "hashtags": [
         "#TOTCRY",
         "#WorldBookDay",
-        "#fingerpostfriday",
         "#TheApprentice",
-        "#FridayFeeling"
+        "#FridayFeeling",
+        "#BBCbreakfast"
       ],
       "regular_topics": [
         "Spurs",
-        "Wordle 1,721 X",
+        "Lammy",
         "Tottenham",
+        "Wordle 1,721 X",
         "Tudor",
         "Adam Wharton",
         "Van de Ven",
-        "Palace",
         "Cyprus",
+        "Palace",
         "Archie Gray",
-        "Swede",
-        "Lebanon"
+        "Swede"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 06 2026 08:09:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 09:54:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "John Carlson",
-        "Garland",
         "Buffalo",
-        "harry styles",
+        "Garland",
+        "John Carlson",
         "Columbus",
-        "Stanley",
-        "Rosen",
-        "Garly",
-        "Parayko",
         "Noem",
-        "#KingRezaPahlavi"
+        "Parayko",
+        "Perron",
+        "Isak Rosen",
+        "#KingRezaPahlavi",
+        "#Canucks",
+        "harry styles"
       ],
       "hashtags": [
         "#KingRezaPahlavi",
         "#Canucks",
-        "#KATTDO",
-        "#NHLJets",
-        "#911onABC"
+        "#911onABC",
+        "#DigitalBlackOutIran",
+        "#NHLTradeDeadline"
       ],
       "regular_topics": [
-        "John Carlson",
-        "Garland",
         "Buffalo",
-        "harry styles",
+        "Garland",
+        "John Carlson",
         "Columbus",
-        "Stanley",
-        "Rosen",
-        "Garly",
-        "Parayko",
         "Noem",
-        "Perron"
+        "Parayko",
+        "Perron",
+        "Isak Rosen",
+        "harry styles",
+        "Stanley",
+        "Foegele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 06 2026 08:55:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 09:45:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SamsungGalaxyAI",
         "#CharakInCinemas",
         "#LetOurChildrenHeal",
         "Russian",
-        "#DalaiLamaSecretaryScandal",
-        "#\u0915\u0941\u0930\u093e\u0928\u092e\u0947\u0902_\u0905\u0932\u094d\u0932\u093e\u0939\u0915\u092c\u0940\u0930_\u0915\u093e_\u091c\u093f\u0915\u094d\u0930",
-        "Baakhabar Sant Rampal Ji",
+        "#DidiForBengal",
+        "\u0905\u0928\u0941\u091c \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0940",
+        "#UPSC",
         "Mission C1000",
-        "\u0930\u0942\u0938\u0940 \u0924\u0947\u0932",
-        "Tenzin Taklha",
-        "\u092b\u094d\u0932\u093e\u0907\u091f \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f"
+        "Baakhabar Sant Rampal Ji",
+        "Privacy Display",
+        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e"
       ],
       "hashtags": [
         "#SamsungGalaxyAI",
         "#CharakInCinemas",
         "#LetOurChildrenHeal",
-        "#DalaiLamaSecretaryScandal",
-        "#\u0915\u0941\u0930\u093e\u0928\u092e\u0947\u0902_\u0905\u0932\u094d\u0932\u093e\u0939\u0915\u092c\u0940\u0930_\u0915\u093e_\u091c\u093f\u0915\u094d\u0930"
+        "#DidiForBengal",
+        "#UPSC"
       ],
       "regular_topics": [
         "Russian",
-        "Baakhabar Sant Rampal Ji",
+        "\u0905\u0928\u0941\u091c \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0940",
         "Mission C1000",
-        "\u0930\u0942\u0938\u0940 \u0924\u0947\u0932",
-        "Tenzin Taklha",
-        "\u092b\u094d\u0932\u093e\u0907\u091f \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f",
-        "Om Shanti",
+        "Baakhabar Sant Rampal Ji",
         "Privacy Display",
-        "Tibetan",
+        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e",
         "\u0915\u0930\u094d\u0928\u093e\u091f\u0915 \u0938\u0930\u0915\u093e\u0930",
-        "My 5"
+        "\u092b\u094d\u0932\u093e\u0907\u091f \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f",
+        "Tenzin Taklha",
+        "\u0930\u0942\u0938\u0940 \u0924\u0947\u0932",
+        "BOYFRIEND ON DEMAND OUT NOW"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 06 2026 08:51:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 09:42:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "#AskBinance",
-        "#ZenithBankIWD2026",
         "Tottenham",
-        "Amen",
-        "Frank Mba",
         "Mofe",
         "Adelabu",
-        "GM CT",
+        "#bbvipal5",
+        "Celine Dion",
+        "#AskBinance",
         "Malacia",
-        "Celine Dion"
+        "Frank Mba",
+        "#RamadanDay17",
+        "Otega"
       ],
       "hashtags": [
-        "#AskBinance",
-        "#ZenithBankIWD2026",
-        "#RamadanDay17",
         "#bbvipal5",
-        "#INDvsENG"
+        "#AskBinance",
+        "#RamadanDay17",
+        "#INDvsENG",
+        "#TOTCRY"
       ],
       "regular_topics": [
         "Spurs",
         "Tottenham",
-        "Amen",
-        "Frank Mba",
         "Mofe",
         "Adelabu",
-        "GM CT",
-        "Malacia",
         "Celine Dion",
+        "Malacia",
+        "Frank Mba",
         "Otega",
-        "NYSC"
+        "NYSC",
+        "Tinubu",
+        "Nigeria"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
