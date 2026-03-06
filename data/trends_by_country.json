@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-03-06T23:16:44.528177+00:00",
+  "generated_at_utc": "2026-03-06T23:46:07.536129+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 06 2026 21:48:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 22:44:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jesse Jackson",
-        "Freddy",
         "Ben Stiller",
-        "Schenn",
-        "Nintendo",
+        "Freddy",
         "Tropic Thunder",
-        "Drouin",
-        "Belmont",
+        "Schenn",
+        "Kadri",
+        "Nintendo",
         "Three Rivers",
-        "Faulk",
-        "Kadri"
+        "Drouin",
+        "Union City",
+        "Belmont"
       ],
       "hashtags": [
+        "#GoAvsGo",
         "#miwx",
         "#IranIsraelUSWar",
-        "#WorldBaseballClassic",
-        "#stlblues",
-        "#FursuitFriday"
+        "#WorldBaseballClassic"
       ],
       "regular_topics": [
         "Jesse Jackson",
-        "Freddy",
         "Ben Stiller",
-        "Schenn",
-        "Nintendo",
+        "Freddy",
         "Tropic Thunder",
-        "Drouin",
-        "Belmont",
+        "Schenn",
+        "Kadri",
+        "Nintendo",
         "Three Rivers",
-        "Faulk",
-        "Kadri"
+        "Drouin",
+        "Union City",
+        "Belmont"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
