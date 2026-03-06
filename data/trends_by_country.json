@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-03-06T09:00:29.108256+00:00",
+  "generated_at_utc": "2026-03-06T09:59:20.906478+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 06 2026 07:51:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 06 2026 08:42:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "harry styles",
         "Marcus Smart",
         "#WWE2K26",
         "coming up roses",
+        "#BoyfriendOnDemandOnNetflix",
+        "#ActressJISOONetflixDebut",
         "Dance No More",
+        "BOYFRIEND ON DEMAND OUT NOW",
         "#thepitt",
         "John Carlson",
-        "#KATTDO",
-        "American Girls",
-        "robby",
-        "ARE YOU LISTENING YET"
+        "#KATTDO"
       ],
       "hashtags": [
         "#WWE2K26",
+        "#BoyfriendOnDemandOnNetflix",
+        "#ActressJISOONetflixDebut",
         "#thepitt",
-        "#KATTDO",
-        "#kissco",
-        "#criticalrolespoilers"
+        "#KATTDO"
       ],
       "regular_topics": [
         "harry styles",
         "Marcus Smart",
         "coming up roses",
         "Dance No More",
+        "BOYFRIEND ON DEMAND OUT NOW",
         "John Carlson",
         "American Girls",
         "robby",
         "ARE YOU LISTENING YET",
         "Taste Back",
-        "The Waiting Game",
         "Carla's Song"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
