@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-07T11:39:39.142837+00:00",
+  "generated_at_utc": "2026-03-07T12:20:43.098989+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 07 2026 10:51:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 11:42:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Saturday",
         "PERTHSANTA WAITING TIME",
         "#PSTimeStopperinVietnam",
         "#hololivefesEXPO26_DAY2",
-        "Ravens",
-        "Good Saturday",
-        "Shiori",
-        "Drew",
-        "#TheLastDriveIn",
+        "IPTV",
         "#EmiBonnieLoveSessionD1",
-        "#SmackDown",
-        "IPTV"
+        "Ravens",
+        "Shiori",
+        "But the Lord",
+        "Drew",
+        "#SmackDown"
       ],
       "hashtags": [
         "#PSTimeStopperinVietnam",
         "#hololivefesEXPO26_DAY2",
-        "#TheLastDriveIn",
         "#EmiBonnieLoveSessionD1",
-        "#SmackDown"
+        "#SmackDown",
+        "#hololiveEXPOfes2026_DAY2"
       ],
       "regular_topics": [
-        "PERTHSANTA WAITING TIME",
-        "Ravens",
         "Good Saturday",
-        "Shiori",
-        "Drew",
+        "PERTHSANTA WAITING TIME",
         "IPTV",
-        "Clippers",
+        "Ravens",
+        "Shiori",
         "But the Lord",
-        "Batum",
-        "Jesse Jackson",
-        "Raiders"
+        "Drew",
+        "Dubai International Airport",
+        "Clippers",
+        "Happy Birthday IRyS",
+        "Jesse Jackson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -125,43 +125,45 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 07 2026 11:03:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 11:54:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GalaxyAI",
+        "#HarSafarMeinDumHai",
+        "#BeachVolleyballAtKIIT",
         "#PunjabDiUdyogikKranti",
         "#KotaBundiKiNayiUdan",
-        "#BeachVolleyballAtKIIT",
-        "#HarSafarMeinDumHai",
-        "WE WATCH SHKH FOR RISHU",
-        "Hadoti",
         "Justice For Narayan",
-        "Nightography",
         "Now Nudge",
-        "Dubai International Airport"
+        "Hadoti",
+        "Dubai International Airport",
+        "Gorilla Glass Victus 2",
+        "Achyuta Samanta"
       ],
       "hashtags": [
         "#GalaxyAI",
+        "#HarSafarMeinDumHai",
+        "#BeachVolleyballAtKIIT",
         "#PunjabDiUdyogikKranti",
         "#KotaBundiKiNayiUdan",
-        "#BeachVolleyballAtKIIT",
-        "#HarSafarMeinDumHai",
         "#Chiraiya",
         "#DhurandharTheRevenge",
-        "#TheUltraPhone",
-        "#RanveerSingh"
+        "#8March_Ramleela_Maidan",
+        "#WomensDay",
+        "#DubaiAirport",
+        "#INDvsNZ"
       ],
       "regular_topics": [
-        "WE WATCH SHKH FOR RISHU",
-        "Hadoti",
         "Justice For Narayan",
-        "Nightography",
         "Now Nudge",
+        "Hadoti",
         "Dubai International Airport",
         "Gorilla Glass Victus 2",
-        "\u0906\u0915\u093e\u0902\u0915\u094d\u0937\u093e \u0938\u093f\u0902\u0939",
         "Achyuta Samanta",
         "PERTHSANTA WAITING TIME",
-        "\u0939\u0930\u093f\u092f\u093e\u0923\u093e \u092a\u0941\u0932\u093f\u0938"
+        "\u0906\u0915\u093e\u0902\u0915\u094d\u0937\u093e \u0938\u093f\u0902\u0939",
+        "Mitchell Santner",
+        "\u0939\u0930\u093f\u092f\u093e\u0923\u093e \u092a\u0941\u0932\u093f\u0938",
+        "Aditya Dhar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
