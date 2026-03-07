@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-03-07T07:45:41.479997+00:00",
+  "generated_at_utc": "2026-03-07T08:15:43.774631+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 07 2026 06:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 07:24:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
         "Ravens",
+        "#TheLastDriveIn",
         "Clippers",
         "Drew",
-        "#TheLastDriveIn",
         "Batum",
+        "#MutantFam",
         "Raiders",
-        "Miami",
-        "Spurs",
         "Lamar",
+        "Miami",
         "George Russell"
       ],
       "hashtags": [
         "#SmackDown",
         "#TheLastDriveIn",
-        "#AustralianGP",
+        "#MutantFam",
         "#hololivefesEXPO26_DAY2",
-        "#MutantFam"
+        "#AustralianGP"
       ],
       "regular_topics": [
         "Ravens",
@@ -31,10 +31,10 @@
         "Drew",
         "Batum",
         "Raiders",
-        "Miami",
-        "Spurs",
         "Lamar",
+        "Miami",
         "George Russell",
+        "Spurs",
         "Verstappen",
         "Kimi"
       ],
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 07 2026 06:54:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 07:45:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AustralianGP",
         "#AusGP",
-        "George Russell",
-        "Verstappen",
         "Hadjar",
+        "Antonelli",
+        "Verstappen",
+        "George Russell",
         "Ferrari",
-        "Kimi",
-        "#SmackDown",
+        "#postboxsaturday",
+        "Spurs",
         "Lando",
-        "#IREvWAL",
-        "Spurs"
+        "elon's x."
       ],
       "hashtags": [
         "#AustralianGP",
         "#AusGP",
+        "#postboxsaturday",
         "#SmackDown",
-        "#IREvWAL",
         "#River"
       ],
       "regular_topics": [
-        "George Russell",
-        "Verstappen",
         "Hadjar",
+        "Antonelli",
+        "Verstappen",
+        "George Russell",
         "Ferrari",
-        "Kimi",
-        "Lando",
         "Spurs",
-        "the ceo of x",
+        "Lando",
         "elon's x.",
         "the x network",
-        "X Platform"
+        "x platform",
+        "ElonMusk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 07 2026 06:51:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 07:42:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Monty",
         "Kadri",
         "#SmackDown",
         "Montembeault",
-        "Laughton",
-        "#AustralianGP",
         "Fowler",
+        "Laughton",
         "#GoHabsGo",
         "Brad",
         "Kimi",
-        "#NHLTradeDeadline"
+        "#NHLTradeDeadline",
+        "#AustralianGP"
       ],
       "hashtags": [
         "#SmackDown",
-        "#AustralianGP",
         "#GoHabsGo",
         "#NHLTradeDeadline",
-        "#hololivefesEXPO26_DAY2"
+        "#AustralianGP",
+        "#Canucks"
       ],
       "regular_topics": [
         "Monty",
         "Kadri",
         "Montembeault",
-        "Laughton",
         "Fowler",
+        "Laughton",
         "Brad",
         "Kimi",
-        "Verstappen",
-        "Drew",
         "Knoblauch",
-        "McMann"
+        "Verstappen",
+        "McMann",
+        "Jarry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
