@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T18:16:46.620009+00:00",
+  "generated_at_utc": "2026-03-07T18:53:11.849083+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,64 +43,64 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 07 2026 17:15:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 18:06:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "FULL TIME",
-        "#bcfc",
-        "#SCOvFRA",
+        "#ITAvENG",
         "#bwfc",
+        "#bcfc",
+        "#PUSB",
+        "#SCOvFRA",
+        "Wrexham",
+        "Davies",
         "HALF TIME",
         "Mansfield",
-        "#ITAvENG",
-        "#readingfc",
-        "Davies",
-        "Martinelli",
-        "Murrayfield"
+        "Naismith"
       ],
       "hashtags": [
-        "#bcfc",
-        "#SCOvFRA",
-        "#bwfc",
         "#ITAvENG",
-        "#readingfc"
+        "#bwfc",
+        "#bcfc",
+        "#PUSB",
+        "#SCOvFRA"
       ],
       "regular_topics": [
         "FULL TIME",
+        "Wrexham",
+        "Davies",
         "HALF TIME",
         "Mansfield",
-        "Davies",
-        "Martinelli",
-        "Murrayfield",
+        "Naismith",
+        "Italy",
+        "Tosin",
         "Bolton",
         "Scotland",
-        "Wrexham",
-        "Dowman",
-        "Gabriel Jesus"
+        "Martinelli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 07 2026 17:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 18:03:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Owen Caissie",
         "Monty",
         "Kadri",
         "Martinelli",
         "#SmackDown",
-        "#Caturday",
         "Mansfield",
+        "#WorldBaseballClassic2026",
+        "Fowler",
         "Montembeault",
         "Laughton",
-        "#WorldBaseballClassic2026",
-        "Fowler"
+        "Naylor"
       ],
       "hashtags": [
         "#SmackDown",
-        "#Caturday",
         "#WorldBaseballClassic2026",
         "#GoHabsGo",
+        "#Caturday",
         "#NHLTradeDeadline"
       ],
       "regular_topics": [
@@ -109,12 +109,12 @@
         "Kadri",
         "Martinelli",
         "Mansfield",
+        "Fowler",
         "Montembeault",
         "Laughton",
-        "Fowler",
-        "Brad",
         "Naylor",
-        "Dubas"
+        "Dubas",
+        "Brad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
