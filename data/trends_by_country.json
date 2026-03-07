@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-07T23:11:41.926231+00:00",
+  "generated_at_utc": "2026-03-07T23:41:19.060122+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 07 2026 22:03:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 22:54:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#UFC326",
         "UConn",
-        "Dan Hurley",
-        "Wrexham",
-        "Marquette",
-        "Lamine",
+        "Hurley",
         "#IndyCar",
-        "Zaire Franklin",
+        "Marquette",
+        "Wrexham",
+        "Lamine",
+        "Mark Pope",
         "Rasmussen",
-        "Jasper",
-        "Ferran",
-        "Carville"
+        "Raven Johnson",
+        "#WhatIWouldGiveTheAliens"
       ],
       "hashtags": [
+        "#UFC326",
         "#IndyCar",
         "#WhatIWouldGiveTheAliens",
-        "#UFC326",
-        "#mubb",
+        "#NJDevils",
         "#BeamMeUpScotty"
       ],
       "regular_topics": [
         "UConn",
-        "Dan Hurley",
-        "Wrexham",
+        "Hurley",
         "Marquette",
+        "Wrexham",
         "Lamine",
-        "Zaire Franklin",
+        "Mark Pope",
         "Rasmussen",
-        "Jasper",
-        "Ferran",
+        "Raven Johnson",
+        "Zaire",
         "Carville",
-        "Win Again"
+        "Donte"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -163,7 +163,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Mar 07 2026 22:09:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 23:00:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wrexham",
         "Tosin",
@@ -172,17 +172,17 @@
         "Omar Marmoush",
         "Neto",
         "Savinho",
-        "#MrIdealNigeria2026",
+        "Joan Garcia",
         "Essugo",
-        "Delap",
+        "Casado",
         "Garnacho"
       ],
       "hashtags": [
         "#MrIdealNigeria2026",
         "#UmmahTwitterIftar",
+        "#PerfectMatchXtra",
         "#WRECHE",
-        "#FACup",
-        "#PerfectMatchXtra"
+        "#AthleticBar\u00e7a"
       ],
       "regular_topics": [
         "Wrexham",
@@ -192,10 +192,10 @@
         "Omar Marmoush",
         "Neto",
         "Savinho",
+        "Joan Garcia",
         "Essugo",
-        "Delap",
-        "Garnacho",
-        "Grimsby"
+        "Casado",
+        "Garnacho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
