@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T08:51:05.016583+00:00",
+  "generated_at_utc": "2026-03-07T09:17:40.113716+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 07 2026 07:45:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 08:36:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AustralianGP",
-        "#AusGP",
-        "Hadjar",
-        "Antonelli",
-        "Verstappen",
+        "#Caturday",
+        "MATCH DAY",
+        "elon's x.",
+        "the x network",
+        "#River",
         "George Russell",
-        "Ferrari",
-        "#postboxsaturday",
         "Spurs",
-        "Lando",
-        "elon's x."
+        "#PostboxSaturday",
+        "#AusGP",
+        "x platform"
       ],
       "hashtags": [
         "#AustralianGP",
-        "#AusGP",
-        "#postboxsaturday",
-        "#SmackDown",
-        "#River"
+        "#Caturday",
+        "#River",
+        "#PostboxSaturday",
+        "#AusGP"
       ],
       "regular_topics": [
-        "Hadjar",
-        "Antonelli",
-        "Verstappen",
-        "George Russell",
-        "Ferrari",
-        "Spurs",
-        "Lando",
+        "MATCH DAY",
         "elon's x.",
         "the x network",
+        "George Russell",
+        "Spurs",
         "x platform",
-        "ElonMusk"
+        "Hadjar",
+        "Elonmusk",
+        "Verstappen",
+        "Robbo",
+        "Ferrari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
