@@ -1,161 +1,159 @@
 {
-  "generated_at_utc": "2026-03-07T14:45:45.269666+00:00",
+  "generated_at_utc": "2026-03-07T15:11:26.177900+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 07 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 14:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Saturday",
-        "#SaturdayVibes",
-        "PERTHSANTA WAITING TIME",
-        "But the Lord",
-        "#Caturday",
-        "#\u0e16\u0e32\u0e21PPW\u0e21\u0e32\u0e40\u0e16\u0e2d\u0e30\u0e21\u0e31\u0e19\u0e27\u0e48\u0e32\u0e07\u0e19\u0e30\u0e04\u0e19\u0e14\u0e35",
-        "Today Iran",
-        "#PSTimeStopperinVietnam",
+        "Martinelli",
+        "Mansfield",
         "Dowman",
-        "Madueke",
-        "Noni"
+        "#SaturdayVibes",
+        "#Caturday",
+        "Gabriel Jesus",
+        "But the Lord",
+        "PERTHSANTA WAITING TIME",
+        "Calafiori",
+        "#MANARS"
       ],
       "hashtags": [
         "#SaturdayVibes",
         "#Caturday",
-        "#\u0e16\u0e32\u0e21PPW\u0e21\u0e32\u0e40\u0e16\u0e2d\u0e30\u0e21\u0e31\u0e19\u0e27\u0e48\u0e32\u0e07\u0e19\u0e30\u0e04\u0e19\u0e14\u0e35",
-        "#PSTimeStopperinVietnam",
-        "#EmiBonnieLoveSessionD1"
+        "#MANARS",
+        "#FACup",
+        "#PSTimeStopperinVietnam"
       ],
       "regular_topics": [
         "Good Saturday",
-        "PERTHSANTA WAITING TIME",
-        "But the Lord",
-        "Today Iran",
-        "Dowman",
-        "Madueke",
-        "Noni",
+        "Martinelli",
         "Mansfield",
-        "Brenda",
-        "State Farm",
-        "ANY LOVE EMIBONNIE SESSION D1"
+        "Dowman",
+        "Gabriel Jesus",
+        "But the Lord",
+        "PERTHSANTA WAITING TIME",
+        "Calafiori",
+        "Madueke",
+        "Trossard",
+        "Mosquera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 07 2026 13:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 14:39:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mansfield",
-        "Dowman",
         "Martinelli",
-        "Mosquera",
-        "#MANARS",
-        "Ian Huntley",
-        "Gabriel Jesus",
+        "Dowman",
         "Trossard",
-        "Salmon",
-        "Holly",
-        "Madueke"
+        "Gabriel Jesus",
+        "#MANARS",
+        "Mosquera",
+        "Madueke",
+        "#Pompey",
+        "#hcafc",
+        "Calafiori"
       ],
       "hashtags": [
         "#MANARS",
-        "#htafc",
-        "#FACup",
-        "#Millwall",
-        "#Caturday"
+        "#Pompey",
+        "#hcafc",
+        "#SCOvFRA",
+        "#rufc"
       ],
       "regular_topics": [
         "Mansfield",
-        "Dowman",
         "Martinelli",
-        "Mosquera",
-        "Ian Huntley",
-        "Gabriel Jesus",
+        "Dowman",
         "Trossard",
-        "Salmon",
-        "Holly",
+        "Gabriel Jesus",
+        "Mosquera",
         "Madueke",
-        "Noni"
+        "Calafiori",
+        "Ian Huntley",
+        "TEAM NEWS",
+        "Salmon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 07 2026 13:44:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 14:36:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Martinelli",
         "Mansfield",
+        "Gabriel Jesus",
         "Kadri",
-        "Mosquera",
         "Monty",
+        "Mosquera",
         "#SmackDown",
         "Laughton",
-        "Brad Treliving",
-        "#GoHabsGo",
-        "Montembeault",
-        "Fowler",
-        "#NHLTradeDeadline"
+        "Norgaard",
+        "Trossard",
+        "Brad"
       ],
       "hashtags": [
         "#SmackDown",
+        "#Caturday",
         "#GoHabsGo",
         "#NHLTradeDeadline",
-        "#hololivefesEXPO26_DAY2",
-        "#Canucks"
+        "#tradecentre"
       ],
       "regular_topics": [
+        "Martinelli",
         "Mansfield",
+        "Gabriel Jesus",
         "Kadri",
-        "Mosquera",
         "Monty",
+        "Mosquera",
         "Laughton",
-        "Brad Treliving",
-        "Montembeault",
-        "Fowler",
-        "McMann",
-        "Good Saturday",
-        "Kane"
+        "Norgaard",
+        "Trossard",
+        "Brad",
+        "Fowler"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 07 2026 13:36:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 14:28:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0921\u0949BR\u0905\u0902\u092c\u0947\u0921\u0915\u0930\u091c\u0940_\u0915\u0940_\u092c\u0921\u093c\u0940_\u092d\u0942\u0932",
         "Factful Debates YtChannel",
-        "#GalaxyAI",
-        "#TribesArtFest",
-        "#HarSafarMeinDumHai",
         "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
+        "#TribesArtFest",
         "\ufe0fWatch Full",
         "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
-        "#TVKWomensDayEvent",
-        "KIIT University",
-        "Travancore Palace"
+        "#SamsungGalaxyS26series",
+        "#8March_Ramleela_Maidan",
+        "#HarSafarMeinDumHai",
+        "travancore palace",
+        "Gautam Buddha"
       ],
       "hashtags": [
         "#\u0921\u0949BR\u0905\u0902\u092c\u0947\u0921\u0915\u0930\u091c\u0940_\u0915\u0940_\u092c\u0921\u093c\u0940_\u092d\u0942\u0932",
-        "#GalaxyAI",
         "#TribesArtFest",
-        "#HarSafarMeinDumHai",
-        "#TVKWomensDayEvent",
-        "#BeachVolleyballAtKIIT",
-        "#\u0e16\u0e32\u0e21PPW\u0e21\u0e32\u0e40\u0e16\u0e2d\u0e30\u0e21\u0e31\u0e19\u0e27\u0e48\u0e32\u0e07\u0e19\u0e30\u0e04\u0e19\u0e14\u0e35"
+        "#SamsungGalaxyS26series",
+        "#8March_Ramleela_Maidan",
+        "#HarSafarMeinDumHai"
       ],
       "regular_topics": [
         "Factful Debates YtChannel",
         "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
         "\ufe0fWatch Full",
         "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
-        "KIIT University",
-        "Travancore Palace",
+        "travancore palace",
         "Gautam Buddha",
         "Dr. Bhimrao Ambedkar",
-        "PERTHSANTA WAITING TIME",
-        "\u092c\u0941\u0926\u094d\u0927 \u0927\u0930\u094d\u092e",
-        "\u0939\u0930\u093f\u092f\u093e\u0923\u093e \u092a\u0941\u0932\u093f\u0938"
+        "Martinelli",
+        "KIIT University",
+        "Part-1",
+        "\u092c\u0941\u0926\u094d\u0927 \u0927\u0930\u094d\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
