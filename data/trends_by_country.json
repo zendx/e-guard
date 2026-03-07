@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T16:13:42.359064+00:00",
+  "generated_at_utc": "2026-03-07T16:47:15.262026+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,117 +43,117 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 07 2026 15:30:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 16:21:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mansfield",
-        "Martinelli",
         "#SCOvFRA",
+        "HALF TIME",
+        "Mansfield",
+        "#SixNationsRugby",
+        "Martinelli",
+        "Murrayfield",
         "Dowman",
-        "Trossard",
-        "Gabriel Jesus",
+        "#bwfc",
         "KICK OFF",
-        "#hcafc",
-        "#MANARS",
-        "Mosquera",
-        "Madueke"
+        "Trossard",
+        "#MANARS"
       ],
       "hashtags": [
         "#SCOvFRA",
-        "#hcafc",
+        "#SixNationsRugby",
+        "#bwfc",
         "#MANARS",
-        "#Pompey",
-        "#rufc"
+        "#AsOne"
       ],
       "regular_topics": [
+        "HALF TIME",
         "Mansfield",
         "Martinelli",
+        "Murrayfield",
         "Dowman",
-        "Trossard",
-        "Gabriel Jesus",
         "KICK OFF",
-        "Mosquera",
-        "Madueke",
+        "Trossard",
+        "Scotland",
+        "Gabriel Jesus",
         "TEAM NEWS",
-        "Calafiori",
-        "STARTING XI"
+        "Dupont"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 07 2026 15:28:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 16:20:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mansfield",
-        "Martinelli",
-        "Monty",
         "Kadri",
-        "#SmackDown",
+        "Monty",
+        "#Caturday",
+        "Martinelli",
         "Gabriel Jesus",
+        "#SmackDown",
         "Norgaard",
-        "Trossard",
         "Laughton",
+        "Mosquera",
         "Montembeault",
-        "Mosquera"
+        "Fowler"
       ],
       "hashtags": [
+        "#Caturday",
         "#SmackDown",
         "#GoHabsGo",
-        "#Caturday",
         "#NHLTradeDeadline",
-        "#TradeCentre"
+        "#LoveYouTeacherSpecial"
       ],
       "regular_topics": [
-        "Mansfield",
-        "Martinelli",
-        "Monty",
         "Kadri",
+        "Monty",
+        "Martinelli",
         "Gabriel Jesus",
         "Norgaard",
-        "Trossard",
         "Laughton",
-        "Montembeault",
         "Mosquera",
-        "Dowman"
+        "Montembeault",
+        "Fowler",
+        "Mansfield",
+        "Brad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 07 2026 15:20:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 07 2026 16:12:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0921\u0949BR\u0905\u0902\u092c\u0947\u0921\u0915\u0930\u091c\u0940_\u0915\u0940_\u092c\u0921\u093c\u0940_\u092d\u0942\u0932",
         "Factful Debates YtChannel",
-        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
         "#8March_Ramleela_Maidan",
+        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
         "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
         "#UstaadBhagatSingh",
+        "Lakshya Sen",
         "\ufe0fWatch Full",
-        "#TribesArtFest",
-        "#TVKWomensDayEvent",
-        "Dr. Bhimrao Ambedkar",
-        "\u092c\u0941\u0926\u094d\u0927 \u0927\u0930\u094d\u092e"
+        "#AllEngland2026",
+        "President",
+        "#UK07"
       ],
       "hashtags": [
         "#\u0921\u0949BR\u0905\u0902\u092c\u0947\u0921\u0915\u0930\u091c\u0940_\u0915\u0940_\u092c\u0921\u093c\u0940_\u092d\u0942\u0932",
         "#8March_Ramleela_Maidan",
         "#UstaadBhagatSingh",
-        "#TribesArtFest",
-        "#TVKWomensDayEvent"
+        "#AllEngland2026",
+        "#UK07"
       ],
       "regular_topics": [
         "Factful Debates YtChannel",
         "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
         "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
+        "Lakshya Sen",
         "\ufe0fWatch Full",
+        "President",
+        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
         "Dr. Bhimrao Ambedkar",
         "\u092c\u0941\u0926\u094d\u0927 \u0927\u0930\u094d\u092e",
-        "President of India",
-        "Gautam Buddha",
-        "Trailer Tease",
-        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
-        "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0930\u0935\u093f\u0926\u093e\u0938"
+        "Victor Lai",
+        "Gautam Buddha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
