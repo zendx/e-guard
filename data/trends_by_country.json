@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-03-08T08:51:33.567298+00:00",
+  "generated_at_utc": "2026-03-08T09:17:44.564458+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 08 2026 07:31:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 08:24:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC326",
         "Charles",
         "Paramount",
         "Ferrari",
-        "#AusGP",
+        "Holloway",
         "The BMF",
-        "#hololivefesEXPO26_DAY3",
-        "#UFCWhiteHouse",
-        "Dana",
         "Conor",
-        "Do Bronx"
+        "#AusGP",
+        "Dana",
+        "#hololivefesEXPO26_DAY3",
+        "#UFCWhiteHouse"
       ],
       "hashtags": [
         "#UFC326",
         "#AusGP",
         "#hololivefesEXPO26_DAY3",
         "#UFCWhiteHouse",
-        "#hololiveEXPOfes2026_DAY3"
+        "#Toonami"
       ],
       "regular_topics": [
         "Charles",
         "Paramount",
         "Ferrari",
+        "Holloway",
         "The BMF",
-        "Dana",
         "Conor",
+        "Dana",
+        "Ilia",
         "Do Bronx",
         "Ryan Gosling",
-        "Lincoln Logs",
-        "Jon Jones",
-        "Ilia"
+        "Lincoln Logs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 08 2026 07:51:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 08:42:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#InternationalWomensDay",
+        "Wrexham",
         "#UFC326",
         "Ferrari",
         "#AusGP",
-        "Wrexham",
-        "Charles",
-        "Lewis",
-        "#InternationalWomensDay",
+        "#IWD2026",
         "#FACup",
+        "Charles",
         "Mansfield",
-        "#wreche",
-        "Tosin"
+        "Tosin",
+        "Italy"
       ],
       "hashtags": [
+        "#InternationalWomensDay",
         "#UFC326",
         "#AusGP",
-        "#InternationalWomensDay",
-        "#FACup",
-        "#wreche"
+        "#IWD2026",
+        "#FACup"
       ],
       "regular_topics": [
-        "Ferrari",
         "Wrexham",
+        "Ferrari",
         "Charles",
-        "Lewis",
         "Mansfield",
         "Tosin",
         "Italy",
-        "Oscar",
         "Ian Huntley",
-        "Ocon",
-        "Borthwick"
+        "Starmer",
+        "Borthwick",
+        "Trump",
+        "Alonso"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,84 +121,84 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 08 2026 08:32:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 07:40:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
-        "#ThankYouModiJi",
-        "#DombivlikarNariShakti",
-        "#LezimGuinnessWorldRecord",
-        "#StartTheConversation",
+        "#NayiRaftarDelhiKi",
         "Pankaj Kumar Singh",
+        "#NariSammanUPKaAbhiman",
+        "#1000Gift4PunjabWomen",
         "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
+        "#ThankYouModiJi",
         "\u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093f\u0932\u093e",
         "CM Yogi Empowers Women",
-        "Ravindra Chavan Dada",
-        "Ferrari"
+        "Ferrari",
+        "Charles"
       ],
       "hashtags": [
         "#InternationalWomensDay",
-        "#ThankYouModiJi",
-        "#DombivlikarNariShakti",
-        "#LezimGuinnessWorldRecord",
-        "#StartTheConversation",
+        "#NayiRaftarDelhiKi",
         "#NariSammanUPKaAbhiman",
         "#1000Gift4PunjabWomen",
-        "#NayiRaftarDelhiKi",
+        "#ThankYouModiJi",
         "#JhoothaModiSachaKejriwal",
-        "#ReturnOfTheDragonMachi",
-        "#UGC_RollBack"
+        "#WomenEmpowerment",
+        "#UGC_RollBack",
+        "#NayeBharatKiNariShakti",
+        "#IWD2026",
+        "#INDvsNZ"
       ],
       "regular_topics": [
         "Pankaj Kumar Singh",
         "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
         "\u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093f\u0932\u093e",
         "CM Yogi Empowers Women",
-        "Ravindra Chavan Dada",
         "Ferrari",
-        "\u0909\u0924\u094d\u0924\u092e \u0928\u0917\u0930",
-        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
+        "Charles",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u092c\u094d\u0930\u0939\u094d\u092e\u091a\u093e\u0930\u0940",
-        "Majlis Park",
-        "Delhi Metro"
+        "Lewis",
+        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
+        "\u0924\u0947\u0932 \u0921\u093f\u092a\u094b",
+        "Leclerc"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 08 2026 08:28:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 07:36:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#InternationalWomensDay",
         "#IWD2026",
+        "#InternationalWomensDay",
         "#GiveToGain",
         "Wrexham",
-        "Happy International",
         "Bwala",
+        "Happy International",
         "Tosin",
         "#HappyBirthdayTemi",
-        "Happy IWD",
-        "#PalmPayPurpleWoman",
+        "#AngelTAt36",
+        "Mansfield",
         "Etherean"
       ],
       "hashtags": [
-        "#InternationalWomensDay",
         "#IWD2026",
+        "#InternationalWomensDay",
         "#GiveToGain",
         "#HappyBirthdayTemi",
-        "#PalmPayPurpleWoman"
+        "#AngelTAt36"
       ],
       "regular_topics": [
         "Wrexham",
-        "Happy International",
         "Bwala",
+        "Happy International",
         "Tosin",
-        "Happy IWD",
-        "Etherean",
         "Mansfield",
+        "Etherean",
+        "Happy IWD",
         "Mehdi",
         "Blessed Sunday",
-        "Lala",
-        "Church"
+        "Today is Sunday",
+        "Charles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
