@@ -1,120 +1,120 @@
 {
-  "generated_at_utc": "2026-03-08T19:41:45.747557+00:00",
+  "generated_at_utc": "2026-03-08T20:12:18.338997+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 08 2026 18:40:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 19:32:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Cavs",
         "#T20WorldCup2026final",
+        "Pritchard",
         "#HappyBirthdaySUGA",
-        "Northern Iowa",
         "#DEATHBATTLE",
-        "HAPPY BIRTHDAY YOONGI",
-        "Austin Wells",
-        "#IndiaVsNewZealand",
-        "Juan Soto",
-        "Tatum"
+        "Tatum",
+        "Tillis",
+        "Jake Lang",
+        "James Harden",
+        "Northern Iowa"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#T20WorldCup2026final",
         "#HappyBirthdaySUGA",
         "#DEATHBATTLE",
-        "#IndiaVsNewZealand"
+        "#LetEmKnow"
       ],
       "regular_topics": [
         "Cavs",
-        "Northern Iowa",
-        "HAPPY BIRTHDAY YOONGI",
-        "Austin Wells",
-        "Juan Soto",
+        "Pritchard",
         "Tatum",
-        "Jim Crow",
-        "Junior Caminero",
-        "High Point",
-        "Thom Tillis",
-        "David French"
+        "Tillis",
+        "Jake Lang",
+        "James Harden",
+        "Northern Iowa",
+        "Louisville",
+        "Mobley",
+        "HAPPY BIRTHDAY YOONGI",
+        "Jim Crow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 08 2026 18:12:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 19:56:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rangers",
-        "Port Vale",
+        "#TheFloor",
         "Ibrox",
-        "#T20WorldCup2026final",
-        "Rohl",
+        "Port Vale",
         "#InternationalWomensDay",
         "Huns",
-        "Amelia",
-        "#INDvNZ",
         "#ncfc",
-        "Hayden Hackney"
+        "Amelia",
+        "Rohl",
+        "#T20WorldCup2026final",
+        "#HarryStylesNetflix"
       ],
       "hashtags": [
-        "#T20WorldCup2026final",
+        "#TheFloor",
         "#InternationalWomensDay",
-        "#INDvNZ",
         "#ncfc",
-        "#IndiaVsNewZealand"
+        "#T20WorldCup2026final",
+        "#HarryStylesNetflix"
       ],
       "regular_topics": [
         "Rangers",
-        "Port Vale",
         "Ibrox",
-        "Rohl",
+        "Port Vale",
         "Huns",
         "Amelia",
-        "Hayden Hackney",
-        "Souttar",
+        "Rohl",
+        "Stephan",
+        "Hibs",
+        "Serena Williams",
         "Southampton",
-        "Union Bears",
-        "Bumrah"
+        "All 20"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 08 2026 18:09:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 19:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
+        "#IWD2026",
         "#UFC326",
         "#T20WorldCup2026final",
-        "#IWD2026",
-        "#INDvNZ",
+        "#INDvsNZ",
         "Charles",
-        "Bumrah",
         "Ferrari",
-        "HAPPY BIRTHDAY YOONGI",
-        "Barger",
-        "Terrebonne"
+        "Bumrah",
+        "Cavs",
+        "Sanju",
+        "Sanderson"
       ],
       "hashtags": [
         "#InternationalWomensDay",
+        "#IWD2026",
         "#UFC326",
         "#T20WorldCup2026final",
-        "#IWD2026",
-        "#INDvNZ"
+        "#INDvsNZ"
       ],
       "regular_topics": [
         "Charles",
-        "Bumrah",
         "Ferrari",
-        "HAPPY BIRTHDAY YOONGI",
-        "Barger",
-        "Terrebonne",
-        "Team India",
-        "Tosin",
-        "Dobes",
+        "Bumrah",
+        "Cavs",
+        "Sanju",
         "Sanderson",
-        "Wrexham"
+        "Terrebonne",
+        "Wrexham",
+        "Repentigny",
+        "HAPPY BIRTHDAY YOONGI",
+        "Barger"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -166,39 +166,45 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 08 2026 18:48:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 19:40:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#IWD2026",
         "#InternationalWomensDay",
-        "#GiveToGain",
-        "Happy International",
         "Happy IWD",
-        "Bwala",
-        "Wrexham",
-        "#HappyBirthdayTemi",
-        "#AngelTAt36",
-        "Tosin",
-        "Mehdi"
+        "#IWD2026",
+        "Genesis Globe",
+        "Cavs",
+        "Happy International",
+        "Port Vale",
+        "Tomorrow is Monday",
+        "Celtics",
+        "Asher",
+        "#GiveToGain"
       ],
       "hashtags": [
-        "#IWD2026",
         "#InternationalWomensDay",
+        "#IWD2026",
         "#GiveToGain",
-        "#HappyBirthdayTemi",
-        "#AngelTAt36"
+        "#BBMzanziS6",
+        "#\u65e5\u66dc\u5287\u5834\u30ea\u30d6\u30fc\u30c8",
+        "#OnobirenTheMovie",
+        "#NPFL26",
+        "#FELIX",
+        "#IWD26",
+        "#WomenInTech",
+        "#CelebrateWomen"
       ],
       "regular_topics": [
-        "Happy International",
         "Happy IWD",
-        "Bwala",
-        "Wrexham",
-        "Tosin",
-        "Mehdi",
         "Genesis Globe",
-        "FA Cup",
-        "Port Vale",
         "Cavs",
-        "Lala"
+        "Happy International",
+        "Port Vale",
+        "Tomorrow is Monday",
+        "Celtics",
+        "Asher",
+        "Teni",
+        "Roma",
+        "NELFUND"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
