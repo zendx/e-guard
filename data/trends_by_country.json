@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-08T19:14:56.205030+00:00",
+  "generated_at_utc": "2026-03-08T19:41:45.747557+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 08 2026 17:49:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 08 2026 18:40:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
+        "Cavs",
         "#T20WorldCup2026final",
         "#HappyBirthdaySUGA",
-        "#INDvNZ",
+        "Northern Iowa",
+        "#DEATHBATTLE",
         "HAPPY BIRTHDAY YOONGI",
-        "#IndiaVsNewZealand",
         "Austin Wells",
-        "Tatum",
-        "Thom Tillis",
-        "Junior Caminero",
-        "Jim Crow 2.0"
+        "#IndiaVsNewZealand",
+        "Juan Soto",
+        "Tatum"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#T20WorldCup2026final",
         "#HappyBirthdaySUGA",
-        "#INDvNZ",
+        "#DEATHBATTLE",
         "#IndiaVsNewZealand"
       ],
       "regular_topics": [
+        "Cavs",
+        "Northern Iowa",
         "HAPPY BIRTHDAY YOONGI",
         "Austin Wells",
+        "Juan Soto",
         "Tatum",
-        "Thom Tillis",
+        "Jim Crow",
         "Junior Caminero",
-        "Jim Crow 2.0",
-        "Strnad",
-        "Didi",
-        "Rhyan",
-        "Singleton",
-        "Sunday Funday"
+        "High Point",
+        "Thom Tillis",
+        "David French"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
