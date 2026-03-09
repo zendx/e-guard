@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-09T10:33:23.385164+00:00",
+  "generated_at_utc": "2026-03-09T11:26:26.749665+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -49,58 +49,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 09:42:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 10:33:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Rangers",
-        "#IWD2026",
-        "Port Vale",
+        "#thismorning",
         "Glasgow",
-        "Ibrox",
+        "Port Vale",
+        "#IWD2026",
         "#jeremyvine",
+        "Ibrox",
         "#callthemidwife",
-        "#MondayMotivation",
-        "Wrexham",
-        "FA Cup"
+        "North Sea",
+        "Wrexham"
       ],
       "hashtags": [
         "#InternationalWomensDay",
+        "#thismorning",
         "#IWD2026",
         "#jeremyvine",
-        "#callthemidwife",
-        "#MondayMotivation"
+        "#callthemidwife"
       ],
       "regular_topics": [
         "Rangers",
-        "Port Vale",
         "Glasgow",
+        "Port Vale",
         "Ibrox",
+        "North Sea",
         "Wrexham",
         "FA Cup",
-        "North Sea",
         "Southampton",
         "Amelia",
         "Littler",
-        "Steve Reed"
+        "Vape"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 09:39:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 10:30:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "#UFC326",
         "#IWD2026",
         "Hagel",
-        "Mojtaba Khamenei",
         "Xavi",
+        "Mojtaba Khamenei",
         "#T20WorldCup2026final",
         "Laporta",
         "#GiveToGain",
         "Sabres",
-        "Charles"
+        "Terrebonne"
       ],
       "hashtags": [
         "#InternationalWomensDay",
@@ -111,12 +111,12 @@
       ],
       "regular_topics": [
         "Hagel",
-        "Mojtaba Khamenei",
         "Xavi",
+        "Mojtaba Khamenei",
         "Laporta",
         "Sabres",
-        "Charles",
         "Terrebonne",
+        "Charles",
         "Dahlin",
         "Repentigny",
         "Sanderson",
@@ -169,26 +169,26 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 09 2026 10:18:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 11:09:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#InternationalWomensDay",
         "Xavi",
-        "#IWD2026",
         "Laporta",
-        "#GiveToGain",
+        "#InternationalWomensDay",
+        "#IWD2026",
         "Happy New Week",
         "Genesis Globe",
+        "#GiveToGain",
         "Happy IWD",
         "Happy International",
-        "#MondayMotivation",
-        "Amen"
+        "#TheCITYReturns",
+        "#MondayMotivation"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
         "#GiveToGain",
-        "#MondayMotivation",
-        "#HappyBirthdayTemi"
+        "#TheCITYReturns",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Xavi",
@@ -197,11 +197,11 @@
         "Genesis Globe",
         "Happy IWD",
         "Happy International",
-        "Amen",
+        "Font",
         "Bwala",
         "Laylatul Qadr",
-        "NO MORE DELAY",
-        "Cruzeiro"
+        "Mojtaba Khamenei",
+        "Barcelona"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
