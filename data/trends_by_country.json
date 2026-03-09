@@ -1,97 +1,97 @@
 {
-  "generated_at_utc": "2026-03-09T20:55:50.565595+00:00",
+  "generated_at_utc": "2026-03-09T21:22:35.990123+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 09 2026 19:40:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 20:33:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mike Evans",
         "Titans",
-        "Chiefs",
         "Giants",
-        "Bucs",
-        "Saints",
+        "Chiefs",
         "Bowles",
+        "Bucs",
+        "Bengals",
+        "Saints",
         "Raiders",
-        "Malik Willis",
-        "Pittman",
-        "Falcons"
+        "Willis",
+        "Adam Peters"
       ],
       "hashtags": [
-        "#WWE2K26",
-        "#TitanUp"
+        "#TitanUp",
+        "#TrumpsGasProblem"
       ],
       "regular_topics": [
         "Mike Evans",
         "Titans",
-        "Chiefs",
         "Giants",
-        "Bucs",
-        "Saints",
+        "Chiefs",
         "Bowles",
+        "Bucs",
+        "Bengals",
+        "Saints",
         "Raiders",
-        "Malik Willis",
-        "Pittman",
-        "Falcons"
+        "Willis",
+        "Adam Peters"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 20:03:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 20:54:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#MAFSAU",
         "Southampton",
         "Brentford",
+        "#universitychallenge",
+        "#WHUBRE",
         "#mysteryhammer",
         "Aaron Cresswell",
+        "Kante",
         "Port Vale",
-        "#MAFSAU",
-        "City vs Liverpool",
-        "Arsenal and Chelsea",
-        "#FACupDraw",
-        "Wembley",
-        "Joe Cole"
+        "Bowen",
+        "Scarles"
       ],
       "hashtags": [
-        "#mysteryhammer",
         "#MAFSAU",
-        "#FACupDraw",
-        "#WWE2K26",
-        "#pointless"
+        "#universitychallenge",
+        "#WHUBRE",
+        "#mysteryhammer",
+        "#FACupDraw"
       ],
       "regular_topics": [
         "Southampton",
         "Brentford",
         "Aaron Cresswell",
+        "Kante",
         "Port Vale",
+        "Bowen",
+        "Scarles",
+        "Alissa",
         "City vs Liverpool",
         "Arsenal and Chelsea",
-        "Wembley",
-        "Joe Cole",
-        "Joe Hart",
-        "Mike Evans",
-        "Triller"
+        "Wembley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 19:57:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 20:51:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Southampton",
         "Xavi",
-        "Mike Evans",
         "Laporta",
         "Mojtaba Khamenei",
         "#IWD2026",
         "Hagel",
         "#T20WorldCup2026final",
-        "49ers",
-        "Bucs"
+        "Repentigny",
+        "#INDvNZ",
+        "Sanderson"
       ],
       "hashtags": [
         "#InternationalWomensDay",
@@ -103,15 +103,15 @@
       "regular_topics": [
         "Southampton",
         "Xavi",
-        "Mike Evans",
         "Laporta",
         "Mojtaba Khamenei",
         "Hagel",
-        "49ers",
-        "Bucs",
-        "Chiefs",
         "Repentigny",
-        "Sanderson"
+        "Sanderson",
+        "Mike Evans",
+        "Dahlin",
+        "Terrebonne",
+        "TLMEP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
