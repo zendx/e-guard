@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-09T15:45:09.342341+00:00",
+  "generated_at_utc": "2026-03-09T16:44:06.984862+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,7 +43,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 14:51:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 15:42:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Glasgow",
@@ -51,11 +51,11 @@
         "Port Vale",
         "Ibrox",
         "#IWD2026",
-        "#callthemidwife",
         "Dot Rotten",
-        "Alisson",
+        "#callthemidwife",
+        "North Sea",
         "Southampton",
-        "FA Cup"
+        "#thismorning"
       ],
       "hashtags": [
         "#InternationalWomensDay",
@@ -70,91 +70,94 @@
         "Port Vale",
         "Ibrox",
         "Dot Rotten",
-        "Alisson",
-        "Southampton",
-        "FA Cup",
         "North Sea",
-        "Laporta",
-        "Union Street"
+        "Southampton",
+        "Alisson",
+        "FA Cup",
+        "Union Street",
+        "Cheltenham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 14:48:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 15:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "#IWD2026",
         "Xavi",
-        "Dolphins",
         "Laporta",
         "#T20WorldCup2026final",
         "Mojtaba Khamenei",
-        "#GirlRulesSeriesEP1",
-        "#UFC326",
+        "Rashan Gary",
         "Hagel",
-        "Tua Tagovailoa"
+        "#UFC326",
+        "#INDvNZ",
+        "Dahlin"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
         "#T20WorldCup2026final",
-        "#GirlRulesSeriesEP1",
-        "#UFC326"
+        "#UFC326",
+        "#INDvNZ"
       ],
       "regular_topics": [
         "Xavi",
-        "Dolphins",
         "Laporta",
         "Mojtaba Khamenei",
+        "Rashan Gary",
         "Hagel",
-        "Tua Tagovailoa",
         "Dahlin",
-        "Sabres",
+        "Dolphins",
         "Repentigny",
+        "Sabres",
         "Terrebonne",
-        "Charles"
+        "Sanderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 09 2026 14:42:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 15:33:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#JConNitishKumar",
+        "Jagdeesh Chandra",
         "AdityaBirla SunLifeInsurance",
-        "#Society2WithMunawar",
+        "#T20WorldChampion",
         "#StartupSingamSeason2",
-        "The Society 2",
+        "#Society2WithMunawar",
         "#StalinWave2026",
+        "FIT INDIA CHAMPION ABHISHEK",
+        "The Society 2",
         "JioHotstar Sparks",
-        "#KisnaBecomesRadha",
-        "#IranIsraelUS",
-        "Episode 7",
-        "TRP QUEEN NIKKI IS BACK",
-        "Gary Kirsten"
+        "Episode 7"
       ],
       "hashtags": [
-        "#Society2WithMunawar",
+        "#JConNitishKumar",
+        "#T20WorldChampion",
         "#StartupSingamSeason2",
+        "#Society2WithMunawar",
         "#StalinWave2026",
-        "#KisnaBecomesRadha",
-        "#IranIsraelUS",
+        "#GodNightMonday",
+        "#M\u00e9xico",
         "#salland\u0131k",
-        "#GodNightMonday"
+        "#IranIsraelUS",
+        "#GirlRulesSeriesEP1"
       ],
       "regular_topics": [
+        "Jagdeesh Chandra",
         "AdityaBirla SunLifeInsurance",
+        "FIT INDIA CHAMPION ABHISHEK",
         "The Society 2",
         "JioHotstar Sparks",
         "Episode 7",
-        "TRP QUEEN NIKKI IS BACK",
         "Gary Kirsten",
-        "FIT INDIA CHAMPION ABHISHEK",
         "BrahMos",
-        "rags",
         "Dakota Johnson",
+        "BJP CM",
         "Indonesia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -162,7 +165,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 09 2026 15:28:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 16:20:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xavi",
         "Laporta",
@@ -171,10 +174,10 @@
         "Genesis Globe",
         "Happy New Week",
         "#GiveToGain",
+        "Dangote",
         "#MondayMotivation",
-        "Happy IWD",
         "Font",
-        "Happy International"
+        "Happy IWD"
       ],
       "hashtags": [
         "#InternationalWomensDay",
@@ -188,10 +191,10 @@
         "Laporta",
         "Genesis Globe",
         "Happy New Week",
-        "Happy IWD",
-        "Font",
-        "Happy International",
         "Dangote",
+        "Font",
+        "Happy IWD",
+        "Happy International",
         "Cruzeiro",
         "Mojtaba Khamenei",
         "Laylatul Qadr"
