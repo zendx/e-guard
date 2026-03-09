@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-03-09T16:44:06.984862+00:00",
+  "generated_at_utc": "2026-03-09T17:38:38.242719+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 09 2026 15:21:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 17:04:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Chiefs",
+        "Pittman",
+        "Alec Pierce",
+        "Colts",
         "Dolphins",
-        "Minkah",
-        "Rashan Gary",
-        "Cowboys",
-        "Packers",
-        "Good Monday",
-        "Palworld",
-        "Jerry Jones",
-        "#MondayMotivation",
-        "Rickey",
-        "Tua Tagovailoa"
+        "Malik Willis",
+        "Steelers",
+        "Falcons",
+        "Jaelan Phillips",
+        "Penix",
+        "Isaiah Likely"
       ],
       "hashtags": [
-        "#MondayMotivation",
+        "#WWE2K26",
+        "#NFLFreeAgency",
+        "#HereWeGo",
         "#GirlRulesSeriesEP1",
-        "#LaSayonaLacayaYGuarimbera",
-        "#SpecialMondayWord",
-        "#PhinsUp"
+        "#Giants"
       ],
       "regular_topics": [
+        "Chiefs",
+        "Pittman",
+        "Alec Pierce",
+        "Colts",
         "Dolphins",
-        "Minkah",
-        "Rashan Gary",
-        "Cowboys",
-        "Packers",
-        "Good Monday",
-        "Palworld",
-        "Jerry Jones",
-        "Rickey",
-        "Tua Tagovailoa",
-        "Live Nation"
+        "Malik Willis",
+        "Steelers",
+        "Falcons",
+        "Jaelan Phillips",
+        "Penix",
+        "Isaiah Likely"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 15:42:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 17:27:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Glasgow",
@@ -52,17 +52,17 @@
         "Ibrox",
         "#IWD2026",
         "Dot Rotten",
-        "#callthemidwife",
         "North Sea",
-        "Southampton",
-        "#thismorning"
+        "#CallTheMidwife",
+        "Cheltenham",
+        "Union Street"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
-        "#callthemidwife",
-        "#thismorning",
-        "#T20WorldCup2026final"
+        "#CallTheMidwife",
+        "#WWE2K26",
+        "#thismorning"
       ],
       "regular_topics": [
         "Glasgow",
@@ -71,94 +71,95 @@
         "Ibrox",
         "Dot Rotten",
         "North Sea",
-        "Southampton",
-        "Alisson",
-        "FA Cup",
+        "Cheltenham",
         "Union Street",
-        "Cheltenham"
+        "Southampton",
+        "Mojtaba Khamenei",
+        "FA Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 15:40:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 17:24:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
+        "Malik Willis",
+        "Pittman",
+        "Chiefs",
         "#IWD2026",
         "Xavi",
         "Laporta",
+        "Kenneth Walker",
+        "Colts",
         "#T20WorldCup2026final",
-        "Mojtaba Khamenei",
-        "Rashan Gary",
-        "Hagel",
-        "#UFC326",
-        "#INDvNZ",
-        "Dahlin"
+        "Hagel"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
         "#T20WorldCup2026final",
-        "#UFC326",
-        "#INDvNZ"
+        "#INDvNZ",
+        "#WWE2K26"
       ],
       "regular_topics": [
+        "Malik Willis",
+        "Pittman",
+        "Chiefs",
         "Xavi",
         "Laporta",
-        "Mojtaba Khamenei",
-        "Rashan Gary",
+        "Kenneth Walker",
+        "Colts",
         "Hagel",
-        "Dahlin",
-        "Dolphins",
-        "Repentigny",
-        "Sabres",
-        "Terrebonne",
-        "Sanderson"
+        "Mojtaba Khamenei",
+        "Alec Pierce",
+        "Steelers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 09 2026 15:33:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 17:18:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JConNitishKumar",
-        "Jagdeesh Chandra",
         "AdityaBirla SunLifeInsurance",
-        "#T20WorldChampion",
-        "#StartupSingamSeason2",
+        "#HerInsurance",
+        "#JConNitishKumar",
         "#Society2WithMunawar",
-        "#StalinWave2026",
-        "FIT INDIA CHAMPION ABHISHEK",
+        "Jagdeesh Chandra ji",
+        "#GodNightMonday",
+        "#T20WorldChampion",
         "The Society 2",
         "JioHotstar Sparks",
-        "Episode 7"
+        "Dakota Johnson",
+        "FIT INDIA CHAMPION ABHISHEK"
       ],
       "hashtags": [
+        "#HerInsurance",
         "#JConNitishKumar",
-        "#T20WorldChampion",
-        "#StartupSingamSeason2",
         "#Society2WithMunawar",
-        "#StalinWave2026",
         "#GodNightMonday",
+        "#T20WorldChampion",
+        "#StalinWave2026",
         "#M\u00e9xico",
         "#salland\u0131k",
-        "#IranIsraelUS",
-        "#GirlRulesSeriesEP1"
+        "#WWE2K26",
+        "#GirlRulesSeriesEP1",
+        "#IranIsraelUS"
       ],
       "regular_topics": [
-        "Jagdeesh Chandra",
         "AdityaBirla SunLifeInsurance",
-        "FIT INDIA CHAMPION ABHISHEK",
+        "Jagdeesh Chandra ji",
         "The Society 2",
         "JioHotstar Sparks",
-        "Episode 7",
-        "Gary Kirsten",
-        "BrahMos",
         "Dakota Johnson",
-        "BJP CM",
-        "Indonesia"
+        "FIT INDIA CHAMPION ABHISHEK",
+        "TANYA YOUR FANS MISS U",
+        "Gary Kirsten",
+        "Rags",
+        "Somewhere in Karnataka",
+        "BrahMos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
