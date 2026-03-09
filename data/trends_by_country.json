@@ -1,124 +1,121 @@
 {
-  "generated_at_utc": "2026-03-09T21:51:43.416484+00:00",
+  "generated_at_utc": "2026-03-09T22:16:31.065067+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 09 2026 20:33:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 21:27:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mike Evans",
+        "Falcons",
+        "DONALD GLOVER",
         "Titans",
+        "49ers",
         "Giants",
-        "Chiefs",
         "Bowles",
+        "Chiefs",
         "Bucs",
-        "Bengals",
-        "Saints",
-        "Raiders",
-        "Willis",
-        "Adam Peters"
+        "Luke Kornet",
+        "Bengals"
       ],
-      "hashtags": [
-        "#TitanUp",
-        "#TrumpsGasProblem"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Mike Evans",
+        "Falcons",
+        "DONALD GLOVER",
         "Titans",
+        "49ers",
         "Giants",
-        "Chiefs",
         "Bowles",
+        "Chiefs",
         "Bucs",
-        "Bengals",
-        "Saints",
-        "Raiders",
-        "Willis",
-        "Adam Peters"
+        "Luke Kornet",
+        "Bengals"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 20:03:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 21:46:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Southampton",
-        "Brentford",
-        "#mysteryhammer",
-        "Aaron Cresswell",
-        "Port Vale",
         "#MAFSAU",
-        "City vs Liverpool",
-        "Arsenal and Chelsea",
-        "#FACupDraw",
-        "Wembley",
-        "Joe Cole"
+        "Brentford",
+        "Magassa",
+        "#WHUBRE",
+        "Southampton",
+        "Kante",
+        "#universitychallenge",
+        "#handcuffed",
+        "Alissa",
+        "#mysteryhammer",
+        "Bowen"
       ],
       "hashtags": [
-        "#mysteryhammer",
         "#MAFSAU",
-        "#FACupDraw",
-        "#WWE2K26",
-        "#pointless"
+        "#WHUBRE",
+        "#universitychallenge",
+        "#handcuffed",
+        "#mysteryhammer"
       ],
       "regular_topics": [
-        "Southampton",
         "Brentford",
+        "Magassa",
+        "Southampton",
+        "Kante",
+        "Alissa",
+        "Bowen",
         "Aaron Cresswell",
-        "Port Vale",
-        "City vs Liverpool",
-        "Arsenal and Chelsea",
-        "Wembley",
-        "Joe Cole",
-        "Joe Hart",
-        "Mike Evans",
-        "Triller"
+        "Yoshi",
+        "Discovery",
+        "Todd",
+        "Kayode"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 19:57:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 21:43:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
+        "Donald Glover",
         "Southampton",
         "Xavi",
-        "Mike Evans",
         "Laporta",
         "Mojtaba Khamenei",
-        "#IWD2026",
-        "Hagel",
         "#T20WorldCup2026final",
-        "49ers",
-        "Bucs"
+        "Yoshi",
+        "#IWD2026",
+        "Repentigny",
+        "Hagel"
       ],
       "hashtags": [
         "#InternationalWomensDay",
-        "#IWD2026",
         "#T20WorldCup2026final",
+        "#IWD2026",
         "#INDvNZ",
         "#GirlRulesSeriesEP1"
       ],
       "regular_topics": [
+        "Donald Glover",
         "Southampton",
         "Xavi",
-        "Mike Evans",
         "Laporta",
         "Mojtaba Khamenei",
-        "Hagel",
-        "49ers",
-        "Bucs",
-        "Chiefs",
+        "Yoshi",
         "Repentigny",
-        "Sanderson"
+        "Hagel",
+        "Mike Evans",
+        "Sanderson",
+        "Dahlin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 09 2026 20:44:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 21:36:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#T20WorldCup2026final",
         "#INDvsNZ",
@@ -157,39 +154,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 09 2026 20:40:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 21:32:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Southampton",
         "Asherkine",
+        "Southampton",
         "Port Vale",
         "Bruce Lee",
-        "Brentford",
-        "Paul Onuachu",
         "Aliyu",
-        "Bitkin",
-        "FA Cup",
-        "Manchester City vs Liverpool",
-        "Semi"
+        "Brentford",
+        "SAY NO TO BBL",
+        "Paul Onuachu",
+        "BBLs",
+        "Donnie Yen",
+        "FA Cup"
       ],
       "hashtags": [
         "#Isra\u00ebl",
         "#TinubuInMOI",
-        "#RenewedHope",
         "#salland\u0131k",
-        "#BBMzansi"
+        "#D\u00edaDeLaMujer",
+        "#RenewedHope"
       ],
       "regular_topics": [
-        "Southampton",
         "Asherkine",
+        "Southampton",
         "Port Vale",
         "Bruce Lee",
-        "Brentford",
-        "Paul Onuachu",
         "Aliyu",
-        "Bitkin",
-        "FA Cup",
-        "Manchester City vs Liverpool",
-        "Semi"
+        "Brentford",
+        "SAY NO TO BBL",
+        "Paul Onuachu",
+        "BBLs",
+        "Donnie Yen",
+        "FA Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
