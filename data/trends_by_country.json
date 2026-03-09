@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-09T17:38:38.242719+00:00",
+  "generated_at_utc": "2026-03-09T18:35:18.529118+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,77 +43,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 17:27:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 18:20:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#InternationalWomensDay",
         "Glasgow",
+        "#InternationalWomensDay",
         "Rangers",
         "Port Vale",
         "Ibrox",
+        "#thechase",
         "#IWD2026",
-        "Dot Rotten",
         "North Sea",
-        "#CallTheMidwife",
-        "Cheltenham",
-        "Union Street"
+        "#WWE2K26",
+        "Dot Rotten",
+        "Triller"
       ],
       "hashtags": [
         "#InternationalWomensDay",
+        "#thechase",
         "#IWD2026",
-        "#CallTheMidwife",
         "#WWE2K26",
-        "#thismorning"
+        "#pointless"
       ],
       "regular_topics": [
         "Glasgow",
         "Rangers",
         "Port Vale",
         "Ibrox",
-        "Dot Rotten",
         "North Sea",
+        "Dot Rotten",
+        "Triller",
         "Cheltenham",
-        "Union Street",
         "Southampton",
-        "Mojtaba Khamenei",
-        "FA Cup"
+        "Union Street",
+        "Xbox series"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 17:24:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 18:15:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Malik Willis",
-        "Pittman",
-        "Chiefs",
         "#IWD2026",
         "Xavi",
         "Laporta",
-        "Kenneth Walker",
-        "Colts",
+        "Chiefs",
+        "Pittman",
+        "Hagel",
+        "Mojtaba Khamenei",
         "#T20WorldCup2026final",
-        "Hagel"
+        "Dahlin"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
         "#T20WorldCup2026final",
         "#INDvNZ",
-        "#WWE2K26"
+        "#UFC326"
       ],
       "regular_topics": [
         "Malik Willis",
-        "Pittman",
-        "Chiefs",
         "Xavi",
         "Laporta",
-        "Kenneth Walker",
-        "Colts",
+        "Chiefs",
+        "Pittman",
         "Hagel",
         "Mojtaba Khamenei",
-        "Alec Pierce",
+        "Dahlin",
+        "Kenneth Walker",
+        "Repentigny",
         "Steelers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,68 +121,68 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 09 2026 17:18:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 18:09:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "AdityaBirla SunLifeInsurance",
-        "#HerInsurance",
         "#JConNitishKumar",
-        "#Society2WithMunawar",
-        "Jagdeesh Chandra ji",
+        "#HerInsurance",
         "#GodNightMonday",
+        "Jagdeesh Chandra",
+        "#Ir\u00e1n",
         "#T20WorldChampion",
         "The Society 2",
-        "JioHotstar Sparks",
         "Dakota Johnson",
-        "FIT INDIA CHAMPION ABHISHEK"
+        "minho",
+        "TANYA YOUR FANS MISS U"
       ],
       "hashtags": [
-        "#HerInsurance",
         "#JConNitishKumar",
-        "#Society2WithMunawar",
+        "#HerInsurance",
         "#GodNightMonday",
+        "#Ir\u00e1n",
         "#T20WorldChampion",
-        "#StalinWave2026",
-        "#M\u00e9xico",
-        "#salland\u0131k",
         "#WWE2K26",
+        "#StalinWave2026",
+        "#salland\u0131k",
         "#GirlRulesSeriesEP1",
-        "#IranIsraelUS"
+        "#M\u00e9xico",
+        "#T20WorldCup\u0c32\u0c4b"
       ],
       "regular_topics": [
         "AdityaBirla SunLifeInsurance",
-        "Jagdeesh Chandra ji",
+        "Jagdeesh Chandra",
         "The Society 2",
-        "JioHotstar Sparks",
         "Dakota Johnson",
-        "FIT INDIA CHAMPION ABHISHEK",
+        "minho",
         "TANYA YOUR FANS MISS U",
-        "Gary Kirsten",
-        "Rags",
+        "\u0936\u094d\u0930\u0940 \u092e\u0941\u0915\u0947\u0936",
         "Somewhere in Karnataka",
-        "BrahMos"
+        "BrahMos",
+        "\u0936\u094d\u0930\u0940\u092e\u0924\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0935\u0930\u094d\u092e\u093e",
+        "FIT INDIA CHAMPION ABHISHEK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 09 2026 16:20:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 18:03:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xavi",
         "Laporta",
-        "#InternationalWomensDay",
         "#IWD2026",
+        "#InternationalWomensDay",
         "Genesis Globe",
         "Happy New Week",
-        "#GiveToGain",
         "Dangote",
-        "#MondayMotivation",
+        "#GiveToGain",
+        "Bitkin",
         "Font",
-        "Happy IWD"
+        "#MondayMotivation"
       ],
       "hashtags": [
-        "#InternationalWomensDay",
         "#IWD2026",
+        "#InternationalWomensDay",
         "#GiveToGain",
         "#MondayMotivation",
         "#TheCITYReturns"
@@ -193,12 +193,12 @@
         "Genesis Globe",
         "Happy New Week",
         "Dangote",
+        "Bitkin",
         "Font",
         "Happy IWD",
+        "Aliyu",
         "Happy International",
-        "Cruzeiro",
-        "Mojtaba Khamenei",
-        "Laylatul Qadr"
+        "Cruzeiro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
