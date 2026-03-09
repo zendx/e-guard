@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-03-09T12:31:50.909123+00:00",
+  "generated_at_utc": "2026-03-09T13:57:30.897653+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 09 2026 11:03:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 13:39:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#InternationalWomensDay",
+        "Dolphins",
+        "Minkah",
         "Good Monday",
-        "#UFC326",
+        "Tua Tagovailoa",
+        "Rickey",
         "#MondayMotivation",
-        "Charles",
-        "Jake Lang",
-        "Sabres",
-        "Fears",
-        "#HappyBirthdaySUGA",
-        "#WorldBaseballClassic",
-        "Xavi"
+        "#GirlRulesSeriesEP1",
+        "Rashan Gary",
+        "Palworld",
+        "#PhinsUp",
+        "Chris Grier"
       ],
       "hashtags": [
-        "#InternationalWomensDay",
-        "#UFC326",
         "#MondayMotivation",
-        "#HappyBirthdaySUGA",
-        "#WorldBaseballClassic"
+        "#GirlRulesSeriesEP1",
+        "#PhinsUp",
+        "#mondayvibe",
+        "#salland\u0131k"
       ],
       "regular_topics": [
+        "Dolphins",
+        "Minkah",
         "Good Monday",
-        "Charles",
-        "Jake Lang",
-        "Sabres",
-        "Fears",
-        "Xavi",
-        "Mojtaba Khamenei",
-        "Jesse Jackson",
-        "Izzo",
-        "HAPPY BIRTHDAY YOONGI",
-        "Hagel"
+        "Tua Tagovailoa",
+        "Rickey",
+        "Rashan Gary",
+        "Palworld",
+        "Chris Grier",
+        "Marco Jackson",
+        "Brian Flores",
+        "Ed Ingram"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 09 2026 12:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 13:08:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "Rangers",
@@ -51,18 +51,18 @@
         "Port Vale",
         "#IWD2026",
         "Ibrox",
+        "#PoliticsLive",
         "#thismorning",
         "#popmaster",
-        "#callthemidwife",
         "Hank",
-        "FA Cup"
+        "Southampton"
       ],
       "hashtags": [
         "#InternationalWomensDay",
         "#IWD2026",
+        "#PoliticsLive",
         "#thismorning",
-        "#popmaster",
-        "#callthemidwife"
+        "#popmaster"
       ],
       "regular_topics": [
         "Rangers",
@@ -70,11 +70,11 @@
         "Port Vale",
         "Ibrox",
         "Hank",
-        "FA Cup",
         "Southampton",
+        "North Sea",
+        "FA Cup",
         "Wrexham",
         "Dot Rotten",
-        "North Sea",
         "Union Street"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,17 +82,17 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 09 2026 12:15:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 13:06:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalWomensDay",
         "#UFC326",
         "#IWD2026",
+        "#GirlRulesSeriesEP1",
         "Good Monday",
         "Xavi",
         "Mojtaba Khamenei",
         "Laporta",
         "#T20WorldCup2026final",
-        "#GiveToGain",
         "Hagel",
         "Sabres"
       ],
@@ -100,8 +100,8 @@
         "#InternationalWomensDay",
         "#UFC326",
         "#IWD2026",
-        "#T20WorldCup2026final",
-        "#GiveToGain"
+        "#GirlRulesSeriesEP1",
+        "#T20WorldCup2026final"
       ],
       "regular_topics": [
         "Good Monday",
@@ -113,86 +113,90 @@
         "Charles",
         "Terrebonne",
         "Dahlin",
-        "Sanderson",
-        "matt dunstone"
+        "Repentigny",
+        "TLMEP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 09 2026 12:06:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 12:57:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#StartupSingamSeason2",
         "#KisnaBecomesRadha",
         "#MuthootSalutesWomen",
+        "Episode 7",
+        "TRP QUEEN NIKKI IS BACK",
         "Sunheri SochS4 Garv Ka Parv",
-        "#\u092e\u0947\u0930\u0940_\u091c\u093e\u0924\u093f_\u0928\u093e\u0930\u0940_\u091c\u093e\u0924\u093f",
         "#StalinWave2026",
+        "#\u092e\u0947\u0930\u0940_\u091c\u093e\u0924\u093f_\u0928\u093e\u0930\u0940_\u091c\u093e\u0924\u093f",
         "Manish Mishra",
-        "#salland\u0131k",
-        "Basti",
-        "\u092e\u0941\u0915\u0947\u0936 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e",
-        "Sharjeel Imam",
-        "Hobi"
+        "BrahMos",
+        "\u092e\u0941\u0915\u0947\u0936 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e"
       ],
       "hashtags": [
+        "#StartupSingamSeason2",
         "#KisnaBecomesRadha",
         "#MuthootSalutesWomen",
-        "#\u092e\u0947\u0930\u0940_\u091c\u093e\u0924\u093f_\u0928\u093e\u0930\u0940_\u091c\u093e\u0924\u093f",
         "#StalinWave2026",
+        "#\u092e\u0947\u0930\u0940_\u091c\u093e\u0924\u093f_\u0928\u093e\u0930\u0940_\u091c\u093e\u0924\u093f",
         "#salland\u0131k"
       ],
       "regular_topics": [
+        "Episode 7",
+        "TRP QUEEN NIKKI IS BACK",
         "Sunheri SochS4 Garv Ka Parv",
         "Manish Mishra",
-        "Basti",
+        "BrahMos",
         "\u092e\u0941\u0915\u0947\u0936 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e",
-        "Sharjeel Imam",
-        "Hobi",
-        "The Muthoot Group",
-        "Xavi",
-        "Laporta",
+        "Bandar Abbas",
         "Women's Day",
-        "Mojtaba Khamenei"
+        "Laporta",
+        "The Muthoot Group",
+        "Parliament"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 09 2026 12:01:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 09 2026 13:44:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xavi",
-        "Laporta",
-        "#InternationalWomensDay",
-        "#IWD2026",
         "#TheCITYReturns",
-        "Happy New Week",
-        "Genesis Globe",
-        "#GiveToGain",
-        "Happy IWD",
-        "Happy International",
-        "#MondayMotivation"
+        "#VANTS",
+        "Laporta",
+        "Messi",
+        "#salland\u0131k",
+        "Cruzeiro",
+        "Appeal Court",
+        "#MondayMotivation",
+        "#ValenciaAlav\u00e9s",
+        "Genesis Globe"
       ],
       "hashtags": [
-        "#InternationalWomensDay",
-        "#IWD2026",
         "#TheCITYReturns",
-        "#GiveToGain",
-        "#MondayMotivation"
+        "#VANTS",
+        "#salland\u0131k",
+        "#MondayMotivation",
+        "#ValenciaAlav\u00e9s",
+        "#D\u00edaDeLaMujer",
+        "#SoloPactoEnEstaMond\u00e1",
+        "#ZenithBankCelebratesWomen"
       ],
       "regular_topics": [
         "Xavi",
         "Laporta",
-        "Happy New Week",
+        "Messi",
+        "Cruzeiro",
+        "Appeal Court",
         "Genesis Globe",
-        "Happy IWD",
-        "Happy International",
+        "Flick",
+        "23 RED CARDS",
         "Font",
-        "Bwala",
-        "Laylatul Qadr",
-        "Mojtaba Khamenei",
-        "Cruzeiro"
+        "Atletico Mineiro",
+        "Happy New Week"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
