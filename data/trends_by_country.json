@@ -1,79 +1,79 @@
 {
-  "generated_at_utc": "2026-03-10T06:33:19.339045+00:00",
+  "generated_at_utc": "2026-03-10T07:32:36.003435+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 10 2026 05:12:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 10 2026 06:54:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Shai",
+        "Santa Clara",
         "Clippers",
         "Kawhi",
         "Finn",
-        "Bobby Witt",
         "Boyd",
-        "Roman Anthony",
-        "Lu Dort",
-        "Paul Skenes",
-        "Duran"
+        "JetBlue",
+        "Saint Mary",
+        "Bobby Witt",
+        "Lu Dort"
       ],
       "hashtags": [
         "#WWERaw",
         "#TheRookie",
         "#WorldBaseballClassic",
         "#ThunderUp",
-        "#KeepPounding"
+        "#ClipperNation"
       ],
       "regular_topics": [
         "Shai",
+        "Santa Clara",
         "Clippers",
         "Kawhi",
         "Finn",
-        "Bobby Witt",
         "Boyd",
-        "Roman Anthony",
+        "JetBlue",
+        "Saint Mary",
+        "Bobby Witt",
         "Lu Dort",
-        "Paul Skenes",
-        "Duran",
-        "Usos"
+        "Weights"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 10 2026 04:40:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 10 2026 06:24:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
-        "#River",
         "Port Vale",
-        "Glasgow",
         "Southampton",
-        "Finn Balor",
+        "#WWERaw",
+        "Glasgow",
+        "#River",
+        "#thicktrunktuesday",
         "Rangers",
-        "Shai",
-        "Bayley",
         "#MAFSAU",
-        "#WHUBRE"
+        "#WHUBRE",
+        "FA Cup",
+        "Shai"
       ],
       "hashtags": [
         "#WWERaw",
         "#River",
+        "#thicktrunktuesday",
         "#MAFSAU",
-        "#WHUBRE",
-        "#InternationalWomensDay"
+        "#WHUBRE"
       ],
       "regular_topics": [
         "Port Vale",
-        "Glasgow",
         "Southampton",
-        "Finn Balor",
+        "Glasgow",
         "Rangers",
-        "Shai",
-        "Bayley",
         "FA Cup",
+        "Shai",
+        "Jokic",
         "Cheltenham",
+        "Finn",
         "Ibrox",
         "Brentford"
       ],
@@ -166,39 +166,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 10 2026 05:18:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 10 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RamadanDay21",
-        "Xavi",
         "Asherkine",
+        "Xavi",
+        "Abazz",
         "Laporta",
-        "Messi",
+        "Taco Tuesday",
         "Dangote",
+        "GM CT",
         "Southampton",
-        "Ya Allah",
-        "Genesis Globe",
-        "#InternationalWomensDay",
-        "Laylatul Qadr"
+        "Messi",
+        "#RamadanDay21",
+        "Amen"
       ],
       "hashtags": [
         "#RamadanDay21",
-        "#InternationalWomensDay",
+        "#BitgetAfrica",
         "#IWD2026",
-        "#salland\u0131k",
-        "#sincer\u00e3o"
+        "#InternationalWomensDay",
+        "#TradFi"
       ],
       "regular_topics": [
-        "Xavi",
         "Asherkine",
+        "Xavi",
+        "Abazz",
         "Laporta",
-        "Messi",
+        "Taco Tuesday",
         "Dangote",
+        "GM CT",
         "Southampton",
-        "Ya Allah",
-        "Genesis Globe",
-        "Laylatul Qadr",
-        "Happy New Week",
-        "O Allah"
+        "Messi",
+        "Amen",
+        "Matric"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
