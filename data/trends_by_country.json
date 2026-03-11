@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-11T08:26:12.940748+00:00",
+  "generated_at_utc": "2026-03-11T09:04:45.639835+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 11 2026 07:28:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 11 2026 08:20:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinsky",
         "Tudor",
         "Konate",
-        "Spurs",
         "Lewis Hall",
+        "Spurs",
         "Cheltenham",
         "#ATMTOT",
         "Barca",
-        "xPoints",
         "Galatasaray",
-        "#galliv"
+        "#GALLIV",
+        "Wirtz"
       ],
       "hashtags": [
         "#ATMTOT",
-        "#galliv",
+        "#GALLIV",
+        "#RoseWednesday",
         "#ChampionsLeague",
-        "#WallsOnWednesday",
         "#NUFC"
       ],
       "regular_topics": [
         "Kinsky",
         "Tudor",
         "Konate",
-        "Spurs",
         "Lewis Hall",
+        "Spurs",
         "Cheltenham",
         "Barca",
-        "xPoints",
         "Galatasaray",
         "Wirtz",
-        "Joey Barton"
+        "Joey Barton",
+        "Tottenham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
