@@ -1,137 +1,135 @@
 {
-  "generated_at_utc": "2026-03-11T17:39:35.144640+00:00",
+  "generated_at_utc": "2026-03-11T18:37:33.742197+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 11 2026 15:48:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 11 2026 17:34:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ravens",
         "Trey",
         "Daniel Jones",
-        "Abby",
-        "Kobe",
         "Colts",
+        "Kam Williams",
+        "Abby",
+        "Arizona State",
         "Thanksgiving Eve",
+        "Megaplex",
         "Digital Optimus",
-        "Bengals",
-        "Chris Ballard",
-        "Macrohard"
+        "Jelavic"
       ],
       "hashtags": [
-        "#SolaEst\u00e1sT\u00faSayona",
-        "#WednesdayMotivation",
-        "#MichaelMovie",
-        "#11Mar",
-        "#ENHYPEN_IS_7"
+        "#ENHYPEN_IS_7",
+        "#COMEBACKHEESEUNG"
       ],
       "regular_topics": [
         "Ravens",
         "Trey",
         "Daniel Jones",
-        "Abby",
-        "Kobe",
         "Colts",
+        "Kam Williams",
+        "Abby",
+        "Arizona State",
         "Thanksgiving Eve",
+        "Megaplex",
         "Digital Optimus",
-        "Bengals",
-        "Chris Ballard",
-        "Macrohard"
+        "Jelavic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 11 2026 16:09:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 11 2026 17:56:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mandelson",
-        "Final Orders",
-        "Majborough",
-        "Jingko Blue",
-        "Harry Cobden",
-        "PMQs",
+        "#TheChase",
+        "Colin Keane",
         "Il Etait Temps",
-        "No Drama This End",
-        "Nico",
-        "Kitzbuhel",
-        "Clarkson"
+        "Majborough",
+        "Jazzy Matty",
+        "The Mourne Rambler",
+        "PMQs",
+        "$WAR",
+        "Clarkson",
+        "Final Orders"
       ],
       "hashtags": [
-        "#politicslive",
+        "#TheChase",
         "#Cheltenham",
-        "#ITVRacing",
-        "#ENHYPEN_IS_7"
+        "#ENHYPEN_IS_7",
+        "#BELIFTLABTREATENHYPENBETTER",
+        "#COMEBACKHEESEUNG"
       ],
       "regular_topics": [
         "Mandelson",
-        "Final Orders",
-        "Majborough",
-        "Jingko Blue",
-        "Harry Cobden",
-        "PMQs",
+        "Colin Keane",
         "Il Etait Temps",
-        "No Drama This End",
-        "Nico",
-        "Kitzbuhel",
-        "Clarkson"
+        "Majborough",
+        "Jazzy Matty",
+        "The Mourne Rambler",
+        "PMQs",
+        "$WAR",
+        "Clarkson",
+        "Final Orders",
+        "Jingko Blue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Mar 11 2026 16:07:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 11 2026 17:52:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kobe",
         "Bam Adebayo",
         "Ravens",
         "Ingram",
-        "MacKinnon",
         "Liberals",
+        "MacKinnon",
         "Italy",
-        "Monty",
-        "Jacob Fowler",
+        "Nunavut",
+        "Nurse",
         "Hendrickson",
-        "Nurse"
+        "Bill C-9"
       ],
       "hashtags": [
         "#KingRezaPahlavi\u200cForIran",
-        "#GOYLegendsContest",
         "#ENHYPEN_IS_7",
-        "#Mar10",
-        "#CatForCashEP8"
+        "#GOYLegendsContest",
+        "#CatForCashEP8",
+        "#MAR10Day"
       ],
       "regular_topics": [
         "Kobe",
         "Bam Adebayo",
         "Ravens",
         "Ingram",
-        "MacKinnon",
         "Liberals",
+        "MacKinnon",
         "Italy",
-        "Monty",
-        "Jacob Fowler",
+        "Nunavut",
+        "Nurse",
         "Hendrickson",
-        "Nurse"
+        "Bill C-9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 11 2026 16:52:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 11 2026 17:45:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LPGCrises",
         "#AmitShahInLokSabha",
         "#IPL2026",
+        "Oman",
         "#GodNightWednesday",
         "#LPGBlackMarketing",
         "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
-        "RCB vs SRH",
-        "Hail RCB",
         "\u0935\u093e\u092f\u0930\u0932 \u0917\u0930\u094d\u0932 \u092e\u094b\u0928\u093e\u0932\u093f\u0938\u093e",
         "\u0939\u0928\u0941\u092e\u093e\u0928 \u092c\u0947\u0928\u0940\u0935\u093e\u0932",
+        "Hail RCB",
         "Port of Salalah"
       ],
       "hashtags": [
@@ -142,17 +140,17 @@
         "#LPGBlackMarketing"
       ],
       "regular_topics": [
+        "Oman",
         "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
-        "RCB vs SRH",
-        "Hail RCB",
         "\u0935\u093e\u092f\u0930\u0932 \u0917\u0930\u094d\u0932 \u092e\u094b\u0928\u093e\u0932\u093f\u0938\u093e",
         "\u0939\u0928\u0941\u092e\u093e\u0928 \u092c\u0947\u0928\u0940\u0935\u093e\u0932",
+        "Hail RCB",
         "Port of Salalah",
-        "GF MEGA GALE EVENT",
-        "Guwahati",
+        "RCB vs SRH",
         "Thai",
-        "Mayuree Naree",
-        "Delhi Capitals"
+        "My 4",
+        "GF MEGA GALE EVENT",
+        "Mumbai Indians"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
