@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-12T07:59:50.031802+00:00",
+  "generated_at_utc": "2026-03-12T08:42:53.663568+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 12 2026 06:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 07:40:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#LOVEISBLINDreunion",
         "Kawhi",
+        "#LOVEISBLINDreunion",
         "#OlandriaxVanities",
         "Omar L\u00f3pez",
+        "#NicxVanities",
         "#Survivor50",
+        "#ENHYPEN_IS_7",
         "Toluca",
-        "#AEWDynamite",
-        "Salvador P\u00e9rez",
-        "Eugenio",
-        "Jordan Clarkson",
-        "#NicxVanities"
+        "Massie",
+        "Brittany",
+        "Eugenio"
       ],
       "hashtags": [
         "#LOVEISBLINDreunion",
         "#OlandriaxVanities",
+        "#NicxVanities",
         "#Survivor50",
-        "#AEWDynamite",
-        "#NicxVanities"
+        "#ENHYPEN_IS_7"
       ],
       "regular_topics": [
         "Kawhi",
         "Omar L\u00f3pez",
         "Toluca",
-        "Salvador P\u00e9rez",
-        "Eugenio",
-        "Jordan Clarkson",
         "Massie",
         "Brittany",
+        "Eugenio",
+        "Devonta",
+        "Salvador P\u00e9rez",
         "San Jose State",
-        "Boise State",
-        "Devonta"
+        "Jordan Clarkson",
+        "Boise State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
