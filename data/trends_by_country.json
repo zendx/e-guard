@@ -1,127 +1,128 @@
 {
-  "generated_at_utc": "2026-03-12T22:48:53.398970+00:00",
+  "generated_at_utc": "2026-03-12T23:16:29.431332+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 12 2026 21:48:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 22:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#KyraMachida",
         "Auburn",
+        "Kyler Murray",
         "ISIS",
-        "Temple Israel",
+        "KC-135",
+        "Dearborn",
+        "NovaRed Mining Inc.",
         "Old Dominion University",
-        "#OlandriaxEssenceBWIH",
-        "Miami",
-        "Nate Ament",
+        "Temple Israel",
         "ROTC",
-        "West Bloomfield",
-        "Mohamed Jalloh",
-        "Salad"
+        "#OlandriaxEssenceBWIH"
       ],
       "hashtags": [
+        "#KyraMachida",
         "#OlandriaxEssenceBWIH",
+        "#Skol",
         "#HEESEUNG_STAYS",
-        "#BEACCOUNTABLE_BELIFT",
-        "#MaisonValentinoFW26XFreen",
-        "#FTTB"
+        "#LightningStrikes"
       ],
       "regular_topics": [
         "Auburn",
+        "Kyler Murray",
         "ISIS",
-        "Temple Israel",
+        "KC-135",
+        "Dearborn",
+        "NovaRed Mining Inc.",
         "Old Dominion University",
-        "Miami",
-        "Nate Ament",
+        "Temple Israel",
         "ROTC",
-        "West Bloomfield",
-        "Mohamed Jalloh",
-        "Salad",
-        "Steven Pearl"
+        "Ernie Anastos",
+        "Tennessee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 12 2026 22:09:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 23:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TheApprentice",
         "#nffc",
+        "#bbcqt",
         "Lawrence",
-        "Karishma",
+        "Jonny Clayton",
         "#cpfc",
-        "#avfc",
-        "#dragonsden",
-        "Morato",
-        "Levi",
+        "Karishma",
+        "#PLDarts",
         "Aina",
-        "Glasner"
+        "Glasner",
+        "Levi"
       ],
       "hashtags": [
         "#TheApprentice",
         "#nffc",
+        "#bbcqt",
         "#cpfc",
-        "#avfc",
+        "#PLDarts",
         "#dragonsden"
       ],
       "regular_topics": [
         "Lawrence",
+        "Jonny Clayton",
         "Karishma",
-        "Morato",
-        "Levi",
         "Aina",
         "Glasner",
-        "Watkins",
-        "Jane",
+        "Levi",
         "Larnaca",
+        "Morato",
         "Hutchinson",
-        "Michigan"
+        "Jane",
+        "Lucca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 12 2026 21:15:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 22:57:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liberals",
         "Nunavut",
+        "Kuwait",
         "JACOB FOWLER",
         "Ullmark",
-        "Valverde",
-        "Michigan",
-        "Jorgensen",
-        "Ingram",
+        "KC-135",
         "#ENHYPEN_IS_7",
-        "Kobe",
-        "Staples"
+        "Staples",
+        "Ingram",
+        "MacKinnon",
+        "Lori Idlout"
       ],
       "hashtags": [
         "#ENHYPEN_IS_7",
-        "#loveisblindreunion",
-        "#MaisonValentinoFW26XFreen",
         "#KingRezaPahlavi\u200cForIran",
+        "#loveisblindreunion",
+        "#HEESEUNG_STAYS",
         "#AEWDynamite"
       ],
       "regular_topics": [
         "Liberals",
         "Nunavut",
+        "Kuwait",
         "JACOB FOWLER",
         "Ullmark",
-        "Valverde",
-        "Michigan",
-        "Jorgensen",
-        "Ingram",
-        "Kobe",
+        "KC-135",
         "Staples",
-        "Italy"
+        "Ingram",
+        "MacKinnon",
+        "Lori Idlout",
+        "Valverde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 12 2026 22:00:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 22:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OutKaro",
         "#TrueWorship_EndsSuffering",
@@ -129,7 +130,7 @@
         "#BhoothBanglaTeaser",
         "#TNRejectsDMK",
         "Kavya Maran",
-        "#vantara",
+        "#Vantara",
         "Strait of Hormuz",
         "Abrar Ahmed",
         "jk super cement",
@@ -140,7 +141,7 @@
         "#TrueWorship_EndsSuffering",
         "#BhoothBanglaTeaser",
         "#TNRejectsDMK",
-        "#vantara"
+        "#Vantara"
       ],
       "regular_topics": [
         "Sa True Story YouTube",
@@ -149,49 +150,49 @@
         "Abrar Ahmed",
         "jk super cement",
         "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940",
+        "KC-135",
         "\u0917\u0948\u0938 \u090f\u091c\u0947\u0902\u0938\u0940",
         "\u092b\u093e\u0930\u0942\u0915 \u0905\u092c\u094d\u0926\u0941\u0932\u094d\u0932\u093e",
         "anant ambani",
-        "revoke pak gsp status",
-        "\u0915\u093e\u0935\u094d\u092f\u093e \u092e\u093e\u0930\u0928"
+        "revoke pak gsp status"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Mar 12 2026 21:52:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 22:45:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jorgensen",
         "Valverde",
         "Chelsea",
         "Sanchez",
+        "Sigil",
         "Madrid",
         "Arsenal",
         "Maresca",
-        "Guro",
-        "Rosenior",
         "Leverkusen",
-        "#GlambotAfrica"
+        "Rosenior",
+        "Lagos"
       ],
       "hashtags": [
         "#GlambotAfrica",
-        "#9jaEidFestival",
         "#ChaosInTheRing",
-        "#pastorbolajinlp",
-        "#TakeCova"
+        "#PSGCHE",
+        "#TakeCova",
+        "#RMAMCI"
       ],
       "regular_topics": [
         "Jorgensen",
         "Valverde",
         "Chelsea",
         "Sanchez",
+        "Sigil",
         "Madrid",
         "Arsenal",
         "Maresca",
-        "Guro",
-        "Rosenior",
         "Leverkusen",
+        "Rosenior",
         "Lagos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
