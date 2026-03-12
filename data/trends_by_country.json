@@ -1,160 +1,170 @@
 {
-  "generated_at_utc": "2026-03-12T20:21:05.714712+00:00",
+  "generated_at_utc": "2026-03-12T20:57:14.873853+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 12 2026 19:12:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 20:03:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Temple Israel",
+        "West Bloomfield",
         "UMass",
         "Miami",
-        "West Bloomfield",
-        "Mark Mitchell",
-        "Mizzou",
-        "Dayton",
-        "Auburn",
         "Salad",
-        "Missouri",
-        "Kentucky"
+        "Mark Mitchell",
+        "Auburn",
+        "Old Dominion University",
+        "Dayton",
+        "Mizzou",
+        "Mohamed Jalloh"
       ],
       "hashtags": [
         "#HEESEUNG_STAYS",
         "#MACtion",
-        "#sjubb",
-        "#BEACCOUNTABLE_BELIFT"
+        "#BEACCOUNTABLE_BELIFT",
+        "#MaisonValentinoFW26XFreen"
       ],
       "regular_topics": [
         "Temple Israel",
+        "West Bloomfield",
         "UMass",
         "Miami",
-        "West Bloomfield",
-        "Mark Mitchell",
-        "Mizzou",
-        "Dayton",
-        "Auburn",
         "Salad",
-        "Missouri",
-        "Kentucky"
+        "Mark Mitchell",
+        "Auburn",
+        "Old Dominion University",
+        "Dayton",
+        "Mizzou",
+        "Mohamed Jalloh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 12 2026 19:33:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 20:27:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#avfc",
         "Watkins",
+        "#dragonsden",
+        "Josh Rock",
         "Buendia",
-        "#DHBirmingham",
-        "Michigan",
+        "Bogarde",
         "Jane",
-        "#TheChase",
-        "Guro",
-        "Supremely West",
-        "Tammy",
-        "Sancho"
+        "#DHBirmingham",
+        "#PLDarts",
+        "Morato",
+        "Michigan"
       ],
       "hashtags": [
         "#avfc",
+        "#dragonsden",
         "#DHBirmingham",
-        "#TheChase",
-        "#ToxicCommando",
-        "#Isra\u00ebl",
-        "#ThePlayers",
-        "#ChineseGP"
+        "#PLDarts",
+        "#LILAVL",
+        "#PremierLeagueDarts",
+        "#EuropaLeague",
+        "#BEACCOUNTABLE_BELIFT",
+        "#thechase",
+        "#HEESEUNG_STAYS",
+        "#MAFSAU"
       ],
       "regular_topics": [
         "Watkins",
+        "Josh Rock",
         "Buendia",
-        "Michigan",
-        "Jane",
-        "Guro",
-        "Supremely West",
-        "Tammy",
-        "Sancho",
-        "Lille",
         "Bogarde",
-        "Home By The Lee"
+        "Jane",
+        "Morato",
+        "Michigan",
+        "McGinn",
+        "Guro",
+        "Lille",
+        "Jonny Clayton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 12 2026 19:31:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 20:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liberals",
         "JACOB FOWLER",
-        "Michigan",
         "Nunavut",
         "Ullmark",
         "Temple Israel",
         "Valverde",
+        "Michigan",
         "Kobe",
         "Jorgensen",
-        "Ingram",
-        "#ENHYPEN_IS_7"
+        "#ENHYPEN_IS_7",
+        "Ingram"
       ],
       "hashtags": [
         "#ENHYPEN_IS_7",
         "#AEWDynamite",
+        "#LoveIsBlindReunion",
         "#MaisonValentinoFW26XFreen",
-        "#loveisblindreunion",
-        "#WorldBaseballClassic"
+        "#KingRezaPahlavi\u200cForIran"
       ],
       "regular_topics": [
         "Liberals",
         "JACOB FOWLER",
-        "Michigan",
         "Nunavut",
         "Ullmark",
         "Temple Israel",
         "Valverde",
+        "Michigan",
         "Kobe",
         "Jorgensen",
         "Ingram",
-        "West Bloomfield"
+        "Italy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 12 2026 18:32:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 12 2026 20:16:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kavya Maran",
-        "Abrar Ahmed",
         "Shame",
+        "Abrar Ahmed",
         "\u0915\u093e\u0935\u094d\u092f\u093e \u092e\u093e\u0930\u0928",
+        "#LPG\u0938\u0902\u0915\u091f",
+        "Iranian President",
+        "#TheHundred",
         "#Isra\u00ebl",
         "#LPGForHomes",
         "\u0905\u092c\u0930\u093e\u0930 \u0905\u0939\u092e\u0926",
-        "#LPG\u0938\u0902\u0915\u091f",
-        "#TheHundred",
-        "#IPL_2026",
-        "Iranian President"
+        "#IPL_2026"
       ],
       "hashtags": [
-        "#Isra\u00ebl",
-        "#LPGForHomes",
         "#LPG\u0938\u0902\u0915\u091f",
         "#TheHundred",
-        "#IPL_2026"
+        "#Isra\u00ebl",
+        "#LPGForHomes",
+        "#IPL_2026",
+        "#AlluCinemas",
+        "#PunjabKings",
+        "#7DaysTillArirang",
+        "#ManishaRani",
+        "#HEESEUNG_STAYS",
+        "#BEACCOUNTABLE_BELIFT"
       ],
       "regular_topics": [
         "Kavya Maran",
-        "Abrar Ahmed",
         "Shame",
+        "Abrar Ahmed",
         "\u0915\u093e\u0935\u094d\u092f\u093e \u092e\u093e\u0930\u0928",
-        "\u0905\u092c\u0930\u093e\u0930 \u0905\u0939\u092e\u0926",
         "Iranian President",
+        "\u0905\u092c\u0930\u093e\u0930 \u0905\u0939\u092e\u0926",
         "Michigan",
+        "Wave 2",
+        "West Bloomfield",
         "Covid",
-        "Abhinandan",
-        "Sa True Story YouTube",
-        "Mustafizur"
+        "Google Maps"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
