@@ -1,203 +1,202 @@
 {
-  "generated_at_utc": "2026-03-13T15:32:00.736913+00:00",
+  "generated_at_utc": "2026-03-13T16:24:39.565921+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 13 2026 14:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 15:20:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Friday the 13th",
-        "Good Friday",
-        "#FanCashDropPromotion",
-        "#FridayVibes",
         "Christ is King",
-        "#LastFourWatched",
+        "#FanCashDropPromotion",
+        "Good Friday",
+        "#FridayVibes",
         "#OnlyFriendsDreamOnEP3",
-        "RED Friday",
+        "#LastFourWatched",
+        "hobi",
         "Jack Harlow",
-        "#Friday13th",
-        "Happy Friyay"
+        "#SwiftDay",
+        "Oregon Trail"
       ],
       "hashtags": [
         "#FanCashDropPromotion",
         "#FridayVibes",
-        "#LastFourWatched",
         "#OnlyFriendsDreamOnEP3",
-        "#Friday13th"
+        "#LastFourWatched",
+        "#SwiftDay"
       ],
       "regular_topics": [
         "Friday the 13th",
-        "Good Friday",
         "Christ is King",
-        "RED Friday",
+        "Good Friday",
+        "hobi",
         "Jack Harlow",
+        "Oregon Trail",
+        "RED Friday",
+        "Balde",
+        "Cecilio",
         "Happy Friyay",
-        "Convivencia y Paz",
-        "Happy 313",
-        "Remember Everyone Deployed",
-        "Whale - Buy",
-        "Doyle"
+        "KC-135"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 13 2026 14:48:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 15:42:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Dinoblue",
         "Apolon De Charnie",
         "KITCHENFIT",
+        "Albert Bartlett",
         "#Cheltenham365",
+        "Hannah",
         "Friday the 13th",
         "triumph hurdle",
-        "Minella Study",
         "County Hurdle",
-        "Reece James",
-        "Wilful",
-        "#OnlyFriendsDreamOnEP3",
-        "Karbau"
+        "Doctor Steinberg",
+        "Gaelic Warrior"
       ],
       "hashtags": [
         "#Cheltenham365",
         "#OnlyFriendsDreamOnEP3",
-        "#WHFreeBet",
         "#CheltenhamFestival",
-        "#TECHOGNITION",
-        "#WorldSleepDay",
-        "#Cheltenham2026",
-        "#FridayVibes",
-        "#Friday13th"
+        "#WHFreeBet",
+        "#WorldSleepDay"
       ],
       "regular_topics": [
+        "Dinoblue",
         "Apolon De Charnie",
         "KITCHENFIT",
+        "Albert Bartlett",
+        "Hannah",
         "Friday the 13th",
         "triumph hurdle",
-        "Minella Study",
         "County Hurdle",
-        "Reece James",
-        "Wilful",
-        "Karbau",
+        "Doctor Steinberg",
         "Gaelic Warrior",
-        "Patrick Mullins"
+        "Wilful"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 13 2026 14:44:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 15:37:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
         "Friday the 13th",
         "Matthews",
         "Jarry",
         "#KingRezaPahlavi\u200cForIran",
+        "Unexpected",
         "Kuwait",
-        "Parros",
         "Pickard",
+        "Parros",
         "Elbows",
-        "Liberal",
-        "#FridayVibes"
+        "Liberals"
       ],
       "hashtags": [
         "#KingRezaPahlavi\u200cForIran",
-        "#FridayVibes",
-        "#911onABC",
+        "#onpoli",
         "#ENHYPEN_IS_7",
-        "#HEESEUNG_STAYS"
+        "#HEESEUNG_STAYS",
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "Gudas",
         "Friday the 13th",
         "Matthews",
         "Jarry",
+        "Unexpected",
         "Kuwait",
-        "Parros",
         "Pickard",
+        "Parros",
         "Elbows",
-        "Liberal",
-        "Explore Concrete",
-        "Happy Friyay"
+        "Liberals",
+        "Explore Concrete"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 13 2026 14:40:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 15:32:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HappybirthdayADITYANAIDU",
         "#SantoshSoban",
-        "#MainVaapasAaungaTeaser",
         "#LPGGasShortage",
-        "#Paramilitary_Virodhi_Sarkar",
+        "#MainVaapasAaungaTeaser",
         "Blessing Muzarabani",
+        "#OnlyFriendsDreamOnEP3",
         "Couple Friendly",
+        "hobi",
         "Agha",
-        "Mehidy Hasan Miraz",
-        "A. True",
-        "Balde"
+        "Balde",
+        "Mehidy Hasan Miraz"
       ],
       "hashtags": [
         "#HappybirthdayADITYANAIDU",
         "#SantoshSoban",
-        "#MainVaapasAaungaTeaser",
         "#LPGGasShortage",
+        "#MainVaapasAaungaTeaser",
+        "#OnlyFriendsDreamOnEP3",
+        "#GodNightFriday",
         "#Paramilitary_Virodhi_Sarkar",
-        "#OnlyFriendsDreamOnEP3"
+        "#adana",
+        "#PMKisan"
       ],
       "regular_topics": [
         "Blessing Muzarabani",
         "Couple Friendly",
+        "hobi",
         "Agha",
-        "Mehidy Hasan Miraz",
-        "A. True",
         "Balde",
+        "Mehidy Hasan Miraz",
         "\u0915\u0941\u0932\u0926\u0940\u092a \u092f\u093e\u0926\u0935",
-        "Quds Day",
-        "\u0928\u093f\u0927\u093f \u092f\u094b\u091c\u0928\u093e",
+        "A. True",
         "Kolkata Knight Riders",
-        "Imtiaz Ali"
+        "\u0930\u093e\u091c\u092a\u0942\u0924 \u0938\u092e\u093e\u091c",
+        "\u0928\u093f\u0927\u093f \u092f\u094b\u091c\u0928\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 13 2026 14:33:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 16:18:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Sigil",
-        "#XtraCova",
-        "Chelsea",
-        "Reece James",
         "Balde",
+        "Sigil",
+        "Chelsea",
         "Broda Shaggi",
-        "#EbukaObiCareDrive",
-        "Jorgensen",
+        "Reece James",
         "Lagos",
-        "#ScreensaverByLava",
-        "Valverde"
+        "Jorgensen",
+        "Samuel Perry",
+        "#adana",
+        "#XtraCova",
+        "#BetInfluencer"
       ],
       "hashtags": [
-        "#XtraCova",
-        "#EbukaObiCareDrive",
-        "#ScreensaverByLava",
         "#adana",
+        "#XtraCova",
+        "#BetInfluencer",
+        "#ScreensaverByLava",
         "#popfuneverstrong"
       ],
       "regular_topics": [
+        "Balde",
         "Sigil",
         "Chelsea",
-        "Reece James",
-        "Balde",
         "Broda Shaggi",
-        "Jorgensen",
+        "Reece James",
         "Lagos",
-        "Valverde",
-        "My Captain",
+        "Jorgensen",
         "Samuel Perry",
-        "Sango-Ota"
+        "My Captain",
+        "Valverde",
+        "Friday the 13th"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
