@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-03-13T07:36:40.573447+00:00",
+  "generated_at_utc": "2026-03-13T08:26:09.080851+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 13 2026 07:21:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 08:15:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "robby",
         "Whale - Buy",
-        "Langdon",
-        "Shai",
-        "Happy Friday the 13th",
         "10m TXs",
-        "#thepitt",
-        "Jack Harlow",
+        "robby",
+        "Happy Friday the 13th",
         "5m TXs",
+        "Jack Harlow",
         "Smart Money - Buy",
-        "QUICK TRADE"
+        "QUICK TRADE",
+        "Shai",
+        "#thepitt",
+        "Langdon"
       ],
       "hashtags": [
         "#thepitt",
         "#\uc5d4\ud558\uc774\ud508\uc740_7\uba85\uc774\ub2e4",
-        "#ANTI_ANXIETY_CLUB",
-        "#7TH_YEAR",
-        "#\uc5d4\ud558\uc774\ud508\uc740_\uc77c\uacf1\uc774\ub2e4"
+        "#\uc5d4\ud558\uc774\ud508\uc740_\uc77c\uacf1\uc774\ub2e4",
+        "#\uc5d4\ud558\uc774\ud508_\uc77c\uacf1\uc744_\uc9c0\ucf1c",
+        "#ANTI_ANXIETY_CLUB"
       ],
       "regular_topics": [
-        "robby",
         "Whale - Buy",
-        "Langdon",
-        "Shai",
-        "Happy Friday the 13th",
         "10m TXs",
-        "Jack Harlow",
+        "robby",
+        "Happy Friday the 13th",
         "5m TXs",
+        "Jack Harlow",
         "Smart Money - Buy",
         "QUICK TRADE",
+        "Shai",
+        "Langdon",
         "Chet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 13 2026 06:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 07:44:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mandelson",
         "Friday the 13th",
+        "#ChineseGP",
         "Churchill",
-        "Valverde",
+        "#fingerpostfriday",
         "#TheApprentice",
-        "#RmaMci",
+        "Valverde",
         "Jorgensen",
         "Cheltenham",
-        "Fact to File",
-        "#ChineseGP",
-        "Saka"
+        "Sprint Quali",
+        "#FridayFeeling"
       ],
       "hashtags": [
-        "#TheApprentice",
-        "#RmaMci",
         "#ChineseGP",
-        "#bbcqt",
-        "#nffc"
+        "#fingerpostfriday",
+        "#TheApprentice",
+        "#FridayFeeling",
+        "#FlowersOnFriday"
       ],
       "regular_topics": [
         "Mandelson",
@@ -71,93 +71,93 @@
         "Valverde",
         "Jorgensen",
         "Cheltenham",
-        "Fact to File",
+        "Sprint Quali",
+        "Master Plan",
         "Saka",
-        "Shai",
-        "bambino fever",
-        "Louis Theroux"
+        "Louis Theroux",
+        "Fact To File"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 13 2026 06:48:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 07:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
+        "Explore Concrete",
         "Jarry",
         "Matthews",
-        "Shai",
-        "#Canucks",
         "Pickard",
         "robby",
-        "Kuwait",
-        "#VWFC",
         "Liberals",
-        "Rossi"
+        "#KingRezaPahlavi\u200cForIran",
+        "#Canucks",
+        "Kuwait",
+        "Skinner"
       ],
       "hashtags": [
-        "#Canucks",
-        "#VWFC",
-        "#LetsGoOilers",
         "#KingRezaPahlavi\u200cForIran",
-        "#ENHYPEN_IS_7"
+        "#Canucks",
+        "#ENHYPEN_IS_7",
+        "#911onABC",
+        "#BEACCOUNTABLE_BELIFT"
       ],
       "regular_topics": [
         "Gudas",
+        "Explore Concrete",
         "Jarry",
         "Matthews",
-        "Shai",
         "Pickard",
         "robby",
-        "Kuwait",
         "Liberals",
-        "Rossi",
+        "Kuwait",
         "Skinner",
-        "jacob fowler"
+        "Nunavut",
+        "Shai"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 13 2026 06:42:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 07:33:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Nothing4aSaleOnFlipkart",
         "#PunjabInvestorsSummit",
-        "Nothing Phone",
-        "#FridayFitness",
-        "Snapdragon 7s Gen 4",
-        "50MP OIS",
-        "#Kaliyammal",
-        "#GodMorningFriday",
-        "4a Pro",
-        "\u0905\u092c\u094d\u0926\u0941\u0932 \u0930\u0947\u0939\u093e\u0928",
-        "\u0938\u0930\u0915\u093e\u0930 \u092a\u0902\u091c\u093e\u092c"
-      ],
-      "hashtags": [
         "#Nothing4aSaleOnFlipkart",
-        "#PunjabInvestorsSummit",
+        "#CheQxNothingPhone4a",
         "#FridayFitness",
-        "#Kaliyammal",
-        "#GodMorningFriday",
-        "#IranUSWar",
-        "#WorldSleepDay",
-        "#lpgpriceshiked",
-        "#Sunrisehydrabad",
-        "#provadol\u00edder",
-        "#Vetrimaaran"
-      ],
-      "regular_topics": [
-        "Nothing Phone",
-        "Snapdragon 7s Gen 4",
         "50MP OIS",
+        "Snapdragon 7s Gen 4",
+        "#Sasikala",
         "4a Pro",
         "\u0905\u092c\u094d\u0926\u0941\u0932 \u0930\u0947\u0939\u093e\u0928",
         "\u0938\u0930\u0915\u093e\u0930 \u092a\u0902\u091c\u093e\u092c",
-        "Pakistani",
-        "Progressive Punjab Investors",
+        "Frankie"
+      ],
+      "hashtags": [
+        "#PunjabInvestorsSummit",
+        "#Nothing4aSaleOnFlipkart",
+        "#CheQxNothingPhone4a",
+        "#FridayFitness",
+        "#Sasikala",
+        "#Kaliyammal",
+        "#Dhanush",
+        "#provadol\u00edder",
+        "#Vetrimaaran",
+        "#GodMorningFriday",
+        "#Youth"
+      ],
+      "regular_topics": [
+        "50MP OIS",
+        "Snapdragon 7s Gen 4",
+        "4a Pro",
+        "\u0905\u092c\u094d\u0926\u0941\u0932 \u0930\u0947\u0939\u093e\u0928",
+        "\u0938\u0930\u0915\u093e\u0930 \u092a\u0902\u091c\u093e\u092c",
+        "Frankie",
         "KC-135",
+        "Pakistani",
+        "\u092a\u094d\u0930\u0925\u092e \u092e\u0939\u093f\u0932\u093e",
         "Friday the 13th",
         "\u0936\u094d\u0930\u0940 \u0930\u093e\u091c\u092a\u0942\u0924 \u0915\u0930\u0923\u0940 \u0938\u0947\u0928\u093e"
       ],
