@@ -1,93 +1,84 @@
 {
-  "generated_at_utc": "2026-03-13T23:47:46.665552+00:00",
+  "generated_at_utc": "2026-03-14T00:59:39.707777+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 13 2026 22:20:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 23:12:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Wisconsin",
         "Boasberg",
-        "Blackwell",
+        "Wisconsin",
+        "Vandy",
         "Friday the 13th",
+        "Vanderbilt",
+        "Boyd",
+        "Tulsa",
         "Pirro",
-        "#Illini",
-        "Kennedy Center",
-        "Jerome Powell",
         "Duke Miles",
-        "Dyami",
-        "Badgers"
+        "Kennedy Center",
+        "Kharg Island"
       ],
       "hashtags": [
-        "#Illini",
-        "#OliviaIsComing",
-        "#AtomSweeps",
-        "#FursuitFriday"
+        "#OliviaIsComing"
       ],
       "regular_topics": [
-        "Wisconsin",
         "Boasberg",
-        "Blackwell",
+        "Wisconsin",
+        "Vandy",
         "Friday the 13th",
+        "Vanderbilt",
+        "Boyd",
+        "Tulsa",
         "Pirro",
-        "Kennedy Center",
-        "Jerome Powell",
         "Duke Miles",
-        "Dyami",
-        "Badgers",
-        "Underwood"
+        "Kennedy Center",
+        "Kharg Island"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 13 2026 22:42:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 00:27:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
-        "Swansea",
-        "#Gogglebox",
-        "Burgess",
-        "#DeathInParadise",
-        "De Zerbi",
-        "#WRESWA",
-        "Ronald",
-        "Wakefield",
-        "Ponzi",
-        "Rob and Ryan"
+        "Envoi Allen",
+        "Gaelic Warrior",
+        "#SmackDown",
+        "#TheClaudiaWinklemanShow",
+        "Friday the 13th",
+        "Gold Cup",
+        "Mandelson",
+        "Wrexham",
+        "KITCHENFIT",
+        "Kharg Island"
       ],
       "hashtags": [
         "#TOTP",
-        "#Gogglebox",
-        "#DeathInParadise",
-        "#WRESWA",
-        "#GardenersWorld",
-        "#MakeACelebIll",
-        "#colu",
-        "#ChallengeCup",
-        "#KingRezaPahlavi\u200cForIran",
-        "#OliviaIsComing",
-        "#NSL2026"
+        "#SmackDown",
+        "#TheClaudiaWinklemanShow",
+        "#ChineseGP",
+        "#TheLastLeg"
       ],
       "regular_topics": [
-        "Swansea",
-        "Burgess",
-        "De Zerbi",
-        "Ronald",
-        "Wakefield",
-        "Ponzi",
-        "Rob and Ryan",
-        "Newman",
-        "Wakey",
         "Envoi Allen",
-        "Ascot"
+        "Gaelic Warrior",
+        "Friday the 13th",
+        "Gold Cup",
+        "Mandelson",
+        "Wrexham",
+        "KITCHENFIT",
+        "Kharg Island",
+        "Dunblane",
+        "Louis Theroux",
+        "Churchill"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 13 2026 22:37:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 13 2026 23:30:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
         "Friday the 13th",
@@ -97,13 +88,13 @@
         "Kuwait",
         "Parros",
         "Arctic",
-        "Liberals",
         "Don Cherry",
-        "Pickard"
+        "Liberals",
+        "Al-Quds Day"
       ],
       "hashtags": [
         "#KingRezaPahlavi\u200cForIran",
-        "#DigitalBlackOutIran",
+        "#THEPLAYERS",
         "#onpoli",
         "#FursuitFriday",
         "#OliviaIsComing"
@@ -116,56 +107,56 @@
         "Kuwait",
         "Parros",
         "Arctic",
-        "Liberals",
         "Don Cherry",
-        "Pickard",
-        "Al-Quds Day"
+        "Liberals",
+        "Al-Quds Day",
+        "Max Jones"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 13 2026 22:32:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 00:16:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LPGGasShortage",
-        "#JanasenaFormationDay",
         "#TrueWorship_EndsSuffering",
-        "#BhoothBanglaTeaser",
+        "#JanasenaFormationDay",
+        "#bhoothbanglateaser",
         "#FridayFitness",
         "Kavya Maran",
         "Sa True Story YouTube",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Strait of Hormuz",
         "Abrar Ahmed",
-        "\u0917\u0948\u0938 \u090f\u091c\u0947\u0902\u0938\u0940",
-        "jk super cement"
+        "Kharg Island"
       ],
       "hashtags": [
         "#LPGGasShortage",
-        "#JanasenaFormationDay",
         "#TrueWorship_EndsSuffering",
-        "#BhoothBanglaTeaser",
+        "#JanasenaFormationDay",
+        "#bhoothbanglateaser",
         "#FridayFitness"
       ],
       "regular_topics": [
         "Kavya Maran",
         "Sa True Story YouTube",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Strait of Hormuz",
         "Abrar Ahmed",
+        "Kharg Island",
         "\u0917\u0948\u0938 \u090f\u091c\u0947\u0902\u0938\u0940",
         "jk super cement",
         "\u0915\u093e\u0935\u094d\u092f\u093e \u092e\u093e\u0930\u0928",
         "KC-135",
-        "Blessing Muzarabani",
-        "\u0930\u093e\u091c\u092a\u0942\u0924 \u0938\u092e\u093e\u091c",
-        "Pakistani"
+        "Blessing Muzarabani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 13 2026 22:27:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 00:09:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cindy",
         "Chelsea",
@@ -173,17 +164,17 @@
         "Reece James",
         "Sigil",
         "Broda Shaggi",
-        "#HSLHSMarch2026Day1",
         "Lagos",
         "Friday the 13th",
-        "Lauren James",
-        "My Captain"
+        "My Captain",
+        "PLATINUM in the UK",
+        "Okpa"
       ],
       "hashtags": [
-        "#HSLHSMarch2026Day1",
-        "#popfuneverstrong",
+        "#ubabusinessseries",
+        "#screensaverbylava",
+        "#HEESEUNG_STAYS",
         "#XtraCova",
-        "#glambotafrica",
         "#\u65e5\u672c\u30a2\u30ab\u30c7\u30df\u30fc\u8cde"
       ],
       "regular_topics": [
@@ -195,9 +186,9 @@
         "Broda Shaggi",
         "Lagos",
         "Friday the 13th",
-        "Lauren James",
         "My Captain",
-        "Come Closer"
+        "PLATINUM in the UK",
+        "Okpa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
