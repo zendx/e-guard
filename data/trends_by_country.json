@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-14T17:16:36.391448+00:00",
+  "generated_at_utc": "2026-03-14T17:48:18.162537+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 14 2026 16:36:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 17:28:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Celsius",
         "#PiDay",
-        "Option B",
-        "Happy Pi",
-        "#Caturday",
-        "Josh Johnson",
-        "#LoveYouTeacherSeriesEP1",
-        "Good Saturday",
+        "UMBC",
         "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP7",
+        "Happy Pi",
         "DUANG WITH YOU EP7",
-        "Haley Robson"
+        "Option B",
+        "DJ Armstrong",
+        "#Caturday",
+        "#LoveYouTeacherSeriesEP1",
+        "Josh Johnson"
       ],
       "hashtags": [
         "#Celsius",
         "#PiDay",
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP7",
         "#Caturday",
-        "#LoveYouTeacherSeriesEP1",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP7"
+        "#LoveYouTeacherSeriesEP1"
       ],
       "regular_topics": [
-        "Option B",
+        "UMBC",
         "Happy Pi",
-        "Josh Johnson",
-        "Good Saturday",
         "DUANG WITH YOU EP7",
+        "Option B",
+        "DJ Armstrong",
+        "Josh Johnson",
+        "Yale",
         "Haley Robson",
-        "Leverkusen",
-        "Ronnie Dunn",
-        "Championship Saturday",
+        "Good Saturday",
         "When Obama",
-        "UMBC"
+        "Habermas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
