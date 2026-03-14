@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-03-14T22:13:04.385592+00:00",
+  "generated_at_utc": "2026-03-14T22:48:45.475589+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 14 2026 20:56:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 21:48:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Max Dowman",
-        "Vandy",
+        "#UFCVegas114",
         "Buffy",
         "Dayton",
-        "#Celsius",
+        "Vandy",
         "#COYG",
         "Austin Rapp",
-        "Everton",
-        "#ARSEVE",
-        "Pickford",
-        "Michigan"
+        "Michigan",
+        "West Ham",
+        "Brandon Miller",
+        "Everton"
       ],
       "hashtags": [
-        "#Celsius",
+        "#UFCVegas114",
         "#COYG",
-        "#ARSEVE",
-        "#Arsenal",
-        "#NeurodivergentRapLines"
+        "#Celsius",
+        "#NeurodivergentRapLines",
+        "#ARSEVE"
       ],
       "regular_topics": [
         "Max Dowman",
-        "Vandy",
         "Buffy",
         "Dayton",
+        "Vandy",
         "Austin Rapp",
+        "Michigan",
+        "West Ham",
+        "Brandon Miller",
         "Everton",
         "Pickford",
-        "Michigan",
-        "Vanderbilt",
-        "Wisconsin",
-        "West Ham"
+        "Purdue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 14 2026 21:18:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 22:09:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Max Dowman",
         "#FRAvENG",
-        "Pickford",
-        "Everton",
-        "#ARSEVE",
+        "West Ham",
+        "Max Dowman",
         "#SixNations",
-        "Arteta",
-        "#COYG",
-        "Donnarumma",
-        "Barry",
-        "#WHUMCI"
+        "#WHUMCI",
+        "Everton",
+        "Pickford",
+        "Mavropanos",
+        "England",
+        "#ARSEVE",
+        "#6Nations"
       ],
       "hashtags": [
         "#FRAvENG",
-        "#ARSEVE",
         "#SixNations",
-        "#COYG",
-        "#WHUMCI"
+        "#WHUMCI",
+        "#ARSEVE",
+        "#6Nations"
       ],
       "regular_topics": [
+        "West Ham",
         "Max Dowman",
-        "Pickford",
         "Everton",
-        "Arteta",
-        "Donnarumma",
+        "Pickford",
+        "Mavropanos",
+        "England",
         "Barry",
-        "Rosenior",
-        "Bernardo Silva",
+        "Pollock",
         "Cherki",
-        "Genge",
-        "Beto"
+        "Haaland",
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
