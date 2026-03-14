@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-03-14T07:27:10.210496+00:00",
+  "generated_at_utc": "2026-03-14T07:53:29.052372+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 14 2026 06:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 07:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
         "Darius Acuff",
         "Randy Orton",
-        "Mason Miller",
+        "BJ Davis",
+        "Aztecs",
         "Kharg Island",
         "Skenes",
-        "#OPLive",
+        "Mason Miller",
         "Mor\u00f3n",
-        "UCLA",
-        "Cal Raleigh",
-        "Lewis"
+        "SDSU",
+        "#zzzSpecialProgram"
       ],
       "hashtags": [
         "#SmackDown",
+        "#zzzSpecialProgram",
         "#OPLive",
         "#DragRace",
-        "#zzzSpecialProgram",
         "#krorigin"
       ],
       "regular_topics": [
         "Darius Acuff",
         "Randy Orton",
-        "Mason Miller",
+        "BJ Davis",
+        "Aztecs",
         "Kharg Island",
         "Skenes",
+        "Mason Miller",
         "Mor\u00f3n",
-        "UCLA",
-        "Cal Raleigh",
-        "Lewis",
-        "Arkansas",
-        "Bednar"
+        "SDSU",
+        "San Diego State",
+        "Cal Raleigh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 14 2026 06:30:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 07:22:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SmackDown",
         "#totp",
-        "Lewis",
+        "#ChineseGP",
         "Envoi Allen",
         "Gaelic Warrior",
+        "#SmackDown",
+        "#Caturday",
+        "#PostboxSaturday",
+        "Lewis",
         "Friday the 13th",
-        "#ChineseGP",
         "Gold Cup",
-        "Leclerc",
-        "#F1Sprint",
-        "Russell"
+        "Randy Orton"
       ],
       "hashtags": [
-        "#SmackDown",
         "#totp",
         "#ChineseGP",
-        "#F1Sprint",
-        "#theclaudiawinklemanshow"
+        "#SmackDown",
+        "#Caturday",
+        "#PostboxSaturday"
       ],
       "regular_topics": [
-        "Lewis",
         "Envoi Allen",
         "Gaelic Warrior",
+        "Lewis",
         "Friday the 13th",
         "Gold Cup",
-        "Leclerc",
-        "Russell",
         "Randy Orton",
+        "Match Day",
         "Mandelson",
-        "Antonelli",
-        "Ferrari"
+        "Leclerc",
+        "KITCHENFIT",
+        "Dunblane"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 14 2026 06:27:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 07:18:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
         "Friday the 13th",
         "Matthews",
         "#KingRezaPahlavi\u200cForIran",
         "#SmackDown",
-        "#WorldBaseballClassic",
         "Parros",
         "Kharg Island",
         "Josh Naylor",
-        "Jarry",
-        "Don Cherry"
+        "Don Cherry",
+        "#WorldBaseballClassic",
+        "Jarry"
       ],
       "hashtags": [
         "#KingRezaPahlavi\u200cForIran",
@@ -110,10 +110,10 @@
         "Parros",
         "Kharg Island",
         "Josh Naylor",
-        "Jarry",
         "Don Cherry",
-        "Lewis",
+        "Jarry",
         "DOPS",
+        "Liberals",
         "Kuwait"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,45 +121,44 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 14 2026 06:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 14 2026 07:12:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u0943\u0937\u093f\u092e\u0939\u094b\u0924\u094d\u0938\u0935\u092c\u0930\u0939\u0940",
         "#ModiForAshtalakshmi",
-        "#RighteousCustom",
-        "#GodMorningSaturday",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "#SonamWangchuk",
+        "North Korea",
+        "National Security Act",
+        "#\u0938\u093e\u0930\u0923_\u0930\u0947\u092a\u093f\u0938\u094d\u091f\u094b\u0902_\u0915\u094b_\u092b\u093e\u0902\u0938\u0940_\u0926\u094b",
         "#JanasenaFormationDay",
         "Kharg Island",
-        "\u0938\u0941\u0927\u093e\u0902\u0936\u0941 \u0924\u094d\u0930\u093f\u0935\u0947\u0926\u0940",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "OUT TODAY",
-        "Silchar",
-        "Lewis"
+        "Sea of Japan",
+        "Silchar"
       ],
       "hashtags": [
         "#\u0915\u0943\u0937\u093f\u092e\u0939\u094b\u0924\u094d\u0938\u0935\u092c\u0930\u0939\u0940",
         "#ModiForAshtalakshmi",
-        "#RighteousCustom",
-        "#GodMorningSaturday",
-        "#JanasenaFormationDay",
-        "#LPGGasCrisis",
+        "#SonamWangchuk",
         "#\u0938\u093e\u0930\u0923_\u0930\u0947\u092a\u093f\u0938\u094d\u091f\u094b\u0902_\u0915\u094b_\u092b\u093e\u0902\u0938\u0940_\u0926\u094b",
-        "#PiDay",
-        "#JSPFormationDay",
+        "#JanasenaFormationDay",
+        "#GodMorningSaturday",
+        "#RighteousCustom",
+        "#Brigade4Poriborton",
         "#HBDLokeshKanagaraj",
-        "#femboy"
+        "#AA23"
       ],
       "regular_topics": [
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "North Korea",
+        "National Security Act",
         "Kharg Island",
-        "\u0938\u0941\u0927\u093e\u0902\u0936\u0941 \u0924\u094d\u0930\u093f\u0935\u0947\u0926\u0940",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "OUT TODAY",
+        "Sea of Japan",
         "Silchar",
-        "Lewis",
-        "Albert Einstein",
-        "Shivalik",
-        "VVS Laxman",
-        "\u0938\u091a\u094d\u091a\u093e \u091c\u094d\u091e\u093e\u0928",
-        "\u092c\u093f\u0939\u093e\u0930 \u092a\u0941\u0932\u093f\u0938"
+        "\u0938\u0941\u0927\u093e\u0902\u0936\u0941 \u0924\u094d\u0930\u093f\u0935\u0947\u0926\u0940",
+        "\u0909\u0924\u094d\u0924\u0930 \u0915\u094b\u0930\u093f\u092f\u093e",
+        "Rahul Dravid",
+        "\u0917\u0943\u0939 \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
+        "\u0936\u0928\u093f \u0926\u0947\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
