@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-15T08:58:35.399601+00:00",
+  "generated_at_utc": "2026-03-15T09:31:33.455503+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -121,38 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 15 2026 08:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 09:20:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BJP4AssamYuva",
-        "#ModijiWhereIsLPG",
         "#ChineseGP",
-        "Hamilton",
-        "Khanapara",
-        "#ElectionCommission",
-        "\u092c\u0939\u0941\u091c\u0928 \u0928\u093e\u092f\u0915",
-        "#WorldConsumerRightsDay",
+        "#ModijiWhereIsLPG",
+        "Kimi",
+        "#Modi_Paramilitary_Virodhi",
+        "Lewis",
         "Ferrari",
-        "A. Puducherry",
-        "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c"
+        "#NamoRe",
+        "\u0939\u0930\u0940\u0936 \u0930\u093e\u0923\u093e",
+        "Khanapara",
+        "Bono"
       ],
       "hashtags": [
         "#BJP4AssamYuva",
-        "#ModijiWhereIsLPG",
         "#ChineseGP",
-        "#ElectionCommission",
-        "#WorldConsumerRightsDay"
+        "#ModijiWhereIsLPG",
+        "#Modi_Paramilitary_Virodhi",
+        "#NamoRe"
       ],
       "regular_topics": [
-        "Hamilton",
-        "Khanapara",
-        "\u092c\u0939\u0941\u091c\u0928 \u0928\u093e\u092f\u0915",
+        "Kimi",
+        "Lewis",
         "Ferrari",
-        "A. Puducherry",
-        "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c",
-        "Ocon",
+        "\u0939\u0930\u0940\u0936 \u0930\u093e\u0923\u093e",
+        "Khanapara",
+        "Bono",
         "Russell",
+        "\u092c\u0939\u0941\u091c\u0928 \u0928\u093e\u092f\u0915",
+        "A. Puducherry",
         "Leclerc",
-        "Verstappen",
         "Charles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,40 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 15 2026 08:21:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 09:16:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Max Dowman",
-        "Everton",
         "#MothersDay",
-        "#ARSEVE",
-        "#COYG",
-        "#CHENEW",
-        "Chelsea",
-        "West Ham",
+        "#ChineseGP",
+        "Hamilton",
+        "Kimi",
         "Blessed Sunday",
+        "Mothering Sunday",
+        "Baddo",
         "Today is Sunday",
-        "Papa Ajasco"
+        "Aston Villa",
+        "Peter Drury",
+        "Ferrari"
       ],
       "hashtags": [
         "#MothersDay",
-        "#ARSEVE",
-        "#COYG",
-        "#CHENEW",
-        "#ChineseGP"
+        "#ChineseGP",
+        "#SundayService",
+        "#ilberortayl\u0131",
+        "#RamadanDay26",
+        "#LoveYouTeacherSeriesEP1"
       ],
       "regular_topics": [
-        "Max Dowman",
-        "Everton",
-        "Chelsea",
-        "West Ham",
-        "Blessed Sunday",
-        "Today is Sunday",
-        "Papa Ajasco",
-        "Leclerc",
         "Hamilton",
-        "Pickford",
-        "Amie"
+        "Kimi",
+        "Blessed Sunday",
+        "Mothering Sunday",
+        "Baddo",
+        "Today is Sunday",
+        "Aston Villa",
+        "Peter Drury",
+        "Ferrari",
+        "Happy Sunday CT",
+        "Leclerc"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
