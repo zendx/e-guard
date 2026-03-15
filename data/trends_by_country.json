@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-03-15T06:41:40.937398+00:00",
+  "generated_at_utc": "2026-03-15T07:36:58.649914+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 15 2026 05:40:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 06:32:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Venezuela",
         "Lakers",
-        "Luka",
         "harry styles",
+        "Luka",
+        "Utah Valley",
         "Austin Reaves",
+        "Gypsy",
+        "marcello",
         "#LakeShow",
         "Ohtani",
-        "marcello",
-        "Gypsy",
-        "Jamal Murray",
-        "Marcus Smart"
+        "Jap\u00f3n"
       ],
       "hashtags": [
         "#LakeShow",
+        "#Toonami",
+        "#TokyoRevengers",
         "#AAAReyDeReyes",
-        "#HarryOnSNL",
-        "#UFCVegas114",
-        "#TokyoRevengers"
+        "#FELIX_F1_ChineseGP"
       ],
       "regular_topics": [
         "Venezuela",
         "Lakers",
-        "Luka",
         "harry styles",
+        "Luka",
+        "Utah Valley",
         "Austin Reaves",
-        "Ohtani",
-        "marcello",
         "Gypsy",
-        "Jamal Murray",
-        "Marcus Smart",
-        "Jap\u00f3n"
+        "marcello",
+        "Ohtani",
+        "Jap\u00f3n",
+        "Jamal Murray"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 15 2026 05:08:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 06:52:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Max Dowman",
         "#FRAvENG",
         "#ARSEVE",
+        "#sixnations",
         "Pickford",
         "Everton",
-        "#SixNations",
-        "#UFCVegas114",
         "Arsenal",
-        "#6Nations",
+        "#6nations",
+        "#mothersday2026",
         "West Ham",
         "Beaton"
       ],
       "hashtags": [
         "#FRAvENG",
         "#ARSEVE",
-        "#SixNations",
-        "#UFCVegas114",
-        "#6Nations"
+        "#sixnations",
+        "#6nations",
+        "#mothersday2026"
       ],
       "regular_topics": [
         "Max Dowman",
@@ -71,128 +71,128 @@
         "Arsenal",
         "West Ham",
         "Beaton",
+        "Lando",
         "Lakers",
-        "Vallejos",
-        "Luka",
         "England",
-        "Ireland"
+        "Luka",
+        "Reaves"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 15 2026 05:56:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 06:48:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "harry styles",
         "#UFCVegas114",
         "#KingRezaPahlavi\u200cForIran",
         "Gudas",
         "Max Dowman",
-        "Lakers",
+        "harry styles",
         "Don Cherry",
         "Venezuela",
+        "Lakers",
         "Order of Canada",
-        "#LakeShow",
+        "marcello",
         "Gypsy"
       ],
       "hashtags": [
         "#UFCVegas114",
         "#KingRezaPahlavi\u200cForIran",
-        "#LakeShow",
         "#COYG",
-        "#ARSEVE"
+        "#ARSEVE",
+        "#PiDay"
       ],
       "regular_topics": [
-        "harry styles",
         "Gudas",
         "Max Dowman",
-        "Lakers",
+        "harry styles",
         "Don Cherry",
         "Venezuela",
+        "Lakers",
         "Order of Canada",
+        "marcello",
         "Gypsy",
-        "Happy Friday the 13th",
-        "Luka",
-        "ben marshall"
+        "Jamal Murray",
+        "Kharg Island"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 15 2026 05:51:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 06:42:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ModijiWhereIsLPG",
         "#WorldConsumerRightsDay",
         "\u092c\u0939\u0941\u091c\u0928 \u0928\u093e\u092f\u0915",
-        "#SaveAsharamjiAshram",
         "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c",
-        "#GodMorningSunday",
-        "#ModijiWhereIsLPG",
         "#ElectionCommission",
-        "Nishkam Sewa",
-        "\u0936\u094d\u0930\u0940 \u0915\u093e\u0902\u0936\u0940\u0930\u093e\u092e",
+        "#SaveAsharamjiAshram",
+        "#\u0915\u093e\u0902\u0936\u0940\u0930\u093e\u092e",
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
         "\u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935"
+        "\u092e\u0939\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "Puducherry"
       ],
       "hashtags": [
-        "#WorldConsumerRightsDay",
-        "#SaveAsharamjiAshram",
-        "#GodMorningSunday",
         "#ModijiWhereIsLPG",
-        "#ElectionCommission"
+        "#WorldConsumerRightsDay",
+        "#ElectionCommission",
+        "#SaveAsharamjiAshram",
+        "#\u0915\u093e\u0902\u0936\u0940\u0930\u093e\u092e"
       ],
       "regular_topics": [
         "\u092c\u0939\u0941\u091c\u0928 \u0928\u093e\u092f\u0915",
         "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c",
-        "Nishkam Sewa",
-        "\u0936\u094d\u0930\u0940 \u0915\u093e\u0902\u0936\u0940\u0930\u093e\u092e",
-        "\u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Puducherry",
         "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "\u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u0928",
         "\u092e\u0939\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "Puducherry",
         "\u092c\u0939\u0941\u091c\u0928 \u0906\u0902\u0926\u094b\u0932\u0928",
-        "Rajdeep"
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "Nishkam Sewa",
+        "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
+        "\u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 15 2026 05:45:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 07:31:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Max Dowman",
         "Everton",
         "#ARSEVE",
-        "#RamadanDay26",
+        "#MothersDay",
         "#COYG",
         "#CHENEW",
-        "Lakers",
-        "Chelsea",
-        "West Ham",
         "Blessed Sunday",
-        "Pickford"
+        "West Ham",
+        "Chelsea",
+        "Amen",
+        "Papa Ajasco"
       ],
       "hashtags": [
         "#ARSEVE",
-        "#RamadanDay26",
+        "#MothersDay",
         "#COYG",
         "#CHENEW",
-        "#opayeverywhere"
+        "#RamadanDay26"
       ],
       "regular_topics": [
         "Max Dowman",
         "Everton",
-        "Lakers",
-        "Chelsea",
-        "West Ham",
         "Blessed Sunday",
-        "Pickford",
-        "Ya Allah",
+        "West Ham",
+        "Chelsea",
+        "Amen",
         "Papa Ajasco",
-        "Arda Guler",
-        "Jamal Murray"
+        "Pickford",
+        "Amie",
+        "Happy Sunday CT",
+        "Today is Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
