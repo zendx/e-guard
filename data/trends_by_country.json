@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-15T21:46:54.250282+00:00",
+  "generated_at_utc": "2026-03-15T22:14:23.955123+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -121,39 +121,43 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 15 2026 20:40:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 21:32:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TNwithTVK",
         "Liverpool",
         "Slot",
         "#LIVTOT",
-        "#HimantaOnceAgain",
         "Spurs",
         "#TNtrustsAIADMK",
-        "Richarlison",
         "Jungkook",
-        "Express",
-        "#VoteForDMK"
+        "#HimantaOnceAgain",
+        "#VALORANTMasters",
+        "Taiwan",
+        "Express"
       ],
       "hashtags": [
         "#TNwithTVK",
         "#LIVTOT",
-        "#HimantaOnceAgain",
         "#TNtrustsAIADMK",
-        "#VoteForDMK"
+        "#HimantaOnceAgain",
+        "#VALORANTMasters",
+        "#VoteForDMK",
+        "#Vote4AIADMK",
+        "#Netanyahu",
+        "#SplitsvillaX6"
       ],
       "regular_topics": [
         "Liverpool",
         "Slot",
         "Spurs",
-        "Richarlison",
         "Jungkook",
-        "Express",
-        "Himanta Biswa Sarma",
         "Taiwan",
+        "Express",
+        "Richarlison",
+        "Oscars",
         "Assam",
         "Cancelo",
-        "Gakpo"
+        "Bruno Fernandes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
