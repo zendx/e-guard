@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-15T15:17:39.157928+00:00",
+  "generated_at_utc": "2026-03-15T15:48:29.739552+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 15 2026 14:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 15:12:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
         "Selection Sunday",
-        "Muhammad Qasim",
-        "#SundayVibes",
-        "Beware the Ides of March",
-        "Sunday Funday",
+        "Sesko",
+        "Dalot",
         "Oscars",
-        "Blessed Sunday",
+        "Muhammad Qasim",
+        "Beware the Ides of March",
+        "#SundayVibes",
+        "Sunday Funday",
         "Mother's Day",
-        "FARA",
-        "#15Mar"
+        "#fishtanklive"
       ],
       "hashtags": [
         "#SundayVibes",
-        "#15Mar",
-        "#MyRomanceScammerEP7",
+        "#fishtanklive",
         "#SeductiveSunday",
-        "#STARDOM"
+        "#MUFC",
+        "#lufc"
       ],
       "regular_topics": [
         "Good Sunday",
         "Selection Sunday",
+        "Sesko",
+        "Dalot",
+        "Oscars",
         "Muhammad Qasim",
         "Beware the Ides of March",
         "Sunday Funday",
-        "Oscars",
-        "Blessed Sunday",
         "Mother's Day",
-        "FARA",
-        "Kimi",
-        "Julius Caesar"
+        "Amad",
+        "Blessed Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -164,44 +164,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 15 2026 14:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 15:20:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Casemiro",
+        "#MUNAVL",
+        "Sesko",
+        "Dalot",
         "Mother's Day",
         "Aston Villa",
+        "Amad",
         "#fundingpips",
-        "#MUNAVL",
-        "#UglyMen",
         "Manchester United",
-        "Mothering Sunday",
-        "Yoro",
-        "Argentina",
-        "#Chatlee",
-        "Amad"
+        "Mbeumo",
+        "#UglyMen"
       ],
       "hashtags": [
-        "#fundingpips",
         "#MUNAVL",
+        "#fundingpips",
         "#UglyMen",
-        "#Chatlee",
-        "#GGMU",
-        "#ilberortayl\u0131",
-        "#EverySideOfYou",
-        "#SundayService",
-        "#ChineseGP",
-        "#PerfectMatchXtra"
+        "#MUFC",
+        "#GGMU"
       ],
       "regular_topics": [
+        "Casemiro",
+        "Sesko",
+        "Dalot",
         "Mother's Day",
         "Aston Villa",
-        "Manchester United",
-        "Mothering Sunday",
-        "Yoro",
-        "Argentina",
         "Amad",
-        "Man United",
-        "Gongo Aso",
-        "Finalissima",
-        "Old Trafford"
+        "Manchester United",
+        "Mbeumo",
+        "Yoro",
+        "Watkins",
+        "Mothering Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
