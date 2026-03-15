@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-15T16:17:58.046979+00:00",
+  "generated_at_utc": "2026-03-15T16:53:37.384206+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 15 2026 15:12:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 16:04:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Sunday",
-        "Selection Sunday",
+        "Casemiro",
         "Sesko",
-        "Dalot",
+        "Selection Sunday",
+        "Bruno Fernandes",
         "Oscars",
-        "Muhammad Qasim",
-        "Beware the Ides of March",
-        "#SundayVibes",
-        "Sunday Funday",
-        "Mother's Day",
-        "#fishtanklive"
+        "#MUFC",
+        "Cunha",
+        "Good Sunday",
+        "Amad",
+        "Dalot",
+        "Tucker Carlson"
       ],
       "hashtags": [
-        "#SundayVibes",
-        "#fishtanklive",
-        "#SeductiveSunday",
         "#MUFC",
-        "#lufc"
+        "#MUNAVL",
+        "#fishtanklive",
+        "#SundayVibes",
+        "#Firefly"
       ],
       "regular_topics": [
-        "Good Sunday",
-        "Selection Sunday",
+        "Casemiro",
         "Sesko",
-        "Dalot",
+        "Selection Sunday",
+        "Bruno Fernandes",
         "Oscars",
-        "Muhammad Qasim",
-        "Beware the Ides of March",
-        "Sunday Funday",
-        "Mother's Day",
+        "Cunha",
+        "Good Sunday",
         "Amad",
-        "Blessed Sunday"
+        "Dalot",
+        "Tucker Carlson",
+        "Cancelo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,78 +82,78 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 15 2026 15:32:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 16:24:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Casemiro",
-        "Dalot",
         "Sesko",
-        "#MUFC",
-        "#KingRezaPahlavi\u200cForIran",
+        "Casemiro",
+        "Bruno Fernandes",
         "Amad",
-        "Don Cherry",
-        "Max Dowman",
-        "#UFCVegas114",
-        "Order of Canada",
-        "Cunha"
+        "Cunha",
+        "#MUFC",
+        "Carrick",
+        "#MUNAVL",
+        "Ugarte",
+        "#KingRezaPahlavi\u200cForIran",
+        "Villa"
       ],
       "hashtags": [
         "#MUFC",
+        "#MUNAVL",
         "#KingRezaPahlavi\u200cForIran",
         "#UFCVegas114",
-        "#MUNAVL",
         "#ChineseGP"
       ],
       "regular_topics": [
-        "Casemiro",
-        "Dalot",
         "Sesko",
+        "Casemiro",
+        "Bruno Fernandes",
         "Amad",
-        "Don Cherry",
-        "Max Dowman",
-        "Order of Canada",
         "Cunha",
-        "Kimi",
-        "Gudas",
-        "Carrick"
+        "Carrick",
+        "Ugarte",
+        "Villa",
+        "Order of Canada",
+        "Don Cherry",
+        "Dalot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 15 2026 15:25:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 15 2026 16:18:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HimantaOnceAgain",
         "#TNwithTVK",
-        "#\u0905\u092e\u093f\u0924_\u0936\u093e\u0939_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#IndianCarnivalDay2",
+        "#HimantaOnceAgain",
+        "#TNtrustsAIADMK",
         "#VoteForDMK",
+        "#\u0905\u092e\u093f\u0924_\u0936\u093e\u0939_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
         "Assam",
-        "Casemiro",
-        "Nagpur",
+        "Jungkook",
         "Himanta Biswa Sarma",
-        "Zee Cinema",
-        "Zee TV & Zee5"
+        "Bruno Fernandes",
+        "Casemiro",
+        "Sesko"
       ],
       "hashtags": [
-        "#HimantaOnceAgain",
         "#TNwithTVK",
-        "#\u0905\u092e\u093f\u0924_\u0936\u093e\u0939_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#IndianCarnivalDay2",
-        "#VoteForDMK"
+        "#HimantaOnceAgain",
+        "#TNtrustsAIADMK",
+        "#VoteForDMK",
+        "#\u0905\u092e\u093f\u0924_\u0936\u093e\u0939_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913"
       ],
       "regular_topics": [
         "Assam",
-        "Casemiro",
-        "Nagpur",
+        "Jungkook",
         "Himanta Biswa Sarma",
-        "Zee Cinema",
-        "Zee TV & Zee5",
-        "JEON JUNGKOOK",
-        "SHUBMAN GILL OWNS COTY",
+        "Bruno Fernandes",
+        "Casemiro",
         "Sesko",
-        "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932",
-        "OGAS"
+        "Cunha",
+        "Cancelo",
+        "Bernal",
+        "Carrick",
+        "Manchester United"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
