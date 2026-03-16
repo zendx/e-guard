@@ -1,104 +1,102 @@
 {
-  "generated_at_utc": "2026-03-16T22:57:06.194115+00:00",
+  "generated_at_utc": "2026-03-16T23:25:24.291114+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 16 2026 21:40:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 22:32:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "DLSS 5",
         "Susie",
         "NATO",
-        "Jensen",
-        "Christian Kirk",
         "#HappyDonnieTwitterVersary",
-        "$NVDA",
-        "HIPAA",
-        "#SaveActIsPayToVote",
+        "Jensen",
+        "Huda",
+        "Johan Rojas",
         "Starfield",
-        "#JimRomeOnX"
+        "Christian Kirk",
+        "HIPAA",
+        "#SaveActIsPayToVote"
       ],
       "hashtags": [
         "#HappyDonnieTwitterVersary",
         "#SaveActIsPayToVote",
+        "#316Day",
         "#JimRomeOnX",
-        "#MajorWWE2K26",
-        "#316Day"
+        "#MajorWWE2K26"
       ],
       "regular_topics": [
         "DLSS 5",
         "Susie",
         "NATO",
         "Jensen",
-        "Christian Kirk",
-        "$NVDA",
-        "HIPAA",
+        "Huda",
+        "Johan Rojas",
         "Starfield",
-        "Arirang",
-        "Bovino",
-        "Huda"
+        "Christian Kirk",
+        "HIPAA",
+        "$NVDA",
+        "Bovino"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 16 2026 21:10:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 22:01:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "NATO",
+        "#dcfc",
         "Brentford",
-        "DLSS 5",
+        "#Pompey",
         "#BREWOL",
         "#wwfc",
+        "DLSS 5",
+        "NATO",
         "Nvidia",
+        "Angel Gomes",
         "Armstrong",
-        "#universitychallenge",
-        "Kick",
-        "#mastermind",
-        "Thiago"
+        "#universitychallenge"
       ],
       "hashtags": [
+        "#dcfc",
+        "#Pompey",
         "#BREWOL",
         "#wwfc",
         "#universitychallenge",
         "#mastermind",
-        "#dcfcfans",
-        "#Wolves",
-        "#tippingpoint",
         "#DigitalBlackOutIran",
-        "#Hollyoaks",
         "#StPatricksDay"
       ],
       "regular_topics": [
-        "NATO",
         "Brentford",
         "DLSS 5",
+        "NATO",
         "Nvidia",
+        "Angel Gomes",
         "Armstrong",
+        "Kabul",
+        "Tolu",
         "Kick",
         "Thiago",
-        "Kabul",
-        "Alli",
-        "Kayode",
-        "Dango"
+        "Kayode"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 16 2026 21:06:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 21:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Oscars",
         "NATO",
         "Sinners",
         "DLSS 5",
-        "#AEWRevolution",
         "Montreal",
+        "#AEWRevolution",
         "Nvidia",
         "#KingRezaPahlavi\u200cForIran",
-        "Welcome to Canada",
         "Sean Penn",
+        "Bienvenue",
         "Michael B Jordan"
       ],
       "hashtags": [
@@ -114,19 +112,19 @@
         "DLSS 5",
         "Montreal",
         "Nvidia",
-        "Welcome to Canada",
         "Sean Penn",
-        "Michael B Jordan",
         "Bienvenue",
+        "Michael B Jordan",
         "OBAA",
-        "Javier Bardem"
+        "Javier Bardem",
+        "Welcome to Canada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 16 2026 21:52:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 22:44:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Kalyug_Mein_Satyug_Part5",
         "#Oscars",
@@ -134,11 +132,11 @@
         "#ArshdeepSinghxWaseemKhan",
         "#VoteForDMK",
         "Factful Debates YTChannel",
-        "Kabul",
         "Nita Mukesh Ambani",
+        "Kabul",
         "\u091c\u0928\u0930\u0932 \u092c\u093f\u092a\u093f\u0928 \u0930\u093e\u0935\u0924",
-        "Arirang",
-        "Priyanka Chopra"
+        "Priyanka Chopra",
+        "Arirang"
       ],
       "hashtags": [
         "#Kalyug_Mein_Satyug_Part5",
@@ -149,13 +147,13 @@
       ],
       "regular_topics": [
         "Factful Debates YTChannel",
-        "Kabul",
         "Nita Mukesh Ambani",
+        "Kabul",
         "\u091c\u0928\u0930\u0932 \u092c\u093f\u092a\u093f\u0928 \u0930\u093e\u0935\u0924",
-        "Arirang",
         "Priyanka Chopra",
-        "DLSS 5",
+        "Arirang",
         "USCIRF",
+        "DLSS 5",
         "NATO",
         "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
         "Javier Bardem"
