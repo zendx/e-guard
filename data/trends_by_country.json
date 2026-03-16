@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T21:58:26.976971+00:00",
+  "generated_at_utc": "2026-03-16T22:29:28.456133+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,58 +43,61 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 16 2026 20:19:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 22:01:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Oscars",
-        "NATO",
-        "Trump",
-        "Slot",
+        "#dcfc",
+        "Brentford",
+        "#Pompey",
+        "#BREWOL",
+        "#wwfc",
         "DLSS 5",
-        "Sinners",
-        "Tice",
-        "#AEWRevolution",
-        "Mother's Day",
-        "Kick",
-        "Rayner"
+        "NATO",
+        "Nvidia",
+        "Angel Gomes",
+        "Armstrong",
+        "#universitychallenge"
       ],
       "hashtags": [
-        "#Oscars",
-        "#AEWRevolution",
-        "#Livtot",
-        "#EastEnders",
-        "#mastermind"
+        "#dcfc",
+        "#Pompey",
+        "#BREWOL",
+        "#wwfc",
+        "#universitychallenge",
+        "#mastermind",
+        "#DigitalBlackOutIran",
+        "#StPatricksDay"
       ],
       "regular_topics": [
-        "NATO",
-        "Trump",
-        "Slot",
+        "Brentford",
         "DLSS 5",
-        "Sinners",
-        "Tice",
-        "Mother's Day",
+        "NATO",
+        "Nvidia",
+        "Angel Gomes",
+        "Armstrong",
+        "Kabul",
+        "Tolu",
         "Kick",
-        "Rayner",
-        "Arsenal",
-        "Liverpool"
+        "Thiago",
+        "Kayode"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 16 2026 20:15:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 21:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Oscars",
         "NATO",
         "Sinners",
-        "#AEWRevolution",
         "DLSS 5",
+        "Montreal",
+        "#AEWRevolution",
+        "Nvidia",
         "#KingRezaPahlavi\u200cForIran",
         "Sean Penn",
-        "Michael B Jordan",
         "Bienvenue",
-        "Montreal",
-        "Nvidia"
+        "Michael B Jordan"
       ],
       "hashtags": [
         "#Oscars",
@@ -107,53 +110,59 @@
         "NATO",
         "Sinners",
         "DLSS 5",
-        "Sean Penn",
-        "Michael B Jordan",
-        "Bienvenue",
         "Montreal",
         "Nvidia",
-        "Welcome to Canada",
+        "Sean Penn",
+        "Bienvenue",
+        "Michael B Jordan",
         "OBAA",
-        "Javier Bardem"
+        "Javier Bardem",
+        "Welcome to Canada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 16 2026 20:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 16 2026 21:00:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kabul",
-        "ARIRANG",
+        "Arirang",
         "DLSS 5",
         "Nahariya",
-        "DIGVIJAY WON RESPECT IN THE 50",
-        "Myanmar",
         "Neymar",
+        "Nvidia",
+        "Myanmar",
+        "DIGVIJAY",
         "#GodNightMonday",
-        "#UstaadBhagatSingh",
-        "Nizam",
-        "#GirlRulesSeriesEP2"
+        "#GirlRulesSeriesEP2",
+        "Baghdad"
       ],
       "hashtags": [
         "#GodNightMonday",
-        "#UstaadBhagatSingh",
         "#GirlRulesSeriesEP2",
+        "#Cwallet",
         "#AppuLivesOn",
-        "#HappyRaj"
+        "#SaveParamilitary_SaveIndia",
+        "#LET_HEESEUNG_DO_BOTH",
+        "#HappyRaj",
+        "#\u0662\u0666\u0631\u0645\u0636\u0627\u0646",
+        "#NoraFatehi",
+        "#RESPECT_ENHYPEN",
+        "#GVPrakash"
       ],
       "regular_topics": [
         "Kabul",
-        "ARIRANG",
+        "Arirang",
         "DLSS 5",
         "Nahariya",
-        "DIGVIJAY WON RESPECT IN THE 50",
-        "Myanmar",
         "Neymar",
+        "Nvidia",
+        "Myanmar",
+        "DIGVIJAY",
+        "Baghdad",
         "Nizam",
-        "\u0936\u094d\u0930\u0940 \u0928\u093f\u0924\u093f\u0928",
-        "Rajya Sabha",
-        "\u0909\u091a\u094d\u091a \u0938\u0926\u0928"
+        "\u0936\u094d\u0930\u0940 \u0928\u093f\u0924\u093f\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
