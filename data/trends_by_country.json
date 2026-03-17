@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-03-17T16:52:41.036232+00:00",
+  "generated_at_utc": "2026-03-17T17:55:19.896776+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 17 2026 16:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 17:49:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "St. Patrick",
         "Joe Kent",
         "Waddle",
         "Dolphins",
         "Broncos",
-        "Malik Willis",
         "Achane",
-        "St. Paddy",
-        "Bo Nix",
+        "Malik Willis",
+        "Dune",
         "Ireland",
-        "#BTS_SWIM"
+        "NATO",
+        "St. Paddy"
       ],
       "hashtags": [
+        "#SB19xLollapalooza",
         "#BTS_SWIM",
         "#ImTheLuckyOne",
         "#LuckOfTheIrish",
-        "#SaveActTaxesVoting",
-        "#DelcyEsEsperanza"
+        "#PhinsUp"
       ],
       "regular_topics": [
         "St. Patrick",
@@ -31,77 +31,76 @@
         "Waddle",
         "Dolphins",
         "Broncos",
-        "Malik Willis",
         "Achane",
-        "St. Paddy",
-        "Bo Nix",
+        "Malik Willis",
+        "Dune",
         "Ireland",
-        "Roots Picnic"
+        "NATO",
+        "St. Paddy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 17 2026 16:21:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 17:16:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "St Patrick",
         "Joe Kent",
         "Butter",
-        "#BTS_SWIM",
         "Guinness",
+        "Dune",
+        "#BTS_SWIM",
         "Heinz",
         "Worcestershire",
+        "Denis",
         "Grated",
-        "John Simpson",
-        "Larijani",
-        "Paddy"
+        "St Paddy"
       ],
       "hashtags": [
         "#BTS_SWIM",
         "#Starfield",
         "#BTS_ARIRANG",
         "#SpiderManBrandNewDay",
-        "#politicslive",
         "#Ireland",
-        "#thicktrunktuesday"
+        "#NATO"
       ],
       "regular_topics": [
         "St Patrick",
         "Joe Kent",
         "Butter",
         "Guinness",
+        "Dune",
         "Heinz",
         "Worcestershire",
+        "Denis",
         "Grated",
-        "John Simpson",
-        "Larijani",
-        "Paddy",
-        "Trafalgar Square"
+        "St Paddy",
+        "Spider-Man"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 17 2026 16:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 17:12:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "St. Patrick",
         "NATO",
         "Joe Kent",
-        "Waddle",
-        "St. Paddy",
-        "Oscars",
-        "Cuba",
         "#SB19xLollapalooza",
-        "#WWERaw",
+        "Cuba",
+        "Waddle",
+        "Oscars",
         "DLSS 5",
-        "#KingRezaPahlavi\u200cForIran"
+        "St. Paddy",
+        "#KingRezaPahlavi\u200cForIran",
+        "#WWERaw"
       ],
       "hashtags": [
         "#SB19xLollapalooza",
-        "#WWERaw",
         "#KingRezaPahlavi\u200cForIran",
+        "#WWERaw",
         "#BTS_SWIM",
         "#AEWRevolution"
       ],
@@ -109,13 +108,13 @@
         "St. Patrick",
         "NATO",
         "Joe Kent",
-        "Waddle",
-        "St. Paddy",
-        "Oscars",
         "Cuba",
+        "Waddle",
+        "Oscars",
         "DLSS 5",
+        "St. Paddy",
         "Explore Concrete",
-        "Malik Willis",
+        "Dune",
         "Dolphins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -123,42 +122,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 17 2026 16:08:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 17:04:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HappyRajTrailer",
         "#BTS_SWIM",
-        "#BTS_ARIRANG",
-        "Joe Kent",
-        "#GodNightTuesday",
         "#\u092e\u094b\u0926\u0940\u091c\u0940_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#BTSComeback2026",
-        "BTS IS COMING",
+        "#BTS_ARIRANG",
+        "#GodNightTuesday",
+        "Joe Kent",
+        "\u0915\u0941\u0932\u0926\u0940\u092a \u092f\u093e\u0926\u0935",
+        "NATO",
         "Ganga",
-        "Teaser 1",
-        "Ali Larijani",
+        "BTS IS COMING",
         "St. Patrick"
       ],
       "hashtags": [
+        "#HappyRajTrailer",
         "#BTS_SWIM",
-        "#BTS_ARIRANG",
-        "#GodNightTuesday",
         "#\u092e\u094b\u0926\u0940\u091c\u0940_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#BTSComeback2026",
-        "#POCOX8ProSeries",
-        "#\u0905\u0902\u092c\u093e\u0928\u0940_\u090a\u0930\u094d\u091c\u093e_\u0938\u093e\u091d\u0947\u0926\u093e\u0930\u0940",
-        "#HappyRaj"
+        "#BTS_ARIRANG",
+        "#GodNightTuesday"
       ],
       "regular_topics": [
         "Joe Kent",
-        "BTS IS COMING",
+        "\u0915\u0941\u0932\u0926\u0940\u092a \u092f\u093e\u0926\u0935",
+        "NATO",
         "Ganga",
-        "Teaser 1",
-        "Ali Larijani",
+        "BTS IS COMING",
         "St. Patrick",
+        "Teaser 1",
         "Joseph Kent",
         "\u0930\u093e\u091c\u0940\u0935 \u0936\u0941\u0915\u094d\u0932\u093e",
-        "Mughals",
         "CBFC",
-        "Peter Parker"
+        "Part Three"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
