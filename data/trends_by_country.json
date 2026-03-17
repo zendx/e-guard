@@ -1,127 +1,129 @@
 {
-  "generated_at_utc": "2026-03-16T23:48:17.374140+00:00",
+  "generated_at_utc": "2026-03-17T01:01:34.827029+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 16 2026 22:32:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 00:18:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
+        "Brock",
         "DLSS 5",
+        "Cuba",
+        "PRESALE IS NOW OPEN",
+        "PRESALE HAS NOW LAUNCHED",
+        "Paul Heyman",
         "Susie",
         "NATO",
-        "#HappyDonnieTwitterVersary",
-        "Jensen",
-        "Huda",
-        "Johan Rojas",
-        "Starfield",
-        "Christian Kirk",
-        "HIPAA",
-        "#SaveActIsPayToVote"
+        "Twins",
+        "Dune"
       ],
       "hashtags": [
-        "#HappyDonnieTwitterVersary",
-        "#SaveActIsPayToVote",
-        "#316Day",
-        "#JimRomeOnX",
-        "#MajorWWE2K26"
+        "#WWERaw",
+        "#RawOnNetflix",
+        "#ShootingStar",
+        "#AmericanIdol",
+        "#JeopardyBlindGuess"
       ],
       "regular_topics": [
+        "Brock",
         "DLSS 5",
+        "Cuba",
+        "PRESALE IS NOW OPEN",
+        "PRESALE HAS NOW LAUNCHED",
+        "Paul Heyman",
         "Susie",
         "NATO",
-        "Jensen",
-        "Huda",
-        "Johan Rojas",
-        "Starfield",
-        "Christian Kirk",
-        "HIPAA",
-        "$NVDA",
-        "Bovino"
+        "Twins",
+        "Dune",
+        "The Ruler"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 16 2026 22:56:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 00:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
+        "Brock",
+        "Oba Femi",
+        "Seth",
+        "DLSS 5",
         "#Pompey",
         "#dcfc",
-        "DLSS 5",
-        "#wwfc",
-        "Brentford",
-        "#BREWOL",
-        "NATO",
-        "Nvidia",
+        "Kabul",
         "Cuba",
-        "Tolu",
-        "Angel Gomes"
+        "NATO",
+        "#wwfc"
       ],
       "hashtags": [
+        "#WWERaw",
         "#Pompey",
         "#dcfc",
         "#wwfc",
         "#BREWOL",
-        "#UniversityChallenge"
+        "#Newsnight",
+        "#universitychallenge"
       ],
       "regular_topics": [
+        "Brock",
+        "Oba Femi",
+        "Seth",
         "DLSS 5",
-        "Brentford",
+        "Kabul",
+        "Cuba",
         "NATO",
         "Nvidia",
-        "Cuba",
-        "Tolu",
-        "Angel Gomes",
-        "Kabul",
-        "Matt Clarke",
-        "Armstrong",
-        "Alli"
+        "Wolves",
+        "Brentford",
+        "Tolu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 16 2026 22:51:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 00:36:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Oscars",
+        "#WWERaw",
         "NATO",
+        "#Oscars",
+        "Brock",
+        "Oba Femi",
         "Sinners",
-        "Montreal",
+        "Cuba",
         "DLSS 5",
-        "#AEWRevolution",
         "#KingRezaPahlavi\u200cForIran",
         "Nvidia",
-        "Cuba",
-        "Sean Penn",
-        "Michael B Jordan"
+        "Montreal"
       ],
       "hashtags": [
+        "#WWERaw",
         "#Oscars",
-        "#AEWRevolution",
         "#KingRezaPahlavi\u200cForIran",
-        "#DigitalBlackOutIran",
-        "#WBCBaseball"
+        "#AEWRevolution",
+        "#DigitalBlackOutIran"
       ],
       "regular_topics": [
         "NATO",
+        "Brock",
+        "Oba Femi",
         "Sinners",
-        "Montreal",
+        "Cuba",
         "DLSS 5",
         "Nvidia",
-        "Cuba",
-        "Sean Penn",
-        "Michael B Jordan",
-        "OBAA",
-        "Javier Bardem",
-        "One Battle After Another"
+        "Montreal",
+        "Seth",
+        "Paul Heyman",
+        "Sean Penn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 16 2026 23:36:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 00:28:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Kalyug_Mein_Satyug_Part5",
         "#Oscars",
@@ -129,11 +131,11 @@
         "#ArshdeepSinghxWaseemKhan",
         "#VoteForDMK",
         "Factful Debates YTChannel",
-        "Nita Mukesh Ambani",
         "Kabul",
+        "nita mukesh ambani",
         "\u091c\u0928\u0930\u0932 \u092c\u093f\u092a\u093f\u0928 \u0930\u093e\u0935\u0924",
         "Priyanka Chopra",
-        "Arirang"
+        "Oba Femi"
       ],
       "hashtags": [
         "#Kalyug_Mein_Satyug_Part5",
@@ -144,53 +146,53 @@
       ],
       "regular_topics": [
         "Factful Debates YTChannel",
-        "Nita Mukesh Ambani",
         "Kabul",
+        "nita mukesh ambani",
         "\u091c\u0928\u0930\u0932 \u092c\u093f\u092a\u093f\u0928 \u0930\u093e\u0935\u0924",
         "Priyanka Chopra",
-        "Arirang",
+        "Oba Femi",
         "USCIRF",
         "NATO",
+        "Arirang",
         "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
-        "Javier Bardem",
-        "DLSS 5"
+        "Javier Bardem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 16 2026 23:32:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 00:24:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Maiduguri",
         "Bruno Fernandes",
         "#Oscars",
         "Rice",
-        "Neymar",
         "Crayon",
         "Gabriel",
         "Love God",
         "Happy New Week",
         "Michael B. Jordan",
+        "Neymar",
         "Sinners"
       ],
       "hashtags": [
         "#Oscars",
         "#MondayMotivation",
         "#OpayXtraCova",
-        "#GIGMStudentDiscount",
+        "#gigmstudentdiscount",
         "#smilesdotcomdentalclinic"
       ],
       "regular_topics": [
         "Maiduguri",
         "Bruno Fernandes",
         "Rice",
-        "Neymar",
         "Crayon",
         "Gabriel",
         "Love God",
         "Happy New Week",
         "Michael B. Jordan",
+        "Neymar",
         "Sinners",
         "POTY"
       ],
