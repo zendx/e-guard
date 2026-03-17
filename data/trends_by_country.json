@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-03-17T18:43:18.016981+00:00",
+  "generated_at_utc": "2026-03-17T19:46:15.702685+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 17 2026 17:49:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 19:36:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "St. Patrick",
         "Joe Kent",
         "Waddle",
-        "Dolphins",
-        "Broncos",
-        "Achane",
-        "Malik Willis",
         "Dune",
+        "Dolphins",
+        "Achane",
+        "Broncos",
         "Ireland",
+        "Sporting",
         "NATO",
-        "St. Paddy"
+        "Malik Willis"
       ],
       "hashtags": [
+        "#StPatsDay",
         "#SB19xLollapalooza",
-        "#BTS_SWIM",
-        "#ImTheLuckyOne",
-        "#LuckOfTheIrish",
-        "#PhinsUp"
+        "#DelcyEsEsperanza",
+        "#Copper",
+        "#BTS_SWIM"
       ],
       "regular_topics": [
         "St. Patrick",
         "Joe Kent",
         "Waddle",
-        "Dolphins",
-        "Broncos",
-        "Achane",
-        "Malik Willis",
         "Dune",
+        "Dolphins",
+        "Achane",
+        "Broncos",
         "Ireland",
+        "Sporting",
         "NATO",
-        "St. Paddy"
+        "Malik Willis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 17 2026 18:08:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 19:04:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#thechase",
         "St Patrick",
         "Joe Kent",
-        "Guinness",
+        "#thechase",
+        "Dermo",
         "Dune",
+        "Guinness",
         "Irish PM",
-        "Butter",
-        "#UCLFantasy",
+        "Sporting",
         "Ireland",
-        "Trafalgar Square",
-        "Waddle"
+        "Olive",
+        "Trafalgar Square"
       ],
       "hashtags": [
         "#thechase",
         "#UCLFantasy",
         "#BTS_SWIM",
-        "#Starfield",
-        "#SpiderManBrandNewDay"
+        "#CHEPSG",
+        "#aplaceinthesun"
       ],
       "regular_topics": [
         "St Patrick",
         "Joe Kent",
-        "Guinness",
+        "Dermo",
         "Dune",
+        "Guinness",
         "Irish PM",
-        "Butter",
+        "Sporting",
         "Ireland",
+        "Olive",
         "Trafalgar Square",
-        "Waddle",
-        "Denis",
-        "Sporting"
+        "Butter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 17 2026 18:04:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 19:00:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "St. Patrick",
         "NATO",
         "Joe Kent",
         "Cuba",
         "DLSS 5",
-        "Oscars",
         "St. Paddy",
-        "#SB19xLollapalooza",
+        "Oscars",
+        "Dune",
         "#KingRezaPahlavi\u200cForIran",
-        "Waddle",
-        "Dune"
+        "Leon Draisaitl",
+        "Explore Concrete"
       ],
       "hashtags": [
-        "#SB19xLollapalooza",
         "#KingRezaPahlavi\u200cForIran",
         "#WWERaw",
-        "#AEWRevolution",
-        "#BTS_SWIM"
+        "#SB19xLollapalooza",
+        "#BTS_SWIM",
+        "#LET_HEESEUNG_DO_BOTH"
       ],
       "regular_topics": [
         "St. Patrick",
@@ -109,90 +109,90 @@
         "Joe Kent",
         "Cuba",
         "DLSS 5",
-        "Oscars",
         "St. Paddy",
-        "Waddle",
+        "Oscars",
         "Dune",
+        "Leon Draisaitl",
         "Explore Concrete",
-        "Nvidia"
+        "Waddle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 17 2026 17:57:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 18:54:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HappyRajTrailer",
         "#BTS_SWIM",
         "\u0915\u0941\u0932\u0926\u0940\u092a \u092f\u093e\u0926\u0935",
-        "#GodNightTuesday",
+        "#DhurandharTheRevenge",
         "#\u092e\u094b\u0926\u0940\u091c\u0940_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#BTS_ARIRANG",
         "NATO",
+        "#GodNightTuesday",
         "Joe Kent",
-        "Dune 3",
-        "Ganga",
-        "Zayed Al Nahyan"
+        "Dune",
+        "V I NEED YOUR HELP",
+        "Sporting"
       ],
       "hashtags": [
         "#HappyRajTrailer",
         "#BTS_SWIM",
-        "#GodNightTuesday",
+        "#DhurandharTheRevenge",
         "#\u092e\u094b\u0926\u0940\u091c\u0940_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#BTS_ARIRANG"
+        "#GodNightTuesday"
       ],
       "regular_topics": [
         "\u0915\u0941\u0932\u0926\u0940\u092a \u092f\u093e\u0926\u0935",
         "NATO",
         "Joe Kent",
-        "Dune 3",
+        "Dune",
+        "V I NEED YOUR HELP",
+        "Sporting",
         "Ganga",
-        "Zayed Al Nahyan",
-        "Brand New Day",
-        "St. Patrick",
-        "Denis Villeneuve",
         "\u0930\u093e\u091c\u0940\u0935 \u0936\u0941\u0915\u094d\u0932\u093e",
-        "CBFC"
+        "Zayed Al Nahyan",
+        "St. Patrick",
+        "Denis Villeneuve"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 17 2026 17:56:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 17 2026 18:51:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Friday and Monday",
         "Thursday and Friday",
-        "St Patrick",
         "#NLPVSNSPPD",
-        "#GloTuesdayFiesta",
+        "Sporting",
+        "Bodo",
+        "St Patrick",
         "NATO",
-        "Dune",
-        "Joe Kent",
-        "#XtraCovaByOPay",
         "#GoGlobalWithPlatnova",
-        "Eid-ul-Fitr"
+        "Dune",
+        "#BetInfluencer",
+        "Joe Kent"
       ],
       "hashtags": [
         "#NLPVSNSPPD",
-        "#GloTuesdayFiesta",
-        "#XtraCovaByOPay",
         "#GoGlobalWithPlatnova",
-        "#qsmp2"
+        "#BetInfluencer",
+        "#qsmp2",
+        "#GloTuesdayFiesta"
       ],
       "regular_topics": [
         "Friday and Monday",
         "Thursday and Friday",
+        "Sporting",
+        "Bodo",
         "St Patrick",
         "NATO",
         "Dune",
         "Joe Kent",
-        "Eid-ul-Fitr",
-        "The Federal Government",
-        "$WEN",
-        "Pvssy",
-        "Sporting"
+        "DR Congo",
+        "Eid-el-Fitr",
+        "Ogun"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
