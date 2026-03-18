@@ -1,77 +1,77 @@
 {
-  "generated_at_utc": "2026-03-18T17:51:25.194264+00:00",
+  "generated_at_utc": "2026-03-18T18:40:46.975138+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 18 2026 16:33:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 17:27:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rand Paul",
         "Mullin",
-        "WNBA",
         "Cesar Chavez",
+        "WNBA",
         "Dolores Huerta",
-        "Jones Act",
-        "The Hand",
-        "#BTS_SWIM",
+        "#FundDHSFreezeICE",
         "FOMC",
-        "Mikel Brown",
-        "Peter Parker"
+        "Jones Act",
+        "Afroman",
+        "The Hand",
+        "Gerrit Cole"
       ],
       "hashtags": [
+        "#FundDHSFreezeICE",
         "#BTS_SWIM",
+        "#SoyFanDe",
         "#BTSonFallon",
-        "#SAKURACelebramus",
-        "#\uc628\uc138\uc0c1\uc5d0_\uc0ac\ucfe0\ub77c_\ud53c\uc5b4\ub098",
-        "#WednesdayMotivation"
+        "#SAKURACelebramus"
       ],
       "regular_topics": [
         "Rand Paul",
         "Mullin",
-        "WNBA",
         "Cesar Chavez",
+        "WNBA",
         "Dolores Huerta",
-        "Jones Act",
-        "The Hand",
         "FOMC",
-        "Mikel Brown",
-        "Peter Parker",
-        "South Pars"
+        "Jones Act",
+        "Afroman",
+        "The Hand",
+        "Gerrit Cole",
+        "Peter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 18 2026 16:54:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 17:48:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "St Patrick",
-        "AFCON",
-        "Senegal",
-        "Morocco",
         "Danny",
-        "PMQs",
+        "Senegal",
+        "AFCON",
+        "St Patrick",
+        "Morocco",
         "NATO",
+        "PMQs",
         "Trafalgar Square",
         "Kent",
         "Chelsea",
         "Nick Timothy"
       ],
       "hashtags": [
+        "#TheChase",
         "#rufc",
         "#MCIRMA",
-        "#ARSLEV",
-        "#CHEPSG",
-        "#politicslive"
+        "#arslev",
+        "#NUFC"
       ],
       "regular_topics": [
-        "St Patrick",
-        "AFCON",
-        "Senegal",
-        "Morocco",
         "Danny",
-        "PMQs",
+        "Senegal",
+        "AFCON",
+        "St Patrick",
+        "Morocco",
         "NATO",
+        "PMQs",
         "Trafalgar Square",
         "Kent",
         "Chelsea",
@@ -121,39 +121,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 18 2026 16:44:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 17:36:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Dhurandhar2",
         "#Karuppu",
         "#XDown",
-        "#winGalaxyM17e",
-        "#BTS_SWIM",
-        "South Pars",
         "Aditya Dhar",
-        "Baakhabar Sant Rampal Ji",
-        "I JUST WANNA DIVE",
-        "\u0936\u094d\u092f\u093e\u092e \u092e\u0940\u0930\u093e \u0938\u093f\u0902\u0939",
-        "Jimmy Fallon"
+        "Riyadh",
+        "South Pars",
+        "#ChandDekhLena",
+        "#winGalaxyM17e",
+        "Ranveer Singh",
+        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
+        "Baakhabar Sant Rampal Ji"
       ],
       "hashtags": [
         "#Dhurandhar2",
         "#Karuppu",
         "#XDown",
-        "#winGalaxyM17e",
-        "#BTS_SWIM"
+        "#ChandDekhLena",
+        "#winGalaxyM17e"
       ],
       "regular_topics": [
-        "South Pars",
         "Aditya Dhar",
+        "Riyadh",
+        "South Pars",
+        "Ranveer Singh",
+        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
         "Baakhabar Sant Rampal Ji",
         "I JUST WANNA DIVE",
+        "Tulsi Gabbard",
         "\u0936\u094d\u092f\u093e\u092e \u092e\u0940\u0930\u093e \u0938\u093f\u0902\u0939",
         "Jimmy Fallon",
-        "B. Knox Vault",
-        "A. All in One Monster",
-        "IFFD 2026",
-        "A. 12 5G",
-        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e"
+        "B. Knox Vault"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
