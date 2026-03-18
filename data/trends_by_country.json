@@ -1,132 +1,133 @@
 {
-  "generated_at_utc": "2026-03-18T21:54:21.968887+00:00",
+  "generated_at_utc": "2026-03-18T22:20:53.379669+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 18 2026 20:56:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 21:49:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rand Paul",
         "Newcastle",
-        "Mullin",
         "Cesar Chavez",
+        "Mullin",
+        "Liverpool",
+        "Mo Salah",
         "Powell",
-        "Tanner McKee",
-        "Andy Dalton",
-        "Barcelona",
         "Dolores Huerta",
-        "Lamine",
-        "Tyrese"
+        "Tyrese",
+        "McKee",
+        "Metaverse"
       ],
       "hashtags": [
-        "#LIVGAL"
+        "#LIVGAL",
+        "#YNWA"
       ],
       "regular_topics": [
         "Rand Paul",
         "Newcastle",
-        "Mullin",
         "Cesar Chavez",
+        "Mullin",
+        "Liverpool",
+        "Mo Salah",
         "Powell",
-        "Tanner McKee",
-        "Andy Dalton",
-        "Barcelona",
         "Dolores Huerta",
-        "Lamine",
-        "Tyrese"
+        "Tyrese",
+        "McKee",
+        "Metaverse"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 18 2026 20:28:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 21:20:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Newcastle",
-        "#NUFC",
         "Danny",
-        "Trippier",
-        "#BARNEW",
-        "Howe",
+        "#NUFC",
         "#LIVGAL",
-        "Elanga",
-        "Yamal",
-        "Camp Nou",
-        "Lewandowski"
+        "Archie Gray",
+        "Trippier",
+        "Howe",
+        "Mo Salah",
+        "#BARNEW",
+        "Galatasaray",
+        "Szoboszlai"
       ],
       "hashtags": [
         "#NUFC",
-        "#BARNEW",
         "#LIVGAL",
-        "#ChampionsLeague",
-        "#FCBNEW"
+        "#BARNEW",
+        "#TOTATM",
+        "#MAFSAU"
       ],
       "regular_topics": [
         "Newcastle",
         "Danny",
+        "Archie Gray",
         "Trippier",
         "Howe",
-        "Elanga",
-        "Yamal",
-        "Camp Nou",
-        "Lewandowski",
+        "Mo Salah",
+        "Galatasaray",
+        "Szoboszlai",
         "Osimhen",
-        "Dan Burn",
-        "Ramsdale"
+        "Yamal",
+        "Elanga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Mar 18 2026 20:21:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 22:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Newcastle",
         "St. Patrick",
-        "Barca",
         "Venezuela",
-        "Barcelona",
         "NATO",
+        "HHOF",
+        "Newcastle",
+        "Liverpool",
         "Senegal",
-        "Joe Kent",
         "Morocco",
-        "Trippier",
-        "Maroc"
+        "Spider-Man",
+        "Jack Hughes",
+        "Joe Kent"
       ],
       "hashtags": [
-        "#BARNEW",
+        "#LIVGAL",
         "#BTS_SWIM"
       ],
       "regular_topics": [
-        "Newcastle",
         "St. Patrick",
-        "Barca",
         "Venezuela",
-        "Barcelona",
         "NATO",
+        "HHOF",
+        "Newcastle",
+        "Liverpool",
         "Senegal",
-        "Joe Kent",
         "Morocco",
-        "Trippier",
-        "Maroc"
+        "Spider-Man",
+        "Jack Hughes",
+        "Joe Kent"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 18 2026 21:06:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 21:58:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Dhurandhar2",
         "Newcastle",
-        "Lamine",
-        "Lewandowski",
-        "Riyadh",
-        "Barcelona",
         "#Askfarhana",
+        "Qatar",
         "#BlockBusterUBS",
-        "Araujo",
-        "Fermin",
-        "Camp Nou"
+        "Riyadh",
+        "Lamine",
+        "Barcelona",
+        "Lewandowski",
+        "#LIVGAL",
+        "Araujo"
       ],
       "hashtags": [
         "#Dhurandhar2",
@@ -137,55 +138,55 @@
       ],
       "regular_topics": [
         "Newcastle",
-        "Lamine",
-        "Lewandowski",
+        "Qatar",
         "Riyadh",
+        "Lamine",
         "Barcelona",
+        "Lewandowski",
         "Araujo",
-        "Fermin",
         "Camp Nou",
+        "Ranveer Singh",
         "Joan",
-        "YOUNG FILMISTAN WORST PR",
-        "Raphinha"
+        "Fermin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Mar 18 2026 20:09:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 21:56:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Newcastle",
-        "Lewandowski",
+        "Galatasaray",
+        "Mo Salah",
+        "Osimhen",
+        "#LIVGAL",
         "Camp Nou",
-        "#BARNEW",
-        "Elanga",
-        "Yamal",
-        "Araujo",
-        "#UCLNight",
-        "Raphinha",
-        "Trippier",
-        "Joan Garcia"
+        "Lewandowski",
+        "Anfield",
+        "Bayern",
+        "Ekitike",
+        "Atletico"
       ],
       "hashtags": [
+        "#LIVGAL",
         "#BARNEW",
         "#UCLNight",
         "#FCBNEW",
-        "#M\u00e9xico",
-        "#ToPerle"
+        "#M\u00e9xico"
       ],
       "regular_topics": [
         "Newcastle",
-        "Lewandowski",
+        "Galatasaray",
+        "Mo Salah",
+        "Osimhen",
         "Camp Nou",
-        "Elanga",
-        "Yamal",
-        "Araujo",
-        "Raphinha",
-        "Trippier",
-        "Joan Garcia",
-        "Fermin",
-        "Lewy"
+        "Lewandowski",
+        "Anfield",
+        "Bayern",
+        "Ekitike",
+        "Atletico",
+        "Elanga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
