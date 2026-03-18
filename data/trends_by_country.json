@@ -1,40 +1,38 @@
 {
-  "generated_at_utc": "2026-03-18T21:00:26.094594+00:00",
+  "generated_at_utc": "2026-03-18T21:54:21.968887+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 18 2026 20:04:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 20:56:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Newcastle",
         "Rand Paul",
+        "Newcastle",
         "Mullin",
+        "Cesar Chavez",
         "Powell",
         "Tanner McKee",
-        "Barcelona",
-        "Lamine",
-        "Cesar Chavez",
         "Andy Dalton",
-        "Lewandowski",
-        "Dolores Huerta"
+        "Barcelona",
+        "Dolores Huerta",
+        "Lamine",
+        "Tyrese"
       ],
       "hashtags": [
-        "#BARNEW",
-        "#UstaadBhagatSingh",
-        "#FundDHSFreezeICE"
+        "#LIVGAL"
       ],
       "regular_topics": [
-        "Newcastle",
         "Rand Paul",
+        "Newcastle",
         "Mullin",
+        "Cesar Chavez",
         "Powell",
         "Tanner McKee",
-        "Barcelona",
-        "Lamine",
-        "Cesar Chavez",
         "Andy Dalton",
-        "Lewandowski",
-        "Dolores Huerta"
+        "Barcelona",
+        "Dolores Huerta",
+        "Lamine",
+        "Tyrese"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -116,7 +114,7 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 18 2026 20:15:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 18 2026 21:06:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Dhurandhar2",
         "Newcastle",
@@ -124,18 +122,18 @@
         "Lewandowski",
         "Riyadh",
         "Barcelona",
+        "#Askfarhana",
+        "#BlockBusterUBS",
         "Araujo",
         "Fermin",
-        "Camp Nou",
-        "#BlockBusterUBS",
-        "Joan"
+        "Camp Nou"
       ],
       "hashtags": [
         "#Dhurandhar2",
+        "#Askfarhana",
         "#BlockBusterUBS",
-        "#UstaadBhagatSingh",
-        "#BARNEW",
-        "#HappyUgadi"
+        "#LIVGAL",
+        "#UstaadBhagatSingh"
       ],
       "regular_topics": [
         "Newcastle",
@@ -148,7 +146,7 @@
         "Camp Nou",
         "Joan",
         "YOUNG FILMISTAN WORST PR",
-        "Trippier"
+        "Raphinha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
