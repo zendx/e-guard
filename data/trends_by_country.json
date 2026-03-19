@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-03-19T07:29:36.097115+00:00",
+  "generated_at_utc": "2026-03-19T08:02:04.267870+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 19 2026 06:33:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 07:27:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Luka",
         "#LakeShow",
-        "Miami",
+        "Miami Ohio",
         "Rockets",
         "#Survivor50",
         "Qatar",
@@ -27,54 +27,54 @@
       ],
       "regular_topics": [
         "Luka",
-        "Miami",
+        "Miami Ohio",
         "Rockets",
         "Qatar",
         "Nico Harrison",
         "Sengun",
-        "Otter",
         "Toluca",
+        "THE 25TH PERTH CHAPTER",
         "Zac Brown",
         "Tari Eason",
-        "Jabari"
+        "Otter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 19 2026 06:55:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 07:48:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Danny",
         "Newcastle",
+        "Toni",
         "Trippier",
         "Trafalgar Square",
         "#LIVGAL",
-        "Archie Gray",
         "Nick Timothy",
-        "Morocco",
+        "Archie Gray",
         "Senegal",
         "PMQs",
-        "AFCON"
+        "Morocco"
       ],
       "hashtags": [
         "#LIVGAL",
         "#BARNEW",
         "#NUFC",
-        "#ChampionsLeague",
-        "#TOTATM"
+        "#AdoorableThursday",
+        "#ChampionsLeague"
       ],
       "regular_topics": [
         "Danny",
         "Newcastle",
+        "Toni",
         "Trippier",
         "Trafalgar Square",
-        "Archie Gray",
         "Nick Timothy",
-        "Morocco",
+        "Archie Gray",
         "Senegal",
         "PMQs",
-        "AFCON",
+        "Morocco",
         "NATO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,83 +82,82 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 19 2026 06:51:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 07:44:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rogan",
-        "Luka",
         "HHOF",
         "#Survivor50",
+        "Luka",
         "Joe Kent",
-        "St. Patrick",
         "Jack Hughes",
         "Venezuela",
-        "#WeverseWithSB19",
-        "WEVERSE IN OUR ZONE",
-        "NATO"
+        "NATO",
+        "Spider-Man",
+        "#AEWDynamite",
+        "St. Patrick"
       ],
       "hashtags": [
         "#Survivor50",
-        "#WeverseWithSB19",
         "#AEWDynamite",
-        "#VWFC",
-        "#BTS_SWIM"
+        "#BTS_SWIM",
+        "#WeverseWithSB19",
+        "#LakeShow"
       ],
       "regular_topics": [
         "Rogan",
-        "Luka",
         "HHOF",
+        "Luka",
         "Joe Kent",
-        "St. Patrick",
         "Jack Hughes",
         "Venezuela",
-        "WEVERSE IN OUR ZONE",
         "NATO",
-        "Newcastle",
-        "Spider-Man"
+        "Spider-Man",
+        "St. Patrick",
+        "MAID",
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 19 2026 06:44:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 07:36:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MonsterM17e",
+        "#\u0928\u0935_\u0935\u0930\u094d\u0937_\u0928\u0908_\u0905\u092f\u094b\u0927\u094d\u092f\u093e",
         "#9YearsOfDharmaRaksha",
-        "Galaxy M17e 5G",
-        "#APJobCalender2026",
-        "#\u091a\u0948\u0924\u094d\u0930_\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f",
         "#TrustAIADMK4TN",
+        "#BharatElectricitySummit",
+        "#APJobCalender2026",
+        "Galaxy M17e 5G",
         "Ram Raksha Yantra",
+        "JUSTICE PREVAILED FOR ELVISH",
         "Sant Rampal Ji Kannada Satsang",
         "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932",
-        "Raj Musix Kannada",
         "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930"
       ],
       "hashtags": [
-        "#MonsterM17e",
+        "#\u0928\u0935_\u0935\u0930\u094d\u0937_\u0928\u0908_\u0905\u092f\u094b\u0927\u094d\u092f\u093e",
         "#9YearsOfDharmaRaksha",
-        "#APJobCalender2026",
-        "#\u091a\u0948\u0924\u094d\u0930_\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f",
         "#TrustAIADMK4TN",
         "#BharatElectricitySummit",
+        "#APJobCalender2026",
+        "#MonsterM17e",
+        "#\u091a\u0948\u0924\u094d\u0930_\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f",
         "#GudiPadwa",
-        "#UgadiSpecial2026",
-        "#Ugadi",
-        "#ChaitraNavratri"
+        "#Ugadi"
       ],
       "regular_topics": [
         "Galaxy M17e 5G",
         "Ram Raksha Yantra",
+        "JUSTICE PREVAILED FOR ELVISH",
         "Sant Rampal Ji Kannada Satsang",
         "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932",
-        "Raj Musix Kannada",
         "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930",
-        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
-        "New Year",
-        "HDFC Bank",
+        "Raj Musix Kannada",
+        "Ayodhya",
+        "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
-        "May Maa Durga"
+        "HDFC Bank"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
