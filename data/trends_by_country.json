@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-19T17:28:52.464712+00:00",
+  "generated_at_utc": "2026-03-19T18:07:50.244498+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,14 +43,14 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 19 2026 16:32:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 17:24:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Neymar",
         "Rooney",
         "Trafalgar Square",
-        "Danny",
         "Nick Timothy",
-        "Newcastle",
+        "Danny",
+        "Barca",
         "NATO",
         "Barcelona",
         "Archie Gray",
@@ -60,17 +60,17 @@
       "hashtags": [
         "#LIVGAL",
         "#BARNEW",
+        "#nffc",
         "#LET_ENHYPEN_CREATE",
-        "#PROTECT_OUR_SEVEN",
-        "#NUFC"
+        "#PROTECT_OUR_SEVEN"
       ],
       "regular_topics": [
         "Neymar",
         "Rooney",
         "Trafalgar Square",
-        "Danny",
         "Nick Timothy",
-        "Newcastle",
+        "Danny",
+        "Barca",
         "NATO",
         "Barcelona",
         "Archie Gray",
@@ -82,39 +82,39 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 19 2026 16:28:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 17:20:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Rogan",
-        "Veleno",
+        "Joe Rogan",
         "MAID",
         "Laine",
+        "Veleno",
         "Joe Kent",
         "HHOF",
         "Pierre",
-        "Buck",
         "Cade",
         "#Survivor50",
-        "Eid Mubarak"
+        "Pearl Harbor",
+        "Japanese PM"
       ],
       "hashtags": [
         "#Survivor50",
+        "#MarchMadness",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#AEWDynamite",
-        "#MarchMadness"
+        "#AEWDynamite"
       ],
       "regular_topics": [
-        "Rogan",
-        "Veleno",
+        "Joe Rogan",
         "MAID",
         "Laine",
+        "Veleno",
         "Joe Kent",
         "HHOF",
         "Pierre",
-        "Buck",
         "Cade",
-        "Eid Mubarak",
-        "NATO"
+        "Pearl Harbor",
+        "Japanese PM",
+        "Jack Hughes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
