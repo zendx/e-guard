@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-19T22:15:51.543127+00:00",
+  "generated_at_utc": "2026-03-19T22:52:12.647620+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 19 2026 21:30:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 22:27:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Duke",
         "Siena",
+        "Duke",
         "High Point",
+        "Wisconsin",
         "#MarchMadness",
         "Pearl Harbor",
-        "Cayden Boozer",
-        "Gerry McNamara",
-        "McNeese",
-        "Chase Johnston",
-        "The Bachelorette",
-        "Chuck Norris"
+        "Taylor Frankie Paul",
+        "Bernie",
+        "Chuck Norris",
+        "Bachelorette",
+        "Dakota"
       ],
       "hashtags": [
         "#MarchMadness",
-        "#PROTECT_OUR_SEVEN",
+        "#Chibi",
         "#LET_ENHYPEN_CREATE",
-        "#NCAA",
+        "#PROTECT_OUR_SEVEN",
         "#BeautyInBlack"
       ],
       "regular_topics": [
-        "Duke",
         "Siena",
+        "Duke",
         "High Point",
+        "Wisconsin",
         "Pearl Harbor",
-        "Cayden Boozer",
-        "Gerry McNamara",
-        "McNeese",
-        "Chase Johnston",
-        "The Bachelorette",
+        "Taylor Frankie Paul",
+        "Bernie",
         "Chuck Norris",
-        "Ohio State"
+        "Bachelorette",
+        "Dakota",
+        "Genghis Khan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
