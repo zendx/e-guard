@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-19T19:25:08.977070+00:00",
+  "generated_at_utc": "2026-03-19T19:57:26.265887+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 19 2026 18:00:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 18:51:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Pearl Harbor",
         "Ohio State",
+        "Pearl Harbor",
+        "Nebraska",
+        "#MarchMadness",
         "Chuck Norris",
         "Troy",
-        "March Madness",
-        "Nebraska",
-        "F-35",
+        "Bruce Thornton",
+        "Diebler",
         "Buckeyes",
-        "Cade",
-        "Pryce Sandfort",
-        "#PROTECT_OUR_SEVEN"
+        "F-35",
+        "High Point"
       ],
       "hashtags": [
-        "#PROTECT_OUR_SEVEN",
+        "#MarchMadness",
         "#LET_ENHYPEN_CREATE",
-        "#HardRockBet",
-        "#HyunjinsCanvasOfLove",
-        "#\ud604\uc9c4\uc544_\ub108\ub77c\ub294_\uacc4\uc808\uc744_\uc0ac\ub791\ud574"
+        "#PROTECT_OUR_SEVEN",
+        "#BeautyInBlack",
+        "#HardRockBet"
       ],
       "regular_topics": [
-        "Pearl Harbor",
         "Ohio State",
+        "Pearl Harbor",
+        "Nebraska",
         "Chuck Norris",
         "Troy",
-        "March Madness",
-        "Nebraska",
-        "F-35",
+        "Bruce Thornton",
+        "Diebler",
         "Buckeyes",
-        "Cade",
-        "Pryce Sandfort",
-        "Bruce Thornton"
+        "F-35",
+        "High Point",
+        "Tilly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,19 +82,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 19 2026 18:16:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 19:08:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joe Rogan",
         "MAID",
-        "Laine",
-        "Veleno",
         "Pierre",
+        "Pearl Harbor",
         "Joe Kent",
         "HHOF",
-        "Pearl Harbor",
+        "Laine",
         "Chuck Norris",
         "Eid Mubarak",
-        "#Survivor50"
+        "Ohio State",
+        "F-35"
       ],
       "hashtags": [
         "#Survivor50",
@@ -106,15 +106,15 @@
       "regular_topics": [
         "Joe Rogan",
         "MAID",
-        "Laine",
-        "Veleno",
         "Pierre",
+        "Pearl Harbor",
         "Joe Kent",
         "HHOF",
-        "Pearl Harbor",
+        "Laine",
         "Chuck Norris",
         "Eid Mubarak",
-        "Rooney"
+        "Ohio State",
+        "F-35"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
