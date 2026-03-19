@@ -1,55 +1,54 @@
 {
-  "generated_at_utc": "2026-03-19T11:05:31.879891+00:00",
+  "generated_at_utc": "2026-03-19T11:54:12.537395+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 19 2026 10:00:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 10:54:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Luka",
         "Good Thursday",
-        "LeBron",
-        "#BeautyInBlack",
-        "Steel Ball Run",
-        "Ice King",
+        "#PROTECT_OUR_SEVEN",
+        "Happy Friday Eve",
+        "#LET_ENHYPEN_CREATE",
+        "Luka",
+        "ice king",
         "THE 25TH PERTH CHAPTER",
         "#PerthRockOnEra",
-        "Qatar",
-        "#LakeShow",
-        "South Pars"
+        "#beautyinblack",
+        "LeBron",
+        "Qatar"
       ],
       "hashtags": [
-        "#BeautyInBlack",
+        "#PROTECT_OUR_SEVEN",
+        "#LET_ENHYPEN_CREATE",
         "#PerthRockOnEra",
+        "#beautyinblack",
         "#LakeShow",
         "#Survivor50",
-        "#AEWDynamite",
-        "#TexasHockey",
         "#Dhurandhar2",
-        "#WeverseWithSB19",
-        "#Lakers",
         "#RHOM",
-        "#WutheringWaves"
+        "#Lakers",
+        "#texashockey"
       ],
       "regular_topics": [
-        "Luka",
         "Good Thursday",
-        "LeBron",
-        "Steel Ball Run",
-        "Ice King",
+        "Happy Friday Eve",
+        "Luka",
+        "ice king",
         "THE 25TH PERTH CHAPTER",
+        "LeBron",
         "Qatar",
+        "Steel Ball Run",
         "South Pars",
-        "Rockets",
-        "Miami OH",
-        "Nico Harrison"
+        "San Jos\u00e9",
+        "St. Joseph"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 19 2026 10:24:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 11:16:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Danny",
         "Newcastle",
@@ -57,18 +56,18 @@
         "Nick Timothy",
         "NATO",
         "Trippier",
-        "#livgal",
-        "PMQs",
         "Archie Gray",
-        "#BARNEW",
-        "Senegal"
+        "PMQs",
+        "#LIVGAL",
+        "Grangemouth",
+        "#BARNEW"
       ],
       "hashtags": [
-        "#livgal",
+        "#LIVGAL",
         "#BARNEW",
-        "#NUFC",
-        "#ASongOrMovieForAllAboutALaugh",
-        "#Khaki"
+        "#thismorning",
+        "#popmaster",
+        "#NUFC"
       ],
       "regular_topics": [
         "Danny",
@@ -77,30 +76,30 @@
         "Nick Timothy",
         "NATO",
         "Trippier",
-        "PMQs",
         "Archie Gray",
+        "PMQs",
+        "Grangemouth",
         "Senegal",
-        "Morocco",
-        "AFCON"
+        "Morocco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 19 2026 10:20:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 11:12:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rogan",
         "HHOF",
         "#Survivor50",
         "Joe Kent",
         "Jack Hughes",
-        "Venezuela",
         "#AEWDynamite",
-        "Spider-Man",
-        "NATO",
+        "Venezuela",
         "MAID",
-        "Newcastle"
+        "NATO",
+        "Spider-Man",
+        "St. Patrick"
       ],
       "hashtags": [
         "#Survivor50",
@@ -115,56 +114,56 @@
         "Joe Kent",
         "Jack Hughes",
         "Venezuela",
-        "Spider-Man",
-        "NATO",
         "MAID",
-        "Newcastle",
+        "NATO",
+        "Spider-Man",
         "St. Patrick",
-        "IIHF"
+        "IIHF",
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 19 2026 09:20:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 19 2026 10:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TopRatedFelixHostipalNoida",
         "#\u0928\u0935_\u0935\u0930\u094d\u0937_\u0928\u0908_\u0905\u092f\u094b\u0927\u094d\u092f\u093e",
+        "#ParamilitaryWantsDignity",
+        "#Dhuranandar2",
         "#ScamInFelixHospitalNoida",
-        "#9YearsOfDharmaRaksha",
-        "#MonsterM17e",
-        "#\u091c\u092f_\u092e\u0939\u093e\u0915\u093e\u0932_\u091c\u092f_\u0935\u093f\u0915\u094d\u0930\u092e",
-        "Ram Raksha Yantra",
         "Galaxy M17e 5G",
+        "Ram Raksha Yantra",
         "JUSTICE PREVAILED FOR ELVISH",
-        "Ugadi",
+        "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939",
         "Ayodhya",
-        "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939"
+        "Sant Rampal Ji Kannada Satsang"
       ],
       "hashtags": [
+        "#TopRatedFelixHostipalNoida",
         "#\u0928\u0935_\u0935\u0930\u094d\u0937_\u0928\u0908_\u0905\u092f\u094b\u0927\u094d\u092f\u093e",
-        "#ScamInFelixHospitalNoida",
-        "#9YearsOfDharmaRaksha",
-        "#MonsterM17e",
-        "#\u091c\u092f_\u092e\u0939\u093e\u0915\u093e\u0932_\u091c\u092f_\u0935\u093f\u0915\u094d\u0930\u092e",
+        "#ParamilitaryWantsDignity",
         "#Dhuranandar2",
+        "#ScamInFelixHospitalNoida",
+        "#MonsterM17e",
+        "#9YearsOfDharmaRaksha",
+        "#\u091c\u092f_\u092e\u0939\u093e\u0915\u093e\u0932_\u091c\u092f_\u0935\u093f\u0915\u094d\u0930\u092e",
         "#TrustAIADMK4TN",
         "#APJobCalender2026",
-        "#BharatElectricitySummit",
-        "#\u091a\u0948\u0924\u094d\u0930_\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f",
-        "#GudiPadwa"
+        "#Dhurandhar2Reaction"
       ],
       "regular_topics": [
-        "Ram Raksha Yantra",
         "Galaxy M17e 5G",
+        "Ram Raksha Yantra",
         "JUSTICE PREVAILED FOR ELVISH",
-        "Ugadi",
-        "Ayodhya",
         "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939",
+        "Ayodhya",
         "Sant Rampal Ji Kannada Satsang",
         "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932",
+        "Yanbu",
         "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930",
-        "Job Calendar",
+        "\u0938\u0940\u090f\u092e \u092f\u094b\u0917\u0940",
         "Raj Musix Kannada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
