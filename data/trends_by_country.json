@@ -1,127 +1,127 @@
 {
-  "generated_at_utc": "2026-03-19T23:49:08.350221+00:00",
+  "generated_at_utc": "2026-03-20T01:01:27.675701+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 19 2026 22:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 00:09:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Siena",
         "Duke",
+        "Siena",
         "High Point",
         "Wisconsin",
-        "#MarchMadness",
         "Pearl Harbor",
-        "Taylor Frankie Paul",
+        "#Chibi",
+        "#MarchMadness",
         "Bernie",
-        "Chuck Norris",
-        "Bachelorette",
-        "Dakota"
+        "Marlo",
+        "Eid Mubarak",
+        "Genghis Khan"
       ],
       "hashtags": [
-        "#MarchMadness",
         "#Chibi",
+        "#MarchMadness",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#BeautyInBlack"
+        "#CrimsonDesert"
       ],
       "regular_topics": [
-        "Siena",
         "Duke",
+        "Siena",
         "High Point",
         "Wisconsin",
         "Pearl Harbor",
-        "Taylor Frankie Paul",
         "Bernie",
-        "Chuck Norris",
-        "Bachelorette",
-        "Dakota",
-        "Genghis Khan"
+        "Marlo",
+        "Eid Mubarak",
+        "Genghis Khan",
+        "Taylor Frankie Paul",
+        "Dakota"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 19 2026 22:45:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 00:32:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TheApprentice",
-        "Neymar",
+        "#bbcqt",
         "Eid Mubarak",
+        "Neymar",
         "Rooney",
+        "#TheApprentice",
         "Littler",
+        "#911onABC",
         "#nffc",
-        "#PLDarts",
-        "Gerwyn Price",
-        "Sancho",
-        "#cpfc",
-        "#bbcqt"
+        "Fiona Bruce",
+        "Caroline Lucas",
+        "James Orr"
       ],
       "hashtags": [
+        "#bbcqt",
         "#TheApprentice",
+        "#911onABC",
         "#nffc",
-        "#PLDarts",
-        "#cpfc",
-        "#bbcqt"
+        "#PLDarts"
       ],
       "regular_topics": [
-        "Neymar",
         "Eid Mubarak",
+        "Neymar",
         "Rooney",
         "Littler",
-        "Gerwyn Price",
-        "Sancho",
+        "Fiona Bruce",
+        "Caroline Lucas",
+        "James Orr",
+        "Helen Whately",
         "Bologna",
-        "Roma",
-        "Kieran",
-        "Brook",
-        "Karishma"
+        "Gerwyn Price",
+        "Wes Streeting"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 19 2026 23:33:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 00:28:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rogan",
         "Pierre",
-        "MAID",
         "Eid Mubarak",
-        "#MarchMadness",
+        "MAID",
+        "#911onABC",
         "Neymar",
+        "#MarchMadness",
         "Pearl Harbor",
-        "Duke",
         "Rooney",
         "Siena",
-        "Brady"
+        "#LET_ENHYPEN_CREATE"
       ],
       "hashtags": [
+        "#911onABC",
         "#MarchMadness",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#Survivor50",
-        "#GoSensGo"
+        "#Survivor50"
       ],
       "regular_topics": [
         "Rogan",
         "Pierre",
-        "MAID",
         "Eid Mubarak",
+        "MAID",
         "Neymar",
         "Pearl Harbor",
-        "Duke",
         "Rooney",
         "Siena",
-        "Brady",
-        "Joe Kent"
+        "Joe Kent",
+        "Veleno",
+        "HHOF"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 19 2026 23:28:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 00:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Dhurandhar2",
         "#bestfelixhospitalnoida",
@@ -132,8 +132,8 @@
         "Sant Rampal Ji Kannada Satsang",
         "ram raksha yantra",
         "Raj Musix Kannada",
-        "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932",
-        "Eid Mubarak"
+        "Aditya Dhar",
+        "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932"
       ],
       "hashtags": [
         "#Dhurandhar2",
@@ -147,13 +147,13 @@
         "Sant Rampal Ji Kannada Satsang",
         "ram raksha yantra",
         "Raj Musix Kannada",
+        "Aditya Dhar",
         "\u091a\u0948\u0924\u094d\u0930 \u0936\u0941\u0915\u094d\u0932",
         "Eid Mubarak",
-        "Gyan Ganga",
         "galaxy m17e 5g",
+        "Gyan Ganga",
         "Qatar",
-        "F-35",
-        "HDFC Bank"
+        "F-35"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
