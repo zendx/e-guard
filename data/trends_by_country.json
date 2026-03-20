@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T23:17:28.594268+00:00",
+  "generated_at_utc": "2026-03-20T23:48:25.235428+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 20 2026 21:40:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 22:32:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amad",
-        "Maguire",
-        "Cunha",
-        "#BOUMUN",
         "Bournemouth",
-        "Dalot",
-        "#TOTP",
+        "Maguire",
+        "#BOUMUN",
         "#MUFC",
-        "Sesko",
-        "Mbeumo",
-        "#ComicRelief"
+        "Cunha",
+        "Ugarte",
+        "Evanilson",
+        "Stuart Atwell",
+        "Jamie Redknapp",
+        "Dalot"
       ],
       "hashtags": [
         "#BOUMUN",
-        "#TOTP",
         "#MUFC",
+        "#TOTP",
         "#ComicRelief",
-        "#RedNoseDay"
+        "#pnefc"
       ],
       "regular_topics": [
         "Amad",
+        "Bournemouth",
         "Maguire",
         "Cunha",
-        "Bournemouth",
+        "Ugarte",
+        "Evanilson",
+        "Stuart Atwell",
+        "Jamie Redknapp",
         "Dalot",
         "Sesko",
-        "Mbeumo",
-        "Jimenez",
-        "Shaw",
-        "Chuck Norris",
-        "Mbuemo"
+        "Mbeumo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,84 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 20 2026 22:20:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 23:12:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Amad",
-        "#BOUMUN",
-        "Bournemouth",
-        "Maguire",
-        "#MUFC",
-        "Cunha",
-        "Ugarte",
-        "Dalot",
         "Eid Mubarak",
-        "Sesko",
-        "#BTSonFallon"
+        "#9YearsOfRisingUP",
+        "#LET_ENHYPEN_CREATE",
+        "#PROTECT_OUR_SEVEN",
+        "#bestfelixhospitalnoida",
+        "#FakeBirthdayofBJPMP",
+        "dr pankaj kumar singh",
+        "infra revolution in up",
+        "Maguire",
+        "Bournemouth",
+        "Cunha"
       ],
       "hashtags": [
-        "#BOUMUN",
-        "#MUFC",
-        "#BTSonFallon",
-        "#FallonTonight",
-        "#OnlyFriendsDreamOnEP4",
-        "#EidWishes",
+        "#9YearsOfRisingUP",
+        "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#\u0639\u064a\u062f_\u0627\u0644\u0641\u0637\u0631_\u0661\u0664\u0664\u0667\u0647",
-        "#incirlik\u00fcss\u00fc",
-        "#FairTreatmentForNI_KI",
-        "#RajatDalal"
+        "#bestfelixhospitalnoida",
+        "#FakeBirthdayofBJPMP"
       ],
       "regular_topics": [
-        "Amad",
-        "Bournemouth",
+        "Eid Mubarak",
+        "dr pankaj kumar singh",
+        "infra revolution in up",
         "Maguire",
+        "Bournemouth",
         "Cunha",
         "Ugarte",
+        "Stuart Atwell",
         "Dalot",
-        "Eid Mubarak",
-        "Sesko",
-        "Shaw",
-        "Carrick",
-        "Chuck Norris"
+        "Aditya Dhar",
+        "Body to Body"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 20 2026 22:16:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 23:08:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amad",
         "Maguire",
         "Bournemouth",
         "#BOUMUN",
-        "Cunha",
+        "Carrick",
         "Ugarte",
-        "Dalot",
-        "Manchester United",
-        "Shaw",
+        "Cunha",
         "Mbeumo",
-        "Petrovic"
+        "Manchester United",
+        "Dalot",
+        "Stuart Attwell"
       ],
       "hashtags": [
         "#BOUMUN",
         "#MUFC",
         "#incirlik\u00fcss\u00fc",
-        "#RamazanBayram\u0131",
-        "#OnlyFriendsDreamOnEP4"
+        "#Panam\u00e1",
+        "#RamazanBayram\u0131"
       ],
       "regular_topics": [
         "Amad",
         "Maguire",
         "Bournemouth",
-        "Cunha",
+        "Carrick",
         "Ugarte",
-        "Dalot",
-        "Manchester United",
-        "Shaw",
+        "Cunha",
         "Mbeumo",
-        "Petrovic",
-        "Lammens"
+        "Manchester United",
+        "Dalot",
+        "Stuart Attwell",
+        "Mbuemo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
