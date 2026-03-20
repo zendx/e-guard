@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-20T22:51:54.915032+00:00",
+  "generated_at_utc": "2026-03-20T23:17:28.594268+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 20 2026 22:32:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 21:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amad",
-        "Bournemouth",
         "Maguire",
-        "#BOUMUN",
-        "#MUFC",
         "Cunha",
-        "Ugarte",
-        "Evanilson",
-        "Stuart Atwell",
-        "Jamie Redknapp",
-        "Dalot"
+        "#BOUMUN",
+        "Bournemouth",
+        "Dalot",
+        "#TOTP",
+        "#MUFC",
+        "Sesko",
+        "Mbeumo",
+        "#ComicRelief"
       ],
       "hashtags": [
         "#BOUMUN",
-        "#MUFC",
         "#TOTP",
+        "#MUFC",
         "#ComicRelief",
-        "#pnefc"
+        "#RedNoseDay"
       ],
       "regular_topics": [
         "Amad",
-        "Bournemouth",
         "Maguire",
         "Cunha",
-        "Ugarte",
-        "Evanilson",
-        "Stuart Atwell",
-        "Jamie Redknapp",
+        "Bournemouth",
         "Dalot",
         "Sesko",
-        "Mbeumo"
+        "Mbeumo",
+        "Jimenez",
+        "Shaw",
+        "Chuck Norris",
+        "Mbuemo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
