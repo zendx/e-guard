@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-03-20T17:07:55.140594+00:00",
+  "generated_at_utc": "2026-03-20T17:56:56.740682+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 20 2026 15:56:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 16:51:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
         "Bruce Lee",
         "Happy Spring",
-        "Joe Greene",
-        "Grim Reaper",
+        "Santa Clara",
         "Eid Mubarak",
+        "Grim Reaper",
         "Latto",
         "CBS News Radio",
-        "Barron",
         "Delta Force",
+        "Barron",
         "Lone Wolf McQuade"
       ],
       "hashtags": [
-        "#FanCashDropPromotion",
+        "#FursuitFriday",
         "#LastFourWatched",
         "#OnlyFriendsDreamOnEP4",
-        "#FursuitFriday",
-        "#LetterboxdFriday"
+        "#FanCashDropPromotion",
+        "#Match2026"
       ],
       "regular_topics": [
         "Chuck Norris",
         "Bruce Lee",
         "Happy Spring",
-        "Joe Greene",
-        "Grim Reaper",
+        "Santa Clara",
         "Eid Mubarak",
+        "Grim Reaper",
         "Latto",
         "CBS News Radio",
-        "Barron",
         "Delta Force",
+        "Barron",
         "Lone Wolf McQuade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 20 2026 16:18:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 17:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
-        "Eid Mubarak",
         "Vicky",
+        "Eid Mubarak",
         "Bruce Lee",
         "Trent",
+        "Kinsky",
         "Grim Reaper",
-        "Hobbiton",
         "Walker Texas Ranger",
-        "Tuchel",
-        "Lorcan Williams",
-        "Jonathan Wheatley"
+        "Hobbiton",
+        "Maguire",
+        "#LastFourWatched"
       ],
       "hashtags": [
+        "#LastFourWatched",
+        "#tippingpoint",
         "#OnlyFriendsDreamOnEP4",
-        "#WHFreeBet",
-        "#LET_ENHYPEN_CREATE",
-        "#PROTECT_OUR_SEVEN",
-        "#InternationalDayOfHappiness"
+        "#GW31",
+        "#LET_ENHYPEN_CREATE"
       ],
       "regular_topics": [
         "Chuck Norris",
-        "Eid Mubarak",
         "Vicky",
+        "Eid Mubarak",
         "Bruce Lee",
         "Trent",
+        "Kinsky",
         "Grim Reaper",
-        "Hobbiton",
         "Walker Texas Ranger",
-        "Tuchel",
-        "Lorcan Williams",
-        "Jonathan Wheatley"
+        "Hobbiton",
+        "Maguire",
+        "Lorcan Williams"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 20 2026 16:15:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 17:08:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
         "Eid Mubarak",
@@ -93,14 +93,14 @@
         "MAID",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "Texas Ranger",
-        "#BTS_SW\u0130M"
+        "#BTS_SWIM",
+        "Matheson"
       ],
       "hashtags": [
         "#BTS_ARIRANG",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#BTS_SW\u0130M",
+        "#BTS_SWIM",
         "#MarchMadness"
       ],
       "regular_topics": [
@@ -110,11 +110,11 @@
         "Pierre",
         "Happy Nowruz",
         "MAID",
-        "Texas Ranger",
         "Matheson",
-        "Francophonie",
+        "Texas Ranger",
         "Neymar",
-        "Spring"
+        "Happy Spring",
+        "namjoon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Mar 20 2026 16:03:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 16:57:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
         "Ozoro",
@@ -168,17 +168,17 @@
         "Delta",
         "Bournemouth",
         "#ProjectHailMaryNGA",
-        "Trent",
-        "#HurricaneWisdom",
-        "Rest in Peace",
+        "STOP RAPING WOMEN",
+        "Isoko",
+        "Urhobo",
         "Texas Ranger",
-        "STOP RAPING WOMEN"
+        "#HurricaneWisdom"
       ],
       "hashtags": [
         "#ProjectHailMaryNGA",
         "#HurricaneWisdom",
-        "#RamazanBayram\u0131",
         "#OnlyFriendsDreamOnEP4",
+        "#RamazanBayram\u0131",
         "#PeakMilk"
       ],
       "regular_topics": [
@@ -187,12 +187,12 @@
         "Eid Mubarak",
         "Delta",
         "Bournemouth",
-        "Trent",
-        "Rest in Peace",
-        "Texas Ranger",
         "STOP RAPING WOMEN",
         "Isoko",
-        "Urhobo"
+        "Urhobo",
+        "Texas Ranger",
+        "Rest in Peace",
+        "Trent"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
