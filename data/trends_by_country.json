@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-21T15:14:57.705945+00:00",
+  "generated_at_utc": "2026-03-21T15:45:21.915050+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 21 2026 13:54:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 14:46:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BTSLiveonNetflix",
         "Good Saturday",
-        "Mikrokosmos",
-        "#BTS_ARIRANG",
-        "joon",
         "#LoveYouTeacherSeriesEP2",
-        "Jimins",
         "#Caturday",
-        "BTS THE COMEBACK LIVE",
-        "hobi",
-        "Mic Drop"
+        "Gakpo",
+        "#BHALIV",
+        "Brighton",
+        "Diego Garcia",
+        "Mikrokosmos",
+        "#SaturdayVibes",
+        "Welbeck"
       ],
       "hashtags": [
         "#BTSLiveonNetflix",
-        "#BTS_ARIRANG",
         "#LoveYouTeacherSeriesEP2",
         "#Caturday",
-        "#BHALIV"
+        "#BHALIV",
+        "#SaturdayVibes"
       ],
       "regular_topics": [
         "Good Saturday",
-        "Mikrokosmos",
-        "joon",
-        "Jimins",
-        "BTS THE COMEBACK LIVE",
-        "hobi",
-        "Mic Drop",
+        "Gakpo",
+        "Brighton",
         "Diego Garcia",
-        "vmin",
-        "Jungkook",
-        "STAGE KING V RETURNS"
+        "Mikrokosmos",
+        "Welbeck",
+        "joon",
+        "Konate",
+        "GAME DAY",
+        "JIMINS",
+        "Natanz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
