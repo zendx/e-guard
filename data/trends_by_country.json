@@ -1,119 +1,119 @@
 {
-  "generated_at_utc": "2026-03-20T23:48:25.235428+00:00",
+  "generated_at_utc": "2026-03-21T00:57:43.075742+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Mar 20 2026 22:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 23:00:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#tadc",
+        "Caine",
+        "#theamazingdigitalcirus",
         "Chuck Norris",
-        "Amad",
-        "Santa Clara",
-        "Hofstra",
-        "Maguire",
-        "Sydney Brown",
-        "Bournemouth",
-        "Villanova",
-        "Wright State",
         "Utah State",
-        "Ugarte"
+        "Villanova",
+        "Amad",
+        "Kevin Willard",
+        "Santa Clara",
+        "Kentucky",
+        "MJ Collins"
       ],
       "hashtags": [
-        "#BOUMUN",
-        "#MUFC",
         "#tadc",
-        "#Match2026",
-        "#BTSonFallon"
+        "#theamazingdigitalcirus",
+        "#PFLMadrid",
+        "#BOUMUN",
+        "#MUFC"
       ],
       "regular_topics": [
+        "Caine",
         "Chuck Norris",
-        "Amad",
-        "Santa Clara",
-        "Hofstra",
-        "Maguire",
-        "Sydney Brown",
-        "Bournemouth",
-        "Villanova",
-        "Wright State",
         "Utah State",
-        "Ugarte"
+        "Villanova",
+        "Amad",
+        "Kevin Willard",
+        "Santa Clara",
+        "Kentucky",
+        "MJ Collins",
+        "Hofstra",
+        "Variety"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 20 2026 22:32:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 00:00:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amad",
         "Bournemouth",
         "Maguire",
         "#BOUMUN",
+        "Caine",
         "#MUFC",
+        "#tadc",
         "Cunha",
-        "Ugarte",
         "Evanilson",
         "Stuart Atwell",
-        "Jamie Redknapp",
-        "Dalot"
+        "Ugarte"
       ],
       "hashtags": [
         "#BOUMUN",
         "#MUFC",
-        "#TOTP",
-        "#ComicRelief",
-        "#pnefc"
+        "#tadc",
+        "#pnefc",
+        "#TOTP"
       ],
       "regular_topics": [
         "Amad",
         "Bournemouth",
         "Maguire",
+        "Caine",
         "Cunha",
-        "Ugarte",
         "Evanilson",
         "Stuart Atwell",
+        "Ugarte",
+        "Carrick",
         "Jamie Redknapp",
-        "Dalot",
-        "Sesko",
-        "Mbeumo"
+        "Dalot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 20 2026 22:28:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 20 2026 23:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
         "Eid Mubarak",
-        "Amad",
         "Rogan",
-        "Maguire",
+        "Caine",
+        "Rodger Brulotte",
+        "#tadc",
         "Pierre",
-        "Bournemouth",
+        "Amad",
         "Happy Nowruz",
-        "#BTS_ARIRANG",
-        "#LET_ENHYPEN_CREATE",
-        "#PROTECT_OUR_SEVEN"
+        "Maguire",
+        "#LET_ENHYPEN_CREATE"
       ],
       "hashtags": [
-        "#BTS_ARIRANG",
+        "#tadc",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#BOUMUN",
-        "#BTS_SWIM"
+        "#BTS_ARIRANG",
+        "#theamazingdigitalcirus"
       ],
       "regular_topics": [
         "Chuck Norris",
         "Eid Mubarak",
-        "Amad",
         "Rogan",
-        "Maguire",
+        "Caine",
+        "Rodger Brulotte",
         "Pierre",
-        "Bournemouth",
+        "Amad",
         "Happy Nowruz",
-        "Ugarte",
-        "MAID",
+        "Maguire",
+        "Bournemouth",
         "Happy Spring"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
