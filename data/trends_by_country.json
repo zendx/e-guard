@@ -1,100 +1,99 @@
 {
-  "generated_at_utc": "2026-03-21T22:11:43.722487+00:00",
+  "generated_at_utc": "2026-03-21T22:46:25.408250+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 21 2026 21:09:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 22:00:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mueller",
+        "#OGCHIBI",
         "#UFCLondon",
+        "chappell",
+        "Charlie Kirk",
+        "Jazzy",
         "Coen Carr",
-        "Mason Jones",
         "Brit",
         "Louisville",
-        "Michigan State",
-        "Everton",
-        "Danny Silva",
         "Dimona",
-        "chappell"
+        "Mason Jones"
       ],
       "hashtags": [
+        "#OGCHIBI",
         "#UFCLondon",
-        "#LetsGoPens",
-        "#ShootingStar",
-        "#GoGreen",
-        "#flagfootball"
+        "#flagfootball",
+        "#GoGreen"
       ],
       "regular_topics": [
         "Mueller",
+        "chappell",
+        "Charlie Kirk",
+        "Jazzy",
         "Coen Carr",
-        "Mason Jones",
         "Brit",
         "Louisville",
-        "Michigan State",
-        "Everton",
-        "Danny Silva",
         "Dimona",
-        "chappell",
-        "Charlie Kirk"
+        "Mason Jones",
+        "Arad",
+        "Michigan State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 21 2026 21:32:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 22:24:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Everton",
+        "#OGCHIBI",
+        "#SNLUK",
         "#UFCLondon",
+        "#lufc",
+        "Everton",
+        "Brentford",
+        "Farke",
+        "chappell",
         "Rosenior",
         "Beto",
-        "#celebritysabotage",
-        "#EVECHE",
-        "Sanchez",
-        "Maresca",
-        "chappell",
-        "Brentford",
-        "Mason Jones"
+        "#celebritysabotage"
       ],
       "hashtags": [
+        "#OGCHIBI",
+        "#SNLUK",
         "#UFCLondon",
-        "#celebritysabotage",
-        "#EVECHE",
-        "#soundsofthe80s",
-        "#PUSB"
+        "#lufc",
+        "#celebritysabotage"
       ],
       "regular_topics": [
         "Everton",
+        "Brentford",
+        "Farke",
+        "chappell",
         "Rosenior",
         "Beto",
-        "Sanchez",
+        "Gnonto",
         "Maresca",
-        "chappell",
-        "Brentford",
-        "Mason Jones",
-        "Fofana",
-        "Ndiaye",
-        "Okafor"
+        "Sanchez",
+        "Patterson",
+        "Mueller"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 21 2026 21:28:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 22:20:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
         "Mueller",
         "#UFCLondon",
-        "Chelsea",
-        "Everton",
-        "Eid Mubarak",
         "chappell",
-        "Dimona",
+        "Eid Mubarak",
+        "Chelsea",
+        "Greer",
+        "Diego Garcia",
+        "Caine",
         "Rogan",
-        "Fofana",
-        "Caine"
+        "#BTSLiveonNetflix"
       ],
       "hashtags": [
         "#UFCLondon",
@@ -106,67 +105,61 @@
       "regular_topics": [
         "Chuck Norris",
         "Mueller",
-        "Chelsea",
-        "Everton",
-        "Eid Mubarak",
         "chappell",
-        "Dimona",
-        "Rogan",
-        "Fofana",
+        "Eid Mubarak",
+        "Chelsea",
+        "Greer",
+        "Diego Garcia",
         "Caine",
-        "Greer"
+        "Rogan",
+        "Dimona",
+        "Parros"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 21 2026 21:20:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 22:12:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dimona",
-        "Chelsea",
-        "Arad",
-        "Everton",
-        "#EVECHE",
-        "#Dhurandhar_the_revenge",
-        "Rosenior",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8",
+        "Eid Mubarak",
+        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "#\u092e\u0927\u0941\u092a\u0930\u092e\u0939\u0902\u0938_\u0915\u0940_\u091f\u093e\u0902\u092f\u091f\u093e\u0902\u092f_\u092b\u093f\u0938\u094d\u09382",
-        "DUANG WITH YOU EP8",
-        "Sanchez"
+        "#The50TicketToFinale",
+        "Dimona",
+        "#BTSLiveonNetflix",
+        "#TOISA2025",
+        "Arad",
+        "yogi youthoriented growthicon",
+        "Dhurandhar",
+        "Chelsea"
       ],
       "hashtags": [
-        "#EVECHE",
-        "#Dhurandhar_the_revenge",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8",
+        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "#\u092e\u0927\u0941\u092a\u0930\u092e\u0939\u0902\u0938_\u0915\u0940_\u091f\u093e\u0902\u092f\u091f\u093e\u0902\u092f_\u092b\u093f\u0938\u094d\u09382",
-        "#UFCLondon",
-        "#AnirudhConcert",
-        "#LoveYouTeacherSeriesEP2",
-        "#\u0928\u094d\u092f\u093e\u092f\u093e\u0932\u092f_\u0935\u093f\u0930\u094b\u0927\u0940_\u0938\u0930\u0915\u093e\u0930",
-        "#AayaSher",
-        "#Naagin7",
-        "#The50TicketToFinale"
+        "#The50TicketToFinale",
+        "#BTSLiveonNetflix",
+        "#TOISA2025"
       ],
       "regular_topics": [
+        "Eid Mubarak",
         "Dimona",
-        "Chelsea",
         "Arad",
-        "Everton",
-        "Rosenior",
-        "DUANG WITH YOU EP8",
-        "Sanchez",
-        "Maresca",
+        "yogi youthoriented growthicon",
+        "Dhurandhar",
+        "Chelsea",
+        "Baakhabar Sant Rampal Ji",
         "Factful Debates YtChannel",
-        "Beto",
-        "Liverpool"
+        "Diego Garcia",
+        "namjoon",
+        "Happy Eid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Mar 21 2026 21:16:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 22:08:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Liam Rosenior",
@@ -174,16 +167,16 @@
         "Maresca",
         "Beto",
         "Sanchez",
-        "Fofana",
         "Anon",
+        "Juventus",
+        "Locatelli",
         "Rosemary",
-        "Ndiaye",
-        "Potter"
+        "Dimona"
       ],
       "hashtags": [
         "#EVECHE",
-        "#HBDToshine",
-        "#PremierLeague"
+        "#UFCLondon",
+        "#HBDToshine"
       ],
       "regular_topics": [
         "Chelsea",
@@ -191,12 +184,12 @@
         "Maresca",
         "Beto",
         "Sanchez",
-        "Fofana",
         "Anon",
+        "Juventus",
+        "Locatelli",
         "Rosemary",
-        "Ndiaye",
-        "Potter",
-        "Neto"
+        "Dimona",
+        "Arad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
