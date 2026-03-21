@@ -1,165 +1,162 @@
 {
-  "generated_at_utc": "2026-03-21T04:50:20.789247+00:00",
+  "generated_at_utc": "2026-03-21T05:33:55.284937+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 21 2026 03:33:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 04:27:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
-        "Caine",
-        "#tadc",
-        "Furman",
-        "#OPLive",
-        "#DragRace",
-        "UCLA",
-        "Michin",
-        "Tarris Reed",
+        "Cal Baptist",
         "Mizzou",
-        "Randy Orton"
+        "Caine",
+        "Furman",
+        "Darryn Peterson",
+        "#tadc",
+        "Kansas",
+        "#OPLive",
+        "Tre Donaldson",
+        "#kubball"
       ],
       "hashtags": [
         "#SmackDown",
         "#tadc",
         "#OPLive",
-        "#DragRace",
-        "#BedBathandBeyond"
+        "#kubball",
+        "#IRySBDay2026"
       ],
       "regular_topics": [
+        "Cal Baptist",
+        "Mizzou",
         "Caine",
         "Furman",
-        "UCLA",
-        "Michin",
-        "Tarris Reed",
-        "Mizzou",
-        "Randy Orton",
-        "Jelly Roll",
-        "Xander",
-        "Corey Heim",
-        "Cal Baptist"
+        "Darryn Peterson",
+        "Kansas",
+        "Tre Donaldson",
+        "Dennis Gates",
+        "Mark Mitchell",
+        "Missouri",
+        "Tarris Reed"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 21 2026 03:54:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 04:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
-        "Eid Mubarak",
         "Amad",
+        "Eid Mubarak",
         "#SmackDown",
         "Maguire",
         "Neymar",
         "Bournemouth",
         "#BOUMUN",
         "Rooney",
-        "#tadc",
-        "#comicrelief"
+        "#comicrelief",
+        "#TOTP"
       ],
       "hashtags": [
         "#SmackDown",
         "#BOUMUN",
-        "#tadc",
         "#comicrelief",
-        "#TOTP"
+        "#TOTP",
+        "#tadc"
       ],
       "regular_topics": [
         "Chuck Norris",
-        "Eid Mubarak",
         "Amad",
+        "Eid Mubarak",
         "Maguire",
         "Neymar",
         "Bournemouth",
         "Rooney",
+        "Cunha",
         "Caine",
-        "Michin",
-        "B-Fab",
-        "Cunha"
+        "Evanilson",
+        "Diego Garcia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 21 2026 02:57:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 04:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chuck Norris",
-        "#SmackDown",
         "Eid Mubarak",
         "Rogan",
+        "#SmackDown",
         "Pierre",
-        "Rodger Brulotte",
+        "Jokic",
         "Happy Nowruz",
+        "Scottie",
+        "Rodger Brulotte",
         "Caine",
-        "#LET_ENHYPEN_CREATE",
-        "#PROTECT_OUR_SEVEN",
-        "#BTS_ARIRANG"
+        "Darko"
       ],
       "hashtags": [
         "#SmackDown",
         "#LET_ENHYPEN_CREATE",
         "#PROTECT_OUR_SEVEN",
-        "#BTS_ARIRANG",
-        "#tadc"
+        "#tadc",
+        "#BTS_ARIRANG"
       ],
       "regular_topics": [
         "Chuck Norris",
         "Eid Mubarak",
         "Rogan",
         "Pierre",
-        "Rodger Brulotte",
+        "Jokic",
         "Happy Nowruz",
-        "Caine",
         "Scottie",
-        "Amad",
-        "Kit Wilson",
-        "Jelly Roll"
+        "Rodger Brulotte",
+        "Caine",
+        "Darko",
+        "Shead"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Mar 21 2026 03:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 04:36:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "#EidMubarak",
-        "#Save1Coin",
+        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "Baakhabar Sant Rampal Ji",
-        "#EidelFitr2026",
+        "#Save1Coin",
         "#Eid2026",
+        "#EidelFitr2026",
         "\u0924\u0943\u0924\u0940\u092f \u0938\u094d\u0935\u0930\u0942\u092a",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
         "Diego Garcia",
+        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e"
       ],
       "hashtags": [
-        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "#EidMubarak",
+        "#\u0908\u0926_\u092a\u0930_\u0915\u092c\u0940\u0930\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u094b_\u091c\u093e\u0928\u0947\u0902",
         "#Save1Coin",
-        "#EidelFitr2026",
         "#Eid2026",
+        "#EidelFitr2026",
+        "#EidMabrouk",
         "#\u0917\u0923\u0917\u094c\u0930",
-        "#GodMorningSaturday",
-        "#Gangaur",
-        "#MaaChandraghanta",
-        "#WorldPoetryDay",
-        "#EidMabrouk"
+        "#DhurandharTheRevege"
       ],
       "regular_topics": [
         "Baakhabar Sant Rampal Ji",
         "\u0924\u0943\u0924\u0940\u092f \u0938\u094d\u0935\u0930\u0942\u092a",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
         "Diego Garcia",
+        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e",
-        "\u0939\u091c\u093c\u0930\u0924 \u092e\u094b\u0939\u092e\u094d\u092e\u0926",
-        "Allah Kabir",
-        "\u0936\u0930\u0940\u092b \u0938\u0942\u0930\u0924",
+        "\u092a\u094d\u0930\u0925\u092e \u0905\u0935\u0924\u093e\u0930",
         "May Allah",
-        "\u0924\u0925\u093e \u0906\u0938\u092e\u093e\u0928"
+        "\u0939\u091c\u093c\u0930\u0924 \u092e\u0941\u0939\u092e\u094d\u092e\u0926",
+        "\u092a\u094d\u0930\u0924\u0940\u0915 \u092a\u093e\u0935\u0928",
+        "Allah Kabir"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
