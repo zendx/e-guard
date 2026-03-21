@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-03-21T17:15:42.423762+00:00",
+  "generated_at_utc": "2026-03-21T17:46:22.212103+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 21 2026 15:57:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 16:49:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Elon",
+        "Cingular",
+        "Slot",
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8",
         "#BTSLiveonNetflix",
-        "Elon Musk",
-        "Good Saturday",
         "Diego Garcia",
-        "#HHN35",
-        "Brighton",
         "#Caturday",
         "#LoveYouTeacherSeriesEP2",
-        "Gakpo",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8",
-        "Welbeck"
+        "Good Saturday",
+        "DUANG WITH YOU EP8",
+        "#HHN35"
       ],
       "hashtags": [
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8",
         "#BTSLiveonNetflix",
-        "#HHN35",
         "#Caturday",
         "#LoveYouTeacherSeriesEP2",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP8"
+        "#HHN35"
       ],
       "regular_topics": [
-        "Elon Musk",
-        "Good Saturday",
-        "Diego Garcia",
-        "Brighton",
-        "Gakpo",
-        "Welbeck",
+        "Elon",
         "Cingular",
+        "Slot",
+        "Diego Garcia",
+        "Good Saturday",
         "DUANG WITH YOU EP8",
-        "Arne Slot",
-        "Mikrokosmos",
+        "Harry Wilson",
+        "Saint Louis",
+        "Brighton",
+        "Avila",
         "WELCOME TO THE WATER"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,28 +43,30 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 21 2026 16:19:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 21 2026 17:09:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "FULL TIME",
+        "Slot",
+        "#Pompey",
         "HALF TIME",
+        "#bwfc",
         "Brighton",
+        "#bcafc",
         "Gakpo",
-        "#bcfc",
-        "Welbeck",
-        "#BHALIV",
-        "Jones",
-        "Konate",
-        "#SlotOut",
-        "Wirtz",
-        "#Pompey"
+        "#readingfc",
+        "#htafc",
+        "Welbeck"
       ],
       "hashtags": [
-        "#bcfc",
-        "#BHALIV",
-        "#SlotOut",
         "#Pompey",
-        "#dcfc"
+        "#bwfc",
+        "#bcafc",
+        "#readingfc",
+        "#htafc"
       ],
       "regular_topics": [
+        "FULL TIME",
+        "Slot",
         "HALF TIME",
         "Brighton",
         "Gakpo",
@@ -73,9 +75,7 @@
         "Konate",
         "Wirtz",
         "Ekitike",
-        "Davies",
-        "KICK OFF",
-        "Kerkez"
+        "KICK OFF"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
