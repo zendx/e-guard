@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-03-22T20:48:17.118650+00:00",
+  "generated_at_utc": "2026-03-22T21:15:18.978732+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 22 2026 19:44:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 20:36:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Iowa State",
         "Arsenal",
+        "Kentucky",
         "Kepa",
         "Arteta",
-        "Iowa State",
-        "Purdue",
-        "Iwo Jima",
+        "Pope",
+        "Moreno",
         "Jasper",
+        "Iwo Jima",
         "Saka",
-        "Bessent",
-        "Raya",
-        "Cherki"
+        "Purdue"
       ],
       "hashtags": [
-        "#ARSMCI",
-        "#AlwaysTogetherHEESEUNG",
-        "#CarabaoCup",
+        "#NASCAR",
         "#Goodyear400",
-        "#OurHatyuPrinceYunho"
+        "#AlwaysTogetherHEESEUNG",
+        "#ARSMCI",
+        "#CarabaoCup"
       ],
       "regular_topics": [
+        "Iowa State",
         "Arsenal",
+        "Kentucky",
         "Kepa",
         "Arteta",
-        "Iowa State",
-        "Purdue",
-        "Iwo Jima",
+        "Pope",
+        "Moreno",
         "Jasper",
+        "Iwo Jima",
         "Saka",
-        "Bessent",
-        "Raya",
-        "Cherki"
+        "Purdue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 22 2026 20:07:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 20:58:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
@@ -51,18 +51,18 @@
         "Saka",
         "#ARSMCI",
         "Raya",
-        "Spurs",
         "Man City",
+        "Spurs",
+        "Lookman",
         "Havertz",
-        "Wembley",
-        "Martinelli"
+        "Wembley"
       ],
       "hashtags": [
         "#ARSMCI",
+        "#wildflowerhour",
         "#CarabaoCup",
-        "#MCFC",
-        "#nffc",
-        "#sts70s"
+        "#whowantstobeamillionaire",
+        "#storyplants"
       ],
       "regular_topics": [
         "Arsenal",
@@ -70,109 +70,109 @@
         "Kepa",
         "Saka",
         "Raya",
-        "Spurs",
         "Man City",
+        "Spurs",
+        "Lookman",
         "Havertz",
         "Wembley",
-        "Martinelli",
-        "Nico O'Reilly"
+        "Etihad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 22 2026 20:01:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 20:54:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Kepa",
         "Arteta",
-        "#CFMTL",
-        "Donadel",
-        "Saka",
+        "Kepa",
         "Mueller",
+        "#CFMTL",
+        "Saka",
+        "Donadel",
         "chappell",
         "Go Leafs",
-        "Raya",
+        "Lookman",
         "Diego Garcia"
       ],
       "hashtags": [
         "#CFMTL",
-        "#CarabaoCup",
         "#UFCLondon",
         "#ARSMCI",
-        "#IMFC"
+        "#IMFC",
+        "#EVECHE"
       ],
       "regular_topics": [
         "Arsenal",
-        "Kepa",
         "Arteta",
-        "Donadel",
-        "Saka",
+        "Kepa",
         "Mueller",
+        "Saka",
+        "Donadel",
         "chappell",
         "Go Leafs",
-        "Raya",
+        "Lookman",
         "Diego Garcia",
-        "Mulcair"
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 22 2026 19:55:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 20:46:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#Dhurandhar2\u200cTheRevenge",
         "Arteta",
         "#RajatRuledThe50",
         "Kepa",
-        "#CarabaoCup",
         "Saka",
-        "#ARSMCI",
+        "#CarabaoCup",
         "#AskMalti",
-        "Nico O'Reilly",
-        "Cherki"
+        "#ARSMCI",
+        "Carvajal",
+        "Nico O'Reilly"
       ],
       "hashtags": [
         "#Dhurandhar2\u200cTheRevenge",
         "#RajatRuledThe50",
         "#CarabaoCup",
-        "#ARSMCI",
-        "#AskMalti"
+        "#AskMalti",
+        "#ARSMCI"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
         "Saka",
+        "Carvajal",
         "Nico O'Reilly",
         "Cherki",
         "Manchester City",
         "Havertz",
-        "Spurs",
-        "Trossard",
-        "Raya"
+        "Raya",
+        "Pep Guardiola"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 22 2026 19:52:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 20:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
+        "Lookman",
         "Saka",
         "#ARSMCI",
+        "Manchester City",
         "Havertz",
-        "Nico O'Reilly",
         "Raya",
-        "#EFLCup",
-        "Pep Guardiola",
-        "Bottlers FC"
+        "Nico O'Reilly",
+        "Pep Guardiola"
       ],
       "hashtags": [
         "#ARSMCI",
@@ -184,14 +184,14 @@
         "Arsenal",
         "Arteta",
         "Kepa",
+        "Lookman",
         "Saka",
+        "Manchester City",
         "Havertz",
-        "Nico O'Reilly",
         "Raya",
+        "Nico O'Reilly",
         "Pep Guardiola",
-        "Bottlers FC",
-        "Wembley",
-        "Quadruple"
+        "Bottlers FC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
