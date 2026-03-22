@@ -1,77 +1,77 @@
 {
-  "generated_at_utc": "2026-03-22T07:11:23.204956+00:00",
+  "generated_at_utc": "2026-03-22T07:53:18.956093+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 22 2026 05:51:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 07:33:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vandy",
         "Mueller",
         "Acuff",
+        "chappell roan",
         "High Point",
         "Rob Martin",
-        "Tyler Tanner",
+        "Vanderbilt",
+        "BYERS",
         "Sweet 16",
-        "chappell",
-        "Luke Kennard",
-        "Gonzaga",
-        "#TokyoRevengers"
+        "Arkansas",
+        "#Toonami"
       ],
       "hashtags": [
+        "#Toonami",
         "#TokyoRevengers",
         "#AEWCollision",
-        "#Toonami",
         "#BlueLock",
-        "#RoosterFighter"
+        "#JGFANDAY30XTOKYO"
       ],
       "regular_topics": [
         "Vandy",
         "Mueller",
         "Acuff",
+        "chappell roan",
         "High Point",
         "Rob Martin",
-        "Tyler Tanner",
+        "Vanderbilt",
+        "BYERS",
         "Sweet 16",
-        "chappell",
-        "Luke Kennard",
-        "Gonzaga",
-        "Goga"
+        "Arkansas",
+        "Tyler Tanner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 22 2026 06:13:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 07:04:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCLondon",
         "#SNLUK",
-        "#EVECHE",
-        "Everton",
         "Diego Garcia",
+        "Everton",
         "#ogchibi",
-        "Amad",
+        "#EVECHE",
         "#BHALIV",
+        "Amad",
         "Beto",
-        "Chuck Norris",
-        "Brighton"
+        "chappell",
+        "Chuck Norris"
       ],
       "hashtags": [
         "#UFCLondon",
         "#SNLUK",
-        "#EVECHE",
         "#ogchibi",
+        "#EVECHE",
         "#BHALIV"
       ],
       "regular_topics": [
-        "Everton",
         "Diego Garcia",
+        "Everton",
         "Amad",
         "Beto",
+        "chappell",
         "Chuck Norris",
         "Brighton",
-        "chappell",
         "Welbeck",
         "Eid Mubarak",
         "Bournemouth",
@@ -121,76 +121,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 22 2026 06:52:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 07:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#2YearsOfBhajanlal",
         "#9YearsOfKisanSamman",
         "YogiGovt StrengtheningFarmers",
         "#WorldWaterDay",
-        "#BiharDiwas",
         "#PackUpStalin",
-        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
+        "#BiharDiwas",
         "Gaza",
-        "Pyxis Pioneer",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u091c\u094d\u092f\u094b\u0924\u093f \u091c\u094d\u092f\u094b\u0924"
+        "Dasun Shanaka",
+        "WILLIAMEST MANILA FANLOVE",
+        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
+        "Pawan Kumar Chamling"
       ],
       "hashtags": [
         "#2YearsOfBhajanlal",
         "#9YearsOfKisanSamman",
         "#WorldWaterDay",
-        "#BiharDiwas",
-        "#PackUpStalin"
+        "#PackUpStalin",
+        "#BiharDiwas"
       ],
       "regular_topics": [
         "YogiGovt StrengtheningFarmers",
-        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
         "Gaza",
-        "Pyxis Pioneer",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u091c\u094d\u092f\u094b\u0924\u093f \u091c\u094d\u092f\u094b\u0924",
-        "\u0926\u0915\u094d\u0937 \u091a\u094c\u0927\u0930\u0940",
+        "Dasun Shanaka",
+        "WILLIAMEST MANILA FANLOVE",
+        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
         "Pawan Kumar Chamling",
+        "Pyxis Pioneer",
         "\u0917\u0941\u0930\u0941 \u0905\u0902\u0917\u0926 \u0926\u0947\u0935",
-        "JOSSGAWIN 1ST TIME IN TOKYO",
-        "\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0917\u0941\u0930\u0941"
+        "Sam Curran",
+        "\u0926\u0915\u094d\u0937 \u091a\u094c\u0927\u0930\u0940",
+        "A. True"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 22 2026 06:51:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 07:42:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
         "#EVECHE",
         "Beto",
-        "Israel",
-        "Eid Mubarak",
         "Iran",
+        "Eid Mubarak",
+        "Israel",
         "Gaza",
         "Ozoro",
-        "Blessed Sunday",
         "Amen",
+        "Blessed Sunday",
         "Welbeck"
       ],
       "hashtags": [
         "#EVECHE",
         "#HBDToshine",
         "#BHALIV",
-        "#boumun",
-        "#BeautyInBlack"
+        "#telavivyan\u0131yor",
+        "#boumun"
       ],
       "regular_topics": [
         "Everton",
         "Beto",
-        "Israel",
-        "Eid Mubarak",
         "Iran",
+        "Eid Mubarak",
+        "Israel",
         "Gaza",
         "Ozoro",
-        "Blessed Sunday",
         "Amen",
+        "Blessed Sunday",
         "Welbeck",
         "Liam Rosenior"
       ],
