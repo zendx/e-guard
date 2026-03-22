@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-22T08:55:15.729594+00:00",
+  "generated_at_utc": "2026-03-22T09:21:02.890920+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -82,39 +82,39 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 22 2026 07:52:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 08:44:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Concrete",
         "Mueller",
         "#UFCLondon",
         "Chuck Norris",
-        "McDavid",
         "chappell",
         "Go Leafs",
-        "Kucherov",
-        "#LetsGoOilers",
+        "McDavid",
         "Diego Garcia",
+        "Kucherov",
         "Dimona",
-        "Parros"
+        "Greer"
       ],
       "hashtags": [
         "#UFCLondon",
-        "#LetsGoOilers",
         "#BTSLiveonNetflix",
         "#tadc",
+        "#LetsGoOilers",
         "#EVECHE"
       ],
       "regular_topics": [
+        "Concrete",
         "Mueller",
         "Chuck Norris",
-        "McDavid",
         "chappell",
         "Go Leafs",
-        "Kucherov",
+        "McDavid",
         "Diego Garcia",
+        "Kucherov",
         "Dimona",
-        "Parros",
         "Greer",
-        "Caine"
+        "Parros"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
