@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-22T16:51:24.167529+00:00",
+  "generated_at_utc": "2026-03-22T17:15:28.913925+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,156 +43,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 22 2026 15:46:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 16:40:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NUFC",
+        "Spurs",
+        "West Ham",
+        "Tottenham",
+        "#nffc",
+        "Tudor",
         "Howe",
+        "#NUFC",
+        "Forest",
         "Sunderland",
-        "#SAFC",
-        "Easter",
-        "No Eze",
-        "#NEWSUN",
-        "Xavi",
-        "#TOTNFO",
-        "Romero",
-        "Michael Oliver"
+        "#THFC",
+        "#TOTNFO"
       ],
       "hashtags": [
+        "#nffc",
         "#NUFC",
-        "#SAFC",
-        "#NEWSUN",
+        "#THFC",
         "#TOTNFO",
-        "#COYS"
+        "#ARSMCI"
       ],
       "regular_topics": [
+        "Spurs",
+        "West Ham",
+        "Tottenham",
+        "Tudor",
         "Howe",
+        "Forest",
         "Sunderland",
         "Easter",
-        "No Eze",
-        "Xavi",
         "Romero",
-        "Michael Oliver",
-        "Brobbey",
-        "Pablo",
-        "Gibbs",
-        "Timber"
+        "No Eze",
+        "Solanke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 22 2026 15:43:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 16:33:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mueller",
+        "Spurs",
+        "Tottenham",
         "chappell",
         "Go Leafs",
-        "Amber",
         "#UFCLondon",
-        "Chuck Norris",
+        "Bessent",
         "Diego Garcia",
-        "No Eze",
         "#NUFC",
-        "Rayo",
-        "Sunderland"
+        "Chuck Norris",
+        "No Eze"
       ],
       "hashtags": [
         "#UFCLondon",
         "#NUFC",
         "#EVECHE",
-        "#WorldWaterDay",
+        "#SpareIranPowerPlants",
         "#NEWSUN"
       ],
       "regular_topics": [
         "Mueller",
+        "Spurs",
+        "Tottenham",
         "chappell",
         "Go Leafs",
-        "Amber",
-        "Chuck Norris",
+        "Bessent",
         "Diego Garcia",
+        "Chuck Norris",
         "No Eze",
-        "Rayo",
-        "Sunderland",
-        "Dimona",
-        "Good Sunday"
+        "Amber",
+        "West Ham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 22 2026 15:34:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 16:28:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#The50GrandFinale",
+        "#Dhurandhar2\u200cTheRevenge",
         "#winPOCOX8ProMax",
         "#POCOX8Series",
-        "#The50GrandFinale",
-        "#JKPaperAutHerAwards",
-        "#Dhurandhar2\u200cTheRevenge",
+        "Spurs",
+        "#Roar26",
         "No BS",
         "B. IP69K",
         "B. 9000mAh",
-        "A. 100W",
-        "A. All Power",
-        "B. 50MP"
+        "B. 50MP",
+        "A. 100W"
       ],
       "hashtags": [
+        "#The50GrandFinale",
+        "#Dhurandhar2\u200cTheRevenge",
         "#winPOCOX8ProMax",
         "#POCOX8Series",
-        "#The50GrandFinale",
-        "#JKPaperAutHerAwards",
-        "#Dhurandhar2\u200cTheRevenge"
+        "#Roar26"
       ],
       "regular_topics": [
+        "Spurs",
         "No BS",
         "B. IP69K",
         "B. 9000mAh",
+        "B. 50MP",
         "A. 100W",
         "A. All Power",
-        "B. 50MP",
         "Joan Garcia",
-        "Chepauk",
-        "B. White",
-        "A. Black",
-        "Sunderland"
+        "Suresh Raina",
+        "West Ham",
+        "Chepauk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 22 2026 15:32:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 16:24:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Joan Garcia",
-        "Sunderland",
         "No Eze",
+        "Joan Garcia",
+        "Dear God",
         "Rayo",
         "Manchester City",
-        "Araujo",
+        "Sunderland",
+        "Tottenham Hotspur",
         "Man City",
-        "#CarabaoCupOnStarTimes",
-        "Timber",
-        "Igor Jesus",
-        "Spiritual"
+        "#TOTNFO",
+        "Relegation",
+        "West Ham"
       ],
       "hashtags": [
+        "#TOTNFO",
+        "#COYG",
         "#CarabaoCupOnStarTimes",
         "#NEWSUN",
-        "#EmpoweredByTEF",
-        "#tadc",
-        "#HBDToshine"
+        "#EmpoweredByTEF"
       ],
       "regular_topics": [
-        "Joan Garcia",
-        "Sunderland",
         "No Eze",
+        "Joan Garcia",
+        "Dear God",
         "Rayo",
         "Manchester City",
-        "Araujo",
+        "Sunderland",
+        "Tottenham Hotspur",
         "Man City",
-        "Timber",
-        "Igor Jesus",
-        "Spiritual",
-        "Brian Brobbey"
+        "Relegation",
+        "West Ham",
+        "Timber"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
