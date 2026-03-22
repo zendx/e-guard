@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-03-22T09:21:02.890920+00:00",
+  "generated_at_utc": "2026-03-22T09:52:04.476571+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 22 2026 07:33:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 09:19:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vandy",
         "Mueller",
-        "Acuff",
+        "Nebraska",
         "chappell roan",
-        "High Point",
-        "Rob Martin",
-        "Vanderbilt",
         "BYERS",
-        "Sweet 16",
-        "Arkansas",
-        "#Toonami"
+        "Acuff",
+        "#DMDWORLDinJAPAN",
+        "Rob Martin",
+        "#Toonami",
+        "High Point",
+        "Vanderbilt"
       ],
       "hashtags": [
+        "#DMDWORLDinJAPAN",
         "#Toonami",
+        "#LoveYouTeacherSeriesEP2",
         "#TokyoRevengers",
-        "#AEWCollision",
-        "#BlueLock",
         "#JGFANDAY30XTOKYO"
       ],
       "regular_topics": [
         "Vandy",
         "Mueller",
-        "Acuff",
+        "Nebraska",
         "chappell roan",
-        "High Point",
-        "Rob Martin",
-        "Vanderbilt",
         "BYERS",
-        "Sweet 16",
+        "Acuff",
+        "Rob Martin",
+        "High Point",
+        "Vanderbilt",
         "Arkansas",
-        "Tyler Tanner"
+        "Sweet 16"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 22 2026 07:56:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 09:42:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#bbclaurak",
+        "Easter",
         "#UFCLondon",
         "#SNLUK",
         "Diego Garcia",
-        "#SundayYellow",
         "#ogchibi",
         "Everton",
+        "American English",
         "#EVECHE",
-        "Amad",
-        "chappell",
-        "Beto",
-        "American English"
+        "Steve Reed",
+        "British English"
       ],
       "hashtags": [
+        "#bbclaurak",
         "#UFCLondon",
         "#SNLUK",
-        "#SundayYellow",
         "#ogchibi",
         "#EVECHE"
       ],
       "regular_topics": [
+        "Easter",
         "Diego Garcia",
         "Everton",
-        "Amad",
+        "American English",
+        "Steve Reed",
+        "British English",
         "chappell",
         "Beto",
-        "American English",
-        "Chuck Norris",
+        "Amad",
         "Brighton",
-        "Welbeck",
-        "Easter",
-        "Dimona"
+        "Chuck Norris"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 22 2026 08:44:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 09:39:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Concrete",
         "Mueller",
         "#UFCLondon",
         "Chuck Norris",
         "chappell",
+        "Amber",
         "Go Leafs",
-        "McDavid",
         "Diego Garcia",
-        "Kucherov",
         "Dimona",
-        "Greer"
+        "Greer",
+        "Parros"
       ],
       "hashtags": [
         "#UFCLondon",
         "#BTSLiveonNetflix",
         "#tadc",
-        "#LetsGoOilers",
-        "#EVECHE"
+        "#EVECHE",
+        "#LoveYouTeacherSeriesEP2"
       ],
       "regular_topics": [
         "Concrete",
         "Mueller",
         "Chuck Norris",
         "chappell",
+        "Amber",
         "Go Leafs",
-        "McDavid",
         "Diego Garcia",
-        "Kucherov",
         "Dimona",
         "Greer",
-        "Parros"
+        "Parros",
+        "Caine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 22 2026 07:44:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 09:30:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#2YearsOfBhajanlal",
+        "#The50GrandFinale",
         "#9YearsOfKisanSamman",
+        "#AstroBharatAI",
         "YogiGovt StrengtheningFarmers",
-        "#WorldWaterDay",
-        "#PackUpStalin",
-        "#BiharDiwas",
-        "Gaza",
+        "#NishadpartyDrSanjayNishad",
+        "#PradhanSevakModi",
+        "Nishad Vote Power",
         "Dasun Shanaka",
         "WILLIAMEST MANILA FANLOVE",
-        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
-        "Pawan Kumar Chamling"
+        "Pawan Kumar Chamling",
+        "Gaza"
       ],
       "hashtags": [
-        "#2YearsOfBhajanlal",
+        "#The50GrandFinale",
         "#9YearsOfKisanSamman",
-        "#WorldWaterDay",
-        "#PackUpStalin",
-        "#BiharDiwas"
+        "#AstroBharatAI",
+        "#NishadpartyDrSanjayNishad",
+        "#PradhanSevakModi"
       ],
       "regular_topics": [
         "YogiGovt StrengtheningFarmers",
-        "Gaza",
+        "Nishad Vote Power",
         "Dasun Shanaka",
         "WILLIAMEST MANILA FANLOVE",
-        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0938\u094d\u0935\u0930\u0942\u092a",
         "Pawan Kumar Chamling",
-        "Pyxis Pioneer",
-        "\u0917\u0941\u0930\u0941 \u0905\u0902\u0917\u0926 \u0926\u0947\u0935",
+        "Gaza",
+        "\u0938\u093e\u0930\u094d\u0935\u091c\u0928\u093f\u0915 \u091c\u0940\u0935\u0928",
+        "\u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u0928\u093e\u0925 \u092a\u093e\u0930\u094d\u0915",
+        "\u092a\u0935\u0928 \u0915\u0941\u092e\u093e\u0930 \u091a\u093e\u092e\u0932\u093f\u0902\u0917",
         "Sam Curran",
-        "\u0926\u0915\u094d\u0937 \u091a\u094c\u0927\u0930\u0940",
-        "A. True"
+        "Chinna Thala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 22 2026 08:33:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 09:28:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
+        "Arsenal",
         "#EVECHE",
         "Beto",
+        "#OngaEidInTheCity",
         "Israel",
-        "Iran",
         "Eid Mubarak",
-        "Gaza",
         "Ozoro",
-        "Arsenal",
-        "Welbeck",
-        "Blessed Sunday"
+        "Iran",
+        "Gaza",
+        "Today is Sunday"
       ],
       "hashtags": [
         "#EVECHE",
+        "#OngaEidInTheCity",
         "#HBDToshine",
-        "#telavivyan\u0131yor",
         "#COYG",
-        "#BHALIV"
+        "#telavivyan\u0131yor"
       ],
       "regular_topics": [
         "Everton",
+        "Arsenal",
         "Beto",
         "Israel",
-        "Iran",
         "Eid Mubarak",
-        "Gaza",
         "Ozoro",
-        "Arsenal",
-        "Welbeck",
-        "Blessed Sunday",
-        "Liam Rosenior"
+        "Iran",
+        "Gaza",
+        "Today is Sunday",
+        "Liam Rosenior",
+        "Welbeck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
