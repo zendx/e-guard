@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-22T15:14:48.317408+00:00",
+  "generated_at_utc": "2026-03-22T15:45:33.933081+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 22 2026 14:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 15:24:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
-        "Sunderland",
         "Muhammad Qasim",
+        "Bessent",
         "#AlwaysTogetherHEESEUNG",
         "Mueller",
-        "Brennan",
-        "Cadbury",
+        "Rayo",
+        "#\uc720\ud1a0\ud53c\uc544\uc655\uc790_\uc724\ud638_\uc0dd\uc77c\ud558\ud29c",
         "chappell roan",
-        "Sunday Funday",
-        "#NUFC",
-        "#SeductiveSunday"
+        "#OurHatyuPrinceYunho",
+        "#SeductiveSunday",
+        "Sunderland"
       ],
       "hashtags": [
         "#AlwaysTogetherHEESEUNG",
-        "#NUFC",
+        "#\uc720\ud1a0\ud53c\uc544\uc655\uc790_\uc724\ud638_\uc0dd\uc77c\ud558\ud29c",
+        "#OurHatyuPrinceYunho",
         "#SeductiveSunday",
-        "#SundayVibes",
-        "#NEWSUN"
+        "#SundayVibes"
       ],
       "regular_topics": [
         "Good Sunday",
-        "Sunderland",
         "Muhammad Qasim",
+        "Bessent",
         "Mueller",
+        "Rayo",
+        "chappell roan",
+        "Sunderland",
         "Brennan",
         "Cadbury",
-        "chappell roan",
         "Sunday Funday",
-        "Bryson",
-        "William Shatner",
-        "Peni Parker"
+        "Meet the Press"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
