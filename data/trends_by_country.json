@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-03-22T21:15:18.978732+00:00",
+  "generated_at_utc": "2026-03-22T21:45:23.388311+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 22 2026 20:36:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 22 2026 21:28:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Iowa State",
-        "Arsenal",
         "Kentucky",
+        "Pope",
+        "Arsenal",
+        "Carvajal",
+        "Jasper",
         "Kepa",
         "Arteta",
-        "Pope",
+        "Lookman",
         "Moreno",
-        "Jasper",
-        "Iwo Jima",
-        "Saka",
-        "Purdue"
+        "Cyclones"
       ],
       "hashtags": [
         "#NASCAR",
         "#Goodyear400",
         "#AlwaysTogetherHEESEUNG",
-        "#ARSMCI",
-        "#CarabaoCup"
+        "#FeelsLike44"
       ],
       "regular_topics": [
         "Iowa State",
-        "Arsenal",
         "Kentucky",
+        "Pope",
+        "Arsenal",
+        "Carvajal",
+        "Jasper",
         "Kepa",
         "Arteta",
-        "Pope",
+        "Lookman",
         "Moreno",
-        "Jasper",
-        "Iwo Jima",
-        "Saka",
-        "Purdue"
+        "Cyclones"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
