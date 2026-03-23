@@ -1,103 +1,102 @@
 {
-  "generated_at_utc": "2026-03-23T11:35:21.424946+00:00",
+  "generated_at_utc": "2026-03-23T12:36:48.767396+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 23 2026 10:32:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 12:24:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "TACO",
+        "Witch",
         "Good Monday",
+        "#MondayMotivation",
         "Air Canada",
         "LaGuardia",
-        "#MondayMotivation",
-        "#DMDWORLDINTOKYO",
-        "Port Authority",
-        "#YUNA_IceCream",
+        "#MondayVibes",
+        "US and Iran",
         "O God",
-        "Iowa",
-        "Whale - Buy",
-        "Runway 4"
+        "Port Authority",
+        "#DMDWORLDINTOKYO"
       ],
       "hashtags": [
         "#MondayMotivation",
+        "#MondayVibes",
         "#DMDWORLDINTOKYO",
-        "#YUNA_IceCream",
+        "#YUNA",
         "#Married2Med",
-        "#AlwaysTogetherHEESEUNG",
-        "#BaddiesUSA",
         "#DomainsForSale",
-        "#uconn"
+        "#BaddiesUSA"
       ],
       "regular_topics": [
+        "TACO",
+        "Witch",
         "Good Monday",
         "Air Canada",
         "LaGuardia",
-        "Port Authority",
+        "US and Iran",
         "O God",
-        "Iowa",
-        "Whale - Buy",
-        "Runway 4",
-        "FDV 5min",
-        "Theresa",
-        "Lio Rush"
+        "Port Authority",
+        "Fournette",
+        "National Puppy Day",
+        "Patrick Henry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 23 2026 10:03:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 11:54:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kepa",
-        "Arsenal",
         "Easter",
-        "Golders Green",
+        "Arsenal",
         "Arteta",
-        "#ARSMCI",
-        "Hatzola",
         "St John",
-        "Wembley",
+        "Golders Green",
+        "#ARSMCI",
+        "Witch",
+        "Hatzola",
         "Howe",
-        "Sunderland"
+        "Wembley"
       ],
       "hashtags": [
         "#ARSMCI",
         "#SAFC",
-        "#CarabaoCupFinal",
-        "#MondayMotivation",
+        "#CarabaoCup",
+        "#popmaster",
         "#NUFC"
       ],
       "regular_topics": [
         "Kepa",
-        "Arsenal",
         "Easter",
-        "Golders Green",
+        "Arsenal",
         "Arteta",
-        "Hatzola",
         "St John",
-        "Wembley",
+        "Golders Green",
+        "Witch",
+        "Hatzola",
         "Howe",
-        "Sunderland",
-        "Spurs"
+        "Wembley",
+        "Sunderland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 23 2026 10:00:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 11:51:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "LaGuardia",
+        "TACO",
+        "Witch",
         "Kepa",
         "Mueller",
-        "Chappell",
+        "chappell",
         "Arsenal",
         "Mulcair",
         "Scott Reid",
-        "donadel",
-        "Arteta",
-        "Go Leafs"
+        "Arteta"
       ],
       "hashtags": [
         "#AlwaysTogetherHEESEUNG",
@@ -109,98 +108,93 @@
       "regular_topics": [
         "Air Canada",
         "LaGuardia",
+        "TACO",
+        "Witch",
         "Kepa",
         "Mueller",
-        "Chappell",
+        "chappell",
         "Arsenal",
         "Mulcair",
         "Scott Reid",
-        "donadel",
-        "Arteta",
-        "Go Leafs"
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 23 2026 10:44:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 11:44:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PakistanAgentGauravGogoi",
-        "#GradeYourMithai",
+        "#AMNSIndiaComesToAP",
         "#TNTrustsAIADMK",
-        "Yogi Govt Empowers Women",
+        "#GradeYourMithai",
         "#LokSabha",
+        "TheMix",
         "Make India Grade Aware",
-        "#POCOX8SeriesSale",
-        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
-        "SIT Assam",
+        "Gift Nifty",
+        "Witch",
         "West Asia",
-        "\u092a\u0936\u094d\u091a\u093f\u092e \u090f\u0936\u093f\u092f\u093e"
+        "SIT Assam"
       ],
       "hashtags": [
         "#PakistanAgentGauravGogoi",
-        "#GradeYourMithai",
+        "#AMNSIndiaComesToAP",
         "#TNTrustsAIADMK",
-        "#LokSabha",
-        "#POCOX8SeriesSale",
-        "#ShaheedDiwas",
-        "#9YearsOfWomenEmpowerment",
-        "#PMModi",
-        "#NationTrustsIPS",
-        "#Gold"
+        "#GradeYourMithai",
+        "#LokSabha"
       ],
       "regular_topics": [
-        "Yogi Govt Empowers Women",
+        "TheMix",
         "Make India Grade Aware",
-        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
-        "SIT Assam",
+        "Gift Nifty",
+        "Witch",
         "West Asia",
+        "SIT Assam",
+        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "\u092a\u0936\u094d\u091a\u093f\u092e \u090f\u0936\u093f\u092f\u093e",
-        "\u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921",
-        "Sant RampalJi YtChannel",
-        "Eshan Malinga",
-        "\u0930\u093e\u092e \u092e\u0928\u094b\u0939\u0930 \u0932\u094b\u0939\u093f\u092f\u093e",
-        "LaGuardia Airport"
+        "District",
+        "ArcelorMittal Nippon Steel",
+        "Yogi Govt Empowers Women"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 23 2026 10:40:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 11:40:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
         "#RefreshingNigeria",
-        "Happy New Week",
         "#ARSMCI",
-        "#MondayMotivation",
         "Chelsea",
+        "#MondayMotivation",
         "Saka",
-        "Amen",
+        "Happy New Week",
+        "#GloCollaboBundle",
         "Wembley"
       ],
       "hashtags": [
         "#RefreshingNigeria",
         "#ARSMCI",
         "#MondayMotivation",
-        "#TemmyDreddzNewSong",
-        "#EFLCup"
+        "#GloCollaboBundle",
+        "#GlobalOilPrice"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "Happy New Week",
         "Chelsea",
         "Saka",
-        "Amen",
+        "Happy New Week",
         "Wembley",
         "Dear God",
         "Carabao Cup",
-        "Nico O'Reilly"
+        "Nico O'Reilly",
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
