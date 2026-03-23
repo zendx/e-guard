@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-03-23T23:22:37.967345+00:00",
+  "generated_at_utc": "2026-03-23T23:52:23.155725+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 23 2026 21:58:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 22:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Azzi",
         "Elvis",
         "Graceland",
+        "UConn",
         "Hannah Hidalgo",
+        "Syracuse",
         "Election Day",
-        "The ACA",
-        "Moana",
         "Star Trek",
-        "Solange",
-        "Tiafoe",
-        "Wonder Man",
-        "Randy Bennett"
+        "#ENHYPEN_ALWAYS_7",
+        "The ACA",
+        "Solange"
       ],
       "hashtags": [
         "#ENHYPEN_ALWAYS_7",
         "#HEESEUNG_Belongs_With_ENHYPEN",
-        "#NationalPuppyDay2026",
         "#BOYCOTT_HYBE_and_BELIFT",
-        "#jimromeonx"
+        "#NationalPuppyDay2026",
+        "#TheFive"
       ],
       "regular_topics": [
+        "Azzi",
         "Elvis",
         "Graceland",
+        "UConn",
         "Hannah Hidalgo",
+        "Syracuse",
         "Election Day",
-        "The ACA",
-        "Moana",
         "Star Trek",
+        "The ACA",
         "Solange",
-        "Tiafoe",
-        "Wonder Man",
         "Randy Bennett"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,90 +43,90 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 23 2026 22:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 23:15:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Easter",
         "Golders Green",
-        "Kepa",
         "St John",
+        "Kepa",
         "Hatzola",
         "Arteta",
-        "#MAFSAU",
         "Arsenal",
-        "#UniversityChallenge",
+        "#MAFSAU",
         "Howe",
-        "Wembley"
+        "Wembley",
+        "Ben White"
       ],
       "hashtags": [
         "#MAFSAU",
-        "#UniversityChallenge",
-        "#Corrie",
+        "#universitychallenge",
         "#ARSMCI",
+        "#Corrie",
         "#SAFC"
       ],
       "regular_topics": [
         "Easter",
         "Golders Green",
-        "Kepa",
         "St John",
+        "Kepa",
         "Hatzola",
         "Arteta",
         "Arsenal",
         "Howe",
         "Wembley",
         "Ben White",
-        "Saka"
+        "TACO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 23 2026 22:18:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 23:09:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "LaGuardia",
         "TACO",
+        "Elvis",
+        "Azzi",
         "Scott Reid",
         "Mulcair",
-        "Elvis",
         "Witch",
         "Easter",
-        "Kepa",
         "#NationalPuppyDay",
-        "Arteta"
+        "Kepa"
       ],
       "hashtags": [
         "#NationalPuppyDay",
-        "#AlwaysTogetherHEESEUNG",
         "#spareiranpowerplants",
-        "#CarabaoCup",
-        "#GirlRulesSeriesEP3"
+        "#ENHYPEN_ALWAYS_7",
+        "#HEESEUNG_Belongs_With_ENHYPEN",
+        "#AlwaysTogetherHEESEUNG"
       ],
       "regular_topics": [
         "Air Canada",
         "LaGuardia",
         "TACO",
+        "Elvis",
+        "Azzi",
         "Scott Reid",
         "Mulcair",
-        "Elvis",
         "Witch",
         "Easter",
         "Kepa",
-        "Arteta",
-        "Wonder Man"
+        "Ghalibaf"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 23 2026 22:10:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 23:03:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f_\u092a\u0930_\u091c\u093e\u0928\u0947\u0902_\u0930\u0939\u0938\u094d\u092f",
         "#ShaheedDiwas",
-        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "Sant RampalJi YtChannel",
+        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "#pakistanagentgauravgogoi",
         "yogi govt empowers women",
         "#Dhurandhar2\u200cTheRevenge",
@@ -143,16 +143,16 @@
         "#tntrustsaiadmk"
       ],
       "regular_topics": [
-        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "Sant RampalJi YtChannel",
+        "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "yogi govt empowers women",
         "Trump",
         "\u0926\u0947\u0935\u0940 \u0926\u0941\u0930\u094d\u0917\u093e",
         "\u0930\u093e\u092e \u092e\u0928\u094b\u0939\u0930 \u0932\u094b\u0939\u093f\u092f\u093e",
         "yogigovt strengtheningfarmers",
-        "\u091c\u094d\u091e\u093e\u0928 \u0917\u0902\u0917\u093e \u092a\u0941\u0938\u094d\u0924\u0915",
         "\u092a\u0902\u091a\u092e \u0938\u094d\u0935\u0930\u0942\u092a",
         "make india grade aware",
+        "\u091c\u094d\u091e\u093e\u0928 \u0917\u0902\u0917\u093e \u092a\u0941\u0938\u094d\u0924\u0915",
         "Leonid Radvinsky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 23 2026 22:06:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 23:00:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
@@ -168,18 +168,18 @@
         "Leonid Radvinsky",
         "#MondayMotivation",
         "Omotola",
-        "Happy New Week",
-        "STATE OF MIND",
         "Trump",
+        "Happy New Week",
         "Saka",
+        "#ARSMCI",
         "$RIVER"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#ARSMCI",
         "#activatextracova",
-        "#EVECHE",
-        "#temmydreddznewsong"
+        "#eveche",
+        "#globaloilprice"
       ],
       "regular_topics": [
         "Arsenal",
@@ -187,12 +187,12 @@
         "Kepa",
         "Leonid Radvinsky",
         "Omotola",
-        "Happy New Week",
-        "STATE OF MIND",
         "Trump",
+        "Happy New Week",
         "Saka",
         "$RIVER",
-        "Kwankwaso"
+        "Kwankwaso",
+        "Game 5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
