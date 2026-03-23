@@ -1,195 +1,197 @@
 {
-  "generated_at_utc": "2026-03-23T16:42:29.834318+00:00",
+  "generated_at_utc": "2026-03-23T17:41:30.421058+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 23 2026 15:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 16:45:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Moana",
         "TACO",
+        "Homeward Bound",
         "Witch",
         "Leonid Radvinsky",
-        "Jaxon Smith",
-        "#MondayMotivation",
+        "Maui",
         "Witkoff",
-        "Homeward Bound",
-        "Good Monday",
-        "Fournette",
+        "Ghalibaf",
         "#NationalPuppyDay",
-        "NovaRed Mining Inc."
+        "Jaxon Smith",
+        "Puka"
       ],
       "hashtags": [
-        "#MondayMotivation",
         "#NationalPuppyDay",
+        "#MondayMotivation",
         "#BuschKeeper",
         "#GirlRulesSeriesEP3",
         "#ConfettiFallinForMina"
       ],
       "regular_topics": [
+        "Moana",
         "TACO",
+        "Homeward Bound",
         "Witch",
         "Leonid Radvinsky",
-        "Jaxon Smith",
+        "Maui",
         "Witkoff",
-        "Homeward Bound",
-        "Good Monday",
-        "Fournette",
-        "NovaRed Mining Inc.",
-        "LaGuardia",
-        "Puka"
+        "Ghalibaf",
+        "Jaxon Smith",
+        "Puka",
+        "Fournette"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 23 2026 16:16:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 17:08:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "St John",
+        "Easter",
+        "Kepa",
         "Golders Green",
+        "Arsenal",
+        "Arteta",
+        "St John",
         "Hatzola",
-        "TACO",
-        "Witch",
-        "Ben White",
-        "The Jewish",
-        "Trent",
-        "Leonid Radvinsky",
-        "Mossad",
-        "Uncle Simon"
+        "Howe",
+        "#arsmci",
+        "Wembley",
+        "Saka"
       ],
       "hashtags": [
-        "#politicslive",
-        "#NationalPuppyDay",
-        "#MondayMotivation"
+        "#arsmci",
+        "#SAFC",
+        "#CarabaoCup",
+        "#aplaceinthesun",
+        "#NUFC"
       ],
       "regular_topics": [
-        "St John",
+        "Easter",
+        "Kepa",
         "Golders Green",
+        "Arsenal",
+        "Arteta",
+        "St John",
         "Hatzola",
-        "TACO",
-        "Witch",
-        "Ben White",
-        "The Jewish",
-        "Trent",
-        "Leonid Radvinsky",
-        "Mossad",
-        "Uncle Simon"
+        "Howe",
+        "Wembley",
+        "Saka",
+        "Ben White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 23 2026 16:12:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 17:03:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "LaGuardia",
         "TACO",
-        "Mulcair",
-        "Kepa",
-        "Scott Reid",
-        "Witch",
         "Ghalibaf",
-        "chappell",
+        "Mulcair",
+        "Scott Reid",
+        "Kepa",
+        "Witch",
+        "Moana",
         "Mueller",
-        "Arteta"
+        "Easter"
       ],
       "hashtags": [
         "#AlwaysTogetherHEESEUNG",
-        "#90DayFiance",
         "#SpareIranPowerPlants",
-        "#GirlRulesSeriesEP3",
-        "#CFMTL"
+        "#NationalPuppyDay",
+        "#onpoli",
+        "#90dayfiancebeforethe90days"
       ],
       "regular_topics": [
         "Air Canada",
         "LaGuardia",
         "TACO",
-        "Mulcair",
-        "Kepa",
-        "Scott Reid",
-        "Witch",
         "Ghalibaf",
-        "chappell",
+        "Mulcair",
+        "Scott Reid",
+        "Kepa",
+        "Witch",
+        "Moana",
         "Mueller",
-        "Arteta"
+        "Easter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 23 2026 16:03:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 16:56:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u091c\u0902\u0924\u0930\u092e\u0902\u0924\u0930_\u092e\u093e\u0930\u094d\u091a",
         "#Ceasefire",
         "Trump",
+        "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u091c\u0902\u0924\u0930\u092e\u0902\u0924\u0930_\u092e\u093e\u0930\u094d\u091a",
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "Uni-1",
         "#DMKSurveyKuMoneyStateKuSorry",
         "#Darling4K",
-        "#StartupSingamSeason2",
+        "#TuHiDisda",
         "Leonid Radvinsky",
-        "A. 54",
         "Ayatollah",
-        "A. IP55",
-        "A. 12mm"
+        "A. 54"
       ],
       "hashtags": [
-        "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u091c\u0902\u0924\u0930\u092e\u0902\u0924\u0930_\u092e\u093e\u0930\u094d\u091a",
         "#Ceasefire",
+        "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u091c\u0902\u0924\u0930\u092e\u0902\u0924\u0930_\u092e\u093e\u0930\u094d\u091a",
         "#DMKSurveyKuMoneyStateKuSorry",
         "#Darling4K",
-        "#StartupSingamSeason2"
+        "#TuHiDisda"
       ],
       "regular_topics": [
         "Trump",
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "Uni-1",
         "Leonid Radvinsky",
-        "A. 54",
         "Ayatollah",
-        "A. IP55",
+        "A. 54",
         "A. 12mm",
-        "NFFU",
-        "B. Six",
+        "Election Commission",
+        "A. IP55",
         "B. 55 dB ANC",
-        "B. Bluetooth 6.0",
-        "Witch"
+        "B. Six"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 23 2026 16:00:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 16:52:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "Leonid Radvinsky",
         "Trump",
-        "#ActivateXtraCova",
+        "Leonid Radvinsky",
         "#MondayMotivation",
-        "Saka",
-        "#arsmci",
         "Happy New Week",
-        "#RazzlYourWorld"
+        "Saka",
+        "#RazzlYourWorld",
+        "#arsmci",
+        "Moana"
       ],
       "hashtags": [
-        "#ActivateXtraCova",
         "#MondayMotivation",
-        "#arsmci",
         "#RazzlYourWorld",
-        "#GoGlobalWithPlatnova"
+        "#arsmci",
+        "#ActivateXtraCova",
+        "#RefreshingNigeria"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "Leonid Radvinsky",
         "Trump",
-        "Saka",
+        "Leonid Radvinsky",
         "Happy New Week",
-        "Dear God",
+        "Saka",
+        "Moana",
         "Carabao Cup",
-        "Wembley",
+        "Dear God",
         "Kwankwaso"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
