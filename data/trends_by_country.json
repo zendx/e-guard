@@ -1,49 +1,52 @@
 {
-  "generated_at_utc": "2026-03-23T09:50:49.805706+00:00",
+  "generated_at_utc": "2026-03-23T10:44:21.495203+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 23 2026 08:48:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 10:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Monday",
         "Air Canada",
         "LaGuardia",
-        "Iowa",
+        "#MondayMotivation",
         "#DMDWORLDINTOKYO",
         "Port Authority",
-        "Runway 4",
-        "Sweet 16",
-        "#Married2Med",
-        "Lio Rush",
-        "Olivia Miles",
-        "UConn"
+        "#YUNA_IceCream",
+        "O God",
+        "Iowa",
+        "Whale - Buy",
+        "Runway 4"
       ],
       "hashtags": [
+        "#MondayMotivation",
         "#DMDWORLDINTOKYO",
+        "#YUNA_IceCream",
         "#Married2Med",
-        "#BaddiesUSA",
         "#AlwaysTogetherHEESEUNG",
-        "#JinxLaneige"
+        "#BaddiesUSA",
+        "#DomainsForSale",
+        "#uconn"
       ],
       "regular_topics": [
+        "Good Monday",
         "Air Canada",
         "LaGuardia",
-        "Iowa",
         "Port Authority",
+        "O God",
+        "Iowa",
+        "Whale - Buy",
         "Runway 4",
-        "Sweet 16",
-        "Lio Rush",
-        "Olivia Miles",
-        "UConn",
-        "Ben McCollum",
-        "Whale - Buy"
+        "FDV 5min",
+        "Theresa",
+        "Lio Rush"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 23 2026 09:09:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 10:03:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kepa",
         "Arsenal",
@@ -52,15 +55,15 @@
         "Arteta",
         "#ARSMCI",
         "Hatzola",
-        "Wembley",
-        "Sunderland",
         "St John",
-        "Spurs"
+        "Wembley",
+        "Howe",
+        "Sunderland"
       ],
       "hashtags": [
         "#ARSMCI",
         "#SAFC",
-        "#CarabaoCup",
+        "#CarabaoCupFinal",
         "#MondayMotivation",
         "#NUFC"
       ],
@@ -71,18 +74,18 @@
         "Golders Green",
         "Arteta",
         "Hatzola",
-        "Wembley",
-        "Sunderland",
         "St John",
-        "Spurs",
-        "Howe"
+        "Wembley",
+        "Howe",
+        "Sunderland",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 23 2026 09:06:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 10:00:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "LaGuardia",
@@ -90,11 +93,11 @@
         "Mueller",
         "Chappell",
         "Arsenal",
-        "Scott Reid",
         "Mulcair",
-        "Donadel",
+        "Scott Reid",
+        "donadel",
         "Arteta",
-        "Runway 4"
+        "Go Leafs"
       ],
       "hashtags": [
         "#AlwaysTogetherHEESEUNG",
@@ -110,41 +113,41 @@
         "Mueller",
         "Chappell",
         "Arsenal",
-        "Scott Reid",
         "Mulcair",
-        "Donadel",
+        "Scott Reid",
+        "donadel",
         "Arteta",
-        "Runway 4"
+        "Go Leafs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 23 2026 08:57:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 09:52:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PakistanAgentGauravGogoi",
+        "#TNTrustsAIADMK",
         "#GradeYourMithai",
-        "#9YearsOfWomenEmpowerment",
         "Yogi Govt Empowers Women",
-        "#POCOX8SeriesSale",
-        "#\u0938\u0902\u0938\u0926_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
+        "#9YearsOfWomenEmpowerment",
+        "#ShaheedDiwas",
         "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "Make India Grade Aware",
-        "Sant RampalJi YtChannel",
         "SIT Assam",
-        "Lok Sabha"
+        "Sant RampalJi YtChannel",
+        "\u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921"
       ],
       "hashtags": [
         "#PakistanAgentGauravGogoi",
+        "#TNTrustsAIADMK",
         "#GradeYourMithai",
         "#9YearsOfWomenEmpowerment",
+        "#ShaheedDiwas",
         "#POCOX8SeriesSale",
         "#\u0938\u0902\u0938\u0926_\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u092c\u091a\u093e\u0913",
-        "#TNTrustsAIADMK",
-        "#ShaheedDiwas",
+        "#LokSabha",
         "#BhagatSingh",
-        "#DhamiSarkarKe4SaalBemisaal",
         "#NationTrustsIPS",
         "#\u0928\u0935\u0930\u093e\u0924\u094d\u0930\u093f_\u092a\u0930_\u091c\u093e\u0928\u0947\u0902_\u0930\u0939\u0938\u094d\u092f"
       ],
@@ -152,53 +155,53 @@
         "Yogi Govt Empowers Women",
         "\u092d\u0917\u0924 \u0938\u093f\u0902\u0939",
         "Make India Grade Aware",
-        "Sant RampalJi YtChannel",
         "SIT Assam",
-        "Lok Sabha",
+        "Sant RampalJi YtChannel",
+        "\u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921",
         "\u0930\u093e\u092e \u092e\u0928\u094b\u0939\u0930 \u0932\u094b\u0939\u093f\u092f\u093e",
         "LaGuardia Airport",
-        "\u0938\u0941\u0916\u0926\u0947\u0935 \u0925\u093e\u092a\u0930",
-        "\u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921",
-        "\u0926\u0947\u0935\u0940 \u0926\u0941\u0930\u094d\u0917\u093e"
+        "\u092a\u0936\u094d\u091a\u093f\u092e \u090f\u0936\u093f\u092f\u093e",
+        "\u0926\u0947\u0935\u0940 \u0926\u0941\u0930\u094d\u0917\u093e",
+        "\u0917\u094c\u0930\u0935 \u0917\u094b\u0917\u094b\u0908"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 23 2026 08:56:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 23 2026 09:48:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "Amen",
         "Happy New Week",
+        "Amen",
         "#ARSMCI",
         "#MondayMotivation",
-        "GM CT",
-        "#TemmyDreddzNewSong",
         "Saka",
-        "Chelsea"
+        "Chelsea",
+        "#TemmyDreddzNewSong",
+        "Wembley"
       ],
       "hashtags": [
         "#ARSMCI",
         "#MondayMotivation",
         "#TemmyDreddzNewSong",
-        "#NSPPD",
-        "#EFLCup"
+        "#EFLCup",
+        "#RefreshingNigeria"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "Amen",
         "Happy New Week",
-        "GM CT",
+        "Amen",
         "Saka",
         "Chelsea",
-        "GOD OF PERFECTION",
-        "GOD OF WONDERS",
-        "Wembley"
+        "Wembley",
+        "Dear God",
+        "Carabao Cup",
+        "Raya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
