@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-03-24T05:18:02.660695+00:00",
+  "generated_at_utc": "2026-03-24T06:36:01.574332+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 24 2026 05:00:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 05:52:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Moses Moody",
         "#WWERaw",
-        "Punk",
         "#FueraOriana",
-        "FUERA JOSH",
+        "Punk",
+        "Explore Concrete",
         "#DubNation",
-        "Cam Thomas",
+        "FUERA JOSH",
         "#ENHYPEN_ALWAYS_7",
-        "Port Arthur",
-        "Daniss Jenkins",
-        "Godzilla"
+        "Cam Thomas",
+        "Godzilla",
+        "#HEESEUNG_Belongs_With_ENHYPEN"
       ],
       "hashtags": [
         "#WWERaw",
@@ -28,22 +28,22 @@
       "regular_topics": [
         "Moses Moody",
         "Punk",
+        "Explore Concrete",
         "FUERA JOSH",
         "Cam Thomas",
-        "Port Arthur",
-        "Daniss Jenkins",
         "Godzilla",
         "Star Trek",
-        "Pistons",
-        "Jey Uso",
-        "Valero"
+        "Kunno",
+        "Port Arthur",
+        "Daniss Jenkins",
+        "Hannah Montana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 24 2026 04:32:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 05:24:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Golders Green",
@@ -55,7 +55,7 @@
         "Arsenal",
         "Punk",
         "Roman Reigns",
-        "#TheRookie"
+        "Jey Uso"
       ],
       "hashtags": [
         "#WWERaw",
@@ -74,27 +74,27 @@
         "Arsenal",
         "Punk",
         "Roman Reigns",
-        "Ben White",
-        "Jey Uso"
+        "Jey Uso",
+        "Wembley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 24 2026 04:28:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 06:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Managed DeFi",
-        "Explore Concrete",
         "eRate",
         "Air Canada",
-        "#WWERaw",
+        "Explore Concrete",
         "LaGuardia",
+        "#WWERaw",
+        "Moses Moody",
         "Chabot",
         "#GoSensGo",
-        "McCain",
-        "Miller",
-        "Travis Green"
+        "Star Trek",
+        "JT Miller"
       ],
       "hashtags": [
         "#WWERaw",
@@ -105,15 +105,15 @@
       ],
       "regular_topics": [
         "Managed DeFi",
-        "Explore Concrete",
         "eRate",
         "Air Canada",
+        "Explore Concrete",
         "LaGuardia",
+        "Moses Moody",
         "Chabot",
-        "McCain",
-        "Miller",
-        "Travis Green",
         "Star Trek",
+        "JT Miller",
+        "Elvis",
         "TACO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,84 +121,82 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 24 2026 05:12:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 06:03:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BuyvivoT5xOnFlipkart",
+        "#AmirChandJagdishKumarIPOLive",
         "#9YearsOfYuvaShakti",
         "Yogi Vision Youth Driven",
-        "#BuyvivoT5xOnFlipkart",
+        "Amir Chand Aeroplane IPO",
+        "Amir Chand Exports IPO",
         "#AntiDowryCampaign",
-        "#GodMorningTuesday",
         "#WorldTBDay",
-        "\u091b\u0920\u0947 \u0938\u094d\u0935\u0930\u0942\u092a",
         "Port Arthur",
-        "Homai Vyarawalla",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "Valero"
+        "\u091b\u0920\u0947 \u0938\u094d\u0935\u0930\u0942\u092a",
+        "\u0930\u093f\u0902\u0915\u0942 \u0938\u093f\u0902\u0939"
       ],
       "hashtags": [
-        "#9YearsOfYuvaShakti",
         "#BuyvivoT5xOnFlipkart",
+        "#AmirChandJagdishKumarIPOLive",
+        "#9YearsOfYuvaShakti",
         "#AntiDowryCampaign",
-        "#GodMorningTuesday",
         "#WorldTBDay",
+        "#GodMorningTuesday",
         "#MaaKatyayani",
         "#WorldTuberculosisDay",
-        "#sincer\u00e3o",
-        "#EndTB",
-        "#HappyTuesday",
-        "#WWERaw"
+        "#EndTB"
       ],
       "regular_topics": [
         "Yogi Vision Youth Driven",
-        "\u091b\u0920\u0947 \u0938\u094d\u0935\u0930\u0942\u092a",
+        "Amir Chand Aeroplane IPO",
+        "Amir Chand Exports IPO",
         "Port Arthur",
-        "Homai Vyarawalla",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "Valero",
+        "\u091b\u0920\u0947 \u0938\u094d\u0935\u0930\u0942\u092a",
         "\u0930\u093f\u0902\u0915\u0942 \u0938\u093f\u0902\u0939",
         "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
-        "\u0937\u0937\u094d\u0920\u092e \u0938\u094d\u0935\u0930\u0942\u092a",
-        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "Blessings"
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Valero",
+        "Homai Vyarawalla",
+        "\u0937\u0937\u094d\u0920\u092e \u0938\u094d\u0935\u0930\u0942\u092a"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 24 2026 05:06:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 06:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
-        "#MondayMotivation",
+        "Amen",
+        "Taco Tuesday",
         "Leonid Radvinsky",
         "Omotola",
+        "GM CT",
+        "#MondayMotivation",
         "Trump",
-        "Cubs",
-        "Saka",
-        "#arsmci",
-        "$RIVER"
+        "Cubs"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#arsmci",
         "#WWERaw",
-        "#ryoex",
-        "#refreshingnigeria"
+        "#activatextracova",
+        "#razzlyourworld"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Kepa",
+        "Amen",
+        "Taco Tuesday",
         "Leonid Radvinsky",
         "Omotola",
+        "GM CT",
         "Trump",
         "Cubs",
-        "Saka",
-        "$RIVER",
-        "HAPPY NEW WEEK",
-        "Timmy"
+        "$RIVER"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
