@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-24T10:38:31.225431+00:00",
+  "generated_at_utc": "2026-03-24T11:36:14.326781+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -45,38 +45,38 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 24 2026 09:44:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 10:36:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Golders Green",
         "Easter",
-        "#thicktrunktuesday",
         "St John",
-        "Ed Balls",
+        "#thicktrunktuesday",
         "Hatzola",
-        "#Planet",
         "Arteta",
-        "Kepa",
+        "Ed Balls",
         "Arsenal",
-        "Funmi"
+        "Kepa",
+        "Al Jazeera",
+        "#Planet"
       ],
       "hashtags": [
         "#thicktrunktuesday",
         "#Planet",
+        "#jeremyvine",
         "#ASongOrMovieForAgricultureDay",
-        "#r4today",
         "#WWERaw"
       ],
       "regular_topics": [
         "Golders Green",
         "Easter",
         "St John",
-        "Ed Balls",
         "Hatzola",
         "Arteta",
-        "Kepa",
+        "Ed Balls",
         "Arsenal",
-        "Funmi",
+        "Kepa",
         "Al Jazeera",
+        "Funmi",
         "Ben White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -84,9 +84,10 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 24 2026 09:40:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 11:24:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
+        "Good Tuesday",
         "LaGuardia",
         "#WWERaw",
         "Managed DeFi",
@@ -94,28 +95,27 @@
         "Chabot",
         "Star Trek",
         "eRate",
-        "JT Miller",
         "Elvis",
-        "mulcair"
+        "jt miller"
       ],
       "hashtags": [
         "#WWERaw",
-        "#NationalPuppyDay",
         "#ENHYPEN_ALWAYS_7",
         "#HEESEUNG_Belongs_With_ENHYPEN",
+        "#NationalPuppyDay",
         "#BOYCOTT_HYBE_and_BELIFT"
       ],
       "regular_topics": [
         "Air Canada",
+        "Good Tuesday",
         "LaGuardia",
         "Managed DeFi",
         "Explore Concrete",
         "Chabot",
         "Star Trek",
         "eRate",
-        "JT Miller",
         "Elvis",
-        "mulcair",
+        "jt miller",
         "Rangers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -123,39 +123,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 24 2026 10:27:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 11:18:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#iSupportCAPFBill2026",
-        "#OGsambavakaaranEPS",
-        "#GreenBudgetforDelhi",
         "#PledgeToCover",
+        "#RamuraoJupally",
         "AdityaBirla SunLifeInsurance",
-        "#TelanganaEVRevolution",
+        "#iSupportCAPFBill2026",
+        "#GreenBudgetforDelhi",
+        "#OGsambavakaaranEPS",
         "Ponnam Prabhakar",
-        "Justice for Raj Kundra",
+        "Kal Somani",
         "Scheduled Caste",
         "Prayer",
         "Isha Rikhi"
       ],
       "hashtags": [
-        "#iSupportCAPFBill2026",
-        "#OGsambavakaaranEPS",
-        "#GreenBudgetforDelhi",
         "#PledgeToCover",
-        "#TelanganaEVRevolution"
+        "#RamuraoJupally",
+        "#iSupportCAPFBill2026",
+        "#GreenBudgetforDelhi",
+        "#OGsambavakaaranEPS"
       ],
       "regular_topics": [
         "AdityaBirla SunLifeInsurance",
         "Ponnam Prabhakar",
-        "Justice for Raj Kundra",
+        "Kal Somani",
         "Scheduled Caste",
         "Prayer",
         "Isha Rikhi",
-        "Yash Dayal",
-        "Christianity",
-        "Hinduism",
-        "\u0927\u0930\u094d\u092e \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u0928",
-        "\u092a\u0942\u091c\u093e \u092a\u093e\u0932"
+        "Rajasthan Royals",
+        "\u0908\u0936\u093e \u0930\u093f\u0916\u0940",
+        "\u092a\u0942\u091c\u093e \u092a\u093e\u0932",
+        "\u0936\u094c\u0915\u0924 \u0905\u0932\u0940",
+        "Christianity"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
