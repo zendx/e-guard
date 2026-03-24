@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-03-24T14:10:32.776361+00:00",
+  "generated_at_utc": "2026-03-24T15:38:05.424530+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 24 2026 12:54:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 14:37:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#EDELMAINNET",
+        "$LOL",
         "Eloise",
         "Good Tuesday",
+        "Jay Z",
+        "Ritchson",
+        "Reebok",
         "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
-        "GF MEGA GALE X FREENBECKY",
-        "#CatForCashFinalEP",
         "Hannah Montana",
-        "#PutThatInYourPipe",
-        "Taco Tuesday",
-        "#TuesdayVibes",
-        "#Bridgerton",
-        "Patrick Bateman"
+        "One Last Kill",
+        "GF MEGA GALE X FREENBECKY"
       ],
       "hashtags": [
+        "#EDELMAINNET",
         "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
-        "#CatForCashFinalEP",
-        "#PutThatInYourPipe",
-        "#TuesdayVibes",
-        "#Bridgerton"
+        "#Bridgerton",
+        "#BastaDeSanciones",
+        "#CatForCashFinalEP"
       ],
       "regular_topics": [
+        "$LOL",
         "Eloise",
         "Good Tuesday",
-        "GF MEGA GALE X FREENBECKY",
+        "Jay Z",
+        "Ritchson",
+        "Reebok",
         "Hannah Montana",
-        "Taco Tuesday",
-        "Patrick Bateman",
-        "KARINA MEMORY BOX",
-        "Undocumented Americans",
-        "Francesca",
-        "Star Trek",
-        "God is Good"
+        "One Last Kill",
+        "GF MEGA GALE X FREENBECKY",
+        "Dennis Coyle",
+        "Francesca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 24 2026 13:15:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 15:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$LOL",
         "Easter",
         "Golders Green",
-        "Eloise",
         "St John",
-        "Mel Schilling",
         "Ipswich",
+        "Eloise",
+        "Girl Guides",
         "Hatzola",
         "Arteta",
-        "#politicslive",
-        "Ed Balls"
+        "Ed Balls",
+        "Kepa"
       ],
       "hashtags": [
-        "#politicslive",
         "#itfc",
-        "#thismorning",
         "#thicktrunktuesday",
-        "#MAFS"
+        "#arsmci",
+        "#WWERaw",
+        "#GSDF26"
       ],
       "regular_topics": [
         "$LOL",
         "Easter",
         "Golders Green",
-        "Eloise",
         "St John",
-        "Mel Schilling",
         "Ipswich",
+        "Eloise",
+        "Girl Guides",
         "Hatzola",
         "Arteta",
         "Ed Balls",
-        "Arsenal"
+        "Kepa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 24 2026 13:09:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 14:56:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Explore Concrete",
         "Air Canada",
         "Eloise",
-        "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
         "LaGuardia",
-        "GF MEGA GALE X FREENBECKY",
-        "Good Tuesday",
-        "#WWERaw",
         "Managed DeFi",
-        "Explore Concrete",
+        "#WWERaw",
+        "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
+        "eRate",
         "Chabot",
-        "Star Trek"
+        "Elvis",
+        "GF MEGA GALE X FREENBECKY"
       ],
       "hashtags": [
-        "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
         "#WWERaw",
+        "#GrabFoodMegaGalex\u0e1f\u0e23\u0e35\u0e19\u0e40\u0e1a\u0e04\u0e01\u0e35\u0e49",
         "#ENHYPEN_ALWAYS_7",
         "#HEESEUNG_Belongs_With_ENHYPEN",
         "#NationalPuppyDay"
       ],
       "regular_topics": [
+        "Explore Concrete",
         "Air Canada",
         "Eloise",
         "LaGuardia",
-        "GF MEGA GALE X FREENBECKY",
-        "Good Tuesday",
         "Managed DeFi",
-        "Explore Concrete",
-        "Chabot",
-        "Star Trek",
         "eRate",
-        "Elvis"
+        "Chabot",
+        "Elvis",
+        "GF MEGA GALE X FREENBECKY",
+        "Star Trek",
+        "Bridgerton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 24 2026 13:04:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 14:51:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ParamilitaryPleadsJustice",
         "#GauravKhannaAtLPU",
-        "#ETMSMEAwards",
-        "#RamCharanBirthdayCDP",
+        "Ben Duckett",
         "\u0939\u0930\u0940\u0936 \u0930\u093e\u0923\u093e",
-        "AdityaBirla SunLifeInsurance",
-        "#RamuraoJupally",
+        "#RamCharanBirthdayCDP",
+        "#ETMSMEAwards",
+        "TVSiQube",
         "#HarishRana",
-        "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f",
-        "Kal Somani",
-        "Rajasthan Royals",
-        "Spencer Johnson"
+        "Spencer Johnson",
+        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0930\u0949\u092f\u0932\u094d\u0938",
+        "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f"
       ],
       "hashtags": [
+        "#ParamilitaryPleadsJustice",
         "#GauravKhannaAtLPU",
-        "#ETMSMEAwards",
         "#RamCharanBirthdayCDP",
-        "#RamuraoJupally",
+        "#ETMSMEAwards",
         "#HarishRana"
       ],
       "regular_topics": [
+        "Ben Duckett",
         "\u0939\u0930\u0940\u0936 \u0930\u093e\u0923\u093e",
-        "AdityaBirla SunLifeInsurance",
+        "TVSiQube",
+        "Spencer Johnson",
+        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0930\u0949\u092f\u0932\u094d\u0938",
         "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f",
         "Kal Somani",
         "Rajasthan Royals",
-        "Spencer Johnson",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0930\u0949\u092f\u0932\u094d\u0938",
-        "Lovely Professional University",
-        "\u0908\u0936\u093e \u0930\u093f\u0916\u0940",
-        "Prayer",
-        "Asiya Andrabi"
+        "AIIMS",
+        "Harry Brook",
+        "AdityaBirla SunLifeInsurance"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 24 2026 13:52:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 24 2026 14:44:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Eloise",
-        "#infinicard",
         "Courtesy",
-        "INFINI Corporate Card",
+        "#infinicard",
         "iPhone 18",
-        "INFINI Business",
         "#ms\u00fc2026",
         "Mandela",
-        "Bridgerton",
-        "SaaS",
-        "Sane"
+        "Orlando City",
+        "Sowore",
+        "Claude",
+        "Jay-Z",
+        "Antoine Griezmann"
       ],
       "hashtags": [
         "#infinicard",
         "#ms\u00fc2026",
-        "#sal\u0131",
         "#WorldTBDay",
-        "#EndTB"
+        "#sal\u0131",
+        "#HappyBirthdayOlanikemi"
       ],
       "regular_topics": [
         "Eloise",
         "Courtesy",
-        "INFINI Corporate Card",
         "iPhone 18",
-        "INFINI Business",
         "Mandela",
+        "Orlando City",
+        "Sowore",
+        "Claude",
+        "Jay-Z",
+        "Antoine Griezmann",
         "Bridgerton",
-        "SaaS",
-        "Sane",
-        "Blind",
-        "Sowore"
+        "Abacha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
