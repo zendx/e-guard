@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-03-25T22:59:35.267598+00:00",
+  "generated_at_utc": "2026-03-25T23:34:42.800673+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 25 2026 21:36:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 22:27:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Harry Potter",
         "Snape",
         "Kimmel",
-        "JK Rowling",
+        "#EnhypenForeverSeven",
+        "#DONT_ERASE_FATE7",
         "#OpeningDay",
+        "JK Rowling",
         "Hogwarts",
         "Chris Mack",
-        "#EnhypenForeverSeven",
         "Alan Rickman",
-        "#TrumpVotesByMail",
-        "#DONT_ERASE_FATE7"
+        "Melania"
       ],
       "hashtags": [
-        "#OpeningDay",
         "#EnhypenForeverSeven",
-        "#TrumpVotesByMail",
         "#DONT_ERASE_FATE7",
+        "#OpeningDay",
+        "#TrumpVotesByMail",
         "#OpeningNight"
       ],
       "regular_topics": [
@@ -33,17 +33,17 @@
         "Hogwarts",
         "Chris Mack",
         "Alan Rickman",
-        "Pepsi",
         "Melania",
         "Reese",
-        "Plow"
+        "Bain",
+        "Pepsi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 25 2026 22:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 22:51:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Harry Potter",
         "Snape",
@@ -53,9 +53,9 @@
         "PMQs",
         "#MAFSAU",
         "#MUWomen",
-        "#dlxp",
         "Todd",
-        "Ryan Moore"
+        "#dlxp",
+        "Hoyle"
       ],
       "hashtags": [
         "#Corrie",
@@ -70,19 +70,19 @@
         "Constitution Hill",
         "PMQs",
         "Todd",
-        "Ryan Moore",
         "Hoyle",
+        "Ghana",
+        "Gunna",
         "Hogwarts",
-        "Kempton",
         "Alan Rickman",
-        "Gunna"
+        "Africans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Mar 25 2026 21:54:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 22:45:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "Quebec",
@@ -92,15 +92,15 @@
         "Snape",
         "Sora",
         "Governor General",
-        "Coke",
+        "#OpeningDay",
         "#ENHYPEN_ALWAYS_7",
         "Ottawa"
       ],
       "hashtags": [
         "#BlueJays50",
+        "#OpeningDay",
         "#ENHYPEN_ALWAYS_7",
         "#HEESEUNG_Belongs_With_ENHYPEN",
-        "#OpeningDay",
         "#BOYCOTT_HYBE_and_BELIFT"
       ],
       "regular_topics": [
@@ -111,8 +111,8 @@
         "Snape",
         "Sora",
         "Governor General",
-        "Coke",
         "Ottawa",
+        "Coke",
         "Ontario",
         "OSAP"
       ],
