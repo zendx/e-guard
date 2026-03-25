@@ -1,137 +1,139 @@
 {
-  "generated_at_utc": "2026-03-25T18:40:10.808916+00:00",
+  "generated_at_utc": "2026-03-25T19:37:22.856300+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 25 2026 17:15:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 18:06:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OpeningDay",
-        "Colbert",
+        "$NRED NovaRed Mining Inc.",
         "Will Wade",
+        "#Rashmer",
+        "#TrumpVotesByMail",
+        "Colbert",
         "$ENLV",
-        "LOTR",
+        "Meta and YouTube",
         "Tolkien",
-        "Sonics",
-        "Yankees",
-        "#OpeningNight",
-        "Usher",
-        "Jared Young"
+        "Kimmel",
+        "LOTR"
       ],
       "hashtags": [
         "#OpeningDay",
-        "#OpeningNight",
-        "#Oooshxt",
+        "#Rashmer",
         "#TrumpVotesByMail",
-        "#LUN\u00c9SelcaDay"
+        "#OpeningNight",
+        "#RepBX"
       ],
       "regular_topics": [
-        "Colbert",
+        "$NRED NovaRed Mining Inc.",
         "Will Wade",
+        "Colbert",
         "$ENLV",
-        "LOTR",
+        "Meta and YouTube",
         "Tolkien",
+        "Kimmel",
+        "LOTR",
         "Sonics",
         "Yankees",
-        "Usher",
-        "Jared Young",
-        "Diddy",
-        "Anthony Nunez"
+        "Usher"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 25 2026 18:30:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 19:21:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PMQs",
         "Hashtag",
-        "Archbishop of Canterbury",
-        "#thechase",
         "Hoyle",
-        "Gunna",
         "Pepsi",
-        "Prime Minister",
-        "Speaker",
-        "The PM",
-        "British Nationals"
+        "Gunna",
+        "Archbishop of Canterbury",
+        "Constitution Hill",
+        "Coke",
+        "#HarryPotter",
+        "British Nationals",
+        "Prime Minister"
       ],
       "hashtags": [
-        "#thechase",
+        "#HarryPotter",
         "#TomodachiLife",
-        "#fourinabed"
+        "#TheChase",
+        "#fourinabed",
+        "#c4news"
       ],
       "regular_topics": [
         "PMQs",
         "Hashtag",
-        "Archbishop of Canterbury",
         "Hoyle",
-        "Gunna",
         "Pepsi",
-        "Prime Minister",
-        "Speaker",
-        "The PM",
+        "Gunna",
+        "Archbishop of Canterbury",
+        "Constitution Hill",
+        "Coke",
         "British Nationals",
-        "Coke"
+        "Prime Minister",
+        "The PM"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Mar 25 2026 18:27:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 19:18:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "Quebec",
+        "Rousseau",
         "#BlueJays50",
-        "Michael Rousseau",
         "Sora",
-        "#csm232",
         "Governor General",
-        "#GoSensGo",
-        "Fujimoto",
         "Managed DeFi",
-        "#ENHYPEN_ALWAYS_7"
+        "#ENHYPEN_ALWAYS_7",
+        "#HEESEUNG_Belongs_With_ENHYPEN",
+        "OSAP",
+        "#GoSensGo"
       ],
       "hashtags": [
         "#BlueJays50",
-        "#csm232",
-        "#GoSensGo",
         "#ENHYPEN_ALWAYS_7",
-        "#HEESEUNG_Belongs_With_ENHYPEN"
+        "#HEESEUNG_Belongs_With_ENHYPEN",
+        "#GoSensGo",
+        "#OpeningDay"
       ],
       "regular_topics": [
         "Air Canada",
         "Quebec",
-        "Michael Rousseau",
+        "Rousseau",
         "Sora",
         "Governor General",
-        "Fujimoto",
         "Managed DeFi",
-        "Chainsaw Man",
-        "Coke",
         "OSAP",
-        "Ottawa"
+        "Chainsaw Man",
+        "Ottawa",
+        "Fujimoto",
+        "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 25 2026 18:18:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 19:09:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AwesomeIsForEveryone",
         "Galaxy A57 5G",
-        "#METAawards2026",
-        "#Chiraiya",
-        "#GodNightWednesday",
-        "#Govt_Insults_Paramilitary",
+        "#AwesomeIsForEveryone",
         "F-18",
-        "Keralam",
+        "#METAawards2026",
+        "APOLOGIZE TO BTS",
+        "#Chiraiya",
         "Coke",
-        "\u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0935\u0948\u0926\u093f\u0915 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
-        "Dalal"
+        "#GodNightWednesday",
+        "Dalal",
+        "Keralam",
+        "ARMYs"
       ],
       "hashtags": [
         "#AwesomeIsForEveryone",
@@ -143,54 +145,54 @@
       "regular_topics": [
         "Galaxy A57 5G",
         "F-18",
-        "Keralam",
+        "APOLOGIZE TO BTS",
         "Coke",
-        "\u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0935\u0948\u0926\u093f\u0915 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
         "Dalal",
-        "Navdeep Saini",
-        "Yes Madam",
-        "Fallon",
-        "USS Abraham Lincoln",
-        "Gorilla Glass Victus"
+        "Keralam",
+        "ARMYs",
+        "Jimmy Fallon",
+        "\u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0935\u0948\u0926\u093f\u0915 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
+        "Pepsi",
+        "Navdeep Saini"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Mar 25 2026 18:15:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 19:06:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Winifred",
         "#justiceforochanya",
-        "#RazzlYourWorld",
-        "Legolas",
-        "Abazz",
-        "Ruth",
-        "$ENLV",
-        "Senegalese Football Federation",
         "Tom and Jerry",
+        "Legolas",
+        "#RazzlYourWorld",
+        "Pepsi",
+        "Simi",
+        "Abazz",
         "Alvarez",
-        "Court of Arbitration for Sport"
+        "Ruth",
+        "$ENLV"
       ],
       "hashtags": [
         "#justiceforochanya",
         "#RazzlYourWorld",
-        "#WorldOlanikemiDay",
+        "#M\u00e9xico",
         "#HappyBirthdayPastorB",
-        "#pared\u00e3obbb"
+        "#WorldOlanikemiDay"
       ],
       "regular_topics": [
         "Winifred",
+        "Tom and Jerry",
         "Legolas",
+        "Pepsi",
+        "Simi",
         "Abazz",
+        "Alvarez",
         "Ruth",
         "$ENLV",
         "Senegalese Football Federation",
-        "Tom and Jerry",
-        "Alvarez",
-        "Court of Arbitration for Sport",
-        "Saul",
-        "Enlivex"
+        "Court of Arbitration for Sport"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
