@@ -1,100 +1,106 @@
 {
-  "generated_at_utc": "2026-03-25T10:36:27.678637+00:00",
+  "generated_at_utc": "2026-03-25T11:32:47.659840+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Mar 25 2026 09:04:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 09:57:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Wednesday",
         "Colbert",
-        "#Daredevil",
         "Tolkien",
+        "#Daredevil",
         "Sora",
         "#PleaseLadyNangong",
         "Cam Johnson",
         "Version 2.7",
         "Nikita",
-        "Hannah Montana",
-        "Nikola Jokic",
-        "#WWENXT"
+        "Whale - Buy",
+        "Smart Money - Buy"
       ],
       "hashtags": [
         "#Daredevil",
         "#PleaseLadyNangong",
+        "#zzzero",
         "#WWENXT",
         "#ENHYPEN_ALWAYS_7",
-        "#zzzero"
+        "#CatForCashFinalEP",
+        "#NCIS",
+        "#RepBX",
+        "#OpeningDay",
+        "#BOYCOTT_HYBE_and_BELIFT",
+        "#SummerHouse"
       ],
       "regular_topics": [
+        "Good Wednesday",
         "Colbert",
         "Tolkien",
         "Sora",
         "Cam Johnson",
         "Version 2.7",
         "Nikita",
-        "Hannah Montana",
-        "Nikola Jokic",
-        "Puka",
+        "Whale - Buy",
         "Smart Money - Buy",
-        "QUICK TRADE"
+        "QUICK TRADE",
+        "TOP CALL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Mar 25 2026 09:30:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 11:21:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mo Salah",
         "Ipswich",
-        "$LOL",
-        "#Rusty",
         "Golders Green",
         "Mohamed Salah",
         "Girl Guides",
-        "Easter",
+        "#popmaster",
         "Egyptian King",
+        "Easter",
+        "Scouts",
         "#TheDownfallOfHuwEdwards",
-        "Caroline"
+        "Farage"
       ],
       "hashtags": [
-        "#Rusty",
+        "#popmaster",
         "#TheDownfallOfHuwEdwards",
+        "#UWCL",
         "#csm232",
-        "#bbcbreakfast",
-        "#tempest"
+        "#ASongOrMovieForGreece"
       ],
       "regular_topics": [
         "Mo Salah",
         "Ipswich",
-        "$LOL",
         "Golders Green",
         "Mohamed Salah",
         "Girl Guides",
-        "Easter",
         "Egyptian King",
-        "Caroline",
+        "Easter",
         "Scouts",
-        "Sir Gino"
+        "Farage",
+        "$LOL",
+        "Lauren James"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Mar 25 2026 09:24:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 11:18:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "Explore Concrete",
         "Sora",
         "#GoSensGo",
         "Chainsaw Man",
-        "Fujimoto",
         "#csm232",
+        "Fujimoto",
         "Yakemchuk",
         "Eloise",
         "#ENHYPEN_ALWAYS_7",
-        "#HEESEUNG_Belongs_With_ENHYPEN"
+        "Managed DeFi"
       ],
       "hashtags": [
         "#GoSensGo",
@@ -113,86 +119,90 @@
         "Eloise",
         "Managed DeFi",
         "LaGuardia",
-        "billy bishop",
-        "eRate"
+        "eRate",
+        "GF MEGA GALE X FREENBECKY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Mar 25 2026 09:16:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 11:10:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#9YearsOfGaribKalyan",
-        "#realmeP4Lite5GSaleIsLive",
-        "#HBD_Yuvao_Ke_Mohan",
         "#StayCalmIndia",
-        "#StopDraconianCAPFBill",
+        "#JAKSONkaSourav",
+        "#realmeP4Lite5GSaleIsLive",
+        "#WeStandWithCAPFBill2026",
+        "#\u0938\u092c\u0915\u0947_\u092e\u094b\u0939\u0928_\u092f\u093e\u0926\u0935",
         "UP Garib Kalyan Revolution",
         "\u092e\u094b\u0939\u0928 \u092f\u093e\u0926\u0935",
-        "MediaTek Dimensity 6300",
-        "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936",
-        "Madhya Pradesh",
-        "Selen"
+        "SWIM FIRST WIN",
+        "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
+        "Hadera",
+        "Chandigarh"
       ],
       "hashtags": [
-        "#9YearsOfGaribKalyan",
-        "#realmeP4Lite5GSaleIsLive",
-        "#HBD_Yuvao_Ke_Mohan",
         "#StayCalmIndia",
-        "#StopDraconianCAPFBill"
+        "#JAKSONkaSourav",
+        "#realmeP4Lite5GSaleIsLive",
+        "#WeStandWithCAPFBill2026",
+        "#\u0938\u092c\u0915\u0947_\u092e\u094b\u0939\u0928_\u092f\u093e\u0926\u0935"
       ],
       "regular_topics": [
         "UP Garib Kalyan Revolution",
         "\u092e\u094b\u0939\u0928 \u092f\u093e\u0926\u0935",
+        "SWIM FIRST WIN",
+        "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
+        "Hadera",
+        "Chandigarh",
         "MediaTek Dimensity 6300",
         "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936",
-        "Madhya Pradesh",
-        "Selen",
-        "Sora",
-        "\u0907\u0902\u091c\u0928 \u0938\u0930\u0915\u093e\u0930",
-        "\u0938\u0902\u0938\u0926 \u092a\u0930\u093f\u0938\u0930",
-        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
-        "\u0905\u0915\u092c\u0930 \u0930\u094b\u0921"
+        "Mylapore",
+        "Fentanyl",
+        "Madhya Pradesh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Mar 25 2026 09:12:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Mar 25 2026 11:07:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Clock",
-        "Mo Salah",
+        "#MoneyMasterxGlo",
+        "Oloni",
+        "Cramps",
         "Nikita",
+        "Clock",
+        "#WorldOlanikemiDay",
+        "Toto",
+        "Blessing CEO",
         "#HappyBirthdayOlanikemi",
         "#March25thQueen",
-        "#WorldOlanikemiDay",
-        "#RenewedHopeWomenOfFaith",
-        "Elon",
-        "Oloni",
-        "iPhone 18",
-        "Mohamed Salah"
+        "Stage 4"
       ],
       "hashtags": [
+        "#MoneyMasterxGlo",
+        "#WorldOlanikemiDay",
         "#HappyBirthdayOlanikemi",
         "#March25thQueen",
-        "#WorldOlanikemiDay",
+        "#useaxra",
+        "#pared\u00e3obbb",
         "#RenewedHopeWomenOfFaith",
-        "#RoadtoGoldenJubilee"
+        "#NuncaM\u00e1s",
+        "#NigeriaDecides"
       ],
       "regular_topics": [
-        "Clock",
-        "Mo Salah",
-        "Nikita",
-        "Elon",
         "Oloni",
-        "iPhone 18",
-        "Mohamed Salah",
-        "$RIVER",
-        "GM CT",
-        "Nigerians",
-        "Amen"
+        "Cramps",
+        "Nikita",
+        "Clock",
+        "Toto",
+        "Blessing CEO",
+        "Stage 4",
+        "Drag",
+        "Alvarez",
+        "100 MILLION",
+        "THE LORD HAS SHOWN ME MERCY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
