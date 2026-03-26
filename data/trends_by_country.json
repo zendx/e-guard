@@ -1,196 +1,198 @@
 {
-  "generated_at_utc": "2026-03-26T18:46:35.485169+00:00",
+  "generated_at_utc": "2026-03-26T19:48:02.568967+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Mar 26 2026 17:36:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 26 2026 18:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Paul Skenes",
+        "Oneil Cruz",
         "Brandon Lowe",
-        "#OpeningDay",
         "Mets",
+        "#OpeningDay",
+        "Pirates",
+        "#HardRockBet",
         "Star Fox",
-        "Will Wade",
         "#LetsGoBucs",
-        "Olympics",
-        "Smash Bros",
-        "Freddy Peralta",
-        "Fox McCloud",
-        "NC State"
+        "Will Wade",
+        "Chase Meidroth"
       ],
       "hashtags": [
         "#OpeningDay",
-        "#LetsGoBucs",
         "#HardRockBet",
-        "#Dodgers",
-        "#Cubs"
+        "#LetsGoBucs",
+        "#Cubs",
+        "#WhiteSox"
       ],
       "regular_topics": [
+        "Paul Skenes",
+        "Oneil Cruz",
         "Brandon Lowe",
         "Mets",
+        "Pirates",
         "Star Fox",
         "Will Wade",
+        "Chase Meidroth",
         "Olympics",
-        "Smash Bros",
-        "Freddy Peralta",
-        "Fox McCloud",
-        "NC State",
-        "Pirates",
-        "Paul Skenes"
+        "Brett Baty",
+        "Druski"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Mar 26 2026 17:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 26 2026 18:52:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Tonali",
         "Clacton",
         "Olympics",
+        "Josh Rock",
         "Tom Skinner",
+        "Ashton",
         "Question Time",
+        "Anderson",
         "#bbcqt",
-        "Tonali",
-        "Subway",
-        "#tippingpoint",
-        "DSDs",
-        "#thefinishline",
-        "Nick Brown"
+        "#PLDarts",
+        "Subway"
       ],
       "hashtags": [
         "#bbcqt",
+        "#PLDarts",
         "#tippingpoint",
         "#thefinishline",
-        "#thechase",
-        "#GMMTVFANIVAL2026xWilliamEst"
+        "#ITV7InItToWinIt"
       ],
       "regular_topics": [
+        "Tonali",
         "Clacton",
         "Olympics",
+        "Josh Rock",
         "Tom Skinner",
+        "Ashton",
         "Question Time",
-        "Tonali",
+        "Anderson",
         "Subway",
-        "DSDs",
-        "Nick Brown",
-        "Slattery",
-        "Star Fox",
-        "Rodri"
+        "Lenny Henry",
+        "Nick Brown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Mar 26 2026 17:54:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 26 2026 18:45:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Air Canada",
         "Quebec",
-        "NATO",
         "Paul Skenes",
-        "#BlueJays50",
+        "NATO",
         "#OpeningDay",
-        "Olympics",
+        "#BlueJays50",
         "Rousseau",
         "Harry Potter",
-        "Governor General",
-        "Mets"
+        "Olympics",
+        "Brandon Lowe",
+        "Governor General"
       ],
       "hashtags": [
-        "#BlueJays50",
         "#OpeningDay",
+        "#BlueJays50",
+        "#ENHYPEN_IS_7",
         "#Survivor50",
-        "#OpeningNight",
-        "#WakasAtSimula"
+        "#OpeningNight"
       ],
       "regular_topics": [
         "Air Canada",
         "Quebec",
-        "NATO",
         "Paul Skenes",
-        "Olympics",
+        "NATO",
         "Rousseau",
         "Harry Potter",
+        "Olympics",
+        "Brandon Lowe",
         "Governor General",
-        "Mets",
-        "Snape",
-        "Star Fox"
+        "Unprovoked",
+        "Mets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Mar 26 2026 17:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 26 2026 18:40:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDRamCharan",
-        "#WomenWillEndDMKRule",
         "#lockdown",
+        "#Peddi",
+        "#WomenWillEndDMKRule",
         "#5RajyaBJPOut",
-        "PSSI 2026 HONOURS AMAAL",
-        "#GMMTVFANIVAL2026xWilliamEst",
-        "WILLIAMEST IN CARNIVAL",
         "\u092e\u0927\u0941 \u0915\u093f\u0936\u094d\u0935\u0930",
+        "WILLIAMEST IN CARNIVAL",
+        "PSSI 2026 HONOURS AMAAL",
         "\u0915\u092a\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Free Pedicure",
+        "Happy Birthday Anna",
         "Amaal Mallik"
       ],
       "hashtags": [
         "#HBDRamCharan",
-        "#WomenWillEndDMKRule",
         "#lockdown",
-        "#5RajyaBJPOut",
-        "#GMMTVFANIVAL2026xWilliamEst"
+        "#Peddi",
+        "#WomenWillEndDMKRule",
+        "#5RajyaBJPOut"
       ],
       "regular_topics": [
-        "PSSI 2026 HONOURS AMAAL",
-        "WILLIAMEST IN CARNIVAL",
         "\u092e\u0927\u0941 \u0915\u093f\u0936\u094d\u0935\u0930",
+        "WILLIAMEST IN CARNIVAL",
+        "PSSI 2026 HONOURS AMAAL",
         "\u0915\u092a\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Free Pedicure",
+        "Happy Birthday Anna",
         "Amaal Mallik",
-        "Ponraj",
-        "LOVE SUBJECT WITH PERTHSANTA",
-        "\u091a\u093f\u0924\u094d\u0930\u093e \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940",
+        "Mega Power Star",
+        "Project Hail Mary",
         "\u0938\u0941\u092c\u094d\u0930\u092e\u0923\u094d\u092f\u092e \u0938\u094d\u0935\u093e\u092e\u0940",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u0932\u094b\u0915"
+        "Ponraj",
+        "Manish Pandey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Mar 26 2026 17:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Mar 26 2026 18:36:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#MercyChinwoinlondon",
         "Abia",
         "Asari",
-        "Eddie Howe",
-        "Singapore",
         "#salland\u0131k",
         "Otti",
-        "Anioma",
+        "Singapore",
+        "Asher",
         "Ogun",
-        "Rodri",
-        "Lewis Hall",
-        "Dembele"
+        "Eddie Howe",
+        "The GOAT",
+        "Iwobi"
       ],
       "hashtags": [
+        "#MercyChinwoinlondon",
         "#salland\u0131k",
+        "#sstvi",
         "#APCConvention2026",
         "#Renunci\u00e1Adorni"
       ],
       "regular_topics": [
         "Abia",
         "Asari",
-        "Eddie Howe",
-        "Singapore",
         "Otti",
-        "Anioma",
+        "Singapore",
+        "Asher",
         "Ogun",
-        "Rodri",
-        "Lewis Hall",
-        "Dembele",
-        "Farcaster"
+        "Eddie Howe",
+        "The GOAT",
+        "Iwobi",
+        "Anioma",
+        "Lewis Hall"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
