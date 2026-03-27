@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-27T21:01:11.951789+00:00",
+  "generated_at_utc": "2026-03-27T21:54:30.865197+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,64 +43,64 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Mar 27 2026 20:18:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 27 2026 21:09:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TOTP",
         "#ENGURU",
+        "#TOTP",
         "Word Up",
-        "#England",
-        "Tiger Woods",
+        "England",
+        "Foden",
         "Adam Rickitt",
-        "Baker Street",
-        "Henderson",
         "Lee Dixon",
+        "Henderson",
+        "Tiger Woods",
         "World Cup",
-        "Emma Hayes"
+        "Rashford"
       ],
       "hashtags": [
-        "#TOTP",
         "#ENGURU",
-        "#England",
-        "#GardenersWorld",
-        "#WALBIH"
+        "#TOTP",
+        "#ThreeLions",
+        "#WALBIH",
+        "#GardenersWorld"
       ],
       "regular_topics": [
         "Word Up",
-        "Tiger Woods",
+        "England",
+        "Foden",
         "Adam Rickitt",
-        "Baker Street",
-        "Henderson",
         "Lee Dixon",
+        "Henderson",
+        "Tiger Woods",
         "World Cup",
-        "Emma Hayes",
+        "Rashford",
         "Suede",
-        "Mel B",
-        "Gail Porter"
+        "Emma Hayes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Mar 27 2026 20:12:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 27 2026 21:03:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tiger Woods",
         "Quebec",
+        "#BlueJays50",
         "Lukes",
         "Air Canada",
-        "#BlueJays50",
-        "Sanchez",
         "Michael Ma",
-        "#iHeartAwards2026",
         "#OpeningDay",
+        "Sanchez",
         "Nancy Pelosi",
-        "Paul Skenes"
+        "Paul Skenes",
+        "MacBook"
       ],
       "hashtags": [
         "#BlueJays50",
-        "#iHeartAwards2026",
         "#OpeningDay",
         "#Verzuz",
+        "#iHeartAwards2026",
         "#ENHYPEN_IS_7"
       ],
       "regular_topics": [
@@ -108,52 +108,52 @@
         "Quebec",
         "Lukes",
         "Air Canada",
-        "Sanchez",
         "Michael Ma",
+        "Sanchez",
         "Nancy Pelosi",
         "Paul Skenes",
         "MacBook",
-        "Rousseau",
-        "Carney and the Liberals"
+        "Olympics",
+        "Rousseau"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Mar 27 2026 20:04:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Mar 27 2026 20:56:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RamNavami",
         "#HBDRamCharan",
         "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
-        "#OnlyFriendsDreamOnEP5",
         "#Peddi",
-        "#9yearsofculturalrevival",
+        "#OnlyFriendsDreamOnEP5",
+        "#HelpTheNeedy",
         "up pilgrimage economy",
         "Factful Debates YouTube",
-        "Rashford",
+        "Aneet",
         "\u092e\u0927\u0941 \u0915\u093f\u0936\u094d\u0935\u0930",
         "balochistan is not pakistan"
       ],
       "hashtags": [
         "#RamNavami",
         "#HBDRamCharan",
-        "#OnlyFriendsDreamOnEP5",
         "#Peddi",
-        "#9yearsofculturalrevival"
+        "#OnlyFriendsDreamOnEP5",
+        "#HelpTheNeedy"
       ],
       "regular_topics": [
         "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
         "up pilgrimage economy",
         "Factful Debates YouTube",
-        "Rashford",
+        "Aneet",
         "\u092e\u0927\u0941 \u0915\u093f\u0936\u094d\u0935\u0930",
         "balochistan is not pakistan",
+        "Rashford",
+        "Elon Musk",
         "Lord Rama",
         "\u0935\u0936\u093f\u0937\u094d\u0920 \u090b\u0937\u093f",
-        "WILLIAMEST IN CARNIVAL",
-        "\u0906\u0926\u0930\u094d\u0936 \u091c\u0940\u0935\u0928",
-        "free pedicure"
+        "WILLIAMEST IN CARNIVAL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
