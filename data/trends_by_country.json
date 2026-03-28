@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-28T19:48:44.508113+00:00",
+  "generated_at_utc": "2026-03-28T20:15:52.319441+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,58 +43,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 28 2026 18:54:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 28 2026 19:48:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Brad Pauls",
+        "#TheWheel",
+        "#BritainsGotTalent",
         "#ENGENES_MADE_ENHYPEN_7",
-        "FULL TIME",
-        "#Gladiators",
         "#ItaumaFranklin",
-        "Alessia Russo",
-        "#SCOJPN",
-        "Popularity",
-        "#Gills",
-        "Wigan",
-        "HALF TIME",
-        "Steve Clarke"
+        "#Gladiators",
+        "Clarke",
+        "FULL TIME",
+        "Thompson",
+        "No Kings",
+        "Popularity"
       ],
       "hashtags": [
+        "#TheWheel",
+        "#BritainsGotTalent",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#Gladiators",
         "#ItaumaFranklin",
-        "#SCOJPN",
-        "#Gills"
+        "#Gladiators"
       ],
       "regular_topics": [
+        "Brad Pauls",
+        "Clarke",
         "FULL TIME",
-        "Alessia Russo",
-        "Popularity",
-        "Wigan",
-        "HALF TIME",
-        "Steve Clarke",
+        "Thompson",
         "No Kings",
+        "Popularity",
+        "Alessia Russo",
+        "Liam Davies",
         "Far Right",
-        "Thiago",
-        "WHERE FATE KEEPS US CONNECTED",
-        "DUANG WITH YOU EP9"
+        "Wigan",
+        "Ralston"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Mar 28 2026 18:51:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 28 2026 19:44:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BlueJays50",
         "#CanMNT",
         "Tiger Woods",
         "Hoffman",
-        "Michael Ma",
         "No Kings",
-        "Kamal Miller",
-        "#ENGENES_MADE_ENHYPEN_7",
+        "Michael Ma",
+        "Dylan Cease",
         "Reimer",
-        "Iceland",
-        "China"
+        "#ENGENES_MADE_ENHYPEN_7",
+        "Jonathan David",
+        "Iceland"
       ],
       "hashtags": [
         "#BlueJays50",
@@ -106,15 +106,15 @@
       "regular_topics": [
         "Tiger Woods",
         "Hoffman",
-        "Michael Ma",
         "No Kings",
-        "Kamal Miller",
+        "Michael Ma",
+        "Dylan Cease",
         "Reimer",
+        "Jonathan David",
         "Iceland",
+        "Vladdy",
         "China",
-        "Wab Kinew",
-        "Jordan Spence",
-        "Avi Lewis"
+        "Wab Kinew"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
