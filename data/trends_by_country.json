@@ -1,87 +1,83 @@
 {
-  "generated_at_utc": "2026-03-28T16:55:41.345638+00:00",
+  "generated_at_utc": "2026-03-28T17:20:06.316728+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 28 2026 15:54:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 28 2026 16:48:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "No Kings",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#LoveYouTeacherSeriesEP3",
-        "Good Saturday",
-        "#Caturday",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP9",
         "KitKat",
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP9",
         "DUANG WITH YOU EP9",
-        "#AHistoricShift",
-        "Hanoi Jane",
-        "Decker"
+        "#Caturday",
+        "#LoveYouTeacherSeriesEP3",
+        "Jaland Lowe",
+        "#AG8ISCOMING",
+        "Good Saturday",
+        "Hanoi Jane"
       ],
       "hashtags": [
         "#ENGENES_MADE_ENHYPEN_7",
-        "#LoveYouTeacherSeriesEP3",
-        "#Caturday",
         "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP9",
-        "#AHistoricShift"
+        "#Caturday",
+        "#LoveYouTeacherSeriesEP3",
+        "#AG8ISCOMING"
       ],
       "regular_topics": [
         "No Kings",
-        "Good Saturday",
         "KitKat",
         "DUANG WITH YOU EP9",
+        "Jaland Lowe",
+        "Good Saturday",
         "Hanoi Jane",
+        "WHERE FATE KEEPS US CONNECTED",
         "Decker",
-        "ARISA LYLA BEGIN",
-        "Wonder Dean",
-        "Bully",
-        "Palm Sunday",
-        "Bernie"
+        "Parks",
+        "DeGrom",
+        "Kanye"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Mar 28 2026 15:24:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 28 2026 16:16:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Albert Einstein",
-        "TEAM NEWS",
-        "KICK OFF",
-        "STARTING XI",
+        "HALF TIME",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#GirlsNamesInFilmAndSong",
+        "Albert Einstein",
         "Thiago",
-        "#NonLeagueDay",
+        "KICK OFF",
+        "Jay Spearing",
         "#wafc",
-        "#LoveYouTeacherSeriesEP3",
-        "Afternoon"
+        "#GirlsNamesInFilmAndSong",
+        "TEAM NEWS",
+        "Big Gossey",
+        "STARTING XI"
       ],
       "hashtags": [
         "#ENGENES_MADE_ENHYPEN_7",
+        "#wafc",
         "#GirlsNamesInFilmAndSong",
         "#NonLeagueDay",
-        "#wafc",
+        "#HWCafe",
         "#LoveYouTeacherSeriesEP3",
-        "#MUWomen",
-        "#BarclaysWSL",
-        "#TogetherAlliance",
-        "#bbcaq",
-        "#groundhopping",
-        "#Caturday"
+        "#readingfc"
       ],
       "regular_topics": [
+        "HALF TIME",
         "Albert Einstein",
-        "TEAM NEWS",
-        "KICK OFF",
-        "STARTING XI",
         "Thiago",
-        "Afternoon",
-        "Guineas",
+        "KICK OFF",
+        "Jay Spearing",
+        "TEAM NEWS",
+        "Big Gossey",
+        "STARTING XI",
+        "SECOND HALF",
         "Brian Cox",
-        "Al Riffa",
-        "He's 63",
-        "Meydan"
+        "Guineas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
