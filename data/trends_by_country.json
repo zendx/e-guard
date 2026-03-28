@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-28T22:52:15.370291+00:00",
+  "generated_at_utc": "2026-03-28T23:18:52.306663+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Mar 28 2026 21:08:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Mar 28 2026 22:01:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "No Kings",
-        "Sonny Gray",
+        "#UFCSeattle",
         "#USMNT",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "Aaron Nola",
+        "Sonny Gray",
         "Belgium",
+        "#ENGENES_MADE_ENHYPEN_7",
+        "Yanez",
         "Tim Ream",
         "Matt Turner",
-        "Doku",
-        "#STLCards",
-        "Nick Nolte"
+        "Aaron Nola",
+        "Sal Stewart"
       ],
       "hashtags": [
+        "#UFCSeattle",
         "#USMNT",
         "#ENGENES_MADE_ENHYPEN_7",
         "#STLCards",
-        "#UFCSeattle",
         "#Cubs"
       ],
       "regular_topics": [
         "No Kings",
         "Sonny Gray",
-        "Aaron Nola",
         "Belgium",
+        "Yanez",
         "Tim Ream",
         "Matt Turner",
-        "Doku",
-        "Nick Nolte",
-        "Weah",
+        "Aaron Nola",
         "Sal Stewart",
-        "Dylan Cease"
+        "Roldan",
+        "Doku",
+        "Pulisic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
