@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-03-29T06:50:07.060655+00:00",
+  "generated_at_utc": "2026-03-29T07:43:18.272233+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 29 2026 05:51:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 06:44:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Izzy",
+        "#JapaneseGP",
         "#UFCSeattle",
+        "#TakoTori1stConcert",
         "Chase DeLauter",
+        "#ENGENES_MADE_ENHYPEN_7",
         "Purdue",
         "Fundora",
+        "Bearman",
         "Arizona",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "Will Smith",
-        "Japan",
-        "Pyfer",
-        "No Kings"
+        "Will Smith"
       ],
       "hashtags": [
+        "#JapaneseGP",
         "#UFCSeattle",
+        "#TakoTori1stConcert",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#TokyoRevengers",
-        "#GuardsBall",
         "#Toonami"
       ],
       "regular_topics": [
@@ -30,13 +30,13 @@
         "Chase DeLauter",
         "Purdue",
         "Fundora",
+        "Bearman",
         "Arizona",
         "Will Smith",
-        "Japan",
+        "Ollie",
         "Pyfer",
-        "No Kings",
         "Final Four",
-        "Grasso"
+        "Nick Cannon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,15 +82,15 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 29 2026 06:09:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 07:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BlueJays50",
         "#UFCSeattle",
         "No Kings",
         "#ENGENES_MADE_ENHYPEN_7",
+        "#JapaneseGP",
         "Dylan Cease",
         "Brendon Little",
-        "#JapaneseGP",
         "Izzy",
         "Hoffman",
         "#CanMNT",
@@ -112,9 +112,9 @@
         "Tiger",
         "Reimer",
         "Michael Ma",
+        "Kimi Antonelli",
         "Epstein",
-        "Spencer Miles",
-        "Wab Kinew"
+        "Spencer Miles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
