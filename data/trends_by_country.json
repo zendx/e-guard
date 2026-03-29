@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-03-29T22:55:01.581712+00:00",
+  "generated_at_utc": "2026-03-29T23:20:44.273761+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 29 2026 21:30:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 22:21:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tennessee",
+        "Gary Woodland",
+        "UConn",
+        "Duke",
         "Torts",
         "Michigan",
+        "Tennessee",
+        "Cassidy",
         "Lindor",
+        "Bubba Wallace",
         "Lovelady",
-        "#GoBlue",
-        "Bruce Cassidy",
-        "UConn",
-        "Palm Sunday",
-        "Invited Users",
-        "John Tortorella"
+        "#GoBlue"
       ],
       "hashtags": [
         "#GoBlue",
+        "#NASCAR",
         "#RaiseIt",
-        "#LightningStrikes",
-        "#ATOBTTR",
-        "#NASCAR"
+        "#CookOut400",
+        "#LightningStrikes"
       ],
       "regular_topics": [
-        "Tennessee",
+        "Gary Woodland",
+        "UConn",
+        "Duke",
         "Torts",
         "Michigan",
+        "Tennessee",
+        "Cassidy",
         "Lindor",
+        "Bubba Wallace",
         "Lovelady",
-        "Bruce Cassidy",
-        "UConn",
-        "Palm Sunday",
-        "Invited Users",
-        "John Tortorella",
-        "PRESALE IS NOW OPEN"
+        "John Tortorella"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
