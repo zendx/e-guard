@@ -1,48 +1,42 @@
 {
-  "generated_at_utc": "2026-03-29T13:32:15.805464+00:00",
+  "generated_at_utc": "2026-03-29T14:23:02.978964+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Mar 29 2026 12:48:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 13:40:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Palm Sunday",
         "Good Sunday",
         "Muhammad Qasim",
-        "$LOL",
         "Holy Week",
         "Jerusalem",
-        "#SundayVibes",
+        "RUN BTS",
+        "Sunday Funday",
         "Blessed is He",
         "Domingo de Ramos",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "Blessed is the King"
+        "King",
+        "#ENGENES_MADE_ENHYPEN_7"
       ],
       "hashtags": [
-        "#SundayVibes",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#SundayFunday",
+        "#SundayVibes",
+        "#SeductiveSunday",
         "#Wordle1744",
-        "#tjpw",
-        "#SEVENHYPEN",
-        "#TakoTori1stConcert",
-        "#DrawntoDawn",
-        "#LoveYouTeacherSeriesEP3",
-        "#JapaneseGP",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP9"
+        "#QG608"
       ],
       "regular_topics": [
         "Palm Sunday",
         "Good Sunday",
         "Muhammad Qasim",
-        "$LOL",
         "Holy Week",
         "Jerusalem",
+        "RUN BTS",
+        "Sunday Funday",
         "Blessed is He",
         "Domingo de Ramos",
-        "Blessed is the King",
-        "Jeanna",
-        "Hosanna"
+        "King",
+        "$LOL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -88,39 +82,39 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 29 2026 12:15:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 13:57:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BLUEJAYS50",
-        "#UFCSeattle",
+        "#BlueJays50",
         "#ENGENES_MADE_ENHYPEN_7",
         "No Kings",
-        "Dylan Cease",
-        "Brendon Little",
-        "Izzy",
-        "Hoffman",
-        "#canmnt",
+        "#UFCSeattle",
         "Palm Sunday",
-        "#JapaneseGP"
+        "brendon little",
+        "Dylan Cease",
+        "Izzy",
+        "#JapaneseGP",
+        "Tiger",
+        "Jeff Hoffman"
       ],
       "hashtags": [
-        "#BLUEJAYS50",
-        "#UFCSeattle",
+        "#BlueJays50",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#canmnt",
-        "#JapaneseGP"
+        "#UFCSeattle",
+        "#JapaneseGP",
+        "#canmnt"
       ],
       "regular_topics": [
         "No Kings",
-        "Dylan Cease",
-        "Brendon Little",
-        "Izzy",
-        "Hoffman",
         "Palm Sunday",
+        "brendon little",
+        "Dylan Cease",
+        "Izzy",
         "Tiger",
+        "Jeff Hoffman",
         "Epstein",
-        "Michael Ma",
-        "spencer miles",
-        "Reimer"
+        "The NDP",
+        "Spencer Miles",
+        "Holy Week"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
