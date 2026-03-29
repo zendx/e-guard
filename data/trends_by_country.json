@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-29T07:43:18.272233+00:00",
+  "generated_at_utc": "2026-03-29T08:26:28.571183+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,19 +43,19 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Mar 29 2026 06:15:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 07:57:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JapaneseGP",
-        "Colapinto",
-        "Bearman",
         "#UFCSeattle",
         "#enguru",
         "#ItaumaFranklin",
         "#ENGENES_MADE_ENHYPEN_7",
-        "George Russell",
-        "Izzy",
+        "Kimi",
+        "Palm Sunday",
+        "Lewis",
+        "Colapinto",
         "England",
-        "Safety Car"
+        "Bearman"
       ],
       "hashtags": [
         "#JapaneseGP",
@@ -65,24 +65,24 @@
         "#ENGENES_MADE_ENHYPEN_7"
       ],
       "regular_topics": [
+        "Kimi",
+        "Palm Sunday",
+        "Lewis",
         "Colapinto",
-        "Bearman",
-        "George Russell",
-        "Izzy",
         "England",
-        "Safety Car",
-        "Jack Black",
-        "Piastri",
-        "Tiger Woods",
-        "Match Day",
-        "World Cup"
+        "Bearman",
+        "Leclerc",
+        "George Russell",
+        "Ferrari",
+        "Oscar",
+        "Tiger Woods"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Mar 29 2026 07:00:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 07:54:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BlueJays50",
         "#UFCSeattle",
@@ -92,9 +92,9 @@
         "Dylan Cease",
         "Brendon Little",
         "Izzy",
+        "Tiger Woods",
         "Hoffman",
-        "#CanMNT",
-        "Tiger"
+        "#CanMNT"
       ],
       "hashtags": [
         "#BlueJays50",
@@ -108,12 +108,12 @@
         "Dylan Cease",
         "Brendon Little",
         "Izzy",
+        "Tiger Woods",
         "Hoffman",
-        "Tiger",
-        "Reimer",
         "Michael Ma",
-        "Kimi Antonelli",
+        "Reimer",
         "Epstein",
+        "Kimi Antonelli",
         "Spencer Miles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,84 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Mar 29 2026 06:03:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 06:54:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TVKPeopleCandidates",
+        "#44YearsOfTDP",
         "#CAPFBill_\u0915\u093e\u0932\u093e_\u0915\u093e\u0928\u0942\u0928",
+        "#TVKPeopleCandidates",
         "#MannKiBaat",
-        "#OldAgeCare",
-        "#MIvsKKR",
+        "#JapaneseGP",
         "No Kings",
-        "Mandir Parishad Satara",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Saint Gurmeet Ram Rahim Ji",
-        "CARE Campaign",
-        "Here's the TAG"
+        "Telugu Desam Party",
+        "N. T. Rama Rao",
+        "Perambur and Trichy East",
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "Kimi"
       ],
       "hashtags": [
-        "#TVKPeopleCandidates",
-        "#CAPFBill_\u0915\u093e\u0932\u093e_\u0915\u093e\u0928\u0942\u0928",
-        "#MannKiBaat",
-        "#OldAgeCare",
-        "#MIvsKKR",
-        "#MassJathara",
-        "#Save_Temples_Movement",
-        "#GodMorningSunday",
-        "#ENGENES_MADE_ENHYPEN_7",
         "#44YearsOfTDP",
+        "#CAPFBill_\u0915\u093e\u0932\u093e_\u0915\u093e\u0928\u0942\u0928",
+        "#TVKPeopleCandidates",
+        "#MannKiBaat",
         "#JapaneseGP"
       ],
       "regular_topics": [
         "No Kings",
+        "Telugu Desam Party",
+        "N. T. Rama Rao",
+        "Perambur and Trichy East",
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "Kimi",
+        "Russell",
+        "Leclerc",
         "Mandir Parishad Satara",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Saint Gurmeet Ram Rahim Ji",
-        "CARE Campaign",
-        "Here's the TAG",
-        "Sehwag",
-        "\u092d\u0935\u093e\u0928\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u093f\u0936\u094d\u0930",
-        "Bajwa",
-        "\u0935\u093f\u091c\u092f\u092a\u0924 \u0938\u093f\u0902\u0918\u093e\u0928\u093f\u092f\u093e",
-        "\u0938\u092e\u093e\u091c\u0935\u093e\u0926\u0940 \u0938\u092e\u093e\u0928\u0924\u093e"
+        "Ollie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Mar 29 2026 05:57:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Mar 29 2026 07:42:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Elon",
         "Palm Sunday",
-        "Israel Adesanya",
-        "#UFCSeattle",
+        "Elon",
         "Mr President",
+        "Israel Adesanya",
+        "N'Golo Kante",
         "Blessed Sunday",
+        "Amen",
+        "Portugal",
         "Active",
-        "Izzy",
-        "#razzlyourworld",
-        "Tony Stark",
-        "Portugal"
+        "#UFCSeattle",
+        "Holy Week"
       ],
       "hashtags": [
         "#UFCSeattle",
-        "#razzlyourworld",
-        "#gloyoutubebundle",
         "#egbaliganza2026",
-        "#LoveYouTeacherSeriesEP3"
+        "#LoveYouTeacherSeriesEP3",
+        "#JapaneseGP",
+        "#therenewedhopenetwork"
       ],
       "regular_topics": [
-        "Elon",
         "Palm Sunday",
-        "Israel Adesanya",
+        "Elon",
         "Mr President",
+        "Israel Adesanya",
+        "N'Golo Kante",
         "Blessed Sunday",
-        "Active",
-        "Izzy",
-        "Tony Stark",
+        "Amen",
         "Portugal",
-        "Ghana",
-        "Rashford"
+        "Active",
+        "Holy Week",
+        "Happy 74th"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
