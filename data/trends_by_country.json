@@ -1,89 +1,88 @@
 {
-  "generated_at_utc": "2026-03-30T10:52:22.459065+00:00",
+  "generated_at_utc": "2026-03-30T11:44:44.032988+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 30 2026 09:44:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 10:36:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "Duke",
+        "No Kings",
+        "UConn",
+        "Palm Sunday",
+        "Japan",
+        "#ENGENES_MADE_ENHYPEN_7",
+        "Final Four",
         "Good Monday",
-        "#sfawtde",
-        "Invited Users",
-        "PUBLIC PRESALE IS NOW LIVE",
-        "PRESALE HAS NOW LAUNCHED",
-        "TOKEN PRESALE HAS BEGUN",
-        "PRESALE IS OFFICIALLY LIVE",
-        "PRESALE ACCESS IS NOW OPEN",
-        "THE PRESALE WINDOW IS NOW OPEN",
-        "PRESALE IS NOW OPEN"
+        "Boozer",
+        "Braylon Mullins",
+        "Holy Week"
       ],
       "hashtags": [
+        "#ENGENES_MADE_ENHYPEN_7",
+        "#UFCSeattle",
         "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#sfawtde",
-        "#ParadiseHulu",
-        "#RevlonGirl",
-        "#LetTXTEatAss",
-        "#teenagegirls"
+        "#MondayMotivation",
+        "#ScottyWithTheBaby"
       ],
       "regular_topics": [
+        "Duke",
+        "No Kings",
+        "UConn",
+        "Palm Sunday",
+        "Japan",
+        "Final Four",
         "Good Monday",
-        "Invited Users",
-        "PUBLIC PRESALE IS NOW LIVE",
-        "PRESALE HAS NOW LAUNCHED",
-        "TOKEN PRESALE HAS BEGUN",
-        "PRESALE IS OFFICIALLY LIVE",
-        "PRESALE ACCESS IS NOW OPEN",
-        "THE PRESALE WINDOW IS NOW OPEN",
-        "PRESALE IS NOW OPEN",
-        "THE PRESALE EVENT HAS STARTED",
-        "Scotty"
+        "Boozer",
+        "Braylon Mullins",
+        "Holy Week",
+        "Dan Hurley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 30 2026 10:04:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 10:57:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "RIP Geoff",
+        "Scott Mills",
         "Palm Sunday",
-        "#popmaster",
         "De Zerbi",
+        "#popmaster",
         "#ENGENES_MADE_ENHYPEN_7",
         "#thismorning",
-        "RIP Geoff",
+        "#UFCSeattle",
         "#jeremyvine",
         "Igor Tudor",
-        "#MondayMotivation",
-        "England",
-        "Zack"
+        "England"
       ],
       "hashtags": [
         "#popmaster",
         "#ENGENES_MADE_ENHYPEN_7",
         "#thismorning",
-        "#jeremyvine",
-        "#MondayMotivation"
+        "#UFCSeattle",
+        "#jeremyvine"
       ],
       "regular_topics": [
+        "RIP Geoff",
+        "Scott Mills",
         "Palm Sunday",
         "De Zerbi",
-        "RIP Geoff",
         "Igor Tudor",
         "England",
         "Zack",
         "KitKat",
-        "Toyin",
+        "BBC Radio 2",
         "London",
-        "Tony Blair",
-        "Funke"
+        "Toyin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 30 2026 10:01:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 10:54:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Avi Lewis",
         "The NDP",
@@ -94,15 +93,15 @@
         "Junos",
         "No Kings",
         "#ENGENES_MADE_ENHYPEN_7",
-        "Duke",
-        "Joni Mitchell"
+        "Joni Mitchell",
+        "Duke"
       ],
       "hashtags": [
         "#BlueJays50",
         "#ENGENES_MADE_ENHYPEN_7",
+        "#ENHYPEN_SEVEN_OR_NOTHING",
         "#UFCSeattle",
-        "#90DayFiance",
-        "#GoHabsGo"
+        "#90DayFiance"
       ],
       "regular_topics": [
         "Avi Lewis",
@@ -112,50 +111,53 @@
         "Palm Sunday",
         "Junos",
         "No Kings",
-        "Duke",
         "Joni Mitchell",
+        "Duke",
         "Jack Layton",
-        "Alberta NDP"
+        "Jerusalem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 30 2026 09:56:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 10:48:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#IndiaSupportsCAPFBill2026",
         "#3YearsOfPathuThala",
-        "#RIPDMKManifesto",
-        "#SalmanKhanVamshiFilm",
         "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#CAPFBill_\u0930\u0926\u094d\u0926_\u0915\u0930\u094b",
         "\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930",
+        "#SalmanKhanVamshiFilm",
         "AG Ravanan",
+        "#CSKvsRR",
         "\u092e\u0902\u0924\u094d\u0930\u0940 \u0905\u0936\u094b\u0915 \u091a\u094c\u0927\u0930\u0940",
-        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
         "Haifa",
-        "Book6 Ultra"
+        "Kolathur",
+        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926"
       ],
       "hashtags": [
+        "#IndiaSupportsCAPFBill2026",
         "#3YearsOfPathuThala",
-        "#RIPDMKManifesto",
-        "#SalmanKhanVamshiFilm",
         "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#CAPFBill_\u0930\u0926\u094d\u0926_\u0915\u0930\u094b",
-        "#GalaxyBook6Series",
+        "#SalmanKhanVamshiFilm",
+        "#CSKvsRR",
+        "#RIPDMKManifesto",
         "#NitishKumar",
-        "#MeraBoothSabseMazboot"
+        "#DilRaju",
+        "#VerifiedBySensibull",
+        "#Rupee",
+        "#GalaxyBook6Series"
       ],
       "regular_topics": [
         "\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930",
         "AG Ravanan",
         "\u092e\u0902\u0924\u094d\u0930\u0940 \u0905\u0936\u094b\u0915 \u091a\u094c\u0927\u0930\u0940",
-        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
         "Haifa",
+        "Kolathur",
+        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
+        "\u0935\u093f\u0924\u094d\u0924 \u092e\u0902\u0924\u094d\u0930\u0940",
         "Book6 Ultra",
         "Dehradun",
-        "Chinese CCTV",
-        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
         "Hikvision",
         "\u0936\u092c\u094d\u092c\u0940\u0930 \u0905\u0939\u092e\u0926 \u0932\u094b\u0928"
       ],
@@ -164,39 +166,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 30 2026 10:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 11:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MondayMotivation",
         "Christians",
+        "#MondayMotivation",
         "Plateau",
-        "Happy New Week",
         "Enzo",
-        "Funke",
+        "Happy New Week",
+        "JOS IS BLEEDING",
         "De Zerbi",
-        "Trade $GF",
-        "Jos North",
-        "Onana",
-        "#MilkLove"
+        "Alex Barbir",
+        "#PitaKwa2027",
+        "Funke",
+        "Onana"
       ],
       "hashtags": [
         "#MondayMotivation",
+        "#PitaKwa2027",
         "#MilkLove",
-        "#lazyfunds",
         "#sabihag\u00f6k\u00e7en",
-        "#KuCoin"
+        "#lazyfunds"
       ],
       "regular_topics": [
         "Christians",
         "Plateau",
-        "Happy New Week",
         "Enzo",
-        "Funke",
+        "Happy New Week",
+        "JOS IS BLEEDING",
         "De Zerbi",
-        "Trade $GF",
-        "Jos North",
+        "Alex Barbir",
+        "Funke",
         "Onana",
-        "Angwan Rukuba",
-        "JOS IS BLEEDING"
+        "Religion",
+        "Angwan Rukuba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
