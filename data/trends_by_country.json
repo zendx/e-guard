@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-03-30T04:19:59.579632+00:00",
+  "generated_at_utc": "2026-03-30T06:12:26.933833+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 30 2026 03:33:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 05:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Duke",
+        "UConn",
         "#Married2Med",
-        "Knicks",
-        "Scheyer",
-        "Boozer",
-        "Mike Brown",
-        "#BaddiesUSA",
         "#ScottyWithTheBaby",
-        "Braylon Mullins",
-        "Grant Hill",
-        "Dan Hurley"
+        "#BaddiesUSA",
+        "Knicks",
+        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "#LetTXTEatAss",
+        "Scheyer",
+        "Cayden",
+        "Mike Brown"
       ],
       "hashtags": [
         "#Married2Med",
-        "#BaddiesUSA",
         "#ScottyWithTheBaby",
-        "#90DayFiance",
+        "#BaddiesUSA",
+        "#ENHYPEN_SEVEN_OR_NOTHING",
         "#LetTXTEatAss"
       ],
       "regular_topics": [
         "Duke",
+        "UConn",
         "Knicks",
         "Scheyer",
-        "Boozer",
+        "Cayden",
         "Mike Brown",
-        "Braylon Mullins",
+        "Mullins",
         "Grant Hill",
-        "Dan Hurley",
-        "Lu Dort",
-        "Brunson",
-        "Emerson Hancock"
+        "Toya",
+        "Porzingis",
+        "Romancing the Stone"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 30 2026 04:00:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 05:44:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Palm Sunday",
         "#ENGENES_MADE_ENHYPEN_7",
         "Igor Tudor",
         "#Itaumafranklin",
-        "Zack",
         "#JapaneseGP",
+        "Zack",
         "#bbclaurak",
         "#UFCSeattle",
         "KitKat",
-        "RIP Paul",
-        "Victoria Wood"
+        "England",
+        "RIP Paul"
       ],
       "hashtags": [
         "#ENGENES_MADE_ENHYPEN_7",
@@ -69,39 +69,39 @@
         "Igor Tudor",
         "Zack",
         "KitKat",
+        "England",
         "RIP Paul",
         "Victoria Wood",
-        "England",
         "No Kings",
-        "Ben Davies",
         "$LOL",
-        "Green Party"
+        "London",
+        "Jerusalem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 30 2026 03:56:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 05:40:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Avi Lewis",
         "The NDP",
         "Torts",
-        "#BlueJays50",
         "Cassidy",
         "Palm Sunday",
-        "Junos",
+        "#BlueJays50",
         "No Kings",
-        "Joni Mitchell",
+        "Junos",
         "#ENGENES_MADE_ENHYPEN_7",
-        "Duke"
+        "Duke",
+        "Joni Mitchell"
       ],
       "hashtags": [
         "#BlueJays50",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#90DayFiance",
         "#UFCSeattle",
-        "#GoHabsGo"
+        "#GoHabsGo",
+        "#90DayFiance"
       ],
       "regular_topics": [
         "Avi Lewis",
@@ -109,84 +109,92 @@
         "Torts",
         "Cassidy",
         "Palm Sunday",
-        "Junos",
         "No Kings",
-        "Joni Mitchell",
+        "Junos",
         "Duke",
+        "Joni Mitchell",
         "Jack Layton",
-        "John Tortorella"
+        "Jerusalem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 30 2026 03:48:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 05:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ThinkForHealth",
-        "#MIvsKKR",
-        "#SaveAshram",
+        "#CAPFBill_\u0930\u0926\u094d\u0926_\u0915\u0930\u094b",
         "#GodMorningMonday",
-        "#ENGENES_MADE_ENHYPEN_7",
+        "#SaveAshram",
+        "#UPSI_INCREASE_2000_POST",
         "Sewa Karya",
+        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
         "Saint Gurmeet Ram Rahim Ji",
-        "Rohit Sharma",
-        "Mumbai Indians",
-        "Wankhede",
-        "gateway to new up"
+        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
+        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
+        "Shame On ManiShankar Aiyar"
       ],
       "hashtags": [
         "#ThinkForHealth",
-        "#MIvsKKR",
-        "#SaveAshram",
+        "#CAPFBill_\u0930\u0926\u094d\u0926_\u0915\u0930\u094b",
         "#GodMorningMonday",
-        "#ENGENES_MADE_ENHYPEN_7"
+        "#SaveAshram",
+        "#UPSI_INCREASE_2000_POST",
+        "#UPSI_SHOW_MARKS",
+        "#Congress_Insults_Hindus",
+        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "#RajasthanDiwas",
+        "#MahavirJayanti",
+        "#CSKvsRR"
       ],
       "regular_topics": [
         "Sewa Karya",
+        "\u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
         "Saint Gurmeet Ram Rahim Ji",
-        "Rohit Sharma",
-        "Mumbai Indians",
-        "Wankhede",
-        "gateway to new up",
-        "Ajinkya Rahane",
-        "GIFT Nifty",
-        "jiohotstar sparks",
+        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
+        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
         "Shame On ManiShankar Aiyar",
-        "No Kings"
+        "\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093e\u0909\u0938",
+        "\u0936\u094d\u092f\u093e\u092e\u091c\u0940 \u0915\u0943\u0937\u094d\u0923 \u0935\u0930\u094d\u092e\u093e",
+        "\u0939\u0943\u0926\u092f \u0930\u094b\u0917 \u091c\u0948\u0938\u0940",
+        "\u0928\u0947\u0939\u093e \u092a\u093e\u0902\u091a\u093e\u0932",
+        "\u0936\u093f\u0935 \u0936\u0902\u0915\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 30 2026 03:44:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 05:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Palm Sunday",
         "Funke",
-        "Tony Stark",
+        "Happy New Week",
         "Mr President",
+        "Tony Stark",
         "Igor Tudor",
+        "JOS IS BLEEDING",
         "Portugal",
-        "Pray for Jos",
         "Wike",
         "Nigerians",
-        "Christians",
-        "JOS IS BLEEDING"
+        "Christians"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#tadc"
+      ],
       "regular_topics": [
         "Palm Sunday",
         "Funke",
-        "Tony Stark",
+        "Happy New Week",
         "Mr President",
+        "Tony Stark",
         "Igor Tudor",
+        "JOS IS BLEEDING",
         "Portugal",
-        "Pray for Jos",
         "Wike",
         "Nigerians",
-        "Christians",
-        "JOS IS BLEEDING"
+        "Christians"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
