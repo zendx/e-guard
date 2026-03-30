@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-30T17:42:14.553347+00:00",
+  "generated_at_utc": "2026-03-30T18:42:35.555111+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,47 +43,47 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 30 2026 17:03:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 17:56:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Scott Mills",
-        "De Zerbi",
         "Resign",
-        "Palm Sunday",
+        "Scott Mills",
         "#thechase",
-        "KitKat",
-        "RIP Geoff",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "England",
-        "Greenwood",
-        "#ENHYPEN_SEVEN_OR_NOTHING"
+        "CONGRATULATIONS BTS",
+        "The BBC",
+        "Dogs",
+        "Carra",
+        "Greggs",
+        "De Zerbi",
+        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "Jerry"
       ],
       "hashtags": [
         "#thechase",
-        "#ENGENES_MADE_ENHYPEN_7",
         "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#MondayMotivation",
-        "#ThisMorning"
+        "#kitkat",
+        "#Hollyoaks"
       ],
       "regular_topics": [
-        "Scott Mills",
-        "De Zerbi",
         "Resign",
-        "Palm Sunday",
-        "KitKat",
-        "RIP Geoff",
-        "England",
-        "Greenwood",
-        "Reform",
-        "Radio 2",
-        "Igor Tudor"
+        "Scott Mills",
+        "CONGRATULATIONS BTS",
+        "The BBC",
+        "Dogs",
+        "Carra",
+        "Greggs",
+        "De Zerbi",
+        "Jerry",
+        "RIP Tony",
+        "Radio 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 30 2026 17:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 17:52:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$Clippy",
         "Avi Lewis",
         "The NDP",
         "Junos",
@@ -93,17 +93,17 @@
         "Cassidy",
         "Palm Sunday",
         "No Kings",
-        "#BlueJays50",
-        "Quebec"
+        "#ENHYPEN_SEVEN_OR_NOTHING"
       ],
       "hashtags": [
+        "#ENHYPEN_SEVEN_OR_NOTHING",
         "#BlueJays50",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#ENHYPEN_SEVEN_OR_NOTHING",
         "#UFCSeattle",
         "#MondayMotivation"
       ],
       "regular_topics": [
+        "$Clippy",
         "Avi Lewis",
         "The NDP",
         "Junos",
@@ -113,86 +113,85 @@
         "Cassidy",
         "Palm Sunday",
         "No Kings",
-        "Quebec",
-        "Duke"
+        "Quebec"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 30 2026 16:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 18:36:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CSKvsRR",
+        "CONGRATULATIONS BTS",
         "Vaibhav Suryavanshi",
-        "#Gadgets360Awards",
-        "#NaxalFreeIndia",
-        "#ScrapCAPFBill",
-        "#KeralamWithCongress",
-        "Jamie Overton",
-        "Rajasthan Royals",
-        "Ravindra Jadeja",
-        "Dhoni",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940"
+        "#BOYCOTT_BLOODSAGA",
+        "#NO_BLOODSAGA_WITHOUT_7",
+        "DO NOT IGNORE ENGENE'S VOICE",
+        "#\uc5d4\uc9c4\uc740_7\uba85\uc778_\uc5d4\ud558\uc774\ud508\uc744_\uc6d0\ud55c\ub2e4",
+        "#BTS_SWIMNo1Hot100",
+        "BTS HISTORY MAKERS",
+        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
+        "BTS PAVED THE WAY"
       ],
       "hashtags": [
         "#CSKvsRR",
-        "#Gadgets360Awards",
-        "#NaxalFreeIndia",
-        "#ScrapCAPFBill",
-        "#KeralamWithCongress"
+        "#BOYCOTT_BLOODSAGA",
+        "#NO_BLOODSAGA_WITHOUT_7",
+        "#\uc5d4\uc9c4\uc740_7\uba85\uc778_\uc5d4\ud558\uc774\ud508\uc744_\uc6d0\ud55c\ub2e4",
+        "#BTS_SWIMNo1Hot100"
       ],
       "regular_topics": [
+        "CONGRATULATIONS BTS",
         "Vaibhav Suryavanshi",
-        "Jamie Overton",
-        "Rajasthan Royals",
-        "Ravindra Jadeja",
-        "Dhoni",
+        "DO NOT IGNORE ENGENE'S VOICE",
+        "BTS HISTORY MAKERS",
         "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "Chennai Super Kings",
-        "Jaddu",
-        "Sarfaraz Khan",
-        "Sanju Samson",
-        "Fleming"
+        "BTS PAVED THE WAY",
+        "Rajasthan Royals",
+        "BTS LEGENDS",
+        "Dhoni",
+        "Ravindra Jadeja",
+        "Muhammad Tahir Anwar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 30 2026 16:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 18:32:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JosNigeria",
         "South Africa",
-        "Kano",
-        "Germany",
         "Atiku",
-        "Kwankwaso",
-        "Offloading",
-        "#Pitakwa2027",
         "Japan",
-        "Christians",
-        "Panasonic"
+        "PUT ME ON",
+        "Germany",
+        "Kano",
+        "Offloading",
+        "#josisbleeding",
+        "Peter Obi",
+        "Accidentally"
       ],
       "hashtags": [
         "#JosNigeria",
-        "#Pitakwa2027",
         "#josisbleeding",
-        "#ONEPIECE",
-        "#KoyinSanusi"
+        "#Pitakwa2027",
+        "#sfawtde",
+        "#ONEPIECE"
       ],
       "regular_topics": [
         "South Africa",
-        "Kano",
-        "Germany",
         "Atiku",
-        "Kwankwaso",
-        "Offloading",
         "Japan",
-        "Christians",
-        "Panasonic",
-        "Plateau",
-        "Jerry Eze"
+        "PUT ME ON",
+        "Germany",
+        "Kano",
+        "Offloading",
+        "Peter Obi",
+        "Accidentally",
+        "Ghana",
+        "Leave Jos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
