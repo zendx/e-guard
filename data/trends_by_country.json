@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-03-30T19:45:18.704300+00:00",
+  "generated_at_utc": "2026-03-30T20:32:35.184304+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 30 2026 18:25:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 19:16:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$Clippy",
         "#WhyIChime",
-        "Jupiter's Best",
         "CONGRATULATIONS BTS",
+        "Jupiter's Best",
+        "#BOYCOTT_BLOODSAGA",
         "#BTS7thNo1onHot100",
         "#NO_7_NO_ENHYPEN_TOUR",
-        "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#BOYCOTT_BLOODSAGA",
         "My Maddy",
+        "#ENGENES_WANT_ENHYPEN_7",
         "Hurley",
         "Disney World"
       ],
       "hashtags": [
         "#WhyIChime",
+        "#BOYCOTT_BLOODSAGA",
         "#BTS7thNo1onHot100",
         "#NO_7_NO_ENHYPEN_TOUR",
-        "#ENHYPEN_SEVEN_OR_NOTHING",
-        "#BOYCOTT_BLOODSAGA"
+        "#ENGENES_WANT_ENHYPEN_7"
       ],
       "regular_topics": [
         "$Clippy",
-        "Jupiter's Best",
         "CONGRATULATIONS BTS",
+        "Jupiter's Best",
         "My Maddy",
         "Hurley",
         "Disney World",
-        "Statue of Liberty",
-        "Marie Harf",
+        "Jaden Ivey",
+        "BTS PAVED THE WAY",
         "BTS HISTORY MAKERS",
-        "Wine",
-        "John Cena"
+        "DO NOT IGNORE ENGENE'S VOICE",
+        "Tomas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 30 2026 18:48:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Scott Mills",
         "De Zerbi",
         "Resign",
         "Palm Sunday",
         "KitKat",
-        "RIP Geoff",
+        "#MAFSAU",
         "#ENHYPEN_SEVEN_OR_NOTHING",
+        "#mastermind",
+        "RIP Geoff",
         "England",
-        "Greenwood",
-        "The BBC",
-        "Radio 2"
+        "The BBC"
       ],
       "hashtags": [
+        "#MAFSAU",
         "#ENHYPEN_SEVEN_OR_NOTHING",
+        "#mastermind",
         "#ENGENES_MADE_ENHYPEN_7",
-        "#BOYCOTT_BLOODSAGA",
-        "#MondayMotivation",
-        "#thechase"
+        "#BOYCOTT_BLOODSAGA"
       ],
       "regular_topics": [
         "Scott Mills",
@@ -72,10 +72,10 @@
         "KitKat",
         "RIP Geoff",
         "England",
-        "Greenwood",
         "The BBC",
+        "Greenwood",
         "Radio 2",
-        "Reform"
+        "Dogs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,38 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Mar 30 2026 18:36:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 20:21:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#CSKvsRR",
         "CONGRATULATIONS BTS",
-        "Vaibhav Suryavanshi",
+        "#CSKvsRR",
         "#BOYCOTT_BLOODSAGA",
-        "#NO_BLOODSAGA_WITHOUT_7",
+        "#ENGENES_WANT_ENHYPEN_7",
+        "BTS PAVED THE WAY",
         "DO NOT IGNORE ENGENE'S VOICE",
-        "#\uc5d4\uc9c4\uc740_7\uba85\uc778_\uc5d4\ud558\uc774\ud508\uc744_\uc6d0\ud55c\ub2e4",
-        "#BTS_SWIMNo1Hot100",
+        "Vaibhav Suryavanshi",
+        "#NO_BLOODSAGA_WITHOUT_7",
         "BTS HISTORY MAKERS",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "BTS PAVED THE WAY"
+        "#BTS7thNo1onHot100",
+        "FIRST ACT"
       ],
       "hashtags": [
         "#CSKvsRR",
         "#BOYCOTT_BLOODSAGA",
+        "#ENGENES_WANT_ENHYPEN_7",
         "#NO_BLOODSAGA_WITHOUT_7",
-        "#\uc5d4\uc9c4\uc740_7\uba85\uc778_\uc5d4\ud558\uc774\ud508\uc744_\uc6d0\ud55c\ub2e4",
-        "#BTS_SWIMNo1Hot100"
+        "#BTS7thNo1onHot100"
       ],
       "regular_topics": [
         "CONGRATULATIONS BTS",
-        "Vaibhav Suryavanshi",
-        "DO NOT IGNORE ENGENE'S VOICE",
-        "BTS HISTORY MAKERS",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
         "BTS PAVED THE WAY",
-        "Rajasthan Royals",
+        "DO NOT IGNORE ENGENE'S VOICE",
+        "Vaibhav Suryavanshi",
+        "BTS HISTORY MAKERS",
+        "FIRST ACT",
         "BTS LEGENDS",
-        "Dhoni",
-        "Ravindra Jadeja",
+        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
+        "FIRST ARTIST IN HISTORY",
+        "Rajasthan Royals",
         "Muhammad Tahir Anwar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
