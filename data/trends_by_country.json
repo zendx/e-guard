@@ -1,120 +1,125 @@
 {
-  "generated_at_utc": "2026-03-30T20:32:35.184304+00:00",
+  "generated_at_utc": "2026-03-30T21:31:19.987161+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Mar 30 2026 19:16:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 20:08:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$Clippy",
         "#WhyIChime",
+        "#BOYCOTT_BLOODSAGA",
         "CONGRATULATIONS BTS",
         "Jupiter's Best",
-        "#BOYCOTT_BLOODSAGA",
-        "#BTS7thNo1onHot100",
-        "#NO_7_NO_ENHYPEN_TOUR",
-        "My Maddy",
         "#ENGENES_WANT_ENHYPEN_7",
+        "Jaden Ivey",
+        "#NO_7_NO_ENHYPEN_TOUR",
         "Hurley",
-        "Disney World"
+        "My Maddy",
+        "#BTS7thNo1onHot100",
+        "BTS PAVED THE WAY"
       ],
       "hashtags": [
         "#WhyIChime",
         "#BOYCOTT_BLOODSAGA",
-        "#BTS7thNo1onHot100",
+        "#ENGENES_WANT_ENHYPEN_7",
         "#NO_7_NO_ENHYPEN_TOUR",
-        "#ENGENES_WANT_ENHYPEN_7"
+        "#BTS7thNo1onHot100"
       ],
       "regular_topics": [
-        "$Clippy",
         "CONGRATULATIONS BTS",
         "Jupiter's Best",
-        "My Maddy",
-        "Hurley",
-        "Disney World",
         "Jaden Ivey",
+        "Hurley",
+        "My Maddy",
         "BTS PAVED THE WAY",
-        "BTS HISTORY MAKERS",
+        "Disney World",
         "DO NOT IGNORE ENGENE'S VOICE",
-        "Tomas"
+        "BTS HISTORY MAKERS",
+        "Hezbollah-inspired",
+        "Wine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Mar 30 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 20:33:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Scott Mills",
-        "De Zerbi",
+        "#UniversityChallenge",
         "Resign",
-        "Palm Sunday",
-        "KitKat",
-        "#MAFSAU",
-        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "Brook",
+        "#TheTeacher",
+        "Wireless",
+        "Scott Mills",
+        "#BOYCOTT_BLOODSAGA",
         "#mastermind",
-        "RIP Geoff",
-        "England",
-        "The BBC"
+        "Carra",
+        "Ofsted",
+        "#ENGENES_WANT_ENHYPEN_7"
       ],
       "hashtags": [
-        "#MAFSAU",
-        "#ENHYPEN_SEVEN_OR_NOTHING",
+        "#UniversityChallenge",
+        "#TheTeacher",
+        "#BOYCOTT_BLOODSAGA",
         "#mastermind",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "#BOYCOTT_BLOODSAGA"
+        "#ENGENES_WANT_ENHYPEN_7",
+        "#thechase",
+        "#TheArchers",
+        "#Hollyoaks",
+        "#TourChampionship",
+        "#ENHYPEN_SEVEN_OR_NOTHING"
       ],
       "regular_topics": [
-        "Scott Mills",
-        "De Zerbi",
         "Resign",
-        "Palm Sunday",
-        "KitKat",
-        "RIP Geoff",
-        "England",
-        "The BBC",
-        "Greenwood",
+        "Brook",
+        "Wireless",
+        "Scott Mills",
+        "Carra",
+        "Ofsted",
+        "Dogs",
+        "CONGRATULATIONS BTS",
+        "Knesset",
         "Radio 2",
-        "Dogs"
+        "Rory Stewart"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Mar 30 2026 19:36:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 20:30:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Avi Lewis",
-        "The NDP",
         "Joni Mitchell",
+        "The NDP",
         "Junos",
         "Torts",
         "Cassidy",
         "Gudas",
-        "Air Canada",
         "$Clippy",
         "Palm Sunday",
-        "CONGRATULATIONS BTS"
+        "Air Canada",
+        "Quebec"
       ],
       "hashtags": [
         "#ENHYPEN_SEVEN_OR_NOTHING",
         "#BOYCOTT_BLOODSAGA",
-        "#ENGENES_MADE_ENHYPEN_7",
-        "#BlueJays50",
-        "#NO_BLOODSAGA_WITHOUT_7"
+        "#ENGENES_WANT_ENHYPEN_7",
+        "#NO_BLOODSAGA_WITHOUT_7",
+        "#BlueJays50"
       ],
       "regular_topics": [
         "Avi Lewis",
-        "The NDP",
         "Joni Mitchell",
+        "The NDP",
         "Junos",
         "Torts",
         "Cassidy",
         "Gudas",
-        "Air Canada",
         "$Clippy",
         "Palm Sunday",
-        "CONGRATULATIONS BTS"
+        "Air Canada",
+        "Quebec"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,39 +165,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Mar 30 2026 19:27:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Mar 30 2026 21:09:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JosNigeria",
         "Ghana",
-        "South Africa",
+        "Blessing CEO",
+        "Cucurella",
+        "Dezny",
+        "South Africans",
         "Bernardo Silva",
-        "Atiku",
-        "#josisbleeding",
-        "PUT ME ON",
-        "Kano",
-        "Offloading",
+        "Home or Away",
         "Bumbum",
-        "Japan"
+        "Kai Havertz",
+        "#JosNigeria",
+        "Atiku"
       ],
       "hashtags": [
         "#JosNigeria",
-        "#josisbleeding",
+        "#GERGHA",
+        "#UpNepa",
         "#maisvoc\u00ea",
-        "#Pitakwa2027",
-        "#sfawtde"
+        "#josisbleeding"
       ],
       "regular_topics": [
         "Ghana",
-        "South Africa",
+        "Blessing CEO",
+        "Cucurella",
+        "Dezny",
+        "South Africans",
         "Bernardo Silva",
-        "Atiku",
-        "PUT ME ON",
-        "Kano",
-        "Offloading",
+        "Home or Away",
         "Bumbum",
-        "Japan",
-        "Kwankwaso",
-        "Accidentally"
+        "Kai Havertz",
+        "Atiku",
+        "Leave Jos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
