@@ -1,119 +1,119 @@
 {
-  "generated_at_utc": "2026-03-31T08:35:40.298760+00:00",
+  "generated_at_utc": "2026-03-31T09:52:46.314316+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Mar 31 2026 08:21:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 09:15:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jaden Ivey",
         "#Supergirl",
+        "Simon's Cat",
+        "#Thanksgiving",
+        "Jaden Ivey",
         "#WWERaw",
-        "Paul Blackburn",
         "#BELIFT_Do_Better",
         "Bulls",
-        "Thanksgiving",
-        "Pistons",
         "#BOYCOTT_BLOODSAGA",
-        "Gunther",
-        "Gudas"
+        "Tyler Robinson",
+        "Got 2",
+        "The NBA"
       ],
       "hashtags": [
         "#Supergirl",
+        "#Thanksgiving",
         "#WWERaw",
         "#BELIFT_Do_Better",
-        "#BOYCOTT_BLOODSAGA",
-        "#ENGENES_WANT_ENHYPEN_7"
+        "#BOYCOTT_BLOODSAGA"
       ],
       "regular_topics": [
+        "Simon's Cat",
         "Jaden Ivey",
-        "Paul Blackburn",
         "Bulls",
-        "Thanksgiving",
+        "Tyler Robinson",
+        "Got 2",
+        "The NBA",
+        "Blackburn",
         "Pistons",
         "Gunther",
-        "Gudas",
-        "Tyler Robinson",
-        "The NBA",
-        "25 FTs",
-        "Got 2"
+        "Pumpkin",
+        "Gudas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Mar 31 2026 07:52:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 09:39:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Scott Mills",
         "De Zerbi",
         "#WWERaw",
-        "#thicktrunktuesday",
         "Dogs",
-        "Davina",
         "#BOYCOTT_BLOODSAGA",
-        "#r4today",
-        "#bbcbreakfast",
+        "Resign",
         "The BBC",
-        "Resign"
+        "#ENGENES_WANT_ENHYPEN_7",
+        "#thicktrunktuesday",
+        "Cucurella",
+        "KitKat"
       ],
       "hashtags": [
         "#WWERaw",
-        "#thicktrunktuesday",
         "#BOYCOTT_BLOODSAGA",
-        "#r4today",
-        "#bbcbreakfast"
+        "#ENGENES_WANT_ENHYPEN_7",
+        "#thicktrunktuesday",
+        "#ENHYPEN_SEVEN_OR_NOTHING"
       ],
       "regular_topics": [
         "Scott Mills",
         "De Zerbi",
         "Dogs",
-        "Davina",
-        "The BBC",
         "Resign",
+        "The BBC",
+        "Cucurella",
         "KitKat",
         "Radio 2",
-        "Palm Sunday",
-        "Japan",
-        "RIP Geoff"
+        "Cobra",
+        "RIP Geoff",
+        "Japan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 31 2026 07:48:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 09:33:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
-        "Ponce",
         "Joni Mitchell",
+        "Ponce",
         "Domi",
         "#WWERaw",
         "Avi Lewis",
         "Junos",
-        "Rockies",
-        "Brendon Little",
         "Leafs",
-        "Brad Treliving"
+        "Brendon Little",
+        "Brad Treliving",
+        "Rockies"
       ],
       "hashtags": [
         "#WWERaw",
         "#BOYCOTT_BLOODSAGA",
         "#ENGENES_WANT_ENHYPEN_7",
-        "#BlueJays50",
+        "#bluejays50",
         "#ENHYPEN_SEVEN_OR_NOTHING"
       ],
       "regular_topics": [
         "Gudas",
-        "Ponce",
         "Joni Mitchell",
+        "Ponce",
         "Domi",
         "Avi Lewis",
         "Junos",
-        "Rockies",
-        "Brendon Little",
         "Leafs",
+        "Brendon Little",
         "Brad Treliving",
+        "Rockies",
         "Torts"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,78 +121,79 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Mar 31 2026 07:42:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 09:27:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NDA4VikasitaKeralam",
+        "Choudhry Surendra Singh",
+        "#OnePlusNord6",
+        "#CAPFBill_\u092b\u093e\u0901\u0938\u0940_\u0915\u093e_\u092b\u0902\u0926\u093e",
         "#MahavirJayanti",
-        "#AIADMKGovernmentLoading",
-        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
         "#Nalanda",
-        "#NaxalFreeIndia",
-        "#\u091c\u0948\u0928_\u0927\u0930\u094d\u092e_\u0915\u0940_\u0938\u091a\u094d\u091a\u093e\u0908",
-        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
-        "\u0936\u0940\u0924\u0932\u093e \u092e\u0902\u0926\u093f\u0930",
-        "Sant RampalJi YtChannel",
         "A. 165 FPS",
-        "\u0915\u0930\u094d\u0928\u0932 \u0915\u093f\u0930\u094b\u0921\u093c\u0940 \u0938\u093f\u0902\u0939"
+        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
+        "\u0936\u0940\u0924\u0932\u093e \u092e\u0902\u0926\u093f\u0930",
+        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
+        "Leander Paes"
       ],
       "hashtags": [
+        "#NDA4VikasitaKeralam",
+        "#OnePlusNord6",
+        "#CAPFBill_\u092b\u093e\u0901\u0938\u0940_\u0915\u093e_\u092b\u0902\u0926\u093e",
         "#MahavirJayanti",
-        "#AIADMKGovernmentLoading",
         "#Nalanda",
-        "#NaxalFreeIndia",
-        "#\u091c\u0948\u0928_\u0927\u0930\u094d\u092e_\u0915\u0940_\u0938\u091a\u094d\u091a\u093e\u0908"
+        "#AIADMKGovernmentLoading"
       ],
       "regular_topics": [
-        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
-        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
-        "\u0936\u0940\u0924\u0932\u093e \u092e\u0902\u0926\u093f\u0930",
-        "Sant RampalJi YtChannel",
+        "Choudhry Surendra Singh",
         "A. 165 FPS",
-        "\u0915\u0930\u094d\u0928\u0932 \u0915\u093f\u0930\u094b\u0921\u093c\u0940 \u0938\u093f\u0902\u0939",
+        "\u092d\u0917\u0935\u093e\u0928 \u092e\u0939\u093e\u0935\u0940\u0930",
+        "\u0936\u0940\u0924\u0932\u093e \u092e\u0902\u0926\u093f\u0930",
+        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
         "Leander Paes",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092e\u093e\u0927\u094d\u092f\u092e\u093f\u0915 \u0936\u093f\u0915\u094d\u0937\u093e \u092c\u094b\u0930\u094d\u0921",
+        "Sant RampalJi YtChannel",
+        "\u0932\u093f\u090f\u0902\u0921\u0930 \u092a\u0947\u0938",
+        "B. 50MP",
         "DO NOT IGNORE ENGENE'S VOICE",
-        "Isfahan",
-        "\u092a\u094d\u0930\u0924\u0940\u0915 \u0936\u0930\u094d\u092e\u093e"
+        "D. 9000mAH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Mar 31 2026 08:30:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 09:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Christians",
         "Ghana",
         "Tinubu",
         "Nigerians",
-        "IT HAS ENDED IN PRAISE",
+        "Otto Addo",
+        "South Africa",
         "Germany",
         "Plateau",
-        "Otto Addo",
+        "Peter Obi",
         "Funke",
-        "South Africa",
-        "Peter Obi"
+        "Atiku"
       ],
       "hashtags": [
         "#JosNigeria",
-        "#NSPPD",
+        "#Sincer\u00e3o",
         "#josisbleeding",
-        "#MondayMotivation",
-        "#Sincer\u00e3o"
+        "#NSPPD",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Christians",
         "Ghana",
         "Tinubu",
         "Nigerians",
-        "IT HAS ENDED IN PRAISE",
+        "Otto Addo",
+        "South Africa",
         "Germany",
         "Plateau",
-        "Otto Addo",
+        "Peter Obi",
         "Funke",
-        "South Africa",
-        "Peter Obi"
+        "Atiku"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
