@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-31T09:52:46.314316+00:00",
+  "generated_at_utc": "2026-03-31T10:42:21.903233+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -82,18 +82,18 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Mar 31 2026 09:33:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Mar 31 2026 10:27:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gudas",
-        "Joni Mitchell",
         "Ponce",
+        "Joni Mitchell",
         "Domi",
         "#WWERaw",
         "Avi Lewis",
-        "Junos",
-        "Leafs",
         "Brendon Little",
-        "Brad Treliving",
+        "Leafs",
+        "Junos",
+        "#BOYCOTT_BLOODSAGA",
         "Rockies"
       ],
       "hashtags": [
@@ -105,16 +105,16 @@
       ],
       "regular_topics": [
         "Gudas",
-        "Joni Mitchell",
         "Ponce",
+        "Joni Mitchell",
         "Domi",
         "Avi Lewis",
-        "Junos",
-        "Leafs",
         "Brendon Little",
-        "Brad Treliving",
+        "Leafs",
+        "Junos",
         "Rockies",
-        "Torts"
+        "Brad Treliving",
+        "The NDP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
