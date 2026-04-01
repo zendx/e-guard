@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-04-01T04:24:10.255878+00:00",
+  "generated_at_utc": "2026-04-01T06:08:12.730343+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 01 2026 03:40:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 05:24:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
+        "Jose Fernandez",
+        "#LakeShow",
+        "Bolivia",
+        "Cavs",
         "#DaredevilBornAgain",
-        "#WWENXT",
+        "Max Fried",
+        "Donovan Mitchell",
         "CB Bucknor",
         "Megan",
-        "World Cup",
-        "Lovelady",
-        "Jarrett Allen",
-        "Knicks",
-        "Igor",
-        "Red Sox"
+        "Stammen"
       ],
       "hashtags": [
+        "#LakeShow",
         "#DaredevilBornAgain",
         "#WWENXT",
-        "#TamalesVsWaffles",
-        "#HighPotential",
-        "#USMNT"
+        "#Lakers",
+        "#Dbacks"
       ],
       "regular_topics": [
         "April Fools",
+        "Jose Fernandez",
+        "Bolivia",
+        "Cavs",
+        "Max Fried",
+        "Donovan Mitchell",
         "CB Bucknor",
         "Megan",
+        "Stammen",
         "World Cup",
-        "Lovelady",
-        "Jarrett Allen",
-        "Knicks",
-        "Igor",
-        "Red Sox",
-        "Max Fried",
-        "Italy"
+        "Max Muncy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 01 2026 04:01:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 05:45:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "World Cup",
         "Italy",
-        "#ENGJAP",
+        "#engjap",
         "Japan",
         "Scott Mills",
         "De Zerbi",
-        "#ENGJPN",
         "April Fools",
         "Bosnia",
+        "#ENGJPN",
         "NATO",
         "Tuchel"
       ],
       "hashtags": [
-        "#ENGJAP",
+        "#engjap",
         "#ENGJPN",
         "#WWENXT",
-        "#DaredevilBornAgain",
-        "#BOYCOTT_BLOODSAGA"
+        "#BOYCOTT_BLOODSAGA",
+        "#DaredevilBornAgain"
       ],
       "regular_topics": [
         "World Cup",
@@ -74,131 +74,125 @@
         "Bosnia",
         "NATO",
         "Tuchel",
-        "Greenwood",
-        "Labour"
+        "Labour",
+        "Abolish"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 01 2026 03:57:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 05:42:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "World Cup",
         "Bosnia",
+        "April Fools",
         "Stephen Lewis",
         "Pelley",
-        "Connor Ingram",
-        "April Fools",
-        "#LetsGoOilers",
         "Gudas",
-        "#GoHabsGo",
-        "#CanMNT"
+        "Alberta",
+        "#LetsGoOilers",
+        "Leafs",
+        "Ullmark"
       ],
       "hashtags": [
         "#LetsGoOilers",
-        "#GoHabsGo",
-        "#CanMNT",
         "#SummerHouse",
-        "#GoJetsGo"
+        "#CanMNT",
+        "#BOYCOTT_BLOODSAGA",
+        "#ENGENES_WANT_ENHYPEN_7"
       ],
       "regular_topics": [
         "Italy",
         "World Cup",
         "Bosnia",
+        "April Fools",
         "Stephen Lewis",
         "Pelley",
-        "Connor Ingram",
-        "April Fools",
         "Gudas",
+        "Alberta",
         "Leafs",
-        "Domi",
-        "Alberta"
+        "Ullmark",
+        "Connor Ingram"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 01 2026 03:51:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 05:36:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PowerPoison",
+        "#\u091c\u0935\u093e\u0928_\u0935\u093f\u0930\u094b\u0927\u0940_CAPFBill",
+        "#Apr1_DMKFoolsTN",
+        "#AIADMK_TakeOverOfTNPolitics",
         "#3in1MSGBhandaraMonth",
-        "#GodMorningWednesday",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0936\u093e\u0939 \u092e\u0938\u094d\u0924\u093e\u0928\u093e",
         "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "Dera Sacha Sauda",
-        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
-        "Shah Mastana Ji Maharaj",
-        "#UtkalDivas"
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Amelia Kerr",
+        "Commercial LPG",
+        "\u091f\u0940\u0928\u093e \u0921\u093e\u092c\u0940"
       ],
       "hashtags": [
-        "#3in1MSGBhandaraMonth",
-        "#GodMorningWednesday",
-        "#UtkalDivas",
-        "#AprilFooIsDay",
-        "#\u0905\u092e\u093f\u0924_\u0936\u093e\u0939_\u092e\u093e\u092b\u0940_\u092e\u093e\u0902\u0917\u0947",
-        "#ShivakumaraSwamiji",
-        "#LPGPriceHike",
-        "#\u0b09\u0b24\u0b4d\u0b15\u0b33\u0b26\u0b3f\u0b2c\u0b38",
-        "#OdishaDay",
-        "#NewFinancialYear",
-        "#Oracle"
+        "#PowerPoison",
+        "#\u091c\u0935\u093e\u0928_\u0935\u093f\u0930\u094b\u0927\u0940_CAPFBill",
+        "#Apr1_DMKFoolsTN",
+        "#AIADMK_TakeOverOfTNPolitics",
+        "#3in1MSGBhandaraMonth"
       ],
       "regular_topics": [
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0936\u093e\u0939 \u092e\u0938\u094d\u0924\u093e\u0928\u093e",
         "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "Dera Sacha Sauda",
-        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
-        "Shah Mastana Ji Maharaj",
-        "\u0936\u093e\u0939 \u0938\u0924\u0928\u093e\u092e",
-        "65 IAS",
-        "\u091f\u0940\u0928\u093e \u0921\u093e\u092c\u0940"
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Amelia Kerr",
+        "Commercial LPG",
+        "\u091f\u0940\u0928\u093e \u0921\u093e\u092c\u0940",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "\u0936\u093e\u0939 \u092e\u0938\u094d\u0924\u093e\u0928\u093e",
+        "Oracle",
+        "Dera Sacha Sauda",
+        "\u0913\u0921\u093f\u0936\u093e \u0930\u093e\u091c\u094d\u092f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 01 2026 03:45:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 05:32:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Month",
         "Italy",
         "World Cup",
+        "May April",
         "Nigerians",
-        "Extreme",
-        "Christians",
-        "Bosnia",
-        "DR Congo",
-        "#AprilFoolsDay",
+        "Happy Birthday CZ",
+        "Amen",
+        "Welcome to Q2",
+        "Bolivia",
         "Tinubu",
-        "Japan"
+        "Christians"
       ],
       "hashtags": [
-        "#AprilFoolsDay",
-        "#amvca12",
         "#drnatashaoyibo",
         "#sellonkwickng",
+        "#kriptodavergiyehay\u0131r",
+        "#April2026",
         "#josisbleeding"
       ],
       "regular_topics": [
         "Happy New Month",
         "Italy",
         "World Cup",
+        "May April",
         "Nigerians",
-        "Extreme",
-        "Christians",
-        "Bosnia",
-        "DR Congo",
+        "Happy Birthday CZ",
+        "Amen",
+        "Welcome to Q2",
+        "Bolivia",
         "Tinubu",
-        "Japan",
-        "Ghana"
+        "Christians"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
