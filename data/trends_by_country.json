@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-04-01T16:41:57.652276+00:00",
+  "generated_at_utc": "2026-04-01T17:40:12.551184+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 01 2026 15:48:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 16:40:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
-        "#DogeMeetsQubic",
-        "NATO",
         "Supreme Court",
         "SCOTUS",
-        "Goodmorninghausen",
-        "Hurts",
+        "#DogeMeetsQubic",
+        "NATO",
         "Sauer",
-        "#2point0",
-        "Happy Passover",
-        "Artemis II"
+        "Hurts",
+        "Goodmorninghausen",
+        "Constitution",
+        "Gorsuch",
+        "Happy Passover"
       ],
       "hashtags": [
         "#DogeMeetsQubic",
         "#2point0",
-        "#birthright",
+        "#OliviaIsComing",
         "#ConLasTablasEnLaCabeza",
-        "#WednesdayWisdom"
+        "#Invincible"
       ],
       "regular_topics": [
         "April Fools",
-        "NATO",
         "Supreme Court",
         "SCOTUS",
-        "Goodmorninghausen",
-        "Hurts",
+        "NATO",
         "Sauer",
+        "Hurts",
+        "Goodmorninghausen",
+        "Constitution",
+        "Gorsuch",
         "Happy Passover",
-        "Artemis II",
-        "Happy New Year",
-        "14th Amendment"
+        "Native Americans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 01 2026 16:12:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 17:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "World Cup",
@@ -51,18 +51,18 @@
         "Italy",
         "Japan",
         "Clapham",
-        "#engjap",
-        "Brexit",
         "Europe",
+        "Brexit",
         "England",
-        "Bosnia"
+        "Bosnia",
+        "#ENGJAP"
       ],
       "hashtags": [
-        "#engjap",
+        "#ENGJAP",
+        "#thechase",
         "#WEWILL_NEVER_GIVEUP_ON_ENHA_7",
         "#engjpn",
-        "#2point0",
-        "#thismorning"
+        "#2point0"
       ],
       "regular_topics": [
         "April Fools",
@@ -71,18 +71,18 @@
         "Italy",
         "Japan",
         "Clapham",
-        "Brexit",
         "Europe",
+        "Brexit",
         "England",
         "Bosnia",
-        "Scott Mills"
+        "Labour"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 01 2026 16:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 17:00:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "Italy",
@@ -92,16 +92,16 @@
         "Bosnia",
         "Pelley",
         "Alberta",
-        "Alto",
         "Artemis II",
-        "Happy Passover"
+        "Alto",
+        "Passover"
       ],
       "hashtags": [
         "#SummerHouse",
-        "#2point0",
         "#WEWILL_NEVER_GIVEUP_ON_ENHA_7",
         "#TransDayOfVisibility",
-        "#BIHITA"
+        "#BIHITA",
+        "#CanMNT"
       ],
       "regular_topics": [
         "April Fools",
@@ -112,89 +112,87 @@
         "Bosnia",
         "Pelley",
         "Alberta",
-        "Alto",
         "Artemis II",
-        "Happy Passover"
+        "Alto",
+        "Passover"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 01 2026 15:08:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 16:52:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SuperHiStrongHai",
-        "#marghatwalebaba",
-        "#TadkaOnJioHotstar",
-        "#JKSuperCement",
         "#LSGvsDC",
+        "#TadkaOnJioHotstar",
+        "#GaudiumIVF",
+        "#ShaliniSingh",
+        "#SuperHiStrongHai",
+        "SiD & ERICA",
+        "Prince Yadav",
+        "KL Rahul",
         "Rishabh Pant",
-        "\u092a\u0902\u0921\u093f\u0924 \u0935\u0948\u092d\u0935 \u0936\u0930\u094d\u092e\u093e",
-        "Lungi Ngidi",
-        "Markram",
-        "RAMA GLIMPSE TOMORROW",
-        "Delhi Capitals"
+        "Delhi Capitals",
+        "Dr. Manika Khanna"
       ],
       "hashtags": [
-        "#SuperHiStrongHai",
-        "#marghatwalebaba",
+        "#LSGvsDC",
         "#TadkaOnJioHotstar",
-        "#JKSuperCement",
-        "#LSGvsDC"
+        "#GaudiumIVF",
+        "#ShaliniSingh",
+        "#SuperHiStrongHai"
       ],
       "regular_topics": [
+        "SiD & ERICA",
+        "Prince Yadav",
+        "KL Rahul",
         "Rishabh Pant",
-        "\u092a\u0902\u0921\u093f\u0924 \u0935\u0948\u092d\u0935 \u0936\u0930\u094d\u092e\u093e",
-        "Lungi Ngidi",
-        "Markram",
-        "RAMA GLIMPSE TOMORROW",
         "Delhi Capitals",
-        "Nicholas Pooran",
-        "\u0936\u094b\u092d\u093e \u092f\u093e\u0924\u094d\u0930\u093e",
-        "Mukesh Kumar",
-        "Mitchell Marsh",
-        "Axar Patel"
+        "Dr. Manika Khanna",
+        "Lungi Ngidi",
+        "RAMA GLIMPSE TOMORROW",
+        "Mohsin Khan",
+        "Shami",
+        "Nitish Rana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 01 2026 15:56:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 16:48:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NigeriansDeserveBetter",
         "#BurgerKingNigeria",
-        "$VELT",
+        "#NigeriansDeserveBetter",
         "Happy New Month",
-        "#GloUnlimitedData",
-        "#AprilFoolsDay",
+        "$VELT",
+        "April Fool",
+        "#1stop",
         "Baddy",
-        "koyin x nivea men",
-        "Whitney",
-        "Oliver",
-        "CONGRATULATIONS KOYIN"
+        "Conquest",
+        "#GloUnlimitedData",
+        "KOYIN X NIVEA MEN",
+        "#\u00e7ar\u015famba"
       ],
       "hashtags": [
-        "#NigeriansDeserveBetter",
         "#BurgerKingNigeria",
+        "#NigeriansDeserveBetter",
+        "#1stop",
         "#GloUnlimitedData",
-        "#AprilFoolsDay",
-        "#\u00e7ar\u015famba",
-        "#KoyinSanusi",
-        "#1april"
+        "#\u00e7ar\u015famba"
       ],
       "regular_topics": [
-        "$VELT",
         "Happy New Month",
+        "$VELT",
+        "April Fool",
         "Baddy",
-        "koyin x nivea men",
-        "Whitney",
+        "Conquest",
+        "KOYIN X NIVEA MEN",
         "Oliver",
         "CONGRATULATIONS KOYIN",
+        "Whitney",
         "University of Jos",
-        "NATO",
-        "Conquest",
-        "Bala"
+        "Supreme Court"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
