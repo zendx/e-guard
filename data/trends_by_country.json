@@ -1,48 +1,49 @@
 {
-  "generated_at_utc": "2026-04-01T20:32:16.460747+00:00",
+  "generated_at_utc": "2026-04-01T21:31:17.468609+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 01 2026 19:18:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 20:09:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "Supreme Court",
-        "SCOTUS",
-        "#CrytpoFaith",
         "Constitution",
-        "NATO",
+        "SCOTUS",
         "Artemis II",
+        "NATO",
+        "#CrytpoFaith",
         "14th Amendment",
         "Hurts",
-        "Sauer",
-        "Native Americans"
+        "Sandy Alcantara",
+        "NASA"
       ],
       "hashtags": [
         "#CrytpoFaith",
         "#ENGENES_BOYCOTT_BELIFT",
         "#BELIFT_WE_DEMAND_ACTION",
-        "#NattyFools"
+        "#NattyFools",
+        "#FightinFish"
       ],
       "regular_topics": [
         "April Fools",
         "Supreme Court",
-        "SCOTUS",
         "Constitution",
-        "NATO",
+        "SCOTUS",
         "Artemis II",
+        "NATO",
         "14th Amendment",
         "Hurts",
-        "Sauer",
-        "Native Americans",
-        "Happy Passover"
+        "Sandy Alcantara",
+        "NASA",
+        "Passover"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 01 2026 19:40:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 20:33:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "NATO",
@@ -54,13 +55,13 @@
         "Japan",
         "England",
         "America",
-        "Bosnia"
+        "Artemis II"
       ],
       "hashtags": [
+        "#ambulance",
+        "#MAFSAU",
+        "#Corrie",
         "#ENGJAP",
-        "#UWCL",
-        "#EngJpn",
-        "#WEWILL_NEVER_GIVEUP_ON_ENHA_7",
         "#dlxp"
       ],
       "regular_topics": [
@@ -74,7 +75,7 @@
         "Japan",
         "England",
         "America",
-        "Bosnia"
+        "Artemis II"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -120,39 +121,45 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 01 2026 19:30:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 21:15:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LSGvsDC",
         "Sameer Rizvi",
         "#BELIFT_WE_DEMAND_ACTION",
         "#ENGENES_BOYCOTT_BELIFT",
-        "Delhi Capitals",
-        "#TadkaOnJioHotstar",
-        "Ola Electric",
-        "#GaudiumIVF",
         "ENHYPEN WILL BE ALWAYS SEVEN",
+        "#HanumanJayanti",
+        "#HappyBirthdayAjayDevgn",
         "BELIFT WE WON'T LET U WIN",
+        "Delhi Capitals",
+        "Accor",
         "Stubbs"
       ],
       "hashtags": [
         "#LSGvsDC",
         "#BELIFT_WE_DEMAND_ACTION",
         "#ENGENES_BOYCOTT_BELIFT",
+        "#HanumanJayanti",
+        "#HappyBirthdayAjayDevgn",
+        "#\u0939\u0928\u0941\u092e\u093e\u0928_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
         "#TadkaOnJioHotstar",
-        "#GaudiumIVF"
+        "#GaudiumIVF",
+        "#Ramayana",
+        "#HanumanJanmotsav",
+        "#JaiBajrangbali"
       ],
       "regular_topics": [
         "Sameer Rizvi",
-        "Delhi Capitals",
-        "Ola Electric",
         "ENHYPEN WILL BE ALWAYS SEVEN",
         "BELIFT WE WON'T LET U WIN",
+        "Delhi Capitals",
+        "Accor",
         "Stubbs",
         "KL Rahul",
+        "\u0939\u0928\u0941\u092e\u093e\u0928 \u091c\u092f\u0902\u0924\u0940",
         "Prince Yadav",
-        "Rishabh Pant",
-        "Accor",
-        "Lucknow Super Giants"
+        "Artemis II",
+        "Rishabh Pant"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
