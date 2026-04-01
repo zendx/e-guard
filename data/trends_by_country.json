@@ -1,65 +1,66 @@
 {
-  "generated_at_utc": "2026-04-01T23:01:27.027369+00:00",
+  "generated_at_utc": "2026-04-01T23:53:16.512172+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 01 2026 21:54:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 22:45:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "April Fools",
         "Artemis II",
+        "April Fools",
+        "Ben Rice",
+        "Passover",
         "Constitution",
+        "T-10",
         "Supreme Court",
         "SCOTUS",
-        "NASA",
-        "Justin Crawford",
-        "Passover",
-        "14th Amendment",
-        "NATO",
-        "Pumpernickel"
+        "Cam Schlittler",
+        "Challenger",
+        "14th Amendment"
       ],
       "hashtags": [
         "#BELIFT_WE_DEMAND_ACTION",
-        "#ENGENES_BOYCOTT_BELIFT"
+        "#ENGENES_BOYCOTT_BELIFT",
+        "#SuperMarioGalaxyMovie"
       ],
       "regular_topics": [
-        "April Fools",
         "Artemis II",
+        "April Fools",
+        "Ben Rice",
+        "Passover",
         "Constitution",
+        "T-10",
         "Supreme Court",
         "SCOTUS",
-        "NASA",
-        "Justin Crawford",
-        "Passover",
-        "14th Amendment",
-        "NATO",
-        "Pumpernickel"
+        "Cam Schlittler",
+        "Challenger",
+        "14th Amendment"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 01 2026 22:18:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 23:09:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ArtemisII",
         "April Fools",
         "NATO",
         "World Cup",
         "Italy",
         "Europe",
-        "Artemis II",
+        "#MoonMission",
         "Brexit",
-        "McCabe",
         "Clapham",
-        "#ambulance",
-        "#NASA"
+        "McCabe",
+        "Japan"
       ],
       "hashtags": [
-        "#ambulance",
-        "#NASA",
-        "#UWCL",
+        "#ArtemisII",
+        "#MoonMission",
+        "#Ambulance",
         "#CHEARS",
-        "#ENGJAP"
+        "#UWCL"
       ],
       "regular_topics": [
         "April Fools",
@@ -67,96 +68,90 @@
         "World Cup",
         "Italy",
         "Europe",
-        "Artemis II",
         "Brexit",
-        "McCabe",
         "Clapham",
+        "McCabe",
         "Japan",
-        "England"
+        "England",
+        "America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 01 2026 22:15:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 23:06:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
-        "NATO",
-        "Italy",
         "Artemis II",
-        "World Cup",
+        "NATO",
+        "#NASA",
+        "Italy",
         "Passover",
+        "World Cup",
         "Rockies",
-        "Brendon Little",
         "Alto",
         "Alberta",
-        "Europe"
+        "Pelley"
       ],
       "hashtags": [
-        "#BlueJays",
-        "#SAVE_VAHID",
+        "#NASA",
+        "#ENGENES_BOYCOTT_BELIFT",
+        "#BELIFT_WE_DEMAND_ACTION",
         "#SummerHouse",
-        "#SAVE_ABOLHASSAN",
-        "#NASA"
+        "#SuperMarioGalaxyMovie"
       ],
       "regular_topics": [
         "April Fools",
+        "Artemis II",
         "NATO",
         "Italy",
-        "Artemis II",
-        "World Cup",
         "Passover",
+        "World Cup",
         "Rockies",
-        "Brendon Little",
         "Alto",
         "Alberta",
-        "Europe"
+        "Pelley",
+        "Bosnia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 01 2026 21:15:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 01 2026 22:57:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LSGvsDC",
+        "#AprilFoolsDay",
+        "#marghatwalebaba",
+        "#TadkaOnJioHotstar",
+        "#aiadmk_takeoveroftnpolitics",
+        "dasibar illegal operations",
         "Sameer Rizvi",
-        "#BELIFT_WE_DEMAND_ACTION",
-        "#ENGENES_BOYCOTT_BELIFT",
-        "ENHYPEN WILL BE ALWAYS SEVEN",
-        "#HanumanJayanti",
-        "#HappyBirthdayAjayDevgn",
-        "BELIFT WE WON'T LET U WIN",
-        "Delhi Capitals",
-        "Accor",
-        "Stubbs"
+        "Oracle",
+        "Artemis II",
+        "Rishabh Pant",
+        "\u091a\u093e\u092f \u092c\u093e\u0917\u093e\u0928"
       ],
       "hashtags": [
         "#LSGvsDC",
-        "#BELIFT_WE_DEMAND_ACTION",
-        "#ENGENES_BOYCOTT_BELIFT",
-        "#HanumanJayanti",
-        "#HappyBirthdayAjayDevgn",
-        "#\u0939\u0928\u0941\u092e\u093e\u0928_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
+        "#AprilFoolsDay",
+        "#marghatwalebaba",
         "#TadkaOnJioHotstar",
-        "#GaudiumIVF",
-        "#Ramayana",
-        "#HanumanJanmotsav",
-        "#JaiBajrangbali"
+        "#aiadmk_takeoveroftnpolitics"
       ],
       "regular_topics": [
+        "dasibar illegal operations",
         "Sameer Rizvi",
-        "ENHYPEN WILL BE ALWAYS SEVEN",
-        "BELIFT WE WON'T LET U WIN",
-        "Delhi Capitals",
-        "Accor",
-        "Stubbs",
-        "KL Rahul",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u091c\u092f\u0902\u0924\u0940",
-        "Prince Yadav",
+        "Oracle",
         "Artemis II",
-        "Rishabh Pant"
+        "Rishabh Pant",
+        "\u091a\u093e\u092f \u092c\u093e\u0917\u093e\u0928",
+        "\u091c\u0948\u0928 \u0927\u0930\u094d\u092e",
+        "Delhi Capitals",
+        "BELIFT FIX THIS NOW",
+        "WE'RE DONE BEING IGNORED",
+        "\u0915\u0947\u0936\u0935 \u092c\u0932\u093f\u0930\u093e\u092e \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
