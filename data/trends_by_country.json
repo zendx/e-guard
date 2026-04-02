@@ -1,67 +1,73 @@
 {
-  "generated_at_utc": "2026-04-02T09:32:00.470261+00:00",
+  "generated_at_utc": "2026-04-02T10:40:12.771221+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Apr 02 2026 08:27:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 02 2026 10:09:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#earthquake",
+        "#bayarea",
         "Simon's Cat",
-        "#Survivor50",
-        "Stone Age",
+        "Boulder Creek",
+        "Good Thursday",
         "#xokitty",
-        "NASA",
-        "#Ramayana",
-        "#BELIFT_WE_DEMAND_ACTION",
-        "Artemis",
-        "#ENGENES_BOYCOTT_BELIFT",
-        "Sharks",
+        "Santa Cruz",
+        "Stone Age",
+        "Maundy Thursday",
+        "#Survivor50",
         "Superform Foundation"
       ],
       "hashtags": [
-        "#Survivor50",
+        "#earthquake",
+        "#bayarea",
         "#xokitty",
-        "#Ramayana",
+        "#Survivor50",
         "#BELIFT_WE_DEMAND_ACTION",
-        "#ENGENES_BOYCOTT_BELIFT"
+        "#ENGENES_BOYCOTT_BELIFT",
+        "#Ramayana",
+        "#ONEPIECE1179",
+        "#BookLovers",
+        "#PresidentialAddress",
+        "#TheFutureIsTeal"
       ],
       "regular_topics": [
         "Simon's Cat",
+        "Boulder Creek",
+        "Good Thursday",
+        "Santa Cruz",
         "Stone Age",
-        "NASA",
-        "Artemis",
-        "Sharks",
+        "Maundy Thursday",
         "Superform Foundation",
-        "Macklin Celebrini",
-        "Colby",
-        "Genevieve",
+        "Holy Thursday",
+        "Sharks",
         "Invincible",
-        "Mario Galaxy"
+        "Nolan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Apr 02 2026 08:48:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 02 2026 09:40:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "NATO",
         "Artemis II",
         "Europe",
-        "Trump",
         "Brexit",
+        "Trump",
+        "#ITV7InItToWinIt",
         "World Cup",
         "Italy",
-        "Stone Age",
         "Clapham",
-        "Maundy Thursday"
+        "Stone Age"
       ],
       "hashtags": [
-        "#Shadows",
-        "#bbcbreakfast",
+        "#ITV7InItToWinIt",
+        "#WorldAutismAwarenessDay",
         "#ENGJPN",
-        "#AdoorableThursday",
+        "#jeremyvine",
         "#BELIFT_WE_DEMAND_ACTION"
       ],
       "regular_topics": [
@@ -69,39 +75,39 @@
         "NATO",
         "Artemis II",
         "Europe",
-        "Trump",
         "Brexit",
+        "Trump",
         "World Cup",
         "Italy",
-        "Stone Age",
         "Clapham",
-        "Maundy Thursday"
+        "Stone Age",
+        "Easter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Apr 02 2026 08:44:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 02 2026 09:36:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "April Fools",
         "Artemis II",
         "NATO",
         "NASA",
         "Passover",
+        "#AEWDynamite",
         "Italy",
         "#Survivor50",
-        "#AEWDynamite",
         "Rockies",
-        "Stone Age",
-        "#Ramayana"
+        "Jeremy Hansen",
+        "Ontario and Quebec"
       ],
       "hashtags": [
-        "#Survivor50",
         "#AEWDynamite",
-        "#Ramayana",
+        "#Survivor50",
         "#BELIFT_WE_DEMAND_ACTION",
-        "#ENGENES_BOYCOTT_BELIFT"
+        "#ENGENES_BOYCOTT_BELIFT",
+        "#Canucks"
       ],
       "regular_topics": [
         "April Fools",
@@ -111,52 +117,51 @@
         "Passover",
         "Italy",
         "Rockies",
-        "Stone Age",
         "Jeremy Hansen",
+        "Ontario and Quebec",
         "World Cup",
-        "Ontario and Quebec"
+        "Chag Pesach Sameach"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Apr 02 2026 08:37:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 02 2026 09:30:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AakhriSawal",
         "#vivoV70FE",
-        "#AIADMK_STORM_TN",
-        "#realme16LaunchingToday",
         "#Ramayana",
+        "#AIADMK_STORM_TN",
         "#BhabanipurChayBJP",
         "\u0939\u0928\u0941\u092e\u093e\u0928 \u091c\u092f\u0902\u0924\u0940",
+        "\u0930\u093e\u0918\u0935 \u091a\u0921\u094d\u0922\u093e",
         "Aeroplane IPO Listing Day",
-        "AmirChand JagdishKumarIPO",
-        "Suvendu Adhikari",
-        "Bhawanipore",
-        "Dual 50MP"
+        "\u0905\u0936\u094b\u0915 \u092e\u093f\u0924\u094d\u0924\u0932",
+        "Dual 50MP",
+        "Suvendu Adhikari"
       ],
       "hashtags": [
+        "#AakhriSawal",
         "#vivoV70FE",
-        "#AIADMK_STORM_TN",
-        "#realme16LaunchingToday",
         "#Ramayana",
+        "#AIADMK_STORM_TN",
         "#BhabanipurChayBJP",
-        "#AmirChandIPOListingToday",
-        "#HanumanJayanti",
-        "#NationDemandsCAPFReforms"
+        "#NationDemandsCAPFReforms",
+        "#AmirChandIPOListingToday"
       ],
       "regular_topics": [
         "\u0939\u0928\u0941\u092e\u093e\u0928 \u091c\u092f\u0902\u0924\u0940",
+        "\u0930\u093e\u0918\u0935 \u091a\u0921\u094d\u0922\u093e",
         "Aeroplane IPO Listing Day",
-        "AmirChand JagdishKumarIPO",
+        "\u0905\u0936\u094b\u0915 \u092e\u093f\u0924\u094d\u0924\u0932",
+        "Dual 50MP",
         "Suvendu Adhikari",
         "Bhawanipore",
-        "Dual 50MP",
         "Air Design",
-        "Adipurush",
-        "\u0905\u0936\u094b\u0915 \u092e\u093f\u0924\u094d\u0924\u0932",
         "Malda",
-        "AI Portrait Glow"
+        "AmirChand JagdishKumarIPO",
+        "Ashok Mittal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
