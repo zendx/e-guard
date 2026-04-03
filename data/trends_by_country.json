@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-04-03T21:33:14.604101+00:00",
+  "generated_at_utc": "2026-04-03T22:19:55.736319+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 03 2026 20:20:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 21:12:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
+        "Cade Horton",
+        "Konnor Griffin",
         "Samara Cyn",
+        "Skip",
+        "Whitlock",
+        "Ben Rice",
+        "F-15",
         "THE NEW WALLET IS NOW ACTIVE",
-        "THE XPAY WINDOW IS NOW OPEN",
         "XPAY IS NOW OPEN",
-        "NEW SYSTEM HAS NOW LAUNCHED",
-        "THE XPAY EVENT HAS STARTED",
-        "PUBLIC XPAY IS NOW LIVE",
-        "XPAY PARTICIPATION IS NOW OPEN",
-        "XPAY IS OFFICIALLY LIVE",
-        "XPAY PRESALE HAS BEGUN"
+        "THE XPAY EVENT HAS STARTED"
       ],
       "hashtags": [
+        "#LetsGoBucs",
         "#GuvenliLimanTurkiye",
         "#RepBX",
-        "#FursuitFriday",
         "#Boycott_HYBE_BELIFTLAB",
-        "#WNBA"
+        "#DirtyWater"
       ],
       "regular_topics": [
         "Good Friday",
+        "Cade Horton",
+        "Konnor Griffin",
         "Samara Cyn",
+        "Skip",
+        "Whitlock",
+        "Ben Rice",
+        "F-15",
         "THE NEW WALLET IS NOW ACTIVE",
-        "THE XPAY WINDOW IS NOW OPEN",
         "XPAY IS NOW OPEN",
-        "NEW SYSTEM HAS NOW LAUNCHED",
-        "THE XPAY EVENT HAS STARTED",
-        "PUBLIC XPAY IS NOW LIVE",
-        "XPAY PARTICIPATION IS NOW OPEN",
-        "XPAY IS OFFICIALLY LIVE",
-        "XPAY PRESALE HAS BEGUN"
+        "THE XPAY EVENT HAS STARTED"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 03 2026 20:44:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 21:36:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
         "#dcfc",
+        "#PUSB",
+        "#BrownDucar",
+        "Coventry",
         "Pat Butcher",
         "William Crolla",
         "#COVDER",
-        "XPAY IS OFFICIALLY LIVE",
-        "Coventry",
-        "XPAY ACCESS IS NOW OPEN",
-        "THE XPAY EVENT HAS STARTED",
-        "THE XPAY WINDOW IS NOW OPEN",
-        "XPAY PRESALE HAS BEGUN"
+        "Jack Rudoni",
+        "Pat Brown",
+        "Byrne"
       ],
       "hashtags": [
         "#TOTP",
         "#dcfc",
-        "#COVDER",
-        "#HIGNFY",
-        "#NORvCAS"
+        "#PUSB",
+        "#BrownDucar",
+        "#COVDER"
       ],
       "regular_topics": [
+        "Coventry",
         "Pat Butcher",
         "William Crolla",
-        "XPAY IS OFFICIALLY LIVE",
-        "Coventry",
-        "XPAY ACCESS IS NOW OPEN",
-        "THE XPAY EVENT HAS STARTED",
-        "THE XPAY WINDOW IS NOW OPEN",
-        "XPAY PRESALE HAS BEGUN",
-        "THE NEW WALLET IS NOW ACTIVE",
+        "Jack Rudoni",
+        "Pat Brown",
+        "Byrne",
+        "Abacha",
         "Matt Clarke",
-        "XPAY PARTICIPATION IS NOW OPEN"
+        "Travis",
+        "Banel",
+        "NADECO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 03 2026 20:40:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 21:32:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
         "Happy Easter",
-        "Andres Gimenez",
-        "NASA",
+        "Hoffman",
         "#BlueJays50",
+        "Heineman",
+        "White Sox",
+        "Alejandro Kirk",
+        "NASA",
         "Pam Bondi",
-        "Dylan Cease",
         "Artemis II",
-        "F-15",
-        "Toronto Tempo",
-        "Julie Allemand"
+        "Andres Gimenez"
       ],
       "hashtags": [
         "#BlueJays50",
@@ -106,15 +106,15 @@
       "regular_topics": [
         "Good Friday",
         "Happy Easter",
-        "Andres Gimenez",
+        "Hoffman",
+        "Heineman",
+        "White Sox",
+        "Alejandro Kirk",
         "NASA",
         "Pam Bondi",
-        "Dylan Cease",
         "Artemis II",
-        "F-15",
-        "Toronto Tempo",
-        "Julie Allemand",
-        "Theo"
+        "Andres Gimenez",
+        "F-15"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
