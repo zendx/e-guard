@@ -1,61 +1,60 @@
 {
-  "generated_at_utc": "2026-04-03T22:19:55.736319+00:00",
+  "generated_at_utc": "2026-04-03T22:57:20.623072+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 03 2026 21:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 22:03:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
         "Cade Horton",
-        "Konnor Griffin",
-        "Samara Cyn",
         "Skip",
         "Whitlock",
-        "Ben Rice",
+        "Konnor Griffin",
+        "Portnoy",
         "F-15",
-        "THE NEW WALLET IS NOW ACTIVE",
-        "XPAY IS NOW OPEN",
-        "THE XPAY EVENT HAS STARTED"
+        "Happy Easter",
+        "THE XPAY EVENT HAS STARTED",
+        "PUBLIC XPAY IS NOW LIVE",
+        "XPAY IS OFFICIALLY LIVE"
       ],
       "hashtags": [
-        "#LetsGoBucs",
         "#GuvenliLimanTurkiye",
-        "#RepBX",
+        "#LetsGoBucs",
         "#Boycott_HYBE_BELIFTLAB",
-        "#DirtyWater"
+        "#RepBX"
       ],
       "regular_topics": [
         "Good Friday",
         "Cade Horton",
-        "Konnor Griffin",
-        "Samara Cyn",
         "Skip",
         "Whitlock",
-        "Ben Rice",
+        "Konnor Griffin",
+        "Portnoy",
         "F-15",
-        "THE NEW WALLET IS NOW ACTIVE",
-        "XPAY IS NOW OPEN",
-        "THE XPAY EVENT HAS STARTED"
+        "Happy Easter",
+        "THE XPAY EVENT HAS STARTED",
+        "PUBLIC XPAY IS NOW LIVE",
+        "XPAY IS OFFICIALLY LIVE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 03 2026 21:36:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 22:28:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
         "#dcfc",
         "#PUSB",
-        "#BrownDucar",
-        "Coventry",
-        "Pat Butcher",
-        "William Crolla",
-        "#COVDER",
-        "Jack Rudoni",
         "Pat Brown",
-        "Byrne"
+        "#BrownDucar",
+        "Hamza Iqbal",
+        "William Crolla",
+        "Pat Butcher",
+        "Coventry",
+        "#COVDER",
+        "Abacha"
       ],
       "hashtags": [
         "#TOTP",
@@ -65,43 +64,43 @@
         "#COVDER"
       ],
       "regular_topics": [
-        "Coventry",
-        "Pat Butcher",
-        "William Crolla",
-        "Jack Rudoni",
         "Pat Brown",
-        "Byrne",
+        "Hamza Iqbal",
+        "William Crolla",
+        "Pat Butcher",
+        "Coventry",
         "Abacha",
-        "Matt Clarke",
+        "Jack Rudoni",
         "Travis",
-        "Banel",
-        "NADECO"
+        "NADECO",
+        "Matt Clarke",
+        "Byrne"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 03 2026 21:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 22:24:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
         "Happy Easter",
         "Hoffman",
-        "#BlueJays50",
         "Heineman",
+        "#BlueJays50",
         "White Sox",
-        "Alejandro Kirk",
         "NASA",
         "Pam Bondi",
+        "Alejandro Kirk",
         "Artemis II",
-        "Andres Gimenez"
+        "F-15"
       ],
       "hashtags": [
         "#BlueJays50",
         "#Boycott_BELIFT_HYBE",
         "#Boycott_HYBE_BELIFTLAB",
-        "#OnlyFriendsDreamOnEP6",
-        "#ENGENEs_Made_ENHYPEN_7"
+        "#FursuitFriday",
+        "#OnlyFriendsDreamOnEP6"
       ],
       "regular_topics": [
         "Good Friday",
@@ -109,12 +108,12 @@
         "Hoffman",
         "Heineman",
         "White Sox",
-        "Alejandro Kirk",
         "NASA",
         "Pam Bondi",
+        "Alejandro Kirk",
         "Artemis II",
-        "Andres Gimenez",
-        "F-15"
+        "F-15",
+        "Andres Gimenez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -165,19 +164,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Apr 03 2026 21:21:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 22:13:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Abacha",
         "NADECO",
         "Cristiano Ronaldo",
         "Al Nassr",
-        "#CastleLiteUnlocks",
         "The GOAT",
-        "Penalty",
-        "Coventry",
+        "#CastleLiteUnlocks",
         "#behindthescenes",
-        "Frank Onyeka",
-        "Penaldo"
+        "Coventry",
+        "Penalty",
+        "Ayilola",
+        "Frank Onyeka"
       ],
       "hashtags": [
         "#CastleLiteUnlocks",
@@ -192,12 +191,12 @@
         "Cristiano Ronaldo",
         "Al Nassr",
         "The GOAT",
-        "Penalty",
         "Coventry",
+        "Penalty",
+        "Ayilola",
         "Frank Onyeka",
-        "Penaldo",
-        "Enzo",
-        "Mongoose"
+        "Funsho Williams",
+        "Frames"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
