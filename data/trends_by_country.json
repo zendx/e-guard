@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-03T15:05:22.685447+00:00",
+  "generated_at_utc": "2026-04-03T15:56:42.871075+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 03 2026 14:39:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 15:30:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$ROCKET",
         "Millwall",
         "Good Friday",
+        "#bwfc",
+        "#bcfc",
         "Easter",
+        "#Pompey",
         "Boro",
         "Coburn",
-        "Alex Neil",
-        "#Pompey",
-        "#bcfc",
-        "#bwfc",
-        "Enzo"
+        "#readingfc",
+        "Alex Neil"
       ],
       "hashtags": [
-        "#Pompey",
-        "#bcfc",
         "#bwfc",
-        "#pnefc",
-        "#midmil"
+        "#bcfc",
+        "#Pompey",
+        "#readingfc",
+        "#pnefc"
       ],
       "regular_topics": [
         "$ROCKET",
@@ -72,48 +72,48 @@
         "Boro",
         "Coburn",
         "Alex Neil",
+        "McAtee",
         "Enzo",
-        "Middlesbrough",
-        "Hellberg",
-        "Christian"
+        "Tyrrhenian Sea",
+        "Hellberg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 03 2026 14:33:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 15:27:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
         "Easter",
         "Pam Bondi",
-        "Artemis II",
-        "#absolutebet",
         "NASA",
-        "April Fools",
+        "Artemis II",
         "Stone Age",
-        "Tucker",
+        "April Fools",
         "#Boycott_BELIFT_HYBE",
-        "Enzo"
+        "PSPP",
+        "Holostars",
+        "Brady"
       ],
       "hashtags": [
-        "#absolutebet",
         "#Boycott_BELIFT_HYBE",
-        "#WelcomeToAnotherDimension",
-        "#Survivor50"
+        "#OnlyFriendsDreamOnEP6",
+        "#Survivor50",
+        "#absolutebet"
       ],
       "regular_topics": [
         "Good Friday",
         "Easter",
         "Pam Bondi",
-        "Artemis II",
         "NASA",
-        "April Fools",
+        "Artemis II",
         "Stone Age",
-        "Tucker",
-        "Enzo",
+        "April Fools",
+        "PSPP",
+        "Holostars",
         "Brady",
-        "PSPP"
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -159,39 +159,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Apr 03 2026 14:21:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 03 2026 15:15:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Friday",
+        "Moore",
         "Enzo",
+        "Good Friday",
         "#FecentRicco",
-        "Liam Rosenior",
-        "Mikel Arteta",
-        "Easter",
         "#BehindTheScenes",
+        "Mikel Arteta",
+        "Liam Rosenior",
+        "Easter",
         "Judas",
-        "Manager of the Month",
-        "Abazz",
-        "Brand New"
+        "F-15",
+        "Abazz"
       ],
       "hashtags": [
         "#FecentRicco",
         "#BehindTheScenes",
-        "#LaCasaDeAlofoke2",
-        "#Faith",
-        "#Reflection"
+        "#T\u00fcik",
+        "#MertHakana\u00d6zg\u00fcrl\u00fck",
+        "#LaCasaDeAlofoke2"
       ],
       "regular_topics": [
-        "Good Friday",
+        "Moore",
         "Enzo",
-        "Liam Rosenior",
+        "Good Friday",
         "Mikel Arteta",
+        "Liam Rosenior",
         "Easter",
         "Judas",
-        "Manager of the Month",
+        "F-15",
         "Abazz",
-        "Brand New",
-        "Divorce",
-        "Ben 10"
+        "Cucurella",
+        "Manager of the Month"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
