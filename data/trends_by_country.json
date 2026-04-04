@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-04T22:16:20.930517+00:00",
+  "generated_at_utc": "2026-04-04T22:52:47.922297+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 04 2026 21:20:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Southampton",
+        "Arsenal",
         "Arteta",
+        "#ChisoraWilder",
         "#SOUARS",
-        "Ben White",
         "Kepa",
-        "#FACup",
+        "Ben White",
         "#SaintsFC",
+        "#FACup",
         "Dowman",
-        "Martinelli",
-        "Shea Charles",
-        "Havertz"
+        "#SNLUK",
+        "Martinelli"
       ],
       "hashtags": [
-        "#SOUARS",
-        "#FACup",
-        "#SaintsFC",
         "#ChisoraWilder",
-        "#soundsofthe80s"
+        "#SOUARS",
+        "#SaintsFC",
+        "#FACup",
+        "#SNLUK"
       ],
       "regular_topics": [
-        "Southampton",
+        "Arsenal",
         "Arteta",
-        "Ben White",
         "Kepa",
+        "Ben White",
         "Dowman",
         "Martinelli",
+        "Quadruple",
         "Shea Charles",
         "Havertz",
-        "Quadruple",
-        "Gabriel Jesus",
-        "Wembley"
+        "Wembley",
+        "Odegaard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
