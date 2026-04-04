@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-04T22:52:47.922297+00:00",
+  "generated_at_utc": "2026-04-04T23:19:27.510874+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 04 2026 21:48:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#raindelayquestions",
-        "Walter Reed",
-        "Arsenal",
-        "Southampton",
-        "Arteta",
         "#UFCVegas115",
-        "Invited Users",
-        "Jamal Murray",
-        "Happy Easter",
-        "THE PRESALE EVENT HAS STARTED",
-        "#GeneralConference"
+        "Walter Reed",
+        "Jokic",
+        "Arsenal",
+        "#raindelayquestions",
+        "Nuggets",
+        "Wilder",
+        "Tresean Gore",
+        "Aaron Gordon",
+        "Tarris Reed",
+        "Southampton"
       ],
       "hashtags": [
-        "#raindelayquestions",
         "#UFCVegas115",
-        "#GeneralConference",
+        "#raindelayquestions",
         "#WhereIsTrump",
-        "#Sabrehood"
+        "#GoAvsGo",
+        "#GeneralConference"
       ],
       "regular_topics": [
         "Walter Reed",
+        "Jokic",
         "Arsenal",
+        "Nuggets",
+        "Wilder",
+        "Tresean Gore",
+        "Aaron Gordon",
+        "Tarris Reed",
         "Southampton",
-        "Arteta",
-        "Invited Users",
-        "Jamal Murray",
         "Happy Easter",
-        "THE PRESALE EVENT HAS STARTED",
-        "PRESALE HAS NOW LAUNCHED",
-        "PRESALE IS NOW OPEN",
-        "Andy Pages"
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,69 +82,69 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 04 2026 22:04:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:57:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
+        "Arsenal",
         "Brendon Little",
         "Heineman",
-        "Arsenal",
-        "Schneider",
-        "#BlueJays",
         "Good Friday",
+        "Schneider",
         "Southampton",
+        "#CFMTL",
         "Arteta",
-        "Kepa",
-        "Ben White"
+        "#UFCVegas115",
+        "#BlueJays50"
       ],
       "hashtags": [
-        "#BlueJays",
-        "#TFCLive",
-        "#UFCVegas115",
         "#CFMTL",
-        "#SOUARS"
+        "#UFCVegas115",
+        "#BlueJays50",
+        "#ChisoraWilder",
+        "#TFCLive"
       ],
       "regular_topics": [
         "Happy Easter",
+        "Arsenal",
         "Brendon Little",
         "Heineman",
-        "Arsenal",
-        "Schneider",
         "Good Friday",
+        "Schneider",
         "Southampton",
         "Arteta",
-        "Kepa",
         "Ben White",
-        "DFA'd"
+        "Buffalo",
+        "Kepa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 04 2026 22:00:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:52:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Tushar Deshpande",
         "#GTvsRR",
+        "Tushar Deshpande",
         "Southampton",
-        "#RRvsGT",
         "Arteta",
         "#Boycott_BELIFT_for_ENHYPEN",
-        "#AtletiBar\u00e7a",
+        "#RRvsGT",
         "Happy Easter",
-        "#SOUARS",
-        "Ferran"
+        "#AtletiBar\u00e7a",
+        "Ferran",
+        "#SOUARS"
       ],
       "hashtags": [
         "#GTvsRR",
-        "#RRvsGT",
         "#Boycott_BELIFT_for_ENHYPEN",
+        "#RRvsGT",
         "#AtletiBar\u00e7a",
         "#SOUARS",
         "#FACup",
         "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP10",
         "#RaviBishnoi",
-        "#HappyBirthdayRashmika",
+        "#mugshots",
         "#LoveYouTeacherSeriesEP4",
         "#Alg\u00e9rie"
       ],
@@ -155,48 +155,46 @@
         "Arteta",
         "Happy Easter",
         "Ferran",
+        "Lamine",
         "Bernal",
         "Cancelo",
-        "Rajasthan Royals",
         "DUANG WITH YOU EP10",
-        "Kepa"
+        "Rajasthan Royals"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 04 2026 21:56:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Quadruple",
-        "#SOUARS",
-        "Kepa",
-        "Bottlers FC",
-        "Ben White",
-        "Gabriel Jesus",
-        "Sporting",
-        "Cancelo",
         "Abazz",
-        "Cook"
+        "Kepa",
+        "#SOUARS",
+        "Bottlers FC",
+        "Jersey",
+        "Ben White",
+        "Admin",
+        "Cook",
+        "Sporting"
       ],
       "hashtags": [
-        "#SOUARS",
-        "#AtletiBar\u00e7a",
-        "#COYG"
+        "#SOUARS"
       ],
       "regular_topics": [
         "Arsenal",
         "Quadruple",
+        "Abazz",
         "Kepa",
         "Bottlers FC",
+        "Jersey",
         "Ben White",
-        "Gabriel Jesus",
-        "Sporting",
-        "Cancelo",
-        "Abazz",
+        "Admin",
         "Cook",
-        "Admin"
+        "Sporting",
+        "Gabriel Jesus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
