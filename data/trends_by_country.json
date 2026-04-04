@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-04T14:56:00.205179+00:00",
+  "generated_at_utc": "2026-04-04T15:21:41.814802+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,117 +43,117 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 04 2026 14:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 15:00:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liverpool",
         "Slot",
         "#MCILIV",
+        "Souttar",
         "Cherki",
+        "HALF TIME",
+        "#boatrace",
         "#FACup",
-        "Haaland",
-        "Van Dijk",
         "Wirtz",
-        "Semenyo",
-        "Mo Salah",
-        "Klopp"
+        "Haaland",
+        "Van Dijk"
       ],
       "hashtags": [
         "#MCILIV",
-        "#FACup",
         "#boatrace",
-        "#YNWA",
-        "#MCFC"
+        "#FACup",
+        "#SongsOrMoviesForFrance",
+        "#YNWA"
       ],
       "regular_topics": [
         "Liverpool",
         "Slot",
+        "Souttar",
         "Cherki",
+        "HALF TIME",
+        "Wirtz",
         "Haaland",
         "Van Dijk",
-        "Wirtz",
-        "Semenyo",
-        "Mo Salah",
+        "John Beaton",
         "Klopp",
-        "Trafford",
-        "Etihad"
+        "Alonso"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 04 2026 14:04:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 14:56:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Liverpool",
         "Good Friday",
         "Happy Easter",
-        "Slot",
-        "#FACup",
-        "#MCILIV",
-        "Cherki",
-        "#SmackDown",
-        "Pat McAfee",
-        "#LoveYouTeacherSeriesEP4",
-        "Man City"
-      ],
-      "hashtags": [
-        "#FACup",
-        "#MCILIV",
-        "#SmackDown",
-        "#LoveYouTeacherSeriesEP4",
-        "#absolutebet"
-      ],
-      "regular_topics": [
         "Liverpool",
-        "Good Friday",
-        "Happy Easter",
         "Slot",
-        "Cherki",
+        "#MCILIV",
+        "#FACup",
+        "#SmackDown",
         "Pat McAfee",
         "Man City",
-        "Wirtz",
         "Abacha",
+        "Cherki"
+      ],
+      "hashtags": [
+        "#MCILIV",
+        "#FACup",
+        "#SmackDown",
+        "#Caturday",
+        "#BrokenOfLoveEP2"
+      ],
+      "regular_topics": [
+        "Good Friday",
+        "Happy Easter",
+        "Liverpool",
+        "Slot",
+        "Pat McAfee",
+        "Man City",
+        "Abacha",
+        "Cherki",
+        "Wirtz",
         "Haaland",
-        "Klopp"
+        "Sack"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 04 2026 13:57:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 14:51:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WatchTadkaOnJioHotstar",
         "Sameer Rizvi",
-        "#DacoitTrailer",
         "#DCvsMI",
-        "#MIvsDC",
+        "#DacoitTrailer",
         "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u0938\u0947_\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0918\u093e\u0924",
         "#GTvsRR",
-        "Mumbai Indians",
         "Delhi Capitals",
         "Liverpool",
-        "Orange Cap",
-        "Rashid Khan"
+        "Mumbai Indians",
+        "Rashid Khan",
+        "Orange Cap"
       ],
       "hashtags": [
-        "#DacoitTrailer",
+        "#WatchTadkaOnJioHotstar",
         "#DCvsMI",
-        "#MIvsDC",
+        "#DacoitTrailer",
         "#\u092a\u0948\u0930\u093e\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940_\u0938\u0947_\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0918\u093e\u0924",
         "#GTvsRR"
       ],
       "regular_topics": [
         "Sameer Rizvi",
-        "Mumbai Indians",
         "Delhi Capitals",
         "Liverpool",
-        "Orange Cap",
+        "Mumbai Indians",
         "Rashid Khan",
-        "Slot",
-        "Adivi Sesh",
+        "Orange Cap",
         "44 SALE DAY WITH EST",
-        "Haaland",
-        "Bosch"
+        "Slot",
+        "\u0939\u0928\u0941\u092e\u093e\u0928 \u092c\u0947\u0928\u0940\u0935\u093e\u0932",
+        "\u0938\u092e\u0940\u0930 \u0930\u093f\u091c\u0935\u0940",
+        "Haaland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
