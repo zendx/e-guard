@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-04T21:51:10.889359+00:00",
+  "generated_at_utc": "2026-04-04T22:16:20.930517+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 04 2026 20:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 21:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#raindelayquestions",
         "Walter Reed",
-        "Invited Users",
-        "THE PRESALE EVENT HAS STARTED",
-        "PRESALE HAS NOW LAUNCHED",
-        "PRESALE IS NOW OPEN",
-        "Happy Easter",
-        "#Sabrehood",
+        "Arsenal",
         "Southampton",
-        "Sabres",
-        "PRESALE IS OFFICIALLY LIVE"
+        "Arteta",
+        "#UFCVegas115",
+        "Invited Users",
+        "Jamal Murray",
+        "Happy Easter",
+        "THE PRESALE EVENT HAS STARTED",
+        "#GeneralConference"
       ],
       "hashtags": [
         "#raindelayquestions",
-        "#Sabrehood",
-        "#WhereIsTrump",
+        "#UFCVegas115",
         "#GeneralConference",
-        "#AtletiBar\u00e7a"
+        "#WhereIsTrump",
+        "#Sabrehood"
       ],
       "regular_topics": [
         "Walter Reed",
+        "Arsenal",
+        "Southampton",
+        "Arteta",
         "Invited Users",
+        "Jamal Murray",
+        "Happy Easter",
         "THE PRESALE EVENT HAS STARTED",
         "PRESALE HAS NOW LAUNCHED",
         "PRESALE IS NOW OPEN",
-        "Happy Easter",
-        "Southampton",
-        "Sabres",
-        "PRESALE IS OFFICIALLY LIVE",
-        "TOKEN PRESALE HAS BEGUN",
-        "PUBLIC PRESALE IS NOW LIVE"
+        "Andy Pages"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,38 +82,38 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 04 2026 21:13:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:04:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Happy Easter",
         "Brendon Little",
         "Heineman",
-        "Happy Easter",
-        "#BlueJays",
-        "Schneider",
-        "Good Friday",
         "Arsenal",
+        "Schneider",
+        "#BlueJays",
+        "Good Friday",
         "Southampton",
         "Arteta",
-        "Ben White",
-        "Vladdy"
+        "Kepa",
+        "Ben White"
       ],
       "hashtags": [
         "#BlueJays",
-        "#SOUARS",
         "#TFCLive",
+        "#UFCVegas115",
         "#CFMTL",
-        "#raindelayquestions"
+        "#SOUARS"
       ],
       "regular_topics": [
+        "Happy Easter",
         "Brendon Little",
         "Heineman",
-        "Happy Easter",
+        "Arsenal",
         "Schneider",
         "Good Friday",
-        "Arsenal",
         "Southampton",
         "Arteta",
+        "Kepa",
         "Ben White",
-        "Vladdy",
         "DFA'd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,19 +121,19 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 04 2026 21:07:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 22:00:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GTvsRR",
+        "Arsenal",
         "Tushar Deshpande",
+        "#GTvsRR",
+        "Southampton",
         "#RRvsGT",
+        "Arteta",
         "#Boycott_BELIFT_for_ENHYPEN",
         "#AtletiBar\u00e7a",
-        "Southampton",
-        "#SOUARS",
         "Happy Easter",
-        "Ferran",
-        "Bernal",
-        "Rajasthan Royals"
+        "#SOUARS",
+        "Ferran"
       ],
       "hashtags": [
         "#GTvsRR",
@@ -141,63 +141,62 @@
         "#Boycott_BELIFT_for_ENHYPEN",
         "#AtletiBar\u00e7a",
         "#SOUARS",
-        "#Arsenal",
         "#FACup",
         "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2dEP10",
         "#RaviBishnoi",
         "#HappyBirthdayRashmika",
-        "#ForeverWithTaeKook"
+        "#LoveYouTeacherSeriesEP4",
+        "#Alg\u00e9rie"
       ],
       "regular_topics": [
+        "Arsenal",
         "Tushar Deshpande",
         "Southampton",
+        "Arteta",
         "Happy Easter",
         "Ferran",
         "Bernal",
-        "Rajasthan Royals",
-        "Riyan Parag",
         "Cancelo",
+        "Rajasthan Royals",
         "DUANG WITH YOU EP10",
-        "Rashford",
-        "Gujarat Titans"
+        "Kepa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 04 2026 21:03:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 04 2026 21:56:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Southampton",
-        "#SOUARS",
-        "Ben White",
+        "Arsenal",
         "Quadruple",
-        "Gabriel Jesus",
+        "#SOUARS",
         "Kepa",
-        "#AtletiBar\u00e7a",
         "Bottlers FC",
-        "Martinelli",
-        "Lamine Yamal",
-        "Dowman"
+        "Ben White",
+        "Gabriel Jesus",
+        "Sporting",
+        "Cancelo",
+        "Abazz",
+        "Cook"
       ],
       "hashtags": [
         "#SOUARS",
         "#AtletiBar\u00e7a",
-        "#Nigeria2027",
         "#COYG"
       ],
       "regular_topics": [
-        "Southampton",
-        "Ben White",
+        "Arsenal",
         "Quadruple",
-        "Gabriel Jesus",
         "Kepa",
         "Bottlers FC",
-        "Martinelli",
-        "Lamine Yamal",
-        "Dowman",
-        "Port Vale",
-        "Havertz"
+        "Ben White",
+        "Gabriel Jesus",
+        "Sporting",
+        "Cancelo",
+        "Abazz",
+        "Cook",
+        "Admin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
