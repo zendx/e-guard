@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-05T06:56:27.129406+00:00",
+  "generated_at_utc": "2026-04-05T07:50:06.505175+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 05 2026 05:36:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 05 2026 06:30:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Happy Easter",
         "Michigan",
         "Jo Adell",
-        "Happy Easter",
         "Arizona",
-        "#GoBlue",
         "WE GOT HIM",
-        "Praise God",
         "He is Risen",
+        "#GoBlue",
+        "Praise God",
         "Yaxel",
-        "Dusty May",
-        "#FinalFour"
+        "#GCWManiac",
+        "God Bless America"
       ],
       "hashtags": [
         "#GoBlue",
-        "#FinalFour",
         "#GCWManiac",
-        "#StandAndDeliver",
-        "#UFCVegas115"
+        "#Toonami",
+        "#JoongDunkFanconD1",
+        "#TokyoRevengers"
       ],
       "regular_topics": [
+        "Happy Easter",
         "Michigan",
         "Jo Adell",
-        "Happy Easter",
         "Arizona",
         "WE GOT HIM",
-        "Praise God",
         "He is Risen",
+        "Praise God",
         "Yaxel",
+        "God Bless America",
         "Dusty May",
-        "Mara",
-        "Dan Hurley"
+        "Praise the Lord"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
