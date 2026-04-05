@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-05T22:55:38.590009+00:00",
+  "generated_at_utc": "2026-04-05T23:22:54.026390+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 05 2026 21:32:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 05 2026 22:24:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
-        "South Carolina",
         "UCLA",
+        "South Carolina",
         "Lauren Betts",
-        "He is Risen",
-        "Piers",
         "Gabriela Jaquez",
+        "Cori Close",
+        "Piers",
         "Jared Young",
-        "Roki",
-        "Cade Arrambide",
-        "Taijuan Walker"
+        "He is Risen",
+        "Luis Torrens",
+        "Cole Young"
       ],
       "hashtags": [
         "#BELIFT_Treat_ENHYPEN_Fairly",
+        "#ATOBTTR",
         "#BOYCOTT_BELIFTLab_HYBE",
-        "#DuboisHarper",
-        "#NationalChampionship",
-        "#GeneralConference"
+        "#WFinalFour",
+        "#DuboisHarper"
       ],
       "regular_topics": [
         "Happy Easter",
-        "South Carolina",
         "UCLA",
+        "South Carolina",
         "Lauren Betts",
-        "He is Risen",
-        "Piers",
         "Gabriela Jaquez",
+        "Cori Close",
+        "Piers",
         "Jared Young",
-        "Roki",
-        "Cade Arrambide",
-        "Taijuan Walker"
+        "He is Risen",
+        "Luis Torrens",
+        "Cole Young"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
