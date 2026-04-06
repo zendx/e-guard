@@ -1,79 +1,79 @@
 {
-  "generated_at_utc": "2026-04-06T08:07:16.407793+00:00",
+  "generated_at_utc": "2026-04-06T09:44:42.691355+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 06 2026 07:03:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 07:57:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Steph",
         "Sengun",
         "Podz",
+        "#JoongDunkFanconD2",
         "#RHOA",
         "#BELIFT_Treat_ENHYPEN_Fairly",
-        "Kerr",
         "#BOYCOTT_BELIFTLab_HYBE",
-        "Porzingis",
-        "Draymond",
-        "#DubNation",
-        "Cooper Flagg"
+        "Axios",
+        "#MaulShadowLord",
+        "Kerr",
+        "Porzingis"
       ],
       "hashtags": [
+        "#JoongDunkFanconD2",
         "#RHOA",
         "#BELIFT_Treat_ENHYPEN_Fairly",
         "#BOYCOTT_BELIFTLab_HYBE",
-        "#DubNation",
-        "#holoSerendipity"
+        "#MaulShadowLord"
       ],
       "regular_topics": [
         "Steph",
         "Sengun",
         "Podz",
+        "Axios",
         "Kerr",
         "Porzingis",
         "Draymond",
-        "Cooper Flagg",
-        "Bassey",
         "Jabari",
-        "Axios",
-        "Robert Thomas"
+        "Bassey",
+        "Robert Thomas",
+        "Cooper Flagg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 06 2026 07:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 09:12:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
-        "#lufc",
         "Leeds",
+        "#lufc",
         "Southampton",
         "FA Cup",
-        "Jesus",
-        "#WHULEE",
         "Waitrose",
+        "Jesus",
         "Wembley",
-        "Arsenal",
-        "Porridge"
+        "#WHULEE",
+        "#ASongOrMovieForHomeClothes",
+        "Arsenal"
       ],
       "hashtags": [
         "#lufc",
         "#WHULEE",
-        "#MagentaMonday",
-        "#JoongDunkFanconD2",
-        "#SaintsFC"
+        "#ASongOrMovieForHomeClothes",
+        "#thismorning",
+        "#NRLEelsTigers"
       ],
       "regular_topics": [
         "Happy Easter",
         "Leeds",
         "Southampton",
         "FA Cup",
-        "Jesus",
         "Waitrose",
+        "Jesus",
         "Wembley",
         "Arsenal",
-        "Porridge",
+        "Unemployment",
         "Kilman",
         "Danny Dyer"
       ],
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 06 2026 07:24:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 09:08:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
         "Joyeuses P\u00e2ques",
@@ -91,10 +91,10 @@
         "Darche",
         "Patrick Roy",
         "#BELIFT_Treat_ENHYPEN_Fairly",
-        "Fife",
         "#BOYCOTT_BELIFTLab_HYBE",
-        "Bolduc",
-        "#GoHabsGo"
+        "Fife",
+        "#GoHabsGo",
+        "Bolduc"
       ],
       "hashtags": [
         "#BELIFT_Treat_ENHYPEN_Fairly",
@@ -113,7 +113,7 @@
         "Fife",
         "Bolduc",
         "Devils",
-        "White Sox",
+        "luke hughes",
         "Caufield"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,82 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 06 2026 07:16:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 08:08:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BhoothBanglaTrailer",
-        "#KovaiNeedsSPVelumani",
         "#realme16SaleIsLive",
-        "#Modi4Assam",
-        "#47YearsOfNationFirst",
+        "#Glorious46YearsofBJP",
+        "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
+        "#BhoothBanglaTrailer",
+        "#DictatorStalinVsProtectorEPS",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0925\u092e",
         "120Hz AMOLED",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0947\u0935\u093e",
-        "12GB RAM",
+        "Bharatiya Janata Party",
         "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940"
       ],
       "hashtags": [
-        "#BhoothBanglaTrailer",
-        "#KovaiNeedsSPVelumani",
         "#realme16SaleIsLive",
-        "#Modi4Assam",
-        "#47YearsOfNationFirst",
-        "#DictatorStalinVsProtectorEPS",
-        "#BJPFoundationDay",
-        "#ChennaiRains",
-        "#pared\u00e3obbb"
+        "#Glorious46YearsofBJP",
+        "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
+        "#BhoothBanglaTrailer",
+        "#DictatorStalinVsProtectorEPS"
       ],
       "regular_topics": [
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0925\u092e",
         "120Hz AMOLED",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0947\u0935\u093e",
-        "12GB RAM",
-        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "\u0930\u093e\u091c\u0928\u0940\u0924\u093f\u0915 \u0938\u0902\u0917\u0920\u0928",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
         "Bharatiya Janata Party",
-        "\u092c\u0921\u093c\u0940 \u0930\u093e\u091c\u0928\u0940\u0924\u093f\u0915 \u092a\u093e\u0930\u094d\u091f\u0940",
-        "Delhi High Court"
+        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
+        "MediaTek Dimensity 6400 Turbo",
+        "12GB RAM",
+        "Delhi High Court",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0939\u093e\u0908 \u0915\u094b\u0930\u094d\u091f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 06 2026 07:12:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 08:04:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
         "Happy New Week",
         "Amen",
-        "GM CT",
         "Southampton",
         "Abazz",
         "Arsenal",
         "He is Risen",
+        "GM CT",
+        "#OverdoseByVvinchy",
         "Leeds",
-        "Grand",
-        "FA Cup"
+        "#MondayMotivation"
       ],
       "hashtags": [
+        "#OverdoseByVvinchy",
         "#MondayMotivation",
+        "#NSPPD",
         "#Resurrecci\u00f3n",
-        "#JoongDunkFanconD2",
-        "#RoadBlockParty",
-        "#NewBeginnings"
+        "#pared\u00e3obbb"
       ],
       "regular_topics": [
         "Happy Easter",
         "Happy New Week",
         "Amen",
-        "GM CT",
         "Southampton",
         "Abazz",
         "Arsenal",
         "He is Risen",
+        "GM CT",
         "Leeds",
-        "Grand",
-        "FA Cup"
+        "FA Cup",
+        "FIRE HAS CLEARED THE WAY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
