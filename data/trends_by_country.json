@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-04-06T23:00:18.122388+00:00",
+  "generated_at_utc": "2026-04-06T23:55:11.537375+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 06 2026 21:52:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 22:44:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Invited Users",
         "PRESALE IS NOW OPEN",
@@ -16,14 +16,14 @@
         "PRESALE ACCESS IS NOW OPEN",
         "THE PRESALE WINDOW IS NOW OPEN",
         "Malone",
-        "Dexter Lawrence"
+        "Nutella"
       ],
       "hashtags": [
-        "#ArtemisII",
         "#Always_Together_With_sevEN",
+        "#ArtemisII",
         "#Together_We_BOYCOTT_BELIFT",
         "#RaysUp",
-        "#AquilesRobo"
+        "#Cubs"
       ],
       "regular_topics": [
         "Invited Users",
@@ -36,73 +36,77 @@
         "PRESALE ACCESS IS NOW OPEN",
         "THE PRESALE WINDOW IS NOW OPEN",
         "Malone",
-        "Dexter Lawrence"
+        "Nutella"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 06 2026 22:18:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 23:09:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ImACeleb",
-        "#PUSB",
-        "#hcafc",
         "#ArtemisII",
-        "#universitychallenge",
-        "Melvin Benn",
+        "#hcafc",
+        "#PUSB",
         "Nutella",
+        "Melvin Benn",
+        "#NASA",
         "Kick",
-        "Lincoln",
         "Chamberlain",
+        "Lincoln",
         "Dalot"
       ],
       "hashtags": [
         "#ImACeleb",
-        "#PUSB",
-        "#hcafc",
         "#ArtemisII",
-        "#universitychallenge",
+        "#hcafc",
+        "#PUSB",
+        "#NASA",
         "#Always_Together_With_sevEN",
-        "#HULCOV"
+        "#Together_We_BOYCOTT_BELIFT",
+        "#UniversityChallenge",
+        "#HULCOV",
+        "#BannerfallSMP",
+        "#readingfc"
       ],
       "regular_topics": [
-        "Melvin Benn",
         "Nutella",
+        "Melvin Benn",
         "Kick",
-        "Lincoln",
         "Chamberlain",
+        "Lincoln",
         "Dalot",
-        "Haji",
         "Gemma Collins",
-        "Kanye",
-        "Boro",
-        "Ipswich"
+        "Scholes",
+        "Kanye West",
+        "Ipswich",
+        "Orion"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 06 2026 22:12:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 23:04:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
         "He is Risen",
         "Fife",
         "Nutella",
         "Darche",
+        "Dodgers",
+        "#HumboldtStrong",
         "#BELIFT_Treat_ENHYPEN_Fairly",
         "DeBoer",
-        "#HumboldtStrong",
         "Joyeuses P\u00e2ques",
-        "#BOYCOTT_BELIFTLab_HYBE",
         "#StopWarOnIran"
       ],
       "hashtags": [
-        "#BELIFT_Treat_ENHYPEN_Fairly",
         "#HumboldtStrong",
-        "#BOYCOTT_BELIFTLab_HYBE",
+        "#BELIFT_Treat_ENHYPEN_Fairly",
         "#StopWarOnIran",
+        "#BOYCOTT_BELIFTLab_HYBE",
         "#NoWarCrimesInIran"
       ],
       "regular_topics": [
@@ -111,27 +115,27 @@
         "Fife",
         "Nutella",
         "Darche",
+        "Dodgers",
         "DeBoer",
         "Joyeuses P\u00e2ques",
-        "Dodgers",
-        "Angel Reese",
-        "Apollo 13",
-        "Bernard Drainville"
+        "Artemis II",
+        "European Union",
+        "Angel Reese"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 06 2026 22:04:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 22:57:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Glorious46YearsofBJP",
         "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
-        "#47YearsOfNationFirst",
         "#BhoothBanglaTrailer",
+        "#47YearsOfNationFirst",
         "magnus grand",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "#RCBvsCSK",
+        "#KKRvsPBKS",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0925\u092e",
         "\u092a\u0935\u0928 \u0916\u0947\u0921\u093c\u093e",
         "Kabir Is God",
@@ -140,9 +144,9 @@
       "hashtags": [
         "#Glorious46YearsofBJP",
         "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
-        "#47YearsOfNationFirst",
         "#BhoothBanglaTrailer",
-        "#RCBvsCSK"
+        "#47YearsOfNationFirst",
+        "#KKRvsPBKS"
       ],
       "regular_topics": [
         "magnus grand",
@@ -162,36 +166,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 06 2026 22:00:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 23:45:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lampard",
-        "Onana",
+        "Happy Easter",
+        "Jesus",
+        "Arsenal",
         "Sporting",
-        "Mosquera",
-        "Scholes",
-        "Madueke",
-        "Napoli",
-        "David Raya",
-        "Tilapia",
-        "Kebbi",
-        "Titus"
+        "Happy New Week",
+        "Leeds",
+        "Southampton",
+        "Galilee",
+        "Bayern",
+        "#Resurrecci\u00f3n",
+        "MEXC"
       ],
       "hashtags": [
+        "#Resurrecci\u00f3n",
         "#AsunRiceTakeover",
-        "#Shillx"
+        "#MondayMotivation",
+        "#alattheevolution",
+        "#betpawalockerroombonus"
       ],
       "regular_topics": [
-        "Lampard",
-        "Onana",
+        "Happy Easter",
+        "Jesus",
+        "Arsenal",
         "Sporting",
-        "Mosquera",
-        "Scholes",
-        "Madueke",
-        "Napoli",
-        "David Raya",
-        "Tilapia",
-        "Kebbi",
-        "Titus"
+        "Happy New Week",
+        "Leeds",
+        "Southampton",
+        "Galilee",
+        "Bayern",
+        "MEXC",
+        "Phyno"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
