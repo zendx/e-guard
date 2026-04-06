@@ -1,42 +1,48 @@
 {
-  "generated_at_utc": "2026-04-06T09:44:42.691355+00:00",
+  "generated_at_utc": "2026-04-06T10:44:55.528774+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 06 2026 07:57:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 08:48:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Steph",
-        "Sengun",
-        "Podz",
         "#JoongDunkFanconD2",
-        "#RHOA",
+        "#MaulShadowLord",
+        "Podz",
+        "Sengun",
+        "Fall 2026",
         "#BELIFT_Treat_ENHYPEN_Fairly",
         "#BOYCOTT_BELIFTLab_HYBE",
         "Axios",
-        "#MaulShadowLord",
-        "Kerr",
-        "Porzingis"
+        "#RHOA",
+        "Kerr"
       ],
       "hashtags": [
         "#JoongDunkFanconD2",
-        "#RHOA",
+        "#MaulShadowLord",
         "#BELIFT_Treat_ENHYPEN_Fairly",
         "#BOYCOTT_BELIFTLab_HYBE",
-        "#MaulShadowLord"
+        "#RHOA",
+        "#DubNation",
+        "#stlblues",
+        "#scottywiththebaby",
+        "#AllFire",
+        "#Warriors",
+        "#KEEP_ENH7PEN_SAFE"
       ],
       "regular_topics": [
         "Steph",
-        "Sengun",
         "Podz",
+        "Sengun",
+        "Fall 2026",
         "Axios",
         "Kerr",
-        "Porzingis",
         "Draymond",
-        "Jabari",
-        "Bassey",
+        "Easter Monday",
         "Robert Thomas",
-        "Cooper Flagg"
+        "Porzingis",
+        "Bassey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +88,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 06 2026 09:08:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 10:00:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
         "Joyeuses P\u00e2ques",
@@ -121,78 +127,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 06 2026 08:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 09:54:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#realme16SaleIsLive",
+        "#Mylapore4TamilisaiBJP",
+        "Magnus Grand",
+        "#BhoothBanglaTrailer",
         "#Glorious46YearsofBJP",
         "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
-        "#BhoothBanglaTrailer",
         "#DictatorStalinVsProtectorEPS",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0925\u092e",
-        "120Hz AMOLED",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0947\u0935\u093e",
-        "Bharatiya Janata Party",
-        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940"
+        "Majid Khademi",
+        "\u0905\u092e\u093f\u0924 \u091c\u094b\u0917\u0940",
+        "120Hz AMOLED"
       ],
       "hashtags": [
-        "#realme16SaleIsLive",
+        "#Mylapore4TamilisaiBJP",
+        "#BhoothBanglaTrailer",
         "#Glorious46YearsofBJP",
         "#\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u0938\u0947\u0935\u0947\u091a\u0940_\u096a\u096c\u0935\u0930\u094d\u0937\u0947\u092d\u093e\u091c\u092a\u093e\u091a\u0940",
-        "#BhoothBanglaTrailer",
         "#DictatorStalinVsProtectorEPS"
       ],
       "regular_topics": [
+        "Magnus Grand",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0925\u092e",
+        "Majid Khademi",
+        "\u0905\u092e\u093f\u0924 \u091c\u094b\u0917\u0940",
         "120Hz AMOLED",
+        "Reuters",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0947\u0935\u093e",
+        "Islamabad Accord",
         "Bharatiya Janata Party",
-        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "MediaTek Dimensity 6400 Turbo",
-        "12GB RAM",
-        "Delhi High Court",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0939\u093e\u0908 \u0915\u094b\u0930\u094d\u091f"
+        "BJP's 46"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 06 2026 08:04:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 09:51:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Easter",
-        "Happy New Week",
-        "Amen",
         "Southampton",
         "Abazz",
         "Arsenal",
-        "He is Risen",
-        "GM CT",
-        "#OverdoseByVvinchy",
+        "Happy New Week",
+        "Jesus",
         "Leeds",
-        "#MondayMotivation"
+        "Amen",
+        "#OverdoseByVvinchy",
+        "Phyno",
+        "FA Cup"
       ],
       "hashtags": [
         "#OverdoseByVvinchy",
+        "#ImportantBigG",
         "#MondayMotivation",
-        "#NSPPD",
         "#Resurrecci\u00f3n",
         "#pared\u00e3obbb"
       ],
       "regular_topics": [
         "Happy Easter",
-        "Happy New Week",
-        "Amen",
         "Southampton",
         "Abazz",
         "Arsenal",
-        "He is Risen",
-        "GM CT",
+        "Happy New Week",
+        "Jesus",
         "Leeds",
+        "Amen",
+        "Phyno",
         "FA Cup",
-        "FIRE HAS CLEARED THE WAY"
+        "Galilee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
