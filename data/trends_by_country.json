@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-04-06T21:00:28.217544+00:00",
+  "generated_at_utc": "2026-04-06T21:55:30.600010+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 06 2026 19:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 20:08:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mike Malone",
         "Angel Reese",
         "Dexter Lawrence",
         "#ArtemisII",
         "Billy Donovan",
-        "Carroll",
-        "Apollo 13",
-        "Chicago Sky",
-        "Atlanta Dream",
+        "Goldust",
         "#Always_Together_With_sevEN",
-        "#Together_We_BOYCOTT_BELIFT"
+        "Atlanta",
+        "Apollo 13",
+        "#Together_We_BOYCOTT_BELIFT",
+        "Nutella"
       ],
       "hashtags": [
         "#ArtemisII",
@@ -30,52 +30,52 @@
         "Angel Reese",
         "Dexter Lawrence",
         "Billy Donovan",
-        "Carroll",
-        "Apollo 13",
-        "Chicago Sky",
-        "Atlanta Dream",
-        "The Sky",
         "Goldust",
-        "Belichick"
+        "Atlanta",
+        "Apollo 13",
+        "Nutella",
+        "Carroll",
+        "AKME",
+        "Chicago Sky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 06 2026 19:42:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 06 2026 21:24:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ImACeleb",
+        "#PUSB",
+        "#hcafc",
+        "#universitychallenge",
         "#ArtemisII",
+        "Melvin Benn",
         "Lincoln",
-        "#boro",
-        "Chamberlain",
-        "#readingfc",
-        "#itfc",
-        "Brynn",
         "Nutella",
-        "Ipswich",
-        "#Together_We_BOYCOTT_BELIFT",
-        "Conway"
+        "Chamberlain",
+        "Dalot",
+        "Haji"
       ],
       "hashtags": [
-        "#ArtemisII",
-        "#boro",
-        "#readingfc",
-        "#itfc",
-        "#Together_We_BOYCOTT_BELIFT"
+        "#ImACeleb",
+        "#PUSB",
+        "#hcafc",
+        "#universitychallenge",
+        "#ArtemisII"
       ],
       "regular_topics": [
+        "Melvin Benn",
         "Lincoln",
-        "Chamberlain",
-        "Brynn",
         "Nutella",
+        "Chamberlain",
+        "Dalot",
+        "Haji",
         "Ipswich",
-        "Conway",
-        "Sam Parker",
-        "Hellberg",
-        "Carroll",
+        "Kanye",
+        "Napoli",
         "Grayson",
-        "Kanye"
+        "Scholes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
