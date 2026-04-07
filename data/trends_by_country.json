@@ -1,42 +1,45 @@
 {
-  "generated_at_utc": "2026-04-07T09:55:58.317278+00:00",
+  "generated_at_utc": "2026-04-07T10:45:50.709172+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 07 2026 09:09:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 07 2026 10:04:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Tuesday",
         "Tucker",
         "Michigan",
-        "UConn",
-        "Go Blue",
         "#GmQueen",
+        "Go Blue",
         "One Shining Moment",
         "#WWERaw",
         "Offset",
+        "Replymer",
         "Hail to the Victors",
-        "NATIONAL CHAMPIONS",
-        "Replymer"
+        "Lil Tjay"
       ],
       "hashtags": [
         "#GmQueen",
         "#WWERaw",
         "#Always_Together_With_sevEN",
         "#Together_We_BOYCOTT_BELIFT",
-        "#spacex"
+        "#WitchHatAtelier",
+        "#TheRookie",
+        "#RawOnNetflix",
+        "#BELIFT_DO_YOUR_JOB"
       ],
       "regular_topics": [
+        "Good Tuesday",
         "Tucker",
         "Michigan",
-        "UConn",
         "Go Blue",
         "One Shining Moment",
         "Offset",
-        "Hail to the Victors",
-        "NATIONAL CHAMPIONS",
         "Replymer",
+        "Hail to the Victors",
         "Lil Tjay",
-        "Dusty May"
+        "Dan Hurley",
+        "Punk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
