@@ -1,198 +1,201 @@
 {
-  "generated_at_utc": "2026-04-08T19:01:11.782010+00:00",
+  "generated_at_utc": "2026-04-08T20:05:41.006968+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 08 2026 17:33:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 08 2026 18:24:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lebanon",
-        "Muse Spark",
         "Jason Kelce",
-        "Satoshi",
-        "#ShoutOutToENHYPEN",
+        "Muse Spark",
         "Ragans",
-        "Beirut",
+        "#ShoutOutToENHYPEN",
+        "Satoshi",
         "Whale - Buy",
-        "Rex Heuermann",
-        "Strait of Hormuz",
-        "$META"
+        "Keller",
+        "Beirut",
+        "Kevin Hart",
+        "Justin Lawrence"
       ],
       "hashtags": [
         "#ShoutOutToENHYPEN",
         "#TheBoys",
-        "#AG8ISCOMING",
-        "#f1twtselfieday",
-        "#LISAxBadAngel"
+        "#DCvsGT",
+        "#WE_LOVE_HEESEUNG",
+        "#SafePlaceSelfie"
       ],
       "regular_topics": [
         "Lebanon",
-        "Muse Spark",
         "Jason Kelce",
-        "Satoshi",
+        "Muse Spark",
         "Ragans",
-        "Beirut",
+        "Satoshi",
         "Whale - Buy",
-        "Rex Heuermann",
-        "Strait of Hormuz",
-        "$META",
-        "TOP CALL"
+        "Keller",
+        "Beirut",
+        "Kevin Hart",
+        "Justin Lawrence",
+        "Rex Heuermann"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 08 2026 18:51:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 08 2026 19:43:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Iran",
+        "#PSGLIV",
         "Lebanon",
-        "Trump",
-        "Kanye",
+        "Doue",
+        "Gomez",
         "Frimpong",
-        "Bayern",
-        "Pakistan",
-        "Israel",
-        "Olise",
-        "Vance",
-        "Strait of Hormuz"
+        "Konate",
+        "Back 5",
+        "Mac Allister",
+        "Hezbollah",
+        "#thechase",
+        "#EastEnders"
       ],
       "hashtags": [
-        "#thechase",
-        "#fifaworldcupticketbuy",
         "#PSGLIV",
-        "#Ceasefire",
-        "#TheBoys"
+        "#thechase",
+        "#EastEnders",
+        "#ShoutOutToENHYPEN",
+        "#DCvGT",
+        "#ChampionsLeague",
+        "#TheBoys",
+        "#BOYCOTT_beliftLAB_HYBE"
       ],
       "regular_topics": [
-        "Iran",
         "Lebanon",
-        "Trump",
-        "Kanye",
+        "Doue",
+        "Gomez",
         "Frimpong",
-        "Bayern",
-        "Pakistan",
-        "Israel",
-        "Olise",
-        "Vance",
-        "Strait of Hormuz"
+        "Konate",
+        "Back 5",
+        "Mac Allister",
+        "Hezbollah",
+        "Redmen",
+        "Ben Delo",
+        "Beirut"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 08 2026 18:45:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 08 2026 19:39:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gladu",
         "Iran",
         "Liberals",
         "Trump",
-        "Traitor",
         "Lebanon",
         "Pierre",
+        "Traitor",
         "Sarnia",
         "Pakistan",
-        "Floor",
-        "Jarry"
+        "Democracy",
+        "Floor"
       ],
       "hashtags": [
-        "#cdnpoli",
-        "#One_Two_CONNECT_Our_7",
         "#ENGENEs_boycott_BELIFT",
-        "#DCvsGT",
-        "#TheBoys"
+        "#One_Two_CONNECT_Our_7",
+        "#PSGLIV",
+        "#TheBoys",
+        "#cdnpoli"
       ],
       "regular_topics": [
         "Gladu",
         "Iran",
         "Liberals",
         "Trump",
-        "Traitor",
         "Lebanon",
         "Pierre",
+        "Traitor",
         "Sarnia",
         "Pakistan",
-        "Floor",
-        "Jarry"
+        "Democracy",
+        "Floor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 08 2026 18:39:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 08 2026 19:32:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DCvsGT",
         "Miller",
         "#GTvsDC",
-        "KL Rahul",
+        "Anant Ambani",
         "Kuldeep",
+        "KL Rahul",
         "Lebanon",
-        "Gujarat Titans",
-        "#CeasefireAgreement",
         "#ShoutOutToENHYPEN",
-        "Siraj",
-        "Delhi Capitals"
+        "Gujarat Titans",
+        "Vantara",
+        "#CeasefireAgreement"
       ],
       "hashtags": [
         "#DCvsGT",
         "#GTvsDC",
-        "#CeasefireAgreement",
         "#ShoutOutToENHYPEN",
-        "#HimantaHataoAssamBachao"
+        "#CeasefireAgreement",
+        "#H\u00fcrm\u00fcz"
       ],
       "regular_topics": [
         "Miller",
-        "KL Rahul",
+        "Anant Ambani",
         "Kuldeep",
+        "KL Rahul",
         "Lebanon",
         "Gujarat Titans",
+        "Vantara",
+        "Israel",
         "Siraj",
         "Delhi Capitals",
-        "Rashid Khan",
-        "Israel",
-        "Prasidh Krishna",
-        "Super Over"
+        "Rashid Khan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 08 2026 18:34:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 08 2026 19:28:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wizkid",
         "Diddy",
+        "#PSGLIV",
         "Love God",
-        "Grammy",
         "Davido",
-        "Big Wiz",
+        "Grammy",
         "Lebanon",
-        "Wizzy",
+        "Desire Doue",
         "Pepsi",
-        "Speed Darlington",
-        "Akpi"
+        "Wizzy",
+        "Big Wiz"
       ],
       "hashtags": [
-        "#TinubuMustGo",
-        "#OccupyINEC",
+        "#PSGLIV",
+        "#BARATM",
         "#alt\u0131n",
-        "#H\u00fcrm\u00fcz",
-        "#PSGLIV"
+        "#TinubuMustGo",
+        "#H\u00fcrm\u00fcz"
       ],
       "regular_topics": [
         "Wizkid",
         "Diddy",
         "Love God",
-        "Grammy",
         "Davido",
-        "Big Wiz",
+        "Grammy",
         "Lebanon",
-        "Wizzy",
+        "Desire Doue",
         "Pepsi",
-        "Speed Darlington",
-        "Akpi"
+        "Wizzy",
+        "Big Wiz",
+        "Atletico Madrid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
