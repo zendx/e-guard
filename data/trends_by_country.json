@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-09T19:55:51.860446+00:00",
+  "generated_at_utc": "2026-04-09T20:39:21.129660+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,77 +43,76 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Apr 09 2026 19:20:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 09 2026 20:12:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Robbo",
-        "$LOL",
         "#nffc",
-        "Andy Robertson",
+        "#TheApprentice",
+        "#avfc",
+        "Robbo",
+        "#MAFSAU",
         "#RaceAcrossTheWorld",
+        "Juliette",
+        "Andy Robertson",
         "Melania Trump",
-        "Nwaneri",
-        "#AVFC",
-        "Oh Andy Andy",
-        "Porto",
-        "#EastEnders"
+        "Bunting",
+        "Rogers"
       ],
       "hashtags": [
         "#nffc",
-        "#RaceAcrossTheWorld",
-        "#AVFC",
-        "#EastEnders",
-        "#ENHYPEN_Is_Forever_sevEN"
+        "#TheApprentice",
+        "#avfc",
+        "#MAFSAU",
+        "#RaceAcrossTheWorld"
       ],
       "regular_topics": [
         "Robbo",
-        "$LOL",
+        "Juliette",
         "Andy Robertson",
         "Melania Trump",
+        "Bunting",
+        "Rogers",
+        "Konsa",
         "Nwaneri",
-        "Oh Andy Andy",
         "Porto",
-        "Chris Wood",
-        "Lange",
-        "Morgan Rogers",
-        "Chip"
+        "Joel",
+        "Bologna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Apr 09 2026 19:15:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 09 2026 20:06:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lebanon",
         "Gladu",
         "Iran",
         "Liberals",
+        "Melania Trump",
         "Pierre",
         "Carney",
         "Rutte",
         "Hezbollah",
         "Traitor",
-        "Melania Trump",
         "Sarnia"
       ],
       "hashtags": [
         "#TheMasters",
-        "#ShoutOutToENHYPEN",
         "#ENHYPEN_Is_Forever_sevEN",
         "#BOYCOTT_BELIFT_until_Change",
-        "#FreeManon"
+        "#ShoutOutToENHYPEN"
       ],
       "regular_topics": [
         "Lebanon",
         "Gladu",
         "Iran",
         "Liberals",
+        "Melania Trump",
         "Pierre",
         "Carney",
         "Rutte",
         "Hezbollah",
         "Traitor",
-        "Melania Trump",
         "Sarnia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +159,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Apr 09 2026 19:04:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 09 2026 19:56:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Burna",
-        "Diddy",
-        "Barca",
-        "Rashford",
-        "Shalli",
-        "Barcelona",
-        "Lebanon",
-        "Yamal",
-        "Olise",
         "Andy Robertson",
-        "Robbo"
+        "Robbo",
+        "Morgan Rogers",
+        "Nwaneri",
+        "UEFA",
+        "Brigadier General",
+        "1k Likes",
+        "Boko Haram",
+        "Youth",
+        "3 Lieutenant Colonels",
+        "Borno"
       ],
       "hashtags": [
-        "#OccupyINEC",
-        "#MayorDeleOshinowoIsComing",
-        "#BARATM",
-        "#Icekingochacho",
-        "#PSGLIV"
+        "#TinubuGains",
+        "#MEXC0Fee",
+        "#H\u00fcrm\u00fcz"
       ],
       "regular_topics": [
-        "Burna",
-        "Diddy",
-        "Barca",
-        "Rashford",
-        "Shalli",
-        "Barcelona",
-        "Lebanon",
-        "Yamal",
-        "Olise",
         "Andy Robertson",
-        "Robbo"
+        "Robbo",
+        "Morgan Rogers",
+        "Nwaneri",
+        "UEFA",
+        "Brigadier General",
+        "1k Likes",
+        "Boko Haram",
+        "Youth",
+        "3 Lieutenant Colonels",
+        "Borno"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
