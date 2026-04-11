@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-11T21:21:42.025085+00:00",
+  "generated_at_utc": "2026-04-11T21:53:16.287727+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 11 2026 20:15:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 21:06:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#FuryMakhmudov",
         "Benn",
-        "Shane Lowry",
+        "Ricky Hatton",
         "#boxing",
-        "Arsenal",
-        "#LIVFUL",
-        "Riakporhe",
-        "Huni",
-        "Gakpo",
-        "Rio Ngumoha",
-        "Fulham"
+        "Michael Buffer",
+        "Eddie Hearn",
+        "Shane Lowry",
+        "Ryan Garcia",
+        "Turki",
+        "#casualty",
+        "Huni"
       ],
       "hashtags": [
         "#FuryMakhmudov",
         "#boxing",
-        "#LIVFUL",
-        "#BritainsGotTalent",
-        "#readingfc"
+        "#casualty",
+        "#soundsofthe80s",
+        "#LIVFUL"
       ],
       "regular_topics": [
         "Benn",
+        "Ricky Hatton",
+        "Michael Buffer",
+        "Eddie Hearn",
         "Shane Lowry",
-        "Arsenal",
-        "Riakporhe",
+        "Ryan Garcia",
+        "Turki",
         "Huni",
-        "Gakpo",
-        "Rio Ngumoha",
-        "Fulham",
-        "Arteta",
-        "Motherwell",
-        "Turki"
+        "Eubank",
+        "Riakporhe",
+        "Rio Ngumoha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
