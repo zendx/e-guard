@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-04-11T14:59:18.311400+00:00",
+  "generated_at_utc": "2026-04-11T15:32:41.243851+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 11 2026 13:42:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 14:33:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "Bournemouth",
-        "Good Saturday",
-        "#ARSBOU",
-        "Zubimendi",
         "Swalwell",
-        "Alex Scott",
+        "Good Saturday",
+        "Zubimendi",
+        "#ARSBOU",
         "#NationalPetDay",
-        "TAKE TWO",
-        "Ben White"
+        "#Caturday",
+        "Alex Scott",
+        "TAKE TWO"
       ],
       "hashtags": [
         "#ARSBOU",
         "#NationalPetDay",
         "#Caturday",
-        "#COYG",
-        "#BrokenOfLoveEP3"
+        "#BrokenOfLoveEP3",
+        "#COYG"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
         "Bournemouth",
+        "Swalwell",
         "Good Saturday",
         "Zubimendi",
-        "Swalwell",
         "Alex Scott",
         "TAKE TWO",
-        "Ben White",
+        "Etihad",
         "Havertz",
-        "Gyokeres"
+        "Man City"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 11 2026 14:08:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 15:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
         "#ARSBOU",
+        "HALF TIME",
         "Alex Scott",
         "#itfc",
         "Zubimendi",
         "#ncfc",
-        "Havertz",
-        "Gyokeres",
         "Etihad",
-        "#bwfc"
+        "Home By The Lee",
+        "Havertz"
       ],
       "hashtags": [
         "#ARSBOU",
         "#itfc",
         "#ncfc",
         "#bwfc",
-        "#swfc"
+        "#afcb"
       ],
       "regular_topics": [
         "Arsenal",
         "Arteta",
+        "HALF TIME",
         "Alex Scott",
         "Zubimendi",
-        "Havertz",
-        "Gyokeres",
         "Etihad",
-        "KICK OFF",
+        "Home By The Lee",
+        "Havertz",
         "Raya",
-        "TEAM NEWS",
-        "Rice"
+        "Gyokeres",
+        "KICK OFF"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 11 2026 14:03:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 14:56:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Arteta",
@@ -90,17 +90,17 @@
         "#ARSBOU",
         "Zubimendi",
         "Havertz",
-        "Etihad",
         "Chelsea",
-        "Alex Scott",
-        "#sabchella",
-        "Concrete"
+        "Coachella",
+        "Etihad",
+        "Man City",
+        "Ben White"
       ],
       "hashtags": [
         "#ARSBOU",
         "#sabchella",
         "#SmackDown",
-        "#Caturday",
+        "#LoveYouTeacherSeriesEP5",
         "#Go_Big_With_SevEN"
       ],
       "regular_topics": [
@@ -109,12 +109,12 @@
         "Bournemouth",
         "Zubimendi",
         "Havertz",
-        "Etihad",
         "Chelsea",
-        "Alex Scott",
-        "Concrete",
         "Coachella",
-        "Man City"
+        "Etihad",
+        "Man City",
+        "Ben White",
+        "Ireland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
