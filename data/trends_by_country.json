@@ -1,204 +1,204 @@
 {
-  "generated_at_utc": "2026-04-11T03:56:52.386668+00:00",
+  "generated_at_utc": "2026-04-11T05:21:11.440376+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 11 2026 03:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 04:03:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
-        "Artemis II",
         "Swalwell",
-        "#NASA",
-        "#DragRace",
+        "Artemis II",
         "#OPLive",
+        "#Coachella",
+        "#NASA",
         "Pat McAfee",
-        "Rory",
-        "Dustin May",
-        "Corey Seager",
-        "Integrity"
+        "#DragRace",
+        "Fang Fang",
+        "Robert Garcia",
+        "Rory"
       ],
       "hashtags": [
         "#SmackDown",
-        "#NASA",
-        "#DragRace",
         "#OPLive",
-        "#Dateline"
+        "#Coachella",
+        "#NASA",
+        "#DragRace"
       ],
       "regular_topics": [
-        "Artemis II",
         "Swalwell",
+        "Artemis II",
         "Pat McAfee",
+        "Fang Fang",
+        "Robert Garcia",
         "Rory",
         "Dustin May",
-        "Corey Seager",
-        "Integrity",
-        "Coachella",
-        "Grichuk",
-        "Megill",
-        "Zack Kelly"
+        "Max Muncy",
+        "Al Franken",
+        "Danhausen",
+        "Corey Seager"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 11 2026 03:39:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 04:32:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#sabchella",
         "#SmackDown",
         "#ArtemisII",
-        "#NASA",
         "#TheMasters",
+        "#totp",
         "West Ham",
-        "Pat McAfee",
-        "#TOTP",
-        "Gold Dancer",
         "Israel",
         "Rory",
-        "Integrity"
+        "Gold Dancer",
+        "Integrity",
+        "Lebanon"
       ],
       "hashtags": [
+        "#sabchella",
         "#SmackDown",
         "#ArtemisII",
-        "#NASA",
         "#TheMasters",
-        "#TOTP"
+        "#totp"
       ],
       "regular_topics": [
         "West Ham",
-        "Pat McAfee",
-        "Gold Dancer",
         "Israel",
         "Rory",
+        "Gold Dancer",
         "Integrity",
         "Lebanon",
-        "WrestleMania",
+        "Pat McAfee",
         "Aintree",
-        "Lil Yachty",
-        "Ashley Cole"
+        "Ashley Cole",
+        "WrestleMania",
+        "Starmer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 11 2026 03:33:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 04:27:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
+        "#sabchella",
         "Artemis II",
-        "#BlueJays50",
         "Melania",
-        "#NASA",
+        "#Coachella",
         "Carney",
-        "#BINI_CoachellaWk1",
-        "Knicks",
         "Rebel News",
-        "Davis Schneider",
-        "Pat McAfee"
+        "Knicks",
+        "#BlueJays50",
+        "Patrick Corbin",
+        "Liberal"
       ],
       "hashtags": [
         "#SmackDown",
+        "#sabchella",
+        "#Coachella",
         "#BlueJays50",
-        "#NASA",
-        "#BINI_CoachellaWk1",
-        "#Go_Big_With_SevEn"
+        "#NASA"
       ],
       "regular_topics": [
         "Artemis II",
         "Melania",
         "Carney",
-        "Knicks",
         "Rebel News",
-        "Davis Schneider",
-        "Pat McAfee",
+        "Knicks",
         "Patrick Corbin",
         "Liberal",
         "Lebanon",
-        "WrestleMania"
+        "Rory",
+        "Ireland",
+        "Gladu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 11 2026 03:27:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 04:18:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ControlAnger",
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
-        "#GodMorningSaturday",
         "#JyotibaPhule",
-        "\u0915\u0938\u094d\u0924\u0942\u0930\u092c\u093e \u0917\u093e\u0902\u0927\u0940",
+        "#GodMorningSaturday",
         "\u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "\u0915\u0938\u094d\u0924\u0942\u0930\u092c\u093e \u0917\u093e\u0902\u0927\u0940",
         "\u0928\u093e\u0930\u0940 \u0936\u093f\u0915\u094d\u0937\u093e",
-        "\u0917\u0941\u0930\u0941\u0915\u0941\u0932 \u0936\u093f\u0915\u094d\u0937\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "#\u092e\u0939\u093e\u0924\u094d\u092e\u093e_\u091c\u094d\u092f\u094b\u0924\u093f\u092c\u093e_\u092b\u0941\u0932\u0947",
-        "\u092e\u0939\u093f\u0932\u093e \u0936\u093f\u0915\u094d\u0937\u093e"
+        "\u092e\u0939\u093f\u0932\u093e \u0936\u093f\u0915\u094d\u0937\u093e",
+        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940"
       ],
       "hashtags": [
         "#ControlAnger",
-        "#GodMorningSaturday",
         "#JyotibaPhule",
+        "#GodMorningSaturday",
         "#\u092e\u0939\u093e\u0924\u094d\u092e\u093e_\u091c\u094d\u092f\u094b\u0924\u093f\u092c\u093e_\u092b\u0941\u0932\u0947",
         "#KasturbaGandhi",
-        "#SmackDown",
-        "#SocialReformer",
         "#\u0950_\u0936\u0902_\u0936\u0928\u0948\u0936\u094d\u091a\u0930\u093e\u092f_\u0928\u092e\u0903",
-        "#SaturdayVibes",
-        "#SaturdayMotivation",
-        "#Go_Big_With_SevEn"
+        "#SmackDown",
+        "#ArtemisII",
+        "#SocialReformer",
+        "#WorldParkinsonsDay",
+        "#NationalSafeMotherhoodDay"
       ],
       "regular_topics": [
         "\u092e\u0939\u093e\u0928 \u0938\u092e\u093e\u091c",
-        "\u0915\u0938\u094d\u0924\u0942\u0930\u092c\u093e \u0917\u093e\u0902\u0927\u0940",
         "\u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "\u0915\u0938\u094d\u0924\u0942\u0930\u092c\u093e \u0917\u093e\u0902\u0927\u0940",
         "\u0928\u093e\u0930\u0940 \u0936\u093f\u0915\u094d\u0937\u093e",
-        "\u0917\u0941\u0930\u0941\u0915\u0941\u0932 \u0936\u093f\u0915\u094d\u0937\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u092e\u0939\u093f\u0932\u093e \u0936\u093f\u0915\u094d\u0937\u093e",
         "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
         "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u092b\u0941\u0932\u0947",
-        "\u0935\u093f\u091a\u093e\u0930 \u0936\u0941\u0926\u094d\u0927",
-        "Saint Gurmeet Ram Rahim"
+        "\u0917\u0941\u0930\u0941\u0915\u0941\u0932 \u0936\u093f\u0915\u094d\u0937\u093e",
+        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940",
+        "\u0938\u092e\u093e\u091c \u0938\u0941\u0927\u093e\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 11 2026 03:24:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 05:08:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Artemis II",
         "Girona",
+        "Artemis II",
         "Kenya",
         "INEC",
         "#BuildWithYou",
         "#Jesusmynumberone",
         "Love God",
-        "Mbappe",
         "Amupitan",
-        "#SmackDown",
-        "Bayelsa"
+        "Mbappe",
+        "Bayelsa",
+        "#SmackDown"
       ],
       "hashtags": [
         "#BuildWithYou",
         "#Jesusmynumberone",
         "#SmackDown",
-        "#HappyBirthdayDex",
-        "#gloyoutubebundle"
+        "#gloyoutubebundle",
+        "#HappyBirthdayDex"
       ],
       "regular_topics": [
-        "Artemis II",
         "Girona",
+        "Artemis II",
         "Kenya",
         "INEC",
         "Love God",
-        "Mbappe",
         "Amupitan",
+        "Mbappe",
         "Bayelsa",
         "Liverpool",
-        "Lebanon",
-        "Rashford"
+        "Barcelona",
+        "Lebanon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
