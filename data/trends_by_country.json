@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-04-11T07:41:22.048315+00:00",
+  "generated_at_utc": "2026-04-11T08:29:12.945725+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 11 2026 06:42:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 11 2026 07:33:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#sabchella",
         "#Coachella",
@@ -13,30 +13,30 @@
         "#SmackDown",
         "WILL FERRELL",
         "Andy Pages",
-        "Holy Sheets",
-        "Susan Sarandon",
+        "#LeeCronin",
+        "HOLY SHEETS",
         "Edwin Diaz",
-        "SUGAR TALKING"
+        "Susan Sarandon"
       ],
       "hashtags": [
         "#sabchella",
         "#Coachella",
         "#SmackDown",
-        "#DragRace",
-        "#OPLive"
+        "#LeeCronin",
+        "#Go_Big_With_SevEN"
       ],
       "regular_topics": [
         "Max Muncy",
         "Swalwell",
         "WILL FERRELL",
         "Andy Pages",
-        "Holy Sheets",
-        "Susan Sarandon",
+        "HOLY SHEETS",
         "Edwin Diaz",
-        "SUGAR TALKING",
-        "SUCH A FUNNY WAY",
+        "Susan Sarandon",
         "Artemis II",
-        "Fang Fang"
+        "Fang Fang",
+        "SUGAR TALKING",
+        "SUCH A FUNNY WAY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
