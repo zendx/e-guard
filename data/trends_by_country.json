@@ -1,39 +1,41 @@
 {
-  "generated_at_utc": "2026-04-12T10:27:16.500136+00:00",
+  "generated_at_utc": "2026-04-12T11:04:18.827970+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 12 2026 09:44:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 10:37:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BIEBERCHELLA",
+        "Good Sunday",
         "#UFC327",
-        "Jiri",
         "#WithYou",
+        "Jiri",
         "SWAG",
-        "FAVORITE GIRL",
         "Tems",
+        "FAVORITE GIRL",
         "Ulberg",
-        "BEAUTY AND A BEAT",
-        "NEVER SAY NEVER",
-        "Hokit"
+        "Beauty and a Beat",
+        "NEVER SAY NEVER"
       ],
       "hashtags": [
         "#BIEBERCHELLA",
         "#UFC327",
         "#WithYou",
+        "#GAWINFSINSHENZHEN",
         "#Toonami",
-        "#GAWINFSINSHENZHEN"
+        "#TAEMCHELLA",
+        "#BTS_WORLDTOUR_ARIRANG"
       ],
       "regular_topics": [
+        "Good Sunday",
         "Jiri",
         "SWAG",
-        "FAVORITE GIRL",
         "Tems",
+        "FAVORITE GIRL",
         "Ulberg",
-        "BEAUTY AND A BEAT",
+        "Beauty and a Beat",
         "NEVER SAY NEVER",
-        "Hokit",
         "Yukon",
         "Hailey",
         "ALL THAT MATTERS"
@@ -121,26 +123,29 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Apr 12 2026 10:00:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 10:51:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AshaBhosle",
         "\u0906\u0936\u093e \u092d\u094b\u0938\u0932\u0947",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0902\u0917\u0940\u0924",
         "\u0906\u0936\u093e \u0924\u093e\u0908",
-        "#HaarKumar",
-        "#UnnatKrishiMahotsav2026",
-        "#BhoyOutBhorosaIn",
+        "#LSGvsGT",
+        "#AwesomeNightography",
+        "#GalaxyA57",
         "\u092c\u094d\u0930\u0940\u091a \u0915\u0948\u0902\u0921\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
         "Rest in Peace",
-        "92 in Mumbai",
-        "\u0915\u0932\u093e \u091c\u0917\u0924"
+        "\u0915\u0932\u093e \u091c\u0917\u0924",
+        "Samsung"
       ],
       "hashtags": [
         "#AshaBhosle",
-        "#HaarKumar",
+        "#LSGvsGT",
+        "#AwesomeNightography",
+        "#GalaxyA57",
         "#UnnatKrishiMahotsav2026",
-        "#BhoyOutBhorosaIn",
-        "#FamilyBlockBusterBiker"
+        "#IndianMusic",
+        "#HaarKumar",
+        "#BhoyOutBhorosaIn"
       ],
       "regular_topics": [
         "\u0906\u0936\u093e \u092d\u094b\u0938\u0932\u0947",
@@ -148,11 +153,11 @@
         "\u0906\u0936\u093e \u0924\u093e\u0908",
         "\u092c\u094d\u0930\u0940\u091a \u0915\u0948\u0902\u0921\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
         "Rest in Peace",
-        "92 in Mumbai",
         "\u0915\u0932\u093e \u091c\u0917\u0924",
-        "\u0905\u0928\u092e\u094b\u0932 \u0927\u0930\u094b\u0939\u0930",
+        "Samsung",
         "\u0930\u093e\u0923\u093e \u0938\u093e\u0902\u0917\u093e",
-        "Lata",
+        "\u0936\u093f\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939 \u091a\u094c\u0939\u093e\u0928",
+        "\u0905\u0928\u092e\u094b\u0932 \u0927\u0930\u094b\u0939\u0930",
         "\u092e\u0927\u0941\u0930 \u0938\u094d\u0935\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,38 +165,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Apr 12 2026 09:56:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 10:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Justin Bieber",
         "Coachella",
+        "Justin Bieber",
         "Chelsea",
         "Essence",
         "Tems",
         "#WholsBurgerboi",
         "Union Berlin",
+        "Gumbody",
         "Church",
         "Today is Sunday",
-        "Marie-Louise Eta",
-        "Blessed Sunday"
+        "Obochella"
       ],
       "hashtags": [
         "#WholsBurgerboi",
         "#CHEMCI",
-        "#SundayService",
-        "#UFC327"
+        "#SundayService"
       ],
       "regular_topics": [
-        "Justin Bieber",
         "Coachella",
+        "Justin Bieber",
         "Chelsea",
         "Essence",
         "Tems",
         "Union Berlin",
+        "Gumbody",
         "Church",
         "Today is Sunday",
-        "Marie-Louise Eta",
-        "Blessed Sunday",
-        "Gumbody"
+        "Obochella",
+        "Blessed Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
