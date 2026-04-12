@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-12T11:04:18.827970+00:00",
+  "generated_at_utc": "2026-04-12T11:52:23.083543+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -45,24 +45,24 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Apr 12 2026 10:09:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 11:01:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbclaurak",
         "#FuryMakhmudov",
         "Bournemouth",
-        "#UFC327",
         "Arsenal",
-        "#BIEBERCHELLA",
+        "#UFC327",
+        "#bbclaurak",
         "Arteta",
+        "#BIEBERCHELLA",
         "Benn",
         "#ARSBOU",
         "Grand National",
-        "Tice"
+        "Rory"
       ],
       "hashtags": [
-        "#bbclaurak",
         "#FuryMakhmudov",
         "#UFC327",
+        "#bbclaurak",
         "#BIEBERCHELLA",
         "#ARSBOU"
       ],
@@ -72,35 +72,35 @@
         "Arteta",
         "Benn",
         "Grand National",
-        "Tice",
         "Rory",
         "Spain",
-        "Wes Streeting",
-        "Asha Bhosle",
-        "Chagos"
+        "Tice",
+        "Chagos",
+        "I Am Maximus",
+        "Coachella"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Apr 12 2026 10:06:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 10:57:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BIEBERCHELLA",
         "#UFC327",
+        "#BIEBERCHELLA",
         "#Coachella",
         "Jiri",
         "Spain",
         "Ireland",
+        "Tems",
         "Rory",
-        "Hage",
-        "#GoSensGo",
+        "hage",
         "SWAG",
         "Arsenal"
       ],
       "hashtags": [
-        "#BIEBERCHELLA",
         "#UFC327",
+        "#BIEBERCHELLA",
         "#Coachella",
         "#GoSensGo",
         "#Keep_Boycotting_BELIFT"
@@ -109,14 +109,14 @@
         "Jiri",
         "Spain",
         "Ireland",
+        "Tems",
         "Rory",
-        "Hage",
+        "hage",
         "SWAG",
         "Arsenal",
         "Lauer",
         "Islamabad",
-        "New World Order",
-        "Pakistan"
+        "New World Order"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -165,19 +165,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Apr 12 2026 10:48:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 11:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coachella",
         "Justin Bieber",
         "Chelsea",
+        "#WholsBurgerboi",
         "Essence",
         "Tems",
-        "#WholsBurgerboi",
+        "Afro",
+        "Church",
         "Union Berlin",
         "Gumbody",
-        "Church",
-        "Today is Sunday",
-        "Obochella"
+        "Today is Sunday"
       ],
       "hashtags": [
         "#WholsBurgerboi",
@@ -190,12 +190,12 @@
         "Chelsea",
         "Essence",
         "Tems",
+        "Afro",
+        "Church",
         "Union Berlin",
         "Gumbody",
-        "Church",
         "Today is Sunday",
-        "Obochella",
-        "Blessed Sunday"
+        "Obochella"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
