@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-04-12T17:56:31.027696+00:00",
+  "generated_at_utc": "2026-04-12T18:35:08.140130+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 12 2026 16:44:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 17:36:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Sergio",
-        "Masters Sunday",
-        "Casper",
+        "Jayda",
+        "Chelsea",
+        "Cherki",
+        "Phil Garner",
+        "Scrap Iron",
+        "Arsenal",
+        "#CHEMCI",
         "#HEAL_THE_GAP_BELIFT",
-        "Justin Bieber",
         "#OUR_BOND_IS_7",
-        "Sinner",
-        "Good Sunday",
-        "Tottenham",
-        "Alcaraz",
-        "#CHEMCI"
+        "Masters Sunday",
+        "Casper"
       ],
       "hashtags": [
+        "#CHEMCI",
         "#HEAL_THE_GAP_BELIFT",
         "#OUR_BOND_IS_7",
-        "#CHEMCI",
         "#SeductiveSunday",
-        "#NUFC"
+        "#AEWDynasty"
       ],
       "regular_topics": [
-        "Sergio",
+        "Jayda",
+        "Chelsea",
+        "Cherki",
+        "Phil Garner",
+        "Scrap Iron",
+        "Arsenal",
         "Masters Sunday",
         "Casper",
         "Justin Bieber",
-        "Sinner",
-        "Good Sunday",
-        "Tottenham",
-        "Alcaraz",
-        "Toph",
-        "All 20",
-        "Brobbey"
+        "Sergio",
+        "Rosenior"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Apr 12 2026 17:09:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 18:00:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "#CHEMCI",
         "Cherki",
+        "Arsenal",
         "Spurs",
+        "Man City",
         "#NUFC",
-        "Romero",
-        "Howe",
-        "Nico O'Reilly",
-        "Rodri",
-        "Brobbey",
-        "Doku"
+        "Rosenior",
+        "Caicedo",
+        "Guehi",
+        "Romero"
       ],
       "hashtags": [
         "#CHEMCI",
         "#NUFC",
-        "#SUNTOT",
-        "#SAFC",
-        "#THFC"
+        "#BlueCoOut",
+        "#MCFC",
+        "#SAFC"
       ],
       "regular_topics": [
         "Chelsea",
         "Cherki",
+        "Arsenal",
         "Spurs",
-        "Romero",
-        "Howe",
-        "Nico O'Reilly",
-        "Rodri",
-        "Brobbey",
-        "Doku",
+        "Man City",
+        "Rosenior",
         "Caicedo",
-        "Guehi"
+        "Guehi",
+        "Romero",
+        "Nico O'Reilly",
+        "Howe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Apr 12 2026 17:06:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 17:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UFC327",
         "Chelsea",
+        "#UFC327",
         "Coachella",
         "#BIEBERCHELLA",
+        "Arsenal",
         "Cherki",
         "#CHEMCI",
-        "Arsenal",
         "Jiri",
-        "#CFMTL",
         "New World Order",
-        "Reinbacher"
+        "#CFMTL",
+        "Ireland"
       ],
       "hashtags": [
         "#UFC327",
@@ -106,54 +106,54 @@
       "regular_topics": [
         "Chelsea",
         "Coachella",
-        "Cherki",
         "Arsenal",
+        "Cherki",
         "Jiri",
         "New World Order",
-        "Reinbacher",
         "Ireland",
-        "Strait",
+        "Reinbacher",
         "Dobson",
-        "Hage"
+        "Arteta",
+        "Rosenior"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Apr 12 2026 16:57:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 12 2026 17:51:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MIvsRCB",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_\u0915\u093e_\u0935\u093f\u0936\u094d\u0935\u0915\u094b_\u0938\u0902\u0926\u0947\u0936",
         "Sant RampalJi YtChannel",
-        "Kohli",
-        "Rajat Patidar",
-        "Mumbai Indians",
-        "Wankhede",
+        "Hardik",
         "#OUR_BOND_IS_7",
         "#HEAL_THE_GAP_BELIFT",
-        "Phil Salt",
-        "Jitesh"
+        "Kohli",
+        "Mumbai Indians",
+        "Wankhede",
+        "Rajat Patidar",
+        "Suyash Sharma"
       ],
       "hashtags": [
         "#MIvsRCB",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_\u0915\u093e_\u0935\u093f\u0936\u094d\u0935\u0915\u094b_\u0938\u0902\u0926\u0947\u0936",
         "#OUR_BOND_IS_7",
         "#HEAL_THE_GAP_BELIFT",
-        "#ipl20206"
+        "#CHEMCI"
       ],
       "regular_topics": [
         "Sant RampalJi YtChannel",
+        "Hardik",
         "Kohli",
-        "Rajat Patidar",
         "Mumbai Indians",
         "Wankhede",
+        "Rajat Patidar",
+        "Suyash Sharma",
+        "Tilak",
+        "Chelsea",
         "Phil Salt",
-        "Jitesh",
-        "Hardik",
-        "\u0915\u092c\u0940\u0930 \u0938\u0947\u0920",
-        "Dhruva Sarja",
-        "Santner"
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
