@@ -1,49 +1,54 @@
 {
-  "generated_at_utc": "2026-04-13T10:58:43.159085+00:00",
+  "generated_at_utc": "2026-04-13T12:00:20.976130+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 13 2026 10:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 11:03:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Karol G",
         "Pope",
-        "#BANGCHELLA",
-        "#Stick_With_You",
         "Good Monday",
+        "Karol G",
+        "#Stick_With_You",
+        "#BANGCHELLA",
+        "Catholic",
         "TXT STICK WITH YOU OUT NOW",
-        "#BIGBANG",
+        "#MondayMotivation",
+        "Blasphemy",
         "#euphoria",
-        "Still Life",
-        "#AEWDynasty",
-        "Becky G"
+        "#BIGBANG"
       ],
       "hashtags": [
-        "#BANGCHELLA",
         "#Stick_With_You",
-        "#BIGBANG",
+        "#BANGCHELLA",
+        "#MondayMotivation",
         "#euphoria",
-        "#AEWDynasty"
+        "#BIGBANG",
+        "#AEWDynasty",
+        "#OUR_BOND_IS_7",
+        "#HEAL_THE_GAP_BELIFT",
+        "#lamansi\u00f3nvip",
+        "#BaddiesUSAReunion"
       ],
       "regular_topics": [
-        "Karol G",
         "Pope",
         "Good Monday",
+        "Karol G",
+        "Catholic",
         "TXT STICK WITH YOU OUT NOW",
+        "Blasphemy",
+        "Antichrist",
         "Still Life",
         "Becky G",
-        "Blasphemy",
-        "Catholics",
-        "Antichrist",
         "Wisin",
-        "Smiling Friends"
+        "Papa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 13 2026 10:36:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 11:30:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hungary",
         "Rory",
@@ -54,14 +59,14 @@
         "#TheMasters",
         "Chelsea",
         "#NUFC",
-        "Pope",
-        "Brobbey"
+        "Brobbey",
+        "Hungarian"
       ],
       "hashtags": [
         "#TheMasters",
         "#NUFC",
-        "#popmaster",
         "#AEWDynasty",
+        "#thismorning",
         "#CHEMCI"
       ],
       "regular_topics": [
@@ -72,9 +77,9 @@
         "Romero",
         "Arsenal",
         "Chelsea",
-        "Pope",
         "Brobbey",
         "Hungarian",
+        "Pope",
         "Brexit"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,7 +87,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 13 2026 10:33:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 11:27:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hungary",
         "#AEWDynasty",
@@ -91,10 +96,10 @@
         "#euphoria",
         "Pope",
         "Rory",
+        "Good Monday",
         "#TheMasters",
-        "Hungarian",
         "#BANGCHELLA",
-        "Reinbacher"
+        "Hungarian"
       ],
       "hashtags": [
         "#AEWDynasty",
@@ -109,12 +114,12 @@
         "Coachella",
         "Pope",
         "Rory",
+        "Good Monday",
         "Hungarian",
-        "Reinbacher",
         "Christine Fr\u00e9chette",
+        "Reinbacher",
         "Justin Bieber",
-        "Magyar",
-        "New World Order"
+        "Magyar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,25 +165,26 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 13 2026 10:22:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 11:15:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Week",
         "#MondayMotivation",
-        "#CardingForNigeria",
+        "Happy New Week",
+        "$RAVE",
         "Pope",
         "Slowly",
-        "#AWBFA26",
-        "$RAVE",
-        "Leeds",
-        "From Pharisee to Tax Collector",
+        "#CardingForNigeria",
         "Corner",
+        "Mama G",
+        "Leeds",
+        "Tunde",
         "#RenewedHope"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#CardingForNigeria",
-        "#AWBFA26",
         "#RenewedHope",
+        "#AWBFA26",
+        "#FUNAABFYB26",
         "#BadBunny",
         "#GGMU",
         "#MAXIMUSISAYEAROLDER",
@@ -186,16 +192,16 @@
       ],
       "regular_topics": [
         "Happy New Week",
+        "$RAVE",
         "Pope",
         "Slowly",
-        "$RAVE",
-        "Leeds",
-        "From Pharisee to Tax Collector",
         "Corner",
-        "AND THE LORD REVERSED IT",
-        "Bugatti",
-        "On a Monday",
-        "Tunde"
+        "Mama G",
+        "Leeds",
+        "Tunde",
+        "5 Bugatti",
+        "From Pharisee to Tax Collector",
+        "On a Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
