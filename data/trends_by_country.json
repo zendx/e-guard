@@ -1,52 +1,52 @@
 {
-  "generated_at_utc": "2026-04-13T15:51:42.815234+00:00",
+  "generated_at_utc": "2026-04-13T16:51:44.299707+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 13 2026 14:32:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 15:24:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pope",
         "Catholic",
-        "Good Monday",
         "Vatican",
+        "Good Monday",
         "#MondayMotivation",
         "David Axelrod",
-        "#Todo11TieneSu13",
+        "Nick Adams",
         "Antichrist",
-        "Truth Social",
         "Blasphemy",
-        "Paula White"
+        "Paula White",
+        "Gospel"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#Todo11TieneSu13",
         "#MondayVibes",
         "#SwiftDay",
-        "#WNBADraft"
+        "#TheView"
       ],
       "regular_topics": [
         "Pope",
         "Catholic",
-        "Good Monday",
         "Vatican",
+        "Good Monday",
         "David Axelrod",
+        "Nick Adams",
         "Antichrist",
-        "Truth Social",
         "Blasphemy",
         "Paula White",
-        "Nick Adams",
-        "Trump as Jesus"
+        "Gospel",
+        "Truth Social"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 13 2026 14:57:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 15:51:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$BULL",
         "Hungary",
+        "$BULL",
         "Rory",
         "Orban",
         "Spurs",
@@ -65,8 +65,8 @@
         "#bbcdn"
       ],
       "regular_topics": [
-        "$BULL",
         "Hungary",
+        "$BULL",
         "Rory",
         "Orban",
         "Spurs",
@@ -82,25 +82,25 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 13 2026 14:54:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 16:39:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hungary",
         "Pope",
         "Orban",
-        "#AEWDynasty",
         "Coachella",
-        "#euphoria",
+        "#AEWDynasty",
         "Rory",
+        "#euphoria",
         "Christine Fr\u00e9chette",
         "Hungarian",
-        "Tina Yazdani",
-        "#BANGCHELLA"
+        "#BIEBERCHELLA",
+        "Katy Perry"
       ],
       "hashtags": [
         "#AEWDynasty",
         "#euphoria",
+        "#BIEBERCHELLA",
         "#BANGCHELLA",
-        "#bieberchella",
         "#OUR_BOND_IS_7"
       ],
       "regular_topics": [
@@ -111,92 +111,88 @@
         "Rory",
         "Christine Fr\u00e9chette",
         "Hungarian",
-        "Tina Yazdani",
-        "Reinbacher",
         "Katy Perry",
-        "Magyar"
+        "New World Order",
+        "Magyar",
+        "Trudeau"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 13 2026 15:39:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 16:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HMAmitShah",
         "#SRHvsRR",
+        "Praful Hinge",
+        "#HMAmitShah",
+        "#Votefor_DMK",
         "Ishan Kishan",
         "Radhika",
         "#ThimmarajupalliTV",
-        "#AngryChefKapoor",
+        "RCB 49",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "Abhishek Sharma",
-        "#DiyaKumariWithNariShakti",
-        "Jofra Archer",
-        "Travis Head"
+        "Rajasthan Royals",
+        "MKS 2.0"
       ],
       "hashtags": [
-        "#HMAmitShah",
         "#SRHvsRR",
+        "#HMAmitShah",
+        "#Votefor_DMK",
         "#ThimmarajupalliTV",
-        "#AngryChefKapoor",
-        "#DiyaKumariWithNariShakti",
-        "#AnantAmbani",
-        "#GodNightMonday",
-        "#RaathuRaasan",
         "#OurFutureIsPerfectWITH7"
       ],
       "regular_topics": [
+        "Praful Hinge",
         "Ishan Kishan",
         "Radhika",
+        "RCB 49",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
+        "Rajasthan Royals",
+        "MKS 2.0",
+        "Riyan Parag",
         "Abhishek Sharma",
-        "Jofra Archer",
-        "Travis Head",
-        "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
-        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
-        "Noida",
-        "Salil Arora",
-        "Deputy CM Diya Kumari"
+        "Jadeja",
+        "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 13 2026 15:36:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 16:28:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Arsenal",
+        "#GloTalkmasta606",
         "Happy New Week",
         "Coachella",
-        "#chemci",
-        "Man City",
-        "$RAVE",
+        "#CHEMCI",
         "Pope",
+        "$RAVE",
+        "Man City",
         "Justin Bieber",
-        "Etihad",
-        "Manchester City"
+        "Etihad"
       ],
       "hashtags": [
-        "#chemci",
+        "#GloTalkmasta606",
+        "#CHEMCI",
         "#MondayMotivation",
-        "#CardingForNigeria",
         "#FUNAABFYB26",
-        "#AWBFA26"
+        "#CardingForNigeria"
       ],
       "regular_topics": [
         "Chelsea",
         "Arsenal",
         "Happy New Week",
         "Coachella",
-        "Man City",
-        "$RAVE",
         "Pope",
+        "$RAVE",
+        "Man City",
         "Justin Bieber",
         "Etihad",
         "Manchester City",
-        "Arteta"
+        "Cherki"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
