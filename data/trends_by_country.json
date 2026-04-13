@@ -1,198 +1,201 @@
 {
-  "generated_at_utc": "2026-04-13T09:15:41.727661+00:00",
+  "generated_at_utc": "2026-04-13T10:58:43.159085+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 13 2026 08:27:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 10:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Karol G",
-        "#BANGCHELLA",
         "Pope",
-        "#euphoria",
+        "#BANGCHELLA",
+        "#Stick_With_You",
+        "Good Monday",
+        "TXT STICK WITH YOU OUT NOW",
         "#BIGBANG",
-        "#AEWDynasty",
-        "Becky G",
+        "#euphoria",
         "Still Life",
-        "Wisin",
-        "Smiling Friends",
-        "Antichrist"
+        "#AEWDynasty",
+        "Becky G"
       ],
       "hashtags": [
         "#BANGCHELLA",
-        "#euphoria",
+        "#Stick_With_You",
         "#BIGBANG",
-        "#AEWDynasty",
-        "#lamansi\u00f3nvip"
+        "#euphoria",
+        "#AEWDynasty"
       ],
       "regular_topics": [
         "Karol G",
         "Pope",
-        "Becky G",
+        "Good Monday",
+        "TXT STICK WITH YOU OUT NOW",
         "Still Life",
-        "Wisin",
-        "Smiling Friends",
-        "Antichrist",
+        "Becky G",
         "Blasphemy",
-        "Darby",
-        "Daesung",
-        "Cassie"
+        "Catholics",
+        "Antichrist",
+        "Wisin",
+        "Smiling Friends"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 13 2026 08:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 10:36:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hungary",
         "Rory",
-        "Spurs",
         "Orban",
+        "Spurs",
+        "Romero",
         "Arsenal",
         "#TheMasters",
         "Chelsea",
         "#NUFC",
-        "Romero",
         "Pope",
-        "#AEWDynasty"
+        "Brobbey"
       ],
       "hashtags": [
         "#TheMasters",
         "#NUFC",
+        "#popmaster",
         "#AEWDynasty",
-        "#CHEMCI",
-        "#SunTot"
+        "#CHEMCI"
       ],
       "regular_topics": [
         "Hungary",
         "Rory",
-        "Spurs",
         "Orban",
+        "Spurs",
+        "Romero",
         "Arsenal",
         "Chelsea",
-        "Romero",
         "Pope",
         "Brobbey",
         "Hungarian",
-        "Sunderland"
+        "Brexit"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 13 2026 08:51:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 10:33:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hungary",
         "#AEWDynasty",
         "Orban",
         "Coachella",
-        "#BANGCHELLA",
         "#euphoria",
-        "Rory",
         "Pope",
+        "Rory",
         "#TheMasters",
         "Hungarian",
-        "Still Life"
+        "#BANGCHELLA",
+        "Reinbacher"
       ],
       "hashtags": [
         "#AEWDynasty",
-        "#BANGCHELLA",
         "#euphoria",
         "#TheMasters",
+        "#BANGCHELLA",
         "#OUR_BOND_IS_7"
       ],
       "regular_topics": [
         "Hungary",
         "Orban",
         "Coachella",
-        "Rory",
         "Pope",
+        "Rory",
         "Hungarian",
-        "Still Life",
         "Reinbacher",
         "Christine Fr\u00e9chette",
         "Justin Bieber",
-        "Karol G"
+        "Magyar",
+        "New World Order"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 13 2026 07:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 10:27:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AIADMKaatchi_Makkalaatchi",
-        "#KisanMahaKumbhRaisen",
-        "#BharataVarsha",
+        "#MereMahavir",
         "Own Galaxy A37 5G",
-        "#SaveRajasthanFpo",
+        "#AIADMKaatchi_Makkalaatchi",
+        "#BJPInTMCOut",
+        "#AwesomeIsForEveryone",
         "#Sciencebasedstandards",
+        "Pak Failed Peace Talk",
         "\u091c\u0932\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u093e \u092c\u093e\u0917",
-        "FPOs",
-        "Title Glimpse",
         "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f \u0935\u0902\u0926\u0928 \u0938\u092e\u094d\u092e\u0947\u0932\u0928",
-        "Saga of Shula"
+        "TXT STICK WITH YOU OUT NOW",
+        "BBL Madhukar"
       ],
       "hashtags": [
+        "#MereMahavir",
         "#AIADMKaatchi_Makkalaatchi",
-        "#KisanMahaKumbhRaisen",
-        "#BharataVarsha",
-        "#SaveRajasthanFpo",
+        "#BJPInTMCOut",
+        "#AwesomeIsForEveryone",
         "#Sciencebasedstandards"
       ],
       "regular_topics": [
         "Own Galaxy A37 5G",
+        "Pak Failed Peace Talk",
         "\u091c\u0932\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u093e \u092c\u093e\u0917",
-        "FPOs",
-        "Title Glimpse",
         "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f \u0935\u0902\u0926\u0928 \u0938\u092e\u094d\u092e\u0947\u0932\u0928",
-        "Saga of Shula",
-        "\u0909\u0928\u094d\u0928\u0924 \u0915\u0943\u0937\u093f",
-        "EMIs",
-        "Unnat Krishi Mahotsav",
-        "Hungary",
-        "\u0936\u094d\u0930\u0940\u092e\u0924\u0940 \u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
+        "TXT STICK WITH YOU OUT NOW",
+        "BBL Madhukar",
+        "\u0905\u0936\u094b\u0915 \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935",
+        "\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u092d\u0935\u0928",
+        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
+        "Romi Bhinder",
+        "Unnat Krishi Mahotsav"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 13 2026 08:36:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 10:22:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chelsea",
-        "Arsenal",
-        "Amen",
         "Happy New Week",
-        "#CHEMCI",
-        "Coachella",
+        "#MondayMotivation",
         "#CardingForNigeria",
+        "Pope",
+        "Slowly",
         "#AWBFA26",
-        "Manchester City",
-        "Justin Bieber",
-        "Arteta"
+        "$RAVE",
+        "Leeds",
+        "From Pharisee to Tax Collector",
+        "Corner",
+        "#RenewedHope"
       ],
       "hashtags": [
-        "#CHEMCI",
+        "#MondayMotivation",
         "#CardingForNigeria",
         "#AWBFA26",
-        "#MondayMotivation",
-        "#NSPPD"
+        "#RenewedHope",
+        "#BadBunny",
+        "#GGMU",
+        "#MAXIMUSISAYEAROLDER",
+        "#OMOKTP"
       ],
       "regular_topics": [
-        "Chelsea",
-        "Arsenal",
-        "Amen",
         "Happy New Week",
-        "Coachella",
-        "Manchester City",
-        "Justin Bieber",
-        "Arteta",
-        "Etihad",
-        "GM CT",
-        "Tottenham"
+        "Pope",
+        "Slowly",
+        "$RAVE",
+        "Leeds",
+        "From Pharisee to Tax Collector",
+        "Corner",
+        "AND THE LORD REVERSED IT",
+        "Bugatti",
+        "On a Monday",
+        "Tunde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
