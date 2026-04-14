@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-13T23:05:56.687465+00:00",
+  "generated_at_utc": "2026-04-14T00:03:13.567378+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 13 2026 22:21:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 13 2026 23:13:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Red Cross",
         "Jesus",
+        "#WNBADraft",
+        "Coach Mac",
         "Pope",
         "DoorDash",
         "Leeds",
-        "Catholic",
-        "Carrick",
-        "Yoro",
-        "Ugarte",
-        "Josh Naylor",
-        "Eric Swalwell"
+        "Eric Swalwell",
+        "Ketel Marte",
+        "#LightningStrikes",
+        "Vatican"
       ],
       "hashtags": [
-        "#RHOM",
-        "#MUFC",
+        "#WNBADraft",
         "#LightningStrikes",
         "#OurFutureIsPerfectWITH7",
-        "#BELIFT_Boycott_Continues"
+        "#BELIFT_Boycott_Continues",
+        "#OlandriaxBrandonBlackwood"
       ],
       "regular_topics": [
         "Red Cross",
         "Jesus",
+        "Coach Mac",
         "Pope",
         "DoorDash",
         "Leeds",
-        "Catholic",
+        "Eric Swalwell",
+        "Ketel Marte",
+        "Vatican",
         "Carrick",
-        "Yoro",
-        "Ugarte",
-        "Josh Naylor",
-        "Eric Swalwell"
+        "Tony Gonzales"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
