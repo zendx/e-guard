@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-15T21:10:34.983159+00:00",
+  "generated_at_utc": "2026-04-15T22:06:54.951090+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 15 2026 19:48:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 20:44:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Neuer",
+        "Bayern",
         "Arda Guler",
+        "Live Nation",
+        "#BTEMailbag",
         "Harry Kane",
         "Lunin",
-        "Tyler Wells",
-        "Bayern",
-        "Real Madrid",
         "Tax Day",
         "Thragg",
-        "Jackie Robinson",
-        "#OurHomeIsWithSevEN"
+        "Tyler Wells",
+        "Jackie Robinson"
       ],
       "hashtags": [
-        "#OurHomeIsWithSevEN",
+        "#BTEMailbag",
         "#BAYRMA",
-        "#FelizCumplea\u00f1osDiosdado",
-        "#SFB16",
-        "#HalaMadrid"
+        "#OurHomeIsWithSevEN",
+        "#BELIFT_Financial_Boycott",
+        "#SFB16"
       ],
       "regular_topics": [
         "Neuer",
+        "Bayern",
         "Arda Guler",
+        "Live Nation",
         "Harry Kane",
         "Lunin",
-        "Tyler Wells",
-        "Bayern",
-        "Real Madrid",
         "Tax Day",
         "Thragg",
+        "Tyler Wells",
         "Jackie Robinson",
-        "$BIRD"
+        "Luis Diaz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
