@@ -1,68 +1,70 @@
 {
-  "generated_at_utc": "2026-04-15T10:49:44.694530+00:00",
+  "generated_at_utc": "2026-04-15T11:44:29.781974+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 15 2026 09:12:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 10:56:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#DUMBMONEY",
+        "$LOL",
+        "Good Wednesday",
+        "Hump Day",
+        "Happy Hump",
         "Deni",
         "Suns",
-        "Blazers",
         "Devin Booker",
-        "Jalen Green",
-        "Dillon Brooks",
         "Erika",
-        "Coby White",
-        "Lamelo",
-        "#RipCity",
-        "Jardine"
+        "Blazers",
+        "Tax Day"
       ],
       "hashtags": [
-        "#RipCity",
+        "#DUMBMONEY",
         "#Our_7_Are_One_In_A_Billion",
-        "#DaredevilBornAgain",
         "#BELIFT_Face_Boycott",
-        "#4Elements"
+        "#DaredevilBornAgain",
+        "#RipCity",
+        "#NBAPlayIn",
+        "#NXTRevenge"
       ],
       "regular_topics": [
+        "$LOL",
+        "Good Wednesday",
+        "Hump Day",
+        "Happy Hump",
         "Deni",
         "Suns",
-        "Blazers",
         "Devin Booker",
-        "Jalen Green",
-        "Dillon Brooks",
         "Erika",
-        "Coby White",
-        "Lamelo",
-        "Jardine",
-        "Hornets"
+        "Blazers",
+        "Tax Day",
+        "Dillon Brooks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 15 2026 10:32:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 11:24:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$LOL",
         "#DUMBMONEY",
+        "#PMQs",
+        "$LOL",
         "#LIVPSG",
+        "#borderlessbanking",
         "Barca",
-        "#BorderlessBanking",
         "#JFT97",
         "Isak",
         "Pope",
         "$BULL",
-        "Achilles",
-        "Carrick"
+        "Sarwar"
       ],
       "hashtags": [
         "#DUMBMONEY",
+        "#PMQs",
         "#LIVPSG",
-        "#BorderlessBanking",
-        "#JFT97",
-        "#jeremyvine"
+        "#borderlessbanking",
+        "#JFT97"
       ],
       "regular_topics": [
         "$LOL",
@@ -70,11 +72,11 @@
         "Isak",
         "Pope",
         "$BULL",
+        "Sarwar",
         "Achilles",
         "Carrick",
         "Leeds",
-        "Sarwar",
-        "Hillsborough",
+        "Offord",
         "Ekitike"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,16 +84,16 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 15 2026 09:36:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 11:20:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Explore Concrete",
         "Hoffman",
         "Varland",
         "Pope",
         "Carney",
-        "Terrebonne",
-        "Coby White",
         "DeFi",
+        "Terrebonne",
+        "COBY WHITE",
         "Lamelo",
         "Pierre",
         "#Our_7_Are_One_In_A_Billion"
@@ -100,7 +102,8 @@
         "#Our_7_Are_One_In_A_Billion",
         "#BELIFT_Face_Boycott",
         "#PortfolioDay",
-        "#LIVPSG"
+        "#CinemaCon",
+        "#WWENXT"
       ],
       "regular_topics": [
         "Explore Concrete",
@@ -108,89 +111,89 @@
         "Varland",
         "Pope",
         "Carney",
-        "Terrebonne",
-        "Coby White",
         "DeFi",
+        "Terrebonne",
+        "COBY WHITE",
         "Lamelo",
         "Pierre",
-        "Hornets"
+        "Concrete Vaults"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 15 2026 09:28:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 10:19:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BhoothBanglaTomorrow",
         "#CashfreeStartupAwards",
-        "#MakkalWithModi",
-        "#MatriShaktiBhorosaCard",
         "#vivoT5Pro",
-        "#\u0928\u0930\u094b\u0924\u094d\u0924\u092e_\u092e\u093f\u0936\u094d\u0930\u093e",
+        "#TrustAIADMK",
+        "#MakkalWithModi",
         "Cashfree Payments",
         "\u092a\u094d\u0930\u0938\u093e\u0926 \u092f\u093e\u0926\u0935",
         "\u0905\u0936\u094b\u0915 \u092e\u093f\u0924\u094d\u0924\u0932",
+        "9020 mAh",
         "One of a Kind Startup Awards",
-        "\u0936\u094d\u0930\u0940 \u0935\u093f\u091c\u092f \u0915\u0941\u092e\u093e\u0930 \u091a\u094c\u0927\u0930\u0940",
-        "Happy Vishu"
+        "\u0936\u094d\u092f\u093e\u092e \u092a\u094d\u0930\u0915\u093e\u0936"
       ],
       "hashtags": [
+        "#BhoothBanglaTomorrow",
         "#CashfreeStartupAwards",
-        "#MakkalWithModi",
-        "#MatriShaktiBhorosaCard",
         "#vivoT5Pro",
-        "#\u0928\u0930\u094b\u0924\u094d\u0924\u092e_\u092e\u093f\u0936\u094d\u0930\u093e"
+        "#TrustAIADMK",
+        "#MakkalWithModi"
       ],
       "regular_topics": [
         "Cashfree Payments",
         "\u092a\u094d\u0930\u0938\u093e\u0926 \u092f\u093e\u0926\u0935",
         "\u0905\u0936\u094b\u0915 \u092e\u093f\u0924\u094d\u0924\u0932",
+        "9020 mAh",
         "One of a Kind Startup Awards",
+        "\u0936\u094d\u092f\u093e\u092e \u092a\u094d\u0930\u0915\u093e\u0936",
         "\u0936\u094d\u0930\u0940 \u0935\u093f\u091c\u092f \u0915\u0941\u092e\u093e\u0930 \u091a\u094c\u0927\u0930\u0940",
-        "Happy Vishu",
         "\u092a\u0902\u091c\u093e\u092c \u0938\u0930\u0915\u093e\u0930",
         "\u0905\u092d\u092f \u0938\u093f\u0902\u0939",
-        "\u0938\u092e\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940",
         "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0915\u093e\u0938",
-        "\u0915\u0902\u091a\u0928\u093e \u092f\u093e\u0926\u0935"
+        "Happy Vishu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 15 2026 09:24:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 10:16:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Barca",
-        "Pooja",
         "Ademola Lookman",
+        "Pooja",
         "#CardingForNaija",
-        "Lamine Yamal",
         "#iDICEStartupBridge",
+        "Lamine Yamal",
         "Aang",
         "#ATMBAR",
-        "IPOB",
         "Pope",
-        "#AWBFA26"
+        "Korra",
+        "Pedri"
       ],
       "hashtags": [
         "#CardingForNaija",
         "#iDICEStartupBridge",
         "#ATMBAR",
-        "#AWBFA26",
+        "#GloUnlimitedData",
         "#LIVPSG"
       ],
       "regular_topics": [
         "Barca",
-        "Pooja",
         "Ademola Lookman",
+        "Pooja",
         "Lamine Yamal",
         "Aang",
-        "IPOB",
         "Pope",
         "Korra",
         "Pedri",
-        "Amen",
+        "IPOB",
+        "Kounde",
         "Leeds"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
