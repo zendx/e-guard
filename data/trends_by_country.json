@@ -1,59 +1,59 @@
 {
-  "generated_at_utc": "2026-04-15T23:05:54.737710+00:00",
+  "generated_at_utc": "2026-04-16T00:03:02.757727+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 15 2026 21:37:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 22:30:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Camavinga",
-        "Real Madrid",
+        "Madrid",
         "Olise",
         "Vini",
         "Luis Diaz",
-        "Neuer",
+        "Haitians",
         "Arbeloa",
-        "Lunin",
+        "Neuer",
         "Live Nation",
-        "#BTEMailbag",
-        "Arda Guler"
+        "Thragg",
+        "#BTEMailbag"
       ],
       "hashtags": [
         "#BTEMailbag",
-        "#ChampionsLeague",
-        "#BAYRMA",
         "#OurHomeIsWithSevEN",
+        "#LightningStrikes",
+        "#Podermania",
         "#BELIFT_Financial_Boycott"
       ],
       "regular_topics": [
         "Camavinga",
-        "Real Madrid",
+        "Madrid",
         "Olise",
         "Vini",
         "Luis Diaz",
-        "Neuer",
+        "Haitians",
         "Arbeloa",
-        "Lunin",
+        "Neuer",
         "Live Nation",
-        "Arda Guler",
-        "Harry Kane"
+        "Thragg",
+        "Lunin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 15 2026 22:56:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 23:48:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bayern",
         "Olise",
         "Camavinga",
         "#BAYRMA",
-        "Diaz",
         "Thogden",
+        "Diaz",
         "#ARSSPO",
-        "Harry Kane",
         "Sporting",
+        "Harry Kane",
         "Champions League",
         "Mbappe"
       ],
@@ -62,111 +62,105 @@
         "#ARSSPO",
         "#FairDealForWednesday",
         "#COYG",
-        "#Corrie"
+        "#corrie"
       ],
       "regular_topics": [
         "Bayern",
         "Olise",
         "Camavinga",
-        "Diaz",
         "Thogden",
-        "Harry Kane",
+        "Diaz",
         "Sporting",
+        "Harry Kane",
         "Champions League",
         "Mbappe",
-        "Trent",
-        "Vini"
+        "Vini",
+        "Neuer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 15 2026 22:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 23:45:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Camavinga",
-        "Madrid",
-        "Pope",
-        "Olise",
         "Explore Concrete",
-        "Vini",
+        "Pope",
         "Hoffman",
+        "Madrid",
         "Carney",
         "Sudan",
-        "Arsenal",
-        "Varland"
+        "Olise",
+        "Varland",
+        "Luis Diaz",
+        "Vini"
       ],
       "hashtags": [
         "#BAYRMA",
-        "#BELIFT_Financial_Boycott",
-        "#OurHomeIsWithSevEN",
         "#BELIFT_Face_Boycott",
-        "#Our_7_Are_One_In_A_Billion"
+        "#Our_7_Are_One_In_A_Billion",
+        "#OurHomeIsWithSevEN",
+        "#PortfolioDay"
       ],
       "regular_topics": [
         "Camavinga",
-        "Madrid",
-        "Pope",
-        "Olise",
         "Explore Concrete",
-        "Vini",
+        "Pope",
         "Hoffman",
+        "Madrid",
         "Carney",
         "Sudan",
-        "Arsenal",
-        "Varland"
+        "Olise",
+        "Varland",
+        "Luis Diaz",
+        "Vini"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 15 2026 22:44:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 23:36:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Madrid",
-        "Bayern",
-        "Camavinga",
-        "#championskicharcha",
-        "Vini",
-        "Mbappe",
-        "#BAYRMA",
-        "Luis Diaz",
         "#RCBvsLSG",
-        "Olise",
-        "Neuer"
+        "Camavinga",
+        "#RealMadrid",
+        "\u0938\u092e\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940",
+        "Bayern",
+        "#vivot5pro",
+        "#Delimitation",
+        "#bhoothbanglatomorrow",
+        "Mbappe",
+        "Happy Vishu",
+        "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930"
       ],
       "hashtags": [
-        "#championskicharcha",
-        "#BAYRMA",
         "#RCBvsLSG",
-        "#OurHomeIsWithSevEN",
-        "#BELIFT_Financial_Boycott",
-        "#ARSSPO",
-        "#ChampionsLeague",
-        "#FCBRMA",
-        "#COYG",
-        "#WeStandWithAP",
-        "#EnsureSafetyforAP"
+        "#RealMadrid",
+        "#vivot5pro",
+        "#Delimitation",
+        "#bhoothbanglatomorrow"
       ],
       "regular_topics": [
-        "Madrid",
-        "Bayern",
         "Camavinga",
-        "Vini",
+        "\u0938\u092e\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940",
+        "Bayern",
         "Mbappe",
+        "Happy Vishu",
+        "\u092d\u0940\u092e\u0930\u093e\u0935 \u0905\u0902\u092c\u0947\u0921\u0915\u0930",
         "Luis Diaz",
-        "Olise",
         "Neuer",
-        "Arda Guler",
-        "Arbeloa",
-        "Harry Kane"
+        "Olise",
+        "\u092a\u094d\u0930\u0938\u093e\u0926 \u092f\u093e\u0926\u0935",
+        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 15 2026 22:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 15 2026 23:33:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Madrid",
         "Camavinga",
@@ -177,15 +171,15 @@
         "Arda Guler",
         "Diaz",
         "Harry Kane",
-        "Arbeloa",
-        "Champions League"
+        "Haram",
+        "Arbeloa"
       ],
       "hashtags": [
         "#BAYRMA",
         "#ARSSPO",
         "#COYG",
-        "#FCBRMA",
-        "#ARSSCP"
+        "#mara\u015f",
+        "#FCBRMA"
       ],
       "regular_topics": [
         "Madrid",
@@ -196,9 +190,9 @@
         "Arda Guler",
         "Diaz",
         "Harry Kane",
+        "Haram",
         "Arbeloa",
-        "Champions League",
-        "Haram"
+        "Champions League"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
