@@ -1,81 +1,86 @@
 {
-  "generated_at_utc": "2026-04-17T20:32:44.270666+00:00",
+  "generated_at_utc": "2026-04-17T21:30:32.504151+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 17 2026 19:06:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 17 2026 20:51:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RAM900",
         "Senga",
-        "Garret Anderson",
-        "Paige",
         "Ruke",
-        "#FursuitFriday",
-        "Strait of Iran",
+        "PRAGMATA RTX",
+        "Sue Bird",
+        "Billy the Kid",
+        "Garret Anderson",
         "#ECHOES_Of_sevEN",
-        "Claude Design",
-        "Jacoby Brissett",
-        "Figma",
-        "Mo Baller"
+        "Ian Happ",
+        "Nico Hoerner",
+        "Paige"
       ],
       "hashtags": [
-        "#FursuitFriday",
+        "#RAM900",
         "#ECHOES_Of_sevEN",
-        "#ACTIONGamble",
-        "#WrldonLucha",
-        "#OnlyFriendsDreamOnEP8"
+        "#WrestleMania",
+        "#FursuitFriday",
+        "#ACTIONGamble"
       ],
       "regular_topics": [
         "Senga",
-        "Garret Anderson",
-        "Paige",
         "Ruke",
-        "Strait of Iran",
-        "Claude Design",
-        "Jacoby Brissett",
-        "Figma",
-        "Mo Baller",
+        "PRAGMATA RTX",
+        "Sue Bird",
+        "Billy the Kid",
+        "Garret Anderson",
+        "Ian Happ",
         "Nico Hoerner",
-        "Nikki Bella"
+        "Paige",
+        "Claude Design",
+        "Jacob Webb"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 17 2026 20:21:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 17 2026 21:15:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mandelson",
+        "Coventry",
         "#TOTP",
-        "Starmer",
-        "Robbins",
+        "Frank Lampard",
+        "#PUSB",
         "#imaceleb",
-        "Mandy",
-        "Coldplay",
-        "Mandleson",
-        "Foreign Office",
-        "Prime Minister",
-        "Boris"
+        "Bobby Thomas",
+        "Super Frank",
+        "#CCFC",
+        "#BLACOV",
+        "Blackburn",
+        "Chips"
       ],
       "hashtags": [
         "#TOTP",
+        "#PUSB",
         "#imaceleb",
+        "#CCFC",
+        "#BLACOV",
+        "#Rovers",
+        "#hignfy",
         "#gardenersworld",
         "#ModernizeClassicLit",
-        "#PUSB"
+        "#WrestleMania"
       ],
       "regular_topics": [
-        "Mandelson",
-        "Starmer",
-        "Robbins",
-        "Mandy",
-        "Coldplay",
-        "Mandleson",
-        "Foreign Office",
-        "Prime Minister",
-        "Boris",
-        "FCDO",
-        "Epsom"
+        "Coventry",
+        "Frank Lampard",
+        "Bobby Thomas",
+        "Super Frank",
+        "Blackburn",
+        "Chips",
+        "Chido Obi",
+        "David Haye",
+        "JJ Gabriel",
+        "FA Youth Cup",
+        "Paige"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,14 +126,14 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Apr 17 2026 20:12:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 17 2026 21:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WomenVsDMK",
         "#AntiWomenAlliance",
         "#GTvsKKR",
         "\u092e\u0939\u093f\u0932\u093e \u0935\u093f\u0930\u094b\u0927\u0940",
         "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
-        "#TNWillFightTNWillWin",
+        "#ECHOES_Of_sevEN",
         "Shubman Gill",
         "Women's Reservation Bill",
         "Opposition",
@@ -140,7 +145,7 @@
         "#AntiWomenAlliance",
         "#GTvsKKR",
         "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
-        "#TNWillFightTNWillWin"
+        "#ECHOES_Of_sevEN"
       ],
       "regular_topics": [
         "\u092e\u0939\u093f\u0932\u093e \u0935\u093f\u0930\u094b\u0927\u0940",
@@ -150,10 +155,10 @@
         "Rahane",
         "Delimitation",
         "Cameron Green",
+        "Claude Design",
         "\u092e\u0939\u093f\u0932\u093e \u092c\u093f\u0932",
-        "Lok Sabha",
         "\u092c\u093f\u0932 \u0917\u093f\u0930",
-        "INDI"
+        "Lok Sabha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
