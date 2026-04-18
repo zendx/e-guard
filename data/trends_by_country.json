@@ -1,203 +1,198 @@
 {
-  "generated_at_utc": "2026-04-18T18:46:37.435018+00:00",
+  "generated_at_utc": "2026-04-18T19:32:09.322459+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 18 2026 17:48:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 18:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#LetEmKnow",
-        "Joe Rogan",
         "Cavs",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e15\u0e2d\u0e19\u0e08\u0e1a",
+        "#LetEmKnow",
+        "Xavi Simons",
+        "Joe Rogan",
         "Scottie Barnes",
-        "#RSD2026",
-        "Guatemala",
-        "DUANG WITH YOU FINAL EP",
-        "Jarrett Allen",
         "Happy Birthday James",
-        "Mitoma"
+        "Tottenham",
+        "Danso",
+        "Ben Rice",
+        "Brandon Ingram",
+        "Brighton"
       ],
       "hashtags": [
         "#LetEmKnow",
         "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e15\u0e2d\u0e19\u0e08\u0e1a",
-        "#RSD2026",
+        "#TOTBHA",
         "#WrestleMania",
-        "#Voices_for_SevEN"
+        "#RSD2026"
       ],
       "regular_topics": [
-        "Joe Rogan",
         "Cavs",
+        "Xavi Simons",
+        "Joe Rogan",
         "Scottie Barnes",
-        "Guatemala",
-        "DUANG WITH YOU FINAL EP",
-        "Jarrett Allen",
         "Happy Birthday James",
-        "Mitoma",
-        "Ibogaine",
+        "Tottenham",
+        "Danso",
+        "Ben Rice",
         "Brandon Ingram",
-        "Miggy"
+        "Brighton",
+        "Guatemala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 18 2026 18:12:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 19:03:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mitoma",
         "Brighton",
         "Xavi Simons",
-        "#NUFC",
+        "Danso",
         "#TOTBHA",
+        "Mitoma",
         "Van Hecke",
-        "Howe",
+        "#NUFC",
         "#TOTBRI",
-        "Porro",
+        "Rutter",
         "#COYS",
-        "FULL TIME"
+        "#Spurs"
       ],
       "hashtags": [
-        "#NUFC",
         "#TOTBHA",
+        "#NUFC",
         "#TOTBRI",
         "#COYS",
-        "#wwfc"
+        "#Spurs"
       ],
       "regular_topics": [
-        "Mitoma",
         "Brighton",
         "Xavi Simons",
+        "Danso",
+        "Mitoma",
         "Van Hecke",
-        "Howe",
-        "Porro",
-        "FULL TIME",
+        "Rutter",
+        "De Zerbi",
         "Delap",
-        "Leicester",
-        "Joao Pedro",
-        "Alan Smith"
+        "Howe",
+        "Wolves",
+        "Porro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 18 2026 18:09:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 19:00:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WeTheNorth",
+        "Raptors",
+        "Xavi Simons",
         "Shead",
         "#SB19",
         "Lutnick",
-        "Raptors",
-        "#WaSTheFinale",
-        "Scottie",
-        "#WrestleMania",
-        "Charter",
         "Darko",
-        "#WWEHOF"
+        "#WaSTheFinale",
+        "#CFMTL",
+        "Jakob Poeltl",
+        "#WrestleMania"
       ],
       "hashtags": [
         "#WeTheNorth",
         "#SB19",
         "#WaSTheFinale",
-        "#WrestleMania",
-        "#WWEHOF"
+        "#CFMTL",
+        "#WrestleMania"
       ],
       "regular_topics": [
+        "Raptors",
+        "Xavi Simons",
         "Shead",
         "Lutnick",
-        "Raptors",
+        "Darko",
+        "Jakob Poeltl",
+        "Danso",
+        "Max Strus",
         "Scottie",
         "Charter",
-        "Darko",
-        "AJ Lawson",
-        "Tony Brothers",
-        "Cavs",
-        "Ibogaine",
-        "Jakob Poeltl"
+        "Cavs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 18 2026 18:00:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 18:54:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SRHvsCSK",
         "Dube",
         "Ayush",
+        "Rutu",
+        "Urvil",
+        "Sakib Hussain",
+        "Matt Short",
+        "Overton",
         "#staraikelungal",
         "#ENGENEs_Boycott_BELIFT",
-        "#Voices_for_SevEN",
-        "Overton",
-        "Matthew Short",
-        "Matt Short",
-        "#RCBvsDC",
-        "Livingstone"
+        "#Voices_for_SevEN"
       ],
       "hashtags": [
         "#SRHvsCSK",
         "#staraikelungal",
         "#ENGENEs_Boycott_BELIFT",
         "#Voices_for_SevEN",
-        "#RCBvsDC"
+        "#iplindia2026"
       ],
       "regular_topics": [
         "Dube",
         "Ayush",
+        "Rutu",
+        "Urvil",
+        "Sakib Hussain",
+        "Matt Short",
         "Overton",
         "Matthew Short",
-        "Matt Short",
-        "Livingstone",
-        "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
-        "OIDC",
-        "Anshul Kamboj",
-        "Abhishek Sharma",
-        "DUANG WITH YOU FINAL EP"
+        "Eshan Malinga",
+        "Fleming",
+        "Praful"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 18 2026 17:57:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 18:51:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mitoma",
-        "Brighton",
-        "Joao Pedro",
-        "GOD I NEED",
-        "Delap",
-        "Sowore",
+        "Tottenham",
         "Xavi Simons",
-        "#JetourNigeria",
-        "Pedro Porro",
-        "Union Berlin",
-        "#TOTBHA"
+        "Spurs",
+        "Delap",
+        "Joao Pedro",
+        "#CHEMUN",
+        "#TOTBHA",
+        "Danso",
+        "Relegation",
+        "GOD I NEED",
+        "Mitoma"
       ],
       "hashtags": [
-        "#JetourNigeria",
-        "#TOTBHA",
         "#CHEMUN",
+        "#TOTBHA",
+        "#JetourNigeria",
         "#PixelArt",
-        "#Mustachios",
-        "#OnChain",
-        "#NEWBOU",
-        "#LEEWOL",
-        "#LoveYouTeacherSeriesEP6",
-        "#CopaDelReyOnStarTimes"
+        "#Mustachios"
       ],
       "regular_topics": [
-        "Mitoma",
-        "Brighton",
-        "Joao Pedro",
-        "GOD I NEED",
-        "Delap",
-        "Sowore",
+        "Tottenham",
         "Xavi Simons",
-        "Pedro Porro",
-        "Union Berlin",
-        "Chelsea 2",
-        "Wolves"
+        "Spurs",
+        "Delap",
+        "Joao Pedro",
+        "Danso",
+        "Relegation",
+        "GOD I NEED",
+        "Mitoma",
+        "Sowore",
+        "De Zerbi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
