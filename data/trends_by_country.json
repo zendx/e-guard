@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-04-18T09:36:08.492288+00:00",
+  "generated_at_utc": "2026-04-18T10:28:55.411491+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 18 2026 08:10:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 09:01:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#sabchella",
         "#WWEHOF",
@@ -12,31 +12,31 @@
         "#JJSBX",
         "Madonna",
         "Steve Kerr",
-        "Warriors",
+        "#LISACHELLA",
         "Suns",
+        "Warriors",
         "Steph",
-        "AJ Styles",
-        "Like a Prayer"
+        "Draymond"
       ],
       "hashtags": [
         "#sabchella",
         "#WWEHOF",
         "#JJSBX",
-        "#SmackDown",
-        "#WWEHallOfFame"
+        "#LISACHELLA",
+        "#WaSTheFinale"
       ],
       "regular_topics": [
         "Jalen Green",
         "Madonna",
         "Steve Kerr",
-        "Warriors",
         "Suns",
+        "Warriors",
         "Steph",
+        "Draymond",
         "AJ Styles",
+        "Anyma",
         "Like a Prayer",
-        "TERRY CREWS",
-        "Dennis Rodman",
-        "Anyma"
+        "Dennis Rodman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
