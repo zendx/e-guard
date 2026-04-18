@@ -1,151 +1,157 @@
 {
-  "generated_at_utc": "2026-04-18T22:20:48.478067+00:00",
+  "generated_at_utc": "2026-04-18T22:59:45.739861+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 18 2026 21:16:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 22:08:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jamal Murray",
         "#WrestleMania",
-        "Garnacho",
+        "Jamal Murray",
         "Julius Randle",
-        "Chelsea",
+        "Jokic",
+        "Rudy Gobert",
+        "#UFCWinnipeg",
+        "Jaden McDaniels",
         "Nuggets",
         "Aaron Gordon",
-        "Mike Conley",
-        "Wolves",
-        "Rudy Gobert",
-        "Bruce Brown"
+        "Real Sociedad",
+        "Wolves"
       ],
       "hashtags": [
         "#WrestleMania",
-        "#EffyBGB",
-        "#LetEmKnow",
-        "#CHEMUN",
-        "#ATOBTTR"
+        "#UFCWinnipeg",
+        "#SoundTheSiren",
+        "#TexasHockey",
+        "#mnwild"
       ],
       "regular_topics": [
         "Jamal Murray",
-        "Garnacho",
         "Julius Randle",
-        "Chelsea",
+        "Jokic",
+        "Rudy Gobert",
+        "Jaden McDaniels",
         "Nuggets",
         "Aaron Gordon",
-        "Mike Conley",
+        "Real Sociedad",
         "Wolves",
-        "Rudy Gobert",
-        "Bruce Brown",
-        "Cavs"
+        "Garnacho",
+        "Chelsea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 18 2026 21:42:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 22:33:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WrestleMania",
         "Chelsea",
         "Garnacho",
         "#CHEMUN",
         "#MUFC",
-        "Bruno Fernandes",
         "Mainoo",
         "Rosenior",
         "Ayden Heaven",
-        "Cunha",
-        "Spurs",
-        "Brighton"
+        "Bruno Fernandes",
+        "Speed",
+        "Cunha"
       ],
       "hashtags": [
+        "#WrestleMania",
         "#CHEMUN",
         "#MUFC",
-        "#Casualty",
-        "#BlueCoOut",
-        "#WrestleMania"
+        "#UFCWinnipeg",
+        "#Casualty"
       ],
       "regular_topics": [
         "Chelsea",
         "Garnacho",
-        "Bruno Fernandes",
         "Mainoo",
         "Rosenior",
         "Ayden Heaven",
+        "Bruno Fernandes",
+        "Speed",
         "Cunha",
-        "Spurs",
-        "Brighton",
-        "Delap",
-        "Dalot"
+        "Logan Paul",
+        "John Cena",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 18 2026 21:39:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 22:31:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chelsea",
+        "#WrestleMania",
         "Ullmark",
-        "Garnacho",
         "#GoSensGo",
-        "#CHEMUN",
-        "Brady",
-        "#CFMTL",
+        "Chelsea",
         "Carolina",
-        "#SoundTheSiren",
         "Andersen",
-        "Raptors"
+        "Brady",
+        "Garnacho",
+        "#UFCWinnipeg",
+        "#CHEMUN",
+        "#SoundTheSiren"
       ],
       "hashtags": [
-        "#GoSensGo",
-        "#CHEMUN",
-        "#CFMTL",
-        "#SoundTheSiren",
-        "#NHLPlayoffs",
-        "#MUFC",
-        "#WeTheNorth",
-        "#UFCWinnipeg",
         "#WrestleMania",
-        "#TFCLive"
+        "#GoSensGo",
+        "#UFCWinnipeg",
+        "#CHEMUN",
+        "#SoundTheSiren",
+        "#CFMTL",
+        "#mnwild",
+        "#TexasHockey",
+        "#MUFC",
+        "#NHLPlayoffs",
+        "#WeTheNorth"
       ],
       "regular_topics": [
-        "Chelsea",
         "Ullmark",
-        "Garnacho",
-        "Brady",
+        "Chelsea",
         "Carolina",
         "Andersen",
-        "Raptors",
-        "Carrick",
+        "Brady",
+        "Garnacho",
         "Canes",
-        "Cunha",
-        "Scottie"
+        "Logan Paul",
+        "Game 1",
+        "Raptors",
+        "Cunha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 18 2026 21:30:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 22:21:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SRHvsCSK",
         "#CHEMUN",
+        "#SRHvsCSK",
         "Dube",
         "Garnacho",
         "#MUFC",
         "Chelsea",
+        "#WrestleMania",
         "Rutu",
         "#Voices_for_SevEN",
-        "#ENGENEs_Boycott_BELIFT",
         "Ayush",
-        "Urvil"
+        "Bruno Fernandes"
       ],
       "hashtags": [
-        "#SRHvsCSK",
         "#CHEMUN",
+        "#SRHvsCSK",
         "#MUFC",
+        "#WrestleMania",
         "#Voices_for_SevEN",
-        "#ENGENEs_Boycott_BELIFT"
+        "#ENGENEs_Boycott_BELIFT",
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e15\u0e2d\u0e19\u0e08\u0e1a",
+        "#YouManiacSeriesQ6",
+        "#OrangeArmy",
+        "#Modi"
       ],
       "regular_topics": [
         "Dube",
@@ -153,11 +159,11 @@
         "Chelsea",
         "Rutu",
         "Ayush",
-        "Urvil",
-        "Cunha",
         "Bruno Fernandes",
-        "DUANG WITH YOU FINAL EP",
         "Carrick",
+        "Cunha",
+        "Urvil",
+        "DUANG WITH YOU FINAL EP",
         "Stamford Bridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -165,39 +171,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 18 2026 21:27:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 22:19:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
-        "Garnacho",
         "#CHEMUN",
+        "Real Sociedad",
         "Bruno Fernandes",
-        "Cunha",
-        "#GGMU",
-        "Stamford Bridge",
         "Liam Rosenior",
         "Ayden Heaven",
-        "Kobbie Mainoo",
-        "Tottenham"
+        "#GGMU",
+        "Stamford Bridge",
+        "Cunha",
+        "Mainoo",
+        "Palmer"
       ],
       "hashtags": [
         "#CHEMUN",
         "#GGMU",
         "#MUFC",
-        "#CHEMNU",
-        "#PremierLeague"
+        "#WrestleMania",
+        "#CHEMNU"
       ],
       "regular_topics": [
         "Chelsea",
-        "Garnacho",
+        "Real Sociedad",
         "Bruno Fernandes",
-        "Cunha",
-        "Stamford Bridge",
         "Liam Rosenior",
         "Ayden Heaven",
-        "Kobbie Mainoo",
-        "Tottenham",
+        "Stamford Bridge",
+        "Cunha",
+        "Mainoo",
         "Palmer",
-        "Hato"
+        "Copa del Rey",
+        "Dalot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
