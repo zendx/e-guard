@@ -1,45 +1,47 @@
 {
-  "generated_at_utc": "2026-04-18T11:53:40.116278+00:00",
+  "generated_at_utc": "2026-04-18T12:32:43.731270+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Apr 18 2026 10:48:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 11:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MerloFC",
-        "#NIKKETTStar",
-        "#NIKKEAnniversary",
         "Good Saturday",
-        "#WWEHOF",
-        "#sabchella",
-        "Jalen Green",
+        "#NIKKEAnniversary",
+        "#NIKKETTStar",
+        "#LoveYouTeacherSeriesEP6",
+        "Seek the Lord",
+        "SB19 TrilogyConcert Finale",
         "Madonna",
-        "Whale - Buy",
-        "Steph",
-        "Warriors"
+        "#WaSTheFinale",
+        "Jalen Green",
+        "Whale - Buy"
       ],
       "hashtags": [
         "#MerloFC",
-        "#NIKKETTStar",
         "#NIKKEAnniversary",
+        "#NIKKETTStar",
+        "#LoveYouTeacherSeriesEP6",
+        "#WaSTheFinale",
+        "#WakasAtSimula",
         "#WWEHOF",
         "#sabchella",
-        "#JJSBX",
-        "#WaSTheFinale",
         "#LISACHELLA",
-        "#WakasAtSimula"
+        "#JJSBX",
+        "#RSD2026"
       ],
       "regular_topics": [
         "Good Saturday",
-        "Jalen Green",
+        "Seek the Lord",
+        "SB19 TrilogyConcert Finale",
         "Madonna",
+        "Jalen Green",
         "Whale - Buy",
-        "Steph",
+        "The Atlantic",
         "Warriors",
+        "Kerr",
         "AJ Styles",
-        "Steve Kerr",
-        "Draymond",
-        "Like a Prayer",
         "Suns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -47,7 +49,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Apr 18 2026 11:15:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 12:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mandelson",
         "Starmer",
@@ -56,17 +58,17 @@
         "Robbins",
         "Frank Lampard",
         "Coldplay",
-        "#FPLCommunity",
+        "#bcafc",
         "Mandy",
-        "#saturdaykitchen",
-        "MATCH DAY"
+        "#Caturday",
+        "Mandleson"
       ],
       "hashtags": [
         "#PUSB",
-        "#FPLCommunity",
-        "#saturdaykitchen",
+        "#bcafc",
         "#Caturday",
-        "#SmackDown"
+        "#recordstoreday",
+        "#WrestleMania"
       ],
       "regular_topics": [
         "Mandelson",
@@ -76,9 +78,9 @@
         "Frank Lampard",
         "Coldplay",
         "Mandy",
-        "MATCH DAY",
         "Mandleson",
         "Prime Minister",
+        "Boris",
         "Epsom"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -86,116 +88,116 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Apr 18 2026 11:12:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 12:04:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "SB19 TrilogyConcert Finale",
         "#WaSTheFinale",
         "Lutnick",
         "#WWEHOF",
+        "Good Saturday",
         "Rutherford",
         "Charter",
-        "#SmackDown",
         "#sabchella",
+        "#SmackDown",
         "#BINI_CoachellaWk2",
-        "Jalen Green",
-        "Fife"
+        "Jalen Green"
       ],
       "hashtags": [
         "#WaSTheFinale",
         "#WWEHOF",
-        "#SmackDown",
         "#sabchella",
+        "#SmackDown",
         "#BINI_CoachellaWk2"
       ],
       "regular_topics": [
         "SB19 TrilogyConcert Finale",
         "Lutnick",
+        "Good Saturday",
         "Rutherford",
         "Charter",
         "Jalen Green",
         "Fife",
-        "allvin",
         "Nutlick",
+        "Allvin",
         "Madonna",
-        "myles straw",
-        "sundin"
+        "Myles Straw"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Apr 18 2026 11:01:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 11:56:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NDAWithTamilNadu",
-        "#BJPAdimaiEPS",
-        "#DMKBackstabsWomen",
+        "#MajorAryaHitsBack",
+        "#RCBvsDC",
         "#DummyPiece_StalinBro",
-        "#TNsays_ByeByeStalin",
+        "#BJPAdimaiEPS",
+        "Jitesh Sharma",
+        "#BommaiStalin",
         "Himesh Reshammiya",
         "DMK and MK Stalin",
         "Axar Patel",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u0936\u093e\u0938\u0928\u093f\u0915 \u0938\u0947\u0935\u093e",
-        "Lungi Ngidi",
-        "KL Rahul"
+        "Mukesh Kumar",
+        "Dearness Relief"
       ],
       "hashtags": [
-        "#NDAWithTamilNadu",
-        "#BJPAdimaiEPS",
-        "#DMKBackstabsWomen",
+        "#MajorAryaHitsBack",
+        "#RCBvsDC",
         "#DummyPiece_StalinBro",
-        "#TNsays_ByeByeStalin"
+        "#BJPAdimaiEPS",
+        "#BommaiStalin"
       ],
       "regular_topics": [
+        "Jitesh Sharma",
         "Himesh Reshammiya",
         "DMK and MK Stalin",
         "Axar Patel",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u0936\u093e\u0938\u0928\u093f\u0915 \u0938\u0947\u0935\u093e",
-        "Lungi Ngidi",
-        "KL Rahul",
+        "Mukesh Kumar",
+        "Dearness Relief",
+        "Hinduphobic Lenskart",
+        "Dearness Allowance",
+        "Bharat Maritime Insurance Pool",
         "Resignation",
-        "FOR YOU",
-        "RAS 2024",
-        "\u092e\u0939\u093f\u0932\u093e \u0935\u093f\u0930\u094b\u0927\u0940",
-        "\u0926\u093f\u0928\u0947\u0936 \u092c\u093f\u0936\u094d\u0928\u094b\u0908"
+        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u0936\u093e\u0938\u0928\u093f\u0915 \u0938\u0947\u0935\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 18 2026 10:57:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 11:52:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dear God",
         "I NEED",
-        "Atiku",
         "JAMB",
-        "#GloUnlimitedData",
+        "#CopaDelReyOnStarTimes",
+        "Atiku",
         "Tunde",
+        "Sowore",
+        "#GloUnlimitedData",
         "#BitgetIPOPrime",
-        "Chelsea",
         "Frank Lampard",
-        "Coventry",
-        "Peter Obi"
+        "Coventry"
       ],
       "hashtags": [
+        "#CopaDelReyOnStarTimes",
         "#GloUnlimitedData",
         "#BitgetIPOPrime",
-        "#CopaDelReyOnStarTimes",
         "#CHEMUN",
-        "#lagosyouthsforsamuelajose"
+        "#AngelyBella"
       ],
       "regular_topics": [
         "Dear God",
         "I NEED",
-        "Atiku",
         "JAMB",
+        "Atiku",
         "Tunde",
-        "Chelsea",
+        "Sowore",
         "Frank Lampard",
         "Coventry",
+        "Chelsea",
         "Peter Obi",
-        "Sowore",
         "Vini"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
