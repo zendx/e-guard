@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-18T15:58:06.507244+00:00",
+  "generated_at_utc": "2026-04-18T16:34:51.150171+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Apr 18 2026 15:21:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Apr 18 2026 16:15:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "I NEED",
+        "Sowore",
         "JAMB",
         "Atiku",
-        "Sowore",
-        "Dear God",
         "Tunde",
+        "Dear God",
+        "#JetourNigeria",
         "Peter Obi",
-        "Noah Okafor",
+        "Union Berlin",
         "#CHEMUN",
-        "Coventry",
-        "Frank Lampard"
+        "Coventry"
       ],
       "hashtags": [
+        "#JetourNigeria",
         "#CHEMUN",
         "#CopaDelReyOnStarTimes",
         "#BitgetIPOPrime",
-        "#pixelart",
-        "#Mustachios"
+        "#LagosYouthsForSamuelAjose"
       ],
       "regular_topics": [
         "I NEED",
+        "Sowore",
         "JAMB",
         "Atiku",
-        "Sowore",
-        "Dear God",
         "Tunde",
+        "Dear God",
         "Peter Obi",
-        "Noah Okafor",
+        "Union Berlin",
         "Coventry",
         "Frank Lampard",
-        "Union Berlin"
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
