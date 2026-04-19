@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-19T22:59:47.086545+00:00",
+  "generated_at_utc": "2026-04-19T23:37:06.726274+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 19 2026 21:42:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 19 2026 22:34:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Brock",
+        "#WrestleMania",
+        "Gunther",
         "Xenoverse 3",
+        "Summerslam",
+        "Mets",
         "Cody Ware",
         "Reddick",
-        "Mets",
+        "The Ruler",
         "Devin Williams",
-        "#NASCAR",
-        "Dillon Brooks",
-        "larson",
-        "Michael Conforto",
-        "Arsenal",
-        "Sixers"
+        "Dillon Brooks"
       ],
       "hashtags": [
+        "#WrestleMania",
+        "#ThunderUp",
         "#NASCAR",
-        "#ATOBTTR",
         "#GoAvsGo",
-        "#LightningStrikes",
-        "#ThunderUp"
+        "#ATOBTTR"
       ],
       "regular_topics": [
+        "Brock",
+        "Gunther",
         "Xenoverse 3",
+        "Summerslam",
+        "Mets",
         "Cody Ware",
         "Reddick",
-        "Mets",
+        "The Ruler",
         "Devin Williams",
         "Dillon Brooks",
-        "larson",
-        "Michael Conforto",
-        "Arsenal",
-        "Sixers",
-        "Hoerner"
+        "Larson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
