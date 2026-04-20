@@ -1,100 +1,105 @@
 {
-  "generated_at_utc": "2026-04-20T21:35:38.641426+00:00",
+  "generated_at_utc": "2026-04-20T22:31:42.735923+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 20 2026 20:21:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 21:15:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Tim Cook",
+        "John Ternus",
         "Happy 420",
         "SNAP",
         "#thespreadsheet",
-        "Bill Simmons",
+        "Executive Chairman",
         "The Onion",
+        "Bill Simmons",
+        "$AAPL",
         "Infowars",
-        "No FISA",
-        "Drew Anderson",
-        "#VoteYesVirginia",
-        "$CAR",
-        "AJ Brown"
+        "No FISA"
       ],
       "hashtags": [
         "#thespreadsheet",
         "#VoteYesVirginia",
-        "#BuschAppleSweepstakes",
-        "#WE_ARE_FOR_sevEN",
-        "#ENHYPEN_IS_ENHYPEN"
+        "#ENHYPEN_IS_ENHYPEN",
+        "#WE_ARE_FOR_sevEN"
       ],
       "regular_topics": [
+        "Tim Cook",
+        "John Ternus",
         "Happy 420",
         "SNAP",
-        "Bill Simmons",
+        "Executive Chairman",
         "The Onion",
+        "Bill Simmons",
+        "$AAPL",
         "Infowars",
         "No FISA",
-        "Drew Anderson",
-        "$CAR",
-        "AJ Brown",
-        "Odell",
-        "Discovery"
+        "Teotihuac\u00e1n"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 20 2026 19:54:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 21:40:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WrestleMania",
-        "Gabriel",
-        "Lee Anderson",
+        "#ImACeleb",
+        "West Ham",
+        "Tim Cook",
+        "#CRYWHU",
         "#universitychallenge",
-        "Haaland",
-        "$RISE",
-        "Brennan Johnson",
-        "Starmer",
-        "Arsenal",
-        "#thechase",
-        "#MCIARS"
+        "Wolves",
+        "Bowen",
+        "Lee Anderson",
+        "Palace",
+        "Alan Smith",
+        "#wwfc"
       ],
       "hashtags": [
-        "#WrestleMania",
+        "#ImACeleb",
+        "#CRYWHU",
         "#universitychallenge",
-        "#thechase",
-        "#MCIARS",
-        "#MAFSAU"
+        "#wwfc",
+        "#WHUFC",
+        "#mastermind",
+        "#MAFSAUS",
+        "#COYI",
+        "#snooker",
+        "#Starmer",
+        "#TheChase"
       ],
       "regular_topics": [
-        "Gabriel",
+        "West Ham",
+        "Tim Cook",
+        "Wolves",
+        "Bowen",
         "Lee Anderson",
-        "Haaland",
-        "$RISE",
+        "Palace",
+        "Alan Smith",
         "Brennan Johnson",
-        "Starmer",
-        "Arsenal",
-        "Havertz",
-        "Zarah Sultana",
-        "House of Commons",
-        "Everton"
+        "Zarah",
+        "John Ternus",
+        "Darren England"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 20 2026 20:44:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 21:36:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
         "Happy 420",
+        "Tim Cook",
+        "John Ternus",
         "Luxembourg",
+        "89% of Canadians",
         "#GoHabsGo",
         "Slaf",
-        "Night 2",
         "Buffalo",
         "Brock",
-        "#bieberchella",
-        "Game 1",
-        "Anderson"
+        "Night 2"
       ],
       "hashtags": [
         "#WrestleMania",
@@ -105,16 +110,16 @@
       ],
       "regular_topics": [
         "Happy 420",
+        "Tim Cook",
+        "John Ternus",
         "Luxembourg",
+        "89% of Canadians",
         "Slaf",
-        "Night 2",
         "Buffalo",
         "Brock",
-        "Game 1",
-        "Anderson",
-        "Punk",
-        "CUSMA",
-        "Arsenal"
+        "Night 2",
+        "Apple",
+        "Game 1"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,7 +165,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 20 2026 21:25:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 22:18:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "First Nigerian",
         "Tim Cook",
@@ -168,11 +173,11 @@
         "Tunde",
         "John Ternus",
         "Arsenal",
-        "Happy New Week",
         "#MCIARS",
+        "Happy New Week",
         "Gabriel",
         "Chelsea",
-        "INEC"
+        "Louvre"
       ],
       "hashtags": [
         "#MCIARS",
@@ -191,8 +196,8 @@
         "Happy New Week",
         "Gabriel",
         "Chelsea",
-        "INEC",
-        "Apple"
+        "Louvre",
+        "INEC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
