@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-04-20T17:47:24.009425+00:00",
+  "generated_at_utc": "2026-04-20T18:47:13.315985+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 20 2026 16:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 18:36:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 420",
         "AJ Brown",
-        "Sonny Gray",
+        "Drew Anderson",
         "#BuschAppleSweepstakes",
         "Brandon Aubrey",
-        "Jack Flaherty",
-        "Discovery",
+        "Sonny Gray",
         "The Atlantic",
+        "Discovery",
+        "#VoteYesVirginia",
         "Boutte",
-        "Rodgers",
-        "#MondayMotivation"
+        "Practical Magic 2"
       ],
       "hashtags": [
         "#BuschAppleSweepstakes",
+        "#VoteYesVirginia",
+        "#thespreadsheet",
         "#MondayMotivation",
-        "#holoSerendipity",
-        "#MCMRechazadaPorLaDerecha",
-        "#GirlRulesSeriesEP6"
+        "#MCMRechazadaPorLaDerecha"
       ],
       "regular_topics": [
         "Happy 420",
         "AJ Brown",
-        "Sonny Gray",
+        "Drew Anderson",
         "Brandon Aubrey",
-        "Jack Flaherty",
-        "Discovery",
+        "Sonny Gray",
         "The Atlantic",
+        "Discovery",
         "Boutte",
-        "Rodgers",
+        "Practical Magic 2",
         "Boston Marathon",
-        "Jim Ryan"
+        "Odell Beckham Jr."
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 20 2026 17:16:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 18:08:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lee Anderson",
         "#thechase",
         "Diane Abbott",
         "House of Commons",
         "Zarah Sultana",
-        "#Starmer",
         "30p Lee",
-        "Mandelson",
+        "#Starmer",
         "Hoyle",
-        "Marco Rose",
-        "The Speaker"
+        "Mandelson",
+        "Speaker",
+        "Prime Minister"
       ],
       "hashtags": [
         "#thechase",
@@ -70,11 +70,11 @@
         "House of Commons",
         "Zarah Sultana",
         "30p Lee",
-        "Mandelson",
         "Hoyle",
+        "Mandelson",
+        "Speaker",
+        "Prime Minister",
         "Marco Rose",
-        "The Speaker",
-        "Ceanothus",
         "Kicked"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 20 2026 17:15:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 18:06:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
         "Happy 420",
@@ -93,8 +93,8 @@
         "Brock",
         "#bieberchella",
         "Game 1",
-        "Anderson",
-        "#MCIARS"
+        "#MCIARS",
+        "Anderson"
       ],
       "hashtags": [
         "#WrestleMania",
@@ -111,8 +111,8 @@
         "Brock",
         "Game 1",
         "Anderson",
-        "Arsenal",
         "Roman",
+        "Arsenal",
         "Summerslam",
         "CUSMA"
       ],
@@ -121,65 +121,65 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 20 2026 17:04:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 17:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GTvsMI",
         "#MIvsGT",
         "Tilak Varma",
+        "Mumbai Indians",
+        "Ashwani Kumar",
         "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
         "\u0924\u093f\u0932\u0915 \u0935\u0930\u094d\u092e\u093e",
-        "#DMKWinningChennai",
+        "Gujarat Titans",
         "Rutherford",
         "Naman Dhir",
-        "#LahoriChuran",
-        "From 19",
-        "First 22"
+        "#GodNightMonday"
       ],
       "hashtags": [
         "#GTvsMI",
         "#MIvsGT",
-        "#DMKWinningChennai",
-        "#LahoriChuran",
-        "#GodNightMonday"
+        "#GodNightMonday",
+        "#iplseason2026",
+        "#ThePerfectLeaderMohamed"
       ],
       "regular_topics": [
         "Tilak Varma",
+        "Mumbai Indians",
+        "Ashwani Kumar",
         "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
         "\u0924\u093f\u0932\u0915 \u0935\u0930\u094d\u092e\u093e",
+        "Gujarat Titans",
         "Rutherford",
         "Naman Dhir",
-        "From 19",
-        "First 22",
         "Glenn Phillips",
-        "Next 23",
-        "Chennai Super 6",
-        "Gujarat Titans"
+        "From 19",
+        "First 22"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 20 2026 16:09:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 17:54:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "First Nigerian",
         "Happy 420",
         "Arsenal",
-        "#MCIARS",
         "Tunde",
+        "#MCIARS",
         "Happy New Week",
         "Gabriel",
-        "#AAJSend",
-        "Oladipupo Ajayi",
+        "Chelsea",
+        "Louvre",
         "Haaland",
-        "Chelsea"
+        "#MondayMotivation"
       ],
       "hashtags": [
         "#MCIARS",
-        "#AAJSend",
-        "#iDICEStartupBridge",
         "#MondayMotivation",
-        "#WrestleMania"
+        "#AAJSend",
+        "#WrestleMania",
+        "#303NotWorking"
       ],
       "regular_topics": [
         "First Nigerian",
@@ -188,10 +188,10 @@
         "Tunde",
         "Happy New Week",
         "Gabriel",
-        "Oladipupo Ajayi",
-        "Haaland",
         "Chelsea",
         "Louvre",
+        "Haaland",
+        "Jetour Nigeria",
         "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
