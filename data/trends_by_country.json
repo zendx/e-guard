@@ -1,97 +1,97 @@
 {
-  "generated_at_utc": "2026-04-20T19:51:51.301670+00:00",
+  "generated_at_utc": "2026-04-20T20:33:30.338394+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 20 2026 18:36:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 19:30:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 420",
-        "AJ Brown",
+        "SNAP",
         "Drew Anderson",
+        "AJ Brown",
+        "Bill Simmons",
         "#BuschAppleSweepstakes",
-        "Brandon Aubrey",
+        "#thespreadsheet",
         "Sonny Gray",
         "The Atlantic",
-        "Discovery",
-        "#VoteYesVirginia",
-        "Boutte",
-        "Practical Magic 2"
+        "B. Not",
+        "Discovery"
       ],
       "hashtags": [
         "#BuschAppleSweepstakes",
-        "#VoteYesVirginia",
         "#thespreadsheet",
-        "#MondayMotivation",
-        "#MCMRechazadaPorLaDerecha"
+        "#VoteYesVirginia",
+        "#UrgentEndTimeCall",
+        "#holoSerendipity"
       ],
       "regular_topics": [
         "Happy 420",
-        "AJ Brown",
+        "SNAP",
         "Drew Anderson",
-        "Brandon Aubrey",
+        "AJ Brown",
+        "Bill Simmons",
         "Sonny Gray",
         "The Atlantic",
+        "B. Not",
         "Discovery",
-        "Boutte",
-        "Practical Magic 2",
-        "Boston Marathon",
-        "Odell Beckham Jr."
+        "Brandon Aubrey",
+        "BY A LOT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 20 2026 19:00:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 19:54:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
         "Gabriel",
         "Lee Anderson",
+        "#universitychallenge",
         "Haaland",
         "$RISE",
-        "Arsenal",
+        "Brennan Johnson",
         "Starmer",
+        "Arsenal",
         "#thechase",
-        "Zarah Sultana",
-        "Diane Abbott",
         "#MCIARS"
       ],
       "hashtags": [
         "#WrestleMania",
+        "#universitychallenge",
         "#thechase",
         "#MCIARS",
-        "#pointless",
-        "#EVELIV"
+        "#MAFSAU"
       ],
       "regular_topics": [
         "Gabriel",
         "Lee Anderson",
         "Haaland",
         "$RISE",
-        "Arsenal",
+        "Brennan Johnson",
         "Starmer",
-        "Zarah Sultana",
-        "Diane Abbott",
-        "House of Commons",
+        "Arsenal",
         "Havertz",
-        "30p Lee"
+        "Zarah Sultana",
+        "House of Commons",
+        "Everton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 20 2026 18:58:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 19:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
         "Happy 420",
         "#GoHabsGo",
         "Slaf",
-        "Buffalo",
-        "Night 2",
-        "Brock",
         "Luxembourg",
+        "Night 2",
+        "Buffalo",
+        "Brock",
         "#bieberchella",
         "Game 1",
         "Anderson"
@@ -106,15 +106,15 @@
       "regular_topics": [
         "Happy 420",
         "Slaf",
-        "Buffalo",
-        "Night 2",
-        "Brock",
         "Luxembourg",
+        "Night 2",
+        "Buffalo",
+        "Brock",
         "Game 1",
         "Anderson",
         "Roman",
-        "Arsenal",
-        "CUSMA"
+        "CUSMA",
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
