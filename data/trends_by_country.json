@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-04-20T07:08:26.928825+00:00",
+  "generated_at_utc": "2026-04-20T09:21:57.466322+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 20 2026 05:32:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 08:08:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#euphoria",
-        "#WrestleMania",
-        "Roman",
-        "Wemby",
-        "Buffalo",
-        "Night 2",
-        "Bruins",
-        "Spurs",
-        "Happy 420",
+        "#BANGCHELLA",
         "#KAROLCHELLA",
-        "Rhea"
+        "#euphoria",
+        "Happy 420",
+        "#BIGBANG",
+        "Wemby",
+        "Roman",
+        "J Balvin",
+        "Becky G",
+        "#KarolG",
+        "Buffalo"
       ],
       "hashtags": [
-        "#euphoria",
-        "#WrestleMania",
+        "#BANGCHELLA",
         "#KAROLCHELLA",
-        "#ForgedInGold",
-        "#TusksUp"
+        "#euphoria",
+        "#BIGBANG",
+        "#KarolG"
       ],
       "regular_topics": [
-        "Roman",
+        "Happy 420",
         "Wemby",
+        "Roman",
+        "J Balvin",
+        "Becky G",
         "Buffalo",
         "Night 2",
-        "Bruins",
-        "Spurs",
-        "Happy 420",
-        "Rhea",
-        "Tage Thompson",
+        "$HIGHER",
         "Sam Levinson",
-        "Pistons"
+        "WE LOVE YOU HOBI",
+        "Maddy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Apr 20 2026 06:48:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 08:34:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
         "Gabriel",
         "#MCIARS",
         "Arsenal",
         "Haaland",
-        "Havertz",
         "$RISE",
+        "Havertz",
         "Everton",
         "Night 2",
         "Brock",
-        "#EVELIV"
+        "Proud Robin"
       ],
       "hashtags": [
         "#WrestleMania",
         "#MCIARS",
         "#EVELIV",
-        "#BANGCHELLA",
-        "#MondayMotivation"
+        "#MondayMotivation",
+        "#r4today"
       ],
       "regular_topics": [
         "Gabriel",
         "Arsenal",
         "Haaland",
-        "Havertz",
         "$RISE",
+        "Havertz",
         "Everton",
         "Night 2",
         "Brock",
-        "Hogan",
-        "Donnarumma",
+        "Proud Robin",
+        "Starmer",
         "Cherki"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,26 +82,26 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Apr 20 2026 06:46:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 08:32:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WrestleMania",
-        "#GoHabsGo",
+        "#gohabsgo",
         "#BANGCHELLA",
         "Buffalo",
         "Night 2",
         "Slaf",
         "Brock",
+        "#BIGBANG",
         "Arsenal",
         "#euphoria",
-        "#BIGBANG",
         "Game 1"
       ],
       "hashtags": [
         "#WrestleMania",
-        "#GoHabsGo",
+        "#gohabsgo",
         "#BANGCHELLA",
-        "#euphoria",
-        "#BIGBANG"
+        "#BIGBANG",
+        "#euphoria"
       ],
       "regular_topics": [
         "Buffalo",
@@ -114,86 +114,85 @@
         "Oba Femi",
         "Roman",
         "Jeff Hoffman",
-        "Carter Hart"
+        "Tage Thompson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Apr 20 2026 06:39:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 08:24:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JusticeForAshokAgarwal",
+        "#SaveBiharCricket",
+        "#NDAWaveinTN",
+        "#HBDOneAndOnlyCBN",
         "#DontFoolTNAgain",
-        "#JitbeBJPJitbePoschimbongo",
-        "#VoteFor_AIADMK",
-        "#PHED_\u0920\u0947\u0915\u0947\u0926\u093e\u0930\u094b\u0902_\u0915\u0940_\u0938\u0941\u0928\u0947_\u0938\u0930\u0915\u093e\u0930",
+        "#AntiWomanTVK",
         "North Bengal",
         "\u092e\u0941\u0930\u0932\u0940 \u092e\u0928\u094b\u0939\u0930 \u091c\u094b\u0936\u0940",
-        "Namaz",
-        "Namita",
+        "Aditya Verma",
         "WE LOVE YOU HOBI",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0938\u0930\u0915\u093e\u0930"
+        "Namaz",
+        "Happy Birthday Chandrababu"
       ],
       "hashtags": [
-        "#JusticeForAshokAgarwal",
+        "#SaveBiharCricket",
+        "#NDAWaveinTN",
+        "#HBDOneAndOnlyCBN",
         "#DontFoolTNAgain",
-        "#JitbeBJPJitbePoschimbongo",
-        "#VoteFor_AIADMK",
-        "#PHED_\u0920\u0947\u0915\u0947\u0926\u093e\u0930\u094b\u0902_\u0915\u0940_\u0938\u0941\u0928\u0947_\u0938\u0930\u0915\u093e\u0930",
-        "#NDAWaveinTN"
+        "#AntiWomanTVK"
       ],
       "regular_topics": [
         "North Bengal",
         "\u092e\u0941\u0930\u0932\u0940 \u092e\u0928\u094b\u0939\u0930 \u091c\u094b\u0936\u0940",
-        "Namaz",
-        "Namita",
+        "Aditya Verma",
         "WE LOVE YOU HOBI",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0938\u0930\u0915\u093e\u0930",
-        "Grishma Ritu",
-        "Ramnagar",
-        "Rashtrapati Bhavan",
-        "Touska",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u092d\u0935\u0928"
+        "Namaz",
+        "Happy Birthday Chandrababu",
+        "Namita",
+        "Hyderabad House",
+        "Tamil Nadu",
+        "WE ARE PROUD OF YOU HOBI",
+        "Operation Sindhu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Apr 20 2026 06:33:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 20 2026 09:10:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#MCIARS",
         "Happy New Week",
         "Amen",
-        "GM CT",
         "Happy 420",
         "Gabriel",
         "#WrestleMania",
         "Haaland",
-        "Garnacho",
-        "#NRSNewNigeria"
+        "#MondayMotivation",
+        "Havertz",
+        "#SteadybyShotoo"
       ],
       "hashtags": [
         "#MCIARS",
         "#WrestleMania",
-        "#NRSNewNigeria",
         "#MondayMotivation",
-        "#CHEMUN"
+        "#SteadybyShotoo",
+        "#NSPPD"
       ],
       "regular_topics": [
         "Arsenal",
         "Happy New Week",
         "Amen",
-        "GM CT",
         "Happy 420",
         "Gabriel",
         "Haaland",
-        "Garnacho",
         "Havertz",
+        "Brock Lesnar",
         "Arteta",
-        "Brock Lesnar"
+        "GM CT",
+        "Chelsea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
