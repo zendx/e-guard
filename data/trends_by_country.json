@@ -1,79 +1,80 @@
 {
-  "generated_at_utc": "2026-04-21T21:35:07.903888+00:00",
+  "generated_at_utc": "2026-04-21T22:28:33.771435+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 21 2026 20:44:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 21:39:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "TACO Tuesday",
+        "Chelsea",
         "#CashAppFriday",
-        "Taco Tuesday",
-        "Save America Act",
-        "Oona",
+        "Rosenior",
         "Brighton",
+        "Save America Act",
         "Matt Ryan",
+        "Oona",
+        "Maresca",
         "Virginia",
-        "Payton",
-        "Game Pass",
-        "Tucker",
         "Tifa"
       ],
       "hashtags": [
         "#CashAppFriday",
         "#BHACHE",
+        "#BlueCoOut",
         "#FROM_ENGENE2ENHYPEN"
       ],
       "regular_topics": [
-        "Taco Tuesday",
-        "Save America Act",
-        "Oona",
+        "TACO Tuesday",
+        "Chelsea",
+        "Rosenior",
         "Brighton",
+        "Save America Act",
         "Matt Ryan",
+        "Oona",
+        "Maresca",
         "Virginia",
-        "Payton",
-        "Game Pass",
-        "Tucker",
         "Tifa",
-        "Call of Duty"
+        "Vote NO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Apr 21 2026 20:18:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 22:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Brighton",
-        "#BHACHE",
+        "Chelsea",
         "Rosenior",
+        "Leicester",
+        "#ImACeleb",
+        "#lcfc",
+        "#BHACHE",
+        "League One",
+        "Maresca",
         "#hcafc",
-        "#dcfc",
-        "#BRICHE",
-        "#watfordfc",
-        "Sanchez",
-        "Failed Tories",
-        "Delap",
-        "Harry Winks"
+        "#saintsfc",
+        "Jimmy Bullard"
       ],
       "hashtags": [
+        "#ImACeleb",
+        "#lcfc",
         "#BHACHE",
         "#hcafc",
-        "#dcfc",
-        "#BRICHE",
-        "#watfordfc"
+        "#saintsfc"
       ],
       "regular_topics": [
-        "Brighton",
+        "Chelsea",
         "Rosenior",
-        "Sanchez",
-        "Failed Tories",
-        "Delap",
-        "Harry Winks",
-        "Luke Thomas",
-        "Potter",
+        "Leicester",
+        "League One",
         "Maresca",
-        "Pedro Neto",
-        "Hinshelwood"
+        "Jimmy Bullard",
+        "Bromley",
+        "Danny Welbeck",
+        "League 1",
+        "Imray",
+        "Potter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
