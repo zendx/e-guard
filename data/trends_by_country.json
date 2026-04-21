@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-04-21T08:13:37.694868+00:00",
+  "generated_at_utc": "2026-04-21T09:56:03.557092+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 21 2026 07:40:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 09:24:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jokic",
-        "Rudy",
         "Tony Brothers",
+        "Rudy",
         "Nuggets",
         "Knicks",
+        "Wolves",
         "Brunson",
         "#WWERaw",
-        "CJ McCollum",
-        "Mike Brown",
         "Braun",
-        "Donte"
+        "CJ McCollum",
+        "Mike Brown"
       ],
       "hashtags": [
         "#WWERaw",
@@ -27,171 +27,175 @@
       ],
       "regular_topics": [
         "Jokic",
-        "Rudy",
         "Tony Brothers",
+        "Rudy",
         "Nuggets",
         "Knicks",
+        "Wolves",
         "Brunson",
+        "Braun",
         "CJ McCollum",
         "Mike Brown",
-        "Braun",
-        "Donte",
-        "Hawks"
+        "Donte"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Apr 21 2026 08:03:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 09:48:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Gabriel",
-        "#WrestleMania",
+        "Olly Robbins",
+        "Matthew Doyle",
         "Mandelson",
-        "#WWERaw",
-        "Lee Anderson",
-        "Starmer",
-        "#thicktrunktuesday",
-        "Haaland",
-        "West Ham",
-        "Queen Elizabeth II",
-        "Morrisons"
+        "Emily Thornberry",
+        "Sullivan",
+        "#ThickTrunkTuesday",
+        "No 10",
+        "#NationalTeaDay",
+        "#popmaster",
+        "Ena Sharples",
+        "#pollen"
       ],
       "hashtags": [
-        "#WrestleMania",
-        "#WWERaw",
-        "#thicktrunktuesday",
+        "#ThickTrunkTuesday",
+        "#NationalTeaDay",
+        "#popmaster",
+        "#pollen",
         "#r4today",
-        "#bbcbreakfast"
+        "#bbcbreakfast",
+        "#StarmerMustResign",
+        "#WWERaw"
       ],
       "regular_topics": [
-        "Gabriel",
+        "Olly Robbins",
+        "Matthew Doyle",
         "Mandelson",
-        "Lee Anderson",
-        "Starmer",
-        "Haaland",
-        "West Ham",
-        "Queen Elizabeth II",
-        "Morrisons",
-        "Arsenal",
+        "Emily Thornberry",
+        "Sullivan",
+        "No 10",
         "Ena Sharples",
-        "Diane Abbott"
+        "Queen Elizabeth II",
+        "Ed Miliband",
+        "Brady",
+        "Drill"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Apr 21 2026 08:01:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 09:46:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 420",
         "#LetsGoOilers",
         "#WWERaw",
-        "McDavid",
         "#WrestleMania",
         "Tim Cook",
-        "Jokic",
         "Brandon Ingram",
-        "Nurse",
+        "Ullmark",
         "Luxembourg",
-        "Ullmark"
+        "#bucciovertimechallenge",
+        "#GoSensGo",
+        "Dylan Cease"
       ],
       "hashtags": [
         "#LetsGoOilers",
         "#WWERaw",
         "#WrestleMania",
+        "#bucciovertimechallenge",
         "#GoSensGo"
       ],
       "regular_topics": [
         "Happy 420",
-        "McDavid",
         "Tim Cook",
-        "Jokic",
         "Brandon Ingram",
-        "Nurse",
-        "Luxembourg",
         "Ullmark",
-        "Gobert",
+        "Luxembourg",
         "Dylan Cease",
-        "Game 1"
+        "Game 1",
+        "Nurse",
+        "Carolina",
+        "Canada Post",
+        "Jokic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Apr 21 2026 07:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 09:39:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UnstoppableAIADMK",
-        "#AllVotes4TwoLeaves",
-        "#ThiruttuMuKaStalin",
+        "#DMKWinningBig",
         "#NDAwillWinTN",
+        "#RentalMental",
         "#IndiaWantsAnswer",
+        "#AllVotes4TwoLeaves",
         "87.05 Cr India",
-        "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924",
+        "Pak Sponsors Terror",
+        "Tamil Nadu",
         "Team Glacier Blue",
-        "Team Cosmic Black",
-        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e",
-        "North Bengal"
+        "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924",
+        "\u0939\u093f\u092e\u0947\u0936 \u0930\u0947\u0936\u092e\u093f\u092f\u093e"
       ],
       "hashtags": [
-        "#UnstoppableAIADMK",
-        "#AllVotes4TwoLeaves",
-        "#ThiruttuMuKaStalin",
+        "#DMKWinningBig",
         "#NDAwillWinTN",
-        "#IndiaWantsAnswer"
+        "#RentalMental",
+        "#IndiaWantsAnswer",
+        "#AllVotes4TwoLeaves"
       ],
       "regular_topics": [
         "87.05 Cr India",
-        "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924",
+        "Pak Sponsors Terror",
+        "Tamil Nadu",
         "Team Glacier Blue",
+        "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924",
+        "\u0939\u093f\u092e\u0947\u0936 \u0930\u0947\u0936\u092e\u093f\u092f\u093e",
         "Team Cosmic Black",
-        "\u0938\u093f\u0935\u093f\u0932 \u0938\u0947\u0935\u093e",
-        "North Bengal",
-        "Tim Cook",
-        "HIS REIGN",
-        "HIS SOIL",
-        "Sooraj Barjatya",
-        "\u0917\u0941\u0930\u0941 \u0936\u0902\u0915\u0930\u093e\u091a\u093e\u0930\u094d\u092f"
+        "David Warner",
+        "CBI Joint Director and ACP",
+        "Ashok Aggarwal",
+        "5K AMOLED"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Apr 21 2026 07:51:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 09:33:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "First Nigerian",
         "Tunde",
-        "Happy 420",
         "Arsenal",
-        "Amen",
-        "GM CT",
-        "#FamilyProtection",
-        "Taco Tuesday",
+        "Happy 420",
         "Tim Cook",
-        "#NSPPD",
-        "Arbitrum"
+        "#JoinADPNow",
+        "#MBH2TheTransition",
+        "Happy New Week",
+        "Louvre",
+        "Gabriel",
+        "John Ternus"
       ],
       "hashtags": [
+        "#JoinADPNow",
+        "#MBH2TheTransition",
         "#FamilyProtection",
         "#NSPPD",
-        "#MCIARS",
-        "#MondayMotivation",
-        "#JoinADPNow"
+        "#MCIARS"
       ],
       "regular_topics": [
         "First Nigerian",
         "Tunde",
-        "Happy 420",
         "Arsenal",
-        "Amen",
-        "GM CT",
-        "Taco Tuesday",
+        "Happy 420",
         "Tim Cook",
-        "Arbitrum",
         "Happy New Week",
-        "Louvre"
+        "Louvre",
+        "Gabriel",
+        "John Ternus",
+        "Taco Tuesday",
+        "Bread"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
