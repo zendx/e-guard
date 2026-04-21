@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-04-21T19:57:15.820731+00:00",
+  "generated_at_utc": "2026-04-21T20:42:29.012593+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 21 2026 19:00:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 19:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#CashAppFriday",
         "Game Pass",
-        "Virginia",
-        "Call of Duty",
-        "Chris Murphy",
+        "Matt Ryan",
         "Save America Act",
-        "Kevin Warsh",
-        "Billy Donovan",
-        "Michael",
-        "Sarcasm",
-        "Malik Mack",
-        "Matt Ryan"
+        "Virginia",
+        "Tucker",
+        "Call of Duty",
+        "Brighton",
+        "Oona",
+        "Chris Murphy",
+        "Kevin Warsh"
       ],
       "hashtags": [
-        "#pilotstwtselfieday",
-        "#AMAs",
-        "#HolinessCry",
-        "#RemoveThune"
+        "#CashAppFriday",
+        "#BHACHE",
+        "#pilotstwtselfieday"
       ],
       "regular_topics": [
         "Game Pass",
-        "Virginia",
-        "Call of Duty",
-        "Chris Murphy",
+        "Matt Ryan",
         "Save America Act",
+        "Virginia",
+        "Tucker",
+        "Call of Duty",
+        "Brighton",
+        "Oona",
+        "Chris Murphy",
         "Kevin Warsh",
-        "Billy Donovan",
-        "Michael",
-        "Sarcasm",
-        "Malik Mack",
-        "Matt Ryan"
+        "Michael"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
