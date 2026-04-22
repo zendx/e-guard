@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-22T19:58:15.631628+00:00",
+  "generated_at_utc": "2026-04-22T20:51:02.092852+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 22 2026 18:40:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 22 2026 19:32:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#EarthDay",
         "SPLC",
-        "Texas",
-        "Rocket Power",
-        "Pickens",
-        "#AllStars11",
-        "Spirit Airlines",
-        "Rep. David Scott",
-        "Stephen Jones",
         "Clayface",
-        "Storm"
+        "Pickens",
+        "Rocket Power",
+        "Spirit Airlines",
+        "#AllStars11",
+        "David Scott",
+        "Charles Johnson",
+        "Nick Martinez",
+        "Peter Lambert"
       ],
       "hashtags": [
         "#EarthDay",
         "#AllStars11",
         "#Mar\u00edaCorinaNoSer\u00e1Presidenta",
         "#NFLDraft",
-        "#NationalBeagleDay"
+        "#HYBE_CORPORATE_AUDIT"
       ],
       "regular_topics": [
         "SPLC",
-        "Texas",
-        "Rocket Power",
-        "Pickens",
-        "Spirit Airlines",
-        "Rep. David Scott",
-        "Stephen Jones",
         "Clayface",
-        "Storm",
-        "Happy Earth",
-        "CatDog"
+        "Pickens",
+        "Rocket Power",
+        "Spirit Airlines",
+        "David Scott",
+        "Charles Johnson",
+        "Nick Martinez",
+        "Peter Lambert",
+        "Ric Flair",
+        "Happy Earth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
