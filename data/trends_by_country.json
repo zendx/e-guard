@@ -1,46 +1,49 @@
 {
-  "generated_at_utc": "2026-04-21T23:55:57.096672+00:00",
+  "generated_at_utc": "2026-04-22T01:24:52.144794+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 21 2026 23:21:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 22 2026 01:06:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "SPLC",
-        "TACO Tuesday",
+        "Virginia",
+        "Fairfax",
+        "#WWENXT",
         "Southern Poverty Law Center",
+        "VJ Edgecombe",
+        "#SummerHouse",
         "Cursor",
-        "Jaylen Brown",
-        "Chelsea",
-        "#CashAppFriday",
-        "David Wilcock",
-        "#LightningStrikes",
-        "Seagal",
-        "Save America Act"
+        "Scoot Henderson",
+        "Hagel",
+        "Charlottesville"
       ],
       "hashtags": [
-        "#CashAppFriday",
-        "#LightningStrikes"
+        "#WWENXT",
+        "#SummerHouse",
+        "#NXTRevenge",
+        "#WillTrent",
+        "#GoBolts"
       ],
       "regular_topics": [
         "SPLC",
-        "TACO Tuesday",
+        "Virginia",
+        "Fairfax",
         "Southern Poverty Law Center",
+        "VJ Edgecombe",
         "Cursor",
+        "Scoot Henderson",
+        "Hagel",
+        "Charlottesville",
         "Jaylen Brown",
-        "Chelsea",
-        "David Wilcock",
-        "Seagal",
-        "Save America Act",
-        "Giancarlo Stanton",
-        "Rosenior"
+        "Josh Allen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Apr 21 2026 22:54:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 21 2026 23:46:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Leicester",
@@ -50,8 +53,8 @@
         "League One",
         "#BHACHE",
         "Maresca",
-        "#hcafc",
         "Bromley",
+        "#hcafc",
         "#saintsfc"
       ],
       "hashtags": [
@@ -70,124 +73,123 @@
         "Bromley",
         "Jimmy Bullard",
         "League 1",
-        "Imray",
-        "Danny Welbeck",
-        "Rudkin"
+        "Wrexham",
+        "Rudkin",
+        "Danny Welbeck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Apr 21 2026 22:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 22 2026 00:36:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chelsea",
-        "TACO Tuesday",
+        "#GoHabsGo",
+        "Gourde",
+        "Perry",
+        "Xhekaj",
+        "Hagel",
+        "Sabourin",
         "Canada Post",
-        "Maresca",
+        "TACO Tuesday",
         "#bucciovertimechallenge",
-        "Rosenior",
-        "Tim Cook",
-        "Happy 420",
-        "Brighton",
-        "#LETSGOOILERS",
-        "Canada-U"
+        "Josh Allen",
+        "Kucherov"
       ],
       "hashtags": [
+        "#GoHabsGo",
         "#bucciovertimechallenge",
-        "#LETSGOOILERS",
         "#RawAfterMania",
-        "#WWERaw",
-        "#WrestleMania"
+        "#GoBolts",
+        "#WWENXT"
       ],
       "regular_topics": [
-        "Chelsea",
-        "TACO Tuesday",
+        "Gourde",
+        "Perry",
+        "Xhekaj",
+        "Hagel",
+        "Sabourin",
         "Canada Post",
-        "Maresca",
-        "Rosenior",
-        "Tim Cook",
-        "Happy 420",
-        "Brighton",
-        "Canada-U",
-        "Luxembourg",
-        "DRIPA"
+        "TACO Tuesday",
+        "Josh Allen",
+        "Kucherov",
+        "SPLC",
+        "Tim Cook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Apr 21 2026 22:44:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 22 2026 00:28:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0935\u093f\u0936\u094d\u0935\u0936\u093e\u0902\u0924\u093f\u0915\u0947\u0932\u093f\u090f_\u092e\u0939\u093e\u0905\u0928\u0941\u0937\u094d\u0920\u093e\u0928",
         "#DMKWinningBig",
         "Guidance of Sant RampalJi",
         "#SRHvsDC",
-        "#UnstoppableAIADMK",
+        "#unstoppableaiadmk",
         "#AllVotes4TwoLeaves",
         "poriborton with bjp",
         "\u0936\u093e\u0902\u0924\u093f \u092e\u0939\u093e \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
-        "Abhishek Sharma",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "87.05 cr india",
-        "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924"
+        "Abhishek Sharma"
       ],
       "hashtags": [
         "#\u0935\u093f\u0936\u094d\u0935\u0936\u093e\u0902\u0924\u093f\u0915\u0947\u0932\u093f\u090f_\u092e\u0939\u093e\u0905\u0928\u0941\u0937\u094d\u0920\u093e\u0928",
         "#DMKWinningBig",
         "#SRHvsDC",
-        "#UnstoppableAIADMK",
+        "#unstoppableaiadmk",
         "#AllVotes4TwoLeaves"
       ],
       "regular_topics": [
         "Guidance of Sant RampalJi",
         "poriborton with bjp",
         "\u0936\u093e\u0902\u0924\u093f \u092e\u0939\u093e \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
-        "Abhishek Sharma",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "87.05 cr india",
+        "Abhishek Sharma",
         "\u0905\u0926\u094d\u0935\u0948\u0924 \u0935\u0947\u0926\u093e\u0902\u0924",
         "Tim Cook",
-        "Nitish Rana",
-        "Chelsea",
         "\u0905\u0928\u0941\u0930\u093e\u0917 \u0920\u093e\u0915\u0941\u0930",
-        "dravidamodel 2"
+        "Nitish Rana",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Apr 21 2026 22:40:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 22 2026 01:16:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Liam Rosenior",
-        "#BHACHE",
         "Maresca",
+        "#BHACHE",
+        "Sack",
+        "Michael Movie",
         "Leicester City",
         "League One",
         "Rosemary",
-        "Port Vale",
         "Welbeck",
-        "BlueCo",
-        "Potter"
+        "Port Vale"
       ],
       "hashtags": [
         "#BHACHE",
-        "#BRICHE",
-        "#BHAFC"
+        "#BRICHE"
       ],
       "regular_topics": [
         "Chelsea",
         "Liam Rosenior",
         "Maresca",
+        "Sack",
+        "Michael Movie",
         "Leicester City",
         "League One",
         "Rosemary",
-        "Port Vale",
         "Welbeck",
-        "BlueCo",
-        "Potter",
-        "World Champions"
+        "Port Vale",
+        "BlueCo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
