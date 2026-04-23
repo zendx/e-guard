@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-04-23T19:45:46.725266+00:00",
+  "generated_at_utc": "2026-04-23T20:41:27.667132+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Apr 23 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 19:52:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vrabel",
         "GPT-5.5",
-        "#NFLDraft",
         "Patriots",
-        "Pats",
-        "Kyle Brandt",
-        "ACTRESS JISOO AT CANNESERIES",
-        "James Wood",
+        "#NFLDraft",
+        "Mall of Louisiana",
+        "JR Ritchie",
         "Skubal",
-        "EzFill to Gainesville",
-        "Rolling Stone"
+        "Pats",
+        "Michael",
+        "Pickens",
+        "Rickey"
       ],
       "hashtags": [
         "#NFLDraft",
-        "#VenezuelaVuelaLibre",
-        "#ENHYPEN_UNBREAKABLE_7",
+        "#JISOOMadameFigaroRisingStar",
         "#BELIFT_SPEAK_UP",
-        "#WorldBookDay"
+        "#ENHYPEN_UNBREAKABLE_7",
+        "#VenezuelaVuelaLibre"
       ],
       "regular_topics": [
         "Vrabel",
         "GPT-5.5",
         "Patriots",
-        "Pats",
-        "Kyle Brandt",
-        "ACTRESS JISOO AT CANNESERIES",
-        "James Wood",
+        "Mall of Louisiana",
+        "JR Ritchie",
         "Skubal",
-        "EzFill to Gainesville",
-        "Rolling Stone",
-        "Tom Cotton"
+        "Pats",
+        "Michael",
+        "Pickens",
+        "Rickey",
+        "Rolling Stone"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Apr 23 2026 19:24:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 20:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RaceAcrossTheWorld",
         "Football Focus",
-        "#raceacrosstheworld",
         "Alex Scott",
+        "Humphries",
+        "Egypt",
         "#bbcqt",
         "Parkrun",
+        "#PLDarts",
         "#EastEnders",
-        "Egypt",
         "Bob Wilson",
-        "GPT-5.5",
-        "Scampi",
-        "St George"
+        "GPT-5.5"
       ],
       "hashtags": [
-        "#raceacrosstheworld",
+        "#RaceAcrossTheWorld",
         "#bbcqt",
+        "#PLDarts",
         "#EastEnders",
-        "#AssassinsCreed",
-        "#WorldBookNight"
+        "#AssassinsCreed"
       ],
       "regular_topics": [
         "Football Focus",
         "Alex Scott",
-        "Parkrun",
+        "Humphries",
         "Egypt",
+        "Parkrun",
         "Bob Wilson",
         "GPT-5.5",
-        "Scampi",
+        "Littler",
+        "Pickle",
         "St George",
-        "Black Flag",
-        "Cyberpunk",
-        "Dan Walker"
+        "Black Flag"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Apr 23 2026 19:21:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 20:15:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#EarthDay",
         "Crown Coins",
         "SPLC",
+        "#LesFlammes",
         "Vrabel",
-        "GPT-5.5",
         "NHL Playoffs",
         "#NFLDraft",
+        "GPT-5.5",
         "#Survivor50",
-        "Dach",
-        "#JISOOMadameFigaroRisingStar",
-        "CUSMA"
+        "CUSMA",
+        "Dach"
       ],
       "hashtags": [
         "#EarthDay",
+        "#LesFlammes",
         "#NFLDraft",
         "#Survivor50",
-        "#JISOOMadameFigaroRisingStar",
         "#GoHabsGo"
       ],
       "regular_topics": [
         "Crown Coins",
         "SPLC",
         "Vrabel",
-        "GPT-5.5",
         "NHL Playoffs",
-        "Dach",
+        "GPT-5.5",
         "CUSMA",
-        "McDavid",
-        "ACTRESS JISOO AT CANNESERIES",
+        "Dach",
         "Game 3",
-        "Oilers in the NBA"
+        "McDavid",
+        "Oilers in the NBA",
+        "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Apr 23 2026 19:12:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 20:06:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MIvsCSK",
         "Sanju Samson",
         "Mumbai Indians",
         "Akeal Hosein",
         "Hardik",
-        "Wankhede",
         "GPT-5.5",
+        "Wankhede",
+        "#HappyBirthdaySachin",
         "#JISOOMadameFigaroRisingStar",
-        "Mukesh",
-        "#WhistlePodu",
-        "#ENHYPEN_UNBREAKABLE_7"
+        "#ENHYPEN_UNBREAKABLE_7",
+        "#BELIFT_SPEAK_UP"
       ],
       "hashtags": [
         "#MIvsCSK",
+        "#HappyBirthdaySachin",
         "#JISOOMadameFigaroRisingStar",
-        "#WhistlePodu",
         "#ENHYPEN_UNBREAKABLE_7",
         "#BELIFT_SPEAK_UP"
       ],
@@ -147,8 +147,8 @@
         "Mumbai Indians",
         "Akeal Hosein",
         "Hardik",
-        "Wankhede",
         "GPT-5.5",
+        "Wankhede",
         "Mukesh",
         "ACTRESS JISOO AT CANNESERIES",
         "Dube",
@@ -160,25 +160,25 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Apr 23 2026 19:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 20:00:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TheGatheringOn100",
-        "#InfinixNote60UltraPreorder",
         "#NewNigeriaBayelsa",
         "#AbiolaAndre",
+        "GPT-5.5",
+        "#InfinixNote60UltraPreorder",
+        "#TheGatheringOn100",
         "#SeyiMakindeAtHarvard",
-        "Naira Marley",
+        "NIN and BVN",
         "Zinodict Music",
-        "NELFUND",
+        "Naira Marley",
         "Marlian",
-        "Rihanna",
-        "Alimosho"
+        "NELFUND"
       ],
       "hashtags": [
-        "#TheGatheringOn100",
-        "#InfinixNote60UltraPreorder",
         "#NewNigeriaBayelsa",
         "#AbiolaAndre",
+        "#InfinixNote60UltraPreorder",
+        "#TheGatheringOn100",
         "#SeyiMakindeAtHarvard",
         "#WishWithBybitCard",
         "#Skengwes",
@@ -187,17 +187,17 @@
         "#MEXC8eyond"
       ],
       "regular_topics": [
-        "Naira Marley",
+        "GPT-5.5",
+        "NIN and BVN",
         "Zinodict Music",
-        "NELFUND",
+        "Naira Marley",
         "Marlian",
-        "Rihanna",
+        "NELFUND",
         "Alimosho",
+        "Rihanna",
         "Bala Mohammed",
         "Riri",
-        "Bauchi",
-        "ASAP Rocky",
-        "Adelabu"
+        "Ajax"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
