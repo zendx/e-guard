@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-23T20:41:27.667132+00:00",
+  "generated_at_utc": "2026-04-23T21:35:04.441759+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Apr 23 2026 19:52:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 23 2026 20:46:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vrabel",
-        "GPT-5.5",
+        "Mall of Louisiana",
         "Patriots",
         "#NFLDraft",
-        "Mall of Louisiana",
-        "JR Ritchie",
-        "Skubal",
-        "Pats",
-        "Michael",
+        "GPT-5.5",
+        "Jacob Webb",
+        "Taylor Jenkins",
         "Pickens",
-        "Rickey"
+        "$INTC",
+        "Brandon Marsh",
+        "JR Ritchie"
       ],
       "hashtags": [
         "#NFLDraft",
         "#JISOOMadameFigaroRisingStar",
         "#BELIFT_SPEAK_UP",
         "#ENHYPEN_UNBREAKABLE_7",
-        "#VenezuelaVuelaLibre"
+        "#WorldBookDay"
       ],
       "regular_topics": [
         "Vrabel",
-        "GPT-5.5",
-        "Patriots",
         "Mall of Louisiana",
-        "JR Ritchie",
-        "Skubal",
-        "Pats",
-        "Michael",
+        "Patriots",
+        "GPT-5.5",
+        "Jacob Webb",
+        "Taylor Jenkins",
         "Pickens",
-        "Rickey",
-        "Rolling Stone"
+        "$INTC",
+        "Brandon Marsh",
+        "JR Ritchie",
+        "Baton Rouge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
