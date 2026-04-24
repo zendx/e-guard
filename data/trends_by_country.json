@@ -1,200 +1,197 @@
 {
-  "generated_at_utc": "2026-04-24T04:29:44.618024+00:00",
+  "generated_at_utc": "2026-04-24T06:25:36.664879+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 24 2026 03:46:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 05:32:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NFLDraft",
         "Lemon",
-        "Bain",
+        "#NFLDraft",
+        "Jaden McDaniels",
+        "Jokic",
         "Ty Simpson",
-        "Knicks",
-        "Caleb Downs",
-        "Jets",
         "Rams",
+        "Bain",
+        "Knicks",
+        "Jets",
         "Steelers",
-        "Beane",
-        "Eagles"
+        "McVay"
       ],
       "hashtags": [
         "#NFLDraft",
-        "#wojakcto"
+        "#Kehlani",
+        "#wojakcto",
+        "#thegreatdivide"
       ],
       "regular_topics": [
         "Lemon",
-        "Bain",
+        "Jaden McDaniels",
+        "Jokic",
         "Ty Simpson",
-        "Knicks",
-        "Caleb Downs",
-        "Jets",
         "Rams",
+        "Bain",
+        "Knicks",
+        "Jets",
         "Steelers",
-        "Beane",
-        "Eagles",
-        "Brunson"
+        "McVay",
+        "Caleb Downs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 24 2026 04:12:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 05:56:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "St George",
         "#wojakcto",
+        "St George",
+        "Bull-Run",
+        "SOL 30x",
+        "BTC 4x",
+        "Altcoins 50x",
+        "ETH 10x",
+        "Under 20",
         "Football Focus",
-        "#NFLDraft",
         "Bain",
-        "Jokic",
-        "England",
-        "Millionaire",
-        "High Spread",
-        "Fair Sale",
-        "There is a Memecoin"
+        "Search for the Top 3"
       ],
       "hashtags": [
         "#wojakcto",
         "#NFLDraft",
         "#cantonbitgetlaunchpool",
-        "#bbcqt",
-        "#raceacrosstheworld"
+        "#raceacrosstheworld",
+        "#bbcqt"
       ],
       "regular_topics": [
         "St George",
+        "Bull-Run",
+        "SOL 30x",
+        "BTC 4x",
+        "Altcoins 50x",
+        "ETH 10x",
+        "Under 20",
         "Football Focus",
         "Bain",
-        "Jokic",
-        "England",
-        "Millionaire",
-        "High Spread",
-        "Fair Sale",
-        "There is a Memecoin",
-        "No VCs",
-        "Knicks"
+        "Search for the Top 3",
+        "Find Hardworking Communities"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 24 2026 04:08:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 05:55:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NFLDraft",
+        "Sens",
         "Jamison Battle",
         "#WeTheNorth",
         "Brady",
-        "Scottie Barnes",
-        "#NFLDraft",
-        "RJ Barrett",
-        "Beane",
         "Jaden McDaniels",
         "Sanderson",
-        "Lemon",
-        "#Raptors"
+        "Beane",
+        "Scottie",
+        "Crown Coins",
+        "SPLC"
       ],
       "hashtags": [
-        "#WeTheNorth",
         "#NFLDraft",
-        "#Raptors",
+        "#WeTheNorth",
+        "#LesFlammes",
         "#BillsMafia",
-        "#Sens"
+        "#GoAvsGo"
       ],
       "regular_topics": [
+        "Sens",
         "Jamison Battle",
         "Brady",
-        "Scottie Barnes",
-        "RJ Barrett",
-        "Beane",
         "Jaden McDaniels",
         "Sanderson",
-        "Lemon",
-        "Ty Simpson",
-        "Knicks",
-        "Darko"
+        "Beane",
+        "Scottie",
+        "Crown Coins",
+        "SPLC",
+        "Raptors",
+        "Game 3"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Apr 24 2026 04:00:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 05:45:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldPeace_With_SantRampalJi",
+        "#WarringAgainstGangster",
+        "#HBdayDotor",
         "#LifeChangingTips",
-        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
         "#NationalPanchayatiRajDay",
-        "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939 \u0926\u093f\u0928\u0915\u0930",
-        "#DrRajkumar",
-        "#GodMorningFriday",
+        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
+        "\u0939\u0941\u0917\u0932\u0940 \u0928\u0926\u0940",
+        "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939",
         "\u0917\u094d\u0930\u093e\u092e \u0938\u094d\u0935\u0930\u093e\u091c",
-        "\u092c\u0917\u0932\u093e\u092e\u0941\u0916\u0940 \u091c\u092f\u0902\u0924\u0940",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091a\u0947\u0924\u0928\u093e",
-        "\u0917\u094d\u0930\u093e\u092e\u0940\u0923 \u0935\u093f\u0915\u093e\u0938"
+        "Hooghly",
+        "\u092c\u0917\u0932\u093e\u092e\u0941\u0916\u0940 \u091c\u092f\u0902\u0924\u0940"
       ],
       "hashtags": [
         "#WorldPeace_With_SantRampalJi",
+        "#WarringAgainstGangster",
+        "#HBdayDotor",
         "#LifeChangingTips",
-        "#NationalPanchayatiRajDay",
-        "#DrRajkumar",
-        "#GodMorningFriday",
-        "#SachinTendulkar",
-        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u092a\u0902\u091a\u093e\u092f\u0924\u0940_\u0930\u093e\u091c_\u0926\u093f\u0935\u0938",
-        "#RamdhariSinghDinkar",
-        "#UPSI_GIVE_SCORECARD",
-        "#BengalPolls2026",
-        "#\u091c\u092f_\u092e\u093e\u0924\u093e_\u0926\u0940"
+        "#NationalPanchayatiRajDay"
       ],
       "regular_topics": [
         "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
-        "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939 \u0926\u093f\u0928\u0915\u0930",
+        "\u0939\u0941\u0917\u0932\u0940 \u0928\u0926\u0940",
+        "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939",
         "\u0917\u094d\u0930\u093e\u092e \u0938\u094d\u0935\u0930\u093e\u091c",
+        "Hooghly",
         "\u092c\u0917\u0932\u093e\u092e\u0941\u0916\u0940 \u091c\u092f\u0902\u0924\u0940",
+        "God of Cricket",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091a\u0947\u0924\u0928\u093e",
         "\u0917\u094d\u0930\u093e\u092e\u0940\u0923 \u0935\u093f\u0915\u093e\u0938",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u0948\u0926\u093f\u0915 \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f",
-        "God of Cricket",
-        "\u092a\u0926\u094d\u092e \u092d\u0942\u0937\u0923",
-        "\u092a\u094d\u0930\u092e\u094b\u0926 \u0938\u093e\u0935\u0902\u0924",
-        "\u0917\u094d\u0930\u093e\u092e\u0940\u0923 \u092d\u093e\u0930\u0924"
+        "Howrah Bridge",
+        "\u0939\u093e\u0935\u0921\u093c\u093e \u092c\u094d\u0930\u093f\u091c"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Apr 24 2026 03:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 05:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "South Africans",
-        "Jets",
-        "Makai Lemon",
+        "Amen",
         "Eagles",
-        "Dolphins",
         "Salako",
+        "NELFUND",
         "Nuggets",
-        "Knicks",
-        "Hawks",
-        "Jokic"
+        "GM CT",
+        "Jumu'ah Mubarak",
+        "Makai Lemon",
+        "Jets"
       ],
       "hashtags": [
         "#burmci",
         "#joinadpnow",
         "#TheGatheringOn100",
-        "#Panam\u00e1"
+        "#Panam\u00e1",
+        "#gloyoutubebundle"
       ],
       "regular_topics": [
         "Chelsea",
         "South Africans",
-        "Jets",
-        "Makai Lemon",
+        "Amen",
         "Eagles",
-        "Dolphins",
         "Salako",
+        "NELFUND",
         "Nuggets",
-        "Knicks",
-        "Hawks",
-        "Jokic"
+        "GM CT",
+        "Jumu'ah Mubarak",
+        "Makai Lemon",
+        "Jets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
