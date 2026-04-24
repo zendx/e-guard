@@ -1,99 +1,100 @@
 {
-  "generated_at_utc": "2026-04-24T08:26:54.984830+00:00",
+  "generated_at_utc": "2026-04-24T09:59:53.970215+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 24 2026 07:16:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 09:00:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lemon",
         "McVay",
         "Rams",
-        "Jokic",
         "Jaden McDaniels",
-        "Ty Simpson",
-        "#NFLDraft",
+        "#Kehlani",
         "Stafford",
+        "Jokic",
+        "Ty Simpson",
+        "Knicks",
         "Steelers",
-        "Bain",
-        "Nuggets"
+        "Bain"
       ],
       "hashtags": [
-        "#NFLDraft",
         "#Kehlani",
+        "#SECAwards",
         "#zzzSpecialProgram",
-        "#thegreatdivide"
+        "#thegreatdivide",
+        "#zzzero"
       ],
       "regular_topics": [
         "Lemon",
         "McVay",
         "Rams",
-        "Jokic",
         "Jaden McDaniels",
-        "Ty Simpson",
         "Stafford",
+        "Jokic",
+        "Ty Simpson",
+        "Knicks",
         "Steelers",
         "Bain",
-        "Nuggets",
-        "Jets"
+        "Nuggets"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 24 2026 07:42:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 09:24:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#wojakcto",
         "St George",
+        "#wojakcto",
+        "Falklands",
+        "#WHFreeBet",
         "Football Focus",
-        "Under 20",
-        "#FlowersOnFriday",
-        "Memecoins",
-        "#Twilight",
-        "Bess",
+        "Danny",
+        "NATO",
+        "Hermer",
         "England",
-        "Study the Market",
-        "Hold for Months"
+        "#cantonbitgetlaunchpool",
+        "Chelsea"
       ],
       "hashtags": [
         "#wojakcto",
-        "#FlowersOnFriday",
-        "#Twilight",
-        "#fingerpostfriday",
-        "#cantonbitgetlaunchpool"
+        "#WHFreeBet",
+        "#cantonbitgetlaunchpool",
+        "#NFLDraft",
+        "#FlowersOnFriday"
       ],
       "regular_topics": [
         "St George",
+        "Falklands",
         "Football Focus",
-        "Under 20",
-        "Memecoins",
-        "Bess",
-        "England",
-        "Study the Market",
-        "Hold for Months",
-        "Stop Trading",
+        "Danny",
+        "NATO",
         "Hermer",
-        "Under 50m"
+        "England",
+        "Chelsea",
+        "Bess",
+        "Parkrun",
+        "Top Real Memecoins in Crypto"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 24 2026 07:39:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 09:21:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NFLDraft",
         "Jamison Battle",
         "crown coins",
         "#WeTheNorth",
         "SPLC",
-        "Brady",
         "Game 3",
-        "Vrabel",
         "Ty Simpson",
         "#LesFlammes",
-        "Caleb Downs"
+        "Vrabel",
+        "Caleb Downs",
+        "DeepSeek"
       ],
       "hashtags": [
         "#NFLDraft",
@@ -106,53 +107,53 @@
         "Jamison Battle",
         "crown coins",
         "SPLC",
-        "Brady",
         "Game 3",
-        "Vrabel",
         "Ty Simpson",
+        "Vrabel",
         "Caleb Downs",
-        "Scottie Barnes",
-        "Cavs",
-        "Carnell Tate"
+        "DeepSeek",
+        "Brady",
+        "Carnell Tate",
+        "Bain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Apr 24 2026 07:30:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 08:21:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#VishwasKaSamrat",
         "#BanglaBolcheBJPJitche",
+        "#WarringAgainstGangster",
         "#SalmanKhanEid2027",
-        "#WorldPeace_With_SantRampalJi",
         "#SachinTendulkar",
-        "#NationalPanchayatiRajDay",
         "\u0939\u0941\u0917\u0932\u0940 \u0928\u0926\u0940",
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e",
         "Hooghly",
-        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
         "God of Cricket",
-        "Ram Madhav",
-        "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939 \u0926\u093f\u0928\u0915\u0930"
+        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
+        "Ram Madhav"
       ],
       "hashtags": [
+        "#VishwasKaSamrat",
         "#BanglaBolcheBJPJitche",
+        "#WarringAgainstGangster",
         "#SalmanKhanEid2027",
-        "#WorldPeace_With_SantRampalJi",
-        "#SachinTendulkar",
-        "#NationalPanchayatiRajDay"
+        "#SachinTendulkar"
       ],
       "regular_topics": [
         "\u0939\u0941\u0917\u0932\u0940 \u0928\u0926\u0940",
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e",
         "Hooghly",
-        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
         "God of Cricket",
+        "\u0936\u093e\u0902\u0924\u093f \u0927\u093e\u0930\u094d\u092e\u093f\u0915",
         "Ram Madhav",
         "\u0930\u093e\u092e\u0927\u093e\u0930\u0940 \u0938\u093f\u0902\u0939 \u0926\u093f\u0928\u0915\u0930",
-        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e",
+        "\u0938\u091a\u093f\u0928 \u0924\u0947\u0902\u0926\u0941\u0932\u0915\u0930",
         "\u092c\u0917\u0932\u093e\u092e\u0941\u0916\u0940 \u091c\u092f\u0902\u0924\u0940",
         "\u0917\u094d\u0930\u093e\u092e \u0938\u094d\u0935\u0930\u093e\u091c",
-        "\u0939\u093e\u0935\u0921\u093c\u093e \u092c\u094d\u0930\u093f\u091c",
-        "Vamshi Paidipally"
+        "\u0939\u093e\u0935\u0921\u093c\u093e \u092c\u094d\u0930\u093f\u091c"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
