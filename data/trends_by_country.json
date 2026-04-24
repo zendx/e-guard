@@ -1,133 +1,129 @@
 {
-  "generated_at_utc": "2026-04-24T19:41:42.272488+00:00",
+  "generated_at_utc": "2026-04-24T20:33:19.963842+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 24 2026 18:33:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 19:27:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MakeAliensGreatAgain",
-        "Falklands",
         "Far Cry",
-        "Powell",
+        "Britain",
         "Piers",
-        "#FursuitFriday",
-        "McVay",
-        "Scooby",
-        "#FracasadaYMendigandoApoyo",
+        "Falklands",
+        "Gen V",
+        "FFXIV",
         "Evercold",
-        "#OnlyFriendsDreamOnEP9"
+        "#FursuitFriday",
+        "Moustapha Thiam",
+        "Evangelion"
       ],
       "hashtags": [
         "#MakeAliensGreatAgain",
         "#FursuitFriday",
-        "#FracasadaYMendigandoApoyo",
         "#OnlyFriendsDreamOnEP9",
-        "#RIKCOVER_ISCOMING"
+        "#RIKCOVER_ISCOMING",
+        "#FracasadaYMendigandoApoyo"
       ],
       "regular_topics": [
-        "Falklands",
         "Far Cry",
-        "Powell",
+        "Britain",
         "Piers",
-        "McVay",
-        "Scooby",
+        "Falklands",
+        "Gen V",
+        "FFXIV",
         "Evercold",
-        "McDonald",
-        "Falkland Islands",
-        "Witkoff and Kushner",
-        "Sleepy Joe"
+        "Moustapha Thiam",
+        "Evangelion",
+        "Lucha Underground",
+        "Powell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 24 2026 18:57:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 19:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sunderland",
+        "Forest",
+        "#ImACeleb",
         "#MakeAliensGreatAgain",
+        "#SUNNFO",
         "Ibrox",
-        "Falklands",
-        "Union Bears",
-        "#TOTP",
-        "Argentina",
-        "#FPLCommunity",
-        "#theoneshow",
-        "#GW34",
-        "Lords",
-        "Green Brigade"
+        "Igor Jesus",
+        "Spurs or West Ham",
+        "Chris Wood",
+        "#SUNNOT",
+        "Falklands"
       ],
       "hashtags": [
+        "#ImACeleb",
         "#MakeAliensGreatAgain",
+        "#SUNNFO",
+        "#SUNNOT",
+        "#FarmedMusic",
         "#TOTP",
-        "#FPLCommunity",
-        "#theoneshow",
-        "#GW34",
-        "#Racing365",
-        "#NSL2026",
-        "#stayselcaday",
-        "#\u795d\u30cb\u30ad\u304f\u3093\u30bd\u30ed\u30ab\u30d0\u30fc",
-        "#RIKCOVER_ISCOMING",
-        "#OnlyFriendsDreamOnEP9"
+        "#BeyondParadise"
       ],
       "regular_topics": [
+        "Sunderland",
+        "Forest",
         "Ibrox",
+        "Igor Jesus",
+        "Spurs or West Ham",
+        "Chris Wood",
         "Falklands",
+        "Gibbs White",
         "Union Bears",
-        "Argentina",
-        "Lords",
-        "Green Brigade",
-        "Celtic Park",
-        "Scope",
-        "Hegseth",
-        "Parkhead",
-        "Free Hit"
+        "Gen V",
+        "Argentina"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 24 2026 18:56:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 19:49:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NFLDraft",
         "#SECAwards",
         "crown coins",
         "Brady",
-        "Jamison Battle",
+        "Alexandre Boulerice",
+        "Sunderland",
+        "JAMISON BATTLE",
         "SPLC",
         "Chayka",
-        "#lesflammes",
-        "Game 3",
-        "Rams",
-        "Ty Simpson"
+        "#LesFlammes",
+        "Game 3"
       ],
       "hashtags": [
         "#NFLDraft",
         "#SECAwards",
-        "#lesflammes",
+        "#LesFlammes",
         "#FootballFans",
         "#GrupoDuplaInternacionaldoAno"
       ],
       "regular_topics": [
         "crown coins",
         "Brady",
-        "Jamison Battle",
+        "Alexandre Boulerice",
+        "Sunderland",
+        "JAMISON BATTLE",
         "SPLC",
         "Chayka",
         "Game 3",
         "Rams",
-        "Ty Simpson",
         "O'Toole",
-        "Hall",
-        "Sanderson"
+        "Ty Simpson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Apr 24 2026 18:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 19:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
         "Virat Kohli",
@@ -135,29 +131,29 @@
         "\u0930\u093e\u0918\u0935 \u091a\u0921\u094d\u0922\u093e",
         "Chinnaswamy",
         "Devdutt Padikkal",
-        "\u0906\u092e \u0906\u0926\u092e\u0940 \u092a\u093e\u0930\u094d\u091f\u0940",
-        "Orange Cap",
-        "Washington Sundar",
         "#RIKCOVER_ISCOMING",
-        "#\u795d\u30cb\u30ad\u304f\u3093\u30bd\u30ed\u30ab\u30d0\u30fc"
+        "#\u795d\u30cb\u30ad\u304f\u3093\u30bd\u30ed\u30ab\u30d0\u30fc",
+        "Orange Cap",
+        "\u0906\u092e \u0906\u0926\u092e\u0940 \u092a\u093e\u0930\u094d\u091f\u0940",
+        "#FarrhanaDivaOfTheYear"
       ],
       "hashtags": [
         "#RCBvsGT",
         "#RaghavChadha",
         "#RIKCOVER_ISCOMING",
         "#\u795d\u30cb\u30ad\u304f\u3093\u30bd\u30ed\u30ab\u30d0\u30fc",
-        "#Paytm"
+        "#FarrhanaDivaOfTheYear"
       ],
       "regular_topics": [
         "Virat Kohli",
         "\u0930\u093e\u0918\u0935 \u091a\u0921\u094d\u0922\u093e",
         "Chinnaswamy",
         "Devdutt Padikkal",
-        "\u0906\u092e \u0906\u0926\u092e\u0940 \u092a\u093e\u0930\u094d\u091f\u0940",
         "Orange Cap",
+        "\u0906\u092e \u0906\u0926\u092e\u0940 \u092a\u093e\u0930\u094d\u091f\u0940",
         "Washington Sundar",
-        "Krunal",
         "Sai Sudharsan",
+        "Krunal",
         "NI-KI COVER IS HERE",
         "Gujarat Titans"
       ],
