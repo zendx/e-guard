@@ -1,61 +1,60 @@
 {
-  "generated_at_utc": "2026-04-24T22:30:04.145514+00:00",
+  "generated_at_utc": "2026-04-24T23:07:26.819367+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Apr 24 2026 21:12:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 22:03:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Invited Users",
         "Gen V",
+        "Wyatt Sicks",
+        "Nikki Cross",
         "The Boys",
+        "Zoey Stark",
         "Custom",
-        "Lucha Underground",
+        "Joe Gacy",
+        "Kay Lee Ray",
         "FFXIV",
-        "Betis",
-        "Vought Rising",
-        "Sunderland",
-        "#MakeAliensGreatAgain",
-        "Far Cry"
+        "Jayden Reed"
       ],
       "hashtags": [
-        "#MakeAliensGreatAgain",
         "#FursuitFriday",
-        "#nffc",
-        "#JimRomeOnX",
-        "#RIKCOVER_ISCOMING"
+        "#MakeAliensGreatAgain",
+        "#HelluvaBoss",
+        "#nffc"
       ],
       "regular_topics": [
         "Invited Users",
         "Gen V",
+        "Wyatt Sicks",
+        "Nikki Cross",
         "The Boys",
+        "Zoey Stark",
         "Custom",
-        "Lucha Underground",
+        "Joe Gacy",
+        "Kay Lee Ray",
         "FFXIV",
-        "Betis",
-        "Vought Rising",
-        "Sunderland",
-        "Far Cry",
-        "Evangelion"
+        "Jayden Reed"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Apr 24 2026 21:36:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 22:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ImACeleb",
         "#nffc",
         "Sunderland",
         "Forest",
-        "David Haye",
+        "Jimmy and David",
         "#SAFC",
         "Ant and Dec",
         "#TheNeighbourhood",
+        "Jimmy Bullard",
         "#SUNNFO",
-        "Ant & Dec",
-        "Adam Thomas"
+        "Ant & Dec"
       ],
       "hashtags": [
         "#ImACeleb",
@@ -67,14 +66,14 @@
       "regular_topics": [
         "Sunderland",
         "Forest",
-        "David Haye",
+        "Jimmy and David",
         "Ant and Dec",
-        "Ant & Dec",
-        "Adam Thomas",
-        "Sels",
-        "Millwall",
-        "Gen V",
         "Jimmy Bullard",
+        "Ant & Dec",
+        "Wyatt Sicks",
+        "Adam Thomas",
+        "Argentina",
+        "Nikki Cross",
         "Poor Adam"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,18 +81,18 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Apr 24 2026 21:33:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Apr 24 2026 22:27:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NFLDraft",
-        "#SECAwards",
         "Gen V",
+        "#SECAwards",
         "crown coins",
-        "Tumbler Ridge",
+        "Wyatt Sicks",
         "Brady",
+        "Tumbler Ridge",
         "Chayka",
         "SPLC",
-        "Alexandre Boulerice",
-        "Sunderland",
+        "Boulerice",
         "The Boys"
       ],
       "hashtags": [
@@ -106,14 +105,14 @@
       "regular_topics": [
         "Gen V",
         "crown coins",
-        "Tumbler Ridge",
+        "Wyatt Sicks",
         "Brady",
+        "Tumbler Ridge",
         "Chayka",
         "SPLC",
-        "Alexandre Boulerice",
-        "Sunderland",
+        "Boulerice",
         "The Boys",
-        "FFXIV",
+        "Game 3",
         "JAMISON BATTLE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
