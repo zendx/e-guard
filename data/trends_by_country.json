@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-26T22:35:52.184442+00:00",
+  "generated_at_utc": "2026-04-26T23:27:33.388747+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 26 2026 21:57:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 22:51:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Cavs",
         "#NASCAR",
-        "Bruins",
-        "Donovan Mitchell",
+        "Cavs",
         "Kimmel",
+        "Castle",
+        "Bruins",
         "Bubba",
-        "Chastain",
-        "#LetsGoBuffalo",
-        "Talladega",
-        "Mobley",
-        "Zadorov"
+        "#PorVida",
+        "Donovan Mitchell",
+        "Scoot Henderson",
+        "Joel Embiid",
+        "Chastain"
       ],
       "hashtags": [
         "#NASCAR",
+        "#PorVida",
+        "#GoSpursGo",
         "#LetsGoBuffalo",
-        "#JackLinks500",
-        "#LetEmKnow",
-        "#JCWOpener"
+        "#JackLinks500"
       ],
       "regular_topics": [
         "Cavs",
-        "Bruins",
-        "Donovan Mitchell",
         "Kimmel",
+        "Castle",
+        "Bruins",
         "Bubba",
+        "Donovan Mitchell",
+        "Scoot Henderson",
+        "Joel Embiid",
         "Chastain",
-        "Talladega",
-        "Mobley",
-        "Zadorov",
-        "Swayman",
-        "Senga"
+        "Senga",
+        "Matt Fitzpatrick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
