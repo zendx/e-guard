@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-04-26T11:30:10.254931+00:00",
+  "generated_at_utc": "2026-04-26T12:03:45.604378+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Apr 26 2026 10:39:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 11:32:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Sunday",
         "Secret Service",
         "Staged",
         "President",
         "Cole Allen",
-        "Good Sunday",
-        "Jokic",
         "Butler",
-        "WHCD",
         "#STARDOM",
-        "#TXT1stGrandSlam",
-        "White House Correspondents"
+        "WHCD",
+        "Jokic",
+        "White House Correspondents",
+        "#UltimateStarrySEA27th"
       ],
       "hashtags": [
         "#STARDOM",
-        "#TXT1stGrandSlam",
+        "#UltimateStarrySEA27th",
         "#SWY5thWin",
-        "#TXT33rdWin",
-        "#Toonami"
+        "#TXT1stGrandSlam",
+        "#TXT33rdWin"
       ],
       "regular_topics": [
+        "Good Sunday",
         "Secret Service",
         "Staged",
         "President",
         "Cole Allen",
-        "Good Sunday",
-        "Jokic",
         "Butler",
         "WHCD",
+        "Jokic",
         "White House Correspondents",
-        "Torrance",
-        "Cole Tomas Allen"
+        "Melissa Hortman",
+        "Annie's Shop"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Apr 26 2026 10:10:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 11:01:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#LondonMarathon",
         "Falklands",
         "Argentina",
-        "#LondonMarathon",
-        "#bbclaurak",
         "Wembley",
+        "Sub 2",
+        "Sebastian Sawe",
         "Rochdale",
-        "Staged",
         "West Ham",
-        "White House Correspondents",
-        "Trump",
-        "#ARSNEW"
+        "#bbclaurak",
+        "#ARSNEW",
+        "White House Correspondents"
       ],
       "hashtags": [
         "#LondonMarathon",
         "#bbclaurak",
         "#ARSNEW",
         "#WeWantKairi",
-        "#SNLUK"
+        "#ycfc"
       ],
       "regular_topics": [
         "Falklands",
         "Argentina",
         "Wembley",
+        "Sub 2",
+        "Sebastian Sawe",
         "Rochdale",
-        "Staged",
         "West Ham",
         "White House Correspondents",
+        "Staged",
         "Trump",
-        "Vance",
-        "Secret Service",
         "Southampton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,19 +82,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Apr 26 2026 11:00:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 11:54:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Secret Service",
         "Staged",
         "White House Correspondents",
         "Sens",
         "#UFCVegas116",
-        "Brady",
         "Greig",
         "Klay",
+        "Brady",
         "WHCD",
         "#WeWantKairi",
-        "Megan"
+        "Butler"
       ],
       "hashtags": [
         "#UFCVegas116",
@@ -108,89 +108,91 @@
         "Staged",
         "White House Correspondents",
         "Sens",
-        "Brady",
         "Greig",
         "Klay",
+        "Brady",
         "WHCD",
+        "Butler",
         "Megan",
-        "Nikishin",
-        "Butler"
+        "Nikishin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Apr 26 2026 10:51:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 11:44:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CSKvsGT",
+        "Ruturaj Gaikwad",
         "#BanglaChayBJPSorkar",
         "Sarfaraz",
+        "Brevis",
         "#MannKiBaat",
         "Urvil",
-        "FUKRA ROCKED NIKKI SHOCKED",
-        "#AwesomeIsForEveryone",
-        "#AwesomeBattery",
-        "Mere Krishn Play",
         "Chepauk",
-        "Riteish"
+        "Trailer",
+        "#AwesomeBattery",
+        "Arshad Khan"
       ],
       "hashtags": [
         "#CSKvsGT",
         "#BanglaChayBJPSorkar",
         "#MannKiBaat",
-        "#AwesomeIsForEveryone",
-        "#AwesomeBattery"
+        "#AwesomeBattery",
+        "#AwesomeIsForEveryone"
       ],
       "regular_topics": [
+        "Ruturaj Gaikwad",
         "Sarfaraz",
+        "Brevis",
         "Urvil",
-        "FUKRA ROCKED NIKKI SHOCKED",
-        "Mere Krishn Play",
         "Chepauk",
-        "Riteish",
+        "Trailer",
+        "Arshad Khan",
         "\u0938\u0940\u090f\u092e \u0930\u0947\u0916\u093e \u0917\u0941\u092a\u094d\u0924\u093e",
-        "Raghu Rai",
-        "Rabada",
-        "Fav Animal",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e"
+        "Mere Krishn Play",
+        "Rashid Khan",
+        "Fleming"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Apr 26 2026 10:45:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Apr 26 2026 11:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Megan",
         "Church",
-        "Blessed Sunday",
-        "White House Correspondents",
+        "Leeds",
+        "#ArewaGrandTwitterConnect2026",
+        "Macbeth",
         "Secret Service",
-        "Today is Sunday",
-        "#NRSTaxItForward",
+        "Blessed Sunday",
         "Klay Thompson",
-        "Another Sunday",
-        "JD Vance",
-        "Happy Sunday CT"
+        "White House Correspondents",
+        "Today is Sunday",
+        "Ajax"
       ],
       "hashtags": [
-        "#NRSTaxItForward",
+        "#ArewaGrandTwitterConnect2026",
         "#AlbumEPInternacionaldoAno",
-        "#SundayService"
+        "#SundayService",
+        "#NRSTaxItForward",
+        "#FACup"
       ],
       "regular_topics": [
         "Megan",
         "Church",
-        "Blessed Sunday",
-        "White House Correspondents",
+        "Leeds",
+        "Macbeth",
         "Secret Service",
-        "Today is Sunday",
+        "Blessed Sunday",
         "Klay Thompson",
-        "Another Sunday",
-        "JD Vance",
-        "Happy Sunday CT",
-        "Donald Trump"
+        "White House Correspondents",
+        "Today is Sunday",
+        "Ajax",
+        "Another Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
