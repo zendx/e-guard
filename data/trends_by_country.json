@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-27T19:51:32.194884+00:00",
+  "generated_at_utc": "2026-04-27T20:47:26.411104+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Apr 27 2026 19:01:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Apr 27 2026 19:54:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kimmel",
         "Melania",
         "Sorsby",
+        "Harvey Weinstein",
+        "Amad",
         "Scam Altman",
         "Aquanet",
-        "Pat Riley",
-        "Texas Tech",
+        "Scal",
+        "Sesko",
         "Gerry Conway",
-        "#gachiakuta166",
-        "OpenAI",
-        "Hairspray"
+        "#StopIllegalFloridaMaps"
       ],
       "hashtags": [
-        "#gachiakuta166",
         "#StopIllegalFloridaMaps",
-        "#PassTheMic_To_Belift",
-        "#7WALKING_AS_ONE",
-        "#LaSayonaEsLaCulpable"
+        "#MUNBRE",
+        "#gachiakuta166",
+        "#MUFC",
+        "#PassTheMic_To_Belift"
       ],
       "regular_topics": [
         "Kimmel",
         "Melania",
         "Sorsby",
+        "Harvey Weinstein",
+        "Amad",
         "Scam Altman",
         "Aquanet",
-        "Pat Riley",
-        "Texas Tech",
+        "Scal",
+        "Sesko",
         "Gerry Conway",
-        "OpenAI",
-        "Hairspray",
-        "Scal"
+        "World War Eleven"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
