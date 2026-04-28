@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-28T22:43:36.911961+00:00",
+  "generated_at_utc": "2026-04-28T23:42:23.111862+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
@@ -43,19 +43,19 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Apr 28 2026 21:51:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 23:33:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PSGBAY",
         "Diaz",
         "Olise",
         "#ChampionsLeague",
         "Kane",
-        "Dembele",
         "Gakpo",
+        "King Charles",
+        "Saka",
         "#itfc",
-        "Kvara",
-        "Atletico",
-        "#PSGFCB"
+        "Dembele",
+        "Kvara"
       ],
       "hashtags": [
         "#PSGBAY",
@@ -68,133 +68,128 @@
         "Diaz",
         "Olise",
         "Kane",
-        "Dembele",
         "Gakpo",
-        "Kvara",
-        "Atletico",
         "King Charles",
-        "Kompany",
-        "Hakimi",
-        "Jack Clarke"
+        "Saka",
+        "Dembele",
+        "Kvara",
+        "$1 Billion MC",
+        "Atletico",
+        "Congress"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Apr 28 2026 21:48:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 23:32:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Bayern",
         "Kimmel",
+        "Bayern",
         "OPEC",
-        "Arsenal",
-        "Olise",
         "John Garrett",
-        "Diaz",
-        "RIP Cheech",
-        "Explore Concrete",
+        "King Charles",
+        "Cheech",
         "Comey",
-        "King Charles"
+        "Explore Concrete",
+        "National Day of Mourning",
+        "Olise",
+        "Arsenal"
       ],
       "hashtags": [
-        "#ChampionsLeague",
+        "#thisisjimin",
         "#bucciovertimechallenge",
-        "#PSGFCB",
+        "#ChampionsLeague",
         "#SaveTheCaps",
-        "#MUNBRE"
+        "#PSGFCB"
       ],
       "regular_topics": [
-        "Bayern",
         "Kimmel",
+        "Bayern",
         "OPEC",
-        "Arsenal",
-        "Olise",
         "John Garrett",
-        "Diaz",
-        "RIP Cheech",
-        "Explore Concrete",
+        "King Charles",
+        "Cheech",
         "Comey",
-        "King Charles"
+        "Explore Concrete",
+        "National Day of Mourning",
+        "Olise",
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Apr 28 2026 22:31:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 23:24:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#PSGBAY",
-        "Bayern",
-        "#ChampionsKiCharcha",
         "#PBKSvsRR",
-        "#ChampionsLeague",
-        "Diaz",
-        "Olise",
-        "#Pay_Attention_To_HYBE",
-        "Harry Kane",
-        "Neuer",
-        "Dembele"
+        "#\u0939\u0948_\u0915\u093e\u092e_\u0906\u0926\u092e\u0940\u0915\u093e_\u0914\u0930\u094b\u0902\u0915\u0947_\u0915\u093e\u092e_\u0906\u0928\u093e",
+        "Merciful Sant Rampal Ji",
+        "#PSGBAY",
+        "#snabbitseriesd",
+        "OPEC",
+        "\u0905\u091c\u092f \u092a\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
+        "Luis Diaz",
+        "adityabirla sunlifeinsurance",
+        "raja shivaji",
+        "Harry Kane"
       ],
       "hashtags": [
-        "#PSGBAY",
-        "#ChampionsKiCharcha",
         "#PBKSvsRR",
-        "#ChampionsLeague",
-        "#Pay_Attention_To_HYBE",
-        "#Financial_Boycott_HYBE_Belift",
-        "#PSGFCB",
         "#\u0939\u0948_\u0915\u093e\u092e_\u0906\u0926\u092e\u0940\u0915\u093e_\u0914\u0930\u094b\u0902\u0915\u0947_\u0915\u093e\u092e_\u0906\u0928\u093e",
-        "#\u0a96\u0ac0\u0ab2\u0acd\u0aaf\u0ac1\u0a82_\u0a95\u0aae\u0ab3_\u0a9c\u0ac0\u0aa4\u0acd\u0aaf\u0acb_\u0ab5\u0abf\u0a95\u0abe\u0ab8"
+        "#PSGBAY",
+        "#snabbitseriesd"
       ],
       "regular_topics": [
-        "Bayern",
-        "Diaz",
-        "Olise",
-        "Harry Kane",
-        "Neuer",
-        "Dembele",
-        "Kvara",
         "Merciful Sant Rampal Ji",
-        "Riyan Parag",
-        "KEEP HYBE ACCOUNTABLE",
-        "Davies"
+        "OPEC",
+        "\u0905\u091c\u092f \u092a\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
+        "Luis Diaz",
+        "adityabirla sunlifeinsurance",
+        "raja shivaji",
+        "Harry Kane",
+        "Olise",
+        "Arsenal",
+        "Gangtok",
+        "Neuer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Apr 28 2026 22:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 23:18:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bayern",
         "Olise",
         "Haram",
+        "Pharos",
         "Dembele",
         "Mendes",
         "Harry Kane",
         "Champions League",
-        "#PSGFCB",
-        "WHAT A GAME",
+        "#EndPoliceBrutality",
         "Kvara",
-        "Neuer"
+        "Allianz Arena"
       ],
       "hashtags": [
-        "#PSGFCB",
         "#EndPoliceBrutality",
+        "#PSGFCB",
         "#SSFOOTBALL"
       ],
       "regular_topics": [
         "Bayern",
         "Olise",
         "Haram",
+        "Pharos",
         "Dembele",
         "Mendes",
         "Harry Kane",
         "Champions League",
-        "WHAT A GAME",
         "Kvara",
-        "Neuer",
-        "Allianz Arena"
+        "Allianz Arena",
+        "Luis Enrique"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
