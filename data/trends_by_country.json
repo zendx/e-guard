@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-04-28T20:16:12.474155+00:00",
+  "generated_at_utc": "2026-04-28T21:34:10.528475+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Apr 28 2026 19:31:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 20:28:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Comey",
-        "King Charles",
-        "Fauci",
-        "Harry Kane",
-        "OPEC",
         "Bayern",
+        "King Charles",
+        "Olise",
+        "#ChampionsLeague",
         "Dembele",
-        "Tampon Tim",
-        "Luis Diaz",
+        "Davies",
         "Kvara",
-        "Bondi"
+        "Harry Kane",
+        "Fauci",
+        "OPEC"
       ],
       "hashtags": [
         "#ChampionsLeague",
-        "#PSGBAY",
-        "#LaSayonaExtorsionadora",
         "#Pay_Attention_To_HYBE",
+        "#PSGFCB",
+        "#Financial_Boycott_HYBE_Belift",
         "#NoIllegalFloridaMaps"
       ],
       "regular_topics": [
         "Comey",
-        "King Charles",
-        "Fauci",
-        "Harry Kane",
-        "OPEC",
         "Bayern",
+        "King Charles",
+        "Olise",
         "Dembele",
-        "Tampon Tim",
-        "Luis Diaz",
+        "Davies",
         "Kvara",
-        "Bondi"
+        "Harry Kane",
+        "Fauci",
+        "OPEC",
+        "Tampon Tim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Apr 28 2026 20:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 20:57:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PSGBAY",
+        "Diaz",
         "Olise",
         "#ChampionsLeague",
-        "Dembele",
         "Harry Kane",
-        "#stvdebate",
-        "Diaz",
+        "Dembele",
+        "Gakpo",
         "Kvara",
-        "Joao Neves",
+        "#stvdebate",
         "#PSGFCB",
-        "#MAFSAU"
+        "Mendes"
       ],
       "hashtags": [
         "#PSGBAY",
@@ -65,134 +65,134 @@
         "#MAFSAU"
       ],
       "regular_topics": [
-        "Olise",
-        "Dembele",
-        "Harry Kane",
         "Diaz",
+        "Olise",
+        "Harry Kane",
+        "Dembele",
+        "Gakpo",
         "Kvara",
-        "Joao Neves",
-        "Nuno Mendes",
-        "WHAT A GAME",
-        "Davies",
-        "Doue",
-        "King Charles"
+        "Mendes",
+        "Kompany",
+        "Hakimi",
+        "Jack Clarke",
+        "Luis Enrique"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Apr 28 2026 19:52:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 20:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bayern",
+        "Luis Diaz",
         "Kimmel",
         "Olise",
         "OPEC",
         "John Garrett",
-        "#PSGBAY",
-        "RIP Cheech",
-        "Bayern",
+        "Arsenal",
+        "Harry Kane",
+        "Cheech",
         "Explore Concrete",
-        "Luis Diaz",
-        "Melania",
-        "Norway"
+        "Davies"
       ],
       "hashtags": [
-        "#PSGBAY",
+        "#ChampionsLeague",
+        "#PSGFCB",
         "#bucciovertimechallenge",
         "#SaveTheCaps",
-        "#PSGFCB",
         "#MUNBRE"
       ],
       "regular_topics": [
+        "Bayern",
+        "Luis Diaz",
         "Kimmel",
         "Olise",
         "OPEC",
         "John Garrett",
-        "RIP Cheech",
-        "Bayern",
+        "Arsenal",
+        "Harry Kane",
+        "Cheech",
         "Explore Concrete",
-        "Luis Diaz",
-        "Melania",
-        "Norway",
-        "National Day of Mourning"
+        "Davies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Apr 28 2026 19:44:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 20:45:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PSGBAY",
+        "Bayern",
         "#PBKSvsRR",
-        "#\u0939\u0948_\u0915\u093e\u092e_\u0906\u0926\u092e\u0940\u0915\u093e_\u0914\u0930\u094b\u0902\u0915\u0947_\u0915\u093e\u092e_\u0906\u0928\u093e",
+        "Luis Diaz",
         "#Pay_Attention_To_HYBE",
         "#Financial_Boycott_HYBE_Belift",
+        "#ChampionsLeague",
+        "Olise",
         "Merciful Sant Rampal Ji",
         "MUNAWAR FC MKJW PRIDE",
-        "Riyan Parag",
-        "Donovan Ferreira",
-        "Arshdeep",
-        "Rajasthan Royals",
-        "Shubham Dubey"
+        "Riyan Parag"
       ],
       "hashtags": [
+        "#PSGBAY",
         "#PBKSvsRR",
-        "#\u0939\u0948_\u0915\u093e\u092e_\u0906\u0926\u092e\u0940\u0915\u093e_\u0914\u0930\u094b\u0902\u0915\u0947_\u0915\u093e\u092e_\u0906\u0928\u093e",
         "#Pay_Attention_To_HYBE",
         "#Financial_Boycott_HYBE_Belift",
-        "#PSGBAY"
+        "#ChampionsLeague"
       ],
       "regular_topics": [
+        "Bayern",
+        "Luis Diaz",
+        "Olise",
         "Merciful Sant Rampal Ji",
         "MUNAWAR FC MKJW PRIDE",
         "Riyan Parag",
         "Donovan Ferreira",
-        "Arshdeep",
+        "Dembele",
+        "Harry Kane",
         "Rajasthan Royals",
-        "Shubham Dubey",
-        "OPEC",
-        "Bayern",
-        "KEEP HYBE ACCOUNTABLE",
-        "Dembele"
+        "Arshdeep"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Apr 28 2026 19:40:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Apr 28 2026 20:40:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Bayern",
-        "Harry Kane",
+        "#PSGBAY",
+        "Olise",
         "Dembele",
+        "Diaz",
+        "Harry Kane",
         "#PSGFCB",
-        "Joao Neves",
-        "#SaleemAdegunwa",
+        "Haram",
         "Mendes",
-        "Mourinho",
-        "#Shillx",
-        "Kvaratskhelia",
-        "Luis Diaz"
+        "WHAT A GAME",
+        "Champions League",
+        "Davies"
       ],
       "hashtags": [
+        "#PSGBAY",
         "#PSGFCB",
         "#SaleemAdegunwa",
-        "#Shillx",
-        "#wealthandimpactsummit26",
-        "#omoheKOH"
+        "#EndPoliceBrutality",
+        "#wealthandimpactsummit26"
       ],
       "regular_topics": [
-        "Bayern",
-        "Harry Kane",
+        "Olise",
         "Dembele",
-        "Joao Neves",
+        "Diaz",
+        "Harry Kane",
+        "Haram",
         "Mendes",
-        "Mourinho",
-        "Kvaratskhelia",
-        "Luis Diaz",
-        "GTCO",
-        "Jaded",
-        "DJ SNAKE"
+        "WHAT A GAME",
+        "Champions League",
+        "Davies",
+        "Joao Neves",
+        "Kvara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
