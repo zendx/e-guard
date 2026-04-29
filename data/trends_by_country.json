@@ -1,106 +1,107 @@
 {
-  "generated_at_utc": "2026-04-29T18:52:04.297284+00:00",
+  "generated_at_utc": "2026-04-29T20:05:13.352795+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Apr 29 2026 17:36:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 29 2026 18:28:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Supreme Court",
         "Voting Rights Act",
         "SCOTUS",
         "NBA Street",
-        "#HighInfidelityDay",
-        "Comey",
-        "Section 2",
-        "#questpit",
+        "Louisiana",
+        "Powell",
         "FOMC",
-        "Garrett Crochet",
-        "Callais"
+        "Casper",
+        "Deshaun",
+        "Zambia",
+        "Jim Crow"
       ],
       "hashtags": [
+        "#You_Complete_Our_SevEN",
+        "#DelcyEsLealtadInnegociable",
         "#HighInfidelityDay",
         "#questpit",
-        "#You_Complete_Our_SevEN",
-        "#ENGENEs_Boycott_BELIFT_Lab",
-        "#TheBoys"
+        "#ENGENEs_Boycott_BELIFT_Lab"
       ],
       "regular_topics": [
         "Supreme Court",
         "Voting Rights Act",
         "SCOTUS",
         "NBA Street",
-        "Comey",
-        "Section 2",
+        "Louisiana",
+        "Powell",
         "FOMC",
-        "Garrett Crochet",
-        "Callais",
-        "Nate Eaton",
-        "Ann Arbor"
+        "Casper",
+        "Deshaun",
+        "Zambia",
+        "Jim Crow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Apr 29 2026 18:00:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 29 2026 19:46:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Gaelic Warrior",
+        "#ATMARS",
+        "#EastEnders",
         "Golders Green",
+        "Gaelic Warrior",
         "British Jews",
-        "Cobra",
         "Saka",
-        "Michael Owen",
-        "Mark Rowley",
         "Terrorist",
-        "Kicking",
-        "#thechase",
-        "Bridget"
+        "Atletico",
+        "Alvarez",
+        "Cobra",
+        "Shola"
       ],
       "hashtags": [
+        "#ATMARS",
+        "#EastEnders",
         "#thechase",
-        "#questpit",
-        "#PMQs",
-        "#TheBoys"
+        "#MAFSAUS",
+        "#c4news"
       ],
       "regular_topics": [
-        "Gaelic Warrior",
         "Golders Green",
+        "Gaelic Warrior",
         "British Jews",
-        "Cobra",
         "Saka",
-        "Michael Owen",
-        "Mark Rowley",
         "Terrorist",
-        "Kicking",
-        "Bridget",
-        "$Doge - $24b"
+        "Atletico",
+        "Alvarez",
+        "Cobra",
+        "Shola",
+        "Rowley",
+        "Islamist"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Apr 29 2026 17:57:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 29 2026 19:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Buffalo",
         "King Charles",
         "Comey",
         "Kimmel",
-        "Sundin",
-        "Bayern",
         "#PSGBAY",
+        "Sundin",
         "OPEC",
+        "Bayern",
+        "Grey Cup",
         "John Garrett",
-        "Cheech",
         "O Canada"
       ],
       "hashtags": [
         "#PSGBAY",
-        "#Pay_Attention_To_HYBE",
-        "#questpit",
-        "#Financial_Boycott_HYBE_Belift",
-        "#WWENXT"
+        "#ATMARS",
+        "#You_Complete_Our_SevEN",
+        "#ENGENEs_Boycott_BELIFT_Lab",
+        "#questpit"
       ],
       "regular_topics": [
         "Buffalo",
@@ -108,90 +109,90 @@
         "Comey",
         "Kimmel",
         "Sundin",
-        "Bayern",
         "OPEC",
+        "Bayern",
+        "Grey Cup",
         "John Garrett",
-        "Cheech",
         "O Canada",
-        "Grey Cup"
+        "Cheech"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Apr 29 2026 18:42:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 29 2026 19:36:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MIvsSRH",
+        "#HappyBirthdayRohit",
         "Bumrah",
         "#ExitPoll",
         "Mumbai Indians",
-        "#HappyBirthdayRohit",
         "Travis Head",
         "Salil Arora",
-        "#\u092c\u093e\u0902\u091f_\u0915\u0930_\u0916\u093e\u0913",
         "#iplseason2026",
-        "Annapurna Muhim Sant RampalJi",
-        "Klassen"
+        "#\u092c\u093e\u0902\u091f_\u0915\u0930_\u0916\u093e\u0913",
+        "Klassen",
+        "Annapurna Muhim Sant RampalJi"
       ],
       "hashtags": [
         "#MIvsSRH",
-        "#ExitPoll",
         "#HappyBirthdayRohit",
-        "#\u092c\u093e\u0902\u091f_\u0915\u0930_\u0916\u093e\u0913",
-        "#iplseason2026"
+        "#ExitPoll",
+        "#iplseason2026",
+        "#\u092c\u093e\u0902\u091f_\u0915\u0930_\u0916\u093e\u0913"
       ],
       "regular_topics": [
         "Bumrah",
         "Mumbai Indians",
         "Travis Head",
         "Salil Arora",
-        "Annapurna Muhim Sant RampalJi",
         "Klassen",
+        "Annapurna Muhim Sant RampalJi",
+        "Hardik Pandya",
         "Wankhede",
         "Sunrisers Hyderabad",
         "Ryan Rickelton",
-        "Axis My India",
-        "Naman Dhir"
+        "Happy Birthday Hitman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Apr 29 2026 18:39:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Apr 29 2026 19:31:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ATMARS",
         "Davido",
         "DJ Tunez",
+        "Unleash",
         "Ogbafia",
+        "Lookman",
         "#EndPoliceBrutality",
         "Sisi Alagbo",
-        "Unleash",
-        "Lookman",
-        "#wealthandimpactsummit26",
-        "I REFUSE TO BE LEFT BEHIND",
-        "#omoheKOH",
-        "#ATMARS"
+        "Atletico Madrid",
+        "$LEGIT",
+        "I REFUSE TO BE LEFT BEHIND"
       ],
       "hashtags": [
-        "#EndPoliceBrutality",
-        "#wealthandimpactsummit26",
-        "#omoheKOH",
         "#ATMARS",
-        "#REDMIA7ProLaunch"
+        "#EndPoliceBrutality",
+        "#AbenaByLilDipz",
+        "#wealthandimpactsummit26",
+        "#omoheKOH"
       ],
       "regular_topics": [
         "Davido",
         "DJ Tunez",
-        "Ogbafia",
-        "Sisi Alagbo",
         "Unleash",
+        "Ogbafia",
         "Lookman",
+        "Sisi Alagbo",
+        "Atletico Madrid",
+        "$LEGIT",
         "I REFUSE TO BE LEFT BEHIND",
         "Eze and Saka",
-        "Atletico Madrid",
-        "Achraf Hakimi",
-        "Ibiza"
+        "Love God"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
