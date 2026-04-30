@@ -1,158 +1,158 @@
 {
-  "generated_at_utc": "2026-04-30T05:19:08.079233+00:00",
+  "generated_at_utc": "2026-04-30T07:40:06.657857+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Apr 30 2026 04:04:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 06:42:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Reed Sheppard",
+        "Reaves",
+        "#TusksUp",
+        "Ayton",
+        "#ForgedInGold",
         "#Survivor50",
-        "Flyers",
-        "#IgniteTheOrange",
-        "Cam York",
         "#bucciovertimechallenge",
-        "#AEWDynamite",
-        "Dan Vladar",
-        "Pens",
-        "Austin Reaves",
-        "David Allan Coe",
-        "Cavs"
+        "The Lakers",
+        "Brett Howden",
+        "Flyers",
+        "Double OT"
       ],
       "hashtags": [
+        "#TusksUp",
+        "#ForgedInGold",
         "#Survivor50",
-        "#IgniteTheOrange",
         "#bucciovertimechallenge",
-        "#AEWDynamite",
-        "#LetEmKnow"
+        "#IgniteTheOrange"
       ],
       "regular_topics": [
+        "Reed Sheppard",
+        "Reaves",
+        "Ayton",
+        "The Lakers",
+        "Brett Howden",
         "Flyers",
-        "Cam York",
-        "Dan Vladar",
-        "Pens",
-        "Austin Reaves",
+        "Double OT",
         "David Allan Coe",
-        "Cavs",
-        "Silovs",
-        "Paolo",
-        "Matt Olson",
-        "Donovan Mitchell"
+        "Kennard",
+        "Cam York",
+        "Amen Thompson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Apr 30 2026 04:32:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 07:08:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Golders Green",
         "#ATMARS",
-        "Bayern",
+        "Somalian",
         "Simeone",
-        "Atletico",
+        "#AdoorableThursday",
         "King Charles",
-        "#AEWDynamite",
-        "Ben White",
+        "Atletico",
+        "Bayern",
         "British Jews",
-        "#ChampionsLeague",
-        "Diaz"
+        "Ben White",
+        "Arsenal"
       ],
       "hashtags": [
         "#ATMARS",
-        "#AEWDynamite",
+        "#AdoorableThursday",
         "#ChampionsLeague",
         "#EastEnders",
-        "#askmadueke"
+        "#Thursgate"
       ],
       "regular_topics": [
         "Golders Green",
-        "Bayern",
+        "Somalian",
         "Simeone",
-        "Atletico",
         "King Charles",
-        "Ben White",
+        "Atletico",
+        "Bayern",
         "British Jews",
-        "Diaz",
-        "Saka",
-        "gaelic warrior",
-        "Lookman"
+        "Ben White",
+        "Arsenal",
+        "Tim Martin",
+        "Saka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Apr 30 2026 04:28:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 07:04:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Buffalo",
-        "#GoHabsGo",
         "Matheson",
-        "Cam York",
-        "Flyers",
-        "Silovs",
-        "Scottie",
         "King Charles",
-        "Dobes",
+        "Gally",
+        "Comey",
+        "Lakers",
+        "Garber",
+        "Reed Sheppard",
         "#Survivor50",
-        "#WeTheNorth"
+        "Utah",
+        "Brendan Gallagher"
       ],
       "hashtags": [
-        "#GoHabsGo",
         "#Survivor50",
-        "#WeTheNorth",
         "#bucciovertimechallenge",
-        "#IgniteTheOrange"
+        "#GoHabsGo",
+        "#AEWDynamite",
+        "#TusksUp"
       ],
       "regular_topics": [
         "Buffalo",
         "Matheson",
-        "Cam York",
-        "Flyers",
-        "Silovs",
-        "Scottie",
         "King Charles",
-        "Dobes",
         "Gally",
-        "Pens",
-        "Vladar"
+        "Comey",
+        "Lakers",
+        "Garber",
+        "Reed Sheppard",
+        "Utah",
+        "Brendan Gallagher",
+        "Flyers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Apr 30 2026 05:09:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 06:56:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#LostAndFound",
+        "#StopExecutionsinIran",
         "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u0906\u092f\u0941\u0937\u094d\u092e\u093e\u0928 \u092d\u093e\u0930\u0924",
+        "#Kara",
+        "#LostAndFound",
+        "#KDTheMovie",
         "\u092d\u0917\u0935\u093e\u0928 \u0928\u0930\u0938\u093f\u0902\u0939",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "#NarasimhaJayanti",
-        "#GodMorningThursday",
+        "\u0906\u092f\u0941\u0937\u094d\u092e\u093e\u0928 \u092d\u093e\u0930\u0924",
         "\u091a\u0924\u0941\u0930\u094d\u0925 \u0905\u0935\u0924\u093e\u0930",
-        "#AyushmanBharatDiwas",
-        "First Half",
-        "\u092d\u0915\u094d\u0924 \u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926"
+        "\u092d\u0915\u094d\u0924 \u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926",
+        "Happy Birthday Hitman"
       ],
       "hashtags": [
+        "#StopExecutionsinIran",
+        "#Kara",
         "#LostAndFound",
-        "#NarasimhaJayanti",
-        "#GodMorningThursday",
-        "#AyushmanBharatDiwas",
-        "#NSXKD"
+        "#KDTheMovie",
+        "#NarasimhaJayanti"
       ],
       "regular_topics": [
         "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u0906\u092f\u0941\u0937\u094d\u092e\u093e\u0928 \u092d\u093e\u0930\u0924",
         "\u092d\u0917\u0935\u093e\u0928 \u0928\u0930\u0938\u093f\u0902\u0939",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "\u0906\u092f\u0941\u0937\u094d\u092e\u093e\u0928 \u092d\u093e\u0930\u0924",
         "\u091a\u0924\u0941\u0930\u094d\u0925 \u0905\u0935\u0924\u093e\u0930",
-        "First Half",
         "\u092d\u0915\u094d\u0924 \u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
         "Happy Birthday Hitman",
+        "Dhruva Sarja",
         "\u092a\u093e\u0935\u0928 \u091c\u092f\u0902\u0924\u0940",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
+        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u0926\u0947\u0930\u0923\u093e",
         "\u0938\u093f\u0916 \u0927\u0930\u094d\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Apr 30 2026 05:04:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 06:51:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#EndPoliceBrutality",
         "Pharos",
         "#ATMARS",
+        "amen",
+        "#NRSTaxItForward",
+        "GM CT",
         "Bayern",
         "$PROS",
         "Atletico Madrid",
         "Haram",
-        "RealFi",
-        "Olise",
-        "Lookman",
-        "Sisi Alagbo"
+        "RealFi"
       ],
       "hashtags": [
         "#EndPoliceBrutality",
         "#ATMARS",
+        "#NRSTaxItForward",
         "#PSGBAY",
-        "#lls2026",
-        "#BTS_WORLDTOUR_ARIRANG"
+        "#lls2026"
       ],
       "regular_topics": [
         "Pharos",
+        "amen",
+        "GM CT",
         "Bayern",
         "$PROS",
         "Atletico Madrid",
         "Haram",
         "RealFi",
+        "Grand",
         "Olise",
-        "Lookman",
-        "Sisi Alagbo",
-        "Dj Tunez",
-        "Diaz"
+        "sisi alagbo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
