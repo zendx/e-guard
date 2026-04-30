@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-04-30T19:53:29.107459+00:00",
+  "generated_at_utc": "2026-04-30T20:47:22.653618+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Apr 30 2026 18:54:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Apr 30 2026 19:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Resident Evil",
+        "Toy Story",
+        "Ryan Walker",
         "JP Morgan",
         "Term",
         "Platner",
-        "Toy Story",
-        "Casey Means",
-        "Paul Skenes",
-        "Surgeon General",
-        "Maine",
-        "James Wood",
-        "MJ Melendez"
+        "FLY ME OUT",
+        "Melendez",
+        "Justin Crawford",
+        "Payamps",
+        "Surgeon General"
       ],
       "hashtags": [
         "#BuschAppleSweepstakes",
         "#Justice_For_ENHYPEN_7",
         "#7_Stars_One_Galaxy",
-        "#SkinOutNow",
-        "#MCMRodeadaPorLaMafia"
+        "#MCMRodeadaPorLaMafia",
+        "#skinoutnow"
       ],
       "regular_topics": [
         "Resident Evil",
+        "Toy Story",
+        "Ryan Walker",
         "JP Morgan",
         "Term",
         "Platner",
-        "Toy Story",
-        "Casey Means",
-        "Paul Skenes",
-        "Surgeon General",
-        "Maine",
-        "James Wood",
-        "MJ Melendez"
+        "FLY ME OUT",
+        "Melendez",
+        "Justin Crawford",
+        "Payamps",
+        "Surgeon General"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
