@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-05-01T21:40:47.087909+00:00",
+  "generated_at_utc": "2026-05-01T22:38:07.274671+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri May 01 2026 20:06:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 01 2026 21:49:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "May Day",
-        "Spirit Airlines",
-        "#TrumpsGasCrisis",
-        "Dan Marino",
-        "Rebel",
         "The Villages",
-        "Zac Gallen",
-        "JetBlue",
-        "#Dont_Let_Go_Of_SevEN",
-        "#FursuitFriday",
-        "Boston Richey"
+        "Spirit Airlines",
+        "Dan Marino",
+        "Baeza",
+        "$EBAY",
+        "CUBS WIN",
+        "Corporate Power",
+        "Jacob Webb",
+        "#TrumpsGasCrisis",
+        "McNabb"
       ],
       "hashtags": [
         "#TrumpsGasCrisis",
         "#Dont_Let_Go_Of_SevEN",
         "#FursuitFriday",
-        "#TrabajadoresConMaduroYDelcy",
-        "#Financial_Boycott_BELIFT_HYBE"
+        "#Financial_Boycott_BELIFT_HYBE",
+        "#lufc"
       ],
       "regular_topics": [
         "May Day",
+        "The Villages",
         "Spirit Airlines",
         "Dan Marino",
-        "Rebel",
-        "The Villages",
-        "Zac Gallen",
-        "JetBlue",
-        "Boston Richey",
-        "Crypto Pump News",
+        "Baeza",
+        "$EBAY",
+        "CUBS WIN",
+        "Corporate Power",
+        "Jacob Webb",
         "McNabb",
-        "Tati"
+        "Rebel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri May 01 2026 21:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 01 2026 22:16:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Corrie",
+        "Peter Kay",
         "Theo",
         "#TOTP",
         "#MiamiGP",
-        "#LEEBUR",
-        "Peter Kay",
         "Ross County",
+        "#LEEBUR",
+        "Lando Norris",
         "Smooth Criminal",
         "#twitterclarets",
-        "Benzema",
-        "Stach"
+        "Burnham"
       ],
       "hashtags": [
         "#Corrie",
@@ -65,63 +65,63 @@
         "#twitterclarets"
       ],
       "regular_topics": [
-        "Theo",
         "Peter Kay",
+        "Theo",
         "Ross County",
+        "Lando Norris",
         "Smooth Criminal",
+        "Burnham",
         "Benzema",
+        "McLaren",
         "Stach",
         "Todd",
-        "Betsy",
-        "Lando",
-        "Burnham",
-        "Hannibal"
+        "Phil"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri May 01 2026 21:20:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 01 2026 22:12:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "McDavid",
         "Oilers",
-        "Elections Alberta",
         "Bowman",
+        "Elections Alberta",
         "Nurse",
-        "Dylan Holloway",
         "crown coins",
         "May Day",
         "Jennings",
-        "Jaden McDaniels",
-        "JP Morgan"
+        "Dylan Holloway",
+        "Game 6",
+        "Jaden McDaniels"
       ],
       "hashtags": [
         "#goodvibes",
         "#911onABC",
         "#DoctorsDay",
-        "#Financial_Boycott_BELIFT_HYBE",
-        "#FursuitFriday"
+        "#FursuitFriday",
+        "#\u0e20\u0e1e\u0e40\u0e18\u0e2dEP6"
       ],
       "regular_topics": [
         "McDavid",
         "Oilers",
-        "Elections Alberta",
         "Bowman",
+        "Elections Alberta",
         "Nurse",
-        "Dylan Holloway",
         "crown coins",
         "May Day",
         "Jennings",
-        "Jaden McDaniels",
-        "JP Morgan"
+        "Dylan Holloway",
+        "Game 6",
+        "Jaden McDaniels"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri May 01 2026 21:12:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 01 2026 22:03:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InfraManDevaBhau",
         "\u092c\u0941\u0926\u094d\u0927 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
@@ -130,8 +130,8 @@
         "#BuddhaPurnima",
         "#DevabhauMagicLinksEway",
         "\u092d\u0917\u0935\u093e\u0928 \u092c\u0941\u0926\u094d\u0927",
-        "1 2 3May MahaAnushthan",
         "ruffle dunali is back",
+        "1 2 3May MahaAnushthan",
         "KL Rahul",
         "The Mumbai"
       ],
@@ -145,12 +145,12 @@
       "regular_topics": [
         "\u092c\u0941\u0926\u094d\u0927 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
         "\u092d\u0917\u0935\u093e\u0928 \u092c\u0941\u0926\u094d\u0927",
-        "1 2 3May MahaAnushthan",
         "ruffle dunali is back",
+        "1 2 3May MahaAnushthan",
         "KL Rahul",
         "The Mumbai",
-        "Kyle Jamieson",
         "\u092d\u0917\u0935\u093e\u0928 \u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927",
+        "Kyle Jamieson",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
         "Mitchell Starc",
         "\u092a\u0902\u091c\u093e\u092c \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e"
@@ -160,39 +160,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri May 01 2026 21:06:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 01 2026 21:57:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carter",
-        "Autopsy",
         "Atiku",
+        "Autopsy",
         "Suspected",
         "ADC to NDC",
-        "The Housemaids",
         "I WILL NOT LAG BEHIND",
-        "#BigiMusicTour",
-        "MoonAgents Card",
+        "The Housemaids",
+        "Kwankwaso",
         "DSTV",
-        "Bright"
+        "MoonAgents Card",
+        "Big Wiz"
       ],
       "hashtags": [
-        "#BigiMusicTour",
         "#MTNYelloTopTen",
         "#OnlyFriendsDreamOnEP10",
-        "#BuildWithYou",
-        "#KiwiNod"
+        "#BuildWithYou"
       ],
       "regular_topics": [
         "Carter",
-        "Autopsy",
         "Atiku",
+        "Autopsy",
         "Suspected",
         "ADC to NDC",
-        "The Housemaids",
         "I WILL NOT LAG BEHIND",
-        "MoonAgents Card",
+        "The Housemaids",
+        "Kwankwaso",
         "DSTV",
-        "Bright",
-        "Kwankwaso"
+        "MoonAgents Card",
+        "Big Wiz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
