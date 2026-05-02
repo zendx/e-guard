@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-05-02T17:10:16.295406+00:00",
+  "generated_at_utc": "2026-05-02T18:05:24.063334+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 02 2026 16:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 02 2026 17:48:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spirit",
         "New Day",
         "Kofi",
+        "Saka",
         "Jeff Cobb",
-        "Prates",
         "Big E",
+        "Fulham",
+        "#ARSFUL",
         "Elizabeth Warren",
-        "#UFCPerth",
-        "Inoue",
-        "Kentucky Derby",
-        "Pocahontas"
+        "Prates",
+        "Kentucky Derby"
       ],
       "hashtags": [
-        "#UFCPerth",
         "#ARSFUL",
-        "#LoveYouTeacherSeriesEP8",
-        "#Caturday",
-        "#DMDLAND3DAY1"
+        "#COYG",
+        "#Arsenal",
+        "#Its_SevEN_In_This_World",
+        "#Caturday"
       ],
       "regular_topics": [
         "Spirit",
         "New Day",
         "Kofi",
+        "Saka",
         "Jeff Cobb",
-        "Prates",
         "Big E",
+        "Fulham",
         "Elizabeth Warren",
-        "Inoue",
+        "Prates",
         "Kentucky Derby",
-        "Pocahontas",
-        "Tonga Loa"
+        "Pocahontas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 02 2026 16:15:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 02 2026 17:57:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Fulham",
-        "#LueLinkApp",
-        "Ipswich",
-        "Delap",
-        "#Alatat9",
-        "Lewis Skelly",
-        "Lyon",
         "#ARSFUL",
-        "Valencia",
-        "Union Berlin",
-        "Inter Miami"
+        "Saka",
+        "Fulham",
+        "Lewis Skelly",
+        "#COYG",
+        "Ben White",
+        "Viktor Gy\u00f6keres",
+        "#LueLinkApp",
+        "Calafiori",
+        "West Ham",
+        "Leno"
       ],
       "hashtags": [
+        "#ARSFUL",
+        "#COYG",
         "#LueLinkApp",
         "#Alatat9",
-        "#ARSFUL",
-        "#UWCL",
-        "#UFCPerth"
+        "#UWCL"
       ],
       "regular_topics": [
+        "Saka",
         "Fulham",
-        "Ipswich",
-        "Delap",
         "Lewis Skelly",
-        "Lyon",
-        "Valencia",
-        "Union Berlin",
-        "Inter Miami",
-        "Yahaya Bello",
-        "Buba Galadima",
-        "Heidenheim"
+        "Ben White",
+        "Viktor Gy\u00f6keres",
+        "Calafiori",
+        "West Ham",
+        "Leno",
+        "Ipswich",
+        "Monica 2",
+        "Norgaard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
