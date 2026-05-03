@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-05-03T11:33:13.180066+00:00",
+  "generated_at_utc": "2026-05-03T12:39:20.912996+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 03 2026 11:09:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 03 2026 12:01:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spirit",
         "Celtics",
+        "Good Sunday",
         "Embiid",
         "Golden Tempo",
         "Kentucky Derby",
         "Tatum",
-        "Good Sunday",
         "Sixers",
-        "Game 7",
         "JetBlue",
+        "Game 7",
         "Jaylen Brown"
       ],
       "hashtags": [
         "#DMDLAND3DAY2",
-        "#UFCPerth",
         "#saturdaynightliv",
+        "#UFCPerth",
         "#LoveYouTeacherSeriesEP8",
         "#AEWCollision"
       ],
       "regular_topics": [
         "Spirit",
         "Celtics",
+        "Good Sunday",
         "Embiid",
         "Golden Tempo",
         "Kentucky Derby",
         "Tatum",
-        "Good Sunday",
         "Sixers",
-        "Game 7",
         "JetBlue",
+        "Game 7",
         "Jaylen Brown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,117 +43,117 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 03 2026 10:44:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 03 2026 11:36:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Jamie McGrath",
         "#bbclaurak",
+        "Hibs",
         "Banksy",
         "Mark Allen",
-        "Fulham",
-        "#swfc",
-        "#ARSFUL",
         "Trevor Phillips",
+        "#swfc",
+        "Fulham",
+        "#ARSFUL",
         "#MiamiGP",
-        "#britainsgottalent",
-        "Wrexham",
-        "Heidi Alexander"
+        "#UFCPerth"
       ],
       "hashtags": [
         "#bbclaurak",
         "#swfc",
         "#ARSFUL",
         "#MiamiGP",
-        "#britainsgottalent"
+        "#UFCPerth"
       ],
       "regular_topics": [
+        "Jamie McGrath",
+        "Hibs",
         "Banksy",
         "Mark Allen",
-        "Fulham",
         "Trevor Phillips",
+        "Fulham",
         "Wrexham",
-        "Heidi Alexander",
         "Bow Echo",
-        "Watford",
+        "Polanski",
         "Farage",
-        "West Ham",
-        "LIVERPOOL WIN"
+        "Watford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 03 2026 10:42:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 03 2026 11:33:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Celtics",
         "Game 7",
         "Embiid",
         "#LoveYouTeacherSeriesEP8",
-        "Spirit Airlines",
         "Bowman",
+        "Spirit Airlines",
         "McAvoy",
-        "#KentuckyDerby",
         "Golden Tempo",
         "#saturdaynightliv",
-        "Jaylen Brown"
+        "Jaylen Brown",
+        "Benson"
       ],
       "hashtags": [
         "#LoveYouTeacherSeriesEP8",
-        "#KentuckyDerby",
         "#saturdaynightliv",
         "#crowncoins",
-        "#UFCPerth"
+        "#UFCPerth",
+        "#Caturday"
       ],
       "regular_topics": [
         "Celtics",
         "Game 7",
         "Embiid",
-        "Spirit Airlines",
         "Bowman",
+        "Spirit Airlines",
         "McAvoy",
         "Golden Tempo",
         "Jaylen Brown",
         "Benson",
-        "RJ Barrett",
-        "New Day"
+        "Kentucky Derby",
+        "RJ Barrett"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 03 2026 11:24:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 03 2026 12:16:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GreenGoaBlueprint",
+        "#GurudevWithKrishnavataram",
         "#SRHvsKKR",
+        "#GreenGoaBlueprint",
         "Mandovi and Zuari",
+        "Sunil Narine",
         "#\u0935\u093f\u0936\u094d\u0935\u0936\u093e\u0902\u0924\u093f_\u092e\u0939\u093e\u0927\u093e\u0930\u094d\u092e\u093f\u0915\u0905\u0928\u0941\u0937\u094d\u0920\u093e\u0928",
         "WorldPeace By SantRampalJi",
         "Rovman Powell",
-        "Manish Pandey",
-        "Travis Head",
         "#KaraWashout",
-        "OptoSAR",
-        "Muscat"
+        "Travis Head",
+        "Manish Pandey"
       ],
       "hashtags": [
-        "#GreenGoaBlueprint",
+        "#GurudevWithKrishnavataram",
         "#SRHvsKKR",
+        "#GreenGoaBlueprint",
         "#\u0935\u093f\u0936\u094d\u0935\u0936\u093e\u0902\u0924\u093f_\u092e\u0939\u093e\u0927\u093e\u0930\u094d\u092e\u093f\u0915\u0905\u0928\u0941\u0937\u094d\u0920\u093e\u0928",
-        "#KaraWashout",
-        "#TOROxLYKNatPetExpo"
+        "#KaraWashout"
       ],
       "regular_topics": [
         "Mandovi and Zuari",
+        "Sunil Narine",
         "WorldPeace By SantRampalJi",
         "Rovman Powell",
-        "Manish Pandey",
         "Travis Head",
-        "OptoSAR",
+        "Manish Pandey",
         "Muscat",
-        "NH-48",
+        "OptoSAR",
         "Kartik Tyagi",
-        "Adar Poonawalla",
-        "Smaran"
+        "Mission Drishti",
+        "Kolkata Knight Riders"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
