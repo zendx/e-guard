@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-05-02T23:05:53.453658+00:00",
+  "generated_at_utc": "2026-05-03T00:03:56.165593+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 02 2026 22:09:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 02 2026 23:54:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spirit",
+        "Golden Tempo",
+        "#KentuckyDerby",
+        "Great White",
+        "Cherie DeVaux",
         "Tatum",
-        "Kentucky Derby",
-        "New Day",
-        "T O Elvis",
-        "Austin Hedges",
-        "Jeeves",
-        "Kofi",
-        "Ian Happ",
-        "Kyle Larson",
-        "Ben Brown"
+        "NINGNING NYC TAKEOVER",
+        "Jaylen Brown",
+        "Celtics",
+        "So Happy",
+        "Renegade",
+        "Spirit"
       ],
       "hashtags": [
-        "#Its_SevEN_In_This_World",
-        "#Continue_Boycotting_BELIFT",
-        "#LetsGoBucs",
-        "#WalkerEggington",
-        "#RCTID"
+        "#KentuckyDerby",
+        "#MetGala2026",
+        "#MostRequestedLive",
+        "#DifferentHere",
+        "#BTS_WORLDTOUR_ARIRANG_ELPASO"
       ],
       "regular_topics": [
-        "Spirit",
+        "Golden Tempo",
+        "Great White",
+        "Cherie DeVaux",
         "Tatum",
-        "Kentucky Derby",
-        "New Day",
-        "T O Elvis",
-        "Austin Hedges",
-        "Jeeves",
-        "Kofi",
-        "Ian Happ",
-        "Kyle Larson",
-        "Ben Brown"
+        "NINGNING NYC TAKEOVER",
+        "Jaylen Brown",
+        "Celtics",
+        "So Happy",
+        "Renegade",
+        "Spirit",
+        "Jose Ortiz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
