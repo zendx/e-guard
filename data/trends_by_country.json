@@ -1,198 +1,200 @@
 {
-  "generated_at_utc": "2026-05-04T07:29:21.692502+00:00",
+  "generated_at_utc": "2026-05-04T09:35:17.985411+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 04 2026 06:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 08:51:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#euphoria",
-        "#GoAvsGo",
-        "BEST OF ME",
-        "Jarrett Allen",
         "May the 4th",
-        "Rudy",
-        "#mnwild",
-        "#RHOA",
-        "Jules",
-        "Cavs",
-        "Cale Makar"
+        "#MaulShadowLord",
+        "#euphoria",
+        "TOP CALL",
+        "Whale - Buy",
+        "QUICK TRADE",
+        "Smart Money - Buy",
+        "Vijay",
+        "#StarWarsDay",
+        "BEST OF ME",
+        "#GoAvsGo"
       ],
       "hashtags": [
+        "#MaulShadowLord",
         "#euphoria",
+        "#StarWarsDay",
         "#GoAvsGo",
-        "#mnwild",
-        "#RHOA",
-        "#LetEmKnow"
+        "#RHOA"
       ],
       "regular_topics": [
-        "BEST OF ME",
-        "Jarrett Allen",
         "May the 4th",
-        "Rudy",
-        "Jules",
-        "Cavs",
-        "Cale Makar",
-        "Edmond",
+        "TOP CALL",
+        "Whale - Buy",
+        "QUICK TRADE",
+        "Smart Money - Buy",
         "Vijay",
-        "Wallstedt",
-        "Wally"
+        "BEST OF ME",
+        "Jules",
+        "Rudy",
+        "Tamil Nadu",
+        "Jarrett Allen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 04 2026 06:33:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 09:18:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Villa",
-        "Liverpool",
-        "West Ham",
-        "#MUNLIV",
-        "Spurs",
         "May the 4th",
+        "#StarWarsDay",
+        "West Ham",
+        "Spurs",
+        "Liverpool",
         "Emery",
         "Slot",
-        "#MiamiGP",
-        "#StarWarsDay",
-        "#avfc"
+        "#MUNLIV",
+        "Bank Holiday Monday",
+        "#MiamiGP"
       ],
       "hashtags": [
+        "#StarWarsDay",
         "#MUNLIV",
         "#MiamiGP",
-        "#StarWarsDay",
         "#avfc",
-        "#avltot"
+        "#COYS"
       ],
       "regular_topics": [
         "Villa",
-        "Liverpool",
+        "May the 4th",
         "West Ham",
         "Spurs",
-        "May the 4th",
+        "Liverpool",
         "Emery",
         "Slot",
-        "Vijay",
-        "Trevor Phillips",
-        "Forest",
-        "De Zerbi"
+        "Bank Holiday Monday",
+        "Green",
+        "Reform",
+        "Forest"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 04 2026 06:32:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 09:15:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dobes",
         "#GoHabsGo",
-        "#GoAvsGo",
+        "Game 7",
+        "Dobes",
         "Raptors",
+        "Chayka",
+        "#WeTheNorth",
+        "Jarrett Allen",
         "Cavs",
-        "Cooper",
-        "#euphoria",
-        "Scottie",
-        "Makar",
-        "Kucherov",
-        "Montreal"
+        "Leafs",
+        "Vijay",
+        "Mr. President"
       ],
       "hashtags": [
         "#GoHabsGo",
-        "#GoAvsGo",
-        "#euphoria",
         "#WeTheNorth",
-        "#mnwild"
+        "#LoveYouTeacherSeriesEP8",
+        "#GoAvsGo",
+        "#MUNLIV"
       ],
       "regular_topics": [
+        "Game 7",
         "Dobes",
         "Raptors",
+        "Chayka",
+        "Jarrett Allen",
         "Cavs",
-        "Cooper",
-        "Scottie",
-        "Makar",
-        "Kucherov",
-        "Montreal",
-        "Darko",
-        "Cleveland",
-        "Hughes"
+        "Leafs",
+        "Vijay",
+        "Mr. President",
+        "Mats",
+        "May the 4th"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 04 2026 07:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 08:15:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#electionresult2026",
         "#HimantaBiswaSarma",
         "Vijay",
-        "#HimantaBulldozedCongress",
         "Tamil Nadu",
         "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932",
-        "#TheStatesmanMandate",
+        "#HimantaBulldozedCongress",
+        "Assam",
         "#VoteCounting",
-        "ADMK",
         "Kerala",
+        "#TVKForTN",
         "Annamalai"
       ],
       "hashtags": [
         "#electionresult2026",
         "#HimantaBiswaSarma",
         "#HimantaBulldozedCongress",
+        "#VoteCounting",
+        "#TVKForTN",
         "#TheStatesmanMandate",
-        "#VoteCounting"
+        "#Trisha"
       ],
       "regular_topics": [
         "Vijay",
         "Tamil Nadu",
         "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932",
-        "ADMK",
+        "Assam",
         "Kerala",
         "Annamalai",
+        "ADMK",
         "Stalin",
-        "\u090f\u0915\u094d\u091f\u0930 \u0935\u093f\u091c\u092f",
-        "Dravidian",
-        "Shimron Hetmyer",
-        "Ratna Debnath"
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
+        "Dravidian"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 04 2026 07:13:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 08:08:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Week",
-        "Liverpool",
         "Peter Obi",
+        "Liverpool",
         "Atiku",
         "Amen",
-        "GM CT",
         "#MUNLIV",
-        "$BKN",
-        "Monica",
+        "GM CT",
+        "MY JOY IS FULL",
         "#MondayMotivation",
-        "GM GM"
+        "#NSPPD",
+        "May the 4th"
       ],
       "hashtags": [
         "#MUNLIV",
         "#MondayMotivation",
-        "#tadc",
-        "#GGMU",
-        "#askkaywise"
+        "#NSPPD",
+        "#askkaywise",
+        "#GGMU"
       ],
       "regular_topics": [
         "Happy New Week",
-        "Liverpool",
         "Peter Obi",
+        "Liverpool",
         "Atiku",
         "Amen",
         "GM CT",
-        "$BKN",
+        "MY JOY IS FULL",
+        "May the 4th",
         "Monica",
-        "GM GM",
-        "Grand",
-        "Carrick"
+        "Carrick",
+        "GM GM"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
