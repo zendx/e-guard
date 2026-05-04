@@ -1,184 +1,188 @@
 {
-  "generated_at_utc": "2026-05-04T21:34:31.315443+00:00",
+  "generated_at_utc": "2026-05-04T22:44:09.134345+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 04 2026 21:01:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 21:56:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#MetGala",
         "Everton",
         "May the 4th",
         "Star Wars",
         "Doku",
-        "#MetGala",
-        "Skubal",
         "Man City",
-        "#Olandria",
+        "Emma Chamberlain",
         "Guehi",
-        "#EVEMCI",
-        "Dolly"
+        "#Olandria",
+        "Skubal",
+        "#BEYGALA"
       ],
       "hashtags": [
         "#MetGala",
         "#Olandria",
+        "#BEYGALA",
         "#EVEMCI",
-        "#ArmySelcaDay",
-        "#BEYGALA"
+        "#DmdSiracDonate"
       ],
       "regular_topics": [
         "Everton",
         "May the 4th",
         "Star Wars",
         "Doku",
-        "Skubal",
         "Man City",
+        "Emma Chamberlain",
         "Guehi",
-        "Dolly",
-        "Michael Oliver",
+        "Skubal",
         "Pulitzer",
-        "Jedi"
+        "Michael Oliver",
+        "Rick Harrison"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 04 2026 20:39:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 22:21:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
-        "#EVEMCI",
-        "Guehi",
+        "#MetGala",
         "Doku",
-        "Hearts",
-        "Rohl",
-        "Rangers",
-        "Ndiaye",
+        "#EVEMCI",
+        "Wu Yize",
+        "Guehi",
+        "Man City",
         "Michael Oliver",
-        "Chelsea",
-        "Donnarumma"
+        "West Ham",
+        "#snooker",
+        "Rohl"
       ],
       "hashtags": [
-        "#EVEMCI",
         "#MetGala",
-        "#nffc",
-        "#HEARAN",
-        "#ManCity"
+        "#EVEMCI",
+        "#snooker",
+        "#MCFC",
+        "#crucible"
       ],
       "regular_topics": [
         "Everton",
-        "Guehi",
         "Doku",
-        "Hearts",
-        "Rohl",
-        "Rangers",
-        "Ndiaye",
+        "Wu Yize",
+        "Guehi",
+        "Man City",
         "Michael Oliver",
-        "Chelsea",
-        "Donnarumma",
-        "Keane"
+        "West Ham",
+        "Rohl",
+        "Barry",
+        "Ndiaye",
+        "Shaun Murphy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 04 2026 20:33:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 22:18:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "May the 4th",
-        "Steve Simmons",
-        "#\u0627\u0635\u0646\u0639_\u0641\u064a_\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+        "#MetGala",
+        "Simmons",
+        "Everton",
+        "Doku",
         "Chayka",
         "Pelley",
-        "Ukraine",
-        "Star Wars",
-        "Leafs",
-        "Europe",
-        "Berube",
-        "Habs"
+        "Man City",
+        "#EVEMCI",
+        "Ndiaye",
+        "Guehi",
+        "May the 4th"
       ],
       "hashtags": [
-        "#\u0627\u0635\u0646\u0639_\u0641\u064a_\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
-        "#Olandria",
-        "#MentalHealthWeek",
-        "#Void_Without_SevEN",
-        "#Boycott_BELIFT_Lab"
+        "#MetGala",
+        "#EVEMCI",
+        "#LeafsForever",
+        "#Olandria"
       ],
       "regular_topics": [
-        "May the 4th",
-        "Steve Simmons",
+        "Simmons",
+        "Everton",
+        "Doku",
         "Chayka",
         "Pelley",
-        "Ukraine",
-        "Star Wars",
-        "Leafs",
-        "Europe",
-        "Berube",
-        "Habs",
-        "Dobes"
+        "Man City",
+        "Ndiaye",
+        "Guehi",
+        "May the 4th",
+        "West Ham",
+        "Ukraine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 04 2026 20:27:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 22:09:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u092c\u0902\u0917\u093e\u0932_\u0915\u093e_\u0930\u093f\u091c\u0932\u094d\u091f",
+        "#Askfarhana",
+        "#MetGala2026",
+        "Everton",
         "#MIvsLSG",
-        "#Electiontresult2026",
-        "#westbengalResultsLive",
+        "Guehi",
+        "Doku",
+        "#EVEMCI",
+        "West Ham",
         "Rohit Sharma",
-        "#\u0926\u0939\u0947\u091c_\u0939\u091f\u093e\u0913_\u092c\u0947\u091f\u0940_\u092c\u091a\u093e\u0913",
-        "Sa News YtChannel",
-        "Mamata Banerjee",
-        "Karma",
-        "Kerala",
-        "\u0926\u0939\u0947\u091c \u092e\u0941\u0915\u094d\u0924"
+        "Manchester City"
       ],
       "hashtags": [
         "#\u092c\u0902\u0917\u093e\u0932_\u0915\u093e_\u0930\u093f\u091c\u0932\u094d\u091f",
+        "#Askfarhana",
+        "#MetGala2026",
         "#MIvsLSG",
+        "#EVEMCI",
         "#Electiontresult2026",
         "#westbengalResultsLive",
-        "#\u0926\u0939\u0947\u091c_\u0939\u091f\u093e\u0913_\u092c\u0947\u091f\u0940_\u092c\u091a\u093e\u0913"
+        "#Void_Without_SevEN",
+        "#Boycott_BELIFT_Lab",
+        "#\u0926\u0939\u0947\u091c_\u0939\u091f\u093e\u0913_\u092c\u0947\u091f\u0940_\u092c\u091a\u093e\u0913",
+        "#BJPSweepBengal"
       ],
       "regular_topics": [
+        "Everton",
+        "Guehi",
+        "Doku",
+        "West Ham",
         "Rohit Sharma",
+        "Manchester City",
         "Sa News YtChannel",
-        "Mamata Banerjee",
         "Karma",
-        "Kerala",
-        "\u0926\u0939\u0947\u091c \u092e\u0941\u0915\u094d\u0924",
-        "Suvendu Adhikari",
-        "Ryan Rickelton",
         "Fujairah",
-        "Hitman",
-        "\u0936\u093e\u0902\u0924\u093f \u092e\u0939\u093e"
+        "Mamata Banerjee",
+        "Ryan Rickelton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 04 2026 21:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 04 2026 22:06:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Everton",
         "#EVEMCI",
         "Congratulations to Arsenal",
+        "#MetGala",
         "Doku",
         "Guehi",
+        "Bournemouth",
+        "West Ham",
         "Ndiaye",
         "Barry",
-        "Chelsea",
-        "David Moyes",
-        "Michael Oliver",
-        "#MetGala"
+        "David Moyes"
       ],
       "hashtags": [
         "#EVEMCI",
         "#MetGala",
-        "#CHENFO",
-        "#ADCResignation",
+        "#MCFC",
         "#PremierLeague"
       ],
       "regular_topics": [
@@ -186,13 +190,13 @@
         "Congratulations to Arsenal",
         "Doku",
         "Guehi",
+        "Bournemouth",
+        "West Ham",
         "Ndiaye",
         "Barry",
-        "Chelsea",
         "David Moyes",
-        "Michael Oliver",
-        "Rodri",
-        "Semenyo"
+        "Chelsea",
+        "Rodri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
