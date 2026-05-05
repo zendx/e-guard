@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-05-05T16:59:51.191509+00:00",
+  "generated_at_utc": "2026-05-05T18:09:58.189142+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 05 2026 15:22:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 16:16:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Cinco de Mayo",
         "#XDCNetwork",
-        "Coinbase",
         "#KUNxMetgala2026",
-        "Good Tuesday",
-        "Nolan",
-        "#ElRenacerDeVenezuela",
-        "Odyssey",
-        "Seger",
-        "Travis Kelce",
-        "Sam Smith"
+        "Coinbase",
+        "Presidential Fitness Test",
+        "The Odyssey",
+        "Mike Alstott",
+        "Lorenzo Neal",
+        "Springsteen",
+        "#QuitoSinAlcalde",
+        "Nolan"
       ],
       "hashtags": [
         "#XDCNetwork",
         "#KUNxMetgala2026",
+        "#QuitoSinAlcalde",
         "#ElRenacerDeVenezuela",
-        "#TeacherAppreciationDay",
-        "#SAHA2026"
+        "#TeacherAppreciationDay"
       ],
       "regular_topics": [
         "Happy Cinco de Mayo",
         "Coinbase",
-        "Good Tuesday",
-        "Nolan",
-        "Odyssey",
-        "Seger",
-        "Travis Kelce",
-        "Sam Smith",
-        "First Take",
+        "Presidential Fitness Test",
+        "The Odyssey",
         "Mike Alstott",
-        "Helen of Troy"
+        "Lorenzo Neal",
+        "Springsteen",
+        "Nolan",
+        "Seger",
+        "Sam Smith",
+        "Gary Player"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 05 2026 16:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 17:36:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MetGala",
         "Everton",
@@ -51,18 +51,18 @@
         "Green",
         "Hearts",
         "West Ham",
+        "#EVEMCI",
         "Doku",
         "Guehi",
-        "#EVEMCI",
         "Rohl",
         "Chelsea"
       ],
       "hashtags": [
         "#MetGala",
         "#EVEMCI",
-        "#thechase",
         "#CHENFO",
-        "#tippingpoint"
+        "#thechase",
+        "#magiceye"
       ],
       "regular_topics": [
         "Everton",
@@ -74,130 +74,131 @@
         "Guehi",
         "Rohl",
         "Chelsea",
-        "May the 4th",
-        "Arsenal"
+        "Arsenal",
+        "May the 4th"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 05 2026 16:40:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 17:32:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Louise Arbour",
         "#MetGala",
         "Explore Concrete",
         "Dorion",
-        "May the 4th",
         "Chayka",
+        "Louise Arbour",
+        "May the 4th",
         "Simmons",
-        "Governor General",
-        "Ukraine",
         "Go Leafs",
-        "Europe"
+        "Ukraine",
+        "Europe",
+        "Pelley"
       ],
       "hashtags": [
         "#MetGala",
         "#RedDressDay",
+        "#Canucks",
         "#MMIWG2S",
-        "#CincoDeMayo",
         "#GoHabsGo"
       ],
       "regular_topics": [
-        "Louise Arbour",
         "Explore Concrete",
         "Dorion",
-        "May the 4th",
         "Chayka",
+        "Louise Arbour",
+        "May the 4th",
         "Simmons",
-        "Governor General",
-        "Ukraine",
         "Go Leafs",
+        "Ukraine",
         "Europe",
-        "Pelley"
+        "Pelley",
+        "Star Wars"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 05 2026 15:39:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 17:24:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#DCvsCSK",
         "#\u092a\u0930\u092e\u093e\u0930\u094d\u0925_\u0915\u0947_\u0932\u093f\u090f_\u0915\u0941\u0930\u094d\u092c\u093e\u0928",
         "World Savior Sant RampalJi",
-        "#DCvsCSK",
+        "#We_Will_Fight_1009_Times",
+        "#Heeseung_Absence_Echoes",
         "#FightingRadicals",
-        "#RBChoudary",
-        "Karun Nair",
         "\u0936\u093e\u0902\u0924\u093f \u092e\u0939\u093e",
-        "#bengalpolls2026",
+        "Kuldeep",
         "Stubbs",
-        "Axar Patel",
-        "Akeal Hosein"
+        "Urvil Patel",
+        "Overton"
       ],
       "hashtags": [
-        "#\u092a\u0930\u092e\u093e\u0930\u094d\u0925_\u0915\u0947_\u0932\u093f\u090f_\u0915\u0941\u0930\u094d\u092c\u093e\u0928",
         "#DCvsCSK",
-        "#FightingRadicals",
-        "#RBChoudary",
-        "#bengalpolls2026"
+        "#\u092a\u0930\u092e\u093e\u0930\u094d\u0925_\u0915\u0947_\u0932\u093f\u090f_\u0915\u0941\u0930\u094d\u092c\u093e\u0928",
+        "#We_Will_Fight_1009_Times",
+        "#Heeseung_Absence_Echoes",
+        "#FightingRadicals"
       ],
       "regular_topics": [
         "World Savior Sant RampalJi",
-        "Karun Nair",
         "\u0936\u093e\u0902\u0924\u093f \u092e\u0939\u093e",
+        "Kuldeep",
         "Stubbs",
-        "Axar Patel",
-        "Akeal Hosein",
-        "India HelpingUAE",
+        "Urvil Patel",
+        "Overton",
+        "Axar",
+        "Karun Nair",
         "\u0938\u092e\u093e\u091c \u0938\u0947\u0935\u093e",
-        "Governor",
-        "Super Good Films",
-        "Rizvi"
+        "Uni-1",
+        "Kamboj"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 05 2026 16:27:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 17:18:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#IzydadonBigDreams",
         "Mbappe",
+        "#IzydadonBigDreams",
+        "Xavi",
         "#SauceboyTenSion",
         "#Amaechi",
         "#GloTuesdayFiesta",
-        "Xavi",
-        "#BlockfestSA",
+        "Continuity",
         "Big 13",
         "Coinbase",
-        "Ademola Lookman",
-        "Competitive"
+        "The Unraveled Tour",
+        "Olivia Rodrigo"
       ],
       "hashtags": [
         "#IzydadonBigDreams",
         "#SauceboyTenSion",
         "#Amaechi",
         "#GloTuesdayFiesta",
-        "#BlockfestSA",
         "#CBMinDelta",
-        "#RenewedHope",
+        "#ROS\u00c9",
         "#ARSATM",
-        "#Desmond4Surulere",
-        "#ROS\u00c9"
+        "#BlockfestSA",
+        "#RenewedHope",
+        "#ParfumsByGenie",
+        "#Desmond4Surulere"
       ],
       "regular_topics": [
         "Mbappe",
         "Xavi",
+        "Continuity",
         "Big 13",
         "Coinbase",
-        "Ademola Lookman",
-        "Competitive",
-        "Olivia Rodrigo",
         "The Unraveled Tour",
-        "SERAP",
+        "Olivia Rodrigo",
+        "Ademola Lookman",
         "Dybala",
-        "Jim Ovia"
+        "Competitive",
+        "Zenith"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
