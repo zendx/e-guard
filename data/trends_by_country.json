@@ -1,58 +1,57 @@
 {
-  "generated_at_utc": "2026-05-05T22:42:35.140158+00:00",
+  "generated_at_utc": "2026-05-05T23:37:44.152393+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 05 2026 21:32:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 22:25:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Simeone",
         "Cinco de Mayo",
-        "#COYG",
         "Draymond",
+        "Simeone",
+        "#COYG",
         "Atleti",
+        "Rubio",
         "Tanner Horner",
-        "Gabriel",
-        "#championsleague",
         "Stefon Diggs",
-        "Rubio"
+        "Lethal",
+        "Champions League"
       ],
       "hashtags": [
         "#COYG",
-        "#championsleague",
         "#ARSATM",
         "#We_Will_Fight_1009_Times",
         "#Heeseung_Absence_Echoes"
       ],
       "regular_topics": [
         "Arsenal",
-        "Simeone",
         "Cinco de Mayo",
         "Draymond",
+        "Simeone",
         "Atleti",
-        "Tanner Horner",
-        "Gabriel",
-        "Stefon Diggs",
         "Rubio",
-        "PSG or Bayern",
-        "Gyokeres"
+        "Tanner Horner",
+        "Stefon Diggs",
+        "Lethal",
+        "Champions League",
+        "Vivek"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 05 2026 21:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 22:51:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
-        "#ARSATM",
+        "Bayern",
         "Budapest",
+        "#ARSATM",
         "Simeone",
-        "PSG or Bayern",
-        "Gyokeres",
         "Champions League",
+        "Gyokeres",
         "#COYG",
         "Sorloth",
         "Griezmann"
@@ -60,80 +59,80 @@
       "hashtags": [
         "#ARSATM",
         "#COYG",
+        "#Newsnight",
         "#MAFSAU",
-        "#interiordesignmasters",
-        "#VirginIsland"
+        "#interiordesignmasters"
       ],
       "regular_topics": [
         "Arsenal",
         "Gabriel",
+        "Bayern",
         "Budapest",
         "Simeone",
-        "PSG or Bayern",
-        "Gyokeres",
         "Champions League",
+        "Gyokeres",
         "Sorloth",
         "Griezmann",
-        "Ben White",
-        "Declan Rice"
+        "Declan Rice",
+        "Ben White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 05 2026 21:54:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 22:46:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
         "Explore Concrete",
+        "Arsenal",
         "Dorion",
-        "#MetGala",
         "Louise Arbour",
+        "#MetGala",
         "Chayka",
         "Simmons",
-        "#COYG",
-        "May the 4th",
         "Governor General",
-        "Budapest"
+        "Europe",
+        "May the 4th",
+        "Ukraine"
       ],
       "hashtags": [
         "#MetGala",
         "#COYG",
         "#Cinco",
-        "#RedDressDay",
-        "#ARSATM"
+        "#ARSATM",
+        "#MMIWG2S"
       ],
       "regular_topics": [
-        "Arsenal",
         "Explore Concrete",
+        "Arsenal",
         "Dorion",
         "Louise Arbour",
         "Chayka",
         "Simmons",
-        "May the 4th",
         "Governor General",
-        "Budapest",
         "Europe",
-        "Ukraine"
+        "May the 4th",
+        "Ukraine",
+        "Go Leafs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 05 2026 21:46:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 22:39:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#COYG",
         "#ARSATM",
         "Simeone",
         "#ChampionsKiCharcha",
-        "Atletico",
         "Budapest",
+        "Atletico",
         "Sanju Samson",
         "#DCvsCSK",
         "#championsleague",
-        "Saka"
+        "Gabriel"
       ],
       "hashtags": [
         "#COYG",
@@ -146,16 +145,16 @@
         "#\u092a\u0930\u092e\u093e\u0930\u094d\u0925_\u0915\u0947_\u0932\u093f\u090f_\u0915\u0941\u0930\u094d\u092c\u093e\u0928",
         "#Give_SKZ_A_Break",
         "#\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988\uc5d0\uac8c\ud734\uc2dd\uc744\uc8fc\uc138\uc694",
-        "#Jalandhar"
+        "#mugshots"
       ],
       "regular_topics": [
         "Arsenal",
         "Simeone",
-        "Atletico",
         "Budapest",
+        "Atletico",
         "Sanju Samson",
-        "Saka",
         "Gabriel",
+        "Saka",
         "Griezmann",
         "Gyokeres",
         "Ben White",
@@ -166,23 +165,23 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 05 2026 22:33:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 05 2026 23:28:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Budapest",
-        "#ARSATM",
         "#COYG",
+        "#ARSATM",
         "Champions League",
         "Simeone",
-        "Up Gunners",
-        "PSG or Bayern",
         "Saka",
+        "PSG or Bayern",
+        "Up Gunners",
         "Declan Rice",
         "Gabriel"
       ],
       "hashtags": [
-        "#ARSATM",
         "#COYG",
+        "#ARSATM",
         "#ATMARS",
         "#BBNaija"
       ],
@@ -191,9 +190,9 @@
         "Budapest",
         "Champions League",
         "Simeone",
-        "Up Gunners",
-        "PSG or Bayern",
         "Saka",
+        "PSG or Bayern",
+        "Up Gunners",
         "Declan Rice",
         "Gabriel",
         "Mikel Arteta",
