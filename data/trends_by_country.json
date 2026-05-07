@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-05-07T22:48:25.006312+00:00",
+  "generated_at_utc": "2026-05-07T23:41:03.231670+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 07 2026 21:39:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 23:21:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mark Hamill",
-        "Tennessee",
         "Canvas",
+        "Tennessee",
+        "Mark Hamill",
+        "Khamzat",
+        "Strickland",
         "Spencer Jones",
-        "Vrabel",
-        "Hantavirus",
-        "$IREN",
         "Memphis",
-        "Justin Pearson",
+        "Andrew Painter",
+        "Kimbrel",
         "#UFC328",
-        "Valverde"
+        "Pearson"
       ],
       "hashtags": [
         "#UFC328",
@@ -24,40 +24,40 @@
         "#THE_7_MOMENTS_NEVER_END"
       ],
       "regular_topics": [
-        "Mark Hamill",
-        "Tennessee",
         "Canvas",
+        "Tennessee",
+        "Mark Hamill",
+        "Khamzat",
+        "Strickland",
         "Spencer Jones",
-        "Vrabel",
-        "Hantavirus",
-        "$IREN",
         "Memphis",
-        "Justin Pearson",
-        "Valverde",
-        "Bandar Abbas"
+        "Andrew Painter",
+        "Kimbrel",
+        "Pearson",
+        "$IREN"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 07 2026 22:03:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:56:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#nffc",
         "#avfc",
+        "#nffc",
         "John McGinn",
         "Istanbul",
         "Aston Villa",
-        "#AVLNFO",
         "Europa League",
         "Freiburg",
+        "#AVLNFO",
         "#CPFC",
         "Unai Emery",
-        "Buendia"
+        "#UFC328"
       ],
       "hashtags": [
-        "#nffc",
         "#avfc",
+        "#nffc",
         "#AVLNFO",
         "#CPFC",
         "#UFC328"
@@ -69,47 +69,48 @@
         "Europa League",
         "Freiburg",
         "Unai Emery",
+        "Khamzat",
         "Buendia",
-        "Tchouameni",
         "Watkins",
-        "Valverde",
-        "Vitor"
+        "Strickland",
+        "Tchouameni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu May 07 2026 22:00:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:52:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hantavirus",
-        "Bouchard",
         "McKenna",
+        "Bouchard",
         "Star Fox",
-        "Snowbirds",
         "Alberta",
         "Covid",
-        "Valverde",
         "Tchouameni",
+        "Valverde",
+        "Snowbirds",
         "Norris",
         "Freezies"
       ],
       "hashtags": [
-        "#BAYPSG",
         "#UFC328",
         "#WHLDraft",
-        "#THE_7_MOMENTS_NEVER_END"
+        "#THE_7_MOMENTS_NEVER_END",
+        "#STOP_BLINDING_ENGENE",
+        "#AEWDynamite"
       ],
       "regular_topics": [
         "Hantavirus",
-        "Bouchard",
         "McKenna",
+        "Bouchard",
         "Star Fox",
-        "Snowbirds",
         "Alberta",
         "Covid",
-        "Valverde",
         "Tchouameni",
+        "Valverde",
+        "Snowbirds",
         "Norris",
         "Freezies"
       ],
@@ -118,39 +119,43 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 07 2026 21:52:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:44:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LSGvsRCB",
         "Prince Yadav",
         "Jitesh",
-        "Tim David",
+        "Romario",
         "#STOP_BLINDING_ENGENE",
         "#THE_7_MOMENTS_NEVER_END",
-        "#HBDSundeepKishan",
-        "Shepherd",
-        "Krunal",
-        "Digvesh Rathi",
-        "Bandar Abbas"
+        "Bandar Abbas",
+        "Tchouameni",
+        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u0928\u0947_\u0926\u093f\u0932\u091c\u0940\u0924\u093e_\u091c\u0928\u0924\u093e\u0915\u093e",
+        "Rajat Patidar",
+        "Valverde"
       ],
       "hashtags": [
         "#LSGvsRCB",
         "#STOP_BLINDING_ENGENE",
         "#THE_7_MOMENTS_NEVER_END",
-        "#HBDSundeepKishan",
-        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u0928\u0947_\u0926\u093f\u0932\u091c\u0940\u0924\u093e_\u091c\u0928\u0924\u093e\u0915\u093e"
+        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u0928\u0947_\u0926\u093f\u0932\u091c\u0940\u0924\u093e_\u091c\u0928\u0924\u093e\u0915\u093e",
+        "#FlipkartBLACK",
+        "#GreatSummerSale",
+        "#GalaxyS25Ultradeal",
+        "#SFxJoongDunkJaidee",
+        "#GodariGattupaina"
       ],
       "regular_topics": [
         "Prince Yadav",
         "Jitesh",
-        "Tim David",
-        "Shepherd",
-        "Krunal",
-        "Digvesh Rathi",
+        "Romario",
         "Bandar Abbas",
-        "Rajat Patidar",
         "Tchouameni",
+        "Rajat Patidar",
         "Valverde",
-        "Mitchell Marsh"
+        "Nida Khan",
+        "Pant",
+        "Bethell",
+        "Venky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
