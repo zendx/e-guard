@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-05-07T21:43:24.230846+00:00",
+  "generated_at_utc": "2026-05-07T22:48:25.006312+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 07 2026 20:45:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 21:39:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mark Hamill",
         "Tennessee",
+        "Canvas",
+        "Spencer Jones",
         "Vrabel",
         "Hantavirus",
-        "Valverde",
-        "Kenny Moore",
-        "Lula",
+        "$IREN",
         "Memphis",
-        "Massie",
-        "Spencer Jones",
-        "Justin Pearson"
+        "Justin Pearson",
+        "#UFC328",
+        "Valverde"
       ],
       "hashtags": [
-        "#SigmaStarSagaForFree",
+        "#UFC328",
         "#STOP_BLINDING_ENGENE",
         "#THE_7_MOMENTS_NEVER_END"
       ],
       "regular_topics": [
         "Mark Hamill",
         "Tennessee",
+        "Canvas",
+        "Spencer Jones",
         "Vrabel",
         "Hantavirus",
-        "Valverde",
-        "Kenny Moore",
-        "Lula",
+        "$IREN",
         "Memphis",
-        "Massie",
-        "Spencer Jones",
-        "Justin Pearson"
+        "Justin Pearson",
+        "Valverde",
+        "Bandar Abbas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 07 2026 20:20:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:03:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Buendia",
-        "Tchouameni",
+        "#nffc",
+        "#avfc",
+        "John McGinn",
+        "Istanbul",
+        "Aston Villa",
         "#AVLNFO",
-        "#RaceAcrossTheWorld",
-        "Valverde",
-        "#MAFSAU",
-        "Real Madrid",
-        "Ollie Watkins",
-        "McAtee",
-        "Yates",
-        "Bec and Gia"
+        "Europa League",
+        "Freiburg",
+        "#CPFC",
+        "Unai Emery",
+        "Buendia"
       ],
       "hashtags": [
+        "#nffc",
+        "#avfc",
         "#AVLNFO",
-        "#RaceAcrossTheWorld",
-        "#MAFSAU",
-        "#EuropaLeague",
-        "#dogsatpollingstations"
+        "#CPFC",
+        "#UFC328"
       ],
       "regular_topics": [
+        "John McGinn",
+        "Istanbul",
+        "Aston Villa",
+        "Europa League",
+        "Freiburg",
+        "Unai Emery",
         "Buendia",
         "Tchouameni",
+        "Watkins",
         "Valverde",
-        "Real Madrid",
-        "Ollie Watkins",
-        "McAtee",
-        "Yates",
-        "Bec and Gia",
-        "Lindelof",
-        "Joe Cole",
-        "MUSLIM INDP"
+        "Vitor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu May 07 2026 21:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:00:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hantavirus",
         "Bouchard",
         "McKenna",
         "Star Fox",
-        "Norris",
-        "Covid",
-        "Alberta",
         "Snowbirds",
+        "Alberta",
+        "Covid",
         "Valverde",
         "Tchouameni",
+        "Norris",
         "Freezies"
       ],
       "hashtags": [
         "#BAYPSG",
+        "#UFC328",
         "#WHLDraft",
-        "#THE_7_MOMENTS_NEVER_END",
-        "#AEWDynamite"
+        "#THE_7_MOMENTS_NEVER_END"
       ],
       "regular_topics": [
         "Hantavirus",
         "Bouchard",
         "McKenna",
         "Star Fox",
-        "Norris",
-        "Covid",
-        "Alberta",
         "Snowbirds",
+        "Alberta",
+        "Covid",
         "Valverde",
         "Tchouameni",
+        "Norris",
         "Freezies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -118,7 +118,7 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 07 2026 21:00:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 21:52:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LSGvsRCB",
         "Prince Yadav",
@@ -127,10 +127,10 @@
         "#STOP_BLINDING_ENGENE",
         "#THE_7_MOMENTS_NEVER_END",
         "#HBDSundeepKishan",
+        "Shepherd",
         "Krunal",
         "Digvesh Rathi",
-        "Rajat Patidar",
-        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u0928\u0947_\u0926\u093f\u0932\u091c\u0940\u0924\u093e_\u091c\u0928\u0924\u093e\u0915\u093e"
+        "Bandar Abbas"
       ],
       "hashtags": [
         "#LSGvsRCB",
@@ -143,13 +143,13 @@
         "Prince Yadav",
         "Jitesh",
         "Tim David",
+        "Shepherd",
         "Krunal",
         "Digvesh Rathi",
-        "Rajat Patidar",
         "Bandar Abbas",
-        "Valverde",
-        "Pant",
+        "Rajat Patidar",
         "Tchouameni",
+        "Valverde",
         "Mitchell Marsh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -157,38 +157,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu May 07 2026 20:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 07 2026 22:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Valverde",
         "Aston Villa",
-        "Al Nassr",
-        "Real Madrid",
         "Unai Emery",
-        "Joao Felix",
-        "Shakira",
-        "Misan By Bamboo",
-        "Saudi Pro League",
         "Europa League",
-        "Baddy"
+        "Crystal Palace",
+        "Valverde",
+        "European",
+        "Freiburg",
+        "Al Nassr",
+        "Rayo",
+        "Real Madrid",
+        "Misan By Bamboo"
       ],
       "hashtags": [
         "#AVLNFO",
-        "#LeadwayArriveAlive",
-        "#MisanApp",
-        "#alt\u0131n"
+        "#UECL",
+        "#alt\u0131n",
+        "#Hantavir\u00fcs"
       ],
       "regular_topics": [
-        "Valverde",
         "Aston Villa",
-        "Al Nassr",
-        "Real Madrid",
         "Unai Emery",
-        "Joao Felix",
-        "Shakira",
-        "Misan By Bamboo",
-        "Saudi Pro League",
         "Europa League",
-        "Baddy"
+        "Crystal Palace",
+        "Valverde",
+        "European",
+        "Freiburg",
+        "Al Nassr",
+        "Rayo",
+        "Real Madrid",
+        "Misan By Bamboo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
