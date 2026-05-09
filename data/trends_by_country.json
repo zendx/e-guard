@@ -1,119 +1,120 @@
 {
-  "generated_at_utc": "2026-05-09T15:27:24.661772+00:00",
+  "generated_at_utc": "2026-05-09T16:12:34.803634+00:00",
   "source": "x.com (API | Public Web Scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 09 2026 14:40:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 09 2026 15:32:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Logan Act",
+        "Tugboat",
+        "Patrick Bailey",
         "Good Saturday",
-        "Slot",
         "All 20",
-        "#LoveYouTeacherSeriesEP9",
-        "Anfield",
-        "#Caturday",
-        "#BrokenOfLoveEP7",
         "Mother's Day",
-        "SECRETS NEVER DIE",
-        "#LIVCHE"
+        "Zirkzee",
+        "Slot",
+        "#Caturday",
+        "#LoveYouTeacherSeriesEP9",
+        "#SUNMUN"
       ],
       "hashtags": [
-        "#LoveYouTeacherSeriesEP9",
         "#Caturday",
-        "#BrokenOfLoveEP7",
-        "#LIVCHE",
-        "#smokefl33t"
+        "#LoveYouTeacherSeriesEP9",
+        "#SUNMUN",
+        "#smokefl33t",
+        "#BrokenOfLoveEP7"
       ],
       "regular_topics": [
         "Logan Act",
+        "Tugboat",
+        "Patrick Bailey",
         "Good Saturday",
-        "Slot",
         "All 20",
-        "Anfield",
         "Mother's Day",
-        "SECRETS NEVER DIE",
-        "Gakpo",
-        "Happy Birthday Steve",
-        "Carney",
-        "Frimpong"
+        "Zirkzee",
+        "Slot",
+        "James Charles",
+        "Anfield",
+        "SECRETS NEVER DIE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 09 2026 14:13:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 09 2026 15:56:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Slot",
         "Gordon Brown",
-        "#LIVCHE",
-        "Gakpo",
-        "Anfield",
-        "Frimpong",
-        "#SaintsFC",
-        "Colwill",
+        "Slot",
+        "Zirkzee",
         "#SUNMUN",
-        "Cucurella",
-        "Liverpool 1-1 Chelsea"
+        "Amad",
+        "Anfield",
+        "Gakpo",
+        "#LIVCHE",
+        "Sunderland",
+        "#wwfc",
+        "Casemiro"
       ],
       "hashtags": [
-        "#LIVCHE",
-        "#SaintsFC",
         "#SUNMUN",
-        "#MIDSOU",
-        "#LoveYouTeacherSeriesEP9"
+        "#LIVCHE",
+        "#wwfc",
+        "#BrandNameSongsOrMovies",
+        "#ChallengeCup"
       ],
       "regular_topics": [
-        "Slot",
         "Gordon Brown",
-        "Gakpo",
+        "Slot",
+        "Zirkzee",
+        "Amad",
         "Anfield",
+        "Gakpo",
+        "Sunderland",
+        "Casemiro",
         "Frimpong",
-        "Colwill",
-        "Cucurella",
-        "Liverpool 1-1 Chelsea",
-        "Ngumoha",
-        "Gravenberch",
-        "Chiesa"
+        "Martinez",
+        "Brobbey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 09 2026 14:09:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 09 2026 15:52:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#LIVCHE",
-        "#LoveYouTeacherSeriesEP9",
-        "Anfield",
-        "Slot",
-        "Greenway",
+        "Zirkzee",
         "Alberta",
+        "Greenway",
         "#Caturday",
+        "Slot",
+        "Mother's Day",
+        "Amad",
+        "Logan Act",
         "Hantavirus",
-        "Liverpool",
-        "Chelsea",
-        "Epstein"
+        "Anfield",
+        "Starmer"
       ],
       "hashtags": [
-        "#LIVCHE",
-        "#LoveYouTeacherSeriesEP9",
         "#Caturday",
-        "#SmackDown"
+        "#SUNMUN",
+        "#LoveYouTeacherSeriesEP9",
+        "#MUFC",
+        "#BrokenOfLoveEP7"
       ],
       "regular_topics": [
-        "Anfield",
-        "Slot",
-        "Greenway",
+        "Zirkzee",
         "Alberta",
-        "Hantavirus",
-        "Liverpool",
-        "Chelsea",
-        "Epstein",
+        "Greenway",
+        "Slot",
         "Mother's Day",
+        "Amad",
+        "Logan Act",
+        "Hantavirus",
+        "Anfield",
         "Starmer",
-        "Good Saturday"
+        "Mount"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
