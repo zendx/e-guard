@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-05-18T19:09:13.050285+00:00",
-  "source": "x.com (API | Public Web Scrape)",
+  "generated_at_utc": "2026-05-18T19:30:40.607827+00:00",
+  "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 18 2026 17:33:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 19:18:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tom Kane",
-        "$DEGEN",
+        "Simi Valley",
         "#STILL_HERE_STILL_SEVEN",
         "#GREY_IS_NOT_THE_END",
-        "#Lanterns",
-        "Professor Utonium",
-        "Anti-Weaponization Fund",
-        "Mosley",
-        "Takeo",
-        "#MondayMotivation",
-        "Luigi Mangione"
+        "Pinecone",
+        "#SandyFire",
+        "Rossi",
+        "Burnley",
+        "#LaSayonaSeSec\u00f3",
+        "Red Delicious",
+        "Anti-Weaponization Fund"
       ],
       "hashtags": [
         "#STILL_HERE_STILL_SEVEN",
         "#GREY_IS_NOT_THE_END",
-        "#Lanterns",
-        "#MondayMotivation",
-        "#setonhall2026"
+        "#SandyFire",
+        "#LaSayonaSeSec\u00f3",
+        "#ARSBUR"
       ],
       "regular_topics": [
         "Tom Kane",
+        "Simi Valley",
+        "Pinecone",
+        "Rossi",
+        "Burnley",
+        "Red Delicious",
+        "Anti-Weaponization Fund",
+        "Brees",
         "$DEGEN",
         "Professor Utonium",
-        "Anti-Weaponization Fund",
-        "Mosley",
-        "Takeo",
-        "Luigi Mangione",
-        "Pelicans",
-        "Brees",
-        "Hal Jordan",
-        "Cher"
+        "Luigi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
