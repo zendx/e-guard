@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-05-18T21:56:43.636035+00:00",
+  "generated_at_utc": "2026-05-18T22:51:31.818983+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 18 2026 21:01:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 21:52:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Havertz",
         "Islamic Center of San Diego",
-        "Simi Valley",
-        "#ARSBUR",
-        "TACO Tuesday",
-        "Tom Kane",
+        "Havertz",
+        "Neymar",
         "Pinecone",
-        "OpenAI",
+        "Joao Pedro",
+        "Simi Valley",
         "Burnley",
-        "#COYG",
-        "Saka"
+        "#ARSBUR",
+        "Tom Kane",
+        "OpenAI",
+        "#COYG"
       ],
       "hashtags": [
         "#ARSBUR",
         "#COYG",
         "#Arsenal",
-        "#SandyFire",
-        "#STILL_HERE_STILL_SEVEN"
+        "#STILL_HERE_STILL_SEVEN",
+        "#SandyFire"
       ],
       "regular_topics": [
-        "Havertz",
         "Islamic Center of San Diego",
-        "Simi Valley",
-        "TACO Tuesday",
-        "Tom Kane",
+        "Havertz",
+        "Neymar",
         "Pinecone",
-        "OpenAI",
+        "Joao Pedro",
+        "Simi Valley",
         "Burnley",
-        "Saka",
-        "Hincapie",
-        "Red Delicious"
+        "Tom Kane",
+        "OpenAI",
+        "TACO Tuesday",
+        "PlayStation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 18 2026 21:30:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 22:21:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Havertz",
         "Burnley",
         "#ARSBUR",
         "PGMOL",
-        "Saka",
-        "Maresca",
-        "Neymar",
         "Joao Pedro",
-        "Hincapie",
+        "Saka",
+        "Neymar",
+        "Brazil",
+        "Maresca",
         "Pep Guardiola",
-        "#COYG"
+        "Hincapie"
       ],
       "hashtags": [
         "#ARSBUR",
         "#COYG",
         "#twitterclarets",
         "#panorama",
-        "#MAFSUK"
+        "#VirginIsland"
       ],
       "regular_topics": [
         "Havertz",
         "Burnley",
         "PGMOL",
-        "Saka",
-        "Maresca",
-        "Neymar",
         "Joao Pedro",
-        "Hincapie",
+        "Saka",
+        "Neymar",
+        "Brazil",
+        "Maresca",
         "Pep Guardiola",
-        "Gyokeres",
-        "Brazil"
+        "Hincapie",
+        "Ancelotti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 18 2026 21:28:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 22:19:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Victoria Day",
         "Havertz",
         "Arsenal",
-        "#ARSBUR",
-        "Patriotes",
-        "Burnley",
         "Neymar",
+        "Joao Pedro",
+        "Patriotes",
         "Ebola",
-        "#COYG",
+        "San Diego",
         "Massie",
-        "Arteta"
+        "Burnley",
+        "#ARSBUR"
       ],
       "hashtags": [
         "#ARSBUR",
@@ -107,14 +107,14 @@
         "Victoria Day",
         "Havertz",
         "Arsenal",
-        "Patriotes",
-        "Burnley",
         "Neymar",
-        "Ebola",
-        "Massie",
-        "Arteta",
         "Joao Pedro",
-        "Hincapie"
+        "Patriotes",
+        "Ebola",
+        "San Diego",
+        "Massie",
+        "Burnley",
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -161,38 +161,36 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 18 2026 21:16:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 22:08:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Brazil",
+        "Neymar",
+        "Joao Pedro",
         "#ARSBUR",
         "Havertz",
+        "Ancelotti",
         "Burnley",
+        "Endrick",
         "#COYG",
-        "Pep Guardiola",
-        "Neymar",
-        "Brazil",
-        "Enzo Maresca",
-        "Congratulations to Arsenal",
-        "Hincapie",
-        "Gunners"
+        "Bournemouth",
+        "Arteta"
       ],
       "hashtags": [
         "#ARSBUR",
-        "#COYG",
-        "#CountByGodinthismusic",
-        "#oraimoxMavo"
+        "#COYG"
       ],
       "regular_topics": [
-        "Havertz",
-        "Burnley",
-        "Pep Guardiola",
-        "Neymar",
         "Brazil",
-        "Enzo Maresca",
-        "Congratulations to Arsenal",
-        "Hincapie",
-        "Gunners",
-        "Corner FC",
-        "Bournemouth"
+        "Neymar",
+        "Joao Pedro",
+        "Havertz",
+        "Ancelotti",
+        "Burnley",
+        "Endrick",
+        "Bournemouth",
+        "Arteta",
+        "Pep Guardiola",
+        "Igor Thiago"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
