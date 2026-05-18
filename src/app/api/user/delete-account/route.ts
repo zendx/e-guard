@@ -20,7 +20,7 @@ export async function POST(request: Request) {
   try {
     const body = (await request.json()) as Body;
     const ip = getClientIp(request);
-    const rl = checkRateLimit(`delete-account:${ip}:${auth.user.id}`, 5, 15 * 60 * 1000);
+    const rl = await checkRateLimit(`delete-account:${ip}:${auth.user.id}`, 5, 15 * 60 * 1000);
     if (!rl.ok) {
       return NextResponse.json(
         { error: "Too many attempts. Try again later." },

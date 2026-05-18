@@ -53,6 +53,10 @@ type DbMetric = {
   usage_limit_override: number | null;
 };
 
+type DbTrackedMetric = DbMetric & {
+  global_free_limit: number;
+};
+
 type DbSetting = {
   key: string;
   value: string;
@@ -434,12 +438,25 @@ export async function trackUserAction(
   userId: string,
   action: "copy" | "post",
 ): Promise<UserUsage> {
+  await ensureUserMetricRow(userId);
+  const supabase = getSupabaseAdminClient();
+  const { data, error } = await supabase
+    .rpc("track_user_action_atomic", {
+      p_user_id: userId,
+      p_action: action,
+    })
+    .single();
+
+  if (!error && data) {
+    const metric = data as DbTrackedMetric;
+    return toUsage(metric, metric.global_free_limit);
+  }
+
   const usage = await getUserUsage(userId);
   if (usage.usageCount >= usage.freeLimit) {
     return usage;
   }
 
-  const supabase = getSupabaseAdminClient();
   const payload: Record<string, number> = {
     usage_count: usage.usageCount + 1,
     copy_clicks: usage.copyClicks,
@@ -453,13 +470,13 @@ export async function trackUserAction(
     payload.post_clicks = usage.postClicks + 1;
   }
 
-  const { error } = await supabase
+  const { error: updateError } = await supabase
     .from(METRICS_TABLE)
     .update(payload)
     .eq("user_id", userId);
 
-  if (error) {
-    throw new Error(`Failed to track usage: ${error.message}`);
+  if (updateError) {
+    throw new Error(`Failed to track usage: ${updateError.message}`);
   }
 
   return getUserUsage(userId);

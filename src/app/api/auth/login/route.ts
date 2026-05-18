@@ -15,7 +15,7 @@ export async function POST(request: Request) {
     const body = (await request.json()) as LoginBody;
     const ip = getClientIp(request);
     const normalizedEmail = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
-    const rl = checkRateLimit(`login:${ip}:${normalizedEmail}`, 10, 15 * 60 * 1000);
+    const rl = await checkRateLimit(`login:${ip}:${normalizedEmail}`, 10, 15 * 60 * 1000);
     if (!rl.ok) {
       return NextResponse.json(
         { error: "Too many login attempts. Try again later." },

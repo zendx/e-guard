@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { spawn } from "node:child_process";
 import path from "node:path";
 import { NextResponse } from "next/server";
+import { requireAdminUser } from "@/lib/auth-session";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
@@ -339,6 +340,11 @@ function runScan(): Promise<{
 
 export async function POST() {
   try {
+    const auth = await requireAdminUser();
+    if (!auth.ok) {
+      return auth.response;
+    }
+
     if (process.env.VERCEL === "1") {
       return NextResponse.json(
         {

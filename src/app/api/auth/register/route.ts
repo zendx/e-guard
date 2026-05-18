@@ -16,7 +16,7 @@ export async function POST(request: Request) {
   try {
     const body = (await request.json()) as RegisterBody;
     const ip = getClientIp(request);
-    const rl = checkRateLimit(`register:${ip}`, 8, 60 * 60 * 1000);
+    const rl = await checkRateLimit(`register:${ip}`, 8, 60 * 60 * 1000);
     if (!rl.ok) {
       return NextResponse.json(
         { error: "Too many registration attempts. Try again later." },

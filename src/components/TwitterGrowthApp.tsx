@@ -497,19 +497,23 @@ export default function TwitterGrowthApp({ user }: TwitterGrowthAppProps) {
             <label className="mb-3 block text-xs font-semibold tracking-widest text-blue-400 uppercase">
               Trending By Country
             </label>
-            <button
-              onClick={scanFreshTopics}
-              disabled={isScanning}
-              className="mb-4 flex w-full items-center justify-center gap-2 rounded-xl border border-blue-500/30 bg-blue-500/15 px-4 py-3 text-sm font-semibold text-blue-200 transition-colors hover:bg-blue-500/25 disabled:cursor-not-allowed disabled:opacity-60"
-            >
-              <RefreshCw
-                size={16}
-                className={isScanning ? "animate-spin" : undefined}
-              />
-              {isScanning ? "Scanning..." : "Scan Fresh Topics"}
-            </button>
+            {currentUser.isAdmin ? (
+              <>
+                <button
+                  onClick={scanFreshTopics}
+                  disabled={isScanning}
+                  className="mb-4 flex w-full items-center justify-center gap-2 rounded-xl border border-blue-500/30 bg-blue-500/15 px-4 py-3 text-sm font-semibold text-blue-200 transition-colors hover:bg-blue-500/25 disabled:cursor-not-allowed disabled:opacity-60"
+                >
+                  <RefreshCw
+                    size={16}
+                    className={isScanning ? "animate-spin" : undefined}
+                  />
+                  {isScanning ? "Scanning..." : "Scan Fresh Topics"}
+                </button>
 
-            {scanStatus ? <p className="mb-4 text-xs text-blue-300">{scanStatus}</p> : null}
+                {scanStatus ? <p className="mb-4 text-xs text-blue-300">{scanStatus}</p> : null}
+              </>
+            ) : null}
 
             <div className="mb-5 flex flex-wrap gap-2">
               {countries.map((country) => (
