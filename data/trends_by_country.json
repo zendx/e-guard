@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-18T19:30:40.607827+00:00",
+  "generated_at_utc": "2026-05-18T20:50:38.889618+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,97 +43,98 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 18 2026 18:54:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 19:45:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ARSBUR",
         "Burnley",
-        "Makerfield",
         "Havertz",
-        "Aaron Rai",
-        "Moyes",
-        "Burnham",
-        "London",
-        "Islam",
-        "PGMO",
+        "Saka",
+        "#panorama",
         "Gyokeres",
-        "#ARSBUR"
+        "#COYG",
+        "#MAFSUK",
+        "Hannibal",
+        "Set Piece FC",
+        "PGMO"
       ],
       "hashtags": [
         "#ARSBUR",
+        "#panorama",
         "#COYG",
+        "#MAFSUK",
         "#STILL_HERE_STILL_SEVEN",
-        "#GREY_IS_NOT_THE_END",
-        "#MondayMotivation"
+        "#GREY_IS_NOT_THE_END"
       ],
       "regular_topics": [
         "Burnley",
-        "Makerfield",
         "Havertz",
-        "Aaron Rai",
-        "Moyes",
-        "Burnham",
-        "London",
-        "Islam",
-        "PGMO",
+        "Saka",
         "Gyokeres",
-        "$DEGEN"
+        "Hannibal",
+        "Set Piece FC",
+        "PGMO",
+        "Pep Guardiola",
+        "Corner FC",
+        "North London Forever",
+        "Flemming"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 18 2026 18:51:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 19:42:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Victoria Day",
+        "Havertz",
         "Patriotes",
         "Ebola",
         "Massie",
-        "OpenAI",
+        "Burnley",
+        "#ARSBUR",
+        "Gyokeres",
+        "Arsenal",
         "Berube",
-        "Game 7",
-        "#euphoria",
-        "#GREY_IS_NOT_THE_END",
-        "#STILL_HERE_STILL_SEVEN",
-        "Burnley"
+        "Game 7"
       ],
       "hashtags": [
+        "#ARSBUR",
+        "#COYG",
         "#euphoria",
-        "#GREY_IS_NOT_THE_END",
-        "#STILL_HERE_STILL_SEVEN",
         "#7_UNDER_THE_MOONLIGHT",
         "#OUR_PINK_MOON"
       ],
       "regular_topics": [
         "Victoria Day",
+        "Havertz",
         "Patriotes",
         "Ebola",
         "Massie",
-        "OpenAI",
+        "Burnley",
+        "Gyokeres",
+        "Arsenal",
         "Berube",
         "Game 7",
-        "Burnley",
-        "Taiwan",
-        "Greenland",
-        "Pride"
+        "OpenAI"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 18 2026 18:42:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 19:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CSKvsSRH",
         "Ishan Kishan",
         "#PeddiTrailerOnlyOnDistrict",
         "#GREY_IS_NOT_THE_END",
         "#STILL_HERE_STILL_SEVEN",
-        "District App",
         "Ruturaj",
-        "Klassen",
+        "District App",
         "Norway",
         "Chepauk",
-        "Fleming"
+        "Klassen",
+        "Dhoni"
       ],
       "hashtags": [
         "#CSKvsSRH",
@@ -144,54 +145,54 @@
       ],
       "regular_topics": [
         "Ishan Kishan",
-        "District App",
         "Ruturaj",
-        "Klassen",
+        "District App",
         "Norway",
         "Chepauk",
-        "Fleming",
+        "Klassen",
         "Dhoni",
+        "Fleming",
         "EST SUPHA BD 2026",
-        "Norwegian",
-        "Sanju"
+        "Sanju",
+        "Norwegian"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 18 2026 18:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 18 2026 20:24:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ARSBUR",
         "Burnley",
         "Havertz",
-        "#CountByGodinthismusic",
-        "#oraimoxMavo",
-        "#ARSBUR",
+        "Corner FC",
+        "Gyokeres",
+        "#COYG",
+        "Pep Guardiola",
+        "Enzo Maresca",
+        "Hannibal",
         "Akara",
-        "Ned Nwoko",
-        "Okowa",
-        "Regina",
-        "PGMO",
-        "Emirates"
+        "#CountByGodinthismusic"
       ],
       "hashtags": [
-        "#CountByGodinthismusic",
-        "#oraimoxMavo",
         "#ARSBUR",
-        "#bnwo"
+        "#COYG",
+        "#CountByGodinthismusic",
+        "#oraimoxMavo"
       ],
       "regular_topics": [
         "Burnley",
         "Havertz",
+        "Corner FC",
+        "Gyokeres",
+        "Pep Guardiola",
+        "Enzo Maresca",
+        "Hannibal",
         "Akara",
-        "Ned Nwoko",
-        "Okowa",
-        "Regina",
-        "PGMO",
         "Emirates",
-        "Mourinho",
-        "Cura\u00e7ao",
-        "Roddy"
+        "DR Congo",
+        "Paul Onuachu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
