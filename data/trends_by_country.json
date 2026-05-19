@@ -1,198 +1,196 @@
 {
-  "generated_at_utc": "2026-05-19T20:13:03.742968+00:00",
+  "generated_at_utc": "2026-05-19T21:50:49.767150+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 19 2026 19:33:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 21:18:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
+        "#COYG",
         "Paxton",
         "Cornyn",
+        "Save America Act",
         "Happy Birthday Danny",
-        "Property",
-        "Rashee Rice",
-        "SAVE Act",
         "Talarico",
-        "Beto",
+        "Property",
         "Bournemouth",
-        "Gemini 3.5 Flash",
-        "Susan Collins"
+        "Rashee Rice",
+        "Tottenham"
       ],
       "hashtags": [
+        "#COYG",
+        "#BOUMCI",
         "#BLUE_MOON_7_DESTINY",
         "#OUR_GLOW_IS_SEVEN",
-        "#GoogleIO",
-        "#Dragon",
-        "#BOUMCI"
+        "#CHETOT"
       ],
       "regular_topics": [
+        "Arsenal",
         "Paxton",
         "Cornyn",
+        "Save America Act",
         "Happy Birthday Danny",
-        "Property",
-        "Rashee Rice",
-        "SAVE Act",
         "Talarico",
-        "Beto",
+        "Property",
         "Bournemouth",
-        "Gemini 3.5 Flash",
-        "Susan Collins"
+        "Rashee Rice",
+        "Tottenham",
+        "Mikel Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 19 2026 20:01:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 20:52:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
         "Southampton",
-        "Boro",
-        "Hull",
-        "#saintsfc",
-        "Middlesbrough",
         "Bournemouth",
-        "Oxford",
-        "Kroupi",
+        "Boro",
+        "#COYG",
         "#BOUMCI",
-        "#spygate",
-        "#CHETOT"
+        "#saintsfc",
+        "Hull",
+        "Middlesbrough",
+        "#CHETOT",
+        "Mikel Arteta"
       ],
       "hashtags": [
-        "#saintsfc",
+        "#COYG",
         "#BOUMCI",
-        "#spygate",
+        "#saintsfc",
         "#CHETOT",
-        "#hcafc"
+        "#spygate"
       ],
       "regular_topics": [
+        "Arsenal",
         "Southampton",
+        "Bournemouth",
         "Boro",
         "Hull",
         "Middlesbrough",
-        "Bournemouth",
+        "Mikel Arteta",
+        "Man City",
         "Oxford",
         "Kroupi",
-        "Happy Birthday Danny",
-        "The EFL",
-        "Kolo Muani",
-        "Enzo Fernandez"
+        "Kolo Muani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 19 2026 19:57:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 21:40:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
+        "#COYG",
+        "Champions",
         "Habs",
-        "Wemby",
         "Massie",
-        "Snowbirds",
-        "Foote",
+        "Wemby",
+        "Bournemouth",
         "Victoria Day",
-        "Manny",
-        "Carolina",
-        "Buffalo",
+        "Snowbirds",
         "#bucciovertimechallenge",
-        "Dobes"
+        "Carolina"
       ],
       "hashtags": [
+        "#COYG",
         "#bucciovertimechallenge",
-        "#Canucks",
         "#BOUMCI",
-        "#BLUE_MOON_7_DESTINY",
+        "#Canucks",
         "#OUR_GLOW_IS_SEVEN"
       ],
       "regular_topics": [
+        "Arsenal",
+        "Champions",
         "Habs",
-        "Wemby",
         "Massie",
-        "Snowbirds",
-        "Foote",
+        "Wemby",
+        "Bournemouth",
         "Victoria Day",
-        "Manny",
+        "Snowbirds",
         "Carolina",
-        "Buffalo",
-        "Dobes",
-        "Bournemouth"
+        "Ebola",
+        "Buffalo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 19 2026 19:46:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 21:32:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Dragon",
+        "#Arsenal",
         "#HappyBirthdayNTR",
+        "#COYG",
         "#RRvsLSG",
-        "#NTRNeel",
+        "Bournemouth",
         "Vaibhav Sooryavanshi",
-        "#BLUE_MOON_7_DESTINY",
-        "Salaar",
-        "The DEVIL WAS BORN",
-        "Anthropic",
-        "Rishabh Pant",
-        "Gemini 3.5 Flash"
+        "Mikel Arteta",
+        "After 22",
+        "Gemini 3.5 Flash",
+        "The DEVIL WAS BORN"
       ],
       "hashtags": [
         "#Dragon",
+        "#Arsenal",
         "#HappyBirthdayNTR",
-        "#RRvsLSG",
-        "#NTRNeel",
-        "#BLUE_MOON_7_DESTINY"
+        "#COYG",
+        "#RRvsLSG"
       ],
       "regular_topics": [
+        "Bournemouth",
         "Vaibhav Sooryavanshi",
-        "Salaar",
+        "Mikel Arteta",
+        "After 22",
+        "Gemini 3.5 Flash",
         "The DEVIL WAS BORN",
         "Anthropic",
-        "Rishabh Pant",
-        "Gemini 3.5 Flash",
-        "Rajasthan Royals",
+        "North London",
+        "Spurs",
         "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "\u0907\u0915\u0930\u093e \u0939\u0938\u0928",
-        "Bournemouth",
-        "Antigravity 2.0"
+        "Rishabh Pant"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 19 2026 19:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 21:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BOUMCI",
+        "Arsenal",
+        "After 22",
+        "#COYG",
+        "Up Gunners",
+        "North London",
         "Bournemouth",
-        "Southampton",
-        "Kroupi",
-        "Enzo Fernandez",
-        "Congratulations Arsenal",
+        "#BOUMCI",
+        "Tottenham",
+        "Max Dowman",
         "#CHETOT",
-        "Toke",
-        "Evanilson",
-        "Middlesbrough",
-        "Equatorial Guinea"
+        "Enzo Fernandez"
       ],
       "hashtags": [
+        "#COYG",
         "#BOUMCI",
-        "#CHETOT",
-        "#LeadwayPensureWebinar",
-        "#MortalKombat2NGA",
-        "#YourPensionwithLeadwayPensure"
+        "#CHETOT"
       ],
       "regular_topics": [
+        "Arsenal",
+        "After 22",
+        "Up Gunners",
+        "North London",
         "Bournemouth",
-        "Southampton",
-        "Kroupi",
-        "Enzo Fernandez",
-        "Congratulations Arsenal",
-        "Toke",
-        "Evanilson",
-        "Middlesbrough",
-        "Equatorial Guinea",
         "Tottenham",
-        "William Gomes"
+        "Max Dowman",
+        "Enzo Fernandez",
+        "Kroupi",
+        "Manchester City",
+        "Well Deserved"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
