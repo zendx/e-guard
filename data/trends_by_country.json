@@ -1,29 +1,28 @@
 {
-  "generated_at_utc": "2026-05-19T22:54:55.529766+00:00",
+  "generated_at_utc": "2026-05-19T23:51:26.895792+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 19 2026 22:09:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 23:00:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "#COYG",
         "Paxton",
+        "#COYG",
         "Save America Act",
         "Cornyn",
         "Happy Birthday Danny",
         "Talarico",
         "Property",
-        "Bournemouth",
         "Rashee Rice",
-        "Beto"
+        "Bournemouth",
+        "Burton"
       ],
       "hashtags": [
         "#COYG",
-        "#BOUMCI",
         "#BLUE_MOON_7_DESTINY",
         "#OUR_GLOW_IS_SEVEN",
-        "#CHETOT"
+        "#LingDiorParfumsDinner"
       ],
       "regular_topics": [
         "Arsenal",
@@ -33,29 +32,29 @@
         "Happy Birthday Danny",
         "Talarico",
         "Property",
-        "Bournemouth",
         "Rashee Rice",
-        "Beto",
-        "Tottenham"
+        "Bournemouth",
+        "Burton",
+        "MAJOR ANNOUNCEMENT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 19 2026 21:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 23:28:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Bournemouth",
-        "Southampton",
         "#COYG",
-        "Boro",
-        "#saintsfc",
+        "Southampton",
+        "Bournemouth",
+        "Spurs",
+        "North London",
+        "Arteta",
         "Muani",
-        "#CHETOT",
-        "#BOUMCI",
-        "Hull",
-        "North London"
+        "Boro",
+        "Emirates",
+        "Tottenham"
       ],
       "hashtags": [
         "#COYG",
@@ -66,115 +65,119 @@
       ],
       "regular_topics": [
         "Arsenal",
-        "Bournemouth",
         "Southampton",
-        "Boro",
-        "Muani",
-        "Hull",
+        "Bournemouth",
+        "Spurs",
         "North London",
-        "Mikel Arteta",
+        "Arteta",
+        "Muani",
+        "Boro",
+        "Emirates",
         "Tottenham",
-        "Delap",
-        "Man City"
+        "Hull"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 19 2026 21:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 23:24:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#COYG",
-        "Champions",
-        "Habs",
-        "Massie",
-        "Wemby",
-        "Bournemouth",
-        "Victoria Day",
         "Snowbirds",
-        "#bucciovertimechallenge",
-        "Carolina"
+        "Champions",
+        "#onstorm",
+        "All Dressed",
+        "Ketchup",
+        "Masai",
+        "After 22",
+        "Gunners",
+        "Bournemouth"
       ],
       "hashtags": [
         "#COYG",
-        "#bucciovertimechallenge",
-        "#BOUMCI",
-        "#Canucks",
+        "#onstorm",
+        "#onwx",
+        "#BLUE_MOON_7_DESTINY",
         "#OUR_GLOW_IS_SEVEN"
       ],
       "regular_topics": [
         "Arsenal",
-        "Champions",
-        "Habs",
-        "Massie",
-        "Wemby",
-        "Bournemouth",
-        "Victoria Day",
         "Snowbirds",
-        "Carolina",
-        "Ebola",
-        "Buffalo"
+        "Champions",
+        "All Dressed",
+        "Ketchup",
+        "Masai",
+        "After 22",
+        "Gunners",
+        "Bournemouth",
+        "Mikel Arteta",
+        "Happy Birthday Danny"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 19 2026 22:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 23:16:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Dragon",
         "#Arsenal",
+        "#Dragon",
         "#HappyBirthdayNTR",
         "#COYG",
         "#Champions",
+        "Arteta",
         "Bournemouth",
-        "Mikel Arteta",
         "Vaibhav Sooryavanshi",
         "After 22",
-        "Gemini 3.5 Flash",
-        "North London"
+        "Luger",
+        "Declan Rice"
       ],
       "hashtags": [
-        "#Dragon",
         "#Arsenal",
+        "#Dragon",
         "#HappyBirthdayNTR",
         "#COYG",
         "#Champions",
         "#RRvsLSG",
-        "#OUR_GLOW_IS_SEVEN"
+        "#OUR_GLOW_IS_SEVEN",
+        "#BLUE_MOON_7_DESTINY",
+        "#Melodi",
+        "#NTRNeel",
+        "#BOUMCI"
       ],
       "regular_topics": [
+        "Arteta",
         "Bournemouth",
-        "Mikel Arteta",
         "Vaibhav Sooryavanshi",
         "After 22",
-        "Gemini 3.5 Flash",
-        "North London",
-        "Anthropic",
-        "The DEVIL WAS BORN",
-        "Spurs",
+        "Luger",
         "Declan Rice",
-        "Gunners"
+        "Gemini 3.5 Flash",
+        "Emirates",
+        "North London",
+        "Salaar",
+        "Anthropic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 19 2026 22:21:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 19 2026 23:12:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#COYG",
         "Up Gunners",
         "After 22",
         "North London",
-        "Bournemouth",
         "Max Dowman",
+        "Bournemouth",
         "#BOUMCI",
         "Tottenham",
-        "Congratulations to Us",
-        "Man City"
+        "Budapest",
+        "Congratulations to Us"
       ],
       "hashtags": [
         "#COYG",
@@ -187,13 +190,13 @@
         "Up Gunners",
         "After 22",
         "North London",
-        "Bournemouth",
         "Max Dowman",
+        "Bournemouth",
         "Tottenham",
+        "Budapest",
         "Congratulations to Us",
-        "Man City",
-        "Enzo Fernandez",
-        "Bukayo"
+        "Bukayo",
+        "Enzo Fernandez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
