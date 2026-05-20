@@ -1,40 +1,40 @@
 {
-  "generated_at_utc": "2026-05-20T22:18:07.945993+00:00",
+  "generated_at_utc": "2026-05-20T23:43:56.980910+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed May 20 2026 21:33:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 20 2026 22:27:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Betty Boop",
         "Bezos",
         "Aston Villa",
-        "Unai Emery",
-        "$NVDA",
-        "Barney Frank",
         "Homelander",
+        "Unai Emery",
+        "Tamar",
+        "#FELIXxLVCRUISE27",
+        "$NVDA",
         "Ra\u00fal Castro",
-        "Europa League",
-        "Ben Gvir",
-        "The Boys"
+        "Barney Frank",
+        "Ben Gvir"
       ],
       "hashtags": [
+        "#FELIXxLVCRUISE27",
         "#PawDay",
-        "#AVFC",
         "#Fair_Treatment_For_SevEN",
         "#BELIFT_Boycott",
-        "#BeyondTheGates"
+        "#AVFC"
       ],
       "regular_topics": [
         "Betty Boop",
         "Bezos",
         "Aston Villa",
-        "Unai Emery",
-        "$NVDA",
-        "Barney Frank",
         "Homelander",
+        "Unai Emery",
+        "Tamar",
+        "$NVDA",
         "Ra\u00fal Castro",
-        "Europa League",
+        "Barney Frank",
         "Ben Gvir",
         "The Boys"
       ],
@@ -43,18 +43,18 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed May 20 2026 22:03:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 20 2026 22:54:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Villa",
-        "Unai Emery",
         "#AVFC",
+        "Unai Emery",
         "Europa League",
         "Freiburg",
         "Buendia",
         "#FREAVL",
         "Tielemans",
-        "#UELfinal",
         "John McGinn",
+        "#UELfinal",
         "Harvey Elliott"
       ],
       "hashtags": [
@@ -62,7 +62,7 @@
         "#FREAVL",
         "#UELfinal",
         "#saintsfc",
-        "#UTFV"
+        "#bbcdn"
       ],
       "regular_topics": [
         "Villa",
@@ -82,123 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed May 20 2026 21:57:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 20 2026 22:51:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Massie",
         "Snowbirds",
         "Arsenal",
-        "Unai Emery",
-        "Aston Villa",
-        "Kentucky",
-        "Smarties",
         "Israel",
         "Ben Gvir",
+        "Kentucky",
+        "Smarties",
         "Bezos",
-        "The Boys"
+        "NATO",
+        "The Boys",
+        "AIPAC"
       ],
       "hashtags": [
         "#COYG",
         "#GoHabsGo",
         "#WWENXT",
-        "#BLUE_MOON_7_DESTINY",
-        "#OUR_GLOW_IS_SEVEN"
+        "#Boumci",
+        "#WorldBeeDay"
       ],
       "regular_topics": [
         "Massie",
         "Snowbirds",
         "Arsenal",
-        "Unai Emery",
-        "Aston Villa",
-        "Kentucky",
-        "Smarties",
         "Israel",
         "Ben Gvir",
+        "Kentucky",
+        "Smarties",
         "Bezos",
-        "The Boys"
+        "NATO",
+        "The Boys",
+        "AIPAC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed May 20 2026 21:48:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 20 2026 22:40:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Melody",
+        "#Dragon",
         "#KKRvsMI",
-        "#MelodyVeryVeryGoodToffee",
+        "#HappyBirthdayNTR",
+        "#GalaxyA57",
+        "Meloni",
+        "#RajkumarHirani",
+        "Cockroach Janta Party",
+        "Norway",
         "Manish Pandey",
-        "#Fair_Treatment_For_SevEN",
-        "#CockroachJantaParty",
-        "#BELIFT_Boycott",
-        "Europa League",
-        "Aston Villa",
-        "Corbin Bosch",
-        "Unai Emery",
         "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940"
       ],
       "hashtags": [
+        "#Dragon",
         "#KKRvsMI",
-        "#MelodyVeryVeryGoodToffee",
-        "#Fair_Treatment_For_SevEN",
-        "#CockroachJantaParty",
-        "#BELIFT_Boycott",
-        "#HappyBirthdayMohanlal",
-        "#TheBoys",
-        "#PowerCut",
-        "#Drishyam3",
-        "#\u092e\u0947\u0932\u094b\u0921\u0940",
-        "#mugshots"
+        "#HappyBirthdayNTR",
+        "#GalaxyA57",
+        "#RajkumarHirani"
       ],
       "regular_topics": [
+        "Melody",
+        "Meloni",
+        "Cockroach Janta Party",
+        "Norway",
         "Manish Pandey",
-        "Europa League",
-        "Aston Villa",
-        "Corbin Bosch",
-        "Unai Emery",
         "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u092a\u093e\u0935\u0930 \u0939\u093e\u0909\u0938",
-        "Tejasvi",
-        "GenZ",
-        "\u092c\u093f\u091c\u0932\u0940 \u0935\u093f\u092d\u093e\u0917",
-        "Rovman Powell"
+        "Rome",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
+        "Arsenal",
+        "\u092e\u0947\u0932\u094b\u0921\u0940 \u091f\u0949\u092b\u0940",
+        "jan bhagidari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed May 20 2026 21:45:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 20 2026 23:31:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Unai Emery",
         "Aston Villa",
-        "Europa League",
         "European",
-        "Freiburg",
         "Fubara",
-        "Morgan Rogers",
+        "Freiburg",
         "Sancho",
-        "Buendia",
-        "Tielemans",
+        "Rivers",
+        "Morgan Rogers",
+        "Tammy Abraham",
+        "Hamza Abdelkarim",
         "#UELfinal"
       ],
       "hashtags": [
         "#UELfinal",
         "#FREAVL",
         "#AVFC",
-        "#MayorLuckyObinwa",
-        "#salland\u0131k"
+        "#salland\u0131k",
+        "#MayorLuckyObinwa"
       ],
       "regular_topics": [
         "Unai Emery",
         "Aston Villa",
-        "Europa League",
         "European",
-        "Freiburg",
         "Fubara",
-        "Morgan Rogers",
+        "Freiburg",
         "Sancho",
-        "Buendia",
-        "Tielemans",
-        "Tammy Abraham"
+        "Rivers",
+        "Morgan Rogers",
+        "Tammy Abraham",
+        "Hamza Abdelkarim",
+        "Buendia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
