@@ -1,156 +1,156 @@
 {
-  "generated_at_utc": "2026-05-21T18:49:33.336790+00:00",
+  "generated_at_utc": "2026-05-21T20:27:43.799666+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 21 2026 17:44:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 19:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Destiny 2",
-        "#OlandriaxBrandonBlackwoodNYC",
+        "Bungie",
+        "Marathon",
         "Tuchel",
-        "Maguire",
-        "Aimee Bock",
-        "Ken Martin",
+        "Shaolin Monks",
+        "#OlandriaxBrandonBlackwoodNYC",
         "Final Shape",
-        "Foden",
-        "Memorial Day",
-        "Colbert",
-        "#5YearsOfSOUR"
+        "Maguire",
+        "Ken Martin",
+        "Happy Birthday Laura",
+        "Aimee Bock"
       ],
       "hashtags": [
         "#OlandriaxBrandonBlackwoodNYC",
-        "#5YearsOfSOUR",
+        "#SevEN_Always_Complete",
+        "#PROTECT_7EGACY",
         "#pilotstwtselfieday",
-        "#smokerises",
-        "#SevEN_Always_Complete"
+        "#smokerises"
       ],
       "regular_topics": [
         "Destiny 2",
+        "Bungie",
+        "Marathon",
         "Tuchel",
-        "Maguire",
-        "Aimee Bock",
-        "Ken Martin",
+        "Shaolin Monks",
         "Final Shape",
-        "Foden",
-        "Memorial Day",
-        "Colbert",
-        "Brandon Lowe",
-        "Feeding Our Future"
+        "Maguire",
+        "Ken Martin",
+        "Happy Birthday Laura",
+        "Aimee Bock",
+        "Foden"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 21 2026 18:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 19:06:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tuchel",
         "Maguire",
-        "Foden",
-        "Dan Burn",
+        "England",
         "Henderson",
+        "Dan Burn",
+        "Palmer",
         "Wharton",
-        "Colwill",
+        "Toney",
+        "Lewis Hall",
         "Madueke",
-        "World Cup",
-        "Ivan Toney",
-        "Destiny 2"
+        "Southgate"
       ],
       "hashtags": [
-        "#thechase",
         "#ThreeLions",
-        "#ITV7InItToWinIt",
-        "#pilotstwtselfieday"
+        "#RaceAcrossTheWorld",
+        "#thechase",
+        "#EastEnders"
       ],
       "regular_topics": [
         "Tuchel",
         "Maguire",
-        "Foden",
-        "Dan Burn",
+        "England",
         "Henderson",
+        "Dan Burn",
+        "Palmer",
         "Wharton",
-        "Colwill",
+        "Toney",
+        "Lewis Hall",
         "Madueke",
-        "World Cup",
-        "Ivan Toney",
-        "Destiny 2"
+        "Southgate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu May 21 2026 18:06:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 19:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Linglingkwong",
+        "Tuchel",
         "Destiny 2",
         "#Survivor50",
-        "Tuchel",
         "Ben Gvir",
+        "Bungie",
         "Maguire",
         "Israel",
-        "Bungie",
         "Homelander",
         "Ebola",
-        "Massie"
+        "Cristiano Ronaldo",
+        "Foden"
       ],
       "hashtags": [
-        "#Linglingkwong",
         "#Survivor50",
-        "#AEWDynamite",
-        "#BELIFT_Boycott"
+        "#Linglingkwong",
+        "#OlandriaxBrandonBlackwoodNYC",
+        "#AEWDynamite"
       ],
       "regular_topics": [
-        "Destiny 2",
         "Tuchel",
+        "Destiny 2",
         "Ben Gvir",
+        "Bungie",
         "Maguire",
         "Israel",
-        "Bungie",
         "Homelander",
         "Ebola",
-        "Massie",
-        "Talbot",
-        "The Boys"
+        "Cristiano Ronaldo",
+        "Foden",
+        "Marathon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 21 2026 17:57:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 19:44:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MayankAryaAtCannes",
+        "#SavePunjabDogs",
         "#GTvsCSK",
+        "#MayankAryaAtCannes",
         "Yes Madam",
         "#Durlabh_Darshan_Sant_Ke",
         "Darshan Karlo Kismat Walo",
+        "Tuchel",
         "#SevEN_Always_Complete",
-        "#PROTECT_7EGACY",
         "Shubman Gill",
         "\u0926\u0930\u094d\u0936\u0928 \u0926\u0941\u0930\u094d\u0932\u092d",
-        "Shivam Dube",
-        "\u092a\u093e\u0935\u0928 \u0926\u0930\u094d\u0936\u0928"
+        "East Bengal"
       ],
       "hashtags": [
-        "#MayankAryaAtCannes",
+        "#SavePunjabDogs",
         "#GTvsCSK",
+        "#MayankAryaAtCannes",
         "#Durlabh_Darshan_Sant_Ke",
-        "#SevEN_Always_Complete",
-        "#PROTECT_7EGACY"
+        "#SevEN_Always_Complete"
       ],
       "regular_topics": [
         "Yes Madam",
         "Darshan Karlo Kismat Walo",
+        "Tuchel",
         "Shubman Gill",
         "\u0926\u0930\u094d\u0936\u0928 \u0926\u0941\u0930\u094d\u0932\u092d",
-        "Shivam Dube",
-        "\u092a\u093e\u0935\u0928 \u0926\u0930\u094d\u0936\u0928",
-        "Tuchel",
         "East Bengal",
-        "Anshul Kamboj",
-        "Dharmendra Pradhan",
+        "Shivam Dube",
+        "England",
+        "Gujarat Titans",
+        "\u092a\u093e\u0935\u0928 \u0926\u0930\u094d\u0936\u0928",
         "Maguire"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -158,39 +158,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu May 21 2026 17:56:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 19:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tuchel",
+        "Al Nassr",
         "Maguire",
+        "Cristiano Ronaldo",
         "England",
-        "Foden",
-        "Colwill",
-        "NYSC",
-        "Mr Eazi",
-        "Pepsi",
-        "Madueke",
-        "Kobbie Mainoo",
-        "#NLPUK2026"
+        "Saudi",
+        "Palmer",
+        "Sadio Mane",
+        "Al Hilal",
+        "Damac",
+        "Bento"
       ],
       "hashtags": [
-        "#NLPUK2026",
         "#Accion20YearsOfImpact",
-        "#LISAxANITTAxREMA",
-        "#BrightMorgan",
-        "#BinancePizza"
+        "#NLPUK2026",
+        "#LISAxANITTAxREMA"
       ],
       "regular_topics": [
         "Tuchel",
+        "Al Nassr",
         "Maguire",
+        "Cristiano Ronaldo",
         "England",
-        "Foden",
-        "Colwill",
-        "NYSC",
-        "Mr Eazi",
-        "Pepsi",
-        "Madueke",
-        "Kobbie Mainoo",
-        "Ederson"
+        "Saudi",
+        "Palmer",
+        "Sadio Mane",
+        "Al Hilal",
+        "Damac",
+        "Bento"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
