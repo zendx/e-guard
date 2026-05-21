@@ -1,198 +1,196 @@
 {
-  "generated_at_utc": "2026-05-20T23:43:56.980910+00:00",
+  "generated_at_utc": "2026-05-21T01:57:01.797326+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed May 20 2026 22:27:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 01:03:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Survivor50",
+        "#AEWDynamite",
+        "Not Israel",
         "Betty Boop",
-        "Bezos",
-        "Aston Villa",
+        "Dom Smith",
+        "Tiff",
+        "Mark Briscoe",
+        "Joey Jones",
         "Homelander",
-        "Unai Emery",
-        "Tamar",
-        "#FELIXxLVCRUISE27",
-        "$NVDA",
-        "Ra\u00fal Castro",
-        "Barney Frank",
-        "Ben Gvir"
+        "Cabrera",
+        "Bezos"
       ],
       "hashtags": [
+        "#Survivor50",
+        "#AEWDynamite",
         "#FELIXxLVCRUISE27",
-        "#PawDay",
-        "#Fair_Treatment_For_SevEN",
-        "#BELIFT_Boycott",
-        "#AVFC"
+        "#Cinemzel26",
+        "#LHHMIA"
       ],
       "regular_topics": [
+        "Not Israel",
         "Betty Boop",
-        "Bezos",
-        "Aston Villa",
+        "Dom Smith",
+        "Tiff",
+        "Mark Briscoe",
+        "Joey Jones",
         "Homelander",
-        "Unai Emery",
-        "Tamar",
-        "$NVDA",
-        "Ra\u00fal Castro",
-        "Barney Frank",
-        "Ben Gvir",
-        "The Boys"
+        "Cabrera",
+        "Bezos",
+        "Vanessa Trump",
+        "Tamar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed May 20 2026 22:54:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 01:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Villa",
+        "#AEWDynamite",
         "#AVFC",
         "Unai Emery",
         "Europa League",
         "Freiburg",
-        "Buendia",
-        "#FREAVL",
-        "Tielemans",
+        "Ben Gvir",
         "John McGinn",
-        "#UELfinal",
+        "The Boys",
+        "Buendia",
         "Harvey Elliott"
       ],
       "hashtags": [
+        "#AEWDynamite",
         "#AVFC",
-        "#FREAVL",
         "#UELfinal",
-        "#saintsfc",
-        "#bbcdn"
+        "#BCFC"
       ],
       "regular_topics": [
         "Villa",
         "Unai Emery",
         "Europa League",
         "Freiburg",
-        "Buendia",
-        "Tielemans",
-        "John McGinn",
-        "Harvey Elliott",
         "Ben Gvir",
+        "John McGinn",
+        "The Boys",
+        "Buendia",
+        "Harvey Elliott",
         "Jury",
-        "Prince William"
+        "Homelander"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed May 20 2026 22:51:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 01:28:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Survivor50",
         "Massie",
+        "Stephon Castle",
+        "Abby Roque",
         "Snowbirds",
-        "Arsenal",
+        "#AEWDynamite",
         "Israel",
         "Ben Gvir",
+        "Arsenal",
         "Kentucky",
-        "Smarties",
-        "Bezos",
-        "NATO",
-        "The Boys",
-        "AIPAC"
+        "Bezos"
       ],
       "hashtags": [
+        "#Survivor50",
+        "#AEWDynamite",
+        "#GoAvsGo",
         "#COYG",
-        "#GoHabsGo",
-        "#WWENXT",
-        "#Boumci",
-        "#WorldBeeDay"
+        "#ableg"
       ],
       "regular_topics": [
         "Massie",
+        "Stephon Castle",
+        "Abby Roque",
         "Snowbirds",
-        "Arsenal",
         "Israel",
         "Ben Gvir",
+        "Arsenal",
         "Kentucky",
-        "Smarties",
         "Bezos",
-        "NATO",
         "The Boys",
-        "AIPAC"
+        "Aubry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed May 20 2026 22:40:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 01:18:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BraveheartWomen",
         "Melody",
+        "#GodMorningThursday",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "#Dragon",
         "#KKRvsMI",
         "#HappyBirthdayNTR",
-        "#GalaxyA57",
         "Meloni",
-        "#RajkumarHirani",
         "Cockroach Janta Party",
         "Norway",
-        "Manish Pandey",
-        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940"
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923"
       ],
       "hashtags": [
+        "#BraveheartWomen",
+        "#GodMorningThursday",
         "#Dragon",
         "#KKRvsMI",
-        "#HappyBirthdayNTR",
-        "#GalaxyA57",
-        "#RajkumarHirani"
+        "#HappyBirthdayNTR"
       ],
       "regular_topics": [
         "Melody",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "Meloni",
         "Cockroach Janta Party",
         "Norway",
-        "Manish Pandey",
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
         "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "Rome",
+        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
+        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "Arsenal",
-        "\u092e\u0947\u0932\u094b\u0921\u0940 \u091f\u0949\u092b\u0940",
-        "jan bhagidari"
+        "Rome"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed May 20 2026 23:31:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 01:15:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Unai Emery",
         "Aston Villa",
-        "European",
+        "Europa League",
         "Fubara",
-        "Freiburg",
-        "Sancho",
+        "European",
         "Rivers",
-        "Morgan Rogers",
+        "Sancho",
+        "Freiburg",
         "Tammy Abraham",
-        "Hamza Abdelkarim",
-        "#UELfinal"
+        "Morgan Rogers",
+        "SpaceX"
       ],
       "hashtags": [
         "#UELfinal",
-        "#FREAVL",
         "#AVFC",
         "#salland\u0131k",
-        "#MayorLuckyObinwa"
+        "#ometv"
       ],
       "regular_topics": [
         "Unai Emery",
         "Aston Villa",
-        "European",
+        "Europa League",
         "Fubara",
-        "Freiburg",
-        "Sancho",
+        "European",
         "Rivers",
-        "Morgan Rogers",
+        "Sancho",
+        "Freiburg",
         "Tammy Abraham",
-        "Hamza Abdelkarim",
-        "Buendia"
+        "Morgan Rogers",
+        "SpaceX"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
