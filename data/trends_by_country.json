@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-05-21T22:56:37.173327+00:00",
+  "generated_at_utc": "2026-05-21T23:52:53.230894+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 21 2026 22:09:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 23:03:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kyle Busch",
+        "NASCAR",
         "RIP Rowdy",
-        "Destiny 2",
-        "Bungie",
+        "Destiny",
+        "Samantha",
         "Thune",
+        "Bungie",
+        "Nathan Lane",
         "Marathon",
-        "Squad",
-        "Sark",
-        "chevron",
-        "Shaolin Monks",
-        "RIP KFB"
+        "RIP KFB",
+        "Brexton"
       ],
       "hashtags": [
         "#BetrPicks",
-        "#OlandriaxBrandonBlackwoodNYC",
         "#TheMandalorianAndGrogu",
         "#SevEN_Always_Complete",
+        "#cowx",
         "#PROTECT_7EGACY"
       ],
       "regular_topics": [
         "Kyle Busch",
+        "NASCAR",
         "RIP Rowdy",
-        "Destiny 2",
-        "Bungie",
+        "Destiny",
+        "Samantha",
         "Thune",
+        "Bungie",
+        "Nathan Lane",
         "Marathon",
-        "Squad",
-        "Sark",
-        "chevron",
-        "Shaolin Monks",
-        "RIP KFB"
+        "RIP KFB",
+        "Brexton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 21 2026 21:44:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 22:39:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tuchel",
         "England",
         "Maguire",
         "Henderson",
         "#RaceAcrossTheWorld",
+        "#bbcqt",
         "Palmer",
         "Wharton",
         "Dan Burn",
         "Madueke",
-        "Hall",
         "Toney"
       ],
       "hashtags": [
         "#RaceAcrossTheWorld",
-        "#taskmaster",
+        "#bbcqt",
         "#RATW",
-        "#PremierLeagueDarts",
-        "#ThreeLions"
+        "#taskmaster",
+        "#PremierLeagueDarts"
       ],
       "regular_topics": [
         "Tuchel",
@@ -73,8 +73,8 @@
         "Wharton",
         "Dan Burn",
         "Madueke",
-        "Hall",
         "Toney",
+        "Hall",
         "Southgate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,46 +120,52 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 21 2026 21:32:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 22:24:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SavePunjabDogs",
-        "#GTvsCSK",
         "Cristiano Ronaldo",
-        "Al Nassr",
-        "#MayankAryaAtCannes",
+        "#GTvsCSK",
+        "#AlNassr",
         "#SevEN_Always_Complete",
         "#PROTECT_7EGACY",
-        "Yes Madam",
         "Tuchel",
+        "Saudi Pro League",
         "Darshan Karlo Kismat Walo",
-        "Saudi Pro League"
+        "England",
+        "Shubman Gill"
       ],
       "hashtags": [
         "#SavePunjabDogs",
         "#GTvsCSK",
-        "#MayankAryaAtCannes",
+        "#AlNassr",
         "#SevEN_Always_Complete",
-        "#PROTECT_7EGACY"
+        "#PROTECT_7EGACY",
+        "#Durlabh_Darshan_Sant_Ke",
+        "#Hellallallo",
+        "#CockroachJantaParty",
+        "#mugshots",
+        "#FreeSpeech",
+        "#PowerCut"
       ],
       "regular_topics": [
         "Cristiano Ronaldo",
-        "Al Nassr",
-        "Yes Madam",
         "Tuchel",
-        "Darshan Karlo Kismat Walo",
         "Saudi Pro League",
+        "Darshan Karlo Kismat Walo",
         "England",
         "Shubman Gill",
         "My GOAT",
         "\u0926\u0930\u094d\u0936\u0928 \u0926\u0941\u0930\u094d\u0932\u092d",
-        "Maguire"
+        "Maguire",
+        "Cannes",
+        "East Bengal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu May 21 2026 22:21:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 21 2026 23:15:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
         "Saudi",
@@ -167,16 +173,13 @@
         "Tuchel",
         "THE GREATEST OF ALL TIME",
         "Maguire",
+        "Chanel",
+        "Kyle Busch",
         "England",
         "At 41",
-        "Chanel",
-        "Sadio Mane",
-        "Al Hilal"
+        "NASCAR"
       ],
-      "hashtags": [
-        "#Accion20YearsOfImpact",
-        "#NASDAM"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Ronaldo",
         "Saudi",
@@ -184,11 +187,11 @@
         "Tuchel",
         "THE GREATEST OF ALL TIME",
         "Maguire",
+        "Chanel",
+        "Kyle Busch",
         "England",
         "At 41",
-        "Chanel",
-        "Sadio Mane",
-        "Al Hilal"
+        "NASCAR"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
