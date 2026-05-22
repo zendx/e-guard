@@ -1,19 +1,19 @@
 {
-  "generated_at_utc": "2026-05-22T22:46:01.879045+00:00",
+  "generated_at_utc": "2026-05-22T23:54:46.599576+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri May 22 2026 21:01:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 22:48:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "America",
         "Democrats",
-        "Tulsi",
         "Israel",
+        "Tulsi",
         "Iran",
-        "Jesus",
         "Republicans",
+        "Jesus",
         "Biden",
         "Drake",
         "Texas"
@@ -23,11 +23,11 @@
         "Trump",
         "America",
         "Democrats",
-        "Tulsi",
         "Israel",
+        "Tulsi",
         "Iran",
-        "Jesus",
         "Republicans",
+        "Jesus",
         "Biden",
         "Drake",
         "Texas"
@@ -37,93 +37,92 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri May 22 2026 22:21:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 23:15:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
-        "Arsenal",
         "Israel",
+        "Arsenal",
         "London",
         "Britain",
         "England",
         "Starmer",
+        "Liverpool",
         "Labour",
-        "Chelsea",
-        "Scotland",
-        "Lewis"
+        "Iran",
+        "Scotland"
       ],
       "hashtags": [
-        "#TOTP",
-        "#CanadianGP"
+        "#TOTP"
       ],
       "regular_topics": [
         "Trump",
-        "Arsenal",
         "Israel",
+        "Arsenal",
         "London",
         "Britain",
         "England",
         "Starmer",
+        "Liverpool",
         "Labour",
-        "Chelsea",
-        "Scotland",
-        "Lewis"
+        "Iran",
+        "Scotland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri May 22 2026 22:16:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 23:08:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Alberta",
-        "Carney",
         "Israel",
+        "Carney",
         "America",
         "Iran",
         "Toronto",
         "China",
-        "Ontario",
-        "Russia"
+        "Russia",
+        "Ontario"
       ],
       "hashtags": [],
       "regular_topics": [
         "Canada",
         "Trump",
         "Alberta",
-        "Carney",
         "Israel",
+        "Carney",
         "America",
         "Iran",
         "Toronto",
         "China",
-        "Ontario",
-        "Russia"
+        "Russia",
+        "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri May 22 2026 22:08:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 23:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kohli",
-        "#SRHvsRCB",
         "Trump",
         "Iran",
+        "#SRHvsRCB",
         "Pakistan",
-        "Modi",
         "China",
         "Delhi",
-        "Travis",
+        "Modi",
         "America",
+        "Travis Head",
         "Mumbai"
       ],
       "hashtags": [
         "#SRHvsRCB",
-        "#Boycott_HYBE_BELIFT",
         "#Treat_SevEN_Respectfully",
+        "#Boycott_HYBE_BELIFT",
         "#LOLFanFest2026D1",
         "#CanadianGP"
       ],
@@ -132,11 +131,11 @@
         "Trump",
         "Iran",
         "Pakistan",
-        "Modi",
         "China",
         "Delhi",
-        "Travis",
+        "Modi",
         "America",
+        "Travis Head",
         "Mumbai",
         "Israel"
       ],
@@ -145,32 +144,32 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri May 22 2026 22:06:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 23:00:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nigeria",
-        "Chelsea",
         "Arsenal",
+        "Chelsea",
         "Tinubu",
         "Ronaldo",
         "Messi",
-        "Enzo",
-        "Drake",
         "Trump",
+        "Drake",
         "Jesus",
+        "Enzo",
         "Liverpool"
       ],
       "hashtags": [],
       "regular_topics": [
         "Nigeria",
-        "Chelsea",
         "Arsenal",
+        "Chelsea",
         "Tinubu",
         "Ronaldo",
         "Messi",
-        "Enzo",
-        "Drake",
         "Trump",
+        "Drake",
         "Jesus",
+        "Enzo",
         "Liverpool"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
