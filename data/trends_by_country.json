@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-05-22T19:08:32.447443+00:00",
+  "generated_at_utc": "2026-05-22T20:51:45.121488+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri May 22 2026 18:21:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 20:08:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "America",
@@ -12,11 +12,11 @@
         "Democrats",
         "Israel",
         "Iran",
-        "Republicans",
         "Jesus",
+        "Republicans",
         "Biden",
         "Abraham",
-        "Texas"
+        "Drake"
       ],
       "hashtags": [],
       "regular_topics": [
@@ -26,37 +26,33 @@
         "Democrats",
         "Israel",
         "Iran",
-        "Republicans",
         "Jesus",
+        "Republicans",
         "Biden",
         "Abraham",
-        "Texas"
+        "Drake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri May 22 2026 17:56:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 19:42:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TOTP",
         "Trump",
         "Arsenal",
         "Israel",
         "Britain",
         "London",
-        "Labour",
         "England",
-        "Burnham",
-        "Scotland",
+        "Labour",
         "Starmer",
-        "Farage"
+        "Chelsea",
+        "Burnham"
       ],
       "hashtags": [
-        "#TheMandalorianAndGrogu",
-        "#CanadianGP",
-        "#LOLFanFest2026D1",
-        "#pointless",
-        "#thechase"
+        "#TOTP"
       ],
       "regular_topics": [
         "Trump",
@@ -64,35 +60,34 @@
         "Israel",
         "Britain",
         "London",
-        "Labour",
         "England",
-        "Burnham",
-        "Scotland",
+        "Labour",
         "Starmer",
-        "Farage"
+        "Chelsea",
+        "Burnham",
+        "Liverpool"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri May 22 2026 17:51:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 20:28:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Alberta",
         "Carney",
         "Israel",
-        "America",
         "Iran",
-        "Russia",
-        "China",
+        "America",
         "Toronto",
+        "China",
+        "Russia",
         "Ontario"
       ],
       "hashtags": [
-        "#LOLFanFest2026D1",
-        "#SoundTheSiren"
+        "#LOLFanFest2026D1"
       ],
       "regular_topics": [
         "Canada",
@@ -100,11 +95,11 @@
         "Alberta",
         "Carney",
         "Israel",
-        "America",
         "Iran",
-        "Russia",
-        "China",
+        "America",
         "Toronto",
+        "China",
+        "Russia",
         "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -112,75 +107,72 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri May 22 2026 18:36:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 19:28:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SRHvsRCB",
-        "Trump",
         "Kohli",
-        "Top 2",
+        "Trump",
+        "Travis Head",
+        "Iran",
         "Pakistan",
-        "Qualifier 1",
-        "Tulsi Gabbard",
-        "Patidar",
         "China",
         "#Treat_SevEN_Respectfully",
-        "Iran"
+        "Modi",
+        "Tulsi Gabbard",
+        "#Boycott_HYBE_BELIFT"
       ],
       "hashtags": [
         "#SRHvsRCB",
         "#Treat_SevEN_Respectfully",
         "#Boycott_HYBE_BELIFT",
         "#LokeshVsChidambaram",
-        "#DhurandharOnJiohotstar"
+        "#LOLFanFest2026D1"
       ],
       "regular_topics": [
-        "Trump",
         "Kohli",
-        "Top 2",
-        "Pakistan",
-        "Qualifier 1",
-        "Tulsi Gabbard",
-        "Patidar",
-        "China",
+        "Trump",
+        "Travis Head",
         "Iran",
+        "Pakistan",
+        "China",
         "Modi",
-        "Travis Head"
+        "Tulsi Gabbard",
+        "Top 2",
+        "Patidar",
+        "Delhi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri May 22 2026 18:34:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 22 2026 20:20:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nigeria",
+        "Chelsea",
         "Arsenal",
         "Tinubu",
-        "Chelsea",
+        "Enzo",
         "Ronaldo",
         "Messi",
-        "Enzo",
         "Jesus",
-        "Wizkid",
-        "Trump",
-        "Drake"
+        "Drake",
+        "Palmer",
+        "Trump"
       ],
-      "hashtags": [
-        "#Bet9jaChampionsParty",
-        "#AccionAt20"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Nigeria",
+        "Chelsea",
         "Arsenal",
         "Tinubu",
-        "Chelsea",
+        "Enzo",
         "Ronaldo",
         "Messi",
-        "Enzo",
         "Jesus",
-        "Wizkid",
-        "Trump",
-        "Drake"
+        "Drake",
+        "Palmer",
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
