@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-05-23T17:51:32.309486+00:00",
+  "generated_at_utc": "2026-05-23T18:50:51.595709+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 16:18:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 17:09:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Dart",
@@ -14,14 +14,14 @@
         "Iran",
         "Biden",
         "Giants",
-        "Colbert",
+        "Kimi",
         "Israel",
-        "China"
+        "Colbert"
       ],
       "hashtags": [
         "#LOLFanFest2026D2",
-        "#Caturday",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e482"
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e482",
+        "#Caturday"
       ],
       "regular_topics": [
         "Trump",
@@ -32,9 +32,9 @@
         "Iran",
         "Biden",
         "Giants",
-        "Colbert",
+        "Kimi",
         "Israel",
-        "China"
+        "Colbert"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -80,76 +80,75 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 16:39:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 18:24:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
-        "Alberta",
-        "Hull",
-        "Berton",
         "Carney",
-        "Kimi",
         "Iran",
-        "Jason",
+        "Alberta",
         "Israel",
-        "Trudeau"
+        "Dunkin",
+        "Hull",
+        "America",
+        "Berton",
+        "Kimi"
       ],
       "hashtags": [
         "#Caturday",
-        "#LOLFanFest2026D2",
         "#CanadianGP"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
-        "Alberta",
-        "Hull",
-        "Berton",
         "Carney",
-        "Kimi",
         "Iran",
-        "Jason",
+        "Alberta",
         "Israel",
-        "Trudeau"
+        "Dunkin",
+        "Hull",
+        "America",
+        "Berton",
+        "Kimi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 16:32:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 18:16:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AmaalBackOnTV",
-        "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
+        "HBD ABHISHEK MALHAN",
         "#LSGvsPBKS",
+        "#AmaalBackOnTV",
+        "Shreyas Iyer",
+        "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
         "Sant Rampal Ji Maharaj",
-        "#SaveIndianDogs",
-        "#PeddiKiAawaz",
         "Arjun Tendulkar",
-        "Josh Inglis",
-        "Arshdeep Singh",
-        "ITBP",
-        "Iran"
+        "#Financial_Boycott_BELIFT",
+        "#SevEN_Deserve_Fairness",
+        "Prabhsimran Singh",
+        "Sarpanch Saab"
       ],
       "hashtags": [
+        "#LSGvsPBKS",
         "#AmaalBackOnTV",
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
-        "#LSGvsPBKS",
-        "#SaveIndianDogs",
-        "#PeddiKiAawaz"
+        "#Financial_Boycott_BELIFT",
+        "#SevEN_Deserve_Fairness"
       ],
       "regular_topics": [
+        "HBD ABHISHEK MALHAN",
+        "Shreyas Iyer",
         "Sant Rampal Ji Maharaj",
         "Arjun Tendulkar",
-        "Josh Inglis",
-        "Arshdeep Singh",
-        "ITBP",
-        "Iran",
-        "China",
-        "Priyansh Arya",
-        "Laughter Chefs",
-        "Pakistan",
-        "Trump"
+        "Prabhsimran Singh",
+        "Sarpanch Saab",
+        "PAWAN III",
+        "Rishabh Pant",
+        "Shudhvayu",
+        "Maiden IPL",
+        "Iran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
