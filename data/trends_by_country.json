@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-05-23T21:41:43.495566+00:00",
+  "generated_at_utc": "2026-05-23T22:39:55.181348+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 20:42:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 21:33:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
-        "Dart",
-        "Abdul",
         "Iran",
-        "America",
+        "Dart",
         "Israel",
+        "Abdul",
+        "America",
         "Democrats",
         "Biden",
-        "Harry Kane",
-        "Giants",
-        "Colbert"
+        "#PFLBrussels",
+        "Putt",
+        "Netanyahu"
       ],
       "hashtags": [
         "#PFLBrussels",
@@ -24,16 +24,16 @@
       ],
       "regular_topics": [
         "Trump",
-        "Dart",
-        "Abdul",
         "Iran",
-        "America",
+        "Dart",
         "Israel",
+        "Abdul",
+        "America",
         "Democrats",
         "Biden",
-        "Harry Kane",
-        "Giants",
-        "Colbert"
+        "Putt",
+        "Netanyahu",
+        "Giants"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -154,36 +154,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 20:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 21:45:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Girona",
         "Harry Kane",
-        "Arsenal",
-        "Hull City",
-        "Latto",
-        "Nigeria",
-        "Wizkid",
-        "Tinubu",
+        "Dani Carvajal",
         "Barcelona",
-        "Lyon",
-        "Bayern",
-        "Ewa Pajor"
+        "Mallorca",
+        "Arsenal",
+        "Barca",
+        "Wizkid",
+        "Lewandowski",
+        "Tinubu",
+        "Valencia"
       ],
       "hashtags": [
-        "#StreetChampionsTour",
-        "#Bet9ja"
+        "#StreetChampionsTour"
       ],
       "regular_topics": [
+        "Girona",
         "Harry Kane",
-        "Arsenal",
-        "Hull City",
-        "Latto",
-        "Nigeria",
-        "Wizkid",
-        "Tinubu",
+        "Dani Carvajal",
         "Barcelona",
-        "Lyon",
-        "Bayern",
-        "Ewa Pajor"
+        "Mallorca",
+        "Arsenal",
+        "Barca",
+        "Wizkid",
+        "Lewandowski",
+        "Tinubu",
+        "Valencia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
