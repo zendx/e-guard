@@ -1,188 +1,190 @@
 {
-  "generated_at_utc": "2026-05-23T05:29:51.832258+00:00",
+  "generated_at_utc": "2026-05-23T07:54:04.531221+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 04:56:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 07:33:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
         "Trump",
-        "Wemby",
-        "McCain",
+        "Spurs",
         "America",
-        "Iran",
-        "Caruso",
+        "#LOLFanFest2026D2",
         "Israel",
+        "Iran",
+        "Wemby",
+        "Jesus",
+        "McCain",
         "Democrats",
-        "Shai",
-        "Jesus"
+        "Colbert"
       ],
       "hashtags": [
-        "#SmackDown",
-        "#ThunderUp",
-        "#OPLive",
+        "#LOLFanFest2026D2",
         "#Round1withStellaronHunters",
-        "#BostonBlue"
+        "#HSRXRound1",
+        "#SmackDown",
+        "#deadbydaylight"
       ],
       "regular_topics": [
-        "Spurs",
         "Trump",
-        "Wemby",
-        "McCain",
+        "Spurs",
         "America",
-        "Iran",
-        "Caruso",
         "Israel",
+        "Iran",
+        "Wemby",
+        "Jesus",
+        "McCain",
         "Democrats",
-        "Shai",
-        "Jesus"
+        "Colbert",
+        "Jason"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 04:31:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 07:06:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SmackDown",
         "Trump",
-        "Spurs",
-        "McCain",
+        "#PostboxSaturday",
+        "#LOLFanFest2026D2",
+        "Britain",
         "Israel",
-        "Iran",
-        "America",
-        "Jason",
-        "Wemby",
+        "Labour",
+        "Burnham",
+        "London",
+        "Starmer",
         "Arsenal",
-        "London"
+        "America"
       ],
       "hashtags": [
+        "#PostboxSaturday",
+        "#LOLFanFest2026D2",
         "#SmackDown"
       ],
       "regular_topics": [
         "Trump",
-        "Spurs",
-        "McCain",
+        "Britain",
         "Israel",
-        "Iran",
-        "America",
-        "Jason",
-        "Wemby",
-        "Arsenal",
+        "Labour",
+        "Burnham",
         "London",
-        "Britain"
+        "Starmer",
+        "Arsenal",
+        "America",
+        "Spurs",
+        "Russia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 05:16:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Spurs",
-        "#LingDiorParfumsDinner",
-        "Lingling Kwong",
-        "Israel",
-        "America",
         "Alberta",
+        "Israel",
+        "Iran",
+        "America",
+        "China",
         "McCain",
-        "Colorado",
-        "Wemby"
+        "Toronto",
+        "Carney"
       ],
       "hashtags": [
-        "#LingDiorParfumsDinner",
         "#SmackDown",
-        "#BostonBlue",
-        "#MemorialCup",
-        "#GoAvsGo"
+        "#MemorialCup"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
         "Spurs",
-        "Lingling Kwong",
-        "Israel",
-        "America",
         "Alberta",
+        "Israel",
+        "Iran",
+        "America",
+        "China",
         "McCain",
-        "Colorado",
-        "Wemby",
-        "China"
+        "Toronto",
+        "Carney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 04:18:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 07:48:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GodMorningSaturday",
-        "Trump",
+        "#KejriwalOnFuelCrisis",
+        "#JKWaronDrugs",
+        "#LOLFanFest2026D2",
+        "Jammu Kashmir",
+        "#RozgarMela",
         "Pakistan",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "Mumbai",
         "Delhi",
         "Modi",
-        "Iran",
-        "\u0936\u094d\u0930\u0940 \u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "#\u092c\u093e\u092a\u0942\u091c\u0940_\u0928\u093f\u0930\u094d\u0926\u094b\u0937_\u0939\u0948\u0902",
-        "#\u0917\u0941\u0930\u094d\u091c\u0930_\u0906\u0902\u0926\u094b\u0932\u0928_\u092c\u0932\u093f\u0926\u093e\u0928_\u0926\u093f\u0935\u0938",
-        "Kolkata"
+        "China",
+        "Trump"
       ],
       "hashtags": [
-        "#GodMorningSaturday",
-        "#\u092c\u093e\u092a\u0942\u091c\u0940_\u0928\u093f\u0930\u094d\u0926\u094b\u0937_\u0939\u0948\u0902",
-        "#\u0917\u0941\u0930\u094d\u091c\u0930_\u0906\u0902\u0926\u094b\u0932\u0928_\u092c\u0932\u093f\u0926\u093e\u0928_\u0926\u093f\u0935\u0938",
+        "#KejriwalOnFuelCrisis",
+        "#JKWaronDrugs",
         "#LOLFanFest2026D2",
-        "#petroldieselhike"
+        "#RozgarMela",
+        "#\u0917\u0941\u0930\u094d\u091c\u0930_\u0906\u0902\u0926\u094b\u0932\u0928_\u092c\u0932\u093f\u0926\u093e\u0928_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
-        "Trump",
+        "Jammu Kashmir",
         "Pakistan",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "Mumbai",
         "Delhi",
         "Modi",
-        "Iran",
-        "\u0936\u094d\u0930\u0940 \u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "Kolkata",
-        "Marco Rubio",
         "China",
-        "Mumbai"
+        "Trump",
+        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
+        "Kolkata",
+        "\u0936\u094d\u0930\u0940 \u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
+        "Iran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 05:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 07:45:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
         "Nigeria",
         "Elon",
-        "Trump",
-        "McCain",
-        "Wemby",
-        "Tinubu",
         "Arsenal",
+        "Tinubu",
+        "#Zetarium",
         "Jesus",
-        "Caruso",
-        "SpaceX"
+        "Regina Daniels",
+        "#LOLFanFest2026D2",
+        "Chelsea",
+        "Chad",
+        "Dave"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#Zetarium",
+        "#LOLFanFest2026D2"
+      ],
       "regular_topics": [
-        "Spurs",
         "Nigeria",
         "Elon",
-        "Trump",
-        "McCain",
-        "Wemby",
-        "Tinubu",
         "Arsenal",
+        "Tinubu",
         "Jesus",
-        "Caruso",
-        "SpaceX"
+        "Regina Daniels",
+        "Chelsea",
+        "Chad",
+        "Dave",
+        "Touching",
+        "Ronaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
