@@ -1,188 +1,185 @@
 {
-  "generated_at_utc": "2026-05-23T22:39:55.181348+00:00",
+  "generated_at_utc": "2026-05-23T23:44:44.051496+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 21:33:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 22:27:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Iran",
-        "Dart",
         "Israel",
-        "Abdul",
+        "Dart",
+        "Carter",
         "America",
-        "Democrats",
+        "#UsykRico",
         "Biden",
-        "#PFLBrussels",
-        "Putt",
-        "Netanyahu"
+        "IRGC",
+        "Netanyahu",
+        "Putt"
       ],
       "hashtags": [
-        "#PFLBrussels",
-        "#UsykRico"
+        "#UsykRico",
+        "#PFLBrussels"
       ],
       "regular_topics": [
         "Trump",
         "Iran",
-        "Dart",
         "Israel",
-        "Abdul",
+        "Dart",
+        "Carter",
         "America",
-        "Democrats",
         "Biden",
-        "Putt",
+        "IRGC",
         "Netanyahu",
-        "Giants"
+        "Putt",
+        "Fedde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 21:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 22:00:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Hull",
-        "#NobodysFool",
         "#UsykRico",
-        "Jack Catterall",
-        "#BritainsGotTalent",
-        "Harry Kane",
-        "Boro",
+        "Sheeraz",
+        "#NobodysFool",
+        "Hull",
+        "Iran",
         "Trump",
+        "Begic",
         "Farage",
-        "Arsenal",
-        "Iran"
+        "Jack Catterall",
+        "Harry Kane",
+        "Girona"
       ],
       "hashtags": [
-        "#NobodysFool",
         "#UsykRico",
+        "#NobodysFool",
         "#BritainsGotTalent",
-        "#CanadianGP",
-        "#hcafc"
+        "#twoweeksinaugust",
+        "#CanadianGP"
       ],
       "regular_topics": [
+        "Sheeraz",
         "Hull",
+        "Iran",
+        "Trump",
+        "Begic",
+        "Farage",
         "Jack Catterall",
         "Harry Kane",
-        "Boro",
-        "Trump",
-        "Farage",
-        "Arsenal",
-        "Iran",
-        "Giyasov",
+        "Girona",
         "Burnham",
-        "Ipswich"
+        "Lowe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 21:03:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 22:45:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Trump",
+        "Iran",
         "Paul Skenes",
         "Patrick Corbin",
-        "Canada",
-        "Trump",
-        "Sanchez",
-        "Iran",
         "Israel",
-        "Toronto",
-        "Springer",
+        "Hoffman",
         "Jays",
-        "Harry Kane"
+        "Usyk",
+        "Split",
+        "Toronto",
+        "Heineman"
       ],
-      "hashtags": [
-        "#CanadianGP",
-        "#Caturday"
-      ],
+      "hashtags": [],
       "regular_topics": [
+        "Trump",
+        "Iran",
         "Paul Skenes",
         "Patrick Corbin",
-        "Canada",
-        "Trump",
-        "Sanchez",
-        "Iran",
         "Israel",
-        "Toronto",
-        "Springer",
+        "Hoffman",
         "Jays",
-        "Harry Kane"
+        "Usyk",
+        "Split",
+        "Toronto",
+        "Heineman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 20:56:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 22:40:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "HBD ABHISHEK MALHAN",
         "#LSGvsPBKS",
-        "Shreyas Iyer",
-        "#SevEN_Deserve_Fairness",
-        "#Financial_Boycott_BELIFT",
-        "#AmaalBackOnTV",
-        "Arjun Tendulkar",
-        "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
-        "Iran",
         "Trump",
-        "Sant Rampal Ji Maharaj"
+        "Iran",
+        "#Financial_Boycott_BELIFT",
+        "#SevEN_Deserve_Fairness",
+        "Shreyas Iyer",
+        "Arjun",
+        "#AmaalBackOnTV",
+        "Dani Carvajal",
+        "Lewandowski"
       ],
       "hashtags": [
         "#LSGvsPBKS",
-        "#SevEN_Deserve_Fairness",
         "#Financial_Boycott_BELIFT",
+        "#SevEN_Deserve_Fairness",
         "#AmaalBackOnTV",
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947"
       ],
       "regular_topics": [
         "HBD ABHISHEK MALHAN",
-        "Shreyas Iyer",
-        "Arjun Tendulkar",
-        "Iran",
         "Trump",
-        "Sant Rampal Ji Maharaj",
+        "Iran",
+        "Shreyas Iyer",
+        "Arjun",
+        "Dani Carvajal",
         "Lewandowski",
-        "Carvajal",
-        "Sarpanch Saab",
         "Barca",
-        "Netanyahu"
+        "Christensen",
+        "Israel",
+        "Sant Rampal Ji Maharaj"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 21:45:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 23:28:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Girona",
+        "White House",
+        "Usyk",
         "Harry Kane",
-        "Dani Carvajal",
-        "Barcelona",
+        "Secret Service",
         "Mallorca",
-        "Arsenal",
-        "Barca",
-        "Wizkid",
-        "Lewandowski",
+        "Dani Carvajal",
+        "#RolandGarros",
+        "Iran",
         "Tinubu",
-        "Valencia"
+        "Trump"
       ],
       "hashtags": [
-        "#StreetChampionsTour"
+        "#RolandGarros"
       ],
       "regular_topics": [
         "Girona",
+        "White House",
+        "Usyk",
         "Harry Kane",
-        "Dani Carvajal",
-        "Barcelona",
+        "Secret Service",
         "Mallorca",
-        "Arsenal",
-        "Barca",
-        "Wizkid",
-        "Lewandowski",
+        "Dani Carvajal",
+        "Iran",
         "Tinubu",
-        "Valencia"
+        "Trump",
+        "Wizkid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
