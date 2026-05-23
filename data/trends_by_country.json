@@ -1,86 +1,84 @@
 {
-  "generated_at_utc": "2026-05-23T09:29:46.119398+00:00",
+  "generated_at_utc": "2026-05-23T11:51:50.845688+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 08:25:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
-        "Spurs",
         "#LOLFanFest2026D2",
         "America",
-        "Israel",
-        "Iran",
-        "Jesus",
-        "China",
-        "Jason",
+        "Good Saturday",
         "Democrats",
-        "Wemby"
+        "Iran",
+        "Israel",
+        "China",
+        "Jesus",
+        "PONDPHUWIN FULL THROTTLE",
+        "Jason"
       ],
       "hashtags": [
         "#LOLFanFest2026D2",
+        "#AnimeAwards",
         "#deadbydaylight",
-        "#Round1withStellaronHunters",
-        "#HSRXRound1",
-        "#earthquake"
+        "#LenaMiuFMinManilaDay1"
       ],
       "regular_topics": [
         "Trump",
-        "Spurs",
         "America",
-        "Israel",
-        "Iran",
-        "Jesus",
-        "China",
-        "Jason",
+        "Good Saturday",
         "Democrats",
-        "Wemby",
-        "McCain"
+        "Iran",
+        "Israel",
+        "China",
+        "Jesus",
+        "PONDPHUWIN FULL THROTTLE",
+        "Jason",
+        "PERTHSANTA LIGHTS OUT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 08:52:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:30:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Britain",
-        "Trump",
-        "Labour",
-        "Starmer",
-        "Burnham",
-        "London",
-        "Israel",
-        "#LOLFanFest2026D2",
         "Arsenal",
-        "Farage",
-        "Boro"
+        "Britain",
+        "Boro",
+        "Israel",
+        "Labour",
+        "Hull",
+        "London",
+        "Raya",
+        "Starmer",
+        "Trump",
+        "Bruno Fernandes"
       ],
       "hashtags": [
         "#LOLFanFest2026D2",
-        "#Caturday",
-        "#PostboxSaturday"
+        "#Caturday"
       ],
       "regular_topics": [
-        "Britain",
-        "Trump",
-        "Labour",
-        "Starmer",
-        "Burnham",
-        "London",
-        "Israel",
         "Arsenal",
-        "Farage",
+        "Britain",
         "Boro",
-        "Russia"
+        "Israel",
+        "Labour",
+        "Hull",
+        "London",
+        "Raya",
+        "Starmer",
+        "Trump",
+        "Bruno Fernandes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 08:46:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:24:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -89,10 +87,10 @@
         "Carney",
         "America",
         "Iran",
-        "Toronto",
         "China",
-        "Spurs",
-        "Russia"
+        "Toronto",
+        "Russia",
+        "Spurs"
       ],
       "hashtags": [
         "#LOLFanFest2026D2"
@@ -105,85 +103,84 @@
         "Carney",
         "America",
         "Iran",
-        "Toronto",
         "China",
-        "Spurs",
-        "Russia"
+        "Toronto",
+        "Russia",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 08:40:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:16:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AiSummitBihar",
+        "#SaveIndianDogs",
         "#KejriwalOnFuelCrisis",
-        "#JKWaronDrugs",
-        "#LOLFanFest2026D2",
+        "#HaiJawaniTohIshqHonaHai",
+        "#SCAccountability",
+        "Patna",
+        "ITBP",
         "Pakistan",
-        "Jammu Kashmir",
-        "#RozgarMela",
         "China",
-        "Delhi",
         "Modi",
-        "Mumbai",
-        "Trump"
+        "Delhi"
       ],
       "hashtags": [
+        "#AiSummitBihar",
+        "#SaveIndianDogs",
         "#KejriwalOnFuelCrisis",
-        "#JKWaronDrugs",
-        "#LOLFanFest2026D2",
-        "#RozgarMela",
-        "#\u0917\u0941\u0930\u094d\u091c\u0930_\u0906\u0902\u0926\u094b\u0932\u0928_\u092c\u0932\u093f\u0926\u093e\u0928_\u0926\u093f\u0935\u0938"
+        "#HaiJawaniTohIshqHonaHai",
+        "#SCAccountability"
       ],
       "regular_topics": [
+        "Patna",
+        "ITBP",
         "Pakistan",
-        "Jammu Kashmir",
         "China",
-        "Delhi",
         "Modi",
-        "Mumbai",
+        "Delhi",
         "Trump",
-        "\u0909\u0924\u094d\u0924\u092e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f",
-        "Iran",
         "WILLIAMEST FULL SPEED",
-        "David Dhawan"
+        "Mumbai",
+        "Iran",
+        "Rubio"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 08:39:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:15:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Nigeria",
         "Arsenal",
-        "#Zetarium",
-        "Elon",
+        "Bruno Fernandes",
+        "Nigeria",
+        "Raya",
+        "Declan Rice",
+        "Gabriel",
+        "Congratulations Bruno",
         "Tinubu",
-        "Regina Daniels",
-        "Jesus",
-        "Messi",
-        "Chelsea",
-        "Ronaldo",
-        "Peter Obi"
+        "Manchester United",
+        "Player of the Season",
+        "China"
       ],
       "hashtags": [
         "#Zetarium",
-        "#LOLFanFest2026D2",
-        "#Ra\u00falEsRa\u00fal"
+        "#LOLFanFest2026D2"
       ],
       "regular_topics": [
-        "Nigeria",
         "Arsenal",
-        "Elon",
+        "Bruno Fernandes",
+        "Nigeria",
+        "Raya",
+        "Declan Rice",
+        "Gabriel",
+        "Congratulations Bruno",
         "Tinubu",
-        "Regina Daniels",
-        "Jesus",
-        "Messi",
-        "Chelsea",
-        "Ronaldo",
-        "Peter Obi",
+        "Manchester United",
+        "Player of the Season",
         "China"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
