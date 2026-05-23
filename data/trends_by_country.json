@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-23T15:36:58.394848+00:00",
+  "generated_at_utc": "2026-05-23T16:45:03.844367+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,147 +41,150 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 14:57:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 15:52:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Boro",
         "Arsenal",
+        "#HULMID",
         "Middlesbrough",
-        "Sophie Whitehouse",
         "Jason",
-        "Charlton",
-        "Leicester",
         "Southampton",
-        "Haydock",
-        "Rice"
+        "Sophie Whitehouse",
+        "Leinster",
+        "London",
+        "Trump"
       ],
       "hashtags": [
         "#HULMID",
-        "#CarBandsOrCelebs",
         "#HWCafe",
         "#LEIvUBB",
-        "#cafc"
+        "#playofffinal",
+        "#CarBandsOrCelebs"
       ],
       "regular_topics": [
         "Hull",
         "Boro",
         "Arsenal",
         "Middlesbrough",
-        "Sophie Whitehouse",
         "Jason",
-        "Charlton",
-        "Leicester",
         "Southampton",
-        "Haydock",
-        "Rice"
+        "Sophie Whitehouse",
+        "Leinster",
+        "London",
+        "Trump",
+        "Venetian Sun"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 14:52:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 15:45:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Alberta",
-        "Israel",
+        "Jason",
         "Carney",
-        "America",
         "Iran",
-        "China",
-        "Toronto",
-        "Russia",
-        "Ontario"
+        "Israel",
+        "Arsenal",
+        "Trudeau",
+        "Dart",
+        "Spain"
       ],
       "hashtags": [
-        "#LOLFanFest2026D2"
+        "#LOLFanFest2026D2",
+        "#Caturday"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
         "Alberta",
-        "Israel",
+        "Jason",
         "Carney",
-        "America",
         "Iran",
-        "China",
-        "Toronto",
-        "Russia",
-        "Ontario"
+        "Israel",
+        "Arsenal",
+        "Trudeau",
+        "Dart",
+        "Spain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 14:45:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 15:39:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
         "Sant Rampal Ji Maharaj",
         "#SaveIndianDogs",
         "#LSGvsPBKS",
         "#LOLFanFest2026D2",
-        "#KejriwalOnFuelCrisis",
+        "#SCAccountability",
         "ITBP",
         "Arjun Tendulkar",
+        "Josh Inglis",
         "China",
-        "Pakistan",
-        "\u092f\u094b\u0917\u0940 \u0915\u0943\u0937\u094d\u0923 \u0928\u093e\u0925"
+        "Iran"
       ],
       "hashtags": [
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
         "#SaveIndianDogs",
         "#LSGvsPBKS",
         "#LOLFanFest2026D2",
-        "#KejriwalOnFuelCrisis"
+        "#SCAccountability"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "ITBP",
         "Arjun Tendulkar",
+        "Josh Inglis",
         "China",
-        "Pakistan",
-        "\u092f\u094b\u0917\u0940 \u0915\u0943\u0937\u094d\u0923 \u0928\u093e\u0925",
-        "Modi",
         "Iran",
-        "WILLIAMEST FULL SPEED",
         "Ayush Badoni",
-        "\u0905\u0930\u094d\u091c\u0941\u0928 \u0924\u0947\u0902\u0926\u0941\u0932\u0915\u0930"
+        "Pakistan",
+        "Modi",
+        "\u0905\u0930\u094d\u091c\u0941\u0928 \u0924\u0947\u0902\u0926\u0941\u0932\u0915\u0930",
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 14:44:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 16:30:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
+        "Nigeria",
         "Rice",
+        "Tinubu",
+        "#AkadaFestival",
         "Bruno Fernandes",
         "Raya",
-        "Nigeria",
-        "Tinubu",
+        "Hull",
         "Manchester United",
         "Chelsea",
-        "Nico O'Reilly",
-        "Player of the Season",
-        "Henry"
+        "Wizkid"
       ],
       "hashtags": [
+        "#AkadaFestival",
+        "#lazyfunds",
         "#BellaShmurdaXDahvi"
       ],
       "regular_topics": [
         "Arsenal",
+        "Nigeria",
         "Rice",
+        "Tinubu",
         "Bruno Fernandes",
         "Raya",
-        "Nigeria",
-        "Tinubu",
+        "Hull",
         "Manchester United",
         "Chelsea",
-        "Nico O'Reilly",
-        "Player of the Season",
+        "Wizkid",
         "Henry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
