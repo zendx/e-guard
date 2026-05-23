@@ -1,192 +1,191 @@
 {
-  "generated_at_utc": "2026-05-23T18:50:51.595709+00:00",
+  "generated_at_utc": "2026-05-23T19:59:02.776244+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 17:09:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 18:56:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Dart",
         "Abdul",
         "America",
-        "Democrats",
         "Iran",
+        "Democrats",
+        "Israel",
         "Biden",
         "Giants",
-        "Kimi",
-        "Israel",
-        "Colbert"
+        "Roldan",
+        "Natasha Howard"
       ],
       "hashtags": [
+        "#PFLBrussels",
         "#LOLFanFest2026D2",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e482",
-        "#Caturday"
+        "#UsykRico"
       ],
       "regular_topics": [
         "Trump",
         "Dart",
         "Abdul",
         "America",
-        "Democrats",
         "Iran",
+        "Democrats",
+        "Israel",
         "Biden",
         "Giants",
-        "Kimi",
-        "Israel",
-        "Colbert"
+        "Roldan",
+        "Natasha Howard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 17:36:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 19:24:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
+        "Boro",
+        "#BritainsGotTalent",
         "Middlesbrough",
-        "#HULMID",
-        "Southampton",
-        "McBurnie",
-        "Kimi",
+        "#UsykRico",
         "Arsenal",
-        "Sol Brynn",
-        "#hcafc",
-        "Gibson",
-        "Hackney"
+        "Frank Sanchez",
+        "McBurnie",
+        "Southampton",
+        "#HULMID",
+        "Ipswich"
       ],
       "hashtags": [
+        "#BritainsGotTalent",
+        "#UsykRico",
         "#HULMID",
         "#hcafc",
-        "#playofffinal",
-        "#Championship",
-        "#HWCafe"
+        "#playoffs"
       ],
       "regular_topics": [
         "Hull",
+        "Boro",
         "Middlesbrough",
-        "Southampton",
-        "McBurnie",
-        "Kimi",
         "Arsenal",
-        "Sol Brynn",
-        "Gibson",
-        "Hackney",
-        "Toto",
-        "Derby"
+        "Frank Sanchez",
+        "McBurnie",
+        "Southampton",
+        "Ipswich",
+        "Kimi",
+        "Mr Cherry",
+        "Hackney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 18:24:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 19:18:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
-        "Carney",
         "Iran",
         "Alberta",
         "Israel",
+        "Toronto",
         "Dunkin",
-        "Hull",
+        "Carney",
+        "Spain",
         "America",
-        "Berton",
-        "Kimi"
+        "Berton"
       ],
       "hashtags": [
         "#Caturday",
-        "#CanadianGP"
+        "#LOLFanFest2026D2"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
-        "Carney",
         "Iran",
         "Alberta",
         "Israel",
+        "Toronto",
         "Dunkin",
-        "Hull",
+        "Carney",
+        "Spain",
         "America",
-        "Berton",
-        "Kimi"
+        "Berton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 18:16:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 19:09:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "HBD ABHISHEK MALHAN",
         "#LSGvsPBKS",
-        "#AmaalBackOnTV",
         "Shreyas Iyer",
+        "#AmaalBackOnTV",
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
-        "Sant Rampal Ji Maharaj",
         "Arjun Tendulkar",
-        "#Financial_Boycott_BELIFT",
         "#SevEN_Deserve_Fairness",
-        "Prabhsimran Singh",
+        "#Financial_Boycott_BELIFT",
+        "Sant Rampal Ji Maharaj",
+        "Iran",
         "Sarpanch Saab"
       ],
       "hashtags": [
         "#LSGvsPBKS",
         "#AmaalBackOnTV",
         "#\u0926\u0941\u0930\u094d\u0932\u092d_\u0926\u0930\u094d\u0936\u0928_\u0938\u0902\u0924_\u0915\u0947",
-        "#Financial_Boycott_BELIFT",
-        "#SevEN_Deserve_Fairness"
+        "#SevEN_Deserve_Fairness",
+        "#Financial_Boycott_BELIFT"
       ],
       "regular_topics": [
         "HBD ABHISHEK MALHAN",
         "Shreyas Iyer",
-        "Sant Rampal Ji Maharaj",
         "Arjun Tendulkar",
-        "Prabhsimran Singh",
+        "Sant Rampal Ji Maharaj",
+        "Iran",
         "Sarpanch Saab",
+        "Prabhsimran Singh",
+        "Trump",
         "PAWAN III",
-        "Rishabh Pant",
-        "Shudhvayu",
-        "Maiden IPL",
-        "Iran"
+        "Punjab",
+        "Shudhvayu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 17:21:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 19:08:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull City",
         "Arsenal",
-        "Nigeria",
-        "Middlesbrough",
-        "Tinubu",
-        "Rice",
-        "#Bet9ja_ChampionsParty",
-        "Davido",
-        "#AkadaFestival",
         "Lyon",
-        "Bruno Fernandes"
+        "Ewa Pajor",
+        "Nigeria",
+        "Barcelona",
+        "Tinubu",
+        "Cata Coll",
+        "#StreetChampionsTour",
+        "Salma",
+        "Barca"
       ],
       "hashtags": [
-        "#Bet9ja_ChampionsParty",
-        "#AkadaFestival",
-        "#lazyfunds",
-        "#UWCL"
+        "#StreetChampionsTour",
+        "#UWCL",
+        "#Bet9ja"
       ],
       "regular_topics": [
         "Hull City",
         "Arsenal",
-        "Nigeria",
-        "Middlesbrough",
-        "Tinubu",
-        "Rice",
-        "Davido",
         "Lyon",
-        "Bruno Fernandes",
-        "Oli McBurnie",
-        "Raya"
+        "Ewa Pajor",
+        "Nigeria",
+        "Barcelona",
+        "Tinubu",
+        "Cata Coll",
+        "Salma",
+        "Barca",
+        "Europe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
