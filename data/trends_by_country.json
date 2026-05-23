@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-05-23T11:51:50.845688+00:00",
+  "generated_at_utc": "2026-05-23T12:53:11.985976+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 23 2026 11:03:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 11:56:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "#LOLFanFest2026D2",
         "America",
         "Good Saturday",
         "Democrats",
-        "Iran",
         "Israel",
-        "China",
+        "Iran",
         "Jesus",
-        "PONDPHUWIN FULL THROTTLE",
-        "Jason"
+        "Colbert",
+        "China",
+        "Biden"
       ],
       "hashtags": [
         "#LOLFanFest2026D2",
         "#AnimeAwards",
-        "#deadbydaylight",
+        "#SaturdayVibes",
         "#LenaMiuFMinManilaDay1"
       ],
       "regular_topics": [
@@ -29,32 +29,32 @@
         "America",
         "Good Saturday",
         "Democrats",
-        "Iran",
         "Israel",
-        "China",
+        "Iran",
         "Jesus",
-        "PONDPHUWIN FULL THROTTLE",
-        "Jason",
-        "PERTHSANTA LIGHTS OUT"
+        "Colbert",
+        "China",
+        "Biden",
+        "PONDPHUWIN FULL THROTTLE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 23 2026 11:30:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 12:21:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Britain",
-        "Boro",
-        "Israel",
-        "Labour",
         "Hull",
-        "London",
+        "Boro",
+        "Britain",
         "Raya",
+        "London",
+        "Labour",
+        "Israel",
         "Starmer",
         "Trump",
-        "Bruno Fernandes"
+        "Rice"
       ],
       "hashtags": [
         "#LOLFanFest2026D2",
@@ -62,23 +62,23 @@
       ],
       "regular_topics": [
         "Arsenal",
-        "Britain",
-        "Boro",
-        "Israel",
-        "Labour",
         "Hull",
-        "London",
+        "Boro",
+        "Britain",
         "Raya",
+        "London",
+        "Labour",
+        "Israel",
         "Starmer",
         "Trump",
-        "Bruno Fernandes"
+        "Rice"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 23 2026 11:24:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 12:15:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -113,17 +113,17 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 23 2026 11:16:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 12:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AiSummitBihar",
         "#SaveIndianDogs",
         "#KejriwalOnFuelCrisis",
-        "#HaiJawaniTohIshqHonaHai",
         "#SCAccountability",
-        "Patna",
+        "#LOLFanFest2026D2",
         "ITBP",
+        "Patna",
         "Pakistan",
-        "China",
+        "Trump",
         "Modi",
         "Delhi"
       ],
@@ -131,57 +131,56 @@
         "#AiSummitBihar",
         "#SaveIndianDogs",
         "#KejriwalOnFuelCrisis",
-        "#HaiJawaniTohIshqHonaHai",
-        "#SCAccountability"
+        "#SCAccountability",
+        "#LOLFanFest2026D2"
       ],
       "regular_topics": [
-        "Patna",
         "ITBP",
+        "Patna",
         "Pakistan",
-        "China",
+        "Trump",
         "Modi",
         "Delhi",
-        "Trump",
-        "WILLIAMEST FULL SPEED",
-        "Mumbai",
+        "China",
+        "\u0915\u093e\u0928\u092a\u0941\u0930 \u092a\u0941\u0932\u093f\u0938",
+        "Rubio",
         "Iran",
-        "Rubio"
+        "WILLIAMEST FULL SPEED"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 23 2026 11:15:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 12:06:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Bruno Fernandes",
-        "Nigeria",
         "Raya",
         "Declan Rice",
-        "Gabriel",
-        "Congratulations Bruno",
-        "Tinubu",
+        "Nigeria",
         "Manchester United",
         "Player of the Season",
-        "China"
+        "Congratulations Bruno",
+        "Tinubu",
+        "Chelsea",
+        "Henry"
       ],
       "hashtags": [
-        "#Zetarium",
         "#LOLFanFest2026D2"
       ],
       "regular_topics": [
         "Arsenal",
         "Bruno Fernandes",
-        "Nigeria",
         "Raya",
         "Declan Rice",
-        "Gabriel",
-        "Congratulations Bruno",
-        "Tinubu",
+        "Nigeria",
         "Manchester United",
         "Player of the Season",
-        "China"
+        "Congratulations Bruno",
+        "Tinubu",
+        "Chelsea",
+        "Henry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
