@@ -1,58 +1,60 @@
 {
-  "generated_at_utc": "2026-05-22T23:54:46.599576+00:00",
+  "generated_at_utc": "2026-05-23T01:49:14.760955+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri May 22 2026 22:48:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 01:25:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
+        "Spurs",
         "America",
         "Democrats",
-        "Israel",
-        "Tulsi",
         "Iran",
-        "Republicans",
+        "Wemby",
+        "#SmackDown",
+        "Israel",
+        "Chet",
         "Jesus",
-        "Biden",
-        "Drake",
-        "Texas"
+        "Biden"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#SmackDown"
+      ],
       "regular_topics": [
         "Trump",
+        "Spurs",
         "America",
         "Democrats",
-        "Israel",
-        "Tulsi",
         "Iran",
-        "Republicans",
+        "Wemby",
+        "Israel",
+        "Chet",
         "Jesus",
         "Biden",
-        "Drake",
-        "Texas"
+        "Cuba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri May 22 2026 23:15:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 01:00:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Israel",
         "Arsenal",
         "London",
         "Britain",
+        "#SmackDown",
+        "Spurs",
         "England",
-        "Starmer",
-        "Liverpool",
-        "Labour",
         "Iran",
-        "Scotland"
+        "America",
+        "Starmer"
       ],
       "hashtags": [
-        "#TOTP"
+        "#SmackDown"
       ],
       "regular_topics": [
         "Trump",
@@ -60,11 +62,11 @@
         "Arsenal",
         "London",
         "Britain",
+        "Spurs",
         "England",
-        "Starmer",
-        "Liverpool",
-        "Labour",
         "Iran",
+        "America",
+        "Starmer",
         "Scotland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -72,105 +74,107 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri May 22 2026 23:08:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 00:54:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Alberta",
+        "Spurs",
+        "Scottie",
         "Israel",
-        "Carney",
         "America",
+        "Carney",
         "Iran",
         "Toronto",
-        "China",
-        "Russia",
-        "Ontario"
+        "China"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#SmackDown"
+      ],
       "regular_topics": [
         "Canada",
         "Trump",
         "Alberta",
+        "Spurs",
+        "Scottie",
         "Israel",
-        "Carney",
         "America",
+        "Carney",
         "Iran",
         "Toronto",
-        "China",
-        "Russia",
-        "Ontario"
+        "China"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri May 22 2026 23:00:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 01:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kohli",
-        "Trump",
-        "Iran",
+        "#GodMorningSaturday",
         "#SRHvsRCB",
-        "Pakistan",
-        "China",
-        "Delhi",
-        "Modi",
-        "America",
-        "Travis Head",
-        "Mumbai"
+        "#LOLFanFest2026D1",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "#dhurandharonjiohotstar",
+        "ashnisha industries",
+        "Trump",
+        "#Durlabh_Darshan_Sant_Ke",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "Iran",
+        "Darshan Karlo Kismat Walo"
       ],
       "hashtags": [
+        "#GodMorningSaturday",
         "#SRHvsRCB",
-        "#Treat_SevEN_Respectfully",
-        "#Boycott_HYBE_BELIFT",
         "#LOLFanFest2026D1",
-        "#CanadianGP"
+        "#dhurandharonjiohotstar",
+        "#Durlabh_Darshan_Sant_Ke"
       ],
       "regular_topics": [
-        "Kohli",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "ashnisha industries",
         "Trump",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "Iran",
-        "Pakistan",
-        "China",
-        "Delhi",
-        "Modi",
-        "America",
-        "Travis Head",
-        "Mumbai",
-        "Israel"
+        "Darshan Karlo Kismat Walo",
+        "ban online pharmacy",
+        "fighting radicals",
+        "yes madam",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+        "dhurandhar raw & undekha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri May 22 2026 23:00:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 23 2026 01:39:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nigeria",
+        "Spurs",
+        "Trump",
         "Arsenal",
         "Chelsea",
         "Tinubu",
         "Ronaldo",
-        "Messi",
-        "Trump",
-        "Drake",
         "Jesus",
-        "Enzo",
-        "Liverpool"
+        "Messi",
+        "Elon",
+        "Drake"
       ],
       "hashtags": [],
       "regular_topics": [
         "Nigeria",
+        "Spurs",
+        "Trump",
         "Arsenal",
         "Chelsea",
         "Tinubu",
         "Ronaldo",
-        "Messi",
-        "Trump",
-        "Drake",
         "Jesus",
-        "Enzo",
-        "Liverpool"
+        "Messi",
+        "Elon",
+        "Drake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
