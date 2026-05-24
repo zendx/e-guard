@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-05-24T16:47:13.655677+00:00",
+  "generated_at_utc": "2026-05-24T17:48:44.852645+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 15:45:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 16:39:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Indy500",
-        "Kris Wright",
-        "Good Sunday",
-        "#LOLFanFest2026D3",
-        "Gabriel Jesus",
-        "Corey",
-        "Keith Jackson",
         "Everton",
+        "Chelsea",
+        "West Ham",
+        "Sunderland",
+        "Fofana",
+        "Kris Wright",
+        "Keith Jackson",
         "Tottenham",
-        "Ray J",
-        "Sunderland"
+        "#LOLFanFest2026D3",
+        "Arsenal"
       ],
       "hashtags": [
         "#Indy500",
         "#LOLFanFest2026D3",
         "#COYS",
         "#stayselcaday",
-        "#SeductiveSunday"
+        "#MUFC"
       ],
       "regular_topics": [
-        "Kris Wright",
-        "Good Sunday",
-        "Gabriel Jesus",
-        "Corey",
-        "Keith Jackson",
         "Everton",
-        "Tottenham",
-        "Ray J",
+        "Chelsea",
+        "West Ham",
         "Sunderland",
+        "Fofana",
+        "Kris Wright",
+        "Keith Jackson",
+        "Tottenham",
         "Arsenal",
-        "Muhammad Qasim"
+        "Dorgu",
+        "Bruno Fernandes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 15:21:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 17:04:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
         "Everton",
-        "Gabriel Jesus",
-        "Bolton",
-        "#bwfc",
-        "#mysteryhammer",
-        "James Collins",
-        "Stockport",
-        "#CRYARS",
-        "Tottenham",
-        "#LIVBRE"
+        "Spurs",
+        "#NUFC",
+        "Moyes",
+        "West Ham",
+        "Fofana",
+        "Sunderland",
+        "Chelsea",
+        "Dorgu",
+        "#TOTEVE",
+        "Bruno Fernandes"
       ],
       "hashtags": [
-        "#bwfc",
-        "#mysteryhammer",
-        "#CRYARS",
+        "#NUFC",
+        "#TOTEVE",
         "#LIVBRE",
-        "#TOTEVE"
+        "#BHAMUN",
+        "#CRYARS"
       ],
       "regular_topics": [
-        "Spurs",
         "Everton",
-        "Gabriel Jesus",
-        "Bolton",
-        "James Collins",
-        "Stockport",
-        "Tottenham",
-        "Arsenal",
-        "Robbo",
-        "O\u2019Brien",
-        "Moyes"
+        "Spurs",
+        "Moyes",
+        "West Ham",
+        "Fofana",
+        "Sunderland",
+        "Chelsea",
+        "Dorgu",
+        "Bruno Fernandes",
+        "Howe",
+        "Barry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 16:06:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 16:57:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -94,10 +94,9 @@
         "Russia",
         "Toronto",
         "China",
-        "Jesus"
+        "Ukraine"
       ],
       "hashtags": [
-        "#MUFC",
         "#LOLFanFest2026D3"
       ],
       "regular_topics": [
@@ -111,85 +110,85 @@
         "Russia",
         "Toronto",
         "China",
-        "Jesus"
+        "Ukraine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 15:57:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 16:51:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ZeroToleranceOnPaperLeak",
         "#JConMelodiPhenomenon",
-        "#JanjatiSanskritikSamagam",
         "#BirsaMunda150",
+        "#JanjatiSanskritikSamagam",
         "#MIvsRR",
-        "Jofra Archer",
         "Red Fort",
-        "Rajasthan Royals",
+        "Jofra Archer",
+        "Bruno Fernandes",
         "Hardik",
-        "PBKS",
-        "Mumbai Indians"
+        "Everton",
+        "Rajasthan Royals"
       ],
       "hashtags": [
         "#ZeroToleranceOnPaperLeak",
         "#JConMelodiPhenomenon",
-        "#JanjatiSanskritikSamagam",
         "#BirsaMunda150",
+        "#JanjatiSanskritikSamagam",
         "#MIvsRR"
       ],
       "regular_topics": [
-        "Jofra Archer",
         "Red Fort",
-        "Rajasthan Royals",
-        "Hardik",
-        "PBKS",
-        "Mumbai Indians",
-        "jungkook",
-        "Jagdeesh Chandra",
+        "Jofra Archer",
         "Bruno Fernandes",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0930\u0949\u092f\u0932\u094d\u0938",
-        "Punjab Kings"
+        "Hardik",
+        "Everton",
+        "Rajasthan Royals",
+        "Rahane",
+        "Jagdeesh Chandra",
+        "PBKS",
+        "Chelsea",
+        "UPSC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 15:56:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 16:49:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Bruno Fernandes",
-        "Gabriel Jesus",
+        "Brighton",
         "Arsenal",
         "#BHAMUN",
-        "Brighton",
         "Dorgu",
+        "Fofana",
+        "Gabriel Jesus",
         "RECORD BREAKER",
-        "21 Assists",
-        "#CRYARS",
+        "Carrick",
         "#SUNCHE"
       ],
       "hashtags": [
         "#BHAMUN",
-        "#CRYARS",
         "#SUNCHE",
-        "#leodasilvawatchparty",
-        "#AbujaWatchPartyBali"
+        "#CRYARS",
+        "#LIVBRE",
+        "#leodasilvawatchparty"
       ],
       "regular_topics": [
         "Chelsea",
         "Bruno Fernandes",
-        "Gabriel Jesus",
-        "Arsenal",
         "Brighton",
+        "Arsenal",
         "Dorgu",
+        "Fofana",
+        "Gabriel Jesus",
         "RECORD BREAKER",
-        "21 Assists",
-        "Tottenham",
         "Carrick",
-        "Gmail"
+        "21 Assists",
+        "Tottenham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
