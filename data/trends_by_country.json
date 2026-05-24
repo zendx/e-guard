@@ -1,163 +1,159 @@
 {
-  "generated_at_utc": "2026-05-24T05:52:11.599996+00:00",
+  "generated_at_utc": "2026-05-24T08:12:36.692717+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 05:21:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 07:04:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Knicks",
         "Cavs",
+        "Ray J",
+        "#LOLFanFest2026D3",
         "Harden",
-        "#SNME",
-        "Brunson",
-        "Iran",
+        "#BRP14",
+        "#brandrisk",
         "GO GO",
-        "Mobley",
-        "White House",
-        "Keith Jackson",
-        "Mitchell"
+        "Brunson",
+        "6ix9ine",
+        "Hasan"
       ],
       "hashtags": [
-        "#SNME",
-        "#DanDaDan",
         "#LOLFanFest2026D3",
-        "#RoosterFighter",
-        "#BlueLock"
+        "#BRP14",
+        "#brandrisk",
+        "#Toonami",
+        "#SNME"
       ],
       "regular_topics": [
         "Knicks",
         "Cavs",
+        "Ray J",
         "Harden",
-        "Brunson",
-        "Iran",
         "GO GO",
-        "Mobley",
-        "White House",
-        "Keith Jackson",
-        "Mitchell",
-        "Secret Service"
+        "Brunson",
+        "6ix9ine",
+        "Hasan",
+        "Adin Ross",
+        "Sean Strickland",
+        "jungkook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 04:54:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 06:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Usyk",
-        "Hull",
         "Trump",
+        "Hull",
         "Arsenal",
         "Britain",
         "Israel",
         "Boro",
         "London",
         "Iran",
-        "Starmer",
-        "Labour"
+        "Labour",
+        "Starmer"
       ],
       "hashtags": [
         "#SNME",
-        "#hulmid"
+        "#LOLFanFest2026D2"
       ],
       "regular_topics": [
         "Usyk",
-        "Hull",
         "Trump",
+        "Hull",
         "Arsenal",
         "Britain",
         "Israel",
         "Boro",
         "London",
         "Iran",
-        "Starmer",
-        "Labour"
+        "Labour",
+        "Starmer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 05:40:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 06:33:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Knicks",
-        "Cavs",
-        "Kapanen",
-        "Canes",
-        "Ehlers",
+        "Canada",
+        "Trump",
         "Iran",
-        "Dobson",
-        "Habs",
-        "#VWFC",
-        "#SNME",
-        "Carolina"
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Toronto",
+        "China",
+        "Russia",
+        "Ukraine"
       ],
       "hashtags": [
-        "#VWFC",
-        "#SNME",
-        "#TFCLive",
-        "#CFMTL",
-        "#SoundTheSiren"
+        "#SNME"
       ],
       "regular_topics": [
-        "Knicks",
-        "Cavs",
-        "Kapanen",
-        "Canes",
-        "Ehlers",
+        "Canada",
+        "Trump",
         "Iran",
-        "Dobson",
-        "Habs",
-        "Carolina",
-        "Veleno",
-        "Harden"
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Toronto",
+        "China",
+        "Russia",
+        "Ukraine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 05:33:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 06:28:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#UPSSSC_LEKHPAL_PAPER_LEAK",
         "Tehseen Poonawalla",
         "#SpiritualSunday",
-        "#UPSSSC_LEKHPAL_PAPER_LEAK",
         "#KhilafatForPeace",
+        "#LOLFanFest2026D3",
         "Adhyatma Aur Vigyan",
         "#SanatanDharma",
-        "#GodMorningSunday",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "WILLIAMEST REDLINE LUV",
         "\u0935\u094d\u0939\u093e\u0907\u091f \u0939\u093e\u0909\u0938",
-        "\u091c\u0928\u093e \u0915\u0943\u0937\u094d\u0923\u092e\u0942\u0930\u094d\u0924\u093f"
+        "Iran",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935"
       ],
       "hashtags": [
-        "#SpiritualSunday",
         "#UPSSSC_LEKHPAL_PAPER_LEAK",
+        "#SpiritualSunday",
         "#KhilafatForPeace",
-        "#SanatanDharma",
-        "#GodMorningSunday"
+        "#LOLFanFest2026D3",
+        "#SanatanDharma"
       ],
       "regular_topics": [
         "Tehseen Poonawalla",
         "Adhyatma Aur Vigyan",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "WILLIAMEST REDLINE LUV",
         "\u0935\u094d\u0939\u093e\u0907\u091f \u0939\u093e\u0909\u0938",
-        "\u091c\u0928\u093e \u0915\u0943\u0937\u094d\u0923\u092e\u0942\u0930\u094d\u0924\u093f",
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f",
-        "Hazrat Mirza Masroor Ahmad",
         "Iran",
-        "Secret Service",
-        "Trump"
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "Hazrat Mirza Masroor Ahmad",
+        "Chris Gayle",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f",
+        "\u091c\u0928\u093e \u0915\u0943\u0937\u094d\u0923\u092e\u0942\u0930\u094d\u0924\u093f",
+        "\u0915\u0930\u0924\u093e\u0930 \u0938\u093f\u0902\u0939 \u0938\u0930\u093e\u092d\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 05:33:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 06:27:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Nigeria",
@@ -168,8 +164,8 @@
         "Messi",
         "Trump",
         "Wizkid",
-        "Lagos",
-        "Manchester United"
+        "Manchester United",
+        "Lagos"
       ],
       "hashtags": [],
       "regular_topics": [
@@ -182,8 +178,8 @@
         "Messi",
         "Trump",
         "Wizkid",
-        "Lagos",
-        "Manchester United"
+        "Manchester United",
+        "Lagos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
