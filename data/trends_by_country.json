@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-05-24T12:53:28.057224+00:00",
+  "generated_at_utc": "2026-05-24T14:18:29.714241+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 12:18:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 13:09:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
         "#LOLFanFest2026D3",
         "#Indy500",
         "Muhammad Qasim",
+        "Pentecost Sunday",
         "Ray J",
-        "JSCEAN HEART NEVER FADE",
         "Blessed Sunday",
-        "Pentecost",
         "#SeductiveSunday",
-        "PERTHSANTA CHEQUERED FLAG",
-        "WILLIAMEST REDLINE LUV"
+        "jungkook",
+        "JSCEAN HEART NEVER FADE",
+        "#SundayVibes"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
         "#Indy500",
         "#SeductiveSunday",
-        "#MLBS6Spoilers",
-        "#brandrisk"
+        "#SundayVibes",
+        "#SundayFunday"
       ],
       "regular_topics": [
         "Good Sunday",
         "Muhammad Qasim",
+        "Pentecost Sunday",
         "Ray J",
-        "JSCEAN HEART NEVER FADE",
         "Blessed Sunday",
-        "Pentecost",
+        "jungkook",
+        "JSCEAN HEART NEVER FADE",
         "PERTHSANTA CHEQUERED FLAG",
         "WILLIAMEST REDLINE LUV",
-        "JOSSGAWIN FINAL LAP",
-        "PONDPHUWIN FINISH LINE",
-        "Race Day"
+        "Ukraine",
+        "Britain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 12:44:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 13:36:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "Everton",
         "Stockport",
-        "#footballfocus",
         "Bolton",
         "Shankland",
-        "jungkook",
-        "Farage",
+        "#FPLCommunity",
         "Tottenham",
-        "#bwfc",
-        "#LOLFanFest2026D3"
+        "jungkook",
+        "#LOLFanFest2026D3",
+        "#footballfocus",
+        "Farage"
       ],
       "hashtags": [
+        "#FPLCommunity",
+        "#LOLFanFest2026D3",
         "#footballfocus",
         "#bwfc",
-        "#LOLFanFest2026D3",
-        "#COYI",
-        "#bbclaurak"
+        "#GW38"
       ],
       "regular_topics": [
         "Spurs",
@@ -70,19 +70,19 @@
         "Stockport",
         "Bolton",
         "Shankland",
+        "Tottenham",
         "jungkook",
         "Farage",
-        "Tottenham",
-        "Darren Jones",
-        "Labour",
-        "Brentford"
+        "Bowen",
+        "Rangers",
+        "Great Barrier Reef"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 12:39:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 13:30:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -118,75 +118,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 12:32:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 13:24:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JanjatiSanskritikSamagam",
-        "#BirsaMunda150",
         "#MIvsRR",
-        "Red Fort",
+        "#BirsaMunda150",
+        "#JanjatiSanskritikSamagam",
         "#LOLFanFest2026D3",
         "#RRvsMI",
-        "Phoenix Mall Of The Millennium",
-        "Jadeja",
         "jungkook",
+        "Red Fort",
+        "Rohit Sharma",
         "Jofra Archer",
+        "Mumbai Indians",
         "WILLIAMEST REDLINE LUV"
       ],
       "hashtags": [
-        "#JanjatiSanskritikSamagam",
-        "#BirsaMunda150",
         "#MIvsRR",
+        "#BirsaMunda150",
+        "#JanjatiSanskritikSamagam",
         "#LOLFanFest2026D3",
         "#RRvsMI"
       ],
       "regular_topics": [
-        "Red Fort",
-        "Phoenix Mall Of The Millennium",
-        "Jadeja",
         "jungkook",
+        "Red Fort",
+        "Rohit Sharma",
         "Jofra Archer",
+        "Mumbai Indians",
         "WILLIAMEST REDLINE LUV",
+        "Jadeja",
         "Dhruv Jurel",
         "Shardul Thakur",
-        "Riyan Parag",
-        "Corbin Bosch",
-        "Rohit Sharma"
+        "UPSC",
+        "CM Mann"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 12:30:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 13:21:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Brighton",
         "Gmail",
+        "Brighton",
         "Chelsea",
-        "Everton",
         "Sunderland",
-        "Crystal Palace",
         "Tottenham",
+        "Everton",
         "Church",
-        "thanksgiving",
-        "Brentford"
+        "Brentford",
+        "Rangers",
+        "Liverpool"
       ],
       "hashtags": [
-        "#LOLFanFest2026D3",
-        "#SundayService"
+        "#leodasilvawatchparty",
+        "#LOLFanFest2026D3"
       ],
       "regular_topics": [
         "Arsenal",
-        "Brighton",
         "Gmail",
+        "Brighton",
         "Chelsea",
-        "Everton",
         "Sunderland",
-        "Crystal Palace",
         "Tottenham",
+        "Everton",
         "Church",
-        "thanksgiving",
-        "Brentford"
+        "Brentford",
+        "Rangers",
+        "Liverpool"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
