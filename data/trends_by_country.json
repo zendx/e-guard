@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-05-24T14:18:29.714241+00:00",
+  "generated_at_utc": "2026-05-24T15:39:26.360450+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 13:09:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 14:54:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
-        "#LOLFanFest2026D3",
         "#Indy500",
-        "Muhammad Qasim",
-        "Pentecost Sunday",
+        "#LOLFanFest2026D3",
         "Ray J",
-        "Blessed Sunday",
+        "Muhammad Qasim",
+        "Pentecost",
+        "That's Travis",
         "#SeductiveSunday",
-        "jungkook",
-        "JSCEAN HEART NEVER FADE",
-        "#SundayVibes"
+        "Arsenal",
+        "Kabuto is King",
+        "Sunday Funday"
       ],
       "hashtags": [
-        "#LOLFanFest2026D3",
         "#Indy500",
+        "#LOLFanFest2026D3",
         "#SeductiveSunday",
-        "#SundayVibes",
-        "#SundayFunday"
+        "#COYS",
+        "#SundayVibes"
       ],
       "regular_topics": [
         "Good Sunday",
-        "Muhammad Qasim",
-        "Pentecost Sunday",
         "Ray J",
-        "Blessed Sunday",
-        "jungkook",
-        "JSCEAN HEART NEVER FADE",
-        "PERTHSANTA CHEQUERED FLAG",
-        "WILLIAMEST REDLINE LUV",
-        "Ukraine",
-        "Britain"
+        "Muhammad Qasim",
+        "Pentecost",
+        "That's Travis",
+        "Arsenal",
+        "Kabuto is King",
+        "Sunday Funday",
+        "Tottenham",
+        "West Ham",
+        "Everton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 13:36:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 14:28:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
-        "Everton",
-        "Stockport",
         "Bolton",
-        "Shankland",
-        "#FPLCommunity",
+        "Spurs",
+        "Stockport",
+        "Everton",
+        "#bwfc",
+        "Sam Dalby",
+        "#mysteryhammer",
         "Tottenham",
-        "jungkook",
-        "#LOLFanFest2026D3",
-        "#footballfocus",
-        "Farage"
+        "Robbo",
+        "#COYS",
+        "Marmoush"
       ],
       "hashtags": [
-        "#FPLCommunity",
-        "#LOLFanFest2026D3",
-        "#footballfocus",
         "#bwfc",
-        "#GW38"
+        "#mysteryhammer",
+        "#COYS",
+        "#FPLCommunity",
+        "#LOLFanFest2026D3"
       ],
       "regular_topics": [
-        "Spurs",
-        "Everton",
-        "Stockport",
         "Bolton",
-        "Shankland",
+        "Spurs",
+        "Stockport",
+        "Everton",
+        "Sam Dalby",
         "Tottenham",
-        "jungkook",
-        "Farage",
-        "Bowen",
-        "Rangers",
-        "Great Barrier Reef"
+        "Robbo",
+        "Marmoush",
+        "Murphy",
+        "Shankland",
+        "Moyes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 13:30:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 15:15:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -91,10 +91,10 @@
         "Alberta",
         "America",
         "Carney",
-        "Toronto",
         "Russia",
+        "Toronto",
         "China",
-        "Ukraine"
+        "Jesus"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
@@ -108,29 +108,29 @@
         "Alberta",
         "America",
         "Carney",
-        "Toronto",
         "Russia",
+        "Toronto",
         "China",
-        "Ukraine"
+        "Jesus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 13:24:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 14:15:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MIvsRR",
         "#BirsaMunda150",
         "#JanjatiSanskritikSamagam",
         "#LOLFanFest2026D3",
         "#RRvsMI",
-        "jungkook",
-        "Red Fort",
-        "Rohit Sharma",
         "Jofra Archer",
-        "Mumbai Indians",
-        "WILLIAMEST REDLINE LUV"
+        "Hardik",
+        "jungkook",
+        "Rohit Sharma",
+        "Red Fort",
+        "Mumbai Indians"
       ],
       "hashtags": [
         "#MIvsRR",
@@ -140,53 +140,56 @@
         "#RRvsMI"
       ],
       "regular_topics": [
-        "jungkook",
-        "Red Fort",
-        "Rohit Sharma",
         "Jofra Archer",
+        "Hardik",
+        "jungkook",
+        "Rohit Sharma",
+        "Red Fort",
         "Mumbai Indians",
         "WILLIAMEST REDLINE LUV",
-        "Jadeja",
-        "Dhruv Jurel",
-        "Shardul Thakur",
+        "Surya",
+        "Rajasthan Royals",
         "UPSC",
-        "CM Mann"
+        "SANCHII STORM BEGINS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 13:21:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 15:04:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
+        "Chelsea",
         "Gmail",
         "Brighton",
-        "Chelsea",
-        "Sunderland",
         "Tottenham",
+        "#leodasilvawatchparty",
         "Everton",
-        "Church",
+        "Dorgu",
+        "Selhurst Park",
         "Brentford",
-        "Rangers",
-        "Liverpool"
+        "Gunners"
       ],
       "hashtags": [
         "#leodasilvawatchparty",
+        "#SUNCHE",
+        "#CRYARS",
+        "#FeedinghopewithTimi",
         "#LOLFanFest2026D3"
       ],
       "regular_topics": [
         "Arsenal",
+        "Chelsea",
         "Gmail",
         "Brighton",
-        "Chelsea",
-        "Sunderland",
         "Tottenham",
         "Everton",
-        "Church",
+        "Dorgu",
+        "Selhurst Park",
         "Brentford",
-        "Rangers",
-        "Liverpool"
+        "Gunners",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
