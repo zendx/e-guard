@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-05-24T22:43:52.267229+00:00",
+  "generated_at_utc": "2026-05-24T23:47:17.844445+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 21:49:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 22:42:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Azzi",
-        "#Indy500",
         "Samsung",
+        "iPhone",
+        "Azzi",
         "Lewis",
+        "#Indy500",
+        "Baki",
+        "Yujiro",
         "#CanadianGP",
-        "Felix Rosenqvist",
-        "McLaren",
         "Kimi",
-        "Malukas",
-        "Lando",
-        "Russell"
+        "#CocaCola600",
+        "Samantha"
       ],
       "hashtags": [
         "#Indy500",
         "#CanadianGP",
-        "#HailState",
-        "#BetrPicks",
-        "#WreckEm"
+        "#CocaCola600",
+        "#AEWDoN",
+        "#Coke600"
       ],
       "regular_topics": [
-        "Azzi",
         "Samsung",
+        "iPhone",
+        "Azzi",
         "Lewis",
+        "Baki",
+        "Yujiro",
+        "Kimi",
+        "Samantha",
         "Felix Rosenqvist",
         "McLaren",
-        "Kimi",
-        "Malukas",
-        "Lando",
-        "Russell",
-        "WCWS",
-        "Mets"
+        "All 20"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 22:18:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 23:09:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#CanadianGP",
         "Lewis",
+        "#CanadianGP",
         "Russell",
         "McLaren",
+        "#MOTD",
         "Lando",
         "West Ham",
-        "Sunderland",
+        "Milan",
         "Moyes",
-        "Arsenal",
-        "Verstappen",
-        "Milan"
+        "Sunderland",
+        "Verstappen"
       ],
       "hashtags": [
         "#CanadianGP",
-        "#DearEngland",
         "#MOTD",
+        "#DearEngland",
         "#SAFC",
-        "#Indy500"
+        "#AEWDoN"
       ],
       "regular_topics": [
         "Lewis",
@@ -70,122 +70,123 @@
         "McLaren",
         "Lando",
         "West Ham",
-        "Sunderland",
-        "Moyes",
-        "Arsenal",
-        "Verstappen",
         "Milan",
-        "Spurs"
+        "Moyes",
+        "Sunderland",
+        "Verstappen",
+        "Oscar",
+        "Everton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 22:12:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 23:03:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lewis",
-        "#CanadianGP",
-        "Kimi",
-        "Easton Cowan",
-        "Marlies",
-        "Azzi",
-        "McLaren",
-        "Milan",
-        "Samsung",
-        "Verstappen",
-        "Lando"
+        "Canada",
+        "Trump",
+        "Iran",
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Russia",
+        "Toronto",
+        "China",
+        "Arsenal"
       ],
       "hashtags": [
         "#CanadianGP",
-        "#Indy500",
-        "#MUFC"
+        "#UsykRico",
+        "#LOLFanFest2026D3"
       ],
       "regular_topics": [
-        "Lewis",
-        "Kimi",
-        "Easton Cowan",
-        "Marlies",
-        "Azzi",
-        "McLaren",
-        "Milan",
-        "Samsung",
-        "Verstappen",
-        "Lando",
-        "Russell"
+        "Canada",
+        "Trump",
+        "Iran",
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Russia",
+        "Toronto",
+        "China",
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 22:06:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 22:57:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lewis",
         "#ZeroToleranceOnPaperLeak",
-        "Russell",
-        "#CanadianGP",
-        "Verstappen",
-        "McLaren",
-        "Arsenal",
-        "Kimi",
-        "Lando",
-        "#HONOR_YOUR_ARTISTS",
-        "#WE_STAND_BY_SEVEN"
+        "#MIvsRR",
+        "Trump",
+        "#LOLFanFest2026D3",
+        "#janjatisanskritiksamagam",
+        "Iran",
+        "#BirsaMunda150",
+        "Pakistan",
+        "Lewis",
+        "China",
+        "Delhi"
       ],
       "hashtags": [
         "#ZeroToleranceOnPaperLeak",
-        "#CanadianGP",
-        "#HONOR_YOUR_ARTISTS",
-        "#WE_STAND_BY_SEVEN",
-        "#LOLFanFest2026D3"
+        "#MIvsRR",
+        "#LOLFanFest2026D3",
+        "#janjatisanskritiksamagam",
+        "#BirsaMunda150"
       ],
       "regular_topics": [
+        "Trump",
+        "Iran",
+        "Pakistan",
         "Lewis",
-        "Russell",
-        "Verstappen",
-        "McLaren",
+        "China",
+        "Delhi",
+        "Modi",
         "Arsenal",
-        "Kimi",
-        "Lando",
-        "Antonelli",
-        "Charles",
-        "Norris",
-        "Premier League"
+        "Mumbai",
+        "soniya bansal at cannes",
+        "jungkook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 22:03:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 22:54:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Chelsea",
         "Fabregas",
+        "Chelsea",
         "AC Milan",
         "Assist",
         "Juventus",
-        "Europe",
-        "Gunners",
+        "Phyna",
         "Allegri",
         "Dumebi Kachikwu",
+        "Europe",
         "Hamilton"
       ],
       "hashtags": [
-        "#CanadianGP"
+        "#CanadianGP",
+        "#leodasilvawatchparty"
       ],
       "regular_topics": [
         "Arsenal",
-        "Chelsea",
         "Fabregas",
+        "Chelsea",
         "AC Milan",
         "Assist",
         "Juventus",
-        "Europe",
-        "Gunners",
+        "Phyna",
         "Allegri",
         "Dumebi Kachikwu",
+        "Europe",
         "Hamilton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
