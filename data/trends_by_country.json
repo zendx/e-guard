@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-05-24T11:45:24.519893+00:00",
+  "generated_at_utc": "2026-05-24T12:53:28.057224+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 10:33:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 12:18:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#LOLFanFest2026D3",
-        "Ray J",
         "Good Sunday",
-        "Knicks",
+        "#LOLFanFest2026D3",
+        "#Indy500",
+        "Muhammad Qasim",
+        "Ray J",
         "JSCEAN HEART NEVER FADE",
+        "Blessed Sunday",
+        "Pentecost",
+        "#SeductiveSunday",
         "PERTHSANTA CHEQUERED FLAG",
-        "Cavs",
-        "WILLIAMEST REDLINE LUV",
-        "PONDPHUWIN FINISH LINE",
-        "Hasan",
-        "Quetta"
+        "WILLIAMEST REDLINE LUV"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
-        "#brandrisk",
+        "#Indy500",
+        "#SeductiveSunday",
         "#MLBS6Spoilers",
-        "#LovenseOrgy",
-        "#Toonami"
+        "#brandrisk"
       ],
       "regular_topics": [
-        "Ray J",
         "Good Sunday",
-        "Knicks",
+        "Muhammad Qasim",
+        "Ray J",
         "JSCEAN HEART NEVER FADE",
+        "Blessed Sunday",
+        "Pentecost",
         "PERTHSANTA CHEQUERED FLAG",
-        "Cavs",
         "WILLIAMEST REDLINE LUV",
+        "JOSSGAWIN FINAL LAP",
         "PONDPHUWIN FINISH LINE",
-        "Hasan",
-        "Quetta",
-        "Adin Ross"
+        "Race Day"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 11:00:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 12:44:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
-        "West Ham",
         "Everton",
-        "Farage",
-        "#bbclaurak",
-        "#LOLFanFest2026D3",
-        "Darren Jones",
-        "Labour",
+        "Stockport",
+        "#footballfocus",
+        "Bolton",
         "Shankland",
-        "Lowe",
-        "Britain"
+        "jungkook",
+        "Farage",
+        "Tottenham",
+        "#bwfc",
+        "#LOLFanFest2026D3"
       ],
       "hashtags": [
-        "#bbclaurak",
-        "#LOLFanFest2026D3",
+        "#footballfocus",
         "#bwfc",
-        "#SundayYellow",
-        "#trevorphillips"
+        "#LOLFanFest2026D3",
+        "#COYI",
+        "#bbclaurak"
       ],
       "regular_topics": [
         "Spurs",
-        "West Ham",
         "Everton",
+        "Stockport",
+        "Bolton",
+        "Shankland",
+        "jungkook",
         "Farage",
+        "Tottenham",
         "Darren Jones",
         "Labour",
-        "Shankland",
-        "Lowe",
-        "Britain",
-        "Vote Reform",
-        "Rangers"
+        "Brentford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 10:54:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 12:39:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -118,75 +118,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 10:48:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 12:32:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#JanjatiSanskritikSamagam",
+        "#BirsaMunda150",
         "#MIvsRR",
-        "Phoenix Mall Of The Millennium",
-        "#BeautyXperience",
+        "Red Fort",
         "#LOLFanFest2026D3",
-        "#UPSSSC_LEKHPAL_PAPER_LEAK",
         "#RRvsMI",
-        "SONIYA BANSAL AT CANNES",
-        "Will Jacks",
-        "WILLIAMEST REDLINE LUV",
-        "Quetta",
-        "Deepak Chahar"
+        "Phoenix Mall Of The Millennium",
+        "Jadeja",
+        "jungkook",
+        "Jofra Archer",
+        "WILLIAMEST REDLINE LUV"
       ],
       "hashtags": [
+        "#JanjatiSanskritikSamagam",
+        "#BirsaMunda150",
         "#MIvsRR",
-        "#BeautyXperience",
         "#LOLFanFest2026D3",
-        "#UPSSSC_LEKHPAL_PAPER_LEAK",
         "#RRvsMI"
       ],
       "regular_topics": [
+        "Red Fort",
         "Phoenix Mall Of The Millennium",
-        "SONIYA BANSAL AT CANNES",
-        "Will Jacks",
+        "Jadeja",
+        "jungkook",
+        "Jofra Archer",
         "WILLIAMEST REDLINE LUV",
-        "Quetta",
-        "Deepak Chahar",
-        "Jaiswal",
-        "Rubio",
-        "CM Mann",
-        "Balochistan",
-        "Parag"
+        "Dhruv Jurel",
+        "Shardul Thakur",
+        "Riyan Parag",
+        "Corbin Bosch",
+        "Rohit Sharma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 10:46:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 12:30:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Brighton",
         "Arsenal",
-        "Crystal Palace",
-        "Church",
+        "Brighton",
+        "Gmail",
         "Chelsea",
+        "Everton",
         "Sunderland",
+        "Crystal Palace",
         "Tottenham",
-        "Uli Hoeness",
-        "Blessed Sunday",
+        "Church",
         "thanksgiving",
-        "Welbeck"
+        "Brentford"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
         "#SundayService"
       ],
       "regular_topics": [
-        "Brighton",
         "Arsenal",
-        "Crystal Palace",
-        "Church",
+        "Brighton",
+        "Gmail",
         "Chelsea",
+        "Everton",
         "Sunderland",
+        "Crystal Palace",
         "Tottenham",
-        "Uli Hoeness",
-        "Blessed Sunday",
+        "Church",
         "thanksgiving",
-        "Welbeck"
+        "Brentford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
