@@ -1,99 +1,99 @@
 {
-  "generated_at_utc": "2026-05-24T10:14:51.361122+00:00",
+  "generated_at_utc": "2026-05-24T11:45:24.519893+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 09:40:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 10:33:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LOLFanFest2026D3",
         "Ray J",
+        "Good Sunday",
         "Knicks",
-        "Cavs",
         "JSCEAN HEART NEVER FADE",
-        "#brandrisk",
-        "#BRP14",
         "PERTHSANTA CHEQUERED FLAG",
+        "Cavs",
+        "WILLIAMEST REDLINE LUV",
+        "PONDPHUWIN FINISH LINE",
         "Hasan",
-        "Lance Stephenson",
-        "jungkook"
+        "Quetta"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
         "#brandrisk",
-        "#BRP14",
         "#MLBS6Spoilers",
-        "#LovenseOrgy"
+        "#LovenseOrgy",
+        "#Toonami"
       ],
       "regular_topics": [
         "Ray J",
+        "Good Sunday",
         "Knicks",
-        "Cavs",
         "JSCEAN HEART NEVER FADE",
         "PERTHSANTA CHEQUERED FLAG",
+        "Cavs",
+        "WILLIAMEST REDLINE LUV",
+        "PONDPHUWIN FINISH LINE",
         "Hasan",
-        "Lance Stephenson",
-        "jungkook",
-        "Adin Ross",
-        "Michael Beasley",
-        "GO GO"
+        "Quetta",
+        "Adin Ross"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 09:15:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 11:00:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbclaurak",
         "Spurs",
-        "Farage",
         "West Ham",
-        "#LOLFanFest2026D3",
-        "#trevorphillips",
         "Everton",
+        "Farage",
+        "#bbclaurak",
+        "#LOLFanFest2026D3",
+        "Darren Jones",
+        "Labour",
+        "Shankland",
         "Lowe",
-        "Britain",
-        "Vote Reform",
-        "Labour"
+        "Britain"
       ],
       "hashtags": [
         "#bbclaurak",
         "#LOLFanFest2026D3",
-        "#trevorphillips",
+        "#bwfc",
         "#SundayYellow",
-        "#SNME"
+        "#trevorphillips"
       ],
       "regular_topics": [
         "Spurs",
-        "Farage",
         "West Ham",
         "Everton",
+        "Farage",
+        "Darren Jones",
+        "Labour",
+        "Shankland",
         "Lowe",
         "Britain",
         "Vote Reform",
-        "Labour",
-        "Tottenham",
-        "Russia",
-        "Burnham"
+        "Rangers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 10:03:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 10:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
-        "Israel",
         "Iran",
+        "Israel",
         "Alberta",
         "America",
         "Carney",
         "Toronto",
-        "China",
         "Russia",
+        "China",
         "Ukraine"
       ],
       "hashtags": [
@@ -103,14 +103,14 @@
       "regular_topics": [
         "Canada",
         "Trump",
-        "Israel",
         "Iran",
+        "Israel",
         "Alberta",
         "America",
         "Carney",
         "Toronto",
-        "China",
         "Russia",
+        "China",
         "Ukraine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -118,58 +118,58 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 09:03:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 10:48:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BeautyXperience",
+        "#MIvsRR",
         "Phoenix Mall Of The Millennium",
-        "#PeoplesPadma2026",
-        "#UPSSSC_LEKHPAL_PAPER_LEAK",
-        "SONIYA BANSAL AT CANNES",
+        "#BeautyXperience",
         "#LOLFanFest2026D3",
-        "#SAMUK",
+        "#UPSSSC_LEKHPAL_PAPER_LEAK",
+        "#RRvsMI",
+        "SONIYA BANSAL AT CANNES",
+        "Will Jacks",
         "WILLIAMEST REDLINE LUV",
-        "PONDPHUWIN FINISH LINE",
-        "Rubio",
-        "JOSSGAWIN FINAL LAP"
+        "Quetta",
+        "Deepak Chahar"
       ],
       "hashtags": [
+        "#MIvsRR",
         "#BeautyXperience",
-        "#PeoplesPadma2026",
-        "#UPSSSC_LEKHPAL_PAPER_LEAK",
         "#LOLFanFest2026D3",
-        "#SAMUK"
+        "#UPSSSC_LEKHPAL_PAPER_LEAK",
+        "#RRvsMI"
       ],
       "regular_topics": [
         "Phoenix Mall Of The Millennium",
         "SONIYA BANSAL AT CANNES",
+        "Will Jacks",
         "WILLIAMEST REDLINE LUV",
-        "PONDPHUWIN FINISH LINE",
+        "Quetta",
+        "Deepak Chahar",
+        "Jaiswal",
         "Rubio",
-        "JOSSGAWIN FINAL LAP",
-        "Pakistan",
-        "Chris Gayle",
-        "PERTHSANTA CHEQUERED FLAG",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0930\u093f\u0915\u0949\u0930\u094d\u0921",
-        "Chaman Phatak"
+        "CM Mann",
+        "Balochistan",
+        "Parag"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 09:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 10:46:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brighton",
         "Arsenal",
         "Crystal Palace",
         "Church",
-        "Blessed Sunday",
-        "Welbeck",
-        "Sunderland",
         "Chelsea",
-        "Coronation Day",
+        "Sunderland",
+        "Tottenham",
+        "Uli Hoeness",
+        "Blessed Sunday",
         "thanksgiving",
-        "#LOLFanFest2026D3"
+        "Welbeck"
       ],
       "hashtags": [
         "#LOLFanFest2026D3",
@@ -180,13 +180,13 @@
         "Arsenal",
         "Crystal Palace",
         "Church",
-        "Blessed Sunday",
-        "Welbeck",
-        "Sunderland",
         "Chelsea",
-        "Coronation Day",
+        "Sunderland",
+        "Tottenham",
+        "Uli Hoeness",
+        "Blessed Sunday",
         "thanksgiving",
-        "Today is Sunday"
+        "Welbeck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
