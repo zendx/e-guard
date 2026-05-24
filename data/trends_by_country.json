@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-24T19:59:06.173878+00:00",
+  "generated_at_utc": "2026-05-24T20:53:33.687291+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -82,38 +82,37 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 24 2026 19:36:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 20:28:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
-        "Chelsea",
-        "Vladdy",
-        "Everton",
-        "Sunderland",
-        "West Ham",
-        "Dylan Cease",
-        "Sosa",
-        "#Indy500",
-        "Guerrero",
-        "Tottenham"
+        "Canada",
+        "Trump",
+        "Iran",
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Russia",
+        "Toronto",
+        "China",
+        "Arsenal"
       ],
       "hashtags": [
         "#Indy500",
-        "#COYS",
-        "#MUFC",
-        "#LOLFanFest2026D3"
+        "#LOLFanFest2026D3",
+        "#UsykRico"
       ],
       "regular_topics": [
-        "Arsenal",
-        "Chelsea",
-        "Vladdy",
-        "Everton",
-        "Sunderland",
-        "West Ham",
-        "Dylan Cease",
-        "Sosa",
-        "Guerrero",
-        "Tottenham",
-        "Carrick"
+        "Canada",
+        "Trump",
+        "Iran",
+        "Israel",
+        "Alberta",
+        "America",
+        "Carney",
+        "Russia",
+        "Toronto",
+        "China",
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -159,38 +158,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 19:28:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 20:20:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Chelsea",
+        "Assist",
         "Sunderland",
+        "Gunners",
         "Europe",
         "Bruno Fernandes",
-        "Gunners",
         "Carrick",
-        "Brighton",
-        "Tottenham",
         "Enugu Rangers",
-        "West Ham"
+        "Amorim",
+        "Brighton"
       ],
       "hashtags": [
         "#BHAMUN",
-        "#CRYARS",
-        "#SUNCHE",
-        "#FinalQuest2026"
+        "#FinalQuest2026",
+        "#CRYARS"
       ],
       "regular_topics": [
         "Arsenal",
         "Chelsea",
+        "Assist",
         "Sunderland",
+        "Gunners",
         "Europe",
         "Bruno Fernandes",
-        "Gunners",
         "Carrick",
-        "Brighton",
-        "Tottenham",
         "Enugu Rangers",
-        "West Ham"
+        "Amorim",
+        "Brighton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
