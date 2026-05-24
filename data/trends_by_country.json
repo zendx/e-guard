@@ -1,81 +1,80 @@
 {
-  "generated_at_utc": "2026-05-24T20:53:33.687291+00:00",
+  "generated_at_utc": "2026-05-24T21:43:00.042405+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 24 2026 19:15:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 20:06:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$PITCH",
         "#Indy500",
+        "$PITCH",
         "Arsenal",
-        "Everton",
-        "West Ham",
-        "Tottenham",
-        "Taylor Fritz",
+        "Pato",
         "Draymond",
-        "Chelsea",
-        "#COYS",
-        "Sunderland"
+        "ALL RISE",
+        "Kenley Jansen",
+        "Everton",
+        "Colton Cowser",
+        "Yankees",
+        "Aaron Judge"
       ],
       "hashtags": [
         "#Indy500",
         "#COYS",
         "#TeamRedBill",
-        "#IndyCar",
-        "#LOLFanFest2026D3"
+        "#IndyCar"
       ],
       "regular_topics": [
         "$PITCH",
         "Arsenal",
-        "Everton",
-        "West Ham",
-        "Tottenham",
-        "Taylor Fritz",
+        "Pato",
         "Draymond",
-        "Chelsea",
-        "Sunderland",
-        "Rossi",
-        "Unreal Engine 6"
+        "ALL RISE",
+        "Kenley Jansen",
+        "Everton",
+        "Colton Cowser",
+        "Yankees",
+        "Aaron Judge",
+        "Palou"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 24 2026 19:42:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 21:27:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#CanadianGP",
+        "Russell",
+        "McLaren",
+        "Lando",
         "West Ham",
-        "Everton",
         "Sunderland",
-        "Spurs",
         "Moyes",
         "Arsenal",
-        "Chelsea",
-        "#NUFC",
-        "#SAFC",
-        "De Zerbi",
-        "Robbo"
-      ],
-      "hashtags": [
-        "#NUFC",
-        "#SAFC",
-        "#COYS",
-        "#wildflowerhour",
+        "#DearEngland",
+        "Spurs",
         "#Indy500"
       ],
+      "hashtags": [
+        "#CanadianGP",
+        "#DearEngland",
+        "#Indy500",
+        "#SAFC",
+        "#NUFC"
+      ],
       "regular_topics": [
+        "Russell",
+        "McLaren",
+        "Lando",
         "West Ham",
-        "Everton",
         "Sunderland",
-        "Spurs",
         "Moyes",
         "Arsenal",
-        "Chelsea",
-        "De Zerbi",
-        "Robbo",
-        "Howe",
-        "Lange"
+        "Spurs",
+        "Lewis",
+        "Milan",
+        "Chelsea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -119,24 +118,24 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 24 2026 19:31:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 20:21:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ZeroToleranceOnPaperLeak",
         "Arsenal",
-        "#WE_STAND_BY_SEVEN",
         "#HONOR_YOUR_ARTISTS",
+        "#WE_STAND_BY_SEVEN",
         "#KKRvsDC",
         "#LOLFanFest2026D3",
         "Kuldeep Yadav",
         "Chelsea",
-        "Spurs",
+        "McLaren",
         "Rahane",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0940\u090f\u092e \u0930\u0947\u0916\u093e \u0917\u0941\u092a\u094d\u0924\u093e"
+        "Spurs"
       ],
       "hashtags": [
         "#ZeroToleranceOnPaperLeak",
-        "#WE_STAND_BY_SEVEN",
         "#HONOR_YOUR_ARTISTS",
+        "#WE_STAND_BY_SEVEN",
         "#KKRvsDC",
         "#LOLFanFest2026D3"
       ],
@@ -144,12 +143,12 @@
         "Arsenal",
         "Kuldeep Yadav",
         "Chelsea",
-        "Spurs",
+        "McLaren",
         "Rahane",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0940\u090f\u092e \u0930\u0947\u0916\u093e \u0917\u0941\u092a\u094d\u0924\u093e",
-        "Sunderland",
-        "Delhi Capitals",
+        "Spurs",
         "Premier League",
+        "Sunderland",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0940\u090f\u092e \u0930\u0947\u0916\u093e \u0917\u0941\u092a\u094d\u0924\u093e",
         "Robbo",
         "West Ham"
       ],
@@ -158,37 +157,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 24 2026 20:20:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 24 2026 21:12:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Chelsea",
         "Assist",
-        "Sunderland",
+        "AC Milan",
         "Gunners",
         "Europe",
+        "Sunderland",
+        "Fabregas",
         "Bruno Fernandes",
-        "Carrick",
-        "Enugu Rangers",
-        "Amorim",
-        "Brighton"
+        "Allegri",
+        "Juventus"
       ],
       "hashtags": [
-        "#BHAMUN",
-        "#FinalQuest2026",
-        "#CRYARS"
+        "#FinalQuest2026"
       ],
       "regular_topics": [
         "Arsenal",
         "Chelsea",
         "Assist",
-        "Sunderland",
+        "AC Milan",
         "Gunners",
         "Europe",
+        "Sunderland",
+        "Fabregas",
         "Bruno Fernandes",
-        "Carrick",
-        "Enugu Rangers",
-        "Amorim",
-        "Brighton"
+        "Allegri",
+        "Juventus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
