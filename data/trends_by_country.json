@@ -1,85 +1,85 @@
 {
-  "generated_at_utc": "2026-05-25T22:48:41.584948+00:00",
+  "generated_at_utc": "2026-05-25T23:53:35.678551+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 25 2026 22:01:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 22:52:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Memorial Day",
+        "#NoVeasAzteca",
         "George Floyd",
+        "Memorial Day",
         "Ferrari",
+        "Volpe",
+        "#BTSonAMAs",
         "Opie",
-        "McLean",
+        "Tanner Bibee",
         "Coke Zero",
-        "Orioles",
-        "Colton Cowser",
-        "Jake Bird",
-        "Diet Coke",
-        "Minneapolis"
+        "BTS PAVED THE WAY",
+        "McLean"
       ],
       "hashtags": [
-        "#Birdland",
+        "#NoVeasAzteca",
         "#BTSonAMAs",
-        "#ChelleyxBillboard",
-        "#Respect_For_SevEN"
+        "#Birdland",
+        "#ChelleyxBillboard"
       ],
       "regular_topics": [
-        "Memorial Day",
         "George Floyd",
+        "Memorial Day",
         "Ferrari",
+        "Volpe",
         "Opie",
-        "McLean",
+        "Tanner Bibee",
         "Coke Zero",
-        "Orioles",
-        "Colton Cowser",
-        "Jake Bird",
-        "Diet Coke",
-        "Minneapolis"
+        "BTS PAVED THE WAY",
+        "McLean",
+        "Erceg",
+        "Diet Coke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 25 2026 22:27:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 23:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keane",
         "Ferrari",
+        "#BTSonAMAs",
+        "St Mirren",
+        "Thistle",
         "More Info in Article Below",
         "Sturgeon",
-        "Partick Thistle",
-        "St Mirren",
         "Scholes",
+        "Luce",
         "Wolfsburg",
-        "Windass",
-        "Monfils",
-        "Murrell"
+        "Monfils"
       ],
       "hashtags": [
+        "#BTSonAMAs",
         "#Springwatch",
-        "#NobodysFool",
-        "#DearEngland"
+        "#NobodysFool"
       ],
       "regular_topics": [
         "Keane",
         "Ferrari",
+        "St Mirren",
+        "Thistle",
         "More Info in Article Below",
         "Sturgeon",
-        "Partick Thistle",
-        "St Mirren",
         "Scholes",
+        "Luce",
         "Wolfsburg",
-        "Windass",
         "Monfils",
-        "Murrell"
+        "Windass"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 25 2026 22:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 23:15:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -88,14 +88,15 @@
         "Israel",
         "Toronto",
         "Iran",
-        "America",
         "Tim Hortons",
+        "America",
         "Ontario",
         "China"
       ],
       "hashtags": [
         "#AEWDoN",
         "#euphoria",
+        "#AMAs",
         "#LOLFanFest2026D3"
       ],
       "regular_topics": [
@@ -106,8 +107,8 @@
         "Israel",
         "Toronto",
         "Iran",
-        "America",
         "Tim Hortons",
+        "America",
         "Ontario",
         "China"
       ],
@@ -116,45 +117,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 25 2026 22:15:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 23:06:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ZeroToleranceOnPaperLeak",
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
-        "Bandar Abbas",
-        "BTS AMAS 2026",
-        "#Respect_For_SevEN",
-        "#Boycott_BELIFT_Lab",
-        "BTS PAVED THE WAY",
-        "Ranveer",
-        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "Sant Rampal Ji Maharaj",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928"
+        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
+        "#DharmendraPradhanMustResign",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "cow based sustainable economy",
+        "Iran",
+        "Trump",
+        "Pakistan"
       ],
       "hashtags": [
+        "#ZeroToleranceOnPaperLeak",
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
-        "#Respect_For_SevEN",
-        "#Boycott_BELIFT_Lab",
         "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
-        "#11YearsWithSEVENTEEN",
-        "#\ub3cc\uace0\ub3cc\uc544_11\uc8fc\ub144_\uc601\uc6d0\ud560_\uc138\ube10\ud2f4\uce90\ub7ff",
-        "#Samantha",
-        "#PadmaAwards",
-        "#RCBvsGT",
-        "#Dharmendra"
+        "#DharmendraPradhanMustResign"
       ],
       "regular_topics": [
-        "Bandar Abbas",
-        "BTS AMAS 2026",
-        "BTS PAVED THE WAY",
-        "Ranveer",
         "Sant Rampal Ji Maharaj",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Vedant",
-        "Don 3",
-        "Roy Keane",
-        "FWICE",
-        "CBSE"
+        "cow based sustainable economy",
+        "Iran",
+        "Trump",
+        "Pakistan",
+        "Delhi",
+        "China",
+        "Modi",
+        "CBSE",
+        "BTS PAVED THE WAY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
