@@ -1,84 +1,83 @@
 {
-  "generated_at_utc": "2026-05-25T20:04:50.540289+00:00",
+  "generated_at_utc": "2026-05-25T21:38:11.714653+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 25 2026 19:27:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 20:18:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Memorial Day",
         "George Floyd",
-        "$HOPPY",
-        "Frey",
-        "Derek Chauvin",
-        "Princeton",
-        "Mercer",
-        "OD'd",
-        "Arlington",
         "Opie",
-        "Minneapolis"
+        "$HOPPY",
+        "Minneapolis",
+        "Frey",
+        "Coke Zero",
+        "Princeton",
+        "Derek Chauvin",
+        "Jacob Misiorowski",
+        "OD'd"
       ],
       "hashtags": [
         "#CeseTotalDeLasSanciones",
-        "#Respect_For_SevEN",
-        "#CorazonDeMarruecos",
-        "#LUN\u00c9SelcaDay",
-        "#LUN\u00c9JidoriDay"
+        "#RaiseIt",
+        "#Respect_For_SevEN"
       ],
       "regular_topics": [
         "Memorial Day",
         "George Floyd",
-        "$HOPPY",
-        "Frey",
-        "Derek Chauvin",
-        "Princeton",
-        "Mercer",
-        "OD'd",
-        "Arlington",
         "Opie",
-        "Minneapolis"
+        "$HOPPY",
+        "Minneapolis",
+        "Frey",
+        "Coke Zero",
+        "Princeton",
+        "Derek Chauvin",
+        "Jacob Misiorowski",
+        "OD'd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 25 2026 19:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 20:44:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$HOPPY",
+        "Roy Keane",
         "Sturgeon",
-        "Murrell",
-        "Heathrow",
         "#Springwatch",
-        "Salford",
+        "St Mirren",
         "Windass",
+        "Murrell",
         "Bunny Shaw",
-        "Notts County",
-        "Orla",
-        "St Mirren"
+        "Salford",
+        "Scholes",
+        "Neville"
       ],
       "hashtags": [
-        "#Springwatch"
+        "#Springwatch",
+        "#NobodysFool"
       ],
       "regular_topics": [
         "$HOPPY",
+        "Roy Keane",
         "Sturgeon",
-        "Murrell",
-        "Heathrow",
-        "Salford",
-        "Windass",
-        "Bunny Shaw",
-        "Notts County",
-        "Orla",
         "St Mirren",
-        "Kew Gardens"
+        "Windass",
+        "Murrell",
+        "Bunny Shaw",
+        "Salford",
+        "Scholes",
+        "Neville",
+        "Heathrow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 25 2026 19:45:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 21:30:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -88,9 +87,9 @@
         "Toronto",
         "Iran",
         "America",
-        "China",
+        "Tim Hortons",
         "Ontario",
-        "Tim Hortons"
+        "China"
       ],
       "hashtags": [
         "#AEWDoN",
@@ -106,87 +105,89 @@
         "Toronto",
         "Iran",
         "America",
-        "China",
+        "Tim Hortons",
         "Ontario",
-        "Tim Hortons"
+        "China"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 25 2026 19:39:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 21:24:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
-        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "#Respect_For_SevEN",
+        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "#Boycott_BELIFT_Lab",
+        "Ranveer Singh",
         "Sant Rampal Ji Maharaj",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Ranveer Singh",
+        "Vedant",
         "Don 3",
-        "FWICE",
-        "Vedant"
+        "FWICE"
       ],
       "hashtags": [
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
-        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "#Respect_For_SevEN",
-        "#Boycott_BELIFT_Lab"
+        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
+        "#Boycott_BELIFT_Lab",
+        "#ChennaiLoveStory",
+        "#BholaBhalaBingo"
       ],
       "regular_topics": [
+        "Ranveer Singh",
         "Sant Rampal Ji Maharaj",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Ranveer Singh",
+        "Vedant",
         "Don 3",
         "FWICE",
-        "Vedant",
         "CBSE",
+        "Roy Keane",
         "Abraham Accords",
         "Farhan",
-        "\u092a\u0926\u094d\u092e \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
-        "\u0930\u0923\u0935\u0940\u0930 \u0938\u093f\u0902\u0939"
+        "AMAs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 25 2026 19:36:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 21:21:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spain",
-        "AC Milan",
+        "Roy Keane",
+        "Sheggz",
         "Memorial Day",
-        "Colombia",
-        "BONK",
-        "James Rodriguez",
+        "Spain",
         "Beverly",
-        "Gavi",
-        "9ice",
-        "#MeetMyHeroWithMSport",
-        "#Bet9jaWatchParty"
+        "Arafah",
+        "Bella",
+        "James Rodriguez",
+        "BONK",
+        "Kompany",
+        "AC Milan"
       ],
       "hashtags": [
-        "#MeetMyHeroWithMSport",
         "#Bet9jaWatchParty",
-        "#FindingHomeTourlagos",
-        "#paobc",
-        "#Enga\u00f1oALaNaci\u00f3n"
+        "#MeetMyHeroWithMSport",
+        "#Enga\u00f1oALaNaci\u00f3n",
+        "#FINALQUEST2026",
+        "#paobc"
       ],
       "regular_topics": [
-        "Spain",
-        "AC Milan",
+        "Roy Keane",
+        "Sheggz",
         "Memorial Day",
-        "Colombia",
-        "BONK",
-        "James Rodriguez",
+        "Spain",
         "Beverly",
-        "Gavi",
-        "9ice",
-        "Massimiliano Allegri",
-        "Moore"
+        "Arafah",
+        "Bella",
+        "James Rodriguez",
+        "BONK",
+        "Kompany",
+        "AC Milan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
