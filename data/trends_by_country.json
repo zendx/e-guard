@@ -1,86 +1,85 @@
 {
-  "generated_at_utc": "2026-05-25T16:35:58.392009+00:00",
+  "generated_at_utc": "2026-05-25T18:19:43.328209+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 25 2026 16:00:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 17:42:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Memorial Day",
-        "Abraham Accords",
         "George Floyd",
-        "#NeverForget",
-        "#HonorAndRemember",
-        "Magnifica Humanitas",
-        "#LUN\u00c9SelcaDay",
-        "Pope Leo XIV",
-        "More Info in Article Below",
-        "#LUN\u00c9JidoriDay",
-        "#\ubbff\uc9c0\uc758_\uc0ac\ub791\uc744_\uc608\uc9c0\uc758_\ud3ec\ucf13\uc5d0_\ub2f4\uc744\uac8c"
+        "Frey",
+        "Abraham Accords",
+        "Mercer",
+        "Arlington National Cemetery",
+        "Derek Chauvin",
+        "NCAA",
+        "Hebrew National",
+        "OD'd",
+        "Magnifica Humanitas"
       ],
       "hashtags": [
-        "#NeverForget",
         "#HonorAndRemember",
         "#LUN\u00c9SelcaDay",
+        "#NeverForget",
         "#LUN\u00c9JidoriDay",
-        "#\ubbff\uc9c0\uc758_\uc0ac\ub791\uc744_\uc608\uc9c0\uc758_\ud3ec\ucf13\uc5d0_\ub2f4\uc744\uac8c"
+        "#CorazonDeMarruecos"
       ],
       "regular_topics": [
         "Memorial Day",
-        "Abraham Accords",
         "George Floyd",
-        "Magnifica Humanitas",
-        "Pope Leo XIV",
-        "More Info in Article Below",
-        "Gavi",
-        "Springsteen",
-        "HWANGderful YEJI DAY",
-        "Midas",
-        "Frey"
+        "Frey",
+        "Abraham Accords",
+        "Mercer",
+        "Arlington National Cemetery",
+        "Derek Chauvin",
+        "NCAA",
+        "Hebrew National",
+        "OD'd",
+        "Magnifica Humanitas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 25 2026 16:24:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 18:09:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$HOPPY",
         "Notts County",
-        "Salford",
         "Sturgeon",
-        "Murrell",
+        "Salford",
         "Heathrow",
-        "Jodi Jones",
-        "Abraham Accords",
-        "Karl Robinson",
+        "Murrell",
+        "Kew Gardens",
         "Orla",
-        "Michelle Mone",
-        "Lalique"
+        "Lalique",
+        "Jodi Jones",
+        "Diomande"
       ],
       "hashtags": [
         "#NCFC",
-        "#heatwave",
-        "#htafc"
+        "#heatwave"
       ],
       "regular_topics": [
+        "$HOPPY",
         "Notts County",
-        "Salford",
         "Sturgeon",
-        "Murrell",
+        "Salford",
         "Heathrow",
-        "Jodi Jones",
-        "Abraham Accords",
-        "Karl Robinson",
+        "Murrell",
+        "Kew Gardens",
         "Orla",
-        "Michelle Mone",
-        "Lalique"
+        "Lalique",
+        "Jodi Jones",
+        "Diomande"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 25 2026 16:20:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 18:03:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -89,16 +88,17 @@
         "Alberta",
         "Iran",
         "Toronto",
-        "Tim Hortons",
         "America",
-        "Russia",
-        "China"
+        "Tim Hortons",
+        "China",
+        "Russia"
       ],
       "hashtags": [
         "#AEWDoN",
         "#euphoria",
-        "#\u0e40\u0e01\u0e48\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2dGOODnotENOUGH_MV",
-        "#CrownCoinsGT"
+        "#BBQSeason",
+        "#VacationMode",
+        "#InternetHumor"
       ],
       "regular_topics": [
         "Canada",
@@ -108,88 +108,88 @@
         "Alberta",
         "Iran",
         "Toronto",
-        "Tim Hortons",
         "America",
-        "Russia",
-        "China"
+        "Tim Hortons",
+        "China",
+        "Russia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 25 2026 16:12:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 17:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
+        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "Sant Rampal Ji Maharaj",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "#DharmendraPradhanMustResign",
-        "Sohar",
-        "#OPERATION_2030",
-        "Basti",
-        "Abraham Accords",
-        "\u092e\u0928\u0940\u0937 \u092e\u093f\u0936\u094d\u0930\u093e"
+        "#ZeroToleranceOnPaperLeak",
+        "#Respect_For_SevEN",
+        "Ranveer Singh",
+        "FWICE",
+        "CBSE",
+        "Don 3"
       ],
       "hashtags": [
-        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
         "#\u092c\u093e\u0922\u093c_\u0915\u093e_\u0938\u094d\u0925\u093e\u0908_\u0938\u092e\u093e\u0927\u093e\u0928_Phase2",
         "#Kisan_Majdoor_Bachao_Abhiyan",
-        "#DharmendraPradhanMustResign",
-        "#OPERATION_2030"
+        "#\u092c\u0938\u094d\u0924\u0940_\u0915\u093e_\u0917\u093f\u0928\u0940\u091c_\u092e\u0928\u0940\u0937_\u092d\u0948\u092f\u093e",
+        "#ZeroToleranceOnPaperLeak",
+        "#Respect_For_SevEN"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Ranveer Singh",
+        "FWICE",
+        "CBSE",
+        "Don 3",
         "Sohar",
+        "Vedant",
         "Basti",
         "Abraham Accords",
-        "\u092e\u0928\u0940\u0937 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Don 3",
-        "Ranveer Singh",
-        "\u0905\u091c\u093e\u092f\u092c \u0917\u093e\u0901\u0935",
-        "FWICE",
-        "Manish Bhaiya"
+        "\u0905\u091c\u093e\u092f\u092c \u0917\u093e\u0901\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 25 2026 16:12:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 17:54:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Gavi",
-        "#FindingHomeTourlagos",
-        "#WemaOneDayMDCEO",
-        "#BuildwithOPay",
-        "#LonartNewLook",
-        "Beverly",
+        "AC Milan",
         "#MeetMyHeroWithMSport",
+        "#Bet9jaWatchParty",
+        "Gavi",
         "Memorial Day",
-        "Huijsen",
-        "Lazio"
+        "James Rodriguez",
+        "Beverly",
+        "Colombia",
+        "Allegri",
+        "#LonartNewLook"
       ],
       "hashtags": [
-        "#FindingHomeTourlagos",
-        "#WemaOneDayMDCEO",
-        "#BuildwithOPay",
+        "#MeetMyHeroWithMSport",
+        "#Bet9jaWatchParty",
         "#LonartNewLook",
-        "#MeetMyHeroWithMSport"
+        "#FindingHomeTourlagos",
+        "#OPayScholars"
       ],
       "regular_topics": [
         "Spain",
+        "AC Milan",
         "Gavi",
-        "Beverly",
         "Memorial Day",
+        "James Rodriguez",
+        "Beverly",
+        "Colombia",
+        "Allegri",
         "Huijsen",
-        "Lazio",
         "Gattuso",
-        "Solstice",
-        "Sarri",
-        "Cubarsi",
-        "Madrid"
+        "APC and ADC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
