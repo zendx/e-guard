@@ -1,87 +1,88 @@
 {
-  "generated_at_utc": "2026-05-25T06:49:21.821107+00:00",
+  "generated_at_utc": "2026-05-25T11:01:37.954994+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon May 25 2026 06:30:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 09:56:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDoN",
         "#euphoria",
         "Nate",
-        "Darby",
+        "#AEWDoN",
+        "Memorial Day",
         "Maddy",
-        "Kevin Knight",
-        "Faye",
-        "Spurs",
-        "SPINE BREAKER",
         "Cassie",
-        "Suarez"
+        "Faye",
+        "SPINE BREAKER",
+        "Kevin Knight",
+        "Alamo",
+        "Darby"
       ],
       "hashtags": [
-        "#AEWDoN",
         "#euphoria",
+        "#AEWDoN",
         "#RHOA",
         "#BaddiesUSA",
-        "#ForgedInGold"
+        "#WeWantDestiny3"
       ],
       "regular_topics": [
         "Nate",
-        "Darby",
+        "Memorial Day",
         "Maddy",
-        "Kevin Knight",
-        "Faye",
-        "Spurs",
-        "SPINE BREAKER",
         "Cassie",
-        "Suarez",
+        "Faye",
+        "SPINE BREAKER",
+        "Kevin Knight",
+        "Alamo",
+        "Darby",
         "Lexi",
-        "Porsha"
+        "Jules"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon May 25 2026 06:04:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 10:24:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Spurs",
         "Everton",
+        "Britain",
         "Trump",
         "Sunderland",
         "Chelsea",
-        "West Ham",
-        "#AEWDoN",
-        "Britain",
         "Farage",
-        "Israel"
+        "West Ham",
+        "Israel",
+        "Europe"
       ],
       "hashtags": [
         "#AEWDoN",
         "#CanadianGP",
-        "#euphoria",
-        "#COYS"
+        "#popmaster",
+        "#SAFC",
+        "#bwfc"
       ],
       "regular_topics": [
         "Arsenal",
         "Spurs",
         "Everton",
+        "Britain",
         "Trump",
         "Sunderland",
         "Chelsea",
-        "West Ham",
-        "Britain",
         "Farage",
+        "West Ham",
         "Israel",
-        "London"
+        "Europe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon May 25 2026 05:57:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 10:16:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -118,75 +119,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon May 25 2026 06:42:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 10:09:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GauDhanModelUP",
+        "#JKSaysNoToDrugs",
         "Cow Based Sustainable Economy",
-        "#Petrol",
+        "#AdityaBirlaCapital",
         "#ZeroToleranceOnPaperLeak",
-        "#Lekhpal_Exam_Investigation",
-        "#MondayMotivation",
-        "\u092c\u093f\u0939\u093e\u0930\u0940 \u092c\u094b\u0938",
+        "#Padma2026onDD",
+        "Bandipora",
+        "Jammu Kashmir",
         "Taj Mahal",
-        "Mahila Utthan Mandal",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
-        "MCX DR Site"
+        "Padma Awards 2026",
+        "\u0928\u0939\u0930 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
       ],
       "hashtags": [
         "#GauDhanModelUP",
-        "#Petrol",
+        "#JKSaysNoToDrugs",
+        "#AdityaBirlaCapital",
         "#ZeroToleranceOnPaperLeak",
-        "#Lekhpal_Exam_Investigation",
-        "#MondayMotivation"
+        "#Padma2026onDD"
       ],
       "regular_topics": [
         "Cow Based Sustainable Economy",
-        "\u092c\u093f\u0939\u093e\u0930\u0940 \u092c\u094b\u0938",
+        "Bandipora",
+        "Jammu Kashmir",
         "Taj Mahal",
-        "Mahila Utthan Mandal",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
-        "MCX DR Site",
-        "Save Hindu Temple Lands",
-        "BLACK SWAN",
-        "\u0906\u091c\u093e\u0926 \u0939\u093f\u0928\u094d\u0926",
-        "SPINE BREAKER",
-        "\u092a\u093e\u0935\u0928 \u0917\u0902\u0917\u093e"
+        "Padma Awards 2026",
+        "\u0928\u0939\u0930 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "South Asia",
+        "Agra",
+        "Suresh Raina",
+        "\u092e\u093e\u0928\u0935 \u092e\u094b\u0926\u0940",
+        "CBSE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon May 25 2026 06:40:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon May 25 2026 10:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
-        "Chelsea",
-        "Nigeria",
-        "Amen",
-        "Tinubu",
-        "Happy New",
-        "#BTO4PBAT",
+        "Happy New Week",
+        "#MondayMotivation",
+        "#ColdStoneMegaWeek",
+        "Saul",
+        "$BKN",
         "#PBATagain",
-        "Sunderland",
-        "Jesus",
-        "GM CT"
+        "#BTO4PBAT",
+        "#NSPPD",
+        "Upbringing",
+        "THE NEW HAS COME",
+        "Phyna"
       ],
       "hashtags": [
+        "#MondayMotivation",
+        "#ColdStoneMegaWeek",
+        "#PBATagain",
         "#BTO4PBAT",
-        "#PBATagain"
+        "#NSPPD"
       ],
       "regular_topics": [
-        "Arsenal",
-        "Chelsea",
-        "Nigeria",
-        "Amen",
-        "Tinubu",
-        "Happy New",
-        "Sunderland",
-        "Jesus",
-        "GM CT",
-        "Messi",
-        "$BKN"
+        "Happy New Week",
+        "Saul",
+        "$BKN",
+        "Upbringing",
+        "THE NEW HAS COME",
+        "Phyna",
+        "Flop",
+        "Best of the Season",
+        "Dumfries",
+        "Today is Monday",
+        "D. Incorrectly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
