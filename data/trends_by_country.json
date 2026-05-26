@@ -1,87 +1,87 @@
 {
-  "generated_at_utc": "2026-05-26T16:33:51.138826+00:00",
+  "generated_at_utc": "2026-05-26T19:11:12.787090+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 26 2026 15:20:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 17:56:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Tuesday",
-        "Paxton",
-        "Home Depot",
-        "Ferrari",
+        "#gachiakuta167",
         "Camp David",
-        "#TuesdayVibes",
-        "#LaMafiaEnPanam\u00e1",
+        "Paxton",
         "Platner",
-        "More Info in Article Below",
-        "007 First Light",
-        "Auchincloss"
+        "Misstep",
+        "Ferrari",
+        "Academic All-District",
+        "Pizza Steve",
+        "#24thBDwishForOrm",
+        "Syria",
+        "Bublik"
       ],
       "hashtags": [
-        "#TuesdayVibes",
-        "#LaMafiaEnPanam\u00e1",
-        "#TuesdayMotivation",
-        "#EsquireThailand",
-        "#26May"
+        "#gachiakuta167",
+        "#24thBDwishForOrm",
+        "#Support_Our_SevEN",
+        "#RCBvsGT"
       ],
       "regular_topics": [
-        "Good Tuesday",
-        "Paxton",
-        "Home Depot",
-        "Ferrari",
         "Camp David",
+        "Paxton",
         "Platner",
-        "More Info in Article Below",
-        "007 First Light",
-        "Auchincloss",
-        "Chip Roy",
-        "Rob Reiner"
+        "Misstep",
+        "Ferrari",
+        "Academic All-District",
+        "Pizza Steve",
+        "Syria",
+        "Bublik",
+        "Walter Reed",
+        "Dreams and Nightmares"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 26 2026 15:46:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 18:24:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Alexia",
+        "Lawrence Shankland",
         "Rogers",
+        "Tourette",
+        "Eid Mubarak",
         "Demps",
-        "Barcola",
-        "Ferrari",
-        "Pride",
         "Cesc",
+        "Lange",
         "#007FirstLight",
-        "Kew Gardens",
-        "#heatwave",
-        "Trossard",
-        "Vuskovic"
+        "Syria",
+        "Pride"
       ],
       "hashtags": [
         "#007FirstLight",
+        "#RCBvGT",
+        "#pointless",
         "#heatwave",
-        "#LoveIsland",
         "#ukweather"
       ],
       "regular_topics": [
+        "Alexia",
+        "Lawrence Shankland",
         "Rogers",
+        "Tourette",
+        "Eid Mubarak",
         "Demps",
-        "Barcola",
-        "Ferrari",
-        "Pride",
         "Cesc",
-        "Kew Gardens",
-        "Trossard",
-        "Vuskovic",
-        "Keane",
-        "Court of Appeal"
+        "Lange",
+        "Syria",
+        "Pride",
+        "Ferrari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 26 2026 15:40:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 18:16:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -89,13 +89,14 @@
         "Israel",
         "Alberta",
         "Toronto",
-        "Knicks",
         "Tim Hortons",
+        "Knicks",
         "America",
-        "Ontario",
-        "Iran"
+        "Ferrari",
+        "Ontario"
       ],
       "hashtags": [
+        "#007FirstLightRTX",
         "#AMAs",
         "#Bucciovertimechallenge"
       ],
@@ -106,88 +107,88 @@
         "Israel",
         "Alberta",
         "Toronto",
-        "Knicks",
         "Tim Hortons",
+        "Knicks",
         "America",
-        "Ontario",
-        "Iran"
+        "Ferrari",
+        "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 26 2026 15:33:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 19:01:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
-        "#DarbarDiariesOutTomorrow",
-        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930_\u0928\u093f\u0930\u094d\u092e\u093e\u0923\u093e\u091a\u0940_\u0924\u092a\u092a\u0942\u0930\u094d\u0924\u0940",
-        "#Glorious12Years",
-        "#BharatEconomicSamvad",
-        "Jason Holder",
-        "Patidar",
-        "Krunal",
-        "Rabada",
-        "Kulwant Khejroliya",
-        "Kohli"
+        "Rajat Patidar",
+        "#RGwithstudents",
+        "Gill",
+        "#ipl_2026",
+        "#Support_Our_SevEN",
+        "Finals",
+        "#Keep_Boycotting_BELIFT_Lab",
+        "Bhuvi",
+        "Tewatia",
+        "Congratulations RCB"
       ],
       "hashtags": [
         "#RCBvsGT",
-        "#DarbarDiariesOutTomorrow",
-        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930_\u0928\u093f\u0930\u094d\u092e\u093e\u0923\u093e\u091a\u0940_\u0924\u092a\u092a\u0942\u0930\u094d\u0924\u0940",
-        "#Glorious12Years",
-        "#BharatEconomicSamvad"
+        "#RGwithstudents",
+        "#ipl_2026",
+        "#Support_Our_SevEN",
+        "#Keep_Boycotting_BELIFT_Lab"
       ],
       "regular_topics": [
-        "Jason Holder",
-        "Patidar",
-        "Krunal",
-        "Rabada",
-        "Kulwant Khejroliya",
-        "Kohli",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u0938\u0947\u0928\u093e",
-        "TANYA DEBUTS WITH MAAHAINA",
-        "Venkatesh Iyer",
-        "Rashid",
-        "Padikkal"
+        "Rajat Patidar",
+        "Gill",
+        "Finals",
+        "Bhuvi",
+        "Tewatia",
+        "Congratulations RCB",
+        "Gujarat Titans",
+        "Delete",
+        "Duffy",
+        "Royal Challengers Bengaluru",
+        "Eid Mubarak"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 26 2026 16:24:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 17:16:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zlatan",
         "Seyi",
         "$MOO",
-        "Fuji",
+        "Moniepoint Innovation Hubs",
         "Victor Udoh",
-        "Pantami",
-        "#GloPoweredFestivalAt21",
         "ZTTW",
-        "Zanku",
-        "Zetarium",
-        "Adekunle"
+        "#GloPoweredFestivalAt21",
+        "American Airlines",
+        "Pantami",
+        "Fuji",
+        "Rogers"
       ],
       "hashtags": [
         "#GloPoweredFestivalAt21",
-        "#OPayxGoogle",
         "#22BetAlwaysPays",
-        "#sal\u0131"
+        "#OPayxGoogle",
+        "#MOTIONSICKNESS"
       ],
       "regular_topics": [
         "Zlatan",
         "Seyi",
         "$MOO",
-        "Fuji",
+        "Moniepoint Innovation Hubs",
         "Victor Udoh",
-        "Pantami",
         "ZTTW",
-        "Zanku",
-        "Zetarium",
-        "Adekunle",
-        "Sowore"
+        "American Airlines",
+        "Pantami",
+        "Fuji",
+        "Rogers",
+        "Zetarium"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
