@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-05-26T21:07:16.946257+00:00",
+  "generated_at_utc": "2026-05-26T22:43:59.158476+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 26 2026 20:32:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 21:24:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bob Horner",
+        "Camp David",
         "Misstep",
         "#007FirstLightRTX",
-        "#USMNT",
-        "Bob Horner",
-        "Geno",
-        "Pegula",
         "Will Cain",
+        "#USMNT",
         "Kevin Hart",
-        "Camp David",
-        "Hawley",
-        "South Carolina"
+        "Brendan Sorsby",
+        "Pegula",
+        "South Carolina",
+        "Josh Sweat"
       ],
       "hashtags": [
         "#007FirstLightRTX",
         "#USMNT",
-        "#gachiakuta167",
-        "#LaMafiaEnPanam\u00e1",
-        "#Support_Our_SevEN"
+        "#Support_Our_SevEN",
+        "#Keep_Boycotting_BELIFT_Lab"
       ],
       "regular_topics": [
-        "Misstep",
         "Bob Horner",
-        "Geno",
-        "Pegula",
+        "Camp David",
+        "Misstep",
         "Will Cain",
         "Kevin Hart",
-        "Camp David",
-        "Hawley",
+        "Brendan Sorsby",
+        "Pegula",
         "South Carolina",
-        "Luminara",
-        "Meek"
+        "Josh Sweat",
+        "Geno",
+        "Roldan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +81,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 26 2026 20:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 21:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -97,7 +96,6 @@
         "Ontario"
       ],
       "hashtags": [
-        "#AMAs",
         "#Bucciovertimechallenge",
         "#007FirstLightRTX"
       ],
@@ -119,38 +117,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 26 2026 19:52:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 21:36:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
         "Rajat Patidar",
-        "#RGwithstudents",
         "#Support_Our_SevEN",
         "#Keep_Boycotting_BELIFT_Lab",
-        "Gill",
+        "#RGwithstudents",
         "Finals",
+        "Eid Mubarak",
+        "Gill",
         "#ipl_2026",
         "Bhuvi",
-        "Tewatia",
-        "Congratulations RCB"
+        "Rahul Tewatia"
       ],
       "hashtags": [
         "#RCBvsGT",
-        "#RGwithstudents",
         "#Support_Our_SevEN",
         "#Keep_Boycotting_BELIFT_Lab",
+        "#RGwithstudents",
         "#ipl_2026"
       ],
       "regular_topics": [
         "Rajat Patidar",
-        "Gill",
         "Finals",
-        "Bhuvi",
-        "Tewatia",
-        "Congratulations RCB",
-        "Delete",
-        "Royal Challengers Bengaluru",
         "Eid Mubarak",
+        "Gill",
+        "Bhuvi",
+        "Rahul Tewatia",
+        "Royal Challengers Bengaluru",
+        "Delete",
         "Gujarat Titans",
+        "Bhuvneshwar Kumar",
         "Duffy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -158,39 +156,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 26 2026 20:44:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue May 26 2026 21:36:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Femi Azeez",
-        "Amaechi",
-        "#UnityCup",
-        "Zlatan",
-        "Seyi",
         "Champions of Africa",
-        "Eid Mubarak",
+        "Amaechi",
         "Atiku",
-        "#KSAnalysis",
-        "Morocco",
-        "#NGAZIM"
+        "Zlatan",
+        "#UnityCup",
+        "IMISI X SENDWAVE",
+        "Seyi",
+        "IMISI THE BRAND AMBASSADOR",
+        "Eid Mubarak",
+        "Zimbabwe"
       ],
       "hashtags": [
         "#UnityCup",
         "#KSAnalysis",
-        "#NGAZIM",
         "#ImisiAyanwale",
-        "#EidWithBybit"
+        "#NGAZIM"
       ],
       "regular_topics": [
         "Femi Azeez",
-        "Amaechi",
-        "Zlatan",
-        "Seyi",
         "Champions of Africa",
-        "Eid Mubarak",
+        "Amaechi",
         "Atiku",
-        "Morocco",
-        "Super Eagles",
+        "Zlatan",
         "IMISI X SENDWAVE",
-        "Zimbabwe"
+        "Seyi",
+        "IMISI THE BRAND AMBASSADOR",
+        "Eid Mubarak",
+        "Zimbabwe",
+        "Morocco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
