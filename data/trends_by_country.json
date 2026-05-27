@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-05-27T19:55:10.121832+00:00",
+  "generated_at_utc": "2026-05-27T21:42:38.082019+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed May 27 2026 19:00:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 20:44:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Talarico",
         "Gordon",
+        "Dustin May",
         "Milli Vanilli",
-        "Rashford",
-        "Steam Machine",
         "Oman",
-        "Barca",
+        "Rashford",
         "#StickGiveaway",
         "Steam Deck",
-        "#OlandriaxBrandonBlackwoodNYC",
-        "Beto"
+        "#InvincibleVS",
+        "Steam Machine",
+        "Barca"
       ],
       "hashtags": [
         "#StickGiveaway",
-        "#OlandriaxBrandonBlackwoodNYC",
         "#InvincibleVS",
+        "#ReleaseTheStatement",
         "#XMen97",
-        "#Treat_SevEN_With_Dignity"
+        "#FreeManon"
       ],
       "regular_topics": [
         "Talarico",
         "Gordon",
+        "Dustin May",
         "Milli Vanilli",
-        "Rashford",
-        "Steam Machine",
         "Oman",
-        "Barca",
+        "Rashford",
         "Steam Deck",
-        "Beto",
-        "Eid Mubarak",
-        "Morris Day"
+        "Steam Machine",
+        "Barca",
+        "$SNOW",
+        "Trina"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed May 27 2026 18:36:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 21:10:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Palace",
         "Gordon",
+        "Adam Wharton",
+        "#CRYRAY",
         "Rashford",
-        "Blair",
-        "#oafc",
-        "#htafc",
-        "Newcastle",
-        "Bayern",
-        "Rashy",
-        "Ederson",
-        "Rogers",
-        "Frankie"
-      ],
-      "hashtags": [
-        "#oafc",
-        "#htafc",
+        "Glasner",
+        "Conference League",
         "#CPFC",
-        "#OlandriaxBrandonBlackwoodNYC",
+        "Mateta",
+        "Rayo",
         "#UECL"
       ],
+      "hashtags": [
+        "#CRYRAY",
+        "#CPFC",
+        "#UECL",
+        "#htafc",
+        "#oafc"
+      ],
       "regular_topics": [
+        "Palace",
         "Gordon",
+        "Adam Wharton",
         "Rashford",
-        "Blair",
-        "Newcastle",
-        "Bayern",
-        "Rashy",
-        "Ederson",
-        "Rogers",
-        "Frankie",
-        "Raphinha",
-        "Crystal Palace"
+        "Glasner",
+        "Conference League",
+        "Mateta",
+        "Rayo",
+        "Brennan Johnson",
+        "Mitchell",
+        "Kamada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed May 27 2026 19:20:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 21:04:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Eid Mubarak",
@@ -90,11 +90,11 @@
         "Trump",
         "Alberta",
         "Gordon",
-        "Rashford",
         "Toronto",
         "Israel",
         "Wab Kinew",
-        "Marner"
+        "Marner",
+        "Rashford"
       ],
       "hashtags": [
         "#SummerHouse"
@@ -106,89 +106,89 @@
         "Trump",
         "Alberta",
         "Gordon",
-        "Rashford",
         "Toronto",
         "Israel",
         "Wab Kinew",
-        "Marner"
+        "Marner",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed May 27 2026 18:24:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 20:06:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SRHvsRR",
+        "#\u0939\u0928\u0941\u092e\u093e\u0928_\u0915\u093e_\u091c\u092f\u092a\u0941\u0930_\u0915\u0942\u091a",
         "Vaibhav Sooryavanshi",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "Rajasthan Royals",
-        "#Treat_SevEN_With_Dignity",
-        "Jadeja",
-        "#BELIFT_Boycott_Continues",
-        "Kavya Maran",
         "Gordon",
-        "Abhishek Sharma",
-        "Archer"
+        "Rashford",
+        "#Treat_SevEN_With_Dignity",
+        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
+        "#BELIFT_Boycott_Continues",
+        "Barca",
+        "Rajasthan Royals",
+        "Kavya Maran"
       ],
       "hashtags": [
         "#SRHvsRR",
+        "#\u0939\u0928\u0941\u092e\u093e\u0928_\u0915\u093e_\u091c\u092f\u092a\u0941\u0930_\u0915\u0942\u091a",
         "#Treat_SevEN_With_Dignity",
         "#BELIFT_Boycott_Continues",
-        "#Eliminator",
-        "#iplt20"
+        "#Eliminator"
       ],
       "regular_topics": [
         "Vaibhav Sooryavanshi",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "Rajasthan Royals",
-        "Jadeja",
-        "Kavya Maran",
         "Gordon",
-        "Abhishek Sharma",
+        "Rashford",
+        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
+        "Barca",
+        "Rajasthan Royals",
+        "Kavya Maran",
+        "Deco",
         "Archer",
         "Chris Gayle",
-        "Ishan",
-        "\u0915\u094d\u0930\u093f\u0938 \u0917\u0947\u0932"
+        "Abhishek Sharma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed May 27 2026 19:12:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 20:55:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Rashford",
         "Gordon",
+        "Rashford",
         "Newcastle",
+        "Mateta",
+        "Crystal Palace",
         "Deco",
-        "Cubana Balanciaga",
-        "HERE WE GO",
-        "Laporta",
-        "#PowerOilxMasterChefChallenge",
-        "Flick",
-        "#WemaChildrensDaySpecial",
-        "Alvarez"
+        "Adam Wharton",
+        "Tony stark",
+        "Rayo Vallecano",
+        "Alvarez",
+        "Laporta"
       ],
       "hashtags": [
-        "#PowerOilxMasterChefChallenge",
+        "#CRYRAY",
+        "#UECLfinal",
         "#WemaChildrensDaySpecial",
         "#NUFC",
-        "#BringBackOurStudents",
-        "#InnovationChallengebyOPay"
+        "#PowerOilxMasterChefChallenge"
       ],
       "regular_topics": [
-        "Rashford",
         "Gordon",
+        "Rashford",
         "Newcastle",
+        "Mateta",
+        "Crystal Palace",
         "Deco",
-        "Cubana Balanciaga",
-        "HERE WE GO",
-        "Laporta",
-        "Flick",
+        "Adam Wharton",
+        "Tony stark",
+        "Rayo Vallecano",
         "Alvarez",
-        "Raphinha",
-        "Ederson"
+        "Laporta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
