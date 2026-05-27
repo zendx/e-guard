@@ -1,55 +1,53 @@
 {
-  "generated_at_utc": "2026-05-26T23:54:49.691351+00:00",
+  "generated_at_utc": "2026-05-27T02:01:48.711434+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue May 26 2026 23:08:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 00:52:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SummerHouse",
         "Josh Jacobs",
-        "Jordan Wicks",
-        "Bob Horner",
-        "Camp David",
-        "Packers",
-        "#007FirstLightRTX",
-        "Strider",
-        "Kevin Hart",
-        "Marshawn Lloyd",
-        "Fort Bend County",
-        "Ash Kash"
+        "Amanda",
+        "Ciara",
+        "Paxton",
+        "#WWENXT",
+        "Joe Mazzulla",
+        "Bailey Falter",
+        "Al Green",
+        "Jason Alexander",
+        "Cubs"
       ],
       "hashtags": [
-        "#007FirstLightRTX",
-        "#BetrPicks",
-        "#USMNT",
-        "#Support_Our_SevEN"
+        "#SummerHouse",
+        "#WWENXT"
       ],
       "regular_topics": [
         "Josh Jacobs",
-        "Jordan Wicks",
-        "Bob Horner",
-        "Camp David",
-        "Packers",
-        "Strider",
-        "Kevin Hart",
-        "Marshawn Lloyd",
-        "Fort Bend County",
-        "Ash Kash",
-        "Will Cain"
+        "Amanda",
+        "Ciara",
+        "Paxton",
+        "Joe Mazzulla",
+        "Bailey Falter",
+        "Al Green",
+        "Jason Alexander",
+        "Cubs",
+        "Cornyn",
+        "Coach of the Year"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue May 26 2026 22:42:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 01:18:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Britain",
-        "Eid Mubarak",
         "Trump",
         "London",
         "Israel",
         "Scotland",
+        "Eid Mubarak",
         "Farage",
         "Labour",
         "Sturgeon",
@@ -57,17 +55,16 @@
         "Ferrari"
       ],
       "hashtags": [
-        "#Newsnight",
-        "#heatwave",
-        "#interiordesignmasters"
+        "#WWENXT",
+        "#heatwave"
       ],
       "regular_topics": [
         "Britain",
-        "Eid Mubarak",
         "Trump",
         "London",
         "Israel",
         "Scotland",
+        "Eid Mubarak",
         "Farage",
         "Labour",
         "Sturgeon",
@@ -79,120 +76,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue May 26 2026 22:36:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 01:12:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
+        "Alberta",
         "Israel",
+        "Wab Kinew",
         "Toronto",
-        "Tim Hortons",
-        "America",
+        "JESUS SANCHEZ",
         "Ferrari",
-        "Ontario",
-        "Knicks",
-        "China"
+        "America",
+        "Tim Hortons"
       ],
       "hashtags": [
-        "#Bucciovertimechallenge",
-        "#007FirstLightRTX"
+        "#WWENXT",
+        "#SummerHouse",
+        "#BlueJays50",
+        "#007FirstLightRTX",
+        "#Bucciovertimechallenge"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
+        "Alberta",
         "Israel",
+        "Wab Kinew",
         "Toronto",
-        "Tim Hortons",
-        "America",
+        "JESUS SANCHEZ",
         "Ferrari",
-        "Ontario",
-        "Knicks",
-        "China"
+        "America",
+        "Tim Hortons"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue May 26 2026 22:30:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 01:04:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
+        "#Glorious12Years",
+        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930_\u0928\u093f\u0930\u094d\u092e\u093e\u0923\u093e\u091a\u0940_\u0924\u092a\u092a\u0942\u0930\u094d\u0924\u0940",
+        "#GodMorningWednesday",
+        "#t60life",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Rajat Patidar",
-        "#Support_Our_SevEN",
-        "#Keep_Boycotting_BELIFT_Lab",
-        "#RGwithstudents",
         "Eid Mubarak",
-        "Finals",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "Gill",
-        "#ipl_2026",
-        "Bhuvi",
-        "Royal Challengers Bengaluru"
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "hashtags": [
         "#RCBvsGT",
-        "#Support_Our_SevEN",
-        "#Keep_Boycotting_BELIFT_Lab",
-        "#RGwithstudents",
-        "#ipl_2026",
-        "#ViratKohli",
-        "#Qualifier1",
-        "#PlayBold",
-        "#IPLFinal",
-        "#\u0938\u0928\u093e\u0924\u0928_\u0935\u093f\u0930\u094b\u0927\u0940_\u092d\u093e\u091c\u092a\u093e",
-        "#WUTheSeriesEP4"
+        "#Glorious12Years",
+        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930_\u0928\u093f\u0930\u094d\u092e\u093e\u0923\u093e\u091a\u0940_\u0924\u092a\u092a\u0942\u0930\u094d\u0924\u0940",
+        "#GodMorningWednesday",
+        "#t60life"
       ],
       "regular_topics": [
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Rajat Patidar",
         "Eid Mubarak",
-        "Finals",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "Gill",
-        "Bhuvi",
-        "Royal Challengers Bengaluru",
-        "Delete",
-        "Tewatia",
-        "Gujarat Titans",
-        "Bhuvneshwar Kumar",
-        "Duffy"
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "SSC GD",
+        "Taiwan",
+        "cow based sustainable economy",
+        "Pakistan",
+        "Kohli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue May 26 2026 23:20:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed May 27 2026 01:54:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "39billion",
+        "Sporty",
         "Eid Mubarak",
-        "Femi Azeez",
-        "Champions of Africa",
-        "Manager of the Season",
-        "Amaechi",
-        "Atiku",
-        "Cashout",
-        "Senegal",
-        "#Sendwave",
-        "IMISI THE BRAND AMBASSADOR"
+        "Universe",
+        "Details",
+        "Chet",
+        "Mirassol",
+        "Pato",
+        "Wemby",
+        "Ken Paxton",
+        "Void"
       ],
       "hashtags": [
         "#Sendwave",
-        "#UnityCup",
         "#ImisiAyanwale",
         "#NGAZIM",
-        "#KSAnalysis"
+        "#UnityCup",
+        "#MOTIONSICKNESS"
       ],
       "regular_topics": [
         "39billion",
+        "Sporty",
         "Eid Mubarak",
-        "Femi Azeez",
-        "Champions of Africa",
-        "Manager of the Season",
-        "Amaechi",
-        "Atiku",
-        "Cashout",
-        "Senegal",
-        "IMISI THE BRAND AMBASSADOR",
-        "Zlatan"
+        "Universe",
+        "Details",
+        "Chet",
+        "Mirassol",
+        "Pato",
+        "Wemby",
+        "Ken Paxton",
+        "Void"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
