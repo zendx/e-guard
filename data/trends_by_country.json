@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-05-28T09:39:19.547260+00:00",
+  "generated_at_utc": "2026-05-28T12:58:16.027561+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 28 2026 08:52:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 28 2026 12:20:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "BANGTAN",
-        "namjoon",
-        "Harambe",
+        "$EDEL",
+        "Good Thursday",
+        "Happy Friday Eve",
         "Jean Carroll",
+        "Reid Hoffman",
+        "namjoon",
         "Kuwait",
-        "Anpanman",
-        "Self-defense",
-        "Ingrid",
-        "Warren Buffett",
-        "Stephen Miller",
-        "#AEWDynamite"
+        "Jill Biden",
+        "BANGTAN",
+        "#thursdayvibes",
+        "Holy One"
       ],
       "hashtags": [
-        "#AEWDynamite",
-        "#AEWCollision",
-        "#TeamRedBill",
-        "#Treat_SevEN_With_Dignity",
-        "#SpiderNoir"
+        "#thursdayvibes",
+        "#PutThatInYourPipe",
+        "#ThursdayMotivation",
+        "#KissmeXEveandboy",
+        "#RTU5"
       ],
       "regular_topics": [
-        "BANGTAN",
-        "namjoon",
-        "Harambe",
+        "$EDEL",
+        "Good Thursday",
+        "Happy Friday Eve",
         "Jean Carroll",
+        "Reid Hoffman",
+        "namjoon",
         "Kuwait",
-        "Anpanman",
-        "Self-defense",
-        "Ingrid",
-        "Warren Buffett",
-        "Stephen Miller",
-        "Reid Hoffman"
+        "Jill Biden",
+        "BANGTAN",
+        "Holy One",
+        "Harambe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 28 2026 08:27:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 28 2026 11:55:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gordon",
         "Rashford",
         "Blair",
-        "Eid Mubarak",
         "Barca",
         "Palace",
+        "Eid Mubarak",
+        "Barcelona",
         "Trump",
         "Britain",
-        "Barcelona",
-        "#CRYRAY",
+        "Wharton",
         "Labour"
       ],
       "hashtags": [
-        "#CRYRAY",
         "#CPFC",
-        "#AdoorableThursday",
-        "#ASongOrMovieForBeef",
-        "#coffee"
+        "#thismorning",
+        "#FMQs",
+        "#CRYRAY",
+        "#UECLfinal"
       ],
       "regular_topics": [
         "Gordon",
         "Rashford",
         "Blair",
-        "Eid Mubarak",
         "Barca",
         "Palace",
+        "Eid Mubarak",
+        "Barcelona",
         "Trump",
         "Britain",
-        "Barcelona",
-        "Labour",
-        "Wharton"
+        "Wharton",
+        "Labour"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu May 28 2026 09:13:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 28 2026 11:48:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
         "Eid Mubarak",
-        "Alberta",
         "Habs",
+        "Alberta",
         "Gordon",
-        "BANGTAN",
         "Toronto",
-        "Canes",
-        "Wab Kinew"
+        "DAZN",
+        "China",
+        "Canes"
       ],
       "hashtags": [
         "#AEWDynamite"
@@ -104,90 +104,91 @@
         "Carney",
         "Trump",
         "Eid Mubarak",
-        "Alberta",
         "Habs",
+        "Alberta",
         "Gordon",
-        "BANGTAN",
         "Toronto",
-        "Canes",
-        "Wab Kinew"
+        "DAZN",
+        "China",
+        "Canes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 28 2026 09:08:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 28 2026 11:42:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#IndiaIsraelPartnership",
+        "#BanegaSwasthIndia",
+        "#MahilaVirodhiSP",
+        "NO RISHU NO SHKH",
+        "\u092c\u0936\u0940\u0930 \u092c\u0926\u094d\u0930",
         "#NukeAfterMathInBalochistan",
-        "#NTRJayanthi",
-        "#LoktantraVirodhiRahul",
-        "#JoharNTR",
-        "#NTRLivesOn",
+        "#BashirBadr",
+        "\u0924\u0930\u0941\u0923 \u0935\u093f\u091c\u092f",
         "\u0905\u0930\u094d\u091a\u0928\u093e \u0917\u0941\u092a\u094d\u0924\u093e",
         "namjoon",
-        "Chaghi",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "\u0938\u093f\u0902\u0939 \u0922\u093f\u0932\u094d\u0932\u094b\u0902",
-        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930"
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u094d\u0937 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e"
       ],
       "hashtags": [
+        "#IndiaIsraelPartnership",
+        "#BanegaSwasthIndia",
+        "#MahilaVirodhiSP",
         "#NukeAfterMathInBalochistan",
-        "#NTRJayanthi",
-        "#LoktantraVirodhiRahul",
-        "#JoharNTR",
-        "#NTRLivesOn"
+        "#BashirBadr"
       ],
       "regular_topics": [
+        "NO RISHU NO SHKH",
+        "\u092c\u0936\u0940\u0930 \u092c\u0926\u094d\u0930",
+        "\u0924\u0930\u0941\u0923 \u0935\u093f\u091c\u092f",
         "\u0905\u0930\u094d\u091a\u0928\u093e \u0917\u0941\u092a\u094d\u0924\u093e",
         "namjoon",
-        "Chaghi",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "\u0938\u093f\u0902\u0939 \u0922\u093f\u0932\u094d\u0932\u094b\u0902",
-        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
         "\u0936\u094d\u0930\u0940 \u0939\u0930\u094d\u0937 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e",
-        "NTR Garu",
+        "\u0938\u093f\u0902\u0939 \u0922\u093f\u0932\u094d\u0932\u094b\u0902",
+        "Gen. Raj Shukla",
         "\u0936\u094d\u0930\u0940 \u0905\u092d\u093f\u0937\u0947\u0915",
-        "Ras Koh",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0930\u093e\u091c\u094d\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu May 28 2026 09:04:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu May 28 2026 11:39:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Barcelona",
+        "Alvarez",
+        "Barca",
+        "#BlessingFubara",
         "MNULAN",
-        "#NedNwokoAPCDeltaNorth",
-        "IT IS DONE",
-        "Monaco",
-        "$BKN",
-        "Filipe Luis",
-        "Atiku",
-        "Jelly",
-        "#NSPPD",
-        "Thiago Scuro",
-        "Universe"
+        "Laporta",
+        "Coventry",
+        "RCCG",
+        "Marco Rose",
+        "Atletico Madrid",
+        "Camp Nou"
       ],
       "hashtags": [
+        "#BlessingFubara",
         "#NedNwokoAPCDeltaNorth",
-        "#NSPPD",
-        "#eFootball",
-        "#UCLFinal"
+        "#UCLFinal",
+        "#Bet9jaChampionsParty",
+        "#efootball"
       ],
       "regular_topics": [
+        "Barcelona",
+        "Alvarez",
+        "Barca",
         "MNULAN",
-        "IT IS DONE",
-        "Monaco",
-        "$BKN",
-        "Filipe Luis",
-        "Atiku",
-        "Jelly",
-        "Thiago Scuro",
-        "Universe",
-        "Nona",
-        "Wharton"
+        "Laporta",
+        "Coventry",
+        "RCCG",
+        "Marco Rose",
+        "Atletico Madrid",
+        "Camp Nou",
+        "Kerosene"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
