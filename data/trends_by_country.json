@@ -1,79 +1,79 @@
 {
-  "generated_at_utc": "2026-05-28T23:05:12.207109+00:00",
+  "generated_at_utc": "2026-05-29T01:29:27.896808+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu May 28 2026 22:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 01:16:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveislandusa",
         "Argentina",
-        "Trinity",
-        "Greg Weissert",
-        "$DELL",
+        "Chennedy Carter",
+        "Sark",
+        "Mitch",
         "Merry Christmas",
-        "Beatriz",
-        "Opus 4.8",
-        "Bessent",
-        "Whataburger",
-        "Kenzie"
+        "$DELL",
+        "Melanie",
+        "Martina McBride",
+        "Brandon Roy",
+        "Tape"
       ],
       "hashtags": [
         "#loveislandusa",
-        "#Cuenca",
-        "#CristianZamora",
-        "#THE_FUTURE_IS_SEVEN"
+        "#hacks",
+        "#JSFamilyVacation",
+        "#hatethatimadeyouloveme"
       ],
       "regular_topics": [
         "Argentina",
-        "Trinity",
-        "Greg Weissert",
-        "$DELL",
+        "Chennedy Carter",
+        "Sark",
+        "Mitch",
         "Merry Christmas",
-        "Beatriz",
-        "Opus 4.8",
-        "Bessent",
-        "Whataburger",
-        "Kenzie",
-        "Aniya"
+        "$DELL",
+        "Melanie",
+        "Martina McBride",
+        "Brandon Roy",
+        "Tape",
+        "Trinity"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu May 28 2026 22:15:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 00:48:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Konate",
-        "Littler",
-        "#PLDarts",
-        "Jacquet",
         "#bbcqt",
-        "Leoni",
+        "Littler",
+        "Jacquet",
+        "#PLDarts",
         "Henry",
-        "Gomez",
+        "Leoni",
         "Ibou",
-        "Edwards",
+        "#loveislandusa",
+        "Hughes",
         "Senesi"
       ],
       "hashtags": [
-        "#PLDarts",
         "#bbcqt",
+        "#PLDarts",
         "#loveislandusa",
         "#WWELiverpool",
-        "#taskmaster"
+        "#newsnight"
       ],
       "regular_topics": [
         "Konate",
         "Littler",
         "Jacquet",
-        "Leoni",
         "Henry",
-        "Gomez",
+        "Leoni",
         "Ibou",
-        "Edwards",
+        "Hughes",
         "Senesi",
-        "Sikh",
+        "Gomez",
+        "Sikhs",
         "Trent"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -81,7 +81,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu May 28 2026 23:00:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 00:43:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Claude Lemieux",
@@ -89,11 +89,11 @@
         "Carney",
         "Trump",
         "Wendy",
-        "#loveislandusa",
-        "China",
+        "America",
         "Alberta",
-        "Toronto",
-        "America"
+        "China",
+        "Argentina",
+        "Toronto"
       ],
       "hashtags": [
         "#loveislandusa"
@@ -105,37 +105,37 @@
         "Carney",
         "Trump",
         "Wendy",
-        "China",
-        "Alberta",
-        "Toronto",
         "America",
-        "Israel"
+        "Alberta",
+        "China",
+        "Argentina",
+        "Toronto"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu May 28 2026 22:54:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 00:39:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#mahilavirodhiSP",
         "#\u092e\u093e\u0902\u0938_\u0916\u093e\u0928\u093e_\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u093e_\u0906\u0926\u0947\u0936\u0928\u0939\u0940\u0902",
         "Baakhabar Sant Rampal Ji",
         "#EidMubarak",
         "#ntrjayanthi",
-        "#JoharNTR",
+        "#NTRLivesOn",
         "\u092c\u0936\u0940\u0930 \u092c\u0926\u094d\u0930",
         "obsess ft eisha singh",
         "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
         "\u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
-        "Vaibhav"
+        "Vaibhav Sooryavanshi"
       ],
       "hashtags": [
         "#mahilavirodhiSP",
         "#\u092e\u093e\u0902\u0938_\u0916\u093e\u0928\u093e_\u0905\u0932\u094d\u0932\u093e\u0939_\u0915\u093e_\u0906\u0926\u0947\u0936\u0928\u0939\u0940\u0902",
         "#EidMubarak",
         "#ntrjayanthi",
-        "#JoharNTR"
+        "#NTRLivesOn"
       ],
       "regular_topics": [
         "Baakhabar Sant Rampal Ji",
@@ -143,11 +143,11 @@
         "obsess ft eisha singh",
         "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
         "\u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
-        "Vaibhav",
+        "Vaibhav Sooryavanshi",
         "no rishu no shkh",
+        "\u091a\u094c\u0927\u0930\u0940 \u091a\u0930\u0923 \u0938\u093f\u0902\u0939",
         "Opus 4.8",
         "Gordon",
-        "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
         "WE SUPPORT TANYA WITH PRIDE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -155,38 +155,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu May 28 2026 22:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 00:36:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Konate",
         "Argentina",
+        "Konate",
+        "#loveislandusa",
+        "Buendia",
         "Amotekun",
         "6th World Cup",
         "Garnacho",
-        "#loveislandusa",
-        "#RWUSBeyondTheStorm",
-        "Buendia",
         "Senesi",
-        "Valentin Barco",
-        "Melanie"
+        "Otamendi",
+        "Melanie",
+        "Valentin Barco"
       ],
       "hashtags": [
         "#loveislandusa",
         "#RWUSBeyondTheStorm",
         "#Peak456Milk",
-        "#Bet9jaChampionsParty",
         "#MEXC0Fee"
       ],
       "regular_topics": [
-        "Konate",
         "Argentina",
+        "Konate",
+        "Buendia",
         "Amotekun",
         "6th World Cup",
         "Garnacho",
-        "Buendia",
         "Senesi",
-        "Valentin Barco",
-        "Melanie",
         "Otamendi",
+        "Melanie",
+        "Valentin Barco",
         "Scaloni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
