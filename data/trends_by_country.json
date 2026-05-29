@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-05-29T21:04:25.411873+00:00",
+  "generated_at_utc": "2026-05-29T22:46:16.637164+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri May 29 2026 20:16:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 21:08:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Fonseca",
         "Kennedy Center",
+        "Fonseca",
         "Captain Kangaroo",
-        "Djokovic",
-        "#OLADAY",
-        "Fable",
-        "Sean Sweeney",
-        "America 250",
-        "Freedom 250",
+        "Jameis",
         "Auburn",
-        "Independence Day"
+        "America 250",
+        "Djokovic",
+        "Tennessee",
+        "Freedom 250",
+        "Tommy Paul",
+        "Fable"
       ],
       "hashtags": [
         "#OLADAY",
-        "#RolandGarros",
         "#FursuitFriday",
+        "#ASCO26",
         "#ESPNSqueezePlay",
-        "#ASCO26"
+        "#RolandGarros"
       ],
       "regular_topics": [
-        "Fonseca",
         "Kennedy Center",
+        "Fonseca",
         "Captain Kangaroo",
-        "Djokovic",
-        "Fable",
-        "Sean Sweeney",
-        "America 250",
-        "Freedom 250",
+        "Jameis",
         "Auburn",
-        "Independence Day",
-        "Little Rock"
+        "America 250",
+        "Djokovic",
+        "Tennessee",
+        "Freedom 250",
+        "Tommy Paul",
+        "Fable"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri May 29 2026 20:42:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 21:33:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
         "#SmackDown",
         "Fonseca",
-        "Djokovic",
+        "Tommy Paul",
         "#HIGNFY",
-        "#BandsUCanFeastOn",
-        "Collum",
+        "Djokovic",
         "Duolingo",
-        "Anthony Gordon",
-        "#RolandGarros",
-        "Barcelona"
+        "Anthony",
+        "Barcelona",
+        "#BandsUCanFeastOn",
+        "Collum"
       ],
       "hashtags": [
         "#TOTP",
@@ -66,23 +66,23 @@
       ],
       "regular_topics": [
         "Fonseca",
+        "Tommy Paul",
         "Djokovic",
-        "Collum",
         "Duolingo",
-        "Anthony Gordon",
+        "Anthony",
         "Barcelona",
-        "Atleti",
+        "Collum",
+        "Gunther",
         "Sikhs",
-        "Beaton",
-        "Will You",
-        "Lincoln"
+        "Catalan",
+        "Backrooms"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri May 29 2026 20:33:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 21:27:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -90,11 +90,11 @@
         "Wendy",
         "Claude Lemieux",
         "Make America Great Again",
-        "#SmackDown",
         "Halal",
+        "#SmackDown",
         "DAZN",
-        "Fonseca",
-        "Romania"
+        "Romania",
+        "Elbows"
       ],
       "hashtags": [
         "#SmackDown",
@@ -111,16 +111,16 @@
         "Make America Great Again",
         "Halal",
         "DAZN",
-        "Fonseca",
         "Romania",
-        "Elbows"
+        "Elbows",
+        "Recession"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri May 29 2026 20:30:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 21:21:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RRvsGT",
         "#GTvsRR",
@@ -128,10 +128,10 @@
         "Fonseca",
         "Vaibhav",
         "Djokovic",
-        "RCB vs GT",
         "#Boycott_BELIFT_Financially",
         "#Demand_Fairness_For_SevEN",
         "Riyan Parag",
+        "Sai Sudharsan",
         "#RolandGarros"
       ],
       "hashtags": [
@@ -140,22 +140,24 @@
         "#Boycott_BELIFT_Financially",
         "#Demand_Fairness_For_SevEN",
         "#RolandGarros",
-        "#IPL2026Final",
-        "#\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928_\u0915\u093e_CM_\u092e\u0941\u0930\u094d\u0916\u093e\u0927\u093f\u0930\u093e\u091c",
         "#FreeJulian",
-        "#SmackDown"
+        "#IPL2026Final",
+        "#SmackDown",
+        "#\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928_\u0915\u093e_CM_\u092e\u0941\u0930\u094d\u0916\u093e\u0927\u093f\u0930\u093e\u091c",
+        "#Qualifier2",
+        "#AmaaliansKiYaari"
       ],
       "regular_topics": [
         "Gill",
         "Fonseca",
         "Vaibhav",
         "Djokovic",
-        "RCB vs GT",
         "Riyan Parag",
+        "Sai Sudharsan",
         "Gujarat Titans",
+        "RCB vs GT",
         "Ahmedabad",
-        "Atletico",
-        "Qualifier 2",
+        "Atleti",
         "Rajasthan Royals"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -163,39 +165,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri May 29 2026 20:28:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri May 29 2026 22:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Footballers",
         "Atletico Madrid",
         "Alvarez",
-        "Fonseca",
-        "Djokovic",
-        "#ShowUpLikeAnEagle",
-        "Admin",
+        "Fabrizio",
         "Anthony Gordon",
+        "Newcastle",
         "Undisclosed",
-        "Footballers",
         "Cemetery",
-        "#GoldCircleMoments"
+        "Fonseca",
+        "#ShowUpLikeAnEagle",
+        "Djokovic"
       ],
       "hashtags": [
         "#ShowUpLikeAnEagle",
         "#GoldCircleMoments",
         "#Bet9jaChampionParty",
-        "#PalmPayYoungstars",
+        "#OLADAY",
         "#RolandGarros"
       ],
       "regular_topics": [
+        "Footballers",
         "Atletico Madrid",
         "Alvarez",
+        "Fabrizio",
+        "Anthony Gordon",
+        "Newcastle",
+        "Undisclosed",
+        "Cemetery",
         "Fonseca",
         "Djokovic",
-        "Admin",
-        "Anthony Gordon",
-        "Undisclosed",
-        "Footballers",
-        "Cemetery",
-        "Fabrizio",
-        "Kante"
+        "Admin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
