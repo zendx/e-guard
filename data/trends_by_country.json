@@ -1,67 +1,67 @@
 {
-  "generated_at_utc": "2026-05-30T21:29:08.516508+00:00",
+  "generated_at_utc": "2026-05-30T22:30:22.342199+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 30 2026 20:31:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 21:22:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
         "Champions League",
-        "Dembele",
-        "Arteta",
         "Mbappe",
         "Madueke",
+        "Arteta",
+        "Dembele",
         "Luis Enrique",
-        "#UCLFinal",
-        "Saka",
-        "Raya"
+        "Madden",
+        "#tomatojay",
+        "Saka"
       ],
       "hashtags": [
-        "#UCLFinal",
         "#tomatojay",
-        "#PSGARS",
+        "#UCLFinal",
+        "#BetrPicks",
         "#COYG",
-        "#WCWS"
+        "#PSGARS"
       ],
       "regular_topics": [
         "Arsenal",
         "Gabriel",
         "Champions League",
-        "Dembele",
-        "Arteta",
         "Mbappe",
         "Madueke",
+        "Arteta",
+        "Dembele",
         "Luis Enrique",
+        "Madden",
         "Saka",
-        "Raya",
-        "Madden"
+        "Rich Paul"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 30 2026 20:04:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 21:48:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
-        "#PSGARS",
         "Madueke",
-        "#championsleague",
         "Saka",
+        "#PSGARS",
         "Arteta",
-        "Mendes",
-        "#UCLFinal",
+        "Champions League",
         "Champions of Europe",
-        "Raya"
+        "Mendes",
+        "#BritainsGotTalent",
+        "Mosquera"
       ],
       "hashtags": [
         "#PSGARS",
-        "#championsleague",
-        "#UCLFinal",
         "#BritainsGotTalent",
+        "#UCLFinal",
+        "#ARSPSG",
         "#COYG"
       ],
       "regular_topics": [
@@ -70,109 +70,109 @@
         "Madueke",
         "Saka",
         "Arteta",
-        "Mendes",
+        "Champions League",
         "Champions of Europe",
-        "Raya",
+        "Mendes",
         "Mosquera",
-        "Dembele",
-        "Barcola"
+        "Piers",
+        "Champions of England"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 30 2026 20:51:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 21:42:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
         "Canada",
-        "Dembele",
-        "Madueke",
-        "Champions League",
-        "Arteta",
-        "Carney",
         "Trump",
+        "Carney",
+        "#UCLFinal",
+        "Dembele",
         "#PSGARS",
-        "#UCLFinal"
+        "Trey",
+        "Champions League",
+        "Madueke"
       ],
       "hashtags": [
-        "#PSGARS",
         "#UCLFinal",
+        "#PSGARS",
         "#UFCMacau",
         "#COYG",
-        "#MensWorlds"
+        "#Caturday"
       ],
       "regular_topics": [
         "Arsenal",
         "Gabriel",
         "Canada",
-        "Dembele",
-        "Madueke",
-        "Champions League",
-        "Arteta",
-        "Carney",
         "Trump",
-        "Saka",
-        "Raya"
+        "Carney",
+        "Dembele",
+        "Trey",
+        "Champions League",
+        "Madueke",
+        "Arteta",
+        "Mosquera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 30 2026 20:45:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 21:39:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
         "#UCLFinal",
         "#championsleague",
+        "#PSGARS",
         "Arteta",
         "Dembele",
+        "Luis Enrique",
         "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Raya",
-        "Luis Enrique",
-        "Abhishek Banerjee",
-        "Mbappe"
+        "Saka"
       ],
       "hashtags": [
         "#UCLFinal",
         "#championsleague",
-        "#\u0930\u094b\u091f\u0940\u0915\u092a\u0921\u093c\u093e_\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e_\u0936\u093f\u0915\u094d\u0937\u093e\u092e\u0915\u093e\u0928",
+        "#PSGARS",
         "#COYG",
-        "#FATED_BLUE_LIGHT"
+        "#\u0930\u094b\u091f\u0940\u0915\u092a\u0921\u093c\u093e_\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e_\u0936\u093f\u0915\u094d\u0937\u093e\u092e\u0915\u093e\u0928"
       ],
       "regular_topics": [
         "Arsenal",
         "Gabriel",
         "Arteta",
         "Dembele",
+        "Luis Enrique",
         "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Raya",
-        "Luis Enrique",
-        "Abhishek Banerjee",
-        "Mbappe",
         "Saka",
-        "Congratulations PSG"
+        "Mbappe",
+        "Abhishek Banerjee",
+        "Madueke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 30 2026 20:44:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 21:36:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Gabriel",
         "#PSGARS",
-        "Congratulations to PSG",
         "Champions of Europe",
+        "Congratulations to PSG",
         "London",
         "Mbappe",
-        "#UCLFinal",
         "Arteta",
-        "Dembele",
-        "Cook"
+        "Cook",
+        "Madueke",
+        "Saka"
       ],
       "hashtags": [
         "#PSGARS",
@@ -183,15 +183,15 @@
       "regular_topics": [
         "Arsenal",
         "Gabriel",
-        "Congratulations to PSG",
         "Champions of Europe",
+        "Congratulations to PSG",
         "London",
         "Mbappe",
         "Arteta",
-        "Dembele",
         "Cook",
+        "Madueke",
         "Saka",
-        "Madueke"
+        "Dembele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
