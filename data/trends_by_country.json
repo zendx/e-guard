@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-30T15:56:41.010715+00:00",
+  "generated_at_utc": "2026-05-30T16:52:36.968339+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 30 2026 15:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 16:36:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Iraola",
-        "Slot",
         "Arsenal",
-        "Alonso",
-        "Mosquera",
-        "Enrique",
-        "Calafiori",
-        "#championsleague",
         "#PSGARS",
-        "#COYG",
-        "Arteta"
+        "Havertz",
+        "#championsleague",
+        "#UCLFinal",
+        "The Killers",
+        "Iraola",
+        "Mosquera",
+        "Slot",
+        "Liverpool",
+        "#COYG"
       ],
       "hashtags": [
-        "#championsleague",
         "#PSGARS",
-        "#COYG",
+        "#championsleague",
         "#UCLFinal",
-        "#ChallengeCup"
+        "#COYG",
+        "#ARSPSG"
       ],
       "regular_topics": [
-        "Iraola",
-        "Slot",
         "Arsenal",
-        "Alonso",
-        "Mosquera",
-        "Enrique",
-        "Calafiori",
-        "Arteta",
-        "Klopp",
         "Havertz",
-        "Hincapie"
+        "The Killers",
+        "Iraola",
+        "Mosquera",
+        "Slot",
+        "Liverpool",
+        "Arteta",
+        "Gabriel",
+        "Alonso",
+        "Mr Brightside"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 30 2026 15:39:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 16:32:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
+        "Havertz",
         "Canada",
         "Carney",
-        "Iraola",
+        "#UCLFinal",
         "Trump",
-        "Arsenal",
-        "Liverpool",
-        "#UFCMacau",
-        "Canes",
-        "Make America Great Again",
-        "Halal",
-        "Wendy"
+        "#COYG",
+        "#PSGARS",
+        "#championsleague",
+        "Iraola",
+        "Canes"
       ],
       "hashtags": [
-        "#UFCMacau",
-        "#COYG",
         "#UCLFinal",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e483",
-        "#TicketToHeavenEP1"
+        "#COYG",
+        "#PSGARS",
+        "#championsleague",
+        "#UFCMacau"
       ],
       "regular_topics": [
+        "Arsenal",
+        "Havertz",
         "Canada",
         "Carney",
-        "Iraola",
         "Trump",
-        "Arsenal",
-        "Liverpool",
+        "Iraola",
         "Canes",
         "Make America Great Again",
+        "The Killers",
         "Halal",
-        "Wendy",
-        "Alonso"
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,38 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 30 2026 15:30:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 16:21:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Liverpool",
-        "Mosquera",
-        "Havertz",
-        "Arteta",
-        "Alonso",
+        "Kai Havertz",
         "#UCLFinal",
-        "#PSGARS",
-        "Gyokeres",
+        "Liverpool",
+        "Arteta",
+        "#COYG",
         "#ARSPSG",
-        "Champions League"
+        "Mosquera",
+        "Gunners",
+        "#championsleague",
+        "Gyokeres"
       ],
       "hashtags": [
         "#UCLFinal",
-        "#PSGARS",
+        "#COYG",
         "#ARSPSG",
-        "#Ozoemena",
-        "#May30"
+        "#championsleague",
+        "#Ozoemena"
       ],
       "regular_topics": [
         "Arsenal",
+        "Kai Havertz",
         "Liverpool",
-        "Mosquera",
-        "Havertz",
         "Arteta",
-        "Alonso",
+        "Mosquera",
+        "Gunners",
         "Gyokeres",
-        "Champions League",
+        "Alonso",
         "Budapest",
-        "Klopp",
+        "Make PSG",
         "Dembele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
