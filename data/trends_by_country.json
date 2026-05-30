@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-05-30T16:52:36.968339+00:00",
+  "generated_at_utc": "2026-05-30T17:54:31.667545+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 30 2026 15:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 16:12:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "#UFCMacau",
+        "Kai Havertz",
+        "The Killers",
+        "#championsleague",
+        "#UCLFinal",
+        "#COYG",
         "Liverpool",
+        "#PSGARS",
         "Iraola",
-        "Good Saturday",
         "Slot",
-        "#Caturday",
-        "#TicketToHeavenEP1",
-        "Mosquera",
-        "Song Yadong",
-        "Alonzo Menifield"
+        "Good Saturday"
       ],
       "hashtags": [
-        "#UFCMacau",
-        "#Caturday",
-        "#TicketToHeavenEP1",
-        "#FortniteCommunityDay",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e483"
+        "#championsleague",
+        "#UCLFinal",
+        "#COYG",
+        "#PSGARS",
+        "#TheyBelongWithHer"
       ],
       "regular_topics": [
         "Arsenal",
+        "Kai Havertz",
+        "The Killers",
         "Liverpool",
         "Iraola",
-        "Good Saturday",
         "Slot",
+        "Good Saturday",
+        "Gunners",
         "Mosquera",
-        "Song Yadong",
-        "Alonzo Menifield",
-        "Tim Ream",
-        "THE AIR HIDDEN HEART",
-        "GEMINIFOURTH TTH PREMIERE"
+        "Mr. Brightside",
+        "THE AIR HIDDEN HEART"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 30 2026 16:36:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 17:30:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#PSGARS",
         "Havertz",
         "#championsleague",
-        "#UCLFinal",
-        "The Killers",
-        "Iraola",
+        "Saka",
         "Mosquera",
-        "Slot",
-        "Liverpool",
-        "#COYG"
+        "#UCLFinal",
+        "Gabriel",
+        "Arteta",
+        "Fabian Ruiz",
+        "The Killers"
       ],
       "hashtags": [
         "#PSGARS",
@@ -67,132 +67,132 @@
       "regular_topics": [
         "Arsenal",
         "Havertz",
-        "The Killers",
-        "Iraola",
+        "Saka",
         "Mosquera",
-        "Slot",
-        "Liverpool",
-        "Arteta",
         "Gabriel",
-        "Alonso",
-        "Mr Brightside"
+        "Arteta",
+        "Fabian Ruiz",
+        "The Killers",
+        "Dembele",
+        "Iraola",
+        "Slot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 30 2026 16:32:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 17:24:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Havertz",
         "Canada",
+        "Havertz",
         "Carney",
-        "#UCLFinal",
-        "Trump",
-        "#COYG",
         "#PSGARS",
+        "Trump",
+        "#UCLFinal",
+        "Dembele",
         "#championsleague",
-        "Iraola",
-        "Canes"
+        "Mosquera",
+        "Saka"
       ],
       "hashtags": [
-        "#UCLFinal",
-        "#COYG",
         "#PSGARS",
+        "#UCLFinal",
         "#championsleague",
+        "#COYG",
         "#UFCMacau"
       ],
       "regular_topics": [
         "Arsenal",
-        "Havertz",
         "Canada",
+        "Havertz",
         "Carney",
         "Trump",
+        "Dembele",
+        "Mosquera",
+        "Saka",
+        "Arteta",
         "Iraola",
-        "Canes",
-        "Make America Great Again",
-        "The Killers",
-        "Halal",
-        "Arteta"
+        "Canes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 30 2026 15:32:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 17:18:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
         "#\u0930\u094b\u091f\u0940\u0915\u092a\u0921\u093c\u093e_\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e_\u0936\u093f\u0915\u094d\u0937\u093e\u092e\u0915\u093e\u0928",
         "AnnapurnaMuhim SantRampalJi",
         "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Abhishek Banerjee",
-        "fighting radicals",
-        "\u0917\u0930\u0940\u092c \u092a\u0930\u093f\u0935\u093e\u0930",
-        "#SilencedNoMore",
+        "#UCLFinal",
+        "Kai Havertz",
+        "#FATED_BLUE_LIGHT",
+        "#BLUE_MOON_BRINGS_SEVEN",
         "Karma",
-        "#MannKiBaat",
-        "#BCI_\u092d\u0930\u094d\u0924\u0940_\u092e\u0947\u0902_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
-        "Sonarpur"
+        "#championsleague"
       ],
       "hashtags": [
         "#\u0930\u094b\u091f\u0940\u0915\u092a\u0921\u093c\u093e_\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e_\u0936\u093f\u0915\u094d\u0937\u093e\u092e\u0915\u093e\u0928",
-        "#SilencedNoMore",
-        "#MannKiBaat",
-        "#BCI_\u092d\u0930\u094d\u0924\u0940_\u092e\u0947\u0902_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
-        "#FATED_BLUE_LIGHT"
+        "#UCLFinal",
+        "#FATED_BLUE_LIGHT",
+        "#BLUE_MOON_BRINGS_SEVEN",
+        "#championsleague"
       ],
       "regular_topics": [
+        "Arsenal",
         "AnnapurnaMuhim SantRampalJi",
         "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Abhishek Banerjee",
-        "fighting radicals",
-        "\u0917\u0930\u0940\u092c \u092a\u0930\u093f\u0935\u093e\u0930",
+        "Kai Havertz",
         "Karma",
-        "Sonarpur",
-        "\u0915\u092c\u0940\u0930 \u092d\u0917\u0935\u093e\u0928",
-        "Arsenal",
+        "\u0917\u0930\u0940\u092c \u092a\u0930\u093f\u0935\u093e\u0930",
+        "Arteta",
         "Bhaipo",
-        "\u0930\u0902\u091c\u0940\u0924 \u0936\u0930\u094d\u092e\u093e"
+        "Pan 40",
+        "Sonarpur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 30 2026 16:21:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 17:15:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
+        "#PSGARS",
         "Kai Havertz",
         "#UCLFinal",
-        "Liverpool",
         "Arteta",
-        "#COYG",
-        "#ARSPSG",
         "Mosquera",
+        "Gabriel",
+        "#COYG",
         "Gunners",
-        "#championsleague",
-        "Gyokeres"
+        "Haram",
+        "#ARSPSG"
       ],
       "hashtags": [
+        "#PSGARS",
         "#UCLFinal",
         "#COYG",
         "#ARSPSG",
-        "#championsleague",
-        "#Ozoemena"
+        "#championsleague"
       ],
       "regular_topics": [
         "Arsenal",
         "Kai Havertz",
-        "Liverpool",
         "Arteta",
         "Mosquera",
+        "Gabriel",
         "Gunners",
-        "Gyokeres",
-        "Alonso",
-        "Budapest",
-        "Make PSG",
-        "Dembele"
+        "Haram",
+        "Fabian Ruiz",
+        "Saka",
+        "Dembele",
+        "Enrique"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
