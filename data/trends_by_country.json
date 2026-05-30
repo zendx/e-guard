@@ -1,80 +1,81 @@
 {
-  "generated_at_utc": "2026-05-30T09:07:27.496925+00:00",
+  "generated_at_utc": "2026-05-30T10:55:00.496910+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat May 30 2026 08:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 10:07:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCMacau",
-        "Introducing",
-        "Canes",
+        "Angela Hill",
+        "Cody Haddon",
+        "Rei Tsuruya",
+        "Good Saturday",
+        "#TicketToHeavenEP1",
         "#GMMTVMUSICONSINGAPOREDAY1",
-        "#DreaminaOctoAIonthelot",
-        "DevOps",
-        "Backrooms",
-        "Munoz",
+        "Xiong",
+        "Rodrigo Vera",
         "JASPER 1ST MUSICONSG",
-        "Swan",
-        "Layne Riggs"
+        "Jaqueline Amorim"
       ],
       "hashtags": [
         "#UFCMacau",
+        "#TicketToHeavenEP1",
         "#GMMTVMUSICONSINGAPOREDAY1",
         "#DreaminaOctoAIonthelot",
-        "#SoundTheSiren",
-        "#OPLive"
+        "#OPLive",
+        "#Demand_Fairness_For_SevEN"
       ],
       "regular_topics": [
-        "Introducing",
-        "Canes",
-        "DevOps",
-        "Backrooms",
-        "Munoz",
+        "Angela Hill",
+        "Cody Haddon",
+        "Rei Tsuruya",
+        "Good Saturday",
+        "Xiong",
+        "Rodrigo Vera",
         "JASPER 1ST MUSICONSG",
-        "Swan",
-        "Layne Riggs",
+        "Jaqueline Amorim",
+        "Gurule",
         "Moonshot",
-        "Microwave",
-        "Rajah"
+        "Canes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat May 30 2026 08:48:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 10:33:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sikhs",
-        "#Caturday",
         "Henry Nowak",
+        "Arsenal",
+        "#Caturday",
         "Konate",
-        "#PostboxSaturday",
-        "Albert Tatlock",
-        "Romania",
         "Kirpan",
-        "#Totp",
-        "Trump",
-        "Arsenal"
+        "#COYG",
+        "#saturdaykitchen",
+        "Romania",
+        "#UFCMacau",
+        "Britain"
       ],
       "hashtags": [
         "#Caturday",
-        "#PostboxSaturday",
-        "#Totp",
+        "#COYG",
+        "#saturdaykitchen",
         "#UFCMacau",
-        "#COYG"
+        "#TOTP"
       ],
       "regular_topics": [
         "Sikhs",
         "Henry Nowak",
-        "Konate",
-        "Albert Tatlock",
-        "Romania",
-        "Kirpan",
-        "Trump",
         "Arsenal",
-        "Israel",
+        "Konate",
+        "Kirpan",
+        "Romania",
         "Britain",
+        "Trump",
+        "Israel",
+        "Barcelona",
         "Barca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,25 +83,25 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat May 30 2026 08:42:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 10:28:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
+        "#UFCMacau",
         "Trump",
         "Canes",
         "Make America Great Again",
         "Wendy",
         "Habs",
         "Halal",
-        "Claude Lemieux",
-        "Voth",
-        "Recession"
+        "Recession",
+        "Voth"
       ],
       "hashtags": [
         "#UFCMacau",
         "#CanMNT",
         "#OLADAY",
-        "#SoundTheSiren"
+        "#\u0e20\u0e1e\u0e40\u0e18\u0e2dEP10"
       ],
       "regular_topics": [
         "Canada",
@@ -111,91 +112,87 @@
         "Wendy",
         "Habs",
         "Halal",
-        "Claude Lemieux",
+        "Recession",
         "Voth",
-        "Recession"
+        "Claude Lemieux"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat May 30 2026 07:45:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 10:20:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#CbseFactsOverRumours",
-        "#AjithKumar",
-        "\u0939\u093f\u0928\u094d\u0926\u0940 \u092a\u0924\u094d\u0930\u0915\u093e\u0930\u093f\u0924\u093e",
-        "#\u0939\u093f\u0902\u0926\u0940_\u092a\u0924\u094d\u0930\u0915\u093e\u0930\u093f\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#RapidoRide",
+        "#ModiWeakPaperLeak",
+        "CUET",
+        "Trent Boult",
+        "#GMMTVMUSICONSINGAPOREDAY1",
+        "#MannKiBaat",
+        "#TicketToHeavenEP1",
         "\u092c\u093f\u091c\u0932\u0940 \u092c\u093f\u0932",
-        "Goa Statehood Day",
-        "#GodMorningSaturday",
-        "#HomeForHomeless",
-        "\u0917\u094b\u0935\u093e \u0930\u093e\u091c\u094d\u092f",
+        "NUUI WITH DUNK",
         "\u0928\u094c\u0938\u0947\u0928\u093e \u0936\u094c\u0930\u094d\u092f \u0935\u093e\u091f\u093f\u0915\u093e",
-        "Operation Sindoor 2.0"
+        "\u0930\u093e\u092c\u0921\u093c\u0940 \u0926\u0947\u0935\u0940"
       ],
       "hashtags": [
-        "#CbseFactsOverRumours",
-        "#AjithKumar",
-        "#\u0939\u093f\u0902\u0926\u0940_\u092a\u0924\u094d\u0930\u0915\u093e\u0930\u093f\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#GodMorningSaturday",
-        "#HomeForHomeless",
-        "#ElectricityBill",
-        "#HindiJournalismDay",
+        "#RapidoRide",
+        "#ModiWeakPaperLeak",
         "#GMMTVMUSICONSINGAPOREDAY1",
-        "#MohiniMani",
-        "#Blast"
+        "#MannKiBaat",
+        "#TicketToHeavenEP1"
       ],
       "regular_topics": [
-        "\u0939\u093f\u0928\u094d\u0926\u0940 \u092a\u0924\u094d\u0930\u0915\u093e\u0930\u093f\u0924\u093e",
+        "CUET",
+        "Trent Boult",
         "\u092c\u093f\u091c\u0932\u0940 \u092c\u093f\u0932",
-        "Goa Statehood Day",
-        "\u0917\u094b\u0935\u093e \u0930\u093e\u091c\u094d\u092f",
+        "NUUI WITH DUNK",
         "\u0928\u094c\u0938\u0947\u0928\u093e \u0936\u094c\u0930\u094d\u092f \u0935\u093e\u091f\u093f\u0915\u093e",
-        "Operation Sindoor 2.0",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u0938\u0942\u0930\u094d\u092f\u093e \u091a\u094c\u0939\u093e\u0928",
-        "\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0938\u094c\u0902\u0926\u0930\u094d\u092f",
-        "NFHS-6",
-        "Sam Curran"
+        "\u0930\u093e\u092c\u0921\u093c\u0940 \u0926\u0947\u0935\u0940",
+        "JASPER 1ST MUSICONSG",
+        "GEMINIFOURTH TTH PREMIERE",
+        "PAWTY WITH JOSS",
+        "Finch",
+        "Vinesh Phogat"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat May 30 2026 08:33:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat May 30 2026 10:18:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "#UCLFinal",
-        "#Ozoemena",
         "Budapest",
-        "Friends of PSG",
-        "Touching",
-        "Luis Enrique",
-        "#PSGARS",
-        "#BiafraHeroesDay",
+        "Champions League",
+        "#Ozoemena",
         "Dembele",
-        "Champions League Final"
+        "#May30",
+        "Pastor Adeboye",
+        "Friends of PSG",
+        "#PSGARS",
+        "Paris"
       ],
       "hashtags": [
         "#UCLFinal",
         "#Ozoemena",
+        "#May30",
         "#PSGARS",
-        "#BiafraHeroesDay"
+        "#NDCisOK"
       ],
       "regular_topics": [
         "Arsenal",
         "Budapest",
-        "Friends of PSG",
-        "Touching",
-        "Luis Enrique",
+        "Champions League",
         "Dembele",
-        "Champions League Final",
-        "Jenny",
-        "Eddie",
+        "Pastor Adeboye",
+        "Friends of PSG",
         "Paris",
-        "Zoey"
+        "Biafra",
+        "Luis Enrique",
+        "We Remember",
+        "Viewing"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
