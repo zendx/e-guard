@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-31T15:44:03.575760+00:00",
+  "generated_at_utc": "2026-05-31T16:52:22.938893+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,49 +43,49 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 31 2026 15:03:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 15:56:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Constitution River",
+        "Sidemen",
+        "COME OVER",
         "Ryan Moore",
         "Paris",
         "Bunny Shaw",
-        "Sidemen",
         "French Derby",
-        "Aidan O'Brien",
+        "#LEIvEXE",
+        "nimble",
         "Sturgeon",
-        "#ArsenalParade",
-        "#ManchesterLocketTour",
-        "Chantilly"
+        "#RCBvsGT"
       ],
       "hashtags": [
+        "#LEIvEXE",
+        "#RCBvsGT",
         "#ArsenalParade",
         "#ManchesterLocketTour",
-        "#wafc",
         "#WWEClash",
+        "#wafc",
         "#iomtt",
-        "#bbclaurak",
-        "#ItalianGP",
-        "#MotoGP"
+        "#bbclaurak"
       ],
       "regular_topics": [
         "Constitution River",
+        "Sidemen",
+        "COME OVER",
         "Ryan Moore",
         "Paris",
         "Bunny Shaw",
-        "Sidemen",
         "French Derby",
-        "Aidan O'Brien",
+        "nimble",
         "Sturgeon",
-        "Chantilly",
-        "Leao",
-        "Miller"
+        "Dua Lipa",
+        "Aidan O'Brien"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 31 2026 14:57:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 15:51:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Hoffman",
@@ -97,14 +97,13 @@
         "Gabriel",
         "Varland",
         "Paris",
-        "Carney"
+        "Kerry"
       ],
       "hashtags": [
         "#AAANocheDeLosGrandes",
-        "#PSGARS",
         "#SeductiveSunday",
         "#UCLFinal",
-        "#RCBvsGT"
+        "#PSGARS"
       ],
       "regular_topics": [
         "Arsenal",
@@ -117,65 +116,65 @@
         "Gabriel",
         "Varland",
         "Paris",
-        "Carney"
+        "Kerry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 31 2026 14:54:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 16:36:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
         "#IPLFinal",
-        "Gill",
         "Orange Cap",
-        "#NoiceMatchDayDeals",
-        "Instamart",
-        "Buttler",
-        "Bhuvi",
-        "Duffy",
-        "#KTMenMatchMode",
-        "Sindhu"
+        "#BTS13thAnniversary",
+        "Kailash Kher",
+        "#IPL2026Final",
+        "Washington Sundar",
+        "#2026BTSFESTA",
+        "Gill",
+        "Krunal Pandya",
+        "Buttler"
       ],
       "hashtags": [
         "#RCBvsGT",
         "#IPLFinal",
-        "#NoiceMatchDayDeals",
-        "#KTMenMatchMode",
-        "#rcbfinal"
+        "#BTS13thAnniversary",
+        "#IPL2026Final",
+        "#2026BTSFESTA"
       ],
       "regular_topics": [
-        "Gill",
         "Orange Cap",
-        "Instamart",
+        "Kailash Kher",
+        "Washington Sundar",
+        "Gill",
+        "Krunal Pandya",
         "Buttler",
-        "Bhuvi",
         "Duffy",
-        "Sindhu",
+        "Bhuvi",
         "Congratulations RCB",
-        "Hazlewood",
-        "Bhuvneshwar Kumar",
-        "\u0930\u093e\u091c\u0940\u0935 \u0915\u0943\u0937\u094d\u0923"
+        "Rabada",
+        "Come Over"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 31 2026 14:51:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 15:42:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BinanceAfrica",
         "AFCON",
         "Uruguay",
         "Luis Su\u00e1rez",
         "Jay Z",
-        "ARASHI",
+        "Champions of England",
         "London is Red",
-        "Temitope Atiba",
-        "#KSAnalysis",
+        "Parade",
+        "ARASHI",
         "Leao",
-        "Champions of England"
+        "Temitope Atiba"
       ],
       "hashtags": [
         "#BinanceAfrica",
@@ -187,13 +186,13 @@
         "Uruguay",
         "Luis Su\u00e1rez",
         "Jay Z",
-        "ARASHI",
-        "London is Red",
-        "Temitope Atiba",
-        "Leao",
         "Champions of England",
-        "Season 3",
-        "Parade"
+        "London is Red",
+        "Parade",
+        "ARASHI",
+        "Leao",
+        "Temitope Atiba",
+        "Season 3"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
