@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-05-31T17:51:16.950261+00:00",
+  "generated_at_utc": "2026-05-31T18:58:30.759790+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 31 2026 16:21:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 17:15:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jay Z",
-        "Paris",
-        "Good Sunday",
-        "Come Over",
         "#WWEClash",
-        "#BTS13thAnniversary",
+        "Paris",
+        "Asentum Blockchain",
+        "Come Over",
+        "Good Sunday",
         "Diddy",
-        "#2026BTSFESTA",
         "Platner",
-        "Sunday Funday",
+        "#BTS13thAnniversary",
+        "#2026BTSFESTA",
         "#SeductiveSunday"
       ],
       "hashtags": [
@@ -28,167 +28,167 @@
       "regular_topics": [
         "Jay Z",
         "Paris",
-        "Good Sunday",
+        "Asentum Blockchain",
         "Come Over",
+        "Good Sunday",
         "Diddy",
         "Platner",
-        "Sunday Funday",
-        "Clint",
         "Nicki",
-        "Muhammad Qasim",
-        "Trey Beard"
+        "Clint",
+        "Lincoln Logs",
+        "Sunday Funday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 31 2026 17:40:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 18:32:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Asentum Blockchain",
         "#SoccerAid",
+        "#WWEClash",
+        "Asentum Blockchain",
+        "Gunther",
         "Ibou",
+        "#ClashInItaly",
+        "GK Barry",
+        "Damson Idris",
         "Sidemen",
         "#PlanetaryPublications",
-        "McCabe",
-        "Liverpools",
-        "#WWEClash",
-        "Tom Hanks",
-        "Come Over",
-        "Dua Lipa"
+        "McCabe"
       ],
       "hashtags": [
         "#SoccerAid",
-        "#PlanetaryPublications",
         "#WWEClash",
-        "#IPLFinal",
-        "#BTS13thAnniversary"
+        "#ClashInItaly",
+        "#PlanetaryPublications",
+        "#IndyCar"
       ],
       "regular_topics": [
         "Asentum Blockchain",
+        "Gunther",
         "Ibou",
+        "GK Barry",
+        "Damson Idris",
         "Sidemen",
         "McCabe",
+        "Virat Kohli",
         "Liverpools",
-        "Tom Hanks",
-        "Come Over",
-        "Dua Lipa",
         "Doug",
-        "Ryan Moore",
-        "Constitution River"
+        "Tom Hanks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 31 2026 17:33:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 18:27:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hoffman",
         "Arsenal",
+        "#WWEClash",
+        "Sanchez",
         "Spurs",
-        "Norway",
-        "Chet",
         "JUST FOR YOU LINGLING",
+        "Chet",
+        "Norway",
         "Schneider",
         "Paris",
-        "The Queen",
-        "Wemby",
-        "Our Princess"
+        "The Queen"
       ],
       "hashtags": [
-        "#AAANocheDeLosGrandes",
         "#WWEClash",
+        "#AAANocheDeLosGrandes",
+        "#ClashInItaly",
         "#UCLFinal",
-        "#PSGARS",
-        "#2026BTSFESTA"
+        "#PSGARS"
       ],
       "regular_topics": [
         "Hoffman",
         "Arsenal",
+        "Sanchez",
         "Spurs",
-        "Norway",
-        "Chet",
         "JUST FOR YOU LINGLING",
+        "Chet",
+        "Norway",
         "Schneider",
         "Paris",
         "The Queen",
-        "Wemby",
-        "Our Princess"
+        "Wemby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 31 2026 17:28:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 18:20:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
+        "#ViratKohli",
         "#IPLFinal",
-        "Kohli",
-        "Rabada",
-        "#IPL2026Final",
-        "#BTS13thAnniversary",
-        "Siraj",
-        "Orange Cap",
-        "Venkatesh Iyer",
-        "Venky",
-        "Krunal Pandya"
+        "Congratulations RCB",
+        "Royal Challengers Bengaluru",
+        "Rajat Patidar",
+        "Chase Master",
+        "#PlayBold",
+        "Ee Sala Cup Namde",
+        "\u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940",
+        "Rabada"
       ],
       "hashtags": [
         "#RCBvsGT",
+        "#ViratKohli",
         "#IPLFinal",
-        "#IPL2026Final",
-        "#BTS13thAnniversary",
-        "#2026BTSFESTA"
+        "#PlayBold"
       ],
       "regular_topics": [
-        "Kohli",
-        "Rabada",
-        "Siraj",
-        "Orange Cap",
-        "Venkatesh Iyer",
-        "Venky",
-        "Krunal Pandya",
-        "Kailash Kher",
-        "Bhuvi",
         "Congratulations RCB",
-        "Rashid Khan"
+        "Royal Challengers Bengaluru",
+        "Rajat Patidar",
+        "Chase Master",
+        "Ee Sala Cup Namde",
+        "\u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940",
+        "Rabada",
+        "Back-to-back IPL",
+        "Siraj",
+        "\u0915\u093f\u0902\u0917 \u0915\u094b\u0939\u0932\u0940",
+        "Orange Cap"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 31 2026 16:33:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 18:16:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BinanceAfrica",
-        "AFCON",
-        "Uruguay",
-        "Dua Lipa",
-        "Arda G\u00fcler",
-        "Luis Su\u00e1rez",
-        "London is Red",
-        "Jay Z",
-        "Xeffy",
         "Ibou",
-        "Champions of England"
+        "Bowen",
+        "AFCON",
+        "Femi Gbajabiamila",
+        "Dua Lipa",
+        "Sidemen",
+        "Xeffy",
+        "Uruguay",
+        "Jay Z",
+        "Arda G\u00fcler"
       ],
       "hashtags": [
-        "#BinanceAfrica"
+        "#BinanceAfrica",
+        "#WWEClash"
       ],
       "regular_topics": [
-        "AFCON",
-        "Uruguay",
-        "Dua Lipa",
-        "Arda G\u00fcler",
-        "Luis Su\u00e1rez",
-        "London is Red",
-        "Jay Z",
-        "Xeffy",
         "Ibou",
-        "Champions of England",
-        "Parade"
+        "Bowen",
+        "AFCON",
+        "Femi Gbajabiamila",
+        "Dua Lipa",
+        "Sidemen",
+        "Xeffy",
+        "Uruguay",
+        "Jay Z",
+        "Arda G\u00fcler",
+        "Diddy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
