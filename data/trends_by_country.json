@@ -1,144 +1,142 @@
 {
-  "generated_at_utc": "2026-05-31T21:29:06.282765+00:00",
+  "generated_at_utc": "2026-05-31T22:31:37.130753+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 31 2026 20:39:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 21:30:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWEClash",
         "Brock",
-        "SummerSlam",
-        "Pulisic",
-        "Rhea",
-        "Sol Ruca",
-        "#ClashInItaly",
+        "Roman",
         "#USMNT",
-        "Gunther",
-        "Becky",
-        "Pepi"
+        "SummerSlam",
+        "Rhea",
+        "Pulisic",
+        "Senegal",
+        "#ClashInItaly",
+        "Sol Ruca",
+        "Balogun"
       ],
       "hashtags": [
         "#WWEClash",
-        "#ClashInItaly",
         "#USMNT",
-        "#AndNew"
+        "#ClashInItaly"
       ],
       "regular_topics": [
         "Brock",
+        "Roman",
         "SummerSlam",
-        "Pulisic",
         "Rhea",
-        "Sol Ruca",
-        "Gunther",
-        "Becky",
-        "Pepi",
-        "Oba Femi",
+        "Pulisic",
         "Senegal",
-        "Lincoln Logs"
+        "Sol Ruca",
+        "Balogun",
+        "Roldan",
+        "Lincoln Logs",
+        "Miles Robinson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 31 2026 21:07:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 21:57:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWEClash",
         "#SoccerAid",
         "Brock",
-        "#ClashInItaly",
-        "Roman",
         "#TipToe",
-        "Rhea",
+        "Roman",
+        "#ClashInItaly",
         "Summerslam",
-        "Gunther",
-        "Asentum Blockchain",
-        "Sol Ruca"
+        "Liv Morgan",
+        "Sol Ruca",
+        "Rhea",
+        "#DearEngland"
       ],
       "hashtags": [
         "#WWEClash",
         "#SoccerAid",
-        "#ClashInItaly",
         "#TipToe",
-        "#wildflowerhour"
+        "#ClashInItaly",
+        "#DearEngland"
       ],
       "regular_topics": [
         "Brock",
         "Roman",
-        "Rhea",
         "Summerslam",
-        "Gunther",
-        "Asentum Blockchain",
+        "Liv Morgan",
         "Sol Ruca",
+        "Rhea",
+        "Gunther",
         "Oba Femi",
         "Jacob Fatu",
-        "Defoe",
-        "Tim Cahill"
+        "Ruud",
+        "Robbie Williams"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 31 2026 20:09:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 21:52:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWEClash",
         "Hoffman",
+        "#WWEClash",
         "Arsenal",
-        "Brock",
         "Spurs",
-        "Sanchez",
         "Chet",
         "Schneider",
         "Paris",
-        "Summerslam",
-        "Sol Ruca"
+        "Brock",
+        "Sanchez",
+        "Norway",
+        "Carney"
       ],
       "hashtags": [
         "#WWEClash",
-        "#ClashInItaly",
         "#AAANocheDeLosGrandes",
-        "#BlueJays",
-        "#UCLFinal"
+        "#SeductiveSunday",
+        "#PSGARS"
       ],
       "regular_topics": [
         "Hoffman",
         "Arsenal",
-        "Brock",
         "Spurs",
-        "Sanchez",
         "Chet",
         "Schneider",
         "Paris",
-        "Summerslam",
-        "Sol Ruca",
-        "Norway"
+        "Brock",
+        "Sanchez",
+        "Norway",
+        "Carney",
+        "Roman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 31 2026 20:03:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 21:45:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
         "#ViratKohli",
         "#IPLFinal",
+        "#IPL2026",
         "Congratulations RCB",
         "Rajat Patidar",
-        "#PlayBold",
-        "Royal Challengers Bengaluru",
         "#WWEClash",
+        "Royal Challengers Bengaluru",
         "\u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940",
         "Orange Cap",
-        "Ee Sala Cup Namde"
+        "Chase Master"
       ],
       "hashtags": [
         "#RCBvsGT",
         "#ViratKohli",
         "#IPLFinal",
-        "#PlayBold",
+        "#IPL2026",
         "#WWEClash"
       ],
       "regular_topics": [
@@ -147,48 +145,50 @@
         "Royal Challengers Bengaluru",
         "\u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940",
         "Orange Cap",
-        "Ee Sala Cup Namde",
         "Chase Master",
+        "Ee Sala Cup Namde",
+        "Happy Pride Month",
         "Emerging Player of the Season",
         "Andy Flower",
-        "Super Striker of the Season",
-        "Happy Pride Month"
+        "Super Striker of the Season"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 31 2026 20:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 21:44:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWEClash",
-        "Oba Femi",
-        "Brock",
-        "#BinanceAfrica",
-        "Tomorrow is Monday",
-        "Bowen",
-        "Diddy",
-        "Galatasaray",
         "Roman Reigns",
-        "I AFFIRM",
-        "Ibou"
+        "Tomorrow is Monday",
+        "Panama",
+        "Brock",
+        "Oba Femi",
+        "Diddy",
+        "Jacob Fatu",
+        "#BringBackOurChildren",
+        "Bowen",
+        "#BinanceAfrica"
       ],
       "hashtags": [
         "#WWEClash",
-        "#BinanceAfrica"
+        "#BringBackOurChildren",
+        "#BinanceAfrica",
+        "#CLARITYAct"
       ],
       "regular_topics": [
-        "Oba Femi",
-        "Brock",
-        "Tomorrow is Monday",
-        "Bowen",
-        "Diddy",
-        "Galatasaray",
         "Roman Reigns",
-        "I AFFIRM",
-        "Ibou",
-        "Kolade",
-        "Panama"
+        "Tomorrow is Monday",
+        "Panama",
+        "Brock",
+        "Oba Femi",
+        "Diddy",
+        "Jacob Fatu",
+        "Bowen",
+        "Galatasaray",
+        "Fonseca",
+        "I AFFIRM"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
