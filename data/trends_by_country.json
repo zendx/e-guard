@@ -1,89 +1,88 @@
 {
-  "generated_at_utc": "2026-05-31T11:23:38.400221+00:00",
+  "generated_at_utc": "2026-05-31T12:53:22.971104+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 31 2026 11:09:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 12:01:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#3000fashion",
+        "#isaacanderson3000",
         "Good Sunday",
-        "Spurs",
         "Jay Z",
+        "Spurs",
+        "Muhammad Qasim",
+        "Paris",
+        "Nicki",
         "Chet",
         "Wemby",
-        "Nicki",
-        "Paris",
-        "#LINGORMFanPartyBD2026",
-        "#GMMTVMUSICONSINGAPOREday2",
-        "LINGORM LOVE BD PARTY",
-        "Blessed Sunday"
+        "#GMMTVMUSICONSINGAPOREday2"
       ],
       "hashtags": [
-        "#LINGORMFanPartyBD2026",
+        "#3000fashion",
+        "#isaacanderson3000",
         "#GMMTVMUSICONSINGAPOREday2",
-        "#AAANocheDeLosGrandes",
-        "#TheJigIsUp",
-        "#PorVida"
+        "#LINGORMFanPartyBD2026",
+        "#SeductiveSunday"
       ],
       "regular_topics": [
         "Good Sunday",
-        "Spurs",
         "Jay Z",
+        "Spurs",
+        "Muhammad Qasim",
+        "Paris",
+        "Nicki",
         "Chet",
         "Wemby",
-        "Nicki",
-        "Paris",
+        "Peter Lynch",
         "LINGORM LOVE BD PARTY",
-        "Blessed Sunday",
-        "Shakur",
-        "Chad Gable"
+        "Blessed Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 31 2026 10:44:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 12:28:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbclaurak",
-        "Lennon Miller",
-        "Paris",
-        "Nicola Sturgeon",
-        "Fletcher",
-        "Barron",
-        "Jay Z",
+        "Arsenal",
+        "Gabriel",
         "Saka",
-        "#trevorphillips",
-        "Clarke",
-        "Jeremy Hunt"
+        "#PSGARS",
+        "Arteta",
+        "Madueke",
+        "Champions League",
+        "Paris",
+        "Mosquera",
+        "Mendes",
+        "Iraola"
       ],
       "hashtags": [
+        "#PSGARS",
+        "#UCLFinal",
         "#bbclaurak",
-        "#trevorphillips",
-        "#ASongOrMovieForAllYouCanHear",
-        "#SundayYellow",
-        "#ShakespeareSunday",
-        "#AAANocheDeLosGrandes"
+        "#BritainsGotTalent",
+        "#COYG"
       ],
       "regular_topics": [
-        "Lennon Miller",
-        "Paris",
-        "Nicola Sturgeon",
-        "Fletcher",
-        "Barron",
-        "Jay Z",
+        "Arsenal",
+        "Gabriel",
         "Saka",
-        "Clarke",
-        "Jeremy Hunt",
-        "Desert Island Discs",
-        "British Rail"
+        "Arteta",
+        "Madueke",
+        "Champions League",
+        "Paris",
+        "Mosquera",
+        "Mendes",
+        "Iraola",
+        "Dembele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 31 2026 10:39:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 11:30:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Hoffman",
@@ -93,16 +92,15 @@
         "Schneider",
         "Wemby",
         "Gabriel",
-        "Varland",
         "#AAANocheDeLosGrandes",
+        "Varland",
         "Shai"
       ],
       "hashtags": [
         "#AAANocheDeLosGrandes",
         "#UCLFinal",
         "#PSGARS",
-        "#BlueJays",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e483"
+        "#BlueJays"
       ],
       "regular_topics": [
         "Arsenal",
@@ -122,72 +120,72 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 31 2026 10:33:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 11:24:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#KTMenMatchMode",
         "#NoiceMatchDayDeals",
+        "#KTMenMatchReady",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
+        "Instamart",
         "#MannKiBaat",
         "#UPsupportsPilotTyagi",
-        "#PilotTyagi4EducatedUP",
         "Tosin",
-        "#KalyanBanerjee",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "Instamart",
         "Anjana",
-        "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930"
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "GAWIN MUSICON IN SG D2"
       ],
       "hashtags": [
+        "#KTMenMatchMode",
         "#NoiceMatchDayDeals",
+        "#KTMenMatchReady",
         "#MannKiBaat",
-        "#UPsupportsPilotTyagi",
-        "#PilotTyagi4EducatedUP",
-        "#KalyanBanerjee"
+        "#UPsupportsPilotTyagi"
       ],
       "regular_topics": [
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
-        "Tosin",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
         "Instamart",
+        "Tosin",
         "Anjana",
-        "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
-        "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
-        "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u092a\u093e\u0920\u0915",
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
         "GAWIN MUSICON IN SG D2",
+        "JASPER DIRECT OUR MUSICONSG",
+        "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Shane Watson",
-        "JASPER DIRECT OUR MUSICONSG"
+        "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
+        "Coaching"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 31 2026 10:30:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 11:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "European",
         "Leao",
-        "Davido",
-        "Blessed Sunday",
-        "Jay Z",
-        "Happy Sunday CT",
-        "PGMOL",
         "Tyler Fletcher",
+        "Davido",
+        "Bloomberg",
+        "Jay Z",
+        "Blessed Sunday",
+        "Today is Sunday",
         "Nicki",
-        "Big Ben",
-        "Vitinha"
+        "Happy Sunday CT",
+        "PGMOL"
       ],
       "hashtags": [],
       "regular_topics": [
         "European",
         "Leao",
-        "Davido",
-        "Blessed Sunday",
-        "Jay Z",
-        "Happy Sunday CT",
-        "PGMOL",
         "Tyler Fletcher",
+        "Davido",
+        "Bloomberg",
+        "Jay Z",
+        "Blessed Sunday",
+        "Today is Sunday",
         "Nicki",
-        "Big Ben",
-        "Vitinha"
+        "Happy Sunday CT",
+        "PGMOL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
