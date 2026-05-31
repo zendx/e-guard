@@ -1,88 +1,89 @@
 {
-  "generated_at_utc": "2026-05-31T12:53:22.971104+00:00",
+  "generated_at_utc": "2026-05-31T14:24:28.091102+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun May 31 2026 12:01:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 13:45:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#3000fashion",
-        "#isaacanderson3000",
         "Good Sunday",
+        "#isaacanderson3000",
+        "#3000fashion",
         "Jay Z",
-        "Spurs",
-        "Muhammad Qasim",
         "Paris",
+        "Muhammad Qasim",
         "Nicki",
-        "Chet",
-        "Wemby",
-        "#GMMTVMUSICONSINGAPOREday2"
+        "#SundayVibes",
+        "Sunday Funday",
+        "Diddy",
+        "#SeductiveSunday"
       ],
       "hashtags": [
-        "#3000fashion",
         "#isaacanderson3000",
-        "#GMMTVMUSICONSINGAPOREday2",
-        "#LINGORMFanPartyBD2026",
-        "#SeductiveSunday"
+        "#3000fashion",
+        "#SundayVibes",
+        "#SeductiveSunday",
+        "#GMMTVMUSICONSINGAPOREday2"
       ],
       "regular_topics": [
         "Good Sunday",
         "Jay Z",
-        "Spurs",
-        "Muhammad Qasim",
         "Paris",
+        "Muhammad Qasim",
         "Nicki",
-        "Chet",
-        "Wemby",
-        "Peter Lynch",
-        "LINGORM LOVE BD PARTY",
-        "Blessed Sunday"
+        "Sunday Funday",
+        "Diddy",
+        "Telephone",
+        "Platner",
+        "Blessed Sunday",
+        "Feliz Domingo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun May 31 2026 12:28:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 13:19:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
-        "Gabriel",
-        "Saka",
-        "#PSGARS",
-        "Arteta",
-        "Madueke",
-        "Champions League",
         "Paris",
-        "Mosquera",
-        "Mendes",
-        "Iraola"
+        "Sturgeon",
+        "Lennon Miller",
+        "Clarke",
+        "Fletcher",
+        "#bbclaurak",
+        "British Rail",
+        "Jay Z",
+        "#ArsenalParade",
+        "Leao",
+        "Barron"
       ],
       "hashtags": [
-        "#PSGARS",
-        "#UCLFinal",
         "#bbclaurak",
-        "#BritainsGotTalent",
-        "#COYG"
+        "#ArsenalParade",
+        "#ItalianGP",
+        "#MotoGP",
+        "#SundayYellow",
+        "#AAANocheDeLosGrandes"
       ],
       "regular_topics": [
-        "Arsenal",
-        "Gabriel",
-        "Saka",
-        "Arteta",
-        "Madueke",
-        "Champions League",
         "Paris",
-        "Mosquera",
-        "Mendes",
-        "Iraola",
-        "Dembele"
+        "Sturgeon",
+        "Lennon Miller",
+        "Clarke",
+        "Fletcher",
+        "British Rail",
+        "Jay Z",
+        "Leao",
+        "Barron",
+        "Hulk Hogan",
+        "Gable"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun May 31 2026 11:30:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 13:12:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Hoffman",
@@ -90,17 +91,18 @@
         "Chet",
         "Canada",
         "Schneider",
-        "Wemby",
         "Gabriel",
-        "#AAANocheDeLosGrandes",
+        "Good Sunday",
         "Varland",
-        "Shai"
+        "#AAANocheDeLosGrandes",
+        "Carney"
       ],
       "hashtags": [
         "#AAANocheDeLosGrandes",
+        "#GMMTVMUSICONSINGAPOREday2",
         "#UCLFinal",
         "#PSGARS",
-        "#BlueJays"
+        "#WeareARASHI"
       ],
       "regular_topics": [
         "Arsenal",
@@ -109,49 +111,49 @@
         "Chet",
         "Canada",
         "Schneider",
-        "Wemby",
         "Gabriel",
+        "Good Sunday",
         "Varland",
-        "Shai",
-        "Dembele"
+        "Carney",
+        "Shai"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun May 31 2026 11:24:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 13:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#KTMenMatchMode",
         "#NoiceMatchDayDeals",
         "#KTMenMatchReady",
-        "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
+        "#RCBvsGT",
         "Instamart",
-        "#MannKiBaat",
-        "#UPsupportsPilotTyagi",
+        "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
+        "#GMMTVMUSICONSINGAPOREday2",
+        "\u0930\u093e\u091c\u0940\u0935 \u0915\u0943\u0937\u094d\u0923",
+        "Fofana",
         "Tosin",
-        "Anjana",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "GAWIN MUSICON IN SG D2"
+        "Anjana"
       ],
       "hashtags": [
         "#KTMenMatchMode",
         "#NoiceMatchDayDeals",
         "#KTMenMatchReady",
-        "#MannKiBaat",
-        "#UPsupportsPilotTyagi"
+        "#RCBvsGT",
+        "#GMMTVMUSICONSINGAPOREday2"
       ],
       "regular_topics": [
-        "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
         "Instamart",
+        "\u0915\u0932\u094d\u092f\u093e\u0923 \u092c\u0928\u0930\u094d\u091c\u0940",
+        "\u0930\u093e\u091c\u0940\u0935 \u0915\u0943\u0937\u094d\u0923",
+        "Fofana",
         "Tosin",
         "Anjana",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "GAWIN MUSICON IN SG D2",
-        "JASPER DIRECT OUR MUSICONSG",
-        "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
-        "Shane Watson",
-        "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
+        "Thiruvarur Bypass",
+        "Chelsea",
+        "\u0936\u094d\u0930\u0935\u0923 \u091a\u094c\u0927\u0930\u0940",
+        "Hyderabad City",
         "Coaching"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -159,33 +161,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun May 31 2026 11:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun May 31 2026 13:57:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "European",
+        "AFCON",
+        "#BinanceAfrica",
+        "#KSAnalysis",
+        "ARASHI",
         "Leao",
-        "Tyler Fletcher",
-        "Davido",
-        "Bloomberg",
+        "Season 3",
         "Jay Z",
-        "Blessed Sunday",
-        "Today is Sunday",
-        "Nicki",
-        "Happy Sunday CT",
-        "PGMOL"
+        "Temitope Atiba",
+        "Bloomberg",
+        "Hakimi",
+        "Parade"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#BinanceAfrica",
+        "#KSAnalysis",
+        "#SoSoValue"
+      ],
       "regular_topics": [
-        "European",
+        "AFCON",
+        "ARASHI",
         "Leao",
-        "Tyler Fletcher",
-        "Davido",
-        "Bloomberg",
+        "Season 3",
         "Jay Z",
-        "Blessed Sunday",
-        "Today is Sunday",
-        "Nicki",
-        "Happy Sunday CT",
-        "PGMOL"
+        "Temitope Atiba",
+        "Bloomberg",
+        "Hakimi",
+        "Parade",
+        "Davido",
+        "Bauchi State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
