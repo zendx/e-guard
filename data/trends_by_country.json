@@ -1,126 +1,125 @@
 {
-  "generated_at_utc": "2026-06-01T22:18:21.782837+00:00",
+  "generated_at_utc": "2026-06-01T23:47:08.860612+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 01 2026 21:51:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 01 2026 22:44:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rams",
-        "Browns",
+        "AJ Brown",
         "Myles Garrett",
         "Verse",
         "Eagles",
         "Super Bowl",
-        "#WWERaw",
         "Pride",
-        "#RTXOn",
-        "Pats",
-        "Sesame Street"
+        "#WWERaw",
+        "Sesame Street",
+        "Tiafoe",
+        "Li-Ning"
       ],
       "hashtags": [
         "#WWERaw",
         "#RTXOn",
-        "#loveisland",
-        "#DawgPound"
+        "#loveisland"
       ],
       "regular_topics": [
         "Rams",
-        "Browns",
+        "AJ Brown",
         "Myles Garrett",
         "Verse",
         "Eagles",
         "Super Bowl",
         "Pride",
-        "Pats",
         "Sesame Street",
-        "Aaron Donald",
-        "Stafford"
+        "Tiafoe",
+        "Li-Ning",
+        "Pats"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 01 2026 21:28:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 01 2026 23:12:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveisland",
+        "Henry",
         "Lorenzo",
         "Robyn",
         "Angelista",
-        "#WWERaw",
-        "Henry",
-        "Aidan",
+        "George Floyd",
         "Mica",
-        "Ellie",
-        "Samraj",
-        "Lola"
+        "#WWERaw",
+        "Aidan",
+        "Lola",
+        "Tiafoe"
       ],
       "hashtags": [
         "#loveisland",
         "#WWERaw",
         "#RTXOn",
         "#EastEnders",
-        "#NobodysFool"
+        "#OUR_SEVEN_LIGHTS"
       ],
       "regular_topics": [
+        "Henry",
         "Lorenzo",
         "Robyn",
         "Angelista",
-        "Henry",
-        "Aidan",
+        "George Floyd",
         "Mica",
-        "Ellie",
-        "Samraj",
+        "Aidan",
         "Lola",
-        "Sean",
-        "Mandelson"
+        "Tiafoe",
+        "Digwa",
+        "Ellie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 01 2026 22:12:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 01 2026 23:03:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Pride Month",
         "Rams",
-        "#loveisland",
         "Myles Garrett",
         "#RTXOn",
-        "Lorenzo",
-        "#WWERaw",
-        "#euphoria",
         "Gally",
+        "#euphoria",
         "Lebanon",
-        "Brendan Gallagher"
+        "Brendan Gallagher",
+        "Hezbollah",
+        "Shawinigan",
+        "Verse"
       ],
       "hashtags": [
-        "#loveisland",
         "#RTXOn",
-        "#WWERaw",
         "#euphoria",
-        "#WWEClash"
+        "#loveisland",
+        "#WWEClash",
+        "#WWERaw"
       ],
       "regular_topics": [
         "Happy Pride Month",
         "Rams",
         "Myles Garrett",
-        "Lorenzo",
         "Gally",
         "Lebanon",
         "Brendan Gallagher",
-        "AJ Brown",
+        "Hezbollah",
         "Shawinigan",
         "Verse",
-        "Hezbollah"
+        "Browns",
+        "Paris"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 01 2026 22:06:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 01 2026 22:57:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RCBvsGT",
         "#IPLFinal",
@@ -149,49 +148,48 @@
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
         "Happy Pride Month",
         "Human Rights Violation",
-        "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940",
+        "AnnapurnaMuhim SantRampalJi",
         "\u0936\u0941\u092d\u092e \u0915\u0941\u092e\u093e\u0930",
         "\u0938\u0942\u0930\u094d\u092f\u093e \u091a\u094c\u0939\u093e\u0928",
-        "Anjana"
+        "\u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 01 2026 22:03:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 01 2026 22:54:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveisland",
         "Dumfries",
         "Fayose",
         "Lorenzo",
+        "Jasmine",
+        "Porro",
         "Josh Acheampong",
         "Portugal",
-        "Jasmine",
         "Babachir Lawal",
         "Angelista",
-        "AJ Brown",
-        "NURTW"
+        "Tiafoe"
       ],
       "hashtags": [
         "#loveisland",
         "#WorldMilkDay",
         "#BBNaijaReunion",
-        "#LongestBreakfastTable",
-        "#WWERaw"
+        "#DanoMilkOclock"
       ],
       "regular_topics": [
         "Dumfries",
         "Fayose",
         "Lorenzo",
+        "Jasmine",
+        "Porro",
         "Josh Acheampong",
         "Portugal",
-        "Jasmine",
         "Babachir Lawal",
         "Angelista",
-        "AJ Brown",
-        "NURTW",
-        "MC Oluomo"
+        "Tiafoe",
+        "Robyn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
