@@ -1,193 +1,196 @@
 {
-  "generated_at_utc": "2026-06-04T23:09:06.303455+00:00",
+  "generated_at_utc": "2026-06-05T01:34:16.653029+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jun 04 2026 22:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 00:24:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Larkin",
+        "Murkowski",
+        "McConnell",
+        "Billy the Kid",
         "Yzerman",
+        "TADC",
         "Karmelo",
-        "Wash",
+        "Rhyne",
+        "Kavanaugh",
         "Neves",
-        "Cardi",
-        "Bolton",
-        "$SPIN",
-        "Hunter Biden",
-        "Vitinha",
-        "TADC"
+        "Hunter Biden"
       ],
       "hashtags": [
+        "#JSFamilyVacation",
+        "#ScaryMovie",
         "#LGRW",
-        "#vibragame",
         "#HYUNJIN_GUESSJeansMelrose"
       ],
       "regular_topics": [
         "Larkin",
+        "Murkowski",
+        "McConnell",
+        "Billy the Kid",
         "Yzerman",
+        "TADC",
         "Karmelo",
-        "Wash",
+        "Rhyne",
+        "Kavanaugh",
         "Neves",
-        "Cardi",
-        "Bolton",
-        "$SPIN",
-        "Hunter Biden",
-        "Vitinha",
-        "TADC"
+        "Hunter Biden"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jun 04 2026 22:08:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 00:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bbcqt",
-        "#loveisland",
         "Ellie",
+        "Neves",
+        "#loveisland",
+        "Vitinha",
+        "Perez",
         "Aidan",
-        "Joao Neves",
-        "Ivory Coast",
-        "Kavan",
-        "Adidas",
-        "Priya",
-        "Yasmin",
-        "Nike"
+        "#THISISFOR_LONDON_D2",
+        "Doue",
+        "Rob Kenyon",
+        "Olise"
       ],
       "hashtags": [
         "#bbcqt",
         "#loveisland",
-        "#Taskmaster",
+        "#THISISFOR_LONDON_D2",
         "#questiontime",
-        "#T20Blast"
+        "#tadc",
+        "#theamazingdigitalcircus",
+        "#newsnight"
       ],
       "regular_topics": [
         "Ellie",
+        "Neves",
+        "Vitinha",
+        "Perez",
         "Aidan",
-        "Joao Neves",
-        "Ivory Coast",
-        "Kavan",
-        "Adidas",
-        "Priya",
-        "Yasmin",
-        "Nike",
+        "Doue",
         "Rob Kenyon",
-        "Fiona Bruce"
+        "Olise",
+        "Ivory Coast",
+        "Fiona Bruce",
+        "Adidas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jun 04 2026 22:54:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 00:44:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Larkin",
         "Detroit",
         "Knies",
         "Kratos",
-        "Brunson",
         "Yzerman",
-        "Knicks",
+        "Brunson",
+        "Hunter Biden",
+        "Chad Dallas",
         "God of War",
-        "#LGRW",
-        "Neves",
-        "Hunter Biden"
+        "Knicks",
+        "#loveislandusa"
       ],
       "hashtags": [
-        "#LGRW",
         "#loveislandusa",
+        "#LGRW",
         "#BBCAN",
         "#AEWDynamite",
-        "#NBAFinals"
+        "#Alouettes"
       ],
       "regular_topics": [
         "Larkin",
         "Detroit",
         "Knies",
         "Kratos",
-        "Brunson",
         "Yzerman",
-        "Knicks",
-        "God of War",
-        "Neves",
+        "Brunson",
         "Hunter Biden",
-        "Ivory Coast"
+        "Chad Dallas",
+        "God of War",
+        "Knicks",
+        "McAdoo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jun 04 2026 22:48:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 00:39:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Peddi",
         "#\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926\u0938\u0930\u0938\u094d\u0935\u0924\u0940_\u0915\u0940\u0938\u091a\u094d\u091a\u093e\u0908",
         "Visit Sa News Channel",
         "#RajeshExports",
-        "#Dhurandhar2WithTheCast",
+        "#dhurandhar2withthecast",
+        "#GodMorningFriday",
         "galaxy a57 5g",
-        "#HitTheCockroach",
-        "download the tatva app",
         "\u092e\u093e\u0932\u0935\u0940\u092f \u0928\u0917\u0930",
         "\u0938\u0924\u0940\u0936 \u092a\u0942\u0928\u093f\u092f\u093e",
+        "\u0936\u094d\u0930\u0940 \u092f\u094b\u0917\u0940 \u0906\u0926\u093f\u0924\u094d\u092f\u0928\u093e\u0925",
         "Maharishi Dayanand"
       ],
       "hashtags": [
         "#Peddi",
         "#\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926\u0938\u0930\u0938\u094d\u0935\u0924\u0940_\u0915\u0940\u0938\u091a\u094d\u091a\u093e\u0908",
         "#RajeshExports",
-        "#Dhurandhar2WithTheCast",
-        "#HitTheCockroach"
+        "#dhurandhar2withthecast",
+        "#GodMorningFriday"
       ],
       "regular_topics": [
         "Visit Sa News Channel",
         "galaxy a57 5g",
-        "download the tatva app",
         "\u092e\u093e\u0932\u0935\u0940\u092f \u0928\u0917\u0930",
         "\u0938\u0924\u0940\u0936 \u092a\u0942\u0928\u093f\u092f\u093e",
+        "\u0936\u094d\u0930\u0940 \u092f\u094b\u0917\u0940 \u0906\u0926\u093f\u0924\u094d\u092f\u0928\u093e\u0925",
         "Maharishi Dayanand",
-        "Neves",
-        "SEBI",
         "\u0905\u0932\u0915\u093e \u0917\u0941\u0930\u094d\u091c\u0930",
+        "SEBI",
         "\u0915\u094d\u0937\u093f\u0924\u093f\u091c \u092a\u0949\u0932\u0940 \u0928\u094d\u092f\u0942\u091c\u093c",
-        "Ollie Robinson"
+        "\u0935\u0948\u0937\u094d\u0923\u094b \u0926\u0947\u0935\u0940",
+        "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u092e\u094b"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jun 04 2026 22:45:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 00:36:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ivory Coast",
         "Vitinha",
+        "Ivory Coast",
         "Olise",
-        "Joao Neves",
         "Perez",
-        "Spain",
         "Iraq",
+        "Stay For The Night",
+        "Spain",
         "Nike",
-        "Amad",
         "Galactico",
-        "Sharia"
+        "Vybz Kartel",
+        "Amad Diallo"
       ],
       "hashtags": [
         "#FRACIV",
         "#loveisland"
       ],
       "regular_topics": [
-        "Ivory Coast",
         "Vitinha",
+        "Ivory Coast",
         "Olise",
-        "Joao Neves",
         "Perez",
-        "Spain",
         "Iraq",
+        "Stay For The Night",
+        "Spain",
         "Nike",
-        "Amad",
         "Galactico",
-        "Sharia"
+        "Vybz Kartel",
+        "Amad Diallo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
