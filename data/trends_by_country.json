@@ -1,195 +1,198 @@
 {
-  "generated_at_utc": "2026-06-05T18:17:59.704731+00:00",
+  "generated_at_utc": "2026-06-05T20:19:38.433200+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jun 05 2026 17:03:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 19:39:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bears",
+        "#RTXPowersPlay",
         "Giles",
-        "Hammond",
-        "Anthony Head",
-        "Buffy",
-        "Kevin Warren",
+        "#SmackDown",
+        "Soldier Field",
         "Arlington Heights",
-        "Platner",
-        "Ted Lasso",
-        "Olise",
-        "#NationalDonutDay",
-        "#FursuitFriday"
+        "Buffy",
+        "Anthony Head",
+        "Kevin Warren",
+        "Jets",
+        "Pritzker"
       ],
       "hashtags": [
-        "#NationalDonutDay",
-        "#FursuitFriday",
-        "#BetrPicks",
-        "#LastFourWatched",
-        "#ONCE_ENHA_BLUE_MOON"
+        "#RTXPowersPlay",
+        "#SmackDown",
+        "#InstructionsForEntry",
+        "#SummerGameFest",
+        "#FursuitFriday"
       ],
       "regular_topics": [
+        "Bears",
         "Giles",
-        "Hammond",
-        "Anthony Head",
-        "Buffy",
-        "Kevin Warren",
-        "Arlington Heights",
-        "Platner",
-        "Ted Lasso",
-        "Olise",
         "Soldier Field",
-        "Maine"
+        "Arlington Heights",
+        "Buffy",
+        "Anthony Head",
+        "Kevin Warren",
+        "Jets",
+        "Pritzker",
+        "Ned Jarrett",
+        "Mason Edwards"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jun 05 2026 17:30:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 19:15:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TOTP",
         "Anthony Head",
+        "#SmackDown",
         "Buffy",
         "Bayern",
+        "JD Vance",
         "Olise",
-        "Ted Lasso",
         "Martin O'Neill",
-        "Thundering On",
+        "Jon Snow",
         "Gold Blend",
-        "Merlin",
-        "Rio Ngumoha",
-        "phoebe"
+        "Chad Gable"
       ],
       "hashtags": [
-        "#thechase",
-        "#MonacoGP",
-        "#pointless",
-        "#rivals"
+        "#TOTP",
+        "#SmackDown",
+        "#Rovers",
+        "#ONCE_ENHA_BLUE_MOON",
+        "#7_STARS_FOR_OUR_MOON"
       ],
       "regular_topics": [
         "Anthony Head",
         "Buffy",
         "Bayern",
+        "JD Vance",
         "Olise",
-        "Ted Lasso",
         "Martin O'Neill",
-        "Thundering On",
+        "Jon Snow",
         "Gold Blend",
+        "Chad Gable",
         "Merlin",
-        "Rio Ngumoha",
-        "phoebe"
+        "Cliff"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jun 05 2026 17:21:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 19:58:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Larkin",
-        "Giles",
         "Knies",
-        "Buffy",
-        "Nick Suzuki",
-        "Selke",
-        "Detroit",
+        "#RTXPowersPlay",
+        "#SmackDown",
+        "Cliff Fletcher",
         "Hunter Biden",
-        "Yzerman",
-        "Lady Byng",
-        "Treliving"
+        "Treliving",
+        "Detroit",
+        "Giles",
+        "#WorldEnvironmentDay",
+        "Yzerman"
       ],
       "hashtags": [
+        "#RTXPowersPlay",
+        "#SmackDown",
         "#WorldEnvironmentDay",
         "#loveislandusa",
-        "#bucciovertimechallenge",
-        "#IKnewItIKnewYou",
-        "#CarolinaHurricanes"
+        "#IKnewItIKnewYou"
       ],
       "regular_topics": [
         "Larkin",
-        "Giles",
         "Knies",
-        "Buffy",
-        "Nick Suzuki",
-        "Selke",
-        "Detroit",
+        "Cliff Fletcher",
         "Hunter Biden",
+        "Treliving",
+        "Detroit",
+        "Giles",
         "Yzerman",
-        "Lady Byng",
-        "Treliving"
+        "Buffy",
+        "Zharovsky",
+        "Anthony Head"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jun 05 2026 18:09:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 19:54:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CoachingMafiaExposed",
-        "#ONCE_ENHA_BLUE_MOON",
         "#7_STARS_FOR_OUR_MOON",
+        "#ONCE_ENHA_BLUE_MOON",
         "#PutinOnIndiaToday",
-        "#UnmaskingMedia",
+        "Norway Chess",
+        "#SmackDown",
         "\u092a\u0935\u0928 \u0938\u093f\u0902\u0939",
-        "Al Jazeera",
         "Olise",
         "Bayern",
-        "Daman",
-        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926"
+        "Pragg",
+        "Daman"
       ],
       "hashtags": [
         "#CoachingMafiaExposed",
-        "#ONCE_ENHA_BLUE_MOON",
         "#7_STARS_FOR_OUR_MOON",
+        "#ONCE_ENHA_BLUE_MOON",
         "#PutinOnIndiaToday",
-        "#UnmaskingMedia"
+        "#SmackDown",
+        "#earthquake",
+        "#CockroachGoBack",
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
+        "Norway Chess",
         "\u092a\u0935\u0928 \u0938\u093f\u0902\u0939",
-        "Al Jazeera",
         "Olise",
         "Bayern",
+        "Pragg",
         "Daman",
-        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
-        "Sri Vijayapuram-3",
         "Anna",
-        "Nathan Smith",
-        "Oil India",
-        "Zverev"
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928 \u092a\u0930\u093f\u0937\u0926",
+        "\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0917\u0948\u0938",
+        "Search in a 2D",
+        "Oil India Limited"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jun 05 2026 18:04:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 19:51:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Olise",
-        "Bayern",
-        "Ahmed",
         "Kvee Homecoming Ep",
+        "Bayern",
+        "USA 94",
+        "France 98",
         "Uther Pendragon",
+        "Lennart Karl",
+        "Ahmed",
         "#MastersOfTheUniverseNG",
-        "Habby",
         "Rio Ngumoha",
-        "Santan",
-        "Sharia",
-        "Zverev"
+        "Habby"
       ],
       "hashtags": [
         "#MastersOfTheUniverseNG",
-        "#TheMandalorianandGroguNGA",
-        "#WorldEnvironmentDay"
+        "#TheMandalorianandGroguNGA"
       ],
       "regular_topics": [
         "Olise",
-        "Bayern",
-        "Ahmed",
         "Kvee Homecoming Ep",
+        "Bayern",
+        "USA 94",
+        "France 98",
         "Uther Pendragon",
-        "Habby",
+        "Lennart Karl",
+        "Ahmed",
         "Rio Ngumoha",
-        "Santan",
-        "Sharia",
-        "Zverev",
-        "Anthony Head"
+        "Habby",
+        "Greenwood"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
