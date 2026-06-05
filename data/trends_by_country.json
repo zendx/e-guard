@@ -1,118 +1,117 @@
 {
-  "generated_at_utc": "2026-06-05T22:54:14.584641+00:00",
+  "generated_at_utc": "2026-06-05T23:56:55.377547+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jun 05 2026 22:18:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 23:09:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tupac",
         "#SummerGameFest",
-        "Chicago",
+        "Tupac",
+        "Tifa",
         "Veronica",
+        "Chicago",
         "Geoff",
         "#RTXPowersPlay",
         "Claire",
-        "Guild Wars 3",
-        "The Last Ronin",
-        "Alien Isolation 2",
-        "Virtua Fighter"
+        "FF7 Revelation",
+        "Final Fantasy VII Revelation",
+        "Guild Wars 3"
       ],
       "hashtags": [
         "#SummerGameFest",
         "#RTXPowersPlay",
-        "#SmackDown",
-        "#BudSummerOf250"
+        "#SmackDown"
       ],
       "regular_topics": [
         "Tupac",
-        "Chicago",
+        "Tifa",
         "Veronica",
+        "Chicago",
         "Geoff",
         "Claire",
+        "FF7 Revelation",
+        "Final Fantasy VII Revelation",
         "Guild Wars 3",
-        "The Last Ronin",
-        "Alien Isolation 2",
-        "Virtua Fighter",
-        "Among Us",
-        "Snoop Dogg"
+        "Vincent",
+        "Wolf Among Us 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jun 05 2026 22:42:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 23:36:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SummerGameFest",
+        "GENO",
         "Tupac",
         "Veronica",
-        "JD Vance",
-        "Robyn",
-        "CLAIRE REDFIELD",
-        "Guild Wars 3",
         "Geoff",
+        "Vance",
+        "Tifa",
+        "CLAIRE REDFIELD",
         "Alien Isolation 2",
-        "#loveisland",
-        "#totp"
+        "Robyn",
+        "Final Fantasy VII Revelation"
       ],
       "hashtags": [
         "#SummerGameFest",
-        "#loveisland",
+        "#Fortnite",
         "#totp",
-        "#SmackDown",
-        "#Lionesses"
+        "#HIGNFY",
+        "#loveisland"
       ],
       "regular_topics": [
+        "GENO",
         "Tupac",
         "Veronica",
-        "JD Vance",
-        "Robyn",
-        "CLAIRE REDFIELD",
-        "Guild Wars 3",
         "Geoff",
+        "Vance",
+        "Tifa",
+        "CLAIRE REDFIELD",
         "Alien Isolation 2",
-        "Ellie",
-        "Mica",
-        "Snoop Dogg"
+        "Robyn",
+        "Final Fantasy VII Revelation",
+        "Stellar Blade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jun 05 2026 22:36:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 23:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tupac",
         "Larkin",
         "#SummerGameFest",
+        "Tupac",
+        "Tifa",
         "Knies",
-        "#RTXPowersPlay",
         "Geoff",
+        "GENO",
         "Veronica",
-        "Claire",
-        "Guild Wars 3",
-        "Ben Starr",
+        "#RTXPowersPlay",
+        "Hunter Biden",
         "Detroit"
       ],
       "hashtags": [
         "#SummerGameFest",
         "#RTXPowersPlay",
         "#WorldEnvironmentDay",
-        "#SmackDown",
-        "#bucciovertimechallenge"
+        "#IKnewItIKnewYou",
+        "#loveislandusa"
       ],
       "regular_topics": [
-        "Tupac",
         "Larkin",
+        "Tupac",
+        "Tifa",
         "Knies",
         "Geoff",
+        "GENO",
         "Veronica",
-        "Claire",
-        "Guild Wars 3",
-        "Ben Starr",
-        "Detroit",
         "Hunter Biden",
+        "Detroit",
+        "Final Fantasy VII Revelation",
         "Treliving"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,32 +119,32 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jun 05 2026 22:32:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 23:24:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldEnvironmentDay",
         "#HaritJanmotsavYogiJi",
-        "#indias1stbymotherdairy",
         "#multibaggerchemicalstock",
+        "#Indias1stByMotherDairy",
         "#RajeshExportsNews",
         "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
         "up green growth model",
-        "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
         "Galaxy A57",
+        "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
         "Al Jazeera",
         "Visit Sa News Channel"
       ],
       "hashtags": [
         "#WorldEnvironmentDay",
         "#HaritJanmotsavYogiJi",
-        "#indias1stbymotherdairy",
         "#multibaggerchemicalstock",
+        "#Indias1stByMotherDairy",
         "#RajeshExportsNews"
       ],
       "regular_topics": [
         "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
         "up green growth model",
-        "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
         "Galaxy A57",
+        "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
         "Al Jazeera",
         "Visit Sa News Channel",
         "infinix note edge jbl edition",
@@ -159,35 +158,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jun 05 2026 21:37:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 05 2026 23:20:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Klopp",
         "Lennart Karl",
-        "Olise",
-        "Kvee Homecoming Ep",
-        "France 98",
-        "Blessing CEO",
-        "USA 94",
-        "Bayern",
         "Argentina",
-        "Uther Pendragon",
+        "Red Bull",
+        "Assan Ouedraogo",
         "Germany",
-        "Korea"
+        "France 98",
+        "USA 94",
+        "Olise",
+        "Blessing CEO",
+        "Uther Pendragon"
       ],
       "hashtags": [
         "#furry"
       ],
       "regular_topics": [
+        "Klopp",
         "Lennart Karl",
-        "Olise",
-        "Kvee Homecoming Ep",
-        "France 98",
-        "Blessing CEO",
-        "USA 94",
-        "Bayern",
         "Argentina",
-        "Uther Pendragon",
+        "Red Bull",
+        "Assan Ouedraogo",
         "Germany",
-        "Korea"
+        "France 98",
+        "USA 94",
+        "Olise",
+        "Blessing CEO",
+        "Uther Pendragon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
