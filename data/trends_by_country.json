@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-06-06T20:37:00.828598+00:00",
+  "generated_at_utc": "2026-06-06T21:52:29.004779+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 06 2026 19:57:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:40:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#USMNT",
-        "Antonee Robinson",
-        "D-Day",
         "Mormons",
-        "Normandy",
-        "Ben Brown",
-        "Georgia",
-        "#tvlspoilers",
-        "Dawgs",
-        "Ream",
-        "Olivia Miles"
+        "D-Day",
+        "Miles Robinson",
+        "ROBERT SMITH",
+        "Andrew Painter",
+        "Jackie Young",
+        "#UFCVegas118",
+        "Jason DeCaro",
+        "Omaha",
+        "#tvlspoilers"
       ],
       "hashtags": [
         "#USMNT",
+        "#UFCVegas118",
         "#tvlspoilers",
-        "#USAGER",
-        "#HealingServiceLive",
-        "#Fight_For_Our_SevEN"
+        "#GCWToSXi",
+        "#ZuffaBoxing07"
       ],
       "regular_topics": [
-        "Antonee Robinson",
-        "D-Day",
         "Mormons",
+        "D-Day",
+        "Miles Robinson",
+        "ROBERT SMITH",
+        "Andrew Painter",
+        "Jackie Young",
+        "Jason DeCaro",
+        "Omaha",
         "Normandy",
-        "Ben Brown",
-        "Georgia",
-        "Dawgs",
-        "Ream",
-        "Olivia Miles",
-        "Press",
-        "Mississippi State"
+        "Gabby Williams",
+        "Ben Brown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,56 +82,56 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 06 2026 20:16:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:08:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Hoffman",
         "D-Day",
-        "Knicks",
         "Larkin",
+        "Knicks",
         "Ernie Clement",
-        "Melanie",
         "Juno Beach",
-        "Knies",
+        "Melanie",
         "Normandy",
+        "Knies",
         "#loveislandusa",
-        "Hunter Biden",
-        "#SummerGameFest"
+        "Hunter Biden"
       ],
       "hashtags": [
         "#loveislandusa",
         "#SummerGameFest",
+        "#BlueJays50",
         "#tvlspoilers",
-        "#RTXPowersPlay",
-        "#skstorm"
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
+        "Hoffman",
         "D-Day",
-        "Knicks",
         "Larkin",
+        "Knicks",
         "Ernie Clement",
-        "Melanie",
         "Juno Beach",
-        "Knies",
+        "Melanie",
         "Normandy",
+        "Knies",
         "Hunter Biden",
-        "Stellar Blade",
-        "Karmelo"
+        "Stellar Blade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 06 2026 20:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:03:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Fight_For_Our_SevEN",
         "#BELIFT_Lab_Boycott",
         "#SalimKumar",
         "Rs 29",
+        "Portugal",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
         "#TicketToHeavenEP2",
-        "Portugal",
-        "Leao",
         "Chile",
+        "Leao",
         "GitHub Actions",
         "Reverse Pairs"
       ],
@@ -140,58 +140,64 @@
         "#BELIFT_Lab_Boycott",
         "#SalimKumar",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#TicketToHeavenEP2"
+        "#TicketToHeavenEP2",
+        "#AdidasIndia",
+        "#GodNightSaturday",
+        "#SDESheetChallenge",
+        "#chaicode",
+        "#EPSTheHopeOfTN",
+        "#GOTCHAPOP4xLYKN"
       ],
       "regular_topics": [
         "Rs 29",
         "Portugal",
-        "Leao",
         "Chile",
+        "Leao",
         "GitHub Actions",
         "Reverse Pairs",
-        "guru randhawa",
-        "Kimi",
         "Ronaldo",
+        "GURU RANDHAWA",
+        "Kimi",
         "\u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "Majority Element-II"
+        "\u0909\u092e\u0930 \u0916\u093e\u0932\u093f\u0926"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 06 2026 20:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:00:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brighton",
         "Portugal",
         "Zadok Yohanna",
         "Rafael Leao",
-        "Deschamps",
-        "Antonee Robinson",
         "Taste Africa with Eni",
-        "Germany",
-        "#MrNelson",
-        "Guedes",
-        "Anthony Martial"
+        "Antonee Robinson",
+        "New Zealand",
+        "Peter and Paul",
+        "England",
+        "Deschamps",
+        "#MrNelson"
       ],
       "hashtags": [
         "#MrNelson",
         "#PORCHI",
         "#Hot70SoldInFreezers",
-        "#InfinixHOT70Series",
-        "#BHAFC"
+        "#BHAFC",
+        "#MakeThemLook"
       ],
       "regular_topics": [
         "Brighton",
         "Portugal",
         "Zadok Yohanna",
         "Rafael Leao",
-        "Deschamps",
-        "Antonee Robinson",
         "Taste Africa with Eni",
-        "Germany",
-        "Guedes",
-        "Anthony Martial",
+        "Antonee Robinson",
+        "New Zealand",
+        "Peter and Paul",
+        "England",
+        "Deschamps",
         "Option 3"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
