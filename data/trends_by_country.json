@@ -1,195 +1,202 @@
 {
-  "generated_at_utc": "2026-06-06T12:47:44.972942+00:00",
+  "generated_at_utc": "2026-06-06T14:22:22.813762+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 06 2026 12:09:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 13:54:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Saturday",
         "Normandy",
         "D-Day",
+        "Good Saturday",
         "Carville",
-        "THE AIR CROSSING THE LINE",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
-        "Wemby",
+        "54x P",
+        "#Caturday",
+        "Allied",
+        "54 P",
         "#TicketToHeavenEP2",
-        "BARTHTANRAK ONE STEP CLOSER",
-        "#SaturdayVibes",
-        "Allied"
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
+        "Greatest Generation"
       ],
       "hashtags": [
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
+        "#Caturday",
         "#TicketToHeavenEP2",
-        "#SaturdayVibes",
-        "#FriendlyMeBeautyxSanta",
-        "#zzzSpecialProgram"
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
+        "#GOTCHAPOP4xJASPER",
+        "#SaturdayVibes"
       ],
       "regular_topics": [
-        "Good Saturday",
         "Normandy",
         "D-Day",
+        "Good Saturday",
         "Carville",
-        "THE AIR CROSSING THE LINE",
-        "Wemby",
-        "BARTHTANRAK ONE STEP CLOSER",
+        "54x P",
         "Allied",
-        "Melanie",
-        "Caturday",
-        "Operation Overlord"
+        "54 P",
+        "Greatest Generation",
+        "THE AIR CROSSING THE LINE",
+        "Operation Overlord",
+        "BARTHTANRAK ONE STEP CLOSER"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 06 2026 11:42:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 13:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vance",
+        "Laura Pearson",
+        "Sparks Fly",
         "Sullivan",
-        "Anthony Head",
-        "Starmer",
+        "Vance",
         "D-Day",
-        "#SummerGameFest",
+        "Bob Tony",
         "Normandy",
-        "Knicks",
-        "Lammy",
-        "Farage",
-        "Buffy"
+        "#WHUFC",
+        "Epsom",
+        "Resign",
+        "#COYI"
       ],
       "hashtags": [
-        "#SummerGameFest",
+        "#WHUFC",
+        "#COYI",
+        "#bbcaq",
+        "#WestHam",
         "#Caturday",
         "#bcafc",
+        "#SaturdayKitchen",
         "#MonacoGP",
-        "#HWCafe"
+        "#HWCafe",
+        "#7_STARS_FOR_OUR_MOON",
+        "#ONCE_ENHA_BLUE_MOON"
       ],
       "regular_topics": [
-        "Vance",
+        "Laura Pearson",
+        "Sparks Fly",
         "Sullivan",
-        "Anthony Head",
-        "Starmer",
+        "Vance",
         "D-Day",
+        "Bob Tony",
         "Normandy",
-        "Knicks",
-        "Lammy",
-        "Farage",
-        "Buffy",
-        "Tupac"
+        "Epsom",
+        "Resign",
+        "Derby",
+        "Tehran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 06 2026 11:36:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 14:13:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Knicks",
         "Larkin",
         "Knies",
         "Melanie",
         "#loveislandusa",
+        "D-Day",
         "#SummerGameFest",
-        "Tupac",
-        "Brunson",
-        "Wemby",
-        "#RTXPowersPlay",
-        "Hunter Biden"
+        "Juno Beach",
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
+        "THE AIR CROSSING THE LINE",
+        "Tupac"
       ],
       "hashtags": [
         "#loveislandusa",
         "#SummerGameFest",
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484",
         "#RTXPowersPlay",
-        "#NBAFinals",
-        "#WorldEnvironmentDay"
+        "#Caturday"
       ],
       "regular_topics": [
         "Knicks",
         "Larkin",
         "Knies",
         "Melanie",
+        "D-Day",
+        "Juno Beach",
+        "THE AIR CROSSING THE LINE",
         "Tupac",
         "Brunson",
         "Wemby",
-        "Hunter Biden",
-        "Veronica",
-        "Detroit",
-        "Tifa"
+        "Hunter Biden"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 06 2026 12:22:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 13:15:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndiaRejectsCJP",
-        "#MP_RisingGlobally",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "#MP_RisingGlobally",
+        "#Anant500MFuture",
         "#CongAAPkeCockroach",
-        "#MahaRPET_Abhiyaan",
-        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "Reliance Industries",
+        "Anant Ambani",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "CBIC Corruption Postings",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "KL Rahul",
-        "Anant Ambani"
+        "Sack the Education Minister"
       ],
       "hashtags": [
         "#IndiaRejectsCJP",
-        "#MP_RisingGlobally",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#CongAAPkeCockroach",
-        "#MahaRPET_Abhiyaan"
+        "#MP_RisingGlobally",
+        "#Anant500MFuture",
+        "#CongAAPkeCockroach"
       ],
       "regular_topics": [
-        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "CBIC Corruption Postings",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "KL Rahul",
-        "Anant Ambani",
-        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
         "Reliance Industries",
+        "Anant Ambani",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "CBIC Corruption Postings",
+        "Sack the Education Minister",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "JASPER SHINE ON GOTCHAPOP4",
+        "\u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e",
         "Gen Z",
-        "Madhya Pradesh",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e"
+        "\u0905\u092e\u093f\u0924 \u092a\u094d\u0930\u0927\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 06 2026 12:20:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 14:03:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#OptasiaMonopolyEnds",
         "Germany",
+        "Evra",
+        "Army General",
         "Elon",
+        "Belgium",
+        "#RahmiKo\u00e7\u00d6z\u00fcrDile",
         "Hauwa",
-        "Ngozi",
-        "Normandy",
-        "D-Day",
-        "Okonjo Iweala",
-        "Pope",
-        "Ahab",
-        "#Kumuyiat85"
+        "#OptasiaMonopolyEnds",
+        "Tunisia",
+        "Ask Messi",
+        "Welcome to Manchester United"
       ],
       "hashtags": [
+        "#RahmiKo\u00e7\u00d6z\u00fcrDile",
         "#OptasiaMonopolyEnds",
         "#Kumuyiat85"
       ],
       "regular_topics": [
         "Germany",
+        "Evra",
+        "Army General",
         "Elon",
+        "Belgium",
         "Hauwa",
+        "Tunisia",
+        "Ask Messi",
+        "Welcome to Manchester United",
         "Ngozi",
-        "Normandy",
-        "D-Day",
-        "Okonjo Iweala",
-        "Pope",
-        "Ahab",
-        "Jezebel",
-        "Melanie"
+        "D-Day"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
