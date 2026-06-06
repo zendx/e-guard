@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-06-06T16:54:55.630407+00:00",
+  "generated_at_utc": "2026-06-06T17:58:10.152832+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 06 2026 15:37:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 16:31:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Normandy",
         "D-Day",
+        "Normandy",
         "Kimi",
-        "#MonacoGP",
         "Mirra Andreeva",
+        "#MonacoGP",
         "Good Saturday",
-        "Allied",
-        "Carville",
-        "#Caturday",
         "#TicketToHeavenEP2",
-        "Greatest Generation"
+        "Allied",
+        "#Caturday",
+        "Carville",
+        "Omaha Beach"
       ],
       "hashtags": [
         "#MonacoGP",
-        "#Caturday",
         "#TicketToHeavenEP2",
+        "#Caturday",
         "#SaturdayVibes",
         "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484"
       ],
       "regular_topics": [
-        "Normandy",
         "D-Day",
+        "Normandy",
         "Kimi",
         "Mirra Andreeva",
         "Good Saturday",
         "Allied",
         "Carville",
-        "Greatest Generation",
         "Omaha Beach",
-        "Samsung and SK Hynix",
-        "Maja"
+        "Karmelo",
+        "BARTHTANRAK ONE STEP CLOSER",
+        "The Greatest Generation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 06 2026 16:04:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 16:56:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Christmas Day",
         "Antonelli",
@@ -52,10 +52,10 @@
         "Benvenuto Cellini",
         "Russell",
         "Lewis",
-        "Laura Pearson",
+        "#NSL2026",
+        "Transformed",
         "Verstappen",
-        "Leclerc",
-        "Mirra"
+        "Vance"
       ],
       "hashtags": [
         "#MonacoGP",
@@ -71,108 +71,108 @@
         "Benvenuto Cellini",
         "Russell",
         "Lewis",
-        "Laura Pearson",
+        "Transformed",
         "Verstappen",
-        "Leclerc",
-        "Mirra",
-        "Vance"
+        "Vance",
+        "Sullivan",
+        "Mirra"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 06 2026 16:00:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 17:42:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Knicks",
-        "D-Day",
         "Larkin",
-        "Knies",
-        "Kimi",
+        "D-Day",
         "Melanie",
+        "Knies",
         "#loveislandusa",
         "#SummerGameFest",
         "Juno Beach",
-        "Tupac",
-        "Hunter Biden"
+        "Normandy",
+        "Hunter Biden",
+        "Schaefer"
       ],
       "hashtags": [
         "#loveislandusa",
         "#SummerGameFest",
-        "#MonacoGP",
         "#RTXPowersPlay",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e484"
+        "#Caturday",
+        "#NBAFinals"
       ],
       "regular_topics": [
         "Knicks",
-        "D-Day",
         "Larkin",
-        "Knies",
-        "Kimi",
+        "D-Day",
         "Melanie",
+        "Knies",
         "Juno Beach",
-        "Tupac",
+        "Normandy",
         "Hunter Biden",
-        "Wemby",
-        "Brunson"
+        "Schaefer",
+        "Chanel",
+        "Tupac"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 06 2026 15:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 16:44:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AdidasIndia",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "#Fight_For_Our_SevEN",
+        "#BELIFT_Lab_Boycott",
         "#GodNightSaturday",
-        "#DacoitOnPrime",
-        "#IndiaRejectsCJP",
         "Kimi",
         "Mirra Andreeva",
-        "Reliance Industries",
+        "guru randhawa",
         "\u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "GURU RANDHAWA",
-        "Anant Ambani"
+        "Reliance Industries",
+        "LYKN POP GOTCHA4"
       ],
       "hashtags": [
         "#AdidasIndia",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#GodNightSaturday",
-        "#DacoitOnPrime",
-        "#IndiaRejectsCJP"
+        "#Fight_For_Our_SevEN",
+        "#BELIFT_Lab_Boycott",
+        "#GodNightSaturday"
       ],
       "regular_topics": [
         "Kimi",
         "Mirra Andreeva",
-        "Reliance Industries",
+        "guru randhawa",
         "\u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "GURU RANDHAWA",
-        "Anant Ambani",
+        "Reliance Industries",
         "LYKN POP GOTCHA4",
+        "Monaco",
+        "\u092a\u0947\u091f\u094d\u0930\u094b\u0932\u093f\u092f\u092e \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Anant Ambani",
         "Women in Blue",
-        "JASPER SHINE ON GOTCHAPOP4",
-        "Men's U18 Asia Cup 2026",
-        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940"
+        "Men's U18 Asia Cup 2026"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 06 2026 16:40:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 17:32:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Hot70SoldInFreezers",
         "#MakeThemLook",
         "#StopAkanbiMediaTrial",
-        "Tunisia",
         "#InfinixHOT70Series",
+        "Tunisia",
+        "Chile",
         "Belgium",
         "#WemaxFashionSoukLagos",
         "Evra",
-        "Mirra",
-        "Kimi",
-        "Maja"
+        "Senesi",
+        "Mirra"
       ],
       "hashtags": [
         "#Hot70SoldInFreezers",
@@ -183,16 +183,16 @@
       ],
       "regular_topics": [
         "Tunisia",
+        "Chile",
         "Belgium",
         "Evra",
+        "Senesi",
         "Mirra",
-        "Kimi",
-        "Maja",
-        "Kevin De Bruyne",
-        "Germany",
-        "Grand Slam",
+        "EF Moon",
         "Colonialism",
-        "Rabe Abubakar"
+        "Kimi",
+        "Emmanuel Mbemba",
+        "EA Sports"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
