@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-06T21:52:29.004779+00:00",
+  "generated_at_utc": "2026-06-06T22:52:02.345803+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,162 +43,155 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 06 2026 20:24:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 22:06:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ENGNZL",
-        "#England",
         "Lee Dixon",
-        "Watkins",
-        "Henderson",
+        "#England",
         "Spence",
-        "Denby",
-        "Bellamy",
-        "#tvlspoilers",
-        "Chev Clarke",
-        "Kane"
+        "Bolivia",
+        "Tuchel",
+        "Rio Ngumoha",
+        "Harry Kane",
+        "Rozicki",
+        "Haiti",
+        "Henderson"
       ],
       "hashtags": [
         "#ENGNZL",
         "#England",
-        "#tvlspoilers",
-        "#soundsofthe80s",
-        "#ThreeLions"
+        "#BOLSCO",
+        "#ThreeLions",
+        "#WorldCup"
       ],
       "regular_topics": [
         "Lee Dixon",
-        "Watkins",
-        "Henderson",
         "Spence",
-        "Denby",
-        "Bellamy",
-        "Chev Clarke",
-        "Kane",
-        "Quansah",
         "Bolivia",
-        "Antonee Robinson"
+        "Tuchel",
+        "Rio Ngumoha",
+        "Harry Kane",
+        "Rozicki",
+        "Haiti",
+        "Henderson",
+        "Ivan Toney",
+        "ROBERT SMITH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 06 2026 21:08:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 22:00:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Ernie Clement",
         "Hoffman",
         "D-Day",
         "Larkin",
         "Knicks",
-        "Ernie Clement",
+        "Normandy",
         "Juno Beach",
         "Melanie",
-        "Normandy",
+        "#BlueJays50",
         "Knies",
-        "#loveislandusa",
-        "Hunter Biden"
+        "Valenzuela"
       ],
       "hashtags": [
+        "#BlueJays50",
         "#loveislandusa",
         "#SummerGameFest",
-        "#BlueJays50",
-        "#tvlspoilers",
-        "#RTXPowersPlay"
+        "#RTXPowersPlay",
+        "#tvlspoilers"
       ],
       "regular_topics": [
+        "Ernie Clement",
         "Hoffman",
         "D-Day",
         "Larkin",
         "Knicks",
-        "Ernie Clement",
+        "Normandy",
         "Juno Beach",
         "Melanie",
-        "Normandy",
         "Knies",
-        "Hunter Biden",
-        "Stellar Blade"
+        "Valenzuela",
+        "Hunter Biden"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 06 2026 21:03:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Fight_For_Our_SevEN",
-        "#BELIFT_Lab_Boycott",
-        "#SalimKumar",
-        "Rs 29",
-        "Portugal",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#TicketToHeavenEP2",
-        "Chile",
-        "Leao",
-        "GitHub Actions",
-        "Reverse Pairs"
+        "#MahaRPET_Abhiyaan",
+        "#YouthForViksitBharat",
+        "#CongAAPkeCockroach",
+        "Jantar Mantar",
+        "#CBIC_Corruption_Saga",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "cbic corruption postings",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Shreyas Iyer",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938"
       ],
       "hashtags": [
-        "#Fight_For_Our_SevEN",
-        "#BELIFT_Lab_Boycott",
-        "#SalimKumar",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#TicketToHeavenEP2",
-        "#AdidasIndia",
-        "#GodNightSaturday",
-        "#SDESheetChallenge",
-        "#chaicode",
-        "#EPSTheHopeOfTN",
-        "#GOTCHAPOP4xLYKN"
+        "#MahaRPET_Abhiyaan",
+        "#YouthForViksitBharat",
+        "#CongAAPkeCockroach",
+        "#CBIC_Corruption_Saga"
       ],
       "regular_topics": [
-        "Rs 29",
-        "Portugal",
-        "Chile",
-        "Leao",
-        "GitHub Actions",
-        "Reverse Pairs",
-        "Ronaldo",
-        "GURU RANDHAWA",
-        "Kimi",
-        "\u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "\u0909\u092e\u0930 \u0916\u093e\u0932\u093f\u0926"
+        "Jantar Mantar",
+        "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "cbic corruption postings",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Shreyas Iyer",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "abhay shrivastav",
+        "\u091b\u0924\u094d\u0930\u092a\u0924\u093f \u0936\u093f\u0935\u093e\u091c\u0940 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
+        "galaxy a57",
+        "agt-2026"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 06 2026 21:00:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 06 2026 21:51:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brighton",
         "Portugal",
         "Zadok Yohanna",
+        "England",
+        "Peter and Paul",
+        "New Zealand",
         "Rafael Leao",
         "Taste Africa with Eni",
         "Antonee Robinson",
-        "New Zealand",
-        "Peter and Paul",
-        "England",
-        "Deschamps",
+        "Option 3",
         "#MrNelson"
       ],
       "hashtags": [
         "#MrNelson",
         "#PORCHI",
-        "#Hot70SoldInFreezers",
         "#BHAFC",
-        "#MakeThemLook"
+        "#bloodsisters2"
       ],
       "regular_topics": [
         "Brighton",
         "Portugal",
         "Zadok Yohanna",
+        "England",
+        "Peter and Paul",
+        "New Zealand",
         "Rafael Leao",
         "Taste Africa with Eni",
         "Antonee Robinson",
-        "New Zealand",
-        "Peter and Paul",
-        "England",
-        "Deschamps",
-        "Option 3"
+        "Option 3",
+        "Martial"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
