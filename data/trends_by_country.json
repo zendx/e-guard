@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-07T22:52:56.569629+00:00",
+  "generated_at_utc": "2026-06-07T23:55:05.265646+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,50 +42,49 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 22:15:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 23:06:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Aidan",
         "Xbox",
         "#loveislandaftersun",
-        "Christian Eriksen",
-        "Robyn",
-        "Nunez",
         "#TipToe",
         "Beirut",
+        "Nunez",
+        "Christian Eriksen",
         "Spyro",
-        "Yasmin",
-        "Kavan"
+        "Robyn",
+        "Hugh Laurie",
+        "Yasmin"
       ],
       "hashtags": [
         "#loveislandaftersun",
         "#TipToe",
-        "#MARNOR",
-        "#wildflowerhour",
-        "#whowantstobeamillionaire"
+        "#whowantstobeamillionaire",
+        "#wildflowerhour"
       ],
       "regular_topics": [
         "Aidan",
         "Xbox",
-        "Christian Eriksen",
-        "Robyn",
-        "Nunez",
         "Beirut",
+        "Nunez",
+        "Christian Eriksen",
         "Spyro",
+        "Robyn",
+        "Hugh Laurie",
         "Yasmin",
-        "Kavan",
         "Morocco",
-        "Hugh Laurie"
+        "Kavan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 22:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 23:00:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xbox",
         "Harvey",
-        "Israel",
+        "Iran",
         "Marner",
         "#MonacoGP",
         "Persona 6",
@@ -93,7 +92,7 @@
         "Trump",
         "Bibi",
         "Spyro",
-        "Brandon Valenzuela"
+        "Zverev"
       ],
       "hashtags": [
         "#MonacoGP",
@@ -104,97 +103,90 @@
       "regular_topics": [
         "Xbox",
         "Harvey",
-        "Israel",
+        "Iran",
         "Marner",
         "Persona 6",
         "D-Day",
         "Trump",
         "Bibi",
         "Spyro",
-        "Brandon Valenzuela",
-        "Zverev"
+        "Zverev",
+        "ariana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 22:03:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 22:54:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
-        "Zverev",
-        "#SEVEN_IS_THE_PROMISE",
-        "#FATE_BROUGHT_US_7",
         "Farmers Savior SantRampalJi",
-        "#RolandGarros",
-        "Beirut",
-        "Eriksen",
+        "#RajeshExportsTruthOnBBC",
+        "#maharpetabhiyaan_26",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Grand Slam",
-        "Sascha"
+        "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "Israel",
+        "#paisavasoolhjtihh",
+        "Zverev",
+        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
+        "Jantar Mantar"
       ],
       "hashtags": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
-        "#SEVEN_IS_THE_PROMISE",
-        "#FATE_BROUGHT_US_7",
-        "#RolandGarros",
-        "#COKO_FESTA_WEEK",
-        "#AAPKaDoglapan",
-        "#FrenchOpen",
-        "#MonacoGP",
-        "#corsairdev",
-        "#chaicode",
-        "#earthquake"
+        "#RajeshExportsTruthOnBBC",
+        "#maharpetabhiyaan_26",
+        "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "#paisavasoolhjtihh"
       ],
       "regular_topics": [
-        "Zverev",
         "Farmers Savior SantRampalJi",
-        "Beirut",
-        "Eriksen",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Grand Slam",
-        "Sascha",
-        "Haifa",
-        "Xbox",
-        "Cobolli",
-        "MacBook Giveaway Hackathon"
+        "Israel",
+        "Zverev",
+        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
+        "Jantar Mantar",
+        "cbic corruption postings",
+        "\u0916\u093e\u0926\u094d\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e",
+        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
+        "Manav Suthar",
+        "evidence matters"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 21:57:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 23:42:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Christian Eriksen",
         "Israel",
-        "Denmark",
-        "Tomorrow is Monday",
-        "Nunez",
+        "Christian Eriksen",
         "Monaco",
-        "Robin van Persie",
-        "Feyenoord",
-        "Morocco",
-        "Nemesis",
-        "Dorgu"
+        "Tomorrow is Monday",
+        "Florentino P\u00e9rez",
+        "Mr P",
+        "Nunez",
+        "Netanyahu",
+        "Denmark",
+        "The Special One",
+        "Madridistas"
       ],
       "hashtags": [
-        "#ThelmasInnerCircle",
         "#Per\u00fa",
         "#femboy"
       ],
       "regular_topics": [
-        "Christian Eriksen",
         "Israel",
-        "Denmark",
-        "Tomorrow is Monday",
-        "Nunez",
+        "Christian Eriksen",
         "Monaco",
-        "Robin van Persie",
-        "Feyenoord",
-        "Morocco",
-        "Nemesis",
-        "Dorgu"
+        "Tomorrow is Monday",
+        "Florentino P\u00e9rez",
+        "Mr P",
+        "Nunez",
+        "Netanyahu",
+        "Denmark",
+        "The Special One",
+        "Madridistas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
