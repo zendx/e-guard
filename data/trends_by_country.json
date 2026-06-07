@@ -1,197 +1,197 @@
 {
-  "generated_at_utc": "2026-06-07T17:56:37.459822+00:00",
+  "generated_at_utc": "2026-06-07T19:07:35.221837+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 07 2026 16:39:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 18:21:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Persona 6",
+        "Xbox",
+        "Stacey King",
         "Welker",
-        "Meet the Press",
-        "#MonacoGP",
-        "Lewis",
         "Zverev",
-        "Merry Christmas",
-        "Kimi",
-        "Good Sunday",
-        "Cobolli",
-        "Charles",
-        "#SeductiveSunday"
+        "Crazy Taxi",
+        "Spyro",
+        "Bulls",
+        "Gears",
+        "Meet the Press",
+        "Clockwork Revolution"
       ],
       "hashtags": [
-        "#MonacoGP",
+        "#RolandGarros",
+        "#RTXPowersPlays",
+        "#SEVEN_IS_THE_PROMISE",
         "#SeductiveSunday",
-        "#XBOXShowcase",
-        "#SundayVibes",
-        "#Formula1"
+        "#FrenchOpen"
       ],
       "regular_topics": [
+        "Persona 6",
+        "Xbox",
+        "Stacey King",
         "Welker",
-        "Meet the Press",
-        "Lewis",
         "Zverev",
-        "Merry Christmas",
-        "Kimi",
-        "Good Sunday",
-        "Cobolli",
-        "Charles",
-        "Sunday Funday",
-        "Ryan Hampton"
+        "Crazy Taxi",
+        "Spyro",
+        "Bulls",
+        "Gears",
+        "Meet the Press",
+        "Clockwork Revolution"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 17:03:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 17:54:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MonacoGP",
-        "Lewis",
         "Zverev",
-        "Kimi",
-        "Lammy",
+        "#MonacoGP",
+        "#RolandGarros",
+        "Xbox",
+        "Lewis",
         "Cobolli",
-        "Russell",
-        "Leclerc",
-        "Hadjar",
-        "Trevor Phillips",
-        "Ferrari"
+        "Crazy Taxi",
+        "Lammy",
+        "Gears",
+        "Kimi",
+        "Persona 4 Revival"
       ],
       "hashtags": [
         "#MonacoGP",
-        "#XBOXShowcase",
-        "#SkyF1",
-        "#Formula1",
-        "#BTCC"
+        "#RolandGarros",
+        "#GhastlyGrub",
+        "#FrenchOpen",
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
-        "Lewis",
         "Zverev",
-        "Kimi",
-        "Lammy",
+        "Xbox",
+        "Lewis",
         "Cobolli",
-        "Russell",
-        "Leclerc",
-        "Hadjar",
-        "Trevor Phillips",
-        "Ferrari",
-        "Lando"
+        "Crazy Taxi",
+        "Lammy",
+        "Gears",
+        "Kimi",
+        "Persona 4 Revival",
+        "Fable",
+        "Russell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 17:49:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 18:40:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Harvey",
+        "Xbox",
+        "Persona 6",
         "Zverev",
         "Marner",
-        "#XBOXShowcase",
         "#MonacoGP",
         "D-Day",
         "Crazy Taxi",
         "Welker",
-        "Bussi",
-        "Cobolli",
-        "ariana"
+        "Spyro",
+        "Bussi"
       ],
       "hashtags": [
-        "#XBOXShowcase",
         "#MonacoGP",
+        "#RolandGarros",
         "#skstorm",
         "#StanleyCup",
-        "#UFCVegas118"
+        "#RTXPowersPlays"
       ],
       "regular_topics": [
         "Harvey",
+        "Xbox",
+        "Persona 6",
         "Zverev",
         "Marner",
         "D-Day",
         "Crazy Taxi",
         "Welker",
+        "Spyro",
         "Bussi",
-        "Cobolli",
-        "ariana",
-        "Crown Coins",
-        "Lewis"
+        "ariana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 17:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 18:36:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
         "Farmers Savior SantRampalJi",
+        "Zverev",
+        "#RolandGarros",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "#AAPKaDoglapan",
         "#SEVEN_IS_THE_PROMISE",
         "#FATE_BROUGHT_US_7",
-        "Zverev",
-        "MacBook Giveaway Hackathon",
-        "Builder Mode On",
-        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
-        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930"
+        "Grand Slam",
+        "#AAPKaDoglapan",
+        "Sascha",
+        "Cobolli"
       ],
       "hashtags": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
-        "#AAPKaDoglapan",
+        "#RolandGarros",
         "#SEVEN_IS_THE_PROMISE",
         "#FATE_BROUGHT_US_7",
-        "#RajeshExportsTruthOnBBC"
+        "#AAPKaDoglapan"
       ],
       "regular_topics": [
         "Farmers Savior SantRampalJi",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Zverev",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Grand Slam",
+        "Sascha",
+        "Cobolli",
         "MacBook Giveaway Hackathon",
         "Builder Mode On",
-        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
         "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
-        "Cobolli",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
-        "\u0938\u091a\u093f\u0928 \u092a\u093e\u092f\u0932\u091f",
-        "Lewis"
+        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 17:40:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 18:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zverev",
+        "Christian Eriksen",
         "Wesley",
-        "Patrick Dorgu",
-        "Cobolli",
-        "#ThelmasInnerCircle",
-        "#WemaXFashionsouk2026",
-        "\u00c9derson",
+        "Dorgu",
         "Denmark",
-        "The Manchester United",
+        "#ThelmasInnerCircle",
         "#RolandGarros",
-        "The United"
+        "Cobolli",
+        "Sascha",
+        "Grand Slam",
+        "\u00c9derson"
       ],
       "hashtags": [
         "#ThelmasInnerCircle",
-        "#WemaXFashionsouk2026",
         "#RolandGarros",
+        "#WemaXFashionsouk2026",
         "#IroandBubaFashionFrenzy"
       ],
       "regular_topics": [
         "Zverev",
+        "Christian Eriksen",
         "Wesley",
-        "Patrick Dorgu",
-        "Cobolli",
-        "\u00c9derson",
+        "Dorgu",
         "Denmark",
+        "Cobolli",
+        "Sascha",
+        "Grand Slam",
+        "\u00c9derson",
         "The Manchester United",
-        "The United",
-        "Lewis",
-        "Tomorrow is Monday",
-        "Young John"
+        "Perez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
