@@ -1,197 +1,196 @@
 {
-  "generated_at_utc": "2026-06-07T19:07:35.221837+00:00",
+  "generated_at_utc": "2026-06-07T20:41:08.603182+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 07 2026 18:21:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 19:12:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Persona 6",
         "Xbox",
+        "Persona 6",
+        "Spyro",
         "Stacey King",
         "Welker",
-        "Zverev",
-        "Crazy Taxi",
-        "Spyro",
-        "Bulls",
         "Gears",
-        "Meet the Press",
-        "Clockwork Revolution"
+        "Crazy Taxi",
+        "Zverev",
+        "Bulls",
+        "PlayStation",
+        "Meet the Press"
       ],
       "hashtags": [
         "#RolandGarros",
-        "#RTXPowersPlays",
-        "#SEVEN_IS_THE_PROMISE",
-        "#SeductiveSunday",
-        "#FrenchOpen"
+        "#RTXPowersPlay",
+        "#BetrPicks"
       ],
       "regular_topics": [
-        "Persona 6",
         "Xbox",
+        "Persona 6",
+        "Spyro",
         "Stacey King",
         "Welker",
-        "Zverev",
-        "Crazy Taxi",
-        "Spyro",
-        "Bulls",
         "Gears",
-        "Meet the Press",
-        "Clockwork Revolution"
+        "Crazy Taxi",
+        "Zverev",
+        "Bulls",
+        "PlayStation",
+        "Meet the Press"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 17:54:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 19:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zverev",
-        "#MonacoGP",
-        "#RolandGarros",
+        "Christian Eriksen",
         "Xbox",
-        "Lewis",
-        "Cobolli",
-        "Crazy Taxi",
-        "Lammy",
+        "Persona 6",
+        "Spyro",
+        "Zverev",
         "Gears",
-        "Kimi",
-        "Persona 4 Revival"
+        "#wildflowerhour",
+        "Crazy Taxi",
+        "Morocco",
+        "Nunez",
+        "Clockwork Revolution"
       ],
       "hashtags": [
-        "#MonacoGP",
+        "#wildflowerhour",
+        "#sts70s",
         "#RolandGarros",
-        "#GhastlyGrub",
-        "#FrenchOpen",
-        "#RTXPowersPlay"
+        "#TigerIsland",
+        "#GhastlyGrub"
       ],
       "regular_topics": [
-        "Zverev",
+        "Christian Eriksen",
         "Xbox",
-        "Lewis",
-        "Cobolli",
-        "Crazy Taxi",
-        "Lammy",
+        "Persona 6",
+        "Spyro",
+        "Zverev",
         "Gears",
-        "Kimi",
-        "Persona 4 Revival",
-        "Fable",
-        "Russell"
+        "Crazy Taxi",
+        "Morocco",
+        "Nunez",
+        "Clockwork Revolution",
+        "Fable"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 18:40:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 19:32:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Harvey",
         "Xbox",
+        "Harvey",
         "Persona 6",
-        "Zverev",
         "Marner",
-        "#MonacoGP",
-        "D-Day",
-        "Crazy Taxi",
-        "Welker",
         "Spyro",
-        "Bussi"
+        "#MonacoGP",
+        "Zverev",
+        "Crazy Taxi",
+        "D-Day",
+        "Gausman",
+        "Halo"
       ],
       "hashtags": [
         "#MonacoGP",
-        "#RolandGarros",
         "#skstorm",
         "#StanleyCup",
-        "#RTXPowersPlays"
+        "#RTXPowersPlays",
+        "#bucciovertimechallenge"
       ],
       "regular_topics": [
-        "Harvey",
         "Xbox",
+        "Harvey",
         "Persona 6",
-        "Zverev",
         "Marner",
-        "D-Day",
-        "Crazy Taxi",
-        "Welker",
         "Spyro",
-        "Bussi",
-        "ariana"
+        "Zverev",
+        "Crazy Taxi",
+        "D-Day",
+        "Gausman",
+        "Halo",
+        "Welker"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 18:36:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 20:18:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
-        "Farmers Savior SantRampalJi",
         "Zverev",
-        "#RolandGarros",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Farmers Savior SantRampalJi",
         "#SEVEN_IS_THE_PROMISE",
+        "#RolandGarros",
         "#FATE_BROUGHT_US_7",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Eriksen",
         "Grand Slam",
-        "#AAPKaDoglapan",
         "Sascha",
-        "Cobolli"
+        "#AAPKaDoglapan"
       ],
       "hashtags": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
-        "#RolandGarros",
         "#SEVEN_IS_THE_PROMISE",
+        "#RolandGarros",
         "#FATE_BROUGHT_US_7",
         "#AAPKaDoglapan"
       ],
       "regular_topics": [
-        "Farmers Savior SantRampalJi",
         "Zverev",
+        "Farmers Savior SantRampalJi",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Eriksen",
         "Grand Slam",
         "Sascha",
-        "Cobolli",
+        "Haifa",
         "MacBook Giveaway Hackathon",
         "Builder Mode On",
-        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
-        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930"
+        "Beirut",
+        "Cobolli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 18:32:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 20:16:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zverev",
         "Christian Eriksen",
-        "Wesley",
-        "Dorgu",
         "Denmark",
+        "Zverev",
+        "Dorgu",
+        "Wesley",
+        "Tomorrow is Monday",
         "#ThelmasInnerCircle",
-        "#RolandGarros",
-        "Cobolli",
-        "Sascha",
-        "Grand Slam",
-        "\u00c9derson"
+        "Nemesis",
+        "Gistlover",
+        "Corbin",
+        "Robin van Persie"
       ],
       "hashtags": [
         "#ThelmasInnerCircle",
         "#RolandGarros",
         "#WemaXFashionsouk2026",
-        "#IroandBubaFashionFrenzy"
+        "#IroandBubaFashionFrenzy",
+        "#FIFAWorldCup"
       ],
       "regular_topics": [
-        "Zverev",
         "Christian Eriksen",
-        "Wesley",
-        "Dorgu",
         "Denmark",
-        "Cobolli",
-        "Sascha",
-        "Grand Slam",
-        "\u00c9derson",
-        "The Manchester United",
-        "Perez"
+        "Zverev",
+        "Dorgu",
+        "Wesley",
+        "Tomorrow is Monday",
+        "Nemesis",
+        "Gistlover",
+        "Corbin",
+        "Robin van Persie",
+        "Monaco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
