@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-06-06T23:53:55.176169+00:00",
+  "generated_at_utc": "2026-06-07T02:08:19.448683+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 06 2026 22:32:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 01:08:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Golden Tempo",
         "#UFCVegas118",
+        "#AEWCollision",
+        "Bryce Mitchell",
         "Mormons",
         "Omaha",
-        "#USMNT",
-        "D-Day",
-        "#GCWToSXi",
-        "ROBERT SMITH",
+        "Moby",
+        "Preakness",
         "Whataburger",
-        "Miles Robinson",
-        "#tvlspoilers",
-        "Brito"
+        "#Svengoolie",
+        "#LAMH"
       ],
       "hashtags": [
         "#UFCVegas118",
-        "#USMNT",
-        "#GCWToSXi",
-        "#tvlspoilers",
-        "#MLWFusion"
+        "#AEWCollision",
+        "#Svengoolie",
+        "#LAMH",
+        "#BelmontStakes2026"
       ],
       "regular_topics": [
+        "Golden Tempo",
+        "Bryce Mitchell",
         "Mormons",
         "Omaha",
-        "D-Day",
-        "ROBERT SMITH",
+        "Moby",
+        "Preakness",
         "Whataburger",
-        "Miles Robinson",
-        "Brito",
-        "Andrew Painter",
-        "Jackie Young",
-        "Normandy",
-        "Jason DeCaro"
+        "Shane Taylor",
+        "D-Day",
+        "Toledo",
+        "Triple Crown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 06 2026 22:57:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 00:40:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ENGNZL",
         "Lee Dixon",
-        "#England",
         "World Cup",
+        "#UFCVegas118",
+        "#England",
+        "New Zealand",
         "Spence",
-        "Tuchel",
-        "Bolivia",
-        "Rio Ngumoha",
         "Brazil",
-        "Harry Kane",
-        "Haiti"
+        "Tuchel",
+        "#AEWCollision",
+        "Bolivia"
       ],
       "hashtags": [
         "#ENGNZL",
-        "#England",
-        "#ThreeLions",
         "#UFCVegas118",
-        "#BOLSCO"
+        "#England",
+        "#AEWCollision",
+        "#tvlspoilers"
       ],
       "regular_topics": [
         "Lee Dixon",
         "World Cup",
+        "New Zealand",
         "Spence",
+        "Brazil",
         "Tuchel",
         "Bolivia",
         "Rio Ngumoha",
-        "Brazil",
-        "Harry Kane",
+        "Kane",
         "Haiti",
-        "Ivan Toney",
         "Rozicki"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,115 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 06 2026 23:44:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 01:28:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "D-Day",
-        "Ernie Clement",
         "Larkin",
+        "#UFCVegas118",
         "Normandy",
-        "Knicks",
-        "Golden Tempo",
-        "Hoffman",
         "Juno Beach",
-        "Melanie",
-        "#BelmontStakes2026",
-        "#UFCVegas118"
+        "#skstorm",
+        "Knicks",
+        "Bryce Mitchell",
+        "Brayden McNabb",
+        "#StanleyCup",
+        "Melanie"
       ],
       "hashtags": [
-        "#BelmontStakes2026",
         "#UFCVegas118",
         "#skstorm",
-        "#loveislandusa",
-        "#SummerGameFest"
+        "#StanleyCup",
+        "#AEWCollision",
+        "#loveislandusa"
       ],
       "regular_topics": [
         "D-Day",
-        "Ernie Clement",
         "Larkin",
         "Normandy",
-        "Knicks",
-        "Golden Tempo",
-        "Hoffman",
         "Juno Beach",
+        "Knicks",
+        "Bryce Mitchell",
+        "Brayden McNabb",
         "Melanie",
-        "Brito",
-        "Knies"
+        "Rankin",
+        "Hunter Biden",
+        "Lampman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 06 2026 23:39:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 01:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#GodMorningSunday",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "#MahaRPET_Abhiyaan",
         "#CongAAPkeCockroach",
         "#YouthForViksitBharat",
         "Jantar Mantar",
-        "#IndiaRejectsCJP",
         "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "cbic corruption postings",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Shreyas Iyer"
+        "\u0916\u093e\u0926\u094d\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e"
       ],
       "hashtags": [
+        "#GodMorningSunday",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
         "#MahaRPET_Abhiyaan",
         "#CongAAPkeCockroach",
-        "#YouthForViksitBharat",
-        "#IndiaRejectsCJP"
+        "#YouthForViksitBharat"
       ],
       "regular_topics": [
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Jantar Mantar",
         "\u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "cbic corruption postings",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "\u0916\u093e\u0926\u094d\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e",
         "Shreyas Iyer",
         "abhay shrivastav",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "\u091b\u0924\u094d\u0930\u092a\u0924\u093f \u0936\u093f\u0935\u093e\u091c\u0940 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
-        "galaxy a57"
+        "Rs 29",
+        "\u0938\u0942\u0930\u094d\u092f \u092d\u0917\u0935\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 06 2026 23:36:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 01:18:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Brighton",
-        "England",
-        "Zadok Yohanna",
         "Portugal",
-        "Brazil",
-        "Sassuolo",
-        "Chile",
-        "Igor Thiago",
-        "Peter and Paul",
-        "Harry Kane",
-        "Aquilani"
+        "Ronaldo",
+        "World Cup",
+        "Sharia",
+        "Germany",
+        "Olise",
+        "Messi",
+        "Zadok Yohanna",
+        "Brighton",
+        "Argentina",
+        "England"
       ],
       "hashtags": [
-        "#BHAFC",
-        "#bloodsisters2",
-        "#Hot70SoldInFreezers"
+        "#optasiamonopolyends",
+        "#wemaxfashionsouklagos",
+        "#loveislandusa",
+        "#Hot70SoldInFreezers",
+        "#stopakanbimediatrial"
       ],
       "regular_topics": [
-        "Brighton",
-        "England",
-        "Zadok Yohanna",
         "Portugal",
-        "Brazil",
-        "Sassuolo",
-        "Chile",
-        "Igor Thiago",
-        "Peter and Paul",
-        "Harry Kane",
-        "Aquilani"
+        "Ronaldo",
+        "World Cup",
+        "Sharia",
+        "Germany",
+        "Olise",
+        "Messi",
+        "Zadok Yohanna",
+        "Brighton",
+        "Argentina",
+        "England"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
