@@ -1,105 +1,103 @@
 {
-  "generated_at_utc": "2026-06-07T20:41:08.603182+00:00",
+  "generated_at_utc": "2026-06-07T21:55:53.558565+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 07 2026 19:12:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 20:56:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xbox",
         "Persona 6",
         "Spyro",
-        "Stacey King",
         "Welker",
-        "Gears",
+        "Stacey King",
         "Crazy Taxi",
-        "Zverev",
-        "Bulls",
-        "PlayStation",
-        "Meet the Press"
+        "Gears",
+        "Munoz",
+        "Beirut",
+        "Volpe",
+        "PlayStation"
       ],
       "hashtags": [
-        "#RolandGarros",
-        "#RTXPowersPlay",
-        "#BetrPicks"
+        "#crrpbeachweek"
       ],
       "regular_topics": [
         "Xbox",
         "Persona 6",
         "Spyro",
-        "Stacey King",
         "Welker",
-        "Gears",
+        "Stacey King",
         "Crazy Taxi",
-        "Zverev",
-        "Bulls",
-        "PlayStation",
-        "Meet the Press"
+        "Gears",
+        "Munoz",
+        "Beirut",
+        "Volpe",
+        "PlayStation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 19:39:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 20:31:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Christian Eriksen",
         "Xbox",
-        "Persona 6",
-        "Spyro",
-        "Zverev",
-        "Gears",
-        "#wildflowerhour",
-        "Crazy Taxi",
+        "Robyn",
         "Morocco",
+        "Spyro",
+        "Persona 6",
+        "Gears",
         "Nunez",
-        "Clockwork Revolution"
+        "#wildflowerhour",
+        "Lola",
+        "Crazy Taxi"
       ],
       "hashtags": [
         "#wildflowerhour",
         "#sts70s",
-        "#RolandGarros",
-        "#TigerIsland",
-        "#GhastlyGrub"
+        "#MARNOR",
+        "#LawnFlowers",
+        "#TigerIsland"
       ],
       "regular_topics": [
         "Christian Eriksen",
         "Xbox",
-        "Persona 6",
-        "Spyro",
-        "Zverev",
-        "Gears",
-        "Crazy Taxi",
+        "Robyn",
         "Morocco",
+        "Spyro",
+        "Persona 6",
+        "Gears",
         "Nunez",
-        "Clockwork Revolution",
-        "Fable"
+        "Lola",
+        "Crazy Taxi",
+        "Beirut"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 19:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 20:24:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xbox",
         "Harvey",
         "Persona 6",
         "Marner",
         "Spyro",
+        "Brandon Valenzuela",
         "#MonacoGP",
-        "Zverev",
-        "Crazy Taxi",
         "D-Day",
-        "Gausman",
+        "Israel",
+        "Crazy Taxi",
         "Halo"
       ],
       "hashtags": [
         "#MonacoGP",
+        "#BlueJays",
         "#skstorm",
-        "#StanleyCup",
-        "#RTXPowersPlays",
-        "#bucciovertimechallenge"
+        "#bucciovertimechallenge",
+        "#UFCVegas118"
       ],
       "regular_topics": [
         "Xbox",
@@ -107,37 +105,37 @@
         "Persona 6",
         "Marner",
         "Spyro",
-        "Zverev",
-        "Crazy Taxi",
+        "Brandon Valenzuela",
         "D-Day",
-        "Gausman",
+        "Israel",
+        "Crazy Taxi",
         "Halo",
-        "Welker"
+        "Zverev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 20:18:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 21:09:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
         "Zverev",
         "Farmers Savior SantRampalJi",
         "#SEVEN_IS_THE_PROMISE",
-        "#RolandGarros",
         "#FATE_BROUGHT_US_7",
+        "#RolandGarros",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Eriksen",
         "Grand Slam",
-        "Sascha",
-        "#AAPKaDoglapan"
+        "Beirut",
+        "Sascha"
       ],
       "hashtags": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
         "#SEVEN_IS_THE_PROMISE",
-        "#RolandGarros",
         "#FATE_BROUGHT_US_7",
+        "#RolandGarros",
         "#AAPKaDoglapan"
       ],
       "regular_topics": [
@@ -146,51 +144,49 @@
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Eriksen",
         "Grand Slam",
+        "Beirut",
         "Sascha",
         "Haifa",
-        "MacBook Giveaway Hackathon",
         "Builder Mode On",
-        "Beirut",
-        "Cobolli"
+        "Cobolli",
+        "MacBook Giveaway Hackathon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 20:16:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 21:06:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Christian Eriksen",
+        "Israel",
         "Denmark",
+        "Tomorrow is Monday",
         "Zverev",
         "Dorgu",
-        "Wesley",
-        "Tomorrow is Monday",
-        "#ThelmasInnerCircle",
         "Nemesis",
-        "Gistlover",
-        "Corbin",
-        "Robin van Persie"
+        "Feyenoord",
+        "Nunez",
+        "Wesley",
+        "Morocco"
       ],
       "hashtags": [
         "#ThelmasInnerCircle",
         "#RolandGarros",
-        "#WemaXFashionsouk2026",
-        "#IroandBubaFashionFrenzy",
-        "#FIFAWorldCup"
+        "#IroandBubaFashionFrenzy"
       ],
       "regular_topics": [
         "Christian Eriksen",
+        "Israel",
         "Denmark",
+        "Tomorrow is Monday",
         "Zverev",
         "Dorgu",
-        "Wesley",
-        "Tomorrow is Monday",
         "Nemesis",
-        "Gistlover",
-        "Corbin",
-        "Robin van Persie",
-        "Monaco"
+        "Feyenoord",
+        "Nunez",
+        "Wesley",
+        "Morocco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
