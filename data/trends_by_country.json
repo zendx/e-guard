@@ -1,63 +1,60 @@
 {
-  "generated_at_utc": "2026-06-07T11:39:58.357562+00:00",
+  "generated_at_utc": "2026-06-07T13:13:51.743402+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 07 2026 11:28:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 12:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
-        "ariana",
+        "Muhammad Qasim",
         "#SundayVibes",
-        "Blessed Sunday",
-        "All 20",
-        "FedEx",
         "Best Buy",
+        "FedEx",
+        "Blessed Sunday",
+        "ariana",
+        "$TUPID",
         "Mormons",
-        "$BABY",
-        "#eternalsunshinetour",
-        "Upbit"
+        "All 20",
+        "Tiramisu"
       ],
       "hashtags": [
         "#SundayVibes",
+        "#PoohPavelSecondDateFancon",
+        "#SeductiveSunday",
         "#eternalsunshinetour",
-        "#NIJI_ENprov",
-        "#bucciovertimechallenge",
-        "#ForgedInGold",
-        "#2026BTSFESTA",
-        "#amongusshow",
-        "#Fight_For_Our_SevEN"
+        "#NIJI_ENprov"
       ],
       "regular_topics": [
         "Good Sunday",
-        "ariana",
-        "Blessed Sunday",
-        "All 20",
-        "FedEx",
+        "Muhammad Qasim",
         "Best Buy",
+        "FedEx",
+        "Blessed Sunday",
+        "ariana",
+        "$TUPID",
         "Mormons",
-        "$BABY",
-        "Upbit",
-        "Moby",
-        "Joseph Smith"
+        "All 20",
+        "Tiramisu",
+        "Turnip"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 11:03:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 12:45:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbclaurak",
         "Vance",
-        "#ENGNZL",
+        "Lammy",
         "England",
         "World Cup",
+        "#bbclaurak",
+        "#ENGNZL",
         "D-Day",
         "Lee Dixon",
+        "George Best",
         "Starmer",
-        "Normandy",
-        "Lammy",
         "#MonacoGP"
       ],
       "hashtags": [
@@ -69,29 +66,29 @@
       ],
       "regular_topics": [
         "Vance",
+        "Lammy",
         "England",
         "World Cup",
         "D-Day",
         "Lee Dixon",
+        "George Best",
         "Starmer",
-        "Normandy",
-        "Lammy",
-        "Trevor Phillips",
-        "Bolivia",
-        "Denby"
+        "New Zealand",
+        "Martin Brundle",
+        "Trevor Phillips"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 10:57:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 12:39:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Marner",
         "D-Day",
         "#StanleyCup",
-        "Bussi",
         "#UFCVegas118",
+        "Bussi",
         "#skstorm",
         "ariana",
         "Normandy",
@@ -117,85 +114,85 @@
         "Hunter Biden",
         "Karmelo",
         "Belal",
-        "ernie clement"
+        "Melanie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 10:51:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 12:33:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PaisaVasoolHJTIHH",
+        "#\u091a\u0924\u0941\u0930\u094d\u0925_\u0936\u094d\u0930\u0947\u0923\u0940_\u092a\u0930\u093f\u0923\u093e\u092e_\u091c\u093e\u0930\u0940_\u0915\u0930\u094b",
         "#JKUnitedAgainstDrugs",
         "#RajeshExportsTruthOnBBC",
-        "#MahaRPETAbhiyaan_26",
-        "Rajesh Mehta",
         "Manav Suthar",
-        "#LaurierxWilliamEst",
+        "#GiveUsFauziUpdateASAP",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u092b\u0941\u091f\u092c\u0949\u0932 \u091f\u0940\u092e",
-        "WILLIAMEST COMFORT ZONE",
-        "#IdhayamMurali",
-        "Canada",
-        "8.45 CR"
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
+        "Rajesh Mehta",
+        "WILLIAMEST COMFORT ZONE"
       ],
       "hashtags": [
+        "#PaisaVasoolHJTIHH",
+        "#\u091a\u0924\u0941\u0930\u094d\u0925_\u0936\u094d\u0930\u0947\u0923\u0940_\u092a\u0930\u093f\u0923\u093e\u092e_\u091c\u093e\u0930\u0940_\u0915\u0930\u094b",
         "#JKUnitedAgainstDrugs",
         "#RajeshExportsTruthOnBBC",
-        "#MahaRPETAbhiyaan_26",
-        "#LaurierxWilliamEst",
-        "#IdhayamMurali"
+        "#GiveUsFauziUpdateASAP"
       ],
       "regular_topics": [
-        "Rajesh Mehta",
         "Manav Suthar",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u092b\u0941\u091f\u092c\u0949\u0932 \u091f\u0940\u092e",
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+        "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
+        "Rajesh Mehta",
         "WILLIAMEST COMFORT ZONE",
-        "Canada",
-        "8.45 CR",
         "SAFF Women's Championship 2026",
-        "Indian Women's Football Team",
+        "\u091a\u0924\u0941\u0930\u094d\u0925 \u0936\u094d\u0930\u0947\u0923\u0940 \u092d\u0930\u094d\u0924\u0940",
+        "Poonch",
         "Weather",
-        "PacketList",
-        "Anshul Kuncha"
+        "\u092e\u0939\u093f\u0932\u093e \u091a\u0948\u092e\u094d\u092a\u093f\u092f\u0928\u0936\u093f\u092a"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 10:45:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 07 2026 12:30:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Zack Orji",
         "Church",
         "Blessed Sunday",
-        "Brighton",
         "Today is Sunday",
-        "Pamela",
-        "Ngoshe",
+        "Curtis Jones",
+        "Blender",
+        "#IroandBubaFashionFrenzy",
+        "Brighton",
         "Zadok",
-        "Benson",
-        "#SayNoToFakeNews",
-        "Gwoza",
-        "Another Sunday"
+        "Ngoshe",
+        "Endrick"
       ],
       "hashtags": [
-        "#SayNoToFakeNews",
-        "#Espa\u00f1a",
-        "#StandWithNigeria",
+        "#IroandBubaFashionFrenzy",
         "#SundayService",
-        "#T\u00fcrkiye"
+        "#StandWithNigeria",
+        "#SayNoToFakeNews",
+        "#UniteAgainstTerror"
       ],
       "regular_topics": [
+        "Zack Orji",
         "Church",
         "Blessed Sunday",
-        "Brighton",
         "Today is Sunday",
-        "Pamela",
-        "Ngoshe",
+        "Curtis Jones",
+        "Blender",
+        "Brighton",
         "Zadok",
-        "Benson",
-        "Gwoza",
-        "Another Sunday",
-        "Adelabu"
+        "Ngoshe",
+        "Endrick",
+        "Pamela"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
