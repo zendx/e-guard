@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-06-07T23:55:05.265646+00:00",
+  "generated_at_utc": "2026-06-08T02:12:51.103967+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 07 2026 22:40:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 01:16:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Corbin",
+        "#TonyAwards",
+        "#BaddiesUSA",
         "Xbox",
+        "#Tonys",
+        "#90DayFiance",
         "Welker",
-        "Spyro",
-        "Carson Benge",
-        "#NASCAR",
-        "Persona 6",
-        "Beirut",
-        "Bell",
-        "Munoz",
-        "Stacey King",
-        "Crazy Taxi"
+        "#BadBoysDR",
+        "Nelly",
+        "Philippines",
+        "Gizelle"
       ],
       "hashtags": [
-        "#NASCAR",
-        "#BadBoysDR",
-        "#GCWCoSV",
-        "#FireKeepersCasino400"
+        "#TonyAwards",
+        "#BaddiesUSA",
+        "#Tonys",
+        "#90DayFiance",
+        "#BadBoysDR"
       ],
       "regular_topics": [
+        "Corbin",
         "Xbox",
         "Welker",
-        "Spyro",
-        "Carson Benge",
-        "Persona 6",
-        "Beirut",
-        "Bell",
-        "Munoz",
-        "Stacey King",
-        "Crazy Taxi",
-        "Gears"
+        "Nelly",
+        "Philippines",
+        "Gizelle",
+        "Denny Hamlin",
+        "Mindanao",
+        "Tanner Brown",
+        "Mormons",
+        "DJ Sky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 07 2026 23:06:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 00:48:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Aidan",
-        "Xbox",
-        "#loveislandaftersun",
         "#TipToe",
+        "Xbox",
+        "Aidan",
         "Beirut",
+        "#loveislandaftersun",
         "Nunez",
         "Christian Eriksen",
         "Spyro",
-        "Robyn",
         "Hugh Laurie",
-        "Yasmin"
+        "Jennie",
+        "Gears"
       ],
       "hashtags": [
-        "#loveislandaftersun",
         "#TipToe",
-        "#whowantstobeamillionaire",
-        "#wildflowerhour"
+        "#loveislandaftersun"
       ],
       "regular_topics": [
-        "Aidan",
         "Xbox",
+        "Aidan",
         "Beirut",
         "Nunez",
         "Christian Eriksen",
         "Spyro",
-        "Robyn",
         "Hugh Laurie",
-        "Yasmin",
-        "Morocco",
-        "Kavan"
+        "Jennie",
+        "Gears",
+        "Bibi",
+        "Robyn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 07 2026 23:00:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 00:43:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xbox",
         "Harvey",
         "Iran",
         "Marner",
         "#MonacoGP",
-        "Persona 6",
-        "D-Day",
+        "Gears",
         "Trump",
-        "Bibi",
+        "Persona 6",
+        "#skstorm",
         "Spyro",
-        "Zverev"
+        "Bibi"
       ],
       "hashtags": [
         "#MonacoGP",
         "#skstorm",
+        "#90DayFiance",
         "#UFCVegas118",
-        "#StanleyCup"
+        "#mbstorm"
       ],
       "regular_topics": [
         "Xbox",
         "Harvey",
         "Iran",
         "Marner",
-        "Persona 6",
-        "D-Day",
+        "Gears",
         "Trump",
-        "Bibi",
+        "Persona 6",
         "Spyro",
-        "Zverev",
+        "Bibi",
+        "Terry Fox",
         "ariana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -118,57 +118,57 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 07 2026 22:54:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 00:37:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
         "Farmers Savior SantRampalJi",
+        "#GodMorningMonday",
         "#RajeshExportsTruthOnBBC",
-        "#maharpetabhiyaan_26",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "#maharpetabhiyaan_26",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
         "Israel",
-        "#paisavasoolhjtihh",
+        "JENNIE HEADLINES GOV BALL",
         "Zverev",
-        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
-        "Jantar Mantar"
+        "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930"
       ],
       "hashtags": [
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
+        "#GodMorningMonday",
         "#RajeshExportsTruthOnBBC",
         "#maharpetabhiyaan_26",
-        "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "#paisavasoolhjtihh"
+        "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940"
       ],
       "regular_topics": [
         "Farmers Savior SantRampalJi",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Israel",
+        "JENNIE HEADLINES GOV BALL",
         "Zverev",
         "\u0939\u0948\u0935\u0940 \u092e\u094b\u091f\u0930",
         "Jantar Mantar",
         "cbic corruption postings",
-        "\u0916\u093e\u0926\u094d\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e",
+        "evidence matters",
         "\u0905\u0936\u094b\u0915 \u0917\u0939\u0932\u094b\u0924",
-        "Manav Suthar",
-        "evidence matters"
+        "\u0916\u093e\u0926\u094d\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 07 2026 23:42:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 00:33:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Israel",
         "Christian Eriksen",
         "Monaco",
-        "Tomorrow is Monday",
         "Florentino P\u00e9rez",
-        "Mr P",
-        "Nunez",
-        "Netanyahu",
-        "Denmark",
+        "Tomorrow is Monday",
         "The Special One",
+        "Mr P",
+        "Netanyahu",
+        "Nunez",
+        "Denmark",
         "Madridistas"
       ],
       "hashtags": [
@@ -179,13 +179,13 @@
         "Israel",
         "Christian Eriksen",
         "Monaco",
-        "Tomorrow is Monday",
         "Florentino P\u00e9rez",
-        "Mr P",
-        "Nunez",
-        "Netanyahu",
-        "Denmark",
+        "Tomorrow is Monday",
         "The Special One",
+        "Mr P",
+        "Netanyahu",
+        "Nunez",
+        "Denmark",
         "Madridistas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
