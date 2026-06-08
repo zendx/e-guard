@@ -1,107 +1,109 @@
 {
-  "generated_at_utc": "2026-06-08T07:10:26.472703+00:00",
+  "generated_at_utc": "2026-06-08T12:11:46.267636+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 08 2026 05:33:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 10:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#loveislandusa",
+        "Good Monday",
+        "#MondayMotivation",
+        "Israel and Iran",
+        "Ahura Mazda",
         "Corbin",
         "Sean",
-        "Bryce",
-        "#TonyAwards",
-        "Kenzie",
-        "Pratt",
-        "Bregman",
-        "#BaddiesUSA",
-        "#RHOA",
-        "Philippines"
+        "Philippines",
+        "Yemen",
+        "Zoroastrianism",
+        "Houthis",
+        "Red Sea"
       ],
       "hashtags": [
-        "#loveislandusa",
-        "#TonyAwards",
+        "#MondayMotivation",
         "#BaddiesUSA",
+        "#TonyAwards",
         "#RHOA",
-        "#IndyCar"
+        "#WutheringWaves",
+        "#furality",
+        "#FATE_BROUGHT_US_7"
       ],
       "regular_topics": [
+        "Good Monday",
+        "Israel and Iran",
+        "Ahura Mazda",
         "Corbin",
         "Sean",
-        "Bryce",
-        "Kenzie",
-        "Pratt",
-        "Bregman",
         "Philippines",
-        "Raman",
-        "Mormons",
-        "Bibi",
-        "Aniya"
+        "Yemen",
+        "Zoroastrianism",
+        "Houthis",
+        "Red Sea",
+        "Tehran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 08 2026 06:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 11:12:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MonacoGP",
         "Lammy",
+        "#MonacoGP",
         "Xbox",
+        "#thismorning",
+        "#popmaster",
         "Lewis",
+        "Iran",
         "Christian Eriksen",
         "World Cup",
-        "Vance",
         "#engnzl",
-        "England",
-        "Iran",
-        "Gears"
+        "England"
       ],
       "hashtags": [
         "#MonacoGP",
+        "#thismorning",
+        "#popmaster",
         "#engnzl",
-        "#bbclaurak",
-        "#SKYF1",
-        "#Wordle1815"
+        "#skyf1"
       ],
       "regular_topics": [
         "Lammy",
         "Xbox",
         "Lewis",
+        "Iran",
         "Christian Eriksen",
         "World Cup",
-        "Vance",
         "England",
-        "Iran",
         "Gears",
+        "Vance",
         "Kimi",
-        "Zverev"
+        "Spyro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 08 2026 06:45:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 11:55:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xbox",
         "Israel",
         "Corbin",
         "Harvey",
-        "#loveislandusa",
         "Gears",
+        "#loveislandusa",
         "Kory",
-        "#skstorm",
-        "Marner",
         "Persona 6",
-        "Spyro"
+        "#SKStorm",
+        "Spyro",
+        "#MonacoGP"
       ],
       "hashtags": [
         "#loveislandusa",
-        "#skstorm",
+        "#SKStorm",
         "#MonacoGP",
-        "#mbstorm",
-        "#90DayFiance"
+        "#MBStorm",
+        "#90dayfiance"
       ],
       "regular_topics": [
         "Xbox",
@@ -110,89 +112,89 @@
         "Harvey",
         "Gears",
         "Kory",
-        "Marner",
         "Persona 6",
         "Spyro",
-        "ariana",
-        "Welker"
+        "Good Monday",
+        "Marner",
+        "Kristen Welker"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 08 2026 05:48:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 11:48:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UpperCircuitStock",
+        "#MultibaggerStock",
         "#12YearsOfGaribKalyan",
-        "#Philippines",
-        "#SpiritualAwakening",
-        "Meditation Camps",
-        "Manav Suthar",
-        "#WorldOceansDay",
-        "\u0917\u0930\u0940\u092c \u0915\u0932\u094d\u092f\u093e\u0923",
-        "Israel",
-        "Mindanao",
-        "\u090f\u092f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e"
+        "\u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0920\u092c\u0902\u0927\u0928",
+        "#PadmaAwards2026",
+        "#Paravasame",
+        "#KaagithamPadavalu",
+        "20 TMC MPs",
+        "Israel and Iran",
+        "\u092d\u0942\u092a\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935",
+        "Kakoli Ghosh Dastidar",
+        "\u091c\u0939\u093e\u0902\u0917\u0940\u0930 \u0916\u093e\u0928"
       ],
       "hashtags": [
-        "#UpperCircuitStock",
+        "#MultibaggerStock",
         "#12YearsOfGaribKalyan",
-        "#Philippines",
-        "#SpiritualAwakening",
-        "#WorldOceansDay"
+        "#PadmaAwards2026",
+        "#Paravasame",
+        "#KaagithamPadavalu"
       ],
       "regular_topics": [
-        "Meditation Camps",
-        "Manav Suthar",
+        "\u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0920\u092c\u0902\u0927\u0928",
+        "20 TMC MPs",
+        "Israel and Iran",
+        "\u092d\u0942\u092a\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935",
+        "Kakoli Ghosh Dastidar",
+        "\u091c\u0939\u093e\u0902\u0917\u0940\u0930 \u0916\u093e\u0928",
+        "Adani Ports",
         "\u0917\u0930\u0940\u092c \u0915\u0932\u094d\u092f\u093e\u0923",
-        "Israel",
-        "Mindanao",
-        "\u090f\u092f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e",
-        "\u092a\u0941\u0932\u093f\u0938 \u092d\u0930\u094d\u0924\u0940",
-        "Har Har Mahadev",
         "Omkar",
-        "General Santos City",
-        "\u092e\u0941\u0902\u092c\u0908 \u0907\u0902\u0921\u093f\u092f\u0902\u0938"
+        "\u0928\u0917\u0930 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e",
+        "Constitution Club"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 08 2026 06:36:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 11:45:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Week",
-        "Amen",
-        "GM CT",
-        "Christian Eriksen",
-        "Zverev",
+        "#MondayMotivation",
+        "Cucurella",
+        "Almond",
         "Monaco",
-        "Israel",
-        "Today is Monday",
-        "World Cup",
-        "Grand",
-        "Portugal"
+        "RPCSHQ",
+        "Dami",
+        "Gimme Dat",
+        "Armenia",
+        "Dele Momodu",
+        "Angelina Jolie"
       ],
       "hashtags": [
         "#MondayMotivation",
-        "#wemaxfashionsouk2026",
-        "#thelmasinnercircle",
-        "#loveislandusa",
-        "#iroandbubafashionfrenzy"
+        "#AetherNetwork",
+        "#TRUMP2028",
+        "#JossGawin",
+        "#WilliamEst"
       ],
       "regular_topics": [
         "Happy New Week",
-        "Amen",
-        "GM CT",
-        "Christian Eriksen",
-        "Zverev",
+        "Cucurella",
+        "Almond",
         "Monaco",
-        "Israel",
-        "Today is Monday",
-        "World Cup",
-        "Grand",
-        "Portugal"
+        "RPCSHQ",
+        "Dami",
+        "Gimme Dat",
+        "Armenia",
+        "Dele Momodu",
+        "Angelina Jolie",
+        "Rabiot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
