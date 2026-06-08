@@ -1,150 +1,151 @@
 {
-  "generated_at_utc": "2026-06-08T19:12:12.150454+00:00",
+  "generated_at_utc": "2026-06-08T21:19:51.062701+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 08 2026 17:39:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 20:15:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
         "NCAA",
+        "Siri",
         "Sorsby",
+        "Texas Tech",
         "#WWDC",
-        "Great Dane",
-        "Lubbock",
-        "Pete Rose",
-        "Golden Gate",
-        "Siri AI",
         "iOS 27",
-        "iPhone 11",
-        "Liquid Glass"
+        "Apple",
+        "Dane",
+        "Good Nut",
+        "Chad Gable"
       ],
       "hashtags": [
+        "#WWERaw",
         "#WWDC",
-        "#ZIGxONDO",
-        "#MondayMotivation",
         "#CarameloEnLCDLF6",
-        "#DiplomaciaVictoriosa"
+        "#DiplomaciaVictoriosa",
+        "#RawOnNetflix"
       ],
       "regular_topics": [
         "NCAA",
+        "Siri",
         "Sorsby",
-        "Great Dane",
-        "Lubbock",
-        "Pete Rose",
-        "Golden Gate",
-        "Siri AI",
+        "Texas Tech",
         "iOS 27",
-        "iPhone 11",
-        "Liquid Glass",
-        "Larkin"
+        "Apple",
+        "Dane",
+        "Good Nut",
+        "Chad Gable",
+        "Penta",
+        "Scooby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 08 2026 18:56:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 20:39:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
-        "#WWDC",
+        "Lorenzo",
+        "Angelista",
+        "#Panorama",
+        "Lola",
+        "Shea Charles",
         "Siri",
-        "Danny",
-        "Apple",
         "Stokes",
-        "Divock",
-        "Lord Foulkes",
-        "iOS 27",
-        "Liv Morgan",
-        "Dane"
+        "#WWDC",
+        "Chad Gable",
+        "Angie"
       ],
       "hashtags": [
         "#WWERaw",
+        "#Panorama",
         "#WWDC",
-        "#thechase",
-        "#f1twtselfieday",
-        "#Hollyoaks",
-        "#NintendoDirect",
-        "#FIFAWorldCup",
-        "#RHOA",
-        "#WorldOceanDay",
-        "#MondayMotivation"
+        "#FRANIR",
+        "#80sTM"
       ],
       "regular_topics": [
+        "Lorenzo",
+        "Angelista",
+        "Lola",
+        "Shea Charles",
         "Siri",
-        "Danny",
-        "Apple",
         "Stokes",
-        "Divock",
-        "Lord Foulkes",
-        "iOS 27",
-        "Liv Morgan",
-        "Dane",
-        "Oba Femi",
-        "Bermondsey"
+        "Chad Gable",
+        "Angie",
+        "Apple",
+        "Danny",
+        "iOS 27"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 08 2026 18:48:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 20:32:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWDC",
-        "Siri",
+        "Babcock",
+        "Oilers",
+        "McDavid",
+        "#WWERaw",
         "Israel",
         "Xbox",
-        "Mike Babcock",
+        "#WWDC",
+        "Siri",
         "Larkin",
-        "#WWERaw",
         "Louise Arbour",
-        "Corbin",
-        "Peter Laviolette",
-        "Detroit"
+        "Katz"
       ],
       "hashtags": [
-        "#WWDC",
         "#WWERaw",
+        "#WWDC",
+        "#WorldOceansDay",
         "#skstorm",
-        "#90dayfiance",
-        "#WorldOceansDay"
+        "#90dayfiance"
       ],
       "regular_topics": [
-        "Siri",
+        "Babcock",
+        "Oilers",
+        "McDavid",
         "Israel",
         "Xbox",
-        "Mike Babcock",
+        "Siri",
         "Larkin",
         "Louise Arbour",
-        "Corbin",
-        "Peter Laviolette",
-        "Detroit",
-        "Apple",
-        "Gears"
+        "Katz",
+        "Bowman",
+        "Corbin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 08 2026 18:44:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 20:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWDC",
         "Siri",
         "Apple",
         "iOS 27",
-        "iPhone 11",
-        "#Way2GoInnefu",
         "#Always_Stand_With_SevEN",
+        "iPhone 11",
         "#Boycott_BELIFT_Monetarily",
+        "#Way2GoInnefu",
+        "#WWERaw",
         "Arjun Tendulkar",
-        "#YouSeUttarakhand",
         "Liquid Glass"
       ],
       "hashtags": [
         "#WWDC",
-        "#Way2GoInnefu",
         "#Always_Stand_With_SevEN",
         "#Boycott_BELIFT_Monetarily",
+        "#Way2GoInnefu",
+        "#WWERaw",
+        "#ViksitKarawalNagar",
+        "#GodNightMonday",
+        "#GMIAgentBox",
+        "#GMICloud",
+        "#APatOxford",
         "#YouSeUttarakhand"
       ],
       "regular_topics": [
@@ -154,50 +155,50 @@
         "iPhone 11",
         "Arjun Tendulkar",
         "Liquid Glass",
+        "Ben Stokes",
         "Golden Gate",
         "\u0905\u0930\u094d\u091c\u0941\u0928 \u0924\u0947\u0902\u0926\u0941\u0932\u0915\u0930",
-        "Innefu Labs",
-        "Dynamic Island",
-        "Ben Stokes"
+        "Kirti Chakra",
+        "Dynamic Island"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 08 2026 18:40:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 20:24:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Monaco",
+        "West Ham",
         "#inDriveCWO",
-        "Big Soso",
         "Siri",
         "Jurrien Timber",
-        "#WWDC",
-        "Divock Origi",
-        "Thelma",
-        "#FreeAlhAkanbiNOW",
         "Ademola Lookman",
-        "iPhone 11"
+        "Big Soso",
+        "#WWDC",
+        "Netherlands",
+        "Matheus Fernandes",
+        "Northern Ireland"
       ],
       "hashtags": [
         "#inDriveCWO",
         "#WWDC",
         "#FreeAlhAkanbiNOW",
         "#BBNaijaReunion",
-        "#WizaShuttleDavido"
+        "#alt\u0131n"
       ],
       "regular_topics": [
         "Monaco",
-        "Big Soso",
+        "West Ham",
         "Siri",
         "Jurrien Timber",
-        "Divock Origi",
-        "Thelma",
         "Ademola Lookman",
+        "Big Soso",
+        "Netherlands",
+        "Matheus Fernandes",
+        "Northern Ireland",
         "iPhone 11",
-        "Omar Artan",
-        "iOS 27",
-        "Torino"
+        "iOS 27"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
