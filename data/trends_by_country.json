@@ -1,138 +1,138 @@
 {
-  "generated_at_utc": "2026-06-08T22:53:14.904318+00:00",
+  "generated_at_utc": "2026-06-08T23:55:35.420255+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 08 2026 21:57:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 22:48:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
-        "Siri",
         "Sorsby",
         "Texas Tech",
+        "Siri",
         "NCAA",
         "Jeffries",
         "Apple",
         "iOS 27",
         "USS Liberty",
-        "Good Nut",
-        "Sneed"
+        "Big 12",
+        "Good Nut"
       ],
       "hashtags": [
         "#WWERaw",
         "#WWDC",
-        "#TheFive",
-        "#CarameloEnLCDLF6",
-        "#BBNaija"
+        "#cowx",
+        "#BBNaijaReunion",
+        "#CarameloEnLCDLF6"
       ],
       "regular_topics": [
-        "Siri",
         "Sorsby",
         "Texas Tech",
+        "Siri",
         "NCAA",
         "Jeffries",
         "Apple",
         "iOS 27",
         "USS Liberty",
+        "Big 12",
         "Good Nut",
-        "Sneed",
-        "Parliamentarian"
+        "Sneed"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 08 2026 22:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 23:15:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveisland",
-        "Lorenzo",
         "Priya",
+        "Lorenzo",
         "Jasmine",
         "Olise",
-        "#WWERaw",
-        "#Newsnight",
         "Thelma",
+        "#Newsnight",
+        "#WWERaw",
         "Romero",
         "Stokes",
-        "Shea Charles"
+        "#BBNaijaReunion"
       ],
       "hashtags": [
         "#loveisland",
-        "#WWERaw",
         "#Newsnight",
+        "#WWERaw",
         "#BBNaijaReunion",
         "#Panorama"
       ],
       "regular_topics": [
-        "Lorenzo",
         "Priya",
+        "Lorenzo",
         "Jasmine",
         "Olise",
         "Thelma",
         "Romero",
         "Stokes",
-        "Shea Charles",
         "Siri",
+        "Shea Charles",
         "Angelista",
-        "Victoria"
+        "Mick Lynch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 08 2026 22:18:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 23:09:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Babcock",
         "Oilers",
-        "Israel",
         "Xbox",
-        "McDavid",
+        "Israel",
         "#WWDC",
         "Larkin",
-        "Thelma",
-        "Louise Arbour",
         "Siri",
-        "Katz"
+        "Louise Arbour",
+        "McDavid",
+        "Ambrose",
+        "Thelma"
       ],
       "hashtags": [
         "#WWDC",
-        "#WWERaw",
         "#BBNaijaReunion",
-        "#WorldOceansDay"
+        "#WorldOceansDay",
+        "#WWERaw"
       ],
       "regular_topics": [
         "Babcock",
         "Oilers",
-        "Israel",
         "Xbox",
-        "McDavid",
+        "Israel",
         "Larkin",
-        "Thelma",
-        "Louise Arbour",
         "Siri",
-        "Katz",
-        "Ambrose"
+        "Louise Arbour",
+        "McDavid",
+        "Ambrose",
+        "Thelma",
+        "Cassidy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 08 2026 22:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 23:03:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#12YearsOfGaribKalyan",
         "#\u0915\u093f\u0938\u093e\u0928\u092e\u091c\u0926\u0942\u0930\u092c\u091a\u0947\u0917\u093e_\u0924\u092d\u0940_\u0926\u0947\u0936\u092c\u091a\u0947\u0917\u093e",
         "Farmers Savior SantRampalJi",
         "#MultibaggerStock",
         "#WWDC",
-        "Siri",
         "#Way2GoInnefu",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "Siri",
+        "Israel",
         "Manav Suthar",
-        "iOS 27",
-        "Israel"
+        "\u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0920\u092c\u0902\u0927\u0928"
       ],
       "hashtags": [
         "#12YearsOfGaribKalyan",
@@ -143,55 +143,54 @@
       ],
       "regular_topics": [
         "Farmers Savior SantRampalJi",
-        "Siri",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Manav Suthar",
-        "iOS 27",
+        "Siri",
         "Israel",
-        "Apple",
+        "Manav Suthar",
         "\u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0920\u092c\u0902\u0927\u0928",
+        "Apple",
         "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+        "iOS 27",
         "meditation camps",
-        "iPhone 11"
+        "innefu labs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 08 2026 22:06:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 08 2026 22:57:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Thelma",
-        "Monaco",
         "#BBNaijaReunion",
-        "Zita",
-        "Olise",
+        "Monaco",
+        "Doris",
         "Sabrina",
         "Big Soso",
+        "Zita",
+        "Olise",
         "Isabella",
         "Ebuka",
-        "Northern Ireland",
-        "Mide"
+        "Kola"
       ],
       "hashtags": [
         "#BBNaijaReunion",
         "#inDriveCWO",
         "#WWDC",
-        "#alt\u0131n",
-        "#FreeAlhAkanbiNOW"
+        "#alt\u0131n"
       ],
       "regular_topics": [
         "Thelma",
         "Monaco",
-        "Zita",
-        "Olise",
+        "Doris",
         "Sabrina",
         "Big Soso",
+        "Zita",
+        "Olise",
         "Isabella",
         "Ebuka",
-        "Northern Ireland",
-        "Mide",
-        "Danboskid"
+        "Kola",
+        "Mide"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
