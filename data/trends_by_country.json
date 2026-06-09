@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-06-09T09:29:50.884870+00:00",
+  "generated_at_utc": "2026-06-09T12:21:23.089930+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 09 2026 07:39:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 11:24:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spurs",
-        "Knicks",
+        "Good Tuesday",
+        "Belfast",
+        "#TuesdayVibes",
         "Brunson",
-        "Brewers",
-        "#NBAFinals",
+        "#DevLife",
         "Game 4",
-        "Melanie",
-        "Keldon Johnson",
-        "Adam Silver",
-        "Castle",
-        "Clarkson"
+        "Knicks in 5",
+        "Brewers",
+        "#ZatimaOnParamountPlus",
+        "#OpenSource",
+        "#Cypherpunk"
       ],
       "hashtags": [
-        "#NBAFinals",
-        "#TrumpCurse",
-        "#Athletics",
-        "#ETTD",
-        "#SASvsNYK"
+        "#TuesdayVibes",
+        "#DevLife",
+        "#ZatimaOnParamountPlus",
+        "#OpenSource",
+        "#Cypherpunk"
       ],
       "regular_topics": [
-        "Spurs",
-        "Knicks",
+        "Good Tuesday",
+        "Belfast",
         "Brunson",
-        "Brewers",
         "Game 4",
-        "Melanie",
-        "Keldon Johnson",
-        "Adam Silver",
-        "Castle",
-        "Clarkson",
-        "Mike Brown"
+        "Knicks in 5",
+        "Brewers",
+        "$Jotchua",
+        "Cheater",
+        "Irishman",
+        "USA USA",
+        "Booed"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 09 2026 09:08:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 11:52:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belfast",
-        "Stabbing",
-        "World Cup",
-        "FIFA",
-        "Lee Rigby",
-        "Xbox",
-        "#ZIGxONDO",
-        "Siri",
-        "Iran",
         "Somalian",
-        "#thicktrunktuesday"
+        "Northern Ireland",
+        "Colum",
+        "Lee Rigby",
+        "FIFA",
+        "Stabbing",
+        "Ian Wright",
+        "#thismorning",
+        "Infantino",
+        "Beheading"
       ],
       "hashtags": [
-        "#ZIGxONDO",
+        "#thismorning",
+        "#jeremyvine",
+        "#popmaster",
         "#thicktrunktuesday",
-        "#WWDC",
-        "#WWERaw",
-        "#ASongOrMovieForHeavyMachines"
+        "#TongueOutTuesday"
       ],
       "regular_topics": [
         "Belfast",
-        "Stabbing",
-        "World Cup",
-        "FIFA",
-        "Lee Rigby",
-        "Xbox",
-        "Siri",
-        "Iran",
         "Somalian",
-        "Monaco",
-        "Attempted"
+        "Northern Ireland",
+        "Colum",
+        "Lee Rigby",
+        "FIFA",
+        "Stabbing",
+        "Ian Wright",
+        "Infantino",
+        "Beheading",
+        "Diversity"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 09 2026 09:04:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 11:44:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Babcock",
-        "#Golazzo",
-        "#WC26",
         "Knicks",
         "Israel",
         "Corbin",
         "Oilers",
-        "#WorldCup2026",
         "Siri",
         "Louise Arbour",
-        "Xbox"
+        "Xbox",
+        "Katz",
+        "Belfast",
+        "Governor General"
       ],
       "hashtags": [
-        "#Golazzo",
-        "#WC26",
-        "#WorldCup2026",
         "#WWDC",
-        "#NBAFinals"
+        "#NBAFinals",
+        "#loveislandusa",
+        "#WorldOceansDay",
+        "#WC26"
       ],
       "regular_topics": [
         "Babcock",
@@ -112,83 +112,91 @@
         "Siri",
         "Louise Arbour",
         "Xbox",
-        "Spurs",
         "Katz",
-        "McDavid"
+        "Belfast",
+        "Governor General"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 09 2026 09:00:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 11:39:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DineshGoelMlcUP",
         "#AryabhataFindsAmazonNow",
+        "#JusticeForMickey",
+        "#SaveIndianDogs",
         "#DRSNahiChalegaIndia",
-        "#MomentumStock",
-        "#UjjwalNikamBiopic",
         "DRS Scam",
-        "\u0926\u093f\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0917\u094b\u092f\u0932",
+        "#DineshGoelMlcUP",
         "Ruturaj Gaikwad",
+        "Prasidh Krishna",
         "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
-        "Operation Sindoor",
-        "Rajkummar Rao"
+        "Web Of Lies",
+        "Operation Sindoor"
       ],
       "hashtags": [
-        "#DineshGoelMlcUP",
         "#AryabhataFindsAmazonNow",
+        "#JusticeForMickey",
+        "#SaveIndianDogs",
         "#DRSNahiChalegaIndia",
+        "#DineshGoelMlcUP",
+        "#FIIFavouriteStock",
+        "#UjjwalNikamBiopic",
+        "#PakGlobalTerror",
         "#MomentumStock",
-        "#UjjwalNikamBiopic"
+        "#12YearsOfSeva"
       ],
       "regular_topics": [
         "DRS Scam",
-        "\u0926\u093f\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0917\u094b\u092f\u0932",
         "Ruturaj Gaikwad",
+        "Prasidh Krishna",
         "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
+        "Web Of Lies",
         "Operation Sindoor",
         "Rajkummar Rao",
-        "Dinesh Kumar Goel Ji",
-        "MBBS",
+        "Raheja Exotica",
         "No PRC",
         "No Justice",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940"
+        "Chris Gayle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 09 2026 08:56:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 11:36:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Wolves",
         "FIFA",
-        "Taco Tuesday",
         "Touched 3",
-        "Kenan Yildiz",
-        "Somalia",
-        "Trippier",
+        "#shotbyreels",
         "Peggy",
-        "#NSPPD",
-        "Humanity Protocol",
-        "$Jotchua"
+        "Calafiori",
+        "Freddie Leonard",
+        "Somalia",
+        "#BinanceStocks",
+        "$Jotchua",
+        "Romero",
+        "#Ir\u00e1n"
       ],
       "hashtags": [
-        "#NSPPD"
+        "#shotbyreels",
+        "#BinanceStocks",
+        "#Ir\u00e1n",
+        "#AetherNetwork"
       ],
       "regular_topics": [
-        "Wolves",
         "FIFA",
-        "Taco Tuesday",
         "Touched 3",
-        "Kenan Yildiz",
-        "Somalia",
-        "Trippier",
         "Peggy",
-        "Humanity Protocol",
+        "Calafiori",
+        "Freddie Leonard",
+        "Somalia",
         "$Jotchua",
-        "Missionary"
+        "Romero",
+        "Sooyoung",
+        "Spotify Camp Nou",
+        "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
