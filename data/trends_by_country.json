@@ -1,122 +1,120 @@
 {
-  "generated_at_utc": "2026-06-09T21:26:42.700713+00:00",
+  "generated_at_utc": "2026-06-09T22:55:29.789405+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 09 2026 20:24:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 22:08:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Karmelo Anthony",
-        "Fable 5",
-        "Justice",
-        "Nintendo",
+        "Austin Metcalf",
         "Apache",
-        "Zelda",
-        "Switch 2",
-        "Ocarina of Time",
-        "Xenoblade",
+        "Fable 5",
         "Belfast",
-        "SPLC"
+        "Nintendo",
+        "Jury",
+        "Zelda",
+        "Escalade",
+        "Black Panthers",
+        "Ireland"
       ],
-      "hashtags": [
-        "#TrumpMakesUsSick"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Karmelo Anthony",
-        "Fable 5",
-        "Justice",
-        "Nintendo",
+        "Austin Metcalf",
         "Apache",
-        "Zelda",
-        "Switch 2",
-        "Ocarina of Time",
-        "Xenoblade",
+        "Fable 5",
         "Belfast",
-        "SPLC"
+        "Nintendo",
+        "Jury",
+        "Zelda",
+        "Escalade",
+        "Black Panthers",
+        "Ireland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 09 2026 19:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 21:42:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#loveisland",
+        "Jasmine",
         "Belfast",
-        "Braverman",
-        "Alvarez",
-        "Sudanese",
-        "Fable 5",
-        "Atleti",
-        "#interiordesignmasters",
-        "Ireland",
-        "Perez",
-        "#ENGUKR",
-        "Serena"
+        "Lorenzo",
+        "Priya",
+        "Lola",
+        "Victoria",
+        "Jenrick",
+        "Namibia",
+        "Samraj",
+        "Sudanese"
       ],
       "hashtags": [
-        "#interiordesignmasters",
-        "#ENGUKR",
+        "#loveisland",
+        "#TipToe",
         "#Lionesses",
-        "#Destiny2",
-        "#itfc"
+        "#interiordesignmasters",
+        "#ENGUKR"
       ],
       "regular_topics": [
+        "Jasmine",
         "Belfast",
-        "Braverman",
-        "Alvarez",
+        "Lorenzo",
+        "Priya",
+        "Lola",
+        "Victoria",
+        "Jenrick",
+        "Namibia",
+        "Samraj",
         "Sudanese",
-        "Fable 5",
-        "Atleti",
-        "Ireland",
-        "Perez",
-        "Serena",
-        "Immigration Minister",
-        "Apache"
+        "Alvarez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 09 2026 20:42:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 22:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Macko",
         "Somali",
-        "Fable 5",
-        "Karmelo Anthony",
         "Belfast",
-        "Seabold",
+        "Karmelo Anthony",
+        "Macko",
+        "Fable 5",
+        "Dede",
         "Apache",
-        "Air Canada",
-        "Crosby",
-        "Alvarez",
-        "Guilty"
+        "#Golazzo",
+        "Canada Day",
+        "Gigi",
+        "Seabold"
       ],
       "hashtags": [
-        "#deltarune",
+        "#Golazzo",
         "#WorldCup",
         "#mbstorm",
         "#WeWantDestiny3"
       ],
       "regular_topics": [
-        "Macko",
         "Somali",
-        "Fable 5",
-        "Karmelo Anthony",
         "Belfast",
-        "Seabold",
+        "Karmelo Anthony",
+        "Macko",
+        "Fable 5",
+        "Dede",
         "Apache",
-        "Air Canada",
-        "Crosby",
-        "Alvarez",
-        "Guilty"
+        "Canada Day",
+        "Gigi",
+        "Seabold",
+        "Crosby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 09 2026 20:39:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 21:32:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Sychedelic",
         "Fable 5",
@@ -125,22 +123,22 @@
         "\u092e\u0940\u0928\u093e\u0915\u094d\u0937\u0940 \u0928\u091f\u0930\u093e\u091c\u0928",
         "Perez",
         "Alvarez",
-        "Atletico",
-        "#HappyBirthdayNBK",
         "#Treat_SevEN_With_Respect",
-        "#Boycott_BELIFT"
+        "#Boycott_BELIFT",
+        "Atletico",
+        "#HappyBirthdayNBK"
       ],
       "hashtags": [
         "#Sychedelic",
-        "#HappyBirthdayNBK",
         "#Treat_SevEN_With_Respect",
         "#Boycott_BELIFT",
+        "#HappyBirthdayNBK",
         "#TejasswiPrakash",
         "#GodNightTuesday",
         "#WUTheSeriesEP6",
-        "#HyderabadRains",
         "#JaiBalayya",
-        "#RecordsKeSamratModi",
+        "#HyderabadRains",
+        "#NandamuriBalakrishna",
         "#YouManiacSeriesQ17"
       ],
       "regular_topics": [
@@ -161,36 +159,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 09 2026 20:33:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 22:18:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Gigi",
         "Alvarez",
+        "#BBNaijaReunion",
+        "Jason",
+        "Sultana",
+        "Dede",
         "Atletico Madrid",
-        "Perez",
-        "Fable 5",
-        "SEDC",
         "Kenneth Okonkwo",
-        "Austin Metcalf",
-        "Blessing CEO",
-        "Kaka",
-        "Serena Williams",
-        "Tony Elumelu"
+        "Perez",
+        "Kola",
+        "Joanna"
       ],
       "hashtags": [
-        "#furry",
-        "#Ir\u00e1n"
+        "#BBNaijaReunion",
+        "#BBNReunion",
+        "#furry"
       ],
       "regular_topics": [
+        "Gigi",
         "Alvarez",
+        "Jason",
+        "Sultana",
+        "Dede",
         "Atletico Madrid",
-        "Perez",
-        "Fable 5",
-        "SEDC",
         "Kenneth Okonkwo",
-        "Austin Metcalf",
-        "Blessing CEO",
-        "Kaka",
-        "Serena Williams",
-        "Tony Elumelu"
+        "Perez",
+        "Kola",
+        "Joanna",
+        "Ebuka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
