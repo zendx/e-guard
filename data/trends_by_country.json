@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-09T22:55:29.789405+00:00",
+  "generated_at_utc": "2026-06-10T00:03:35.123709+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -37,159 +37,151 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 09 2026 21:42:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 23:27:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Belfast",
         "#loveisland",
         "Jasmine",
-        "Belfast",
+        "Braverman",
         "Lorenzo",
         "Priya",
+        "Sudanese",
         "Lola",
+        "Northern Ireland",
         "Victoria",
-        "Jenrick",
-        "Namibia",
-        "Samraj",
-        "Sudanese"
+        "Dede"
       ],
       "hashtags": [
         "#loveisland",
+        "#BBNaijaReunion",
         "#TipToe",
-        "#Lionesses",
-        "#interiordesignmasters",
-        "#ENGUKR"
+        "#Sams80s",
+        "#interiordesignmasters"
       ],
       "regular_topics": [
-        "Jasmine",
         "Belfast",
+        "Jasmine",
+        "Braverman",
         "Lorenzo",
         "Priya",
-        "Lola",
-        "Victoria",
-        "Jenrick",
-        "Namibia",
-        "Samraj",
         "Sudanese",
-        "Alvarez"
+        "Lola",
+        "Northern Ireland",
+        "Victoria",
+        "Dede",
+        "Kola"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 09 2026 22:28:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 23:20:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Somali",
         "Belfast",
         "Karmelo Anthony",
-        "Macko",
+        "Sophie Faucher",
         "Fable 5",
-        "Dede",
         "Apache",
-        "#Golazzo",
+        "Macko",
+        "Dede",
+        "#mbstorm",
         "Canada Day",
-        "Gigi",
-        "Seabold"
+        "Ireland"
       ],
       "hashtags": [
-        "#Golazzo",
-        "#WorldCup",
         "#mbstorm",
-        "#WeWantDestiny3"
+        "#Golazzo",
+        "#WorldCup"
       ],
       "regular_topics": [
         "Somali",
         "Belfast",
         "Karmelo Anthony",
-        "Macko",
+        "Sophie Faucher",
         "Fable 5",
-        "Dede",
         "Apache",
+        "Macko",
+        "Dede",
         "Canada Day",
-        "Gigi",
-        "Seabold",
-        "Crosby"
+        "Ireland",
+        "Seabold"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 09 2026 21:32:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 23:15:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Sychedelic",
-        "Fable 5",
-        "Claude Fable 5",
-        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "Sych On Kickstarter",
+        "#12YearsOfSeva",
+        "#aryabhatafindsamazonnow",
+        "#drsnahichalegaindia",
+        "#dineshgoelmlcup",
+        "drs scam",
+        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u092e\u0940\u0928\u093e\u0915\u094d\u0937\u0940 \u0928\u091f\u0930\u093e\u091c\u0928",
-        "Perez",
-        "Alvarez",
-        "#Treat_SevEN_With_Respect",
-        "#Boycott_BELIFT",
-        "Atletico",
-        "#HappyBirthdayNBK"
+        "Fable 5",
+        "\u0926\u093f\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0917\u094b\u092f\u0932"
       ],
       "hashtags": [
         "#Sychedelic",
-        "#Treat_SevEN_With_Respect",
-        "#Boycott_BELIFT",
-        "#HappyBirthdayNBK",
-        "#TejasswiPrakash",
-        "#GodNightTuesday",
-        "#WUTheSeriesEP6",
-        "#JaiBalayya",
-        "#HyderabadRains",
-        "#NandamuriBalakrishna",
-        "#YouManiacSeriesQ17"
+        "#12YearsOfSeva",
+        "#aryabhatafindsamazonnow",
+        "#drsnahichalegaindia",
+        "#dineshgoelmlcup"
       ],
       "regular_topics": [
-        "Fable 5",
-        "Claude Fable 5",
-        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "Sych On Kickstarter",
+        "drs scam",
+        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u092e\u0940\u0928\u093e\u0915\u094d\u0937\u0940 \u0928\u091f\u0930\u093e\u091c\u0928",
+        "Fable 5",
+        "\u0926\u093f\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0917\u094b\u092f\u0932",
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
         "Perez",
-        "Alvarez",
-        "Atletico",
-        "HBD QUEEN TEJASSWI",
-        "Meenakshi Natarajan",
-        "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936",
-        "Ben Stokes"
+        "\u0917\u0930\u0940\u092c \u0915\u0932\u094d\u092f\u093e\u0923",
+        "PoJK",
+        "Alvarez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 09 2026 22:18:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 09 2026 23:09:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gigi",
-        "Alvarez",
-        "#BBNaijaReunion",
-        "Jason",
-        "Sultana",
         "Dede",
-        "Atletico Madrid",
+        "#BBNaijaReunion",
+        "Alvarez",
+        "Sultana",
+        "Jason",
         "Kenneth Okonkwo",
-        "Perez",
-        "Kola",
+        "#BBNReunion",
+        "Ebuka",
+        "Atletico",
         "Joanna"
       ],
       "hashtags": [
         "#BBNaijaReunion",
-        "#BBNReunion",
-        "#furry"
+        "#BBNReunion"
       ],
       "regular_topics": [
         "Gigi",
-        "Alvarez",
-        "Jason",
-        "Sultana",
         "Dede",
-        "Atletico Madrid",
+        "Alvarez",
+        "Sultana",
+        "Jason",
         "Kenneth Okonkwo",
-        "Perez",
-        "Kola",
+        "Ebuka",
+        "Atletico",
         "Joanna",
-        "Ebuka"
+        "Koyin",
+        "SEDC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
