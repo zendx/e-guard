@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-06-10T04:53:36.779212+00:00",
+  "generated_at_utc": "2026-06-10T08:40:55.720184+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jun 10 2026 04:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 07:48:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveislandusa",
         "Melanie",
-        "Gabriel",
         "Karmelo",
-        "Zach",
-        "Braden Montgomery",
+        "igor",
         "Ireland",
-        "#SummerHouse",
-        "Jordan Staal",
-        "#WhiteSox",
-        "South Carolina"
+        "Gabriel",
+        "Belfast",
+        "Zach",
+        "South Carolina",
+        "Braden Montgomery",
+        "#SummerHouse"
       ],
       "hashtags": [
         "#loveislandusa",
         "#SummerHouse",
+        "#ToyStory5",
         "#WhiteSox",
-        "#WWENXT",
-        "#USWNT"
+        "#WWENXT"
       ],
       "regular_topics": [
         "Melanie",
-        "Gabriel",
         "Karmelo",
-        "Zach",
-        "Braden Montgomery",
+        "igor",
         "Ireland",
-        "Jordan Staal",
-        "South Carolina",
+        "Gabriel",
         "Belfast",
+        "Zach",
+        "South Carolina",
+        "Braden Montgomery",
         "Bryce",
-        "Caleb"
+        "Fable"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jun 10 2026 04:36:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 07:20:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belfast",
         "Sudanese",
         "Northern Ireland",
         "Somalian",
         "FIFA",
+        "World Cup",
         "Braverman",
-        "igor",
+        "#RoseWednesday",
+        "#Narrow",
         "Priya",
-        "#WWENXT",
-        "Nintendo",
-        "Jasmine"
+        "Nintendo"
       ],
       "hashtags": [
-        "#WWENXT",
+        "#RoseWednesday",
+        "#Narrow",
+        "#WallsOnWednesday",
         "#loveisland",
-        "#TipToe",
-        "#Destiny2",
-        "#BBNaijaReunion"
+        "#WindowsOnWednesday"
       ],
       "regular_topics": [
         "Belfast",
@@ -70,50 +70,49 @@
         "Northern Ireland",
         "Somalian",
         "FIFA",
+        "World Cup",
         "Braverman",
-        "igor",
         "Priya",
         "Nintendo",
-        "Jasmine",
-        "Lorenzo"
+        "Stokes",
+        "Lee Rigby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jun 10 2026 04:32:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 08:06:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Babcock",
         "Belfast",
         "Somali",
         "Nintendo",
-        "Jordan Staal",
         "Ocarina of Time",
         "#mbstorm",
-        "#StanleyCup",
+        "Ireland",
+        "Karmelo",
         "FIFA",
         "Fable 5",
         "Zelda"
       ],
       "hashtags": [
         "#mbstorm",
-        "#StanleyCup",
         "#loveislandusa",
         "#WWENXT",
-        "#SoundTheSiren"
+        "#golazzo"
       ],
       "regular_topics": [
         "Babcock",
         "Belfast",
         "Somali",
         "Nintendo",
-        "Jordan Staal",
         "Ocarina of Time",
+        "Ireland",
+        "Karmelo",
         "FIFA",
         "Fable 5",
         "Zelda",
-        "Ireland",
         "Oilers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,78 +120,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jun 10 2026 04:27:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 08:00:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#52WeekBullRun",
         "#LongestServingElectedPMModi",
-        "#52WeekBreakout",
+        "#realmeP4R",
         "#Bharathiraja",
-        "#YouthEmpowerment",
-        "Yuva Sewa Sangh",
-        "Rashtra Sewa",
-        "#GodMorningWednesday",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "#winXiaomi17T",
+        "\u0938\u0941\u0937\u094d\u092e\u093f\u0924\u093e \u0926\u0947\u0935",
+        "Team Violet",
+        "Leica Authentic",
         "Prime Minister",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940"
+        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
+        "Nehru"
       ],
       "hashtags": [
+        "#52WeekBullRun",
         "#LongestServingElectedPMModi",
-        "#52WeekBreakout",
+        "#realmeP4R",
         "#Bharathiraja",
-        "#YouthEmpowerment",
-        "#GodMorningWednesday",
-        "#HappyBirthdayNBK",
-        "#\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe"
+        "#winXiaomi17T"
       ],
       "regular_topics": [
-        "Yuva Sewa Sangh",
-        "Rashtra Sewa",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "\u0938\u0941\u0937\u094d\u092e\u093f\u0924\u093e \u0926\u0947\u0935",
+        "Team Violet",
+        "Leica Authentic",
         "Prime Minister",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "Bahrain",
-        "Jawaharlal Nehru",
-        "Jordan",
-        "\u0938\u0947\u0935\u093e \u0938\u0902\u0918",
-        "Fable 5"
+        "Nehru",
+        "144Hz",
+        "Sharvari",
+        "Team Black",
+        "Hardik Pandya",
+        "Gemini Live"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jun 10 2026 04:21:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 07:56:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Monaco",
+        "Amen",
         "Alvarez",
         "#BBNaijaReunion",
+        "Kenneth",
         "World Cup",
+        "THE MERCY OF GOD HAS PREVAILED",
         "Gigi",
-        "Kenneth Okonkwo",
-        "Kola",
-        "Perez",
-        "Atletico",
-        "Sultana",
-        "#BBNReunion"
+        "Theo",
+        "GM CT",
+        "Dede"
       ],
       "hashtags": [
         "#BBNaijaReunion",
         "#BBNReunion",
-        "#loveislandusa"
+        "#NSPPD",
+        "#\u00e7ar\u015famba"
       ],
       "regular_topics": [
         "Monaco",
+        "Amen",
         "Alvarez",
+        "Kenneth",
         "World Cup",
+        "THE MERCY OF GOD HAS PREVAILED",
         "Gigi",
-        "Kenneth Okonkwo",
-        "Kola",
-        "Perez",
-        "Atletico",
-        "Sultana",
-        "Thelma",
-        "Jason"
+        "Theo",
+        "GM CT",
+        "Dede",
+        "SEDC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
