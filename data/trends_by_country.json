@@ -1,197 +1,194 @@
 {
-  "generated_at_utc": "2026-06-10T16:11:38.912655+00:00",
+  "generated_at_utc": "2026-06-10T18:45:23.778213+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jun 10 2026 14:42:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 17:18:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$WERLD",
         "Jeremy Strong",
         "Doctor Who",
-        "Good Wednesday",
-        "Core CPI",
-        "4.2% in May",
-        "JUNTOS VENCEREMOS",
-        "The Social Reckoning",
+        "Inflation",
+        "Crockett",
+        "Sorkin",
         "The Social Network",
+        "ActBlue",
+        "Pokemon Center",
         "Erdogan",
-        "Hump Day",
-        "Crockett"
+        "Good Wednesday"
       ],
       "hashtags": [
+        "#KarmeloAntony",
+        "#Justice_For_SevEN",
+        "#LoveBeyondDreamsEP6",
         "#WednesdayVibes",
-        "#Inflation",
-        "#THISISFOR_ONCE",
-        "#WednesdayMotivation",
-        "#NationalIcedTeaDay"
+        "#10Jun"
       ],
       "regular_topics": [
+        "$WERLD",
         "Jeremy Strong",
         "Doctor Who",
-        "Good Wednesday",
-        "Core CPI",
-        "4.2% in May",
-        "JUNTOS VENCEREMOS",
-        "The Social Reckoning",
+        "Inflation",
+        "Crockett",
+        "Sorkin",
         "The Social Network",
+        "ActBlue",
+        "Pokemon Center",
         "Erdogan",
-        "Hump Day",
-        "Crockett"
+        "Good Wednesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jun 10 2026 15:08:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 17:43:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Doctor Who",
+        "#itfc",
         "Burnley",
-        "Rashford",
+        "Kieran McKenna",
+        "Doctor Who",
+        "Gucci",
+        "Ipswich",
+        "Marcos",
         "Arrest",
-        "#Strictly",
+        "#thechase",
         "Tice",
-        "Nudge",
-        "Joe Root",
-        "#PMQs",
-        "Dr Who",
-        "Billie Piper"
+        "Hannah"
       ],
       "hashtags": [
+        "#itfc",
+        "#thechase",
         "#Strictly",
-        "#PMQs",
-        "#wafc",
-        "#wato",
-        "#politicslive"
+        "#PCSUMMER",
+        "#bbcpm"
       ],
       "regular_topics": [
-        "Doctor Who",
         "Burnley",
-        "Rashford",
+        "Kieran McKenna",
+        "Doctor Who",
+        "Gucci",
+        "Ipswich",
+        "Marcos",
         "Arrest",
         "Tice",
-        "Nudge",
-        "Joe Root",
-        "Dr Who",
-        "Billie Piper",
-        "Owen",
-        "Sancho"
+        "Hannah",
+        "Pochin",
+        "Dr Who"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jun 10 2026 15:54:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 18:28:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belfast",
         "Somali",
         "Babcock",
         "Ireland",
-        "Bank of Canada",
-        "Nintendo",
-        "Fable 5",
+        "World Cup",
         "FIFA",
         "Karmelo",
-        "World Cup",
-        "Ocarina of Time"
+        "Fable 5",
+        "CUSMA",
+        "Nintendo",
+        "Oilers"
       ],
       "hashtags": [
         "#mbstorm",
         "#WWENXT",
-        "#golazzo",
-        "#loveislandusa"
+        "#golazzo"
       ],
       "regular_topics": [
         "Belfast",
         "Somali",
         "Babcock",
         "Ireland",
-        "Bank of Canada",
-        "Nintendo",
-        "Fable 5",
+        "World Cup",
         "FIFA",
         "Karmelo",
-        "World Cup",
-        "Ocarina of Time"
+        "Fable 5",
+        "CUSMA",
+        "Nintendo",
+        "Oilers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jun 10 2026 15:48:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 18:24:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Justice_For_SevEN",
         "#NextToGGC_GIC",
         "#SPkaCyclePuncture",
-        "#FutureGurgaon",
         "#GodNightWednesday",
-        "Nature's Court",
-        "#AdityaBirlaCapital",
-        "\u0938\u092f\u093e\u0928\u0940 \u0918\u094b\u0937",
-        "Joe Root",
-        "ASHNOOR GOES GLOBAL",
+        "#YouManiacSeriesQ18",
         "Dhurandhar",
-        "Gus Atkinson"
+        "Settebello",
+        "Oman",
+        "3 Indians",
+        "Nehru",
+        "\u0938\u092f\u093e\u0928\u0940 \u0918\u094b\u0937"
       ],
       "hashtags": [
+        "#Justice_For_SevEN",
         "#NextToGGC_GIC",
         "#SPkaCyclePuncture",
-        "#FutureGurgaon",
         "#GodNightWednesday",
-        "#AdityaBirlaCapital"
+        "#YouManiacSeriesQ18"
       ],
       "regular_topics": [
-        "Nature's Court",
+        "Dhurandhar",
+        "Settebello",
+        "Oman",
+        "3 Indians",
+        "Nehru",
         "\u0938\u092f\u093e\u0928\u0940 \u0918\u094b\u0937",
         "Joe Root",
-        "ASHNOOR GOES GLOBAL",
-        "Dhurandhar",
-        "Gus Atkinson",
-        "Nehru",
-        "\u0930\u093e\u0918\u0935 \u091a\u0921\u094d\u0922\u093e",
-        "Richa Ghosh",
-        "Sejal Pawar",
-        "EVAN"
+        "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
+        "Nature's Court",
+        "EVAN",
+        "Gurgaon International City"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jun 10 2026 15:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 18:18:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rashford",
+        "ArcNova",
+        "Alex Ekubo",
+        "Ipswich",
+        "Kieran McKenna",
+        "Marcos Senesi",
+        "Hamza Abdelkarim",
+        "My 2027",
+        "Portugal vs Nigeria",
         "#OneBallOneFlagOneFuture",
-        "Gordon",
-        "Theo",
-        "Sancho",
-        "#FCTProjects2026",
-        "Kolu",
-        "#UnpackedWithVimbai",
-        "Tuff King",
-        "#KalakiriTheMovie",
-        "Obidients"
+        "Kogi"
       ],
       "hashtags": [
         "#OneBallOneFlagOneFuture",
-        "#FCTProjects2026",
-        "#UnpackedWithVimbai",
         "#KalakiriTheMovie",
-        "#Iran"
+        "#FCTProjects2026"
       ],
       "regular_topics": [
         "Rashford",
-        "Gordon",
-        "Theo",
-        "Sancho",
-        "Kolu",
-        "Tuff King",
-        "Obidients",
-        "Adriano",
-        "Casemiro",
-        "Kenneth",
-        "Ramsey"
+        "ArcNova",
+        "Alex Ekubo",
+        "Ipswich",
+        "Kieran McKenna",
+        "Marcos Senesi",
+        "Hamza Abdelkarim",
+        "My 2027",
+        "Portugal vs Nigeria",
+        "Kogi",
+        "Kolu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
