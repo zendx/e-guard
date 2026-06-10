@@ -1,87 +1,88 @@
 {
-  "generated_at_utc": "2026-06-10T21:21:19.427348+00:00",
+  "generated_at_utc": "2026-06-10T23:01:57.502478+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jun 10 2026 20:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 22:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Dolan",
         "Kimmel",
         "Jasmine Crockett",
-        "Inflation",
+        "Bridgit Mendler",
         "ActBlue",
-        "$ORCL",
-        "#CantAffordTrump",
-        "Doctor Who",
-        "#SaveStargate",
-        "BRIDGIT MENDLER",
-        "Slaten",
-        "Caleb Durbin"
+        "Ronaldo",
+        "Unionville",
+        "Inflation",
+        "Patrick Mahomes",
+        "Your Affection",
+        "#CantAffordTrump"
       ],
       "hashtags": [
         "#CantAffordTrump",
         "#SaveStargate",
-        "#RaysUp",
-        "#Justice_For_SevEN"
+        "#mowx",
+        "#TheFive",
+        "#ilwx"
       ],
       "regular_topics": [
+        "Dolan",
         "Kimmel",
         "Jasmine Crockett",
-        "Inflation",
+        "Bridgit Mendler",
         "ActBlue",
-        "$ORCL",
-        "Doctor Who",
-        "BRIDGIT MENDLER",
-        "Slaten",
-        "Caleb Durbin",
-        "Marlowe",
-        "Hastings"
+        "Ronaldo",
+        "Unionville",
+        "Inflation",
+        "Patrick Mahomes",
+        "Your Affection",
+        "Simba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jun 10 2026 20:18:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 22:00:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#loveisland",
+        "#ENGCRC",
+        "Madueke",
         "Simba",
-        "Anderson",
-        "#itfc",
-        "Lorenzo",
-        "Orlando",
-        "Gucci",
-        "Ipswich",
-        "Fulham",
-        "#hcafc",
         "Costa Rica",
-        "Kieran McKenna"
+        "Lorenzo",
+        "Lee Dixon",
+        "Anderson",
+        "Gordon",
+        "Ellie",
+        "Robyn"
       ],
       "hashtags": [
+        "#loveisland",
+        "#ENGCRC",
         "#itfc",
-        "#hcafc",
-        "#dlxp",
-        "#Justice_For_SevEN",
-        "#c4news"
+        "#ThreeLions",
+        "#dlxp"
       ],
       "regular_topics": [
+        "Madueke",
         "Simba",
-        "Anderson",
-        "Lorenzo",
-        "Orlando",
-        "Gucci",
-        "Ipswich",
-        "Fulham",
         "Costa Rica",
-        "Kieran McKenna",
-        "Everton",
-        "Burnley"
+        "Lorenzo",
+        "Lee Dixon",
+        "Anderson",
+        "Gordon",
+        "Ellie",
+        "Robyn",
+        "Declan Rice",
+        "Gucci"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jun 10 2026 21:03:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 22:45:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belfast",
         "Somali",
@@ -89,15 +90,17 @@
         "CUSMA",
         "Ireland",
         "World Cup",
-        "Karmelo",
         "FIFA",
+        "Karmelo",
         "Fable",
-        "Canada",
-        "Oilers"
+        "Oilers",
+        "Canada"
       ],
       "hashtags": [
+        "#betya",
         "#mbstorm",
-        "#golazzo"
+        "#golazzo",
+        "#SaveStargate"
       ],
       "regular_topics": [
         "Belfast",
@@ -106,92 +109,85 @@
         "CUSMA",
         "Ireland",
         "World Cup",
-        "Karmelo",
         "FIFA",
+        "Karmelo",
         "Fable",
-        "Canada",
-        "Oilers"
+        "Oilers",
+        "Canada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jun 10 2026 20:06:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 22:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Justice_For_SevEN",
-        "#NextToGGC_GIC",
-        "#GodNightWednesday",
-        "#SPkaCyclePuncture",
-        "3 Indians",
-        "Dhurandhar",
-        "Oman",
+        "#LongestServingElectedPMModi",
+        "#HappyBirthdayNBK",
+        "#Bharathiraja",
+        "#nexttoggc_gic",
+        "#futuregurgaon",
+        "\u092e\u0940\u0928\u093e\u0915\u094d\u0937\u0940 \u0928\u091f\u0930\u093e\u091c\u0928",
         "Nehru",
-        "Settebello",
-        "#YouManiacSeriesQ18",
-        "Elliot Anderson"
+        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
+        "\u0938\u092f\u093e\u0928\u0940 \u0918\u094b\u0937",
+        "Fable 5",
+        "drs scam"
       ],
       "hashtags": [
-        "#Justice_For_SevEN",
-        "#NextToGGC_GIC",
-        "#GodNightWednesday",
-        "#SPkaCyclePuncture",
-        "#YouManiacSeriesQ18",
-        "#FirmesPorLaPatr\u00eda",
-        "#Suriya47",
-        "#SpiderManBrandNewDay",
-        "#GuessTheAmaalHit",
-        "#ViksitBharat2047",
-        "#FIFA"
+        "#LongestServingElectedPMModi",
+        "#HappyBirthdayNBK",
+        "#Bharathiraja",
+        "#nexttoggc_gic",
+        "#futuregurgaon"
       ],
       "regular_topics": [
-        "3 Indians",
-        "Dhurandhar",
-        "Oman",
+        "\u092e\u0940\u0928\u093e\u0915\u094d\u0937\u0940 \u0928\u091f\u0930\u093e\u091c\u0928",
         "Nehru",
-        "Settebello",
-        "Elliot Anderson",
-        "Alpha",
+        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
         "\u0938\u092f\u093e\u0928\u0940 \u0918\u094b\u0937",
-        "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
-        "Evan",
-        "Sejal Pawar"
+        "Fable 5",
+        "drs scam",
+        "\u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u094b\u0917",
+        "Leica Authentic",
+        "Team Violet",
+        "\u0938\u0941\u0937\u094d\u092e\u093f\u0924\u093e \u0926\u0947\u0935",
+        "\u0917\u0930\u0940\u092c \u0915\u0932\u094d\u092f\u093e\u0923"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jun 10 2026 20:52:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jun 10 2026 22:36:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Akor Adams",
         "Portugal",
+        "Ronaldo",
+        "Akor Adams",
+        "Sultana",
+        "Doris",
         "Pedro Neto",
-        "Elliot Anderson",
-        "DSTV",
-        "Moses Simon",
-        "Nottingham Forest",
         "Eric Chelle",
-        "Alex Ekubo",
         "Okoye",
-        "Lookman"
+        "Dede",
+        "Anderson",
+        "Noni Madueke"
       ],
       "hashtags": [
-        "#MCFC",
-        "#FirmesPorLaPatr\u00eda"
+        "#BBNaijaReunion"
       ],
       "regular_topics": [
-        "Akor Adams",
         "Portugal",
+        "Ronaldo",
+        "Akor Adams",
+        "Sultana",
+        "Doris",
         "Pedro Neto",
-        "Elliot Anderson",
-        "DSTV",
-        "Moses Simon",
-        "Nottingham Forest",
         "Eric Chelle",
-        "Alex Ekubo",
         "Okoye",
-        "Lookman"
+        "Dede",
+        "Anderson",
+        "Noni Madueke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
