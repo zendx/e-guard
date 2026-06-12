@@ -1,60 +1,60 @@
 {
-  "generated_at_utc": "2026-06-11T22:44:39.086811+00:00",
+  "generated_at_utc": "2026-06-12T00:11:51.714011+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jun 11 2026 21:51:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 11 2026 22:42:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "World Cup",
-        "Raul",
         "Oracle AI Trade",
+        "Raul",
         "#MEXRSA",
-        "Qui\u00f1ones",
-        "Bankr",
         "Montes",
-        "#FavoriteTaylorSwiftSong",
-        "Sithole",
-        "Jay Clayton"
+        "Qui\u00f1ones",
+        "Jay Clayton",
+        "#DadQuotes",
+        "Shakira",
+        "Telemundo"
       ],
       "hashtags": [
         "#MEXRSA",
-        "#FavoriteTaylorSwiftSong",
-        "#mundialdef\u00fatbol",
         "#DadQuotes",
-        "#TrumpLovesTheInflation"
+        "#FavoriteTaylorSwiftSong",
+        "#ilwx",
+        "#mundialdef\u00fatbol"
       ],
       "regular_topics": [
         "South Africa",
         "World Cup",
-        "Raul",
         "Oracle AI Trade",
-        "Qui\u00f1ones",
-        "Bankr",
+        "Raul",
         "Montes",
-        "Sithole",
+        "Qui\u00f1ones",
         "Jay Clayton",
+        "Shakira",
         "Telemundo",
-        "Shakira"
+        "Azteca",
+        "FISA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jun 11 2026 21:27:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 12 2026 00:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "#MEXRSA",
         "#WorldCup",
         "#loveisland",
         "Jasmine",
+        "olivia",
         "Sithole",
-        "Raul Jimenez",
+        "South Korea",
         "Dan Jarvis",
-        "Ally McCoist",
-        "Al Carns",
+        "Raul Jimenez",
         "Azteca"
       ],
       "hashtags": [
@@ -62,139 +62,140 @@
         "#WorldCup",
         "#loveisland",
         "#taskmaster",
-        "#OpeningCeremony"
+        "#itvfootball"
       ],
       "regular_topics": [
         "South Africa",
         "Jasmine",
+        "olivia",
         "Sithole",
-        "Raul Jimenez",
+        "South Korea",
         "Dan Jarvis",
-        "Ally McCoist",
-        "Al Carns",
+        "Raul Jimenez",
         "Azteca",
-        "Simba",
-        "Christina Unkel",
-        "Quinones"
+        "Oracle AI Trade",
+        "Ally McCoist",
+        "Al Carns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jun 11 2026 21:20:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 11 2026 23:54:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
+        "World Cup",
         "Nurse",
-        "#FIFAWorldCup",
-        "#MEXRSA",
-        "Raul Jimenez",
-        "Sithole",
-        "#FavoriteTaylorSwiftSong",
-        "Bafana Bafana",
-        "Rielly",
-        "Afrique du Sud",
-        "Ken Holland"
+        "Knicks",
+        "Spurs",
+        "Belfast",
+        "Somali",
+        "Marc Pinizzotto",
+        "CUSMA",
+        "Ireland",
+        "#MEXRSA"
       ],
       "hashtags": [
-        "#FIFAWorldCup",
         "#MEXRSA",
         "#FavoriteTaylorSwiftSong",
-        "#loveislanduk"
+        "#betya",
+        "#NBAFinals"
       ],
       "regular_topics": [
         "South Africa",
+        "World Cup",
         "Nurse",
-        "Raul Jimenez",
-        "Sithole",
-        "Bafana Bafana",
-        "Rielly",
-        "Afrique du Sud",
-        "Ken Holland",
-        "Oilers",
+        "Knicks",
+        "Spurs",
+        "Belfast",
+        "Somali",
         "Marc Pinizzotto",
-        "Reilly"
+        "CUSMA",
+        "Ireland",
+        "Nikita Kucherov"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jun 11 2026 21:09:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 11 2026 23:48:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "#FIFAWorldCup",
         "#MEXRSA",
         "Shakira",
-        "#TritentLegal_TheUNSPOKEN",
         "Sithole",
-        "Raul Jimenez",
         "#Sud\u00e1frica",
+        "Juli\u00e1n Qui\u00f1ones",
+        "#ShiningWith7Stars",
         "#SEVEN_ALWAYS_TOGETHER",
-        "Trump",
+        "Ra\u00fal Jim\u00e9nez",
         "olivia"
       ],
       "hashtags": [
         "#FIFAWorldCup",
         "#MEXRSA",
-        "#TritentLegal_TheUNSPOKEN",
         "#Sud\u00e1frica",
-        "#SEVEN_ALWAYS_TOGETHER",
         "#ShiningWith7Stars",
+        "#SEVEN_ALWAYS_TOGETHER",
         "#inauguraci\u00f3n",
-        "#MEXvsRSA"
+        "#SingGeetham",
+        "#BarahSaalVinaashKaal",
+        "#SejalPawar"
       ],
       "regular_topics": [
         "South Africa",
         "Shakira",
         "Sithole",
-        "Raul Jimenez",
-        "Trump",
+        "Juli\u00e1n Qui\u00f1ones",
+        "Ra\u00fal Jim\u00e9nez",
         "olivia",
-        "Quinones",
-        "Bafana Bafana",
-        "Bernardo",
         "Estadio Azteca",
-        "Spain"
+        "Spain",
+        "Bernardo",
+        "Mourinho",
+        "Argentina"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jun 11 2026 22:00:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 11 2026 23:44:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "#MEXRSA",
+        "Imisi",
         "#FIFAWorldCup",
+        "Faith",
         "Bafana Bafana",
-        "Sithole",
         "Xenophobia",
-        "Raul Jimenez",
+        "Sithole",
         "Mexicans",
-        "Amapiano",
-        "Shakira",
-        "Juli\u00e1n Qui\u00f1ones"
+        "Raul Jimenez",
+        "Amapiano"
       ],
       "hashtags": [
         "#MEXRSA",
         "#FIFAWorldCup",
-        "#SSFootball",
         "#BBNaijaReunion",
-        "#inauguraci\u00f3n"
+        "#ssfootball",
+        "#ladyboy"
       ],
       "regular_topics": [
         "South Africa",
+        "Imisi",
+        "Faith",
         "Bafana Bafana",
-        "Sithole",
         "Xenophobia",
-        "Raul Jimenez",
+        "Sithole",
         "Mexicans",
+        "Raul Jimenez",
         "Amapiano",
         "Shakira",
-        "Juli\u00e1n Qui\u00f1ones",
-        "Bernardo Silva",
-        "My Mexican"
+        "Bernardo Silva"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
