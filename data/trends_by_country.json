@@ -1,106 +1,107 @@
 {
-  "generated_at_utc": "2026-06-13T13:18:05.213483+00:00",
+  "generated_at_utc": "2026-06-13T15:14:48.678824+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 13 2026 11:52:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 13:36:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Saturday",
+        "DIMPLE",
+        "MAGIC SHOP",
+        "Elon Musk",
+        "#Caturday",
         "Introducing",
         "#BBFanFest2026D1",
-        "DevOps",
-        "Happy Birthday President Trump",
         "$FCX $COPX",
-        "Paraguay",
-        "#SaturdayVibes",
-        "Caturday",
-        "#copper",
-        "Kennedy Center"
+        "Happy Birthday President Trump",
+        "Brazil",
+        "#copper"
       ],
       "hashtags": [
+        "#Caturday",
         "#BBFanFest2026D1",
-        "#SaturdayVibes",
         "#copper",
-        "#SevEN_Deserve_Support"
+        "#SaturdayVibes",
+        "#TicketToHeavenEP3"
       ],
       "regular_topics": [
         "Good Saturday",
+        "DIMPLE",
+        "MAGIC SHOP",
+        "Elon Musk",
         "Introducing",
-        "DevOps",
-        "Happy Birthday President Trump",
         "$FCX $COPX",
-        "Paraguay",
-        "Caturday",
+        "Happy Birthday President Trump",
+        "Brazil",
         "Kennedy Center",
-        "Ni\u00f1o Guerrero",
-        "Anthropic",
-        "Happy Birthday Mr. President"
+        "Bernie",
+        "USAID"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 13 2026 12:19:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 14:52:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TroopingTheColour",
-        "#Caturday",
+        "#MeasurementsInMoviesOrSongs",
+        "Brighton",
+        "Trooping the Colour",
+        "Brazil",
+        "#BarcelonaGP",
+        "Extremely Zain",
         "Harrow",
-        "Paraguay",
-        "Buckingham Palace",
-        "Morocco",
-        "Anthropic",
-        "County Road",
-        "#BBFanFest2026D1",
-        "Kretinsky",
-        "Musk"
+        "#BATvEXE",
+        "#HWCafe",
+        "DIMPLE",
+        "Red Arrows"
       ],
       "hashtags": [
-        "#TroopingTheColour",
-        "#Caturday",
-        "#BBFanFest2026D1",
+        "#MeasurementsInMoviesOrSongs",
         "#BarcelonaGP",
-        "#saturdaykitchen"
+        "#BATvEXE",
+        "#HWCafe",
+        "#LeMans24"
       ],
       "regular_topics": [
+        "Brighton",
+        "Trooping the Colour",
+        "Brazil",
+        "Extremely Zain",
         "Harrow",
-        "Paraguay",
-        "Buckingham Palace",
-        "Morocco",
-        "Anthropic",
-        "County Road",
-        "Kretinsky",
-        "Musk",
-        "Barnaby",
-        "Switzerland",
-        "Fable 5"
+        "DIMPLE",
+        "Red Arrows",
+        "Gregory",
+        "Emma Raducanu",
+        "namjoon",
+        "Switzerland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 13 2026 12:12:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 14:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Elon",
         "Paraguay",
         "Bosnia",
         "World Cup",
-        "#CanMNT",
         "SpaceX",
+        "#canmnt",
+        "MAGIC SHOP",
         "Larin",
         "Jonathan David",
         "$SPCX",
-        "Good Saturday",
-        "Trillionaire"
+        "DIMPLE"
       ],
       "hashtags": [
-        "#CanMNT",
-        "#BBFanFest2026D1",
-        "#SmackDown",
+        "#canmnt",
+        "#OHLDraft",
         "#CANBIH",
-        "#USMNT"
+        "#TicketToHeavenEP3",
+        "#Caturday"
       ],
       "regular_topics": [
         "Elon",
@@ -108,86 +109,87 @@
         "Bosnia",
         "World Cup",
         "SpaceX",
+        "MAGIC SHOP",
         "Larin",
         "Jonathan David",
         "$SPCX",
-        "Good Saturday",
-        "Trillionaire",
-        "Pulisic"
+        "DIMPLE",
+        "Trillionaire"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 13 2026 12:57:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 13:49:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BackroomsOnDistrict",
         "Mohan Majhi Sarkar",
-        "#SkilledHogaIndia",
-        "#AstroTalkScamOnSamacharplus",
-        "Gurnoor Brar",
+        "#BackroomsOnDistrict",
+        "Gurbaz",
         "#INDvsAFG",
-        "#RiseConclaveBengaluru",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
+        "#AstroTalkScamOnSamacharPlus",
+        "Gurnoor Brar",
+        "#SkilledHogaIndia",
+        "\u092a\u0941\u0928\u0940\u0924 \u0917\u0941\u092a\u094d\u0924\u093e",
         "DIMPLE",
-        "Tabhi To Build Hoga India",
-        "\u0938\u092e\u093e\u091a\u093e\u0930 \u092a\u094d\u0932\u0938"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
+        "#GodNightSaturday"
       ],
       "hashtags": [
         "#BackroomsOnDistrict",
-        "#SkilledHogaIndia",
-        "#AstroTalkScamOnSamacharplus",
         "#INDvsAFG",
-        "#RiseConclaveBengaluru"
+        "#AstroTalkScamOnSamacharPlus",
+        "#SkilledHogaIndia",
+        "#GodNightSaturday"
       ],
       "regular_topics": [
         "Mohan Majhi Sarkar",
+        "Gurbaz",
         "Gurnoor Brar",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
-        "DIMPLE",
-        "Tabhi To Build Hoga India",
-        "\u0938\u092e\u093e\u091a\u093e\u0930 \u092a\u094d\u0932\u0938",
         "\u092a\u0941\u0928\u0940\u0924 \u0917\u0941\u092a\u094d\u0924\u093e",
-        "\u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u091c\u0928\u0930\u0932 \u0927\u0940\u0930\u091c \u0938\u0947\u0920",
+        "DIMPLE",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
         "MAGIC SHOP",
-        "Odisha",
-        "\u0938\u0947\u0928\u093e \u092a\u094d\u0930\u092e\u0941\u0916"
+        "\u0938\u092e\u093e\u091a\u093e\u0930 \u092a\u094d\u0932\u0938",
+        "\u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u091c\u0928\u0930\u0932 \u0927\u0940\u0930\u091c \u0938\u0947\u0920",
+        "Jorhat",
+        "Ddaeng"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 13 2026 12:55:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 14:39:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Switzerland",
         "Rabe Abubakar",
+        "Slovan Bratislava",
+        "#AbdulsalamiLegacy2026",
+        "Yaya Tour\u00e9",
+        "Katsina State",
         "Nnamdi Kanu",
-        "Zlatan",
-        "Mia Khalifa",
-        "Ethiopia",
+        "Kemi Badenoch",
         "Arewa",
-        "Speed",
-        "Morroco",
-        "Henry"
+        "Ethiopia"
       ],
       "hashtags": [
+        "#AbdulsalamiLegacy2026",
         "#salland\u0131k"
       ],
       "regular_topics": [
         "Brazil",
         "Switzerland",
         "Rabe Abubakar",
+        "Slovan Bratislava",
+        "Yaya Tour\u00e9",
+        "Katsina State",
         "Nnamdi Kanu",
-        "Zlatan",
-        "Mia Khalifa",
-        "Ethiopia",
+        "Kemi Badenoch",
         "Arewa",
-        "Speed",
-        "Morroco",
-        "Henry"
+        "Ethiopia",
+        "Zlatan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
