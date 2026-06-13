@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-06-13T15:14:48.678824+00:00",
+  "generated_at_utc": "2026-06-13T16:53:01.890586+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 13 2026 13:36:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Elon",
+        "The Extender",
         "Good Saturday",
-        "DIMPLE",
-        "MAGIC SHOP",
-        "Elon Musk",
-        "#Caturday",
-        "Introducing",
-        "#BBFanFest2026D1",
-        "$FCX $COPX",
-        "Happy Birthday President Trump",
         "Brazil",
-        "#copper"
+        "DIMPLE",
+        "#Caturday",
+        "Kennedy Center",
+        "Bernie",
+        "Introducing",
+        "#TicketToHeavenEP3",
+        "Happy Birthday President Trump"
       ],
       "hashtags": [
         "#Caturday",
-        "#BBFanFest2026D1",
-        "#copper",
+        "#TicketToHeavenEP3",
         "#SaturdayVibes",
-        "#TicketToHeavenEP3"
+        "#BBFanFest2026D1",
+        "#SwiftDay"
       ],
       "regular_topics": [
+        "Elon",
+        "The Extender",
         "Good Saturday",
-        "DIMPLE",
-        "MAGIC SHOP",
-        "Elon Musk",
-        "Introducing",
-        "$FCX $COPX",
-        "Happy Birthday President Trump",
         "Brazil",
+        "DIMPLE",
         "Kennedy Center",
         "Bernie",
+        "Introducing",
+        "Happy Birthday President Trump",
+        "MAGIC SHOP",
         "USAID"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,65 +43,65 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 13 2026 14:52:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 15:44:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MeasurementsInMoviesOrSongs",
-        "Brighton",
-        "Trooping the Colour",
-        "Brazil",
+        "Leclerc",
         "#BarcelonaGP",
-        "Extremely Zain",
-        "Harrow",
-        "#BATvEXE",
+        "Brighton",
+        "#SpanishGP",
+        "Brazil",
         "#HWCafe",
-        "DIMPLE",
-        "Red Arrows"
+        "#BATvEXE",
+        "#MeasurementsInMoviesOrSongs",
+        "Trooping the Colour",
+        "Harrow",
+        "BARTHTANRAK HEARTS DESIRE"
       ],
       "hashtags": [
-        "#MeasurementsInMoviesOrSongs",
         "#BarcelonaGP",
-        "#BATvEXE",
+        "#SpanishGP",
         "#HWCafe",
-        "#LeMans24"
+        "#BATvEXE",
+        "#MeasurementsInMoviesOrSongs"
       ],
       "regular_topics": [
+        "Leclerc",
         "Brighton",
-        "Trooping the Colour",
         "Brazil",
-        "Extremely Zain",
+        "Trooping the Colour",
         "Harrow",
+        "BARTHTANRAK HEARTS DESIRE",
+        "Switzerland",
+        "Extremely Zain",
         "DIMPLE",
         "Red Arrows",
-        "Gregory",
-        "Emma Raducanu",
-        "namjoon",
-        "Switzerland"
+        "Gregory"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 13 2026 14:48:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Elon",
         "Paraguay",
         "Bosnia",
         "World Cup",
         "SpaceX",
-        "#canmnt",
-        "MAGIC SHOP",
+        "#CanMNT",
         "Larin",
         "Jonathan David",
         "$SPCX",
-        "DIMPLE"
+        "#OHLDraft",
+        "Brazil"
       ],
       "hashtags": [
-        "#canmnt",
+        "#CanMNT",
         "#OHLDraft",
-        "#CANBIH",
+        "#USAPAR",
         "#TicketToHeavenEP3",
-        "#Caturday"
+        "#Smackdown"
       ],
       "regular_topics": [
         "Elon",
@@ -109,73 +109,74 @@
         "Bosnia",
         "World Cup",
         "SpaceX",
-        "MAGIC SHOP",
         "Larin",
         "Jonathan David",
         "$SPCX",
-        "DIMPLE",
-        "Trillionaire"
+        "Brazil",
+        "Trillionaire",
+        "Pulisic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 13 2026 13:49:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 15:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mohan Majhi Sarkar",
+        "#INDvsAFG",
         "#BackroomsOnDistrict",
         "Gurbaz",
-        "#INDvsAFG",
-        "#AstroTalkScamOnSamacharPlus",
         "Gurnoor Brar",
-        "#SkilledHogaIndia",
+        "#AstroTalkScamOnSamacharPlus",
+        "#MainVaapasAaunga",
+        "#GodNightSaturday",
+        "Mohan Majhi Sarkar",
         "\u092a\u0941\u0928\u0940\u0924 \u0917\u0941\u092a\u094d\u0924\u093e",
-        "DIMPLE",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
-        "#GodNightSaturday"
+        "Rohit Sharma",
+        "Leclerc"
       ],
       "hashtags": [
-        "#BackroomsOnDistrict",
         "#INDvsAFG",
+        "#BackroomsOnDistrict",
         "#AstroTalkScamOnSamacharPlus",
-        "#SkilledHogaIndia",
+        "#MainVaapasAaunga",
         "#GodNightSaturday"
       ],
       "regular_topics": [
-        "Mohan Majhi Sarkar",
         "Gurbaz",
         "Gurnoor Brar",
+        "Mohan Majhi Sarkar",
         "\u092a\u0941\u0928\u0940\u0924 \u0917\u0941\u092a\u094d\u0924\u093e",
-        "DIMPLE",
+        "Rohit Sharma",
+        "Leclerc",
+        "TU TE MAIN FT TANYA",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e",
-        "MAGIC SHOP",
-        "\u0938\u092e\u093e\u091a\u093e\u0930 \u092a\u094d\u0932\u0938",
-        "\u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u091c\u0928\u0930\u0932 \u0927\u0940\u0930\u091c \u0938\u0947\u0920",
-        "Jorhat",
-        "Ddaeng"
+        "Brazil",
+        "DIMPLE",
+        "namjoon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 13 2026 14:39:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 13 2026 16:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Switzerland",
+        "#AbdulsalamiLegacy2026",
         "Rabe Abubakar",
         "Slovan Bratislava",
-        "#AbdulsalamiLegacy2026",
         "Yaya Tour\u00e9",
-        "Katsina State",
-        "Nnamdi Kanu",
+        "Betway",
         "Kemi Badenoch",
-        "Arewa",
-        "Ethiopia"
+        "Leclerc",
+        "Cunha",
+        "Nnamdi Kanu"
       ],
       "hashtags": [
         "#AbdulsalamiLegacy2026",
+        "#BarcelonaGP",
         "#salland\u0131k"
       ],
       "regular_topics": [
@@ -184,12 +185,12 @@
         "Rabe Abubakar",
         "Slovan Bratislava",
         "Yaya Tour\u00e9",
-        "Katsina State",
-        "Nnamdi Kanu",
+        "Betway",
         "Kemi Badenoch",
-        "Arewa",
-        "Ethiopia",
-        "Zlatan"
+        "Leclerc",
+        "Cunha",
+        "Nnamdi Kanu",
+        "Katsina State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
