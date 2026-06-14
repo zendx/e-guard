@@ -1,90 +1,90 @@
 {
-  "generated_at_utc": "2026-06-14T10:34:31.047860+00:00",
+  "generated_at_utc": "2026-06-14T12:54:45.937214+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 14 2026 10:20:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 12:03:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Knicks",
-        "Spurs",
-        "Brunson",
-        "Australia",
         "Good Sunday",
+        "Flag Day",
+        "Happy Birthday President Trump",
+        "Brunson",
+        "Muhammad Qasim",
+        "Happy Birthday Mr. President",
+        "#BBFanFest2026D2",
+        "Opie",
         "#njDOMINION",
-        "Wemby",
-        "Mike Brown",
-        "#tvlspoilers",
-        "Harper",
-        "Celtics"
+        "Blessed Sunday"
       ],
       "hashtags": [
-        "#njDOMINION",
-        "#tvlspoilers",
-        "#NBAFinals",
         "#BBFanFest2026D2",
-        "#tvltoledo"
+        "#njDOMINION",
+        "#CeraVeSunClubxPerthSanta",
+        "#sundayvibes",
+        "#tvlspoilers"
       ],
       "regular_topics": [
         "Knicks",
-        "Spurs",
-        "Brunson",
-        "Australia",
         "Good Sunday",
+        "Flag Day",
+        "Happy Birthday President Trump",
+        "Brunson",
+        "Muhammad Qasim",
+        "Happy Birthday Mr. President",
+        "Opie",
+        "Blessed Sunday",
         "Wemby",
-        "Mike Brown",
-        "Harper",
-        "Celtics",
-        "NBA Champions",
-        "Luka"
+        "PERTHSANTA SUN SHIELD ON"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 14 2026 09:52:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 11:36:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbclaurak",
         "English Channel",
-        "Knicks",
-        "Scotland",
-        "Australia",
-        "Turkey",
+        "#bbclaurak",
         "Haiti",
+        "Knicks",
+        "Australia",
         "Lisa Nandy",
-        "#trevorphillips",
-        "#SundayYellow",
-        "Richard Madeley"
+        "Turkey",
+        "Royal Marines",
+        "#tvlspoilers",
+        "RICU",
+        "Grenfell Tower"
       ],
       "hashtags": [
         "#bbclaurak",
-        "#trevorphillips",
+        "#tvlspoilers",
         "#SundayYellow",
         "#ShakespeareSunday",
-        "#AUSTUR",
-        "#HAISCO",
-        "#NBAFinals"
+        "#TrevorPhillips",
+        "#LeMans24",
+        "#AUSTUR"
       ],
       "regular_topics": [
         "English Channel",
-        "Knicks",
-        "Scotland",
-        "Australia",
-        "Turkey",
         "Haiti",
+        "Knicks",
+        "Australia",
         "Lisa Nandy",
-        "Richard Madeley",
-        "Grenfell Tower",
+        "Turkey",
         "Royal Marines",
-        "John McGinn"
+        "RICU",
+        "Grenfell Tower",
+        "Daily Mail",
+        "Armed Forces"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 14 2026 09:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 11:32:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Knicks",
@@ -92,18 +92,18 @@
         "Brunson",
         "Qatar",
         "Haiti",
-        "Australia",
-        "Scotland",
+        "Good Sunday",
         "Switzerland",
+        "Scotland",
         "World Cup",
         "Spurs"
       ],
       "hashtags": [
         "#BRAMAR",
-        "#tvlspoilers",
         "#NBAFinals",
-        "#ohldraft",
-        "#OnEveryCorner"
+        "#OHLDraft",
+        "#OnEveryCorner",
+        "#Socceroos"
       ],
       "regular_topics": [
         "Brazil",
@@ -112,9 +112,9 @@
         "Brunson",
         "Qatar",
         "Haiti",
-        "Australia",
-        "Scotland",
+        "Good Sunday",
         "Switzerland",
+        "Scotland",
         "World Cup",
         "Spurs"
       ],
@@ -123,76 +123,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 14 2026 09:42:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 11:27:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HarSafarMeinDumHai",
         "#Dhurandhar2RawAndUndekha",
         "#BharatInnovates2026",
-        "#BasantKhedia",
         "#12YearsOfSwasthBharat",
-        "#WeSupportPeace",
+        "#apollotyres",
         "\u092a\u094d\u0930\u093f\u0902\u0938 \u092f\u093e\u0926\u0935",
         "\u0930\u094c\u0936\u0928 \u0906\u0928\u0902\u0926",
-        "Australia",
-        "Purulia",
-        "Everest Base Camp",
-        "\u091c\u094d\u091e\u093e\u0928 \u092c\u093f\u0902\u0926\u0941"
+        "PERTHSANTA SUN SHIELD ON",
+        "Emmanuel Macron",
+        "\u091c\u094d\u091e\u093e\u0928 \u092c\u093f\u0902\u0926\u0941",
+        "14 Indian"
       ],
       "hashtags": [
+        "#HarSafarMeinDumHai",
         "#Dhurandhar2RawAndUndekha",
         "#BharatInnovates2026",
-        "#BasantKhedia",
         "#12YearsOfSwasthBharat",
-        "#WeSupportPeace"
+        "#apollotyres"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u093f\u0902\u0938 \u092f\u093e\u0926\u0935",
         "\u0930\u094c\u0936\u0928 \u0906\u0928\u0902\u0926",
-        "Australia",
-        "Purulia",
-        "Everest Base Camp",
+        "PERTHSANTA SUN SHIELD ON",
+        "Emmanuel Macron",
         "\u091c\u094d\u091e\u093e\u0928 \u092c\u093f\u0902\u0926\u0941",
-        "\u0906\u092f\u0941\u0937\u094d\u092e\u093e\u0928 \u092d\u093e\u0930\u0924",
-        "Turkey",
-        "\u0935\u093f\u0928\u092f \u0915\u091f\u093f\u092f\u093e\u0930",
-        "Ethanol",
-        "Vantara"
+        "14 Indian",
+        "Australia",
+        "Everest Base Camp",
+        "India and France",
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+        "Ethanol"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 14 2026 09:40:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 12:15:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Netherlands",
+        "Turkey",
         "Australia",
+        "Church",
+        "Scotland",
+        "Igor",
+        "Pedro Porro",
         "Blessed Sunday",
-        "Knicks",
-        "Another Sunday",
-        "Happy Sunday X",
-        "Today is Sunday",
-        "Pooja",
-        "Turkiye",
-        "Ayyoub Bouaddi",
+        "Cura\u00e7ao",
         "The IMF",
-        "Cura\u00e7ao"
+        "$MESSY"
       ],
       "hashtags": [
-        "#AUSTUR",
         "#SundayService",
-        "#FirmesPorLaPatr\u00eda"
+        "#AUSTUR"
       ],
       "regular_topics": [
+        "Netherlands",
+        "Turkey",
         "Australia",
+        "Church",
+        "Scotland",
+        "Igor",
+        "Pedro Porro",
         "Blessed Sunday",
-        "Knicks",
-        "Another Sunday",
-        "Happy Sunday X",
-        "Today is Sunday",
-        "Pooja",
-        "Turkiye",
-        "Ayyoub Bouaddi",
+        "Cura\u00e7ao",
         "The IMF",
-        "Cura\u00e7ao"
+        "$MESSY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
