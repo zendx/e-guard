@@ -1,196 +1,198 @@
 {
-  "generated_at_utc": "2026-06-14T22:57:11.683402+00:00",
+  "generated_at_utc": "2026-06-15T00:03:01.205039+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 14 2026 22:24:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 23:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Japan",
         "Oliver Tree",
+        "Ecuador",
+        "Izzy",
         "Troy",
         "Dutch",
-        "Izzy",
         "Germany",
         "#NEDJPN",
         "Summerville",
-        "Bud Cauley",
-        "Gaspi",
-        "Koeman"
+        "#artfight",
+        "MREs"
       ],
       "hashtags": [
         "#NEDJPN",
         "#artfight",
-        "#hottiegabby",
+        "#UFCWhiteHouse",
         "#NEDvsJPN",
-        "#NASCAR"
+        "#hottiegabby"
       ],
       "regular_topics": [
         "Japan",
         "Oliver Tree",
+        "Ecuador",
+        "Izzy",
         "Troy",
         "Dutch",
-        "Izzy",
         "Germany",
         "Summerville",
+        "MREs",
         "Bud Cauley",
-        "Gaspi",
-        "Koeman",
-        "The Office"
+        "Hezbollah"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 14 2026 21:06:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 22:48:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Netherlands",
-        "Priya",
+        "Japan",
         "#NEDJPN",
-        "Germany",
+        "Summerville",
         "Dutch",
-        "Mica",
-        "Curacao",
-        "Tommy",
+        "Priya",
         "Oliver Tree",
-        "Lola",
-        "#GERCUW"
+        "Koeman",
+        "Ecuador",
+        "Gravenberch",
+        "Mica",
+        "Germany"
       ],
       "hashtags": [
         "#NEDJPN",
-        "#GERCUW",
         "#nedjap",
-        "#wildflowerhour",
-        "#sts70s"
+        "#loveislandaftersun",
+        "#GERCUW",
+        "#wildflowerhour"
       ],
       "regular_topics": [
-        "Netherlands",
-        "Priya",
-        "Germany",
+        "Japan",
+        "Summerville",
         "Dutch",
-        "Mica",
-        "Curacao",
-        "Tommy",
+        "Priya",
         "Oliver Tree",
-        "Lola",
-        "Samraj",
-        "Gakpo"
+        "Koeman",
+        "Ecuador",
+        "Gravenberch",
+        "Mica",
+        "Germany",
+        "Liv Morgan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 14 2026 21:51:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 23:36:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Japan",
-        "Oliver Tree",
         "Brazil",
+        "Oliver Tree",
         "Knicks",
-        "Summerville",
+        "Iran",
+        "Ecuador",
         "Elon",
         "Germany",
         "Cura\u00e7ao",
-        "Hoffman",
-        "Lewis",
-        "Brunson"
+        "Morocco",
+        "Lewis"
       ],
       "hashtags": [
-        "#NEDJPN",
-        "#BlueJays",
-        "#Marlies",
         "#GERCUW",
-        "#OnEveryCorner"
+        "#NEDJPN",
+        "#DBD10"
       ],
       "regular_topics": [
         "Japan",
-        "Oliver Tree",
         "Brazil",
+        "Oliver Tree",
         "Knicks",
-        "Summerville",
+        "Iran",
+        "Ecuador",
         "Elon",
         "Germany",
         "Cura\u00e7ao",
-        "Hoffman",
-        "Lewis",
-        "Brunson"
+        "Morocco",
+        "Lewis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 14 2026 21:45:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 23:30:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Japan",
         "Germany",
-        "Netherlands",
-        "#INDvsPAK",
-        "#M3M_IFC_4_INDIA",
-        "Deepti Sharma",
         "#NEDJPN",
+        "#INDvsPAK",
+        "Dutch",
         "Curacao",
         "Oliver Tree",
-        "#SEVEN_SAFE_PLACE",
-        "#HEESEUNG_OUR_SEVENTH_NOTE",
-        "Dutch"
+        "Deepti Sharma",
+        "Ecuador",
+        "#M3M_IFC_4_INDIA",
+        "Nakamura"
       ],
       "hashtags": [
+        "#NEDJPN",
         "#INDvsPAK",
         "#M3M_IFC_4_INDIA",
-        "#NEDJPN",
         "#SEVEN_SAFE_PLACE",
-        "#HEESEUNG_OUR_SEVENTH_NOTE"
+        "#HEESEUNG_OUR_SEVENTH_NOTE",
+        "#Fifa_worldcup2026",
+        "#GERCUW",
+        "#T20WorldCup",
+        "#WomenInBlue",
+        "#GodNightSunday"
       ],
       "regular_topics": [
+        "Japan",
         "Germany",
-        "Netherlands",
-        "Deepti Sharma",
+        "Dutch",
         "Curacao",
         "Oliver Tree",
-        "Dutch",
-        "Cucurella",
+        "Deepti Sharma",
+        "Ecuador",
         "Nakamura",
+        "Cucurella",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
-        "NCPI",
-        "Kai Havertz"
+        "NCPI"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 14 2026 22:33:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 14 2026 23:27:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Japan",
         "Germany",
+        "Ecuador",
         "#NEDJPN",
+        "Summerville",
         "Chelsea",
         "Cucurella",
-        "Summerville",
         "Madrid",
-        "Koeman",
-        "Dutch",
         "Van Dijk",
-        "Ecuador"
+        "Koeman",
+        "Dutch"
       ],
       "hashtags": [
         "#NEDJPN",
-        "#GERCUW",
-        "#Fifa_worldcup2026"
+        "#GERCUW"
       ],
       "regular_topics": [
         "Japan",
         "Germany",
+        "Ecuador",
+        "Summerville",
         "Chelsea",
         "Cucurella",
-        "Summerville",
         "Madrid",
+        "Van Dijk",
         "Koeman",
         "Dutch",
-        "Van Dijk",
-        "Ecuador",
-        "Nakamura"
+        "Curacao"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
