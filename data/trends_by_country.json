@@ -1,113 +1,111 @@
 {
-  "generated_at_utc": "2026-06-15T22:31:23.937666+00:00",
+  "generated_at_utc": "2026-06-16T00:20:03.805732+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 15 2026 20:51:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 15 2026 23:27:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lukaku",
-        "Cape Verde",
-        "Spain",
-        "Belgium",
-        "Michelle Obama",
+        "Uruguay",
+        "Newsom",
         "B-52",
-        "Espa\u00f1a",
-        "Macron",
-        "Edwards Air Force Base",
-        "Boardy Pro",
-        "Melania"
+        "Lukaku",
+        "Michelle",
+        "Ninja Theory",
+        "Cape Verde",
+        "Belgium",
+        "Newscum",
+        "Melania",
+        "Spain"
       ],
       "hashtags": [
-        "#BELEGY"
+        "#UFCWhiteHouse250",
+        "#MLBS6Spoilers"
       ],
       "regular_topics": [
-        "Lukaku",
-        "Cape Verde",
-        "Spain",
-        "Belgium",
-        "Michelle Obama",
+        "Uruguay",
+        "Newsom",
         "B-52",
-        "Espa\u00f1a",
-        "Macron",
-        "Edwards Air Force Base",
-        "Boardy Pro",
-        "Melania"
+        "Lukaku",
+        "Michelle",
+        "Ninja Theory",
+        "Cape Verde",
+        "Belgium",
+        "Newscum",
+        "Melania",
+        "Spain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 15 2026 21:15:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 15 2026 23:48:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Uruguay",
+        "Tonali",
+        "#KSAURU",
         "Lukaku",
-        "Cape Verde",
         "Belgium",
-        "#BELEGY",
-        "Simba",
-        "Yasmin",
-        "Giroud",
+        "Cape Verde",
+        "Ugarte",
+        "Bielsa",
         "Young Bob",
-        "Danny Murphy",
-        "Aidan",
-        "Big Rom"
+        "Spain",
+        "Simba"
       ],
       "hashtags": [
-        "#BELEGY",
-        "#ESPCPV",
-        "#WorldCup2026"
+        "#KSAURU",
+        "#ESPCPV"
       ],
       "regular_topics": [
+        "Uruguay",
+        "Tonali",
         "Lukaku",
-        "Cape Verde",
         "Belgium",
-        "Simba",
-        "Yasmin",
-        "Giroud",
+        "Cape Verde",
+        "Ugarte",
+        "Bielsa",
         "Young Bob",
-        "Danny Murphy",
-        "Aidan",
-        "Big Rom",
-        "Doku"
+        "Spain",
+        "Simba",
+        "Muslera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 15 2026 22:00:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 15 2026 23:44:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lukaku",
         "Cape Verde",
         "Spain",
-        "Cabo Verde",
         "Michelle Obama",
+        "Cabo Verde",
         "Stanley Cup",
-        "#UFCWhiteHouse",
-        "Belgium",
         "Boardy Pro",
-        "Marner",
-        "Iran"
+        "Iran",
+        "Uruguay",
+        "#UFCWhiteHouse",
+        "Lukaku",
+        "Marner"
       ],
       "hashtags": [
         "#UFCWhiteHouse",
         "#UFCFreedom250",
-        "#BELEGY",
-        "#UFC250",
-        "#eSIM"
+        "#UFC250"
       ],
       "regular_topics": [
-        "Lukaku",
         "Cape Verde",
         "Spain",
-        "Cabo Verde",
         "Michelle Obama",
+        "Cabo Verde",
         "Stanley Cup",
-        "Belgium",
         "Boardy Pro",
-        "Marner",
         "Iran",
+        "Uruguay",
+        "Lukaku",
+        "Marner",
         "Gaethje"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -115,78 +113,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 15 2026 21:54:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 15 2026 23:39:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spain",
-        "Lukaku",
-        "Belgium",
-        "#BELEGY",
-        "#HappyBirthdayAmaalMallik",
+        "#innovationatjio",
+        "#InvestmentDaddy",
+        "#TriveniUPconclave",
         "#\u0915\u093f\u0938\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
-        "Vozinha",
         "Sant RampalJi YouTube",
-        "#Stand_With_SevEN",
-        "#HYBE_BELIFT_Boycott",
-        "1st Class"
+        "Spain",
+        "#SameTerrorPlaybook",
+        "terror has no borders",
+        "ashnisha solar expansion",
+        "Lukaku",
+        "Cabo Verde"
       ],
       "hashtags": [
-        "#BELEGY",
-        "#HappyBirthdayAmaalMallik",
+        "#innovationatjio",
+        "#InvestmentDaddy",
+        "#TriveniUPconclave",
         "#\u0915\u093f\u0938\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928",
-        "#Stand_With_SevEN",
-        "#HYBE_BELIFT_Boycott",
-        "#PanthVirodhiMann"
+        "#SameTerrorPlaybook"
       ],
       "regular_topics": [
-        "Spain",
-        "Lukaku",
-        "Belgium",
-        "Vozinha",
         "Sant RampalJi YouTube",
-        "1st Class",
-        "Ferran",
-        "Pedri",
-        "Oyarzabal",
-        "Emam Ashour",
-        "Yamal"
+        "Spain",
+        "terror has no borders",
+        "ashnisha solar expansion",
+        "Lukaku",
+        "Cabo Verde",
+        "Belgium",
+        "lpu study grant",
+        "\u0930\u094c\u0936\u0928 \u0906\u0928\u0902\u0926",
+        "\u092a\u094d\u0930\u093f\u0902\u0938 \u092f\u093e\u0926\u0935",
+        "Slovakia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 15 2026 21:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 15 2026 23:36:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Saudi Arabia",
         "Spain",
         "Lukaku",
         "Belgium",
+        "Baba Ijesha",
         "#BELEGY",
+        "#KSAURU",
         "Emam Ashour",
         "Vozinha",
-        "Ferran Torres",
-        "Baba Ijesha",
-        "Uruguay",
-        "Pedri",
-        "#ESPCPV"
+        "Muslera",
+        "Luminee"
       ],
       "hashtags": [
         "#BELEGY",
+        "#KSAURU",
         "#ESPCPV",
-        "#WorldCupDaily",
-        "#Espa\u00f1a"
+        "#Espa\u00f1a",
+        "#\u0915\u093f\u0938\u0915\u094b_\u092e\u093f\u0932\u0947_\u0915\u092c\u0940\u0930\u092d\u0917\u0935\u093e\u0928"
       ],
       "regular_topics": [
+        "Saudi Arabia",
         "Spain",
         "Lukaku",
         "Belgium",
+        "Baba Ijesha",
         "Emam Ashour",
         "Vozinha",
-        "Ferran Torres",
-        "Baba Ijesha",
-        "Uruguay",
+        "Muslera",
+        "Luminee",
         "Pedri",
-        "Big Rom",
-        "Yamal"
+        "Ferran Torres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
