@@ -1,47 +1,49 @@
 {
-  "generated_at_utc": "2026-06-16T21:57:50.278368+00:00",
+  "generated_at_utc": "2026-06-16T23:19:01.807044+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 16 2026 21:03:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 16 2026 21:54:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Senegal",
         "Mbappe",
-        "Olise",
+        "Senegal",
         "Dembele",
-        "Rabiot",
         "Barcola",
+        "Rabiot",
+        "Francia",
         "#FRASEN",
-        "Sarr",
-        "Cherki",
-        "Whoopi",
-        "The View"
+        "Mbaye",
+        "The View",
+        "Huckabee",
+        "Whoopi"
       ],
       "hashtags": [
         "#FRASEN",
         "#SaveStargate",
-        "#ElEsequiboEsDeVenezuela"
+        "#TheFive",
+        "#FRAvsSEN",
+        "#jimromeonx"
       ],
       "regular_topics": [
-        "Senegal",
         "Mbappe",
-        "Olise",
+        "Senegal",
         "Dembele",
-        "Rabiot",
         "Barcola",
-        "Sarr",
-        "Cherki",
-        "Whoopi",
+        "Rabiot",
+        "Francia",
+        "Mbaye",
         "The View",
-        "Deschamps"
+        "Huckabee",
+        "Whoopi",
+        "Sarr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 16 2026 21:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 16 2026 22:20:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mbappe",
         "#FRASEN",
@@ -49,14 +51,15 @@
         "Simba",
         "Dembele",
         "Barcola",
-        "Sarr",
-        "Rabiot",
+        "Sammy",
         "Mbaye",
-        "Mendy",
-        "Sammy"
+        "Norway",
+        "Rabiot",
+        "Sarr"
       ],
       "hashtags": [
-        "#FRASEN"
+        "#FRASEN",
+        "#IRQNOR"
       ],
       "regular_topics": [
         "Mbappe",
@@ -64,31 +67,31 @@
         "Simba",
         "Dembele",
         "Barcola",
-        "Sarr",
-        "Rabiot",
-        "Mbaye",
-        "Mendy",
         "Sammy",
-        "Mica"
+        "Mbaye",
+        "Norway",
+        "Rabiot",
+        "Sarr",
+        "Mendy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 16 2026 21:21:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 16 2026 22:12:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mbappe",
         "Senegal",
         "Olise",
         "#FRASEN",
-        "Dembele",
         "Woll",
-        "Sarr",
-        "Rabiot",
+        "Dembele",
         "Barcola",
+        "Hockey Night in Canada",
         "Mbaye",
-        "Hockey Night in Canada"
+        "Sarr",
+        "Rabiot"
       ],
       "hashtags": [
         "#FRASEN",
@@ -99,21 +102,21 @@
         "Mbappe",
         "Senegal",
         "Olise",
-        "Dembele",
         "Woll",
+        "Dembele",
+        "Barcola",
+        "Hockey Night in Canada",
+        "Mbaye",
         "Sarr",
         "Rabiot",
-        "Barcola",
-        "Mbaye",
-        "Hockey Night in Canada",
-        "Mendy"
+        "HNIC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 16 2026 21:15:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 16 2026 22:06:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mbappe",
         "Senegal",
@@ -134,9 +137,11 @@
         "#FRAvsSEN",
         "#Monetary_Boycott_BELIFT",
         "#DeshKiPathshala",
-        "#Vantara",
         "#G7Summit",
-        "#AnantInvestorTrust"
+        "#KiaraAdvani",
+        "#HaldighatiVijay450",
+        "#WUTheSeriesEP7",
+        "#Messi"
       ],
       "regular_topics": [
         "Mbappe",
@@ -147,47 +152,46 @@
         "Sarr",
         "Telegram",
         "Cherki",
-        "Barcola",
-        "Deschamps",
-        "Kounde"
+        "Norway",
+        "Bradley Barcola",
+        "Deschamps"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 16 2026 21:12:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 16 2026 22:56:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mbappe",
         "Senegal",
-        "#FRASEN",
+        "Haaland",
+        "Iraq",
         "Dembele",
-        "Sarr",
+        "#FRASEN",
         "Barcola",
+        "Sarr",
         "Rabiot",
-        "Mendy",
-        "Cherki",
-        "Nicolas Jackson",
-        "#FRAvsSEN"
+        "#IRQNOR",
+        "Mendy"
       ],
       "hashtags": [
         "#FRASEN",
-        "#FRAvsSEN",
-        "#1DayToDigitalPayExpo",
-        "#CocaColaAt75"
+        "#IRQNOR",
+        "#FRAvsSEN"
       ],
       "regular_topics": [
         "Mbappe",
         "Senegal",
+        "Haaland",
+        "Iraq",
         "Dembele",
-        "Sarr",
         "Barcola",
+        "Sarr",
         "Rabiot",
         "Mendy",
-        "Cherki",
-        "Nicolas Jackson",
-        "Doue",
-        "Mane"
+        "Klose",
+        "Nicolas Jackson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
