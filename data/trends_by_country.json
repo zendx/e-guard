@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-06-19T16:25:39.554957+00:00",
+  "generated_at_utc": "2026-06-19T18:12:05.619406+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jun 19 2026 15:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 16:24:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Juneteenth",
         "Fauci",
         "Lebanon",
         "Meloni",
-        "Tulsi",
         "Hezbollah",
+        "#OlandriaxRollingStoneAfrica",
+        "Tulsi",
         "Emancipation Proclamation",
+        "Italy",
         "#FreedomDay",
-        "LINGORM ILF EP1",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1",
         "Galveston"
       ],
       "hashtags": [
+        "#OlandriaxRollingStoneAfrica",
         "#FreedomDay",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1",
-        "#SeLeCay\u00f3ElTeatro",
-        "#TheChi",
-        "#FursuitFriday"
+        "#FursuitFriday",
+        "#TheChi"
       ],
       "regular_topics": [
         "Juneteenth",
         "Fauci",
         "Lebanon",
         "Meloni",
-        "Tulsi",
         "Hezbollah",
+        "Tulsi",
         "Emancipation Proclamation",
-        "LINGORM ILF EP1",
+        "Italy",
         "Galveston",
-        "Good Friday",
-        "Paul Bearer"
+        "Paul Bearer",
+        "LINGORM ILF EP1"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jun 19 2026 15:56:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 16:48:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Burnham",
         "Touleen",
-        "Venetian Sun",
         "Lebanon",
         "Coronation Stakes",
-        "Wayne Lordan",
         "Precise",
-        "Meloni",
+        "Venetian Sun",
+        "Green Carrera",
+        "Water To Wine",
         "True Love",
-        "Hezbollah",
-        "Lebanese"
+        "Wayne Lordan",
+        "Meloni"
       ],
       "hashtags": [
         "#oafc",
         "#VALORANTMasters",
         "#drfc",
-        "#WHFreeBet",
-        "#PUSB"
+        "#ENGvNZ",
+        "#WHFreeBet"
       ],
       "regular_topics": [
         "Burnham",
         "Touleen",
-        "Venetian Sun",
         "Lebanon",
         "Coronation Stakes",
-        "Wayne Lordan",
         "Precise",
-        "Meloni",
+        "Venetian Sun",
+        "Green Carrera",
+        "Water To Wine",
         "True Love",
-        "Hezbollah",
-        "Lebanese"
+        "Wayne Lordan",
+        "Meloni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jun 19 2026 15:48:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 17:32:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Qatar",
         "Raddysh",
         "Kone",
         "Jonathan David",
         "#CanMNT",
-        "Leafs",
-        "Knies",
         "Iran",
+        "Knies",
         "Ronaldo",
-        "Kucherov",
-        "Lebanon"
+        "Lebanon",
+        "Leafs",
+        "Kucherov"
       ],
       "hashtags": [
         "#CanMNT",
+        "#UFC6",
+        "#OlandriaxRollingStoneAfrica",
         "#CANQAT",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1",
-        "#FursuitFriday",
-        "#criticalrolespoilers"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1"
       ],
       "regular_topics": [
         "Qatar",
         "Raddysh",
         "Kone",
         "Jonathan David",
-        "Leafs",
-        "Knies",
         "Iran",
+        "Knies",
         "Ronaldo",
-        "Kucherov",
         "Lebanon",
-        "Rielly"
+        "Leafs",
+        "Kucherov",
+        "Jonathan Toews"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jun 19 2026 14:52:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 17:28:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SpiderManOnDistrict",
-        "#JioIPO",
-        "#RILAGM",
         "#EknathShinde",
+        "#DeshKiPathshalaonNews18India",
+        "#SpiderManOnDistrict",
+        "#RILAGM",
         "#Nagabandham",
-        "Village Of Excellence",
-        "Dhurandhar The Revenge",
         "Shiv Sena",
-        "Maharashtra",
         "Meloni",
-        "Marathi Manus"
+        "Rishabh Pant",
+        "Delhi Capitals",
+        "WILLIAMEST FRANKFURT D1",
+        "Marathi"
       ],
       "hashtags": [
-        "#SpiderManOnDistrict",
-        "#JioIPO",
-        "#RILAGM",
         "#EknathShinde",
+        "#DeshKiPathshalaonNews18India",
+        "#SpiderManOnDistrict",
+        "#RILAGM",
         "#Nagabandham"
       ],
       "regular_topics": [
-        "Village Of Excellence",
-        "Dhurandhar The Revenge",
         "Shiv Sena",
-        "Maharashtra",
         "Meloni",
-        "Marathi Manus",
-        "NIA DSP R.K. Meena",
-        "MyJio",
-        "\u0924\u094d\u092f\u093e\u0917\u0940 \u0938\u092e\u093e\u091c",
+        "Rishabh Pant",
+        "Delhi Capitals",
+        "WILLIAMEST FRANKFURT D1",
+        "Marathi",
+        "Village Of Excellence",
+        "Malayalam Trailer",
+        "Kudos to Anant Ambani",
         "Italy",
-        "Daud Se Dhyan"
+        "Henry Nicholls"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jun 19 2026 15:42:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 16:33:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#B4RAW",
+        "Scotland",
         "Joao Neves",
         "Australia",
         "Mason Greenwood",
-        "Scotland",
-        "Portuguese",
-        "#DCRomanticaWendyShay",
-        "No Chelsea",
+        "Grimaldo",
         "Ekiti",
-        "Figo",
-        "Coventry",
-        "Lebanon"
+        "Fran Garc\u00eda",
+        "Anne Hathaway",
+        "Portuguese",
+        "No Chelsea"
       ],
       "hashtags": [
+        "#B4RAW",
         "#DCRomanticaWendyShay",
         "#WorldSickleCellDay",
         "#TinubuAgain",
-        "#PremierLeague",
-        "#GGMU"
+        "#PremierLeague"
       ],
       "regular_topics": [
+        "Scotland",
         "Joao Neves",
         "Australia",
         "Mason Greenwood",
-        "Scotland",
+        "Grimaldo",
+        "Ekiti",
+        "Fran Garc\u00eda",
+        "Anne Hathaway",
         "Portuguese",
         "No Chelsea",
-        "Ekiti",
-        "Figo",
-        "Coventry",
-        "Lebanon",
-        "Israel and Hezbollah"
+        "Lebanon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
