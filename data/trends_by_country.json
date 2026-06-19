@@ -1,138 +1,136 @@
 {
-  "generated_at_utc": "2026-06-19T21:39:25.479267+00:00",
+  "generated_at_utc": "2026-06-19T22:41:21.494840+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jun 19 2026 20:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 21:39:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#USMNT",
         "Australia",
         "Juneteenth",
         "Freeman",
         "Balogun",
-        "#UFC6",
-        "Fauci",
-        "Poch",
         "Team USA",
-        "Pretty Ricky",
-        "Pulisic"
+        "Poch",
+        "Seattle",
+        "Country Roads",
+        "Fauci",
+        "#UFC6"
       ],
       "hashtags": [
         "#USMNT",
         "#UFC6",
-        "#OlandriaxRollingStoneAfrica",
-        "#SonicMe",
-        "#fifa_world_cup_2026"
+        "#UnitedStates"
       ],
       "regular_topics": [
         "Australia",
         "Juneteenth",
         "Freeman",
         "Balogun",
-        "Fauci",
-        "Poch",
         "Team USA",
-        "Pretty Ricky",
-        "Pulisic",
-        "Go USA",
-        "Seattle"
+        "Poch",
+        "Seattle",
+        "Country Roads",
+        "Fauci",
+        "Aussies",
+        "Pulisic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jun 19 2026 21:09:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 22:00:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#USAAUS",
-        "Ellie",
-        "Namibia",
-        "Bedford",
-        "Poch",
-        "#TOTP",
-        "Balogun",
+        "#loveislanduk",
         "Mica",
-        "Samraj",
-        "Russell Crowe",
-        "Halle"
+        "Ellie",
+        "Bedford",
+        "#SCOMOR",
+        "Namibia",
+        "Priya",
+        "Poch",
+        "Balogun",
+        "Russell Crowe"
       ],
       "hashtags": [
         "#USAAUS",
+        "#loveislanduk",
+        "#SCOMOR",
         "#TOTP",
-        "#USMNT",
-        "#UFC6",
-        "#itfc"
+        "#USMNT"
       ],
       "regular_topics": [
+        "Mica",
         "Ellie",
-        "Namibia",
         "Bedford",
+        "Namibia",
+        "Priya",
         "Poch",
         "Balogun",
-        "Mica",
-        "Samraj",
         "Russell Crowe",
-        "Halle",
         "Aussies",
-        "Simba"
+        "C'mon Scotland",
+        "Scotland v Morocco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jun 19 2026 21:00:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 21:54:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Raddysh",
         "Qatar",
-        "Australia",
-        "Kone",
-        "Gausman",
         "Lebanon",
-        "Iran",
+        "Kone",
+        "Australia",
         "Jonathan David",
-        "Brendon Little",
+        "Juneteenth",
+        "Kucherov",
         "Ronaldo",
-        "Leafs"
+        "Leafs",
+        "Gausman"
       ],
       "hashtags": [
         "#CanMNT",
-        "#crowncoins",
         "#UFC6",
         "#USMNT",
-        "#Socceroos"
+        "#CANQAT",
+        "#USAAUS"
       ],
       "regular_topics": [
         "Raddysh",
         "Qatar",
-        "Australia",
-        "Kone",
-        "Gausman",
         "Lebanon",
-        "Iran",
+        "Kone",
+        "Australia",
         "Jonathan David",
-        "Brendon Little",
+        "Juneteenth",
+        "Kucherov",
         "Ronaldo",
-        "Leafs"
+        "Leafs",
+        "Gausman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jun 19 2026 20:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 20:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SevEN_Forever",
         "#Boycott_BELIFT_Lab_HYBE",
         "#WilliamEstFMinFrankfurt",
-        "#EknathShinde",
         "WILLIAMEST FRANKFURT D1",
-        "#DeshKiPathshalaonNews18India",
+        "#EknathShinde",
         "Poch",
+        "#DeshKiPathshalaonNews18India",
+        "Bedford",
         "Neeraj Chopra",
         "Pant",
-        "Bedford",
         "Meloni"
       ],
       "hashtags": [
@@ -140,19 +138,25 @@
         "#Boycott_BELIFT_Lab_HYBE",
         "#WilliamEstFMinFrankfurt",
         "#EknathShinde",
-        "#DeshKiPathshalaonNews18India"
+        "#DeshKiPathshalaonNews18India",
+        "#JusticeForBharatTiwari",
+        "#ADogAndAPlaneEP4",
+        "#USMNT",
+        "#AmaalMallikLive",
+        "#DohaDL",
+        "#Deewana"
       ],
       "regular_topics": [
         "WILLIAMEST FRANKFURT D1",
         "Poch",
+        "Bedford",
         "Neeraj Chopra",
         "Pant",
-        "Bedford",
         "Meloni",
         "\u0938\u0902\u0924\u094b\u0937 \u0906\u0928\u0902\u0926",
+        "Australia",
         "Pulisic",
         "Word Break",
-        "1 BTC",
         "Anne Hathaway"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +164,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jun 19 2026 20:00:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 19 2026 21:45:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Australia",
-        "#USAAUS",
-        "iPad",
-        "Pochettino",
-        "Freeman",
         "Scotland",
+        "iPad",
+        "#USAAUS",
+        "Pochettino",
         "Laptop",
-        "#saraxshecan2026",
+        "Freeman",
         "USMNT",
-        "Burgess",
-        "#DCRomanticaWendyShay"
+        "The USA",
+        "Balogun",
+        "#Lagosfather"
       ],
       "hashtags": [
         "#USAAUS",
+        "#Lagosfather",
         "#saraxshecan2026",
-        "#DCRomanticaWendyShay",
-        "#B4RAW",
-        "#TheGatheringOn100"
+        "#KalakutaFrequency",
+        "#DCRomanticaWendyShay"
       ],
       "regular_topics": [
         "Australia",
+        "Scotland",
         "iPad",
         "Pochettino",
-        "Freeman",
-        "Scotland",
         "Laptop",
+        "Freeman",
         "USMNT",
-        "Burgess",
-        "Pulisic",
-        "Seattle",
-        "Christensen"
+        "The USA",
+        "Balogun",
+        "Round of 32",
+        "Air Force One"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
