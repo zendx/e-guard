@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-06-20T09:55:10.079811+00:00",
+  "generated_at_utc": "2026-06-20T11:48:52.383544+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 20 2026 09:39:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 11:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Saturday",
         "Turkey",
         "Paraguay",
-        "TADC",
-        "Bryce",
-        "Caine",
-        "T\u00fcrkiye",
-        "Almiron",
-        "#STARDOM",
         "PERTHSANTA RETURNS OUT",
         "#PerthSantaTimeStopperInSG",
-        "Group D"
+        "#STARDOM",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1",
+        "LINGORM ILF EP1",
+        "seungkwan",
+        "TADC",
+        "mingyu"
       ],
       "hashtags": [
-        "#STARDOM",
         "#PerthSantaTimeStopperInSG",
+        "#STARDOM",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1",
-        "#SmackDown",
-        "#TURPAR"
+        "#THOMBROWNE",
+        "#Boycott_BELIFT_Lab_HYBE"
       ],
       "regular_topics": [
+        "Good Saturday",
         "Turkey",
         "Paraguay",
-        "TADC",
-        "Bryce",
-        "Caine",
-        "T\u00fcrkiye",
-        "Almiron",
         "PERTHSANTA RETURNS OUT",
-        "Group D",
         "LINGORM ILF EP1",
+        "seungkwan",
+        "TADC",
+        "mingyu",
+        "T\u00fcrkiye",
+        "Caine",
         "Ribbit"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,77 +43,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 20 2026 09:12:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 10:54:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Burnham",
         "#SCOMAR",
         "Makerfield",
-        "Labour",
         "#USAAUS",
-        "Scotland",
+        "Labour",
+        "Morocco",
         "England",
         "Starmer",
         "Reform",
-        "Turkey",
-        "Clarke"
+        "Clarke",
+        "Bedford"
       ],
       "hashtags": [
         "#SCOMAR",
         "#USAAUS",
-        "#Caturday",
-        "#TOTP",
-        "#PostboxSaturday"
+        "#oufc",
+        "#saturdaykitchen",
+        "#Caturday"
       ],
       "regular_topics": [
         "Burnham",
         "Makerfield",
         "Labour",
-        "Scotland",
+        "Morocco",
         "England",
         "Starmer",
         "Reform",
-        "Turkey",
         "Clarke",
         "Bedford",
-        "McTominay"
+        "McTominay",
+        "Hanley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 20 2026 09:06:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 10:48:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Raddysh",
-        "Turkey",
         "Qatar",
-        "Paraguay",
         "Lebanon",
         "Juneteenth",
         "Fauci",
         "Kucherov",
         "Kone",
-        "Gausman",
+        "Turkey",
+        "gausman",
+        "Paraguay",
         "Meloni"
       ],
       "hashtags": [
         "#13YearsOfShivangi",
         "#SmackDown",
-        "#UFC6",
         "#canqat",
-        "#ShivangiJoshi"
+        "#marlies",
+        "#UFC6"
       ],
       "regular_topics": [
         "Raddysh",
-        "Turkey",
         "Qatar",
-        "Paraguay",
         "Lebanon",
         "Juneteenth",
         "Fauci",
         "Kucherov",
         "Kone",
-        "Gausman",
+        "Turkey",
+        "gausman",
+        "Paraguay",
         "Meloni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,80 +121,83 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 20 2026 09:00:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 11:34:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ZILOFashionIn60Mins",
+        "#SameTerrorPlaybook",
+        "#FutureAtStakeinOdisha",
+        "Terror Has No Borders",
         "#JaipurWatchCompanyAtG7",
-        "#AyodhyaSIT",
-        "#ThukraKeMeraPyaarJioHotstar",
-        "#OdishaWelcomesModiJi",
+        "#PMKISAN",
+        "#ToyStory5OnDistrict",
         "Abu Dhabi",
         "Prasidh Krishna",
         "\u0905\u092c\u0942 \u0927\u093e\u092c\u0940",
-        "Shanvika",
-        "The Baagh",
-        "The SIT"
+        "WILLIAMEST FRANKFURT D2",
+        "Shanvika"
       ],
       "hashtags": [
-        "#ZILOFashionIn60Mins",
+        "#SameTerrorPlaybook",
+        "#FutureAtStakeinOdisha",
         "#JaipurWatchCompanyAtG7",
-        "#AyodhyaSIT",
+        "#PMKISAN",
+        "#ToyStory5OnDistrict",
         "#ThukraKeMeraPyaarJioHotstar",
-        "#OdishaWelcomesModiJi",
+        "#ZILOFashionIn60Mins",
+        "#AyodhyaSIT",
         "#12YearsOfRisingNorthEast",
-        "#UnmuktChandStory",
-        "#neetexam2026",
-        "#AntiSikhAkali"
+        "#JantarMantar"
       ],
       "regular_topics": [
+        "Terror Has No Borders",
         "Abu Dhabi",
         "Prasidh Krishna",
         "\u0905\u092c\u0942 \u0927\u093e\u092c\u0940",
+        "WILLIAMEST FRANKFURT D2",
         "Shanvika",
         "The Baagh",
-        "The SIT",
         "\u092d\u0930\u0924 \u0924\u093f\u0935\u093e\u0930\u0940",
-        "Kuldeep",
+        "Pahadpur",
         "Nagpur",
-        "Turkey",
-        "Padma Theatre"
+        "PERTHSANTA RETURNS OUT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 20 2026 08:57:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 11:32:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Abazz",
+        "#EkitiDecides2026",
         "Turkey",
         "Cunha",
-        "PWFRFE",
-        "Paraguay",
-        "Arda Guler",
-        "#EkitiDecides2026",
+        "Nikita",
+        "Ronaldinho",
         "Raphinha",
-        "Haiti",
-        "Turkiye",
-        "ELIMINATED",
-        "Nikita"
+        "PWFRFE",
+        "Ravenna FC",
+        "Arda Guler",
+        "Italian Serie C"
       ],
       "hashtags": [
         "#EkitiDecides2026",
-        "#TURPAR",
-        "#BRAHAI"
+        "#22BetAlwaysPays",
+        "#SultanaAuduson",
+        "#BelongWithMSport",
+        "#Orohu1"
       ],
       "regular_topics": [
+        "Abazz",
         "Turkey",
         "Cunha",
-        "PWFRFE",
-        "Paraguay",
-        "Arda Guler",
-        "Raphinha",
-        "Haiti",
-        "Turkiye",
-        "ELIMINATED",
         "Nikita",
-        "Turkish"
+        "Ronaldinho",
+        "Raphinha",
+        "PWFRFE",
+        "Ravenna FC",
+        "Arda Guler",
+        "Italian Serie C",
+        "BVAS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
