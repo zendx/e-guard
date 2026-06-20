@@ -1,47 +1,47 @@
 {
-  "generated_at_utc": "2026-06-20T22:38:02.074353+00:00",
+  "generated_at_utc": "2026-06-20T23:56:57.004569+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 20 2026 21:42:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 23:27:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ivory Coast",
-        "Netherlands",
         "#UFCVegas119",
-        "Diomande",
-        "Wirtz",
-        "Costa de Marfil",
+        "Ozzie",
         "Undav",
-        "Amad",
-        "#GERCIV",
-        "Shane Collins",
-        "Kimmich"
+        "Costa de Marfil",
+        "Adingra",
+        "Mitch Raposo",
+        "Ashby",
+        "Diomande",
+        "Bolanos",
+        "Aswell"
       ],
       "hashtags": [
         "#UFCVegas119",
         "#GERCIV",
-        "#NEDSWE"
+        "#BravesCountry"
       ],
       "regular_topics": [
         "Ivory Coast",
-        "Netherlands",
-        "Diomande",
-        "Wirtz",
-        "Costa de Marfil",
+        "Ozzie",
         "Undav",
-        "Amad",
-        "Shane Collins",
-        "Kimmich",
-        "Alemania",
-        "Kessie"
+        "Costa de Marfil",
+        "Adingra",
+        "Mitch Raposo",
+        "Ashby",
+        "Diomande",
+        "Bolanos",
+        "Aswell",
+        "Wirtz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 20 2026 22:06:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 22:57:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ivory Coast",
         "#GERCIV",
@@ -49,18 +49,18 @@
         "Adingra",
         "Undav",
         "Nmecha",
-        "Amad",
         "Wirtz",
-        "Nagelsmann",
+        "Amad",
         "COBRA",
-        "Kessie"
+        "Nagelsmann",
+        "Humza"
       ],
       "hashtags": [
         "#GERCIV",
+        "#UFCVegas119",
         "#NEDSWE",
-        "#soundsofthe80s",
-        "#TakeThat",
-        "#GarnerMagnesi"
+        "#GarnerMagnesi",
+        "#TakeThat"
       ],
       "regular_topics": [
         "Ivory Coast",
@@ -68,35 +68,35 @@
         "Adingra",
         "Undav",
         "Nmecha",
-        "Amad",
         "Wirtz",
-        "Nagelsmann",
+        "Amad",
         "COBRA",
-        "Kessie",
-        "Singo"
+        "Nagelsmann",
+        "Humza",
+        "Edinburgh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 20 2026 22:00:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 23:43:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ivory Coast",
         "Adingra",
         "Lebanon",
+        "Undav",
         "Raddysh",
-        "Diomande",
-        "#GERCIV",
-        "Louis Varland",
+        "Vancouver",
         "Fauci",
-        "Amad",
+        "#UFCVegas119",
         "Meloni",
-        "Vancouver"
+        "Cote D'Ivoire",
+        "Netherlands"
       ],
       "hashtags": [
+        "#UFCVegas119",
         "#GERCIV",
-        "#BlueJays50",
         "#abstorm",
         "#NEDSWE",
         "#Caturday"
@@ -105,98 +105,89 @@
         "Ivory Coast",
         "Adingra",
         "Lebanon",
+        "Undav",
         "Raddysh",
-        "Diomande",
-        "Louis Varland",
-        "Fauci",
-        "Amad",
-        "Meloni",
         "Vancouver",
-        "Wirtz"
+        "Fauci",
+        "Meloni",
+        "Cote D'Ivoire",
+        "Netherlands",
+        "Hezbollah"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 20 2026 21:54:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 23:39:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ivory Coast",
-        "Netherlands",
-        "#GERCIV",
-        "Diomande",
-        "#NEDSWE",
-        "Isak",
-        "#Fairness_For_Our_SevEN",
-        "#BELIFT_Lab_Boycott_Continues",
-        "Kimmich",
-        "Wirtz",
-        "#SamayRaina"
+        "Germany",
+        "\u092d\u0930\u0924 \u0924\u093f\u0935\u093e\u0930\u0940",
+        "#JaipurWatchCompanyAtG7",
+        "#thukrakemerapyaarjiohotstar",
+        "#AyodhyaSIT",
+        "#futureatstakeinodisha",
+        "Abu Dhabi",
+        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e",
+        "Undav",
+        "terror has no borders",
+        "\u0905\u092c\u0942 \u0927\u093e\u092c\u0940"
       ],
       "hashtags": [
-        "#GERCIV",
-        "#NEDSWE",
-        "#Fairness_For_Our_SevEN",
-        "#BELIFT_Lab_Boycott_Continues",
-        "#SamayRaina",
-        "#WeSTANDwithSUNGHOON",
-        "#FathersDay",
-        "#TicketToHeavenEP4",
-        "#InternationalYogaDay",
-        "#ChennaiLoveStory",
-        "#NEDvsSWE"
+        "#JaipurWatchCompanyAtG7",
+        "#thukrakemerapyaarjiohotstar",
+        "#AyodhyaSIT",
+        "#futureatstakeinodisha",
+        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e"
       ],
       "regular_topics": [
-        "Ivory Coast",
+        "Germany",
+        "\u092d\u0930\u0924 \u0924\u093f\u0935\u093e\u0930\u0940",
+        "Abu Dhabi",
+        "Undav",
+        "terror has no borders",
+        "\u0905\u092c\u0942 \u0927\u093e\u092c\u0940",
+        "Prasidh Krishna",
+        "village of excellence",
         "Netherlands",
-        "Diomande",
-        "Isak",
-        "Kimmich",
-        "Wirtz",
-        "Dutch",
-        "Cody Gakpo",
-        "Latent",
-        "Alia",
-        "Brian Brobbey"
+        "Meloni",
+        "shanvika"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 20 2026 21:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 23:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ivory Coast",
+        "Adingra",
+        "Undav",
         "#GERCIV",
         "Diomande",
-        "Netherlands",
+        "Nmecha",
         "Amad",
+        "Cote D'Ivoire",
         "Kessie",
-        "Wizkid",
-        "Deniz Undav",
-        "Gakpo",
-        "Isak",
-        "Summerville"
+        "Netherlands",
+        "Nagelsmann"
       ],
       "hashtags": [
         "#GERCIV",
-        "#NEDSWE",
-        "#fetedelamusique",
-        "#mml2026",
-        "#WorldCupUpdates"
+        "#NEDSWE"
       ],
       "regular_topics": [
         "Ivory Coast",
+        "Adingra",
+        "Undav",
         "Diomande",
-        "Netherlands",
+        "Nmecha",
         "Amad",
+        "Cote D'Ivoire",
         "Kessie",
-        "Wizkid",
-        "Deniz Undav",
-        "Gakpo",
-        "Isak",
-        "Summerville",
-        "Kimmich"
+        "Netherlands",
+        "Nagelsmann",
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
