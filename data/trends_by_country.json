@@ -1,90 +1,88 @@
 {
-  "generated_at_utc": "2026-06-20T15:19:09.275720+00:00",
+  "generated_at_utc": "2026-06-20T16:57:34.145574+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 20 2026 14:48:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 16:32:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Saturday",
         "Oracle AI Trade",
-        "Fauci",
+        "Good Saturday",
         "#Caturday",
-        "#askchloe",
+        "Netherlands vs Sweden",
+        "Fauci",
         "#TicketToHeavenEP4",
         "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e486",
+        "Zverev",
         "THE AIR CONFESSED HEART",
-        "#SaturdayVibes",
         "Meloni",
-        "Pegula"
+        "Steve and Jared"
       ],
       "hashtags": [
         "#Caturday",
-        "#askchloe",
         "#TicketToHeavenEP4",
         "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e486",
-        "#SaturdayVibes"
+        "#SaturdayVibes",
+        "#HWCafe"
       ],
       "regular_topics": [
-        "Good Saturday",
         "Oracle AI Trade",
+        "Good Saturday",
+        "Netherlands vs Sweden",
         "Fauci",
+        "Zverev",
         "THE AIR CONFESSED HEART",
         "Meloni",
-        "Pegula",
-        "Netherlands vs Sweden",
-        "BARTHTANRAK HEAVENLY SECRET",
-        "Black Carolina",
-        "REBECCA X KISF2026",
-        "SEUNGKWAN"
+        "Steve and Jared",
+        "Fritz",
+        "Maher",
+        "Talarico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 20 2026 14:21:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 16:04:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Katie Hopkins",
-        "Goliath",
-        "Bethnal Green",
-        "Kalpana",
-        "Dominating",
-        "Joe Root",
-        "#bbcaq",
         "#NORvEXE",
+        "Bethnal Green",
+        "#NSL2026",
+        "Almeraq",
+        "#TheAncientWorldInFilmsOrSongs",
+        "Satono Reve",
         "#HWCafe",
-        "Dundee Arms",
-        "Orthodox"
+        "Kalpana",
+        "Fernandes",
+        "Darren Gee"
       ],
       "hashtags": [
-        "#bbcaq",
         "#NORvEXE",
+        "#NSL2026",
+        "#TheAncientWorldInFilmsOrSongs",
         "#HWCafe",
-        "#oufc",
-        "#Caturday",
-        "#ENGvNZ",
-        "#VALORANTMasters"
+        "#bbcaq"
       ],
       "regular_topics": [
         "Katie Hopkins",
-        "Goliath",
         "Bethnal Green",
+        "Almeraq",
+        "Satono Reve",
         "Kalpana",
-        "Dominating",
-        "Joe Root",
+        "Fernandes",
+        "Darren Gee",
+        "Goliath",
+        "Exeter",
         "Dundee Arms",
-        "Orthodox",
-        "Inter Miami",
-        "Britain First",
-        "Turkey"
+        "Netherlands vs Sweden"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 20 2026 15:06:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 15:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Raddysh",
         "Lebanon",
@@ -93,17 +91,17 @@
         "Juneteenth",
         "Meloni",
         "Elizabeth May",
-        "Kucherov",
         "Vancouver",
+        "Kucherov",
         "Hezbollah",
-        "Turkey"
+        "Strait of Hormuz"
       ],
       "hashtags": [
         "#canqat",
         "#SmackDown",
         "#UFC6",
-        "#Caturday",
-        "#screenshotsaturday"
+        "#screenshotsaturday",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP1"
       ],
       "regular_topics": [
         "Raddysh",
@@ -113,88 +111,88 @@
         "Juneteenth",
         "Meloni",
         "Elizabeth May",
-        "Kucherov",
         "Vancouver",
+        "Kucherov",
         "Hezbollah",
-        "Turkey"
+        "Strait of Hormuz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 20 2026 15:01:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 15:52:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e",
         "#SamajyadavParty",
-        "Yashasvi Jaiswal",
-        "#FutureAtStakeinOdisha",
-        "Rohit Sharma",
-        "#INDvsAFG",
-        "#sameterrorplaybook",
-        "Terror Has No Borders",
         "#ChennaiLoveStory",
+        "#Jigithara",
+        "Yashasvi Jaiswal",
+        "Odisha",
+        "#INDvsAFG",
+        "Rohit Sharma",
+        "Latent",
         "Abu Dhabi",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930",
-        "Latent"
+        "Sharwari"
       ],
       "hashtags": [
+        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e",
         "#SamajyadavParty",
-        "#FutureAtStakeinOdisha",
-        "#INDvsAFG",
-        "#sameterrorplaybook",
-        "#ChennaiLoveStory"
+        "#ChennaiLoveStory",
+        "#Jigithara",
+        "#INDvsAFG"
       ],
       "regular_topics": [
         "Yashasvi Jaiswal",
+        "Odisha",
         "Rohit Sharma",
-        "Terror Has No Borders",
-        "Abu Dhabi",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930",
         "Latent",
+        "Abu Dhabi",
+        "Sharwari",
+        "Mani Sharma",
         "Joe Root",
-        "WILLIAMEST FRANKFURT D2",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092e\u093e\u0927\u094d\u092f\u092e\u093f\u0915 \u0936\u093f\u0915\u094d\u0937\u093e \u092c\u094b\u0930\u094d\u0921",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u0938\u093f\u0902\u0939 \u0930\u093e\u0920\u094c\u0921\u093c",
-        "NEET"
+        "Terror Has No Borders",
+        "Contestants",
+        "\u0939\u0928\u0941\u092e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 20 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 16:42:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Davido",
         "Abazz",
+        "Davido",
+        "Germany",
+        "#MistikayBundleBundle",
         "Wizkid",
+        "#AQTxTerryApala",
         "#BelongWithMSport",
-        "Casemiro",
         "Shishi",
-        "Cast",
-        "#EkitiDecides2026",
-        "30bg",
-        "Baddest",
-        "Tufab"
+        "Casemiro",
+        "Netherlands vs Sweden",
+        "#EkitiDecides2026"
       ],
       "hashtags": [
+        "#MistikayBundleBundle",
+        "#AQTxTerryApala",
         "#BelongWithMSport",
         "#EkitiDecides2026",
-        "#s\u0131nav",
-        "#Orohu1",
-        "#SultanaAuduson"
+        "#30BG"
       ],
       "regular_topics": [
-        "Davido",
         "Abazz",
+        "Davido",
+        "Germany",
         "Wizkid",
-        "Casemiro",
         "Shishi",
-        "Cast",
-        "30bg",
-        "Baddest",
-        "Tufab",
-        "Obote",
-        "Because of 15m"
+        "Casemiro",
+        "Netherlands vs Sweden",
+        "Small 15m",
+        "Abass",
+        "Because of 15m",
+        "Obote"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
