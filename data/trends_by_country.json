@@ -1,195 +1,196 @@
 {
-  "generated_at_utc": "2026-06-20T19:59:45.880943+00:00",
+  "generated_at_utc": "2026-06-20T21:17:53.101568+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 20 2026 19:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 20:51:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Ivory Coast",
         "Netherlands",
+        "Diomande",
+        "Fever",
+        "Kimmich",
         "Isak",
-        "#NEDSWE",
-        "Elanga",
-        "Dutch",
-        "Summerville",
-        "Gakpo",
+        "Angel Reese",
         "Nino",
-        "Will Warren",
-        "Gyokeres",
-        "Brian Brobbey"
+        "#NEDSWE",
+        "Oracle AI Trade",
+        "#GERCIV"
       ],
       "hashtags": [
         "#NEDSWE",
-        "#Caturday",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e486"
+        "#GERCIV",
+        "#UFCVegas119",
+        "#mcwsfinalsaltcast"
       ],
       "regular_topics": [
+        "Ivory Coast",
         "Netherlands",
+        "Diomande",
+        "Fever",
+        "Kimmich",
         "Isak",
-        "Elanga",
-        "Dutch",
-        "Summerville",
-        "Gakpo",
+        "Angel Reese",
         "Nino",
-        "Will Warren",
-        "Gyokeres",
-        "Brian Brobbey",
-        "Suecia"
+        "Oracle AI Trade",
+        "Elanga",
+        "Salad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 20 2026 19:31:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 20:24:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NEDSWE",
         "Netherlands",
+        "Diomande",
         "Isak",
         "Summerville",
-        "Elanga",
+        "Ivory Coast",
         "Dutch",
         "Gakpo",
-        "Brobbey",
         "Gary Lineker",
-        "Graham Potter",
-        "Holland"
+        "Elanga",
+        "#GERCIV"
       ],
       "hashtags": [
         "#NEDSWE",
         "#GERCIV",
-        "#wwecardiff",
-        "#SAFC",
-        "#NORvEXE"
+        "#casualty",
+        "#soundsofthe80s",
+        "#WWECardiff"
       ],
       "regular_topics": [
         "Netherlands",
+        "Diomande",
         "Isak",
         "Summerville",
-        "Elanga",
+        "Ivory Coast",
         "Dutch",
         "Gakpo",
-        "Brobbey",
         "Gary Lineker",
-        "Graham Potter",
-        "Holland",
-        "Tunisia"
+        "Elanga",
+        "Brobbey",
+        "Graham Potter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 20 2026 19:24:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 20:18:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Netherlands",
-        "Raddysh",
         "Lebanon",
-        "Isak",
+        "Raddysh",
         "#NEDSWE",
         "Fauci",
+        "Germany",
         "Meloni",
-        "Elanga",
         "Vancouver",
-        "Dutch",
+        "Hezbollah",
+        "Isak",
         "Juneteenth"
       ],
       "hashtags": [
         "#NEDSWE",
+        "#abstorm",
         "#Caturday",
-        "#UFC6",
         "#SmackDown",
-        "#Marlies"
+        "#GERCIV"
       ],
       "regular_topics": [
         "Netherlands",
-        "Raddysh",
         "Lebanon",
-        "Isak",
+        "Raddysh",
         "Fauci",
+        "Germany",
         "Meloni",
-        "Elanga",
         "Vancouver",
-        "Dutch",
+        "Hezbollah",
+        "Isak",
         "Juneteenth",
-        "Hezbollah"
+        "Elanga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 20 2026 19:20:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 20:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Netherlands",
-        "Isak",
         "#NEDSWE",
-        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e",
+        "Isak",
         "#Fairness_For_Our_SevEN",
         "#BELIFT_Lab_Boycott_Continues",
-        "Dutch",
-        "Gakpo",
         "#WeSTANDwithSUNGHOON",
-        "Elanga",
-        "Brobbey"
+        "Dutch",
+        "#SamayRaina",
+        "Gakpo",
+        "Latent",
+        "Elanga"
       ],
       "hashtags": [
         "#NEDSWE",
-        "#\u0b21\u0b2c\u0b32\u0b07\u0b1e\u0b4d\u0b1c\u0b3f\u0b28\u0b13\u0b21\u0b3c\u0b3f\u0b36\u0b3e",
         "#Fairness_For_Our_SevEN",
         "#BELIFT_Lab_Boycott_Continues",
-        "#WeSTANDwithSUNGHOON"
+        "#WeSTANDwithSUNGHOON",
+        "#SamayRaina"
       ],
       "regular_topics": [
         "Netherlands",
         "Isak",
         "Dutch",
         "Gakpo",
+        "Latent",
         "Elanga",
         "Brobbey",
-        "Latent",
         "Alia",
-        "\u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u0938\u0941\u0932\u0947",
-        "Gyokeres",
-        "Dumfries"
+        "Ivory Coast",
+        "Dumfries",
+        "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 20 2026 19:18:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 20 2026 21:00:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Ivory Coast",
         "Netherlands",
+        "#GERCIV",
+        "Diomande",
         "Isak",
-        "Germany",
-        "#NEDSWE",
+        "Gakpo",
+        "Tunisia",
         "Abazz",
         "Summerville",
-        "Tunisia",
-        "Cody Gakpo",
-        "Dumfries",
-        "Elanga",
-        "Brobbey"
+        "#NEDSWE",
+        "Wizkid"
       ],
       "hashtags": [
+        "#GERCIV",
         "#NEDSWE",
-        "#MistikayBundleBundle",
+        "#fetedelamusique",
         "#mml2026",
-        "#AQTxTerryApala",
-        "#fetedelamusique"
+        "#RedPrintsScores"
       ],
       "regular_topics": [
+        "Ivory Coast",
         "Netherlands",
+        "Diomande",
         "Isak",
-        "Germany",
+        "Gakpo",
+        "Tunisia",
         "Abazz",
         "Summerville",
-        "Tunisia",
-        "Cody Gakpo",
+        "Wizkid",
         "Dumfries",
-        "Elanga",
-        "Brobbey",
         "Dutch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
