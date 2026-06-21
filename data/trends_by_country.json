@@ -1,204 +1,203 @@
 {
-  "generated_at_utc": "2026-06-21T21:48:29.851918+00:00",
+  "generated_at_utc": "2026-06-21T22:56:36.824904+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 21 2026 20:55:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 22:39:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Father's Day",
         "Belgium",
-        "Lukaku",
+        "Cabo Verde",
+        "Brady Tkachuk",
+        "Panthers",
+        "Ottawa",
+        "Austin Hill",
         "Sam Burns",
-        "Spain",
-        "Dasha",
-        "Nate Eaton",
-        "Dominguez",
-        "#ExcitingWorldCup",
-        "Bryce Elder",
-        "Wyndham Clark"
+        "Wyndham Clark",
+        "Devers",
+        "#USOpen"
       ],
       "hashtags": [
-        "#ExcitingWorldCup",
-        "#BELIRN",
-        "#IndyCar",
         "#USOpen",
-        "#ATOBTTR"
+        "#TimeToHunt",
+        "#CapeVerde",
+        "#NASCAR",
+        "#URUCPV"
       ],
       "regular_topics": [
         "Father's Day",
         "Belgium",
-        "Lukaku",
+        "Cabo Verde",
+        "Brady Tkachuk",
+        "Panthers",
+        "Ottawa",
+        "Austin Hill",
         "Sam Burns",
-        "Spain",
-        "Dasha",
-        "Nate Eaton",
-        "Dominguez",
-        "Bryce Elder",
         "Wyndham Clark",
-        "Sheehan"
+        "Devers",
+        "Sens"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 21 2026 21:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 22:12:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
-        "#BELIRN",
         "Mica",
-        "Samraj",
+        "#BELIRN",
         "Lukaku",
+        "Samraj",
         "Priya",
-        "Bergvall",
-        "Angelista",
         "#loveislandaftersun",
-        "Angie",
-        "Trossard"
+        "Bergvall",
+        "Shakira",
+        "Angelista",
+        "Angie"
       ],
       "hashtags": [
         "#BELIRN",
         "#loveislandaftersun",
         "#wildflowerhour",
-        "#SPASAU",
+        "#USOpen",
         "#IndyCar"
       ],
       "regular_topics": [
         "Belgium",
         "Mica",
-        "Samraj",
         "Lukaku",
+        "Samraj",
         "Priya",
         "Bergvall",
+        "Shakira",
         "Angelista",
         "Angie",
-        "Trossard",
-        "Bebe Rexha",
-        "Ngoy"
+        "Belgian",
+        "Sam Burns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 21 2026 21:12:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 22:04:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Father's Day",
+        "Brady Tkachuk",
         "Belgium",
-        "Stampede",
+        "Florida",
+        "Sens",
         "Dads",
         "Lukaku",
-        "Lebanon",
-        "Ivory Coast",
+        "Stampede",
         "Regina",
-        "#BELIRN",
-        "Church",
-        "Lamine Yamal"
+        "Lebanon",
+        "#BELIRN"
       ],
       "hashtags": [
         "#BELIRN",
-        "#UFCVegas119",
         "#NationalIndigenousPeoplesDay",
+        "#UFCVegas119",
         "#USOpen",
         "#NIPD2026"
       ],
       "regular_topics": [
         "Father's Day",
+        "Brady Tkachuk",
         "Belgium",
-        "Stampede",
+        "Florida",
+        "Sens",
         "Dads",
         "Lukaku",
-        "Lebanon",
-        "Ivory Coast",
+        "Stampede",
         "Regina",
-        "Church",
-        "Lamine Yamal",
-        "Fauci"
+        "Lebanon",
+        "Lamine Yamal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 21 2026 21:09:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 22:00:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDCMJosephVijay",
-        "#One8GlobalPremiere",
         "Belgium",
+        "#One8GlobalPremiere",
         "Spain",
-        "Lamine Yamal",
         "Lukaku",
+        "Lamine Yamal",
         "Karan Aujla",
-        "Thalapathy",
+        "#HBDThalapathyVijay",
         "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
         "Saudi Arabia",
-        "#HBDCMVijay"
+        "#BELIRN"
       ],
       "hashtags": [
         "#HBDCMJosephVijay",
         "#One8GlobalPremiere",
+        "#HBDThalapathyVijay",
         "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
+        "#BELIRN",
         "#HBDCMVijay",
-        "#HappyBirthdayCMVijay",
         "#INDWvsSAW",
+        "#HappyBirthdayCMVijay",
         "#INDvsSA",
         "#Nova2Pro5G",
-        "#ESPKSA",
-        "#WilliamEstFMinMadrid",
-        "#AddaPlus"
+        "#WilliamEstFMinMadrid"
       ],
       "regular_topics": [
         "Belgium",
         "Spain",
-        "Lamine Yamal",
         "Lukaku",
+        "Lamine Yamal",
         "Karan Aujla",
-        "Thalapathy",
         "Saudi Arabia",
         "Oyarzabal",
         "Radha Yadav",
-        "Marizanne Kapp",
-        "Happy 52"
+        "Happy 52",
+        "Happy Birthday Thalaivaa",
+        "Vijay Anna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 21 2026 21:06:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 21:57:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
         "Lukaku",
-        "Spain",
         "#BELIRN",
         "Lamine Yamal",
+        "Spain",
+        "Group G",
         "De Paul",
-        "Ferran Torres",
-        "#RemiXNneomaPremiere",
         "Courtois",
         "Father's Day",
-        "Peller"
+        "Uruguay",
+        "Tomorrow is Monday"
       ],
       "hashtags": [
         "#BELIRN",
-        "#RemiXNneomaPremiere",
         "#OhPapaVideo",
-        "#ESPKSA",
-        "#LagosIgboHangout2026"
+        "#LagosIgboHangout2026",
+        "#ESPKSA"
       ],
       "regular_topics": [
         "Belgium",
         "Lukaku",
-        "Spain",
         "Lamine Yamal",
+        "Spain",
+        "Group G",
         "De Paul",
-        "Ferran Torres",
         "Courtois",
         "Father's Day",
-        "Peller",
-        "Oyarzabal",
-        "Tomorrow is Monday"
+        "Uruguay",
+        "Tomorrow is Monday",
+        "Peller"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
