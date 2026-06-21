@@ -1,185 +1,184 @@
 {
-  "generated_at_utc": "2026-06-21T16:58:37.074860+00:00",
+  "generated_at_utc": "2026-06-21T18:17:09.952345+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 21 2026 16:36:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 17:28:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Father's Day",
-        "Lamine",
+        "Spain",
+        "Lamine Yamal",
         "Oyarzabal",
-        "Saudi Arabia",
+        "Dads",
         "#HANxTodsSS27",
-        "Happy Summer Solstice",
         "HAN AT TODS MFW",
+        "Happy Summer Solstice",
+        "Mackie",
         "Feliz D\u00eda del Padre",
-        "Espa\u00f1a",
-        "#ESPKSA",
-        "#pilotstwtselfieday"
+        "Sly Cooper"
       ],
       "hashtags": [
         "#HANxTodsSS27",
         "#ESPKSA",
         "#pilotstwtselfieday",
-        "#EnemiesWithBenefitsEP8",
-        "#SeductiveSunday"
+        "#SeductiveSunday",
+        "#EnemiesWithBenefitsEP8"
       ],
       "regular_topics": [
         "Father's Day",
-        "Lamine",
+        "Spain",
+        "Lamine Yamal",
         "Oyarzabal",
-        "Saudi Arabia",
-        "Happy Summer Solstice",
+        "Dads",
         "HAN AT TODS MFW",
+        "Happy Summer Solstice",
+        "Mackie",
         "Feliz D\u00eda del Padre",
-        "Espa\u00f1a",
-        "Good Sunday",
-        "Muhammad Qasim",
-        "Big Foe"
+        "Sly Cooper",
+        "Samoskevich"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 21 2026 16:10:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 17:54:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bergvall",
+        "#SPASAU",
+        "Saudi Arabia",
+        "Oyarzabal",
+        "Lamine Yamal",
+        "Ferran Torres",
+        "#WWEBirmingham",
         "Father's Day",
-        "Femi",
-        "Spain vs Saudi Arabia",
-        "Corbyn",
-        "Knock",
-        "HAN AT TODS MFW",
-        "#HANXTODs",
-        "IPTV",
-        "Boris",
-        "Peston",
-        "Mike Tapp"
+        "#ESPKSA",
+        "Gray",
+        "Gallagher"
       ],
       "hashtags": [
-        "#HANXTODs",
-        "#PRADAxENHYPEN",
-        "#VALORANTMasters",
-        "#heatwave",
-        "#PradaSS27"
+        "#SPASAU",
+        "#WWEBirmingham",
+        "#ESPKSA",
+        "#HANxTodsSS27",
+        "#VALORANTMasters"
       ],
       "regular_topics": [
+        "Bergvall",
+        "Saudi Arabia",
+        "Oyarzabal",
+        "Lamine Yamal",
+        "Ferran Torres",
         "Father's Day",
-        "Femi",
-        "Spain vs Saudi Arabia",
-        "Corbyn",
-        "Knock",
-        "HAN AT TODS MFW",
-        "IPTV",
-        "Boris",
-        "Peston",
-        "Mike Tapp",
-        "Southport"
+        "Gray",
+        "Gallagher",
+        "Pedri",
+        "Curtis Jones",
+        "Peston"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 21 2026 16:03:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 17:46:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Father's Day",
-        "Ivory Coast",
+        "Spain",
+        "Oyarzabal",
+        "Lamine Yamal",
         "Lebanon",
-        "Dads",
+        "Ivory Coast",
         "Stampede",
-        "Fauci",
+        "Samoskevich",
         "Regina",
-        "Tunisia",
-        "Vancouver",
-        "Cura\u00e7ao",
-        "#UFCVegas119"
+        "Dads",
+        "Fauci"
       ],
       "hashtags": [
+        "#ESPvKSA",
         "#UFCVegas119",
-        "#NationalIndigenousPeoplesDay",
-        "#NIPD2026",
-        "#NEDSWE",
-        "#BINI_SIGNALS_MANILAD2"
+        "#Caturday",
+        "#NIPD2026"
       ],
       "regular_topics": [
         "Father's Day",
-        "Ivory Coast",
+        "Spain",
+        "Oyarzabal",
+        "Lamine Yamal",
         "Lebanon",
-        "Dads",
+        "Ivory Coast",
         "Stampede",
-        "Fauci",
+        "Samoskevich",
         "Regina",
-        "Tunisia",
-        "Vancouver",
-        "Cura\u00e7ao",
-        "P\u00e8res"
+        "Dads",
+        "Fauci"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 21 2026 16:00:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 17:42:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
         "#One8GlobalPremiere",
-        "#OGUniverse",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u0938\u0947\u0928\u093e",
-        "#WilliamEstFMinMadrid",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
+        "Spain",
+        "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
+        "Lamine Yamal",
         "#INDWvsSAW",
-        "WILLIAMEST MADRID VIBES",
-        "NEET",
-        "Shree Charani",
-        "FIH Hockey Women's Nations Cup"
+        "Karan Aujla",
+        "Oyarzabal",
+        "Radha Yadav",
+        "Marizanne Kapp",
+        "#INDvsSA",
+        "#Vantara"
       ],
       "hashtags": [
-        "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
         "#One8GlobalPremiere",
-        "#OGUniverse",
-        "#WilliamEstFMinMadrid",
-        "#INDWvsSAW"
+        "#\u092d\u0930\u0924\u092a\u0941\u0930_\u091a\u0932\u094b",
+        "#INDWvsSAW",
+        "#INDvsSA",
+        "#Vantara"
       ],
       "regular_topics": [
+        "Spain",
+        "Lamine Yamal",
+        "Karan Aujla",
+        "Oyarzabal",
+        "Radha Yadav",
+        "Marizanne Kapp",
+        "Harman",
+        "Olmo",
         "\u0939\u0928\u0941\u092e\u093e\u0928 \u0938\u0947\u0928\u093e",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "WILLIAMEST MADRID VIBES",
-        "NEET",
-        "Shree Charani",
-        "FIH Hockey Women's Nations Cup",
-        "Munir",
-        "Harmanpreet Kaur",
-        "Factful Debates YtChannel",
-        "\u091c\u093e\u091f \u0938\u092e\u093e\u091c",
-        "Lamine Yamal"
+        "Shree Charani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 21 2026 16:48:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 21 2026 17:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Saudi Arabia",
         "Lamine Yamal",
         "Oyarzabal",
         "Jarvis",
-        "Father's Day",
         "#ESPKSA",
-        "#UmaruBagoIsWorking",
+        "Father's Day",
+        "De Paul",
         "Curtis Jones",
-        "Chinedu",
-        "Baena",
-        "La Roja"
+        "Dani Olmo",
+        "La Roja",
+        "Chinedu"
       ],
       "hashtags": [
         "#ESPKSA",
         "#UmaruBagoIsWorking",
         "#RedmosPARA",
-        "#SolsticeSummer",
-        "#Fatherhood"
+        "#LagosIgboHangout2026",
+        "#SolsticeSummer"
       ],
       "regular_topics": [
         "Saudi Arabia",
@@ -187,12 +186,12 @@
         "Oyarzabal",
         "Jarvis",
         "Father's Day",
+        "De Paul",
         "Curtis Jones",
-        "Chinedu",
-        "Baena",
+        "Dani Olmo",
         "La Roja",
-        "Olmo",
-        "0.004 BTC"
+        "Chinedu",
+        "Skales"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
