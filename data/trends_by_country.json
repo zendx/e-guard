@@ -1,186 +1,188 @@
 {
-  "generated_at_utc": "2026-06-22T21:53:11.404189+00:00",
+  "generated_at_utc": "2026-06-22T23:09:14.548566+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 22 2026 21:01:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 22 2026 22:44:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
-        "#WWERaw",
         "Steam Machine",
         "Trae",
-        "Argentina",
-        "Valve",
-        "Clive Davis",
-        "Wizards",
-        "Austria",
+        "#WWERaw",
+        "Sparkle",
         "Giannis",
-        "Lyra"
+        "Tucker",
+        "Valve",
+        "Mikey",
+        "Wizards",
+        "Argentina"
       ],
       "hashtags": [
         "#WWERaw",
-        "#BetrPicks",
-        "#ARGAUT",
-        "#AudiosDeLaConspiraci\u00f3n"
+        "#FRAIRQ",
+        "#Iraq",
+        "#AudiosDeLaConspiraci\u00f3n",
+        "#BetrPicks"
       ],
       "regular_topics": [
         "Messi",
         "Steam Machine",
         "Trae",
-        "Argentina",
-        "Valve",
-        "Clive Davis",
-        "Wizards",
-        "Austria",
+        "Sparkle",
         "Giannis",
-        "Lyra",
-        "Montreal"
+        "Tucker",
+        "Valve",
+        "Mikey",
+        "Wizards",
+        "Argentina",
+        "Clive Davis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 22 2026 21:28:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 22 2026 22:19:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "#FRAIRQ",
-        "Argentina",
+        "Iraq",
         "#WWERaw",
+        "Argentina",
+        "Joe Hart",
+        "#Corrie",
+        "Zidane Iqbal",
         "Samraj",
         "Priya",
-        "#Corrie",
-        "#ARGAUT",
-        "Royal Mail",
-        "Steam Machine",
-        "Maradona"
+        "#ARGAUT"
       ],
       "hashtags": [
         "#FRAIRQ",
         "#WWERaw",
         "#Corrie",
         "#ARGAUT",
-        "#Iraq"
+        "#GeneralElectionNow"
       ],
       "regular_topics": [
         "Messi",
+        "Iraq",
         "Argentina",
+        "Joe Hart",
+        "Zidane Iqbal",
         "Samraj",
         "Priya",
         "Royal Mail",
-        "Steam Machine",
-        "Maradona",
-        "Alvarez",
-        "phil",
-        "Bebe",
-        "Lyra"
+        "Rabiot",
+        "Philadelphia",
+        "Steam Machine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 22 2026 21:20:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 22 2026 22:12:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Messi",
         "Brady",
+        "Messi",
         "Father's Day",
         "Montreal",
         "Ottawa",
         "Sens",
         "Florida",
-        "Starmer",
         "Mbappe",
-        "Carey Price",
-        "HHOF"
+        "Starmer",
+        "C\u00f4te-des-Neiges",
+        "Ronaldo"
       ],
       "hashtags": [
-        "#WWERaw",
         "#HOTD",
+        "#Argentina",
+        "#WWERaw",
         "#HouseOfTheDragon",
-        "#FRAIRQ",
-        "#TimeToHunt"
+        "#FRAIRQ"
       ],
       "regular_topics": [
-        "Messi",
         "Brady",
+        "Messi",
         "Father's Day",
         "Montreal",
         "Ottawa",
         "Sens",
         "Florida",
-        "Starmer",
         "Mbappe",
-        "Carey Price",
-        "HHOF"
+        "Starmer",
+        "C\u00f4te-des-Neiges",
+        "Ronaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 22 2026 21:16:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 22 2026 23:00:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "#Argentina",
+        "#FRAIRQ",
         "CRED",
-        "Kunal Shah",
-        "#FutureOnTrack",
-        "WhatsApp",
-        "#Lucknow",
-        "#ShriKhatushyamJi",
-        "#ARGAUT",
         "Alvarez",
-        "Jordan"
+        "Atletico",
+        "#GOAT",
+        "Kunal Shah",
+        "France vs Iraq",
+        "#WWERaw",
+        "WhatsApp"
       ],
       "hashtags": [
         "#Argentina",
-        "#FutureOnTrack",
-        "#Lucknow",
-        "#ShriKhatushyamJi",
-        "#ARGAUT",
+        "#FRAIRQ",
+        "#GOAT",
         "#WWERaw",
-        "#IndianRailways",
-        "#FIFAFEVER2026",
+        "#FutureOnTrack",
+        "#ARGAUT",
+        "#Lucknow",
+        "#ARGvsAUT",
         "#\u0932\u0916\u0928\u090a",
-        "#vava"
+        "#RepublicSummit2026",
+        "#Aliganj"
       ],
       "regular_topics": [
         "Messi",
         "CRED",
-        "Kunal Shah",
-        "WhatsApp",
         "Alvarez",
+        "Atletico",
+        "Kunal Shah",
+        "France vs Iraq",
+        "WhatsApp",
         "Jordan",
         "Meta",
-        "Sanjana Jatav",
         "Klose",
-        "Penaldo",
-        "Penalty"
+        "Penaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 22 2026 21:12:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 22 2026 22:04:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Jordan",
         "Iraq",
         "Alvarez",
-        "Corey",
-        "Penalty",
+        "#FRAIRQ",
+        "Atletico",
+        "15 World Cup",
         "Penaldo",
-        "18 World Cup",
-        "#ssfootball",
+        "Corey",
         "Uzbekistan",
-        "Wasiu"
+        "Penalty"
       ],
       "hashtags": [
-        "#ssfootball",
         "#FRAIRQ",
+        "#ssfootball",
         "#worldcuplive",
         "#Bet9ja"
       ],
@@ -189,13 +191,13 @@
         "Jordan",
         "Iraq",
         "Alvarez",
-        "Corey",
-        "Penalty",
+        "Atletico",
+        "15 World Cup",
         "Penaldo",
-        "18 World Cup",
+        "Corey",
         "Uzbekistan",
-        "Wasiu",
-        "At 39"
+        "Penalty",
+        "Wasiu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
