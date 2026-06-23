@@ -1,197 +1,191 @@
 {
-  "generated_at_utc": "2026-06-23T20:59:22.413026+00:00",
+  "generated_at_utc": "2026-06-23T22:11:22.655578+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 23 2026 20:32:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 21:24:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ronaldo",
-        "Uzbekistan",
-        "Portugal",
-        "Sorsby",
-        "Nemec",
-        "NFLPA",
-        "The NFL",
-        "USAID",
-        "Calgary",
         "Ghana",
-        "mark lee"
+        "Ronaldo",
+        "Eklund",
+        "Uzbekistan",
+        "Madueke",
+        "Kyle Pitts",
+        "Gordon",
+        "Nemec",
+        "Harry Kane",
+        "Sorsby",
+        "Stenberg"
       ],
       "hashtags": [
         "#ENGGHA",
         "#JacksonWangxLVMenSS27",
-        "#RepublicansStarveChildren",
-        "#PORUZB",
-        "#NJDevils"
+        "#RepublicansStarveChildren"
       ],
       "regular_topics": [
-        "Ronaldo",
-        "Uzbekistan",
-        "Portugal",
-        "Sorsby",
-        "Nemec",
-        "NFLPA",
-        "The NFL",
-        "USAID",
-        "Calgary",
         "Ghana",
-        "mark lee"
+        "Ronaldo",
+        "Eklund",
+        "Uzbekistan",
+        "Madueke",
+        "Kyle Pitts",
+        "Gordon",
+        "Nemec",
+        "Harry Kane",
+        "Sorsby",
+        "Stenberg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 23 2026 20:03:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 21:46:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ronaldo",
-        "Uzbekistan",
         "#ENGGHA",
+        "Gordon",
         "Ghana",
-        "#PORUZB",
-        "Spence",
-        "COME ON ENGLAND",
+        "Pickford",
         "Partey",
-        "Palestra",
-        "Leao",
-        "Jordan Ayew"
+        "Ayew",
+        "Reece James",
+        "Jasmine",
+        "Rice",
+        "Barcelona",
+        "Uzbekistan"
       ],
       "hashtags": [
         "#ENGGHA",
         "#PORUZB",
-        "#EastEnders",
-        "#heatwave",
-        "#Pompey"
+        "#ThreeLions",
+        "#HydrationBreak"
       ],
       "regular_topics": [
-        "Ronaldo",
-        "Uzbekistan",
+        "Gordon",
         "Ghana",
-        "Spence",
-        "COME ON ENGLAND",
+        "Pickford",
         "Partey",
-        "Palestra",
-        "Leao",
-        "Jordan Ayew",
-        "Stormzy",
-        "Nuno Mendes"
+        "Ayew",
+        "Reece James",
+        "Jasmine",
+        "Rice",
+        "Barcelona",
+        "Uzbekistan",
+        "Ronaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 23 2026 19:56:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 21:40:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Eklund",
+        "Stenberg",
         "Nemec",
-        "Ronaldo",
-        "Uzbekistan",
-        "Mike Babcock",
-        "#Flames",
-        "Parekh",
-        "#Portugal",
-        "Leao",
-        "Whitecloud",
-        "Devils",
-        "Conroy"
+        "Ghana",
+        "San Jose",
+        "Sharks",
+        "Gordon",
+        "Bieber",
+        "Spence",
+        "England",
+        "Babcock"
       ],
       "hashtags": [
-        "#Flames",
+        "#ENGGHA",
         "#Portugal",
-        "#Oilers",
-        "#deltarune"
+        "#GoSensGo"
       ],
       "regular_topics": [
+        "Eklund",
+        "Stenberg",
         "Nemec",
-        "Ronaldo",
-        "Uzbekistan",
-        "Mike Babcock",
-        "Parekh",
-        "Leao",
-        "Whitecloud",
-        "Devils",
-        "Conroy",
-        "Calgary",
-        "Marchenko"
+        "Ghana",
+        "San Jose",
+        "Sharks",
+        "Gordon",
+        "Bieber",
+        "Spence",
+        "England",
+        "Babcock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 23 2026 20:44:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 21:37:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
         "#Portugal",
+        "Ghana",
         "#PORUZB",
         "#\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e_\u092a\u0930_\u0915\u093f\u092f\u0947_\u0917\u090f_\u091c\u0941\u0932\u094d\u092e",
+        "GOAT",
         "Nuno Mendes",
         "6Days Left Kabir Prakat Diwas",
-        "GOAT",
         "#JunePaintedBySUNOO",
-        "#TeraPaisaMeraPaisa",
         "I'M BACK",
-        "Leao"
+        "#LVMenSS27xFourth"
       ],
       "hashtags": [
         "#Portugal",
         "#PORUZB",
         "#\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e_\u092a\u0930_\u0915\u093f\u092f\u0947_\u0917\u090f_\u091c\u0941\u0932\u094d\u092e",
         "#JunePaintedBySUNOO",
-        "#TeraPaisaMeraPaisa"
+        "#LVMenSS27xFourth"
       ],
       "regular_topics": [
         "Ronaldo",
+        "Ghana",
+        "GOAT",
         "Nuno Mendes",
         "6Days Left Kabir Prakat Diwas",
-        "GOAT",
         "I'M BACK",
-        "Leao",
-        "Ghana",
-        "At 41",
         "FOURTH SHINES AT LVSS27 SHOW",
+        "Leao",
         "Siya Goyal",
-        "Colombia"
+        "At 41",
+        "Padma Shri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 23 2026 20:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 21:36:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
-        "Uzbekistan",
         "Ghana",
-        "Colombia",
-        "#PORUZB",
-        "Marco Palestra",
-        "Ororo",
-        "Nuno Mendes",
+        "Uzbekistan",
+        "Madueke",
         "#ENGGHA",
-        "Leao",
-        "I'M BACK"
+        "Colombia",
+        "Marco Palestra",
+        "#PORUZB",
+        "Harry Kane",
+        "Skepta",
+        "Ororo"
       ],
       "hashtags": [
-        "#PORUZB",
         "#ENGGHA",
-        "#CR7WC",
-        "#FaithxPocarisweat",
-        "#FaithAdewale"
+        "#PORUZB",
+        "#CR7WC"
       ],
       "regular_topics": [
         "Ronaldo",
-        "Uzbekistan",
         "Ghana",
+        "Uzbekistan",
+        "Madueke",
         "Colombia",
         "Marco Palestra",
+        "Harry Kane",
+        "Skepta",
         "Ororo",
-        "Nuno Mendes",
-        "Leao",
         "I'M BACK",
-        "Barren",
-        "At 41"
+        "Spence"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
