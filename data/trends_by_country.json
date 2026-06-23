@@ -1,64 +1,64 @@
 {
-  "generated_at_utc": "2026-06-23T05:34:23.211196+00:00",
+  "generated_at_utc": "2026-06-23T08:53:04.491389+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 23 2026 04:48:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 08:25:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Giannis",
-        "Randle",
-        "Celtics",
         "Bucks",
+        "Celtics",
+        "Randle",
         "Pat Riley",
         "Jaylen Brown",
+        "Powell",
+        "Wiggins",
         "Carl",
-        "Paige",
         "Algeria",
-        "Boston",
-        "Claxton"
+        "DELTARUNE TOMORROW"
       ],
       "hashtags": [
-        "#loveislandseason8"
+        "#ZatimaOnParamountPlus"
       ],
       "regular_topics": [
         "Giannis",
-        "Randle",
-        "Celtics",
         "Bucks",
+        "Celtics",
+        "Randle",
         "Pat Riley",
         "Jaylen Brown",
+        "Powell",
+        "Wiggins",
         "Carl",
-        "Paige",
         "Algeria",
-        "Boston",
-        "Claxton"
+        "DELTARUNE TOMORROW"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 23 2026 05:12:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 07:58:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Starmer",
         "Burnham",
-        "#thunderstorm",
         "Prime Minister",
         "General Election",
         "Corbyn",
-        "Truss",
-        "Labour Party",
+        "Labour",
         "#ARGAUT",
-        "Algeria"
+        "Truss",
+        "#thicktrunktuesday",
+        "Brexit"
       ],
       "hashtags": [
-        "#thunderstorm",
         "#ARGAUT",
+        "#thicktrunktuesday",
         "#FRAIRQ",
-        "#WWERaw",
-        "#urucpv"
+        "#r4today",
+        "#ceiling"
       ],
       "regular_topics": [
         "Messi",
@@ -67,119 +67,122 @@
         "Prime Minister",
         "General Election",
         "Corbyn",
+        "Labour",
         "Truss",
-        "Labour Party",
-        "Algeria",
-        "Norway",
-        "Argentina"
+        "Brexit",
+        "Tories",
+        "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 23 2026 05:04:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 07:52:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Brady",
+        "Messi",
+        "Montreal",
         "Giannis",
-        "Miami",
-        "Algeria",
-        "Randle",
-        "Celtics",
+        "Ottawa",
+        "Florida",
+        "Sens",
+        "Starmer",
+        "Father's Day",
         "Haaland",
-        "Paige",
-        "Senegal",
-        "Bucks",
-        "Norway",
-        "Jaylen Brown"
+        "C\u00f4te-des-Neiges"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#Argentina",
+        "#NORSEN",
+        "#HOTD"
+      ],
       "regular_topics": [
+        "Brady",
+        "Messi",
+        "Montreal",
         "Giannis",
-        "Miami",
-        "Algeria",
-        "Randle",
-        "Celtics",
+        "Ottawa",
+        "Florida",
+        "Sens",
+        "Starmer",
+        "Father's Day",
         "Haaland",
-        "Paige",
-        "Senegal",
-        "Bucks",
-        "Norway",
-        "Jaylen Brown"
+        "C\u00f4te-des-Neiges"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 23 2026 05:01:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 07:49:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RamMandirMeinChori",
+        "#GalaxyM47",
+        "\u092e\u094b\u0939\u0928 \u092f\u093e\u0926\u0935",
         "#SolarStockOnWatch",
+        "#HBDNiteshRane",
         "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0938\u0902\u0918",
-        "#GodMorningTuesday",
-        "ASHNISHA SOLAR EXPANSION",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "#AshnishaIndustries",
-        "#NewsroomPolitics",
-        "#InternationalOlympicDay",
-        "Nitish Kumar Reddy",
-        "\u0924\u0947\u091c \u092a\u094d\u0930\u0924\u093e\u092a \u092f\u093e\u0926\u0935"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0938\u0902\u0918",
+        "ASHNISHA SOLAR EXPANSION",
+        "\u0907\u0902\u0921\u093f\u092f\u0928 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938",
+        "Party Fund"
       ],
       "hashtags": [
+        "#RamMandirMeinChori",
+        "#GalaxyM47",
         "#SolarStockOnWatch",
-        "#GodMorningTuesday",
-        "#AshnishaIndustries",
-        "#NewsroomPolitics",
-        "#InternationalOlympicDay"
+        "#HBDNiteshRane",
+        "#AshnishaIndustries"
       ],
       "regular_topics": [
+        "\u092e\u094b\u0939\u0928 \u092f\u093e\u0926\u0935",
         "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0938\u0902\u0918",
         "ASHNISHA SOLAR EXPANSION",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "Nitish Kumar Reddy",
-        "\u0924\u0947\u091c \u092a\u094d\u0930\u0924\u093e\u092a \u092f\u093e\u0926\u0935",
-        "Suryansh Shedge",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u090f\u0915\u0924\u093e",
-        "\u092e\u0939\u093e\u0928 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0935\u093e\u0926\u0940",
         "\u0907\u0902\u0921\u093f\u092f\u0928 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938",
-        "Haaland"
+        "Party Fund",
+        "Ujjain",
+        "Nitesh Rane Ji",
+        "\u0924\u0947\u091c \u092a\u094d\u0930\u0924\u093e\u092a \u092f\u093e\u0926\u0935",
+        "Indian Express",
+        "\u0938\u0902\u091c\u092f \u092a\u094d\u0930\u0938\u093e\u0926"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 23 2026 05:00:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 23 2026 07:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Haaland",
         "Norway",
+        "Haaland",
+        "#SingWithBilliana",
+        "Gyokeres",
+        "Taco Tuesday",
         "Giannis",
-        "Koulibaly",
-        "Jordan",
+        "GOD OF WONDERS",
+        "GOD OF ANSWERS",
+        "GOD OF NOW",
         "Vikings",
-        "Dembele",
-        "Iraq",
-        "Mahrez",
-        "Ismaila Sarr",
-        "Miami"
+        "Alvarez"
       ],
       "hashtags": [
-        "#NORSEN",
-        "#FRAIRQ"
+        "#SingWithBilliana"
       ],
       "regular_topics": [
-        "Haaland",
         "Norway",
+        "Haaland",
+        "Gyokeres",
+        "Taco Tuesday",
         "Giannis",
-        "Koulibaly",
-        "Jordan",
+        "GOD OF WONDERS",
+        "GOD OF ANSWERS",
+        "GOD OF NOW",
         "Vikings",
-        "Dembele",
-        "Iraq",
-        "Mahrez",
-        "Ismaila Sarr",
-        "Miami"
+        "Alvarez",
+        "Clipur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
