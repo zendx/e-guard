@@ -1,196 +1,193 @@
 {
-  "generated_at_utc": "2026-06-25T18:29:13.339620+00:00",
+  "generated_at_utc": "2026-06-25T20:30:31.931053+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jun 25 2026 18:10:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 19:52:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lamelo",
         "Temporary",
         "WNBA",
-        "Hornets",
         "Haitians",
-        "Naz Reid",
-        "Bungie",
+        "Lamelo",
         "Supreme Court",
-        "Charlotte",
+        "Bungie",
+        "Caitlin Clark",
         "SCOTUS",
-        "Wolves"
+        "Naz Reid",
+        "Hornets",
+        "Craig Kimbrel"
       ],
       "hashtags": [
-        "#WeLoatheElon",
-        "#TejRan",
+        "#TrumpsHousingCrisis",
         "#Mining",
-        "#tommavi",
-        "#NOLIMIT"
+        "#WeLoatheElon",
+        "#RTXPowersPlay",
+        "#TejRan"
       ],
       "regular_topics": [
-        "Lamelo",
         "Temporary",
         "WNBA",
-        "Hornets",
         "Haitians",
-        "Naz Reid",
-        "Bungie",
+        "Lamelo",
         "Supreme Court",
-        "Charlotte",
+        "Bungie",
+        "Caitlin Clark",
         "SCOTUS",
-        "Wolves"
+        "Naz Reid",
+        "Hornets",
+        "Craig Kimbrel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jun 25 2026 17:42:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 19:27:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ENGvNZ",
+        "Bruno G",
+        "Mike Tapp",
+        "Craig Hope",
         "Bungie",
-        "#thechase",
-        "Brooks",
-        "Carabao Cup",
-        "Edgar Davids",
-        "Bashir",
         "Norwich",
-        "#SAFC",
-        "Yeovilton",
-        "Peck"
+        "Merkel",
+        "Ycee",
+        "#ENGvNZ",
+        "Elvis",
+        "Toilet",
+        "Bashir"
       ],
       "hashtags": [
         "#ENGvNZ",
-        "#thechase",
         "#SAFC",
-        "#ncfc",
-        "#drfc"
+        "#sufc",
+        "#CurrysFootball",
+        "#twitterblades"
       ],
       "regular_topics": [
+        "Bruno G",
+        "Mike Tapp",
+        "Craig Hope",
         "Bungie",
-        "Brooks",
-        "Carabao Cup",
-        "Edgar Davids",
-        "Bashir",
         "Norwich",
-        "Yeovilton",
-        "Peck",
+        "Merkel",
+        "Ycee",
         "Elvis",
-        "Nwaneri",
-        "Wilder"
+        "Toilet",
+        "Bashir",
+        "Brooks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jun 25 2026 17:36:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 20:16:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lamelo",
-        "Venezuela",
-        "South Africa",
         "Kawhi",
+        "Venezuela",
+        "Lamelo",
+        "Ecuador",
+        "South Africa",
         "GTA 6",
-        "Hornets",
         "Raptors",
-        "Byram",
-        "Bungie",
+        "Hornets",
+        "Knies",
         "Naz Reid",
-        "South Korea"
+        "Country Thunder"
       ],
       "hashtags": [
-        "#deltarunespoilers",
-        "#AEWDynamite",
-        "#CanMNT"
+        "#deltarunespoilers"
       ],
       "regular_topics": [
-        "Lamelo",
-        "Venezuela",
-        "South Africa",
         "Kawhi",
+        "Venezuela",
+        "Lamelo",
+        "Ecuador",
+        "South Africa",
         "GTA 6",
-        "Hornets",
         "Raptors",
-        "Byram",
-        "Bungie",
+        "Hornets",
+        "Knies",
         "Naz Reid",
-        "South Korea"
+        "Country Thunder"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jun 25 2026 17:33:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 20:12:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DharmaRakshakYogi",
-        "#KrishiSeSammriddhi",
+        "Champat Rai",
         "#FATE_CHOSE_ALL_7",
         "#NO_DOUBT_IN_SEVEN",
+        "Ecuador",
         "Apple",
+        "#KrishiSeSammriddhi",
         "\u091f\u093f\u0928\u094d\u0928\u0942 \u092f\u093e\u0926\u0935",
         "Mahesh Dixit",
         "\u0905\u0935\u093f\u0928\u093e\u0936 \u0936\u0941\u0915\u094d\u0932\u093e",
-        "\u092e\u0928\u0940\u0937 \u092f\u093e\u0926\u0935",
-        "Shafali Verma",
-        "#ReInauguration"
+        "\u092e\u0928\u0940\u0937 \u092f\u093e\u0926\u0935"
       ],
       "hashtags": [
         "#DharmaRakshakYogi",
-        "#KrishiSeSammriddhi",
         "#FATE_CHOSE_ALL_7",
         "#NO_DOUBT_IN_SEVEN",
-        "#ReInauguration"
+        "#KrishiSeSammriddhi",
+        "#BaahubaliTheTorchBearer"
       ],
       "regular_topics": [
+        "Champat Rai",
+        "Ecuador",
         "Apple",
         "\u091f\u093f\u0928\u094d\u0928\u0942 \u092f\u093e\u0926\u0935",
         "Mahesh Dixit",
         "\u0905\u0935\u093f\u0928\u093e\u0936 \u0936\u0941\u0915\u094d\u0932\u093e",
         "\u092e\u0928\u0940\u0937 \u092f\u093e\u0926\u0935",
-        "Shafali Verma",
         "Devon Conway",
-        "Tom Latham",
-        "The SIT",
-        "HANAS KHATRON ERA BEGINS",
-        "\u0938\u0941\u092d\u093e\u0937 \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935"
+        "Shafali Verma",
+        "\u092e\u0939\u0947\u0936 \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
+        "Tom Latham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jun 25 2026 17:32:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 20:06:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ycee",
+        "Olodo",
         "Peller",
-        "Onana",
-        "Olodo Uprising",
-        "#ShedrachEgede",
-        "#Sabi",
-        "#RemiXNneomaMovie",
-        "Trabzonspor",
+        "Ecuador",
         "Mr Eazi",
-        "#itelPower80",
-        "Nico Paz"
+        "#RemiXNneomaMovie",
+        "ICAN",
+        "Onana",
+        "First Class Upper",
+        "Babcock",
+        "Vibiz"
       ],
       "hashtags": [
-        "#ShedrachEgede",
-        "#Sabi",
         "#RemiXNneomaMovie",
-        "#itelPower80",
-        "#ProtectOsunVoters"
+        "#ShedrachEgede",
+        "#GLDY",
+        "#itelPower80"
       ],
       "regular_topics": [
         "Ycee",
+        "Olodo",
         "Peller",
-        "Onana",
-        "Olodo Uprising",
-        "Trabzonspor",
+        "Ecuador",
         "Mr Eazi",
-        "Nico Paz",
+        "ICAN",
+        "Onana",
+        "First Class Upper",
         "Babcock",
-        "Lamelo",
-        "Alakija",
-        "Michael B. Jordan"
+        "Vibiz",
+        "Michael B Jordan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
