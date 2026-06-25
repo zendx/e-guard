@@ -1,85 +1,88 @@
 {
-  "generated_at_utc": "2026-06-25T22:13:59.510319+00:00",
+  "generated_at_utc": "2026-06-25T23:48:31.394327+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jun 25 2026 21:36:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 23:21:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "WNBA",
-        "Temporary",
         "Ecuador",
-        "Haitians",
-        "Caitlin Clark",
+        "Temporary",
+        "WNBA",
+        "Haiti",
+        "Caitlin",
+        "Alemania",
+        "Watergate",
         "Supreme Court",
         "Bungie",
-        "Apple",
-        "SCOTUS",
         "Alyssa Thomas",
-        "Lamelo"
+        "Neuer"
       ],
       "hashtags": [
         "#ECUGER",
+        "#HappyBirthdayManon",
+        "#TidesofFortune",
         "#IvoryCoast",
-        "#GloriousPortugalHour",
-        "#WeLoatheElon",
-        "#TrumpsHousingCrisis"
+        "#GloriousPortugalHour"
       ],
       "regular_topics": [
-        "WNBA",
-        "Temporary",
         "Ecuador",
-        "Haitians",
-        "Caitlin Clark",
+        "Temporary",
+        "WNBA",
+        "Haiti",
+        "Caitlin",
+        "Alemania",
+        "Watergate",
         "Supreme Court",
         "Bungie",
-        "Apple",
-        "SCOTUS",
         "Alyssa Thomas",
-        "Lamelo"
+        "Neuer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jun 25 2026 21:12:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 22:56:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ecuador",
         "#ECUGER",
-        "Lorenzo",
-        "Sean",
-        "Angulo",
-        "Enner Valencia",
-        "Fu Ming",
-        "Elliot Anderson",
-        "Tina",
         "Neuer",
-        "Mike Tapp"
+        "Elliot Anderson",
+        "Caicedo",
+        "#NFFC",
+        "Forest",
+        "Lorenzo",
+        "116m",
+        "Sean",
+        "Enner Valencia"
       ],
       "hashtags": [
         "#ECUGER",
-        "#SAFC"
+        "#NFFC",
+        "#GERECU",
+        "#MCFC",
+        "#LoveIslandDebrief"
       ],
       "regular_topics": [
         "Ecuador",
-        "Lorenzo",
-        "Sean",
-        "Angulo",
-        "Enner Valencia",
-        "Fu Ming",
-        "Elliot Anderson",
-        "Tina",
         "Neuer",
-        "Mike Tapp",
-        "Lola"
+        "Elliot Anderson",
+        "Caicedo",
+        "Forest",
+        "Lorenzo",
+        "116m",
+        "Sean",
+        "Enner Valencia",
+        "Angulo",
+        "Nicolas Pepe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jun 25 2026 21:58:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 22:49:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ecuador",
         "Germany",
@@ -88,10 +91,10 @@
         "Kawhi",
         "South Africa",
         "GTA 6",
-        "Neuer",
-        "Nichushkin",
+        "Raptors",
+        "WNBA",
         "Marchenko",
-        "Raptors"
+        "#ECUGER"
       ],
       "hashtags": [
         "#ECUGER",
@@ -106,88 +109,88 @@
         "Kawhi",
         "South Africa",
         "GTA 6",
-        "Neuer",
-        "Nichushkin",
+        "Raptors",
+        "WNBA",
         "Marchenko",
-        "Raptors"
+        "Neuer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jun 25 2026 21:54:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 22:46:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#IndiaRisingWithAdani",
-        "#KrishiSeSammriddhi",
-        "#ApolloTyres",
         "Ecuador",
+        "#IndiaRisingWithAdani",
         "#Venezuela",
+        "#KrishiSeSammriddhi",
         "#happybirthdaygautambhai",
-        "Champat Rai",
+        "#SamvidhanHatyaDiwas",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0932\u094b\u0915\u0924\u0902\u0924\u094d\u0930",
         "Emergency",
-        "Ashnisha Industries",
-        "Citizenship"
+        "ashnisha industries",
+        "Champat Rai",
+        "Elliot Anderson"
       ],
       "hashtags": [
         "#IndiaRisingWithAdani",
-        "#KrishiSeSammriddhi",
-        "#ApolloTyres",
         "#Venezuela",
-        "#happybirthdaygautambhai"
+        "#KrishiSeSammriddhi",
+        "#happybirthdaygautambhai",
+        "#SamvidhanHatyaDiwas"
       ],
       "regular_topics": [
         "Ecuador",
-        "Champat Rai",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0932\u094b\u0915\u0924\u0902\u0924\u094d\u0930",
         "Emergency",
-        "Ashnisha Industries",
+        "ashnisha industries",
+        "Champat Rai",
+        "Elliot Anderson",
+        "Gonzalo Plata",
+        "Neuer",
         "Citizenship",
-        "shia genocide by pak army",
-        "Apple",
-        "Caracas",
-        "Voter ID",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u094d\u0930\u0940\u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
+        "Group E",
+        "shia genocide by pak army"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jun 25 2026 21:49:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jun 25 2026 23:33:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ecuador",
-        "Ycee",
-        "Elliot Anderson",
         "Olodo",
+        "Ycee",
         "Peller",
+        "Elliot Anderson",
         "#ECUGER",
+        "Manchester City",
+        "Caicedo",
         "Nottingham Forest",
-        "Mr Eazi",
-        "Nicolas Pepe",
-        "Neuer",
-        "Leroy Sane"
+        "I KNOW WHO I BE",
+        "Nilson Angulo"
       ],
       "hashtags": [
         "#ECUGER",
+        "#TUNNED",
         "#CUWCIV",
-        "#GLDY",
         "#MCFC",
-        "#sabi"
+        "#IKWIB"
       ],
       "regular_topics": [
         "Ecuador",
-        "Ycee",
-        "Elliot Anderson",
         "Olodo",
+        "Ycee",
         "Peller",
+        "Elliot Anderson",
+        "Manchester City",
+        "Caicedo",
         "Nottingham Forest",
-        "Mr Eazi",
-        "Nicolas Pepe",
-        "Neuer",
-        "Leroy Sane",
-        "First Class Upper"
+        "I KNOW WHO I BE",
+        "Nilson Angulo",
+        "Nicolas Pepe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
