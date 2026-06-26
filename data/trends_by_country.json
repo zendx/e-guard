@@ -1,107 +1,109 @@
 {
-  "generated_at_utc": "2026-06-26T10:11:46.161420+00:00",
+  "generated_at_utc": "2026-06-26T12:28:31.169248+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jun 26 2026 09:42:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 26 2026 11:27:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Turkey",
-        "Scott",
-        "#ZOMST",
-        "Pretty Ricky",
+        "Good Friday",
         "#OBSIDIANRANK1",
+        "Scott",
         "Mizi",
-        "#Verzuz",
-        "#USMNT",
-        "#criticalrolespoilers",
+        "#ZOMST",
         "Matt Bruner",
-        "Omarion"
+        "RED Friday",
+        "Turkey",
+        "Temporary",
+        "John Thune",
+        "South Dakota"
       ],
       "hashtags": [
-        "#ZOMST",
         "#OBSIDIANRANK1",
-        "#Verzuz",
-        "#USMNT",
-        "#criticalrolespoilers"
+        "#ZOMST",
+        "#BTSTICKETS",
+        "#BTS_WORLDTOUR",
+        "#Verzuz"
       ],
       "regular_topics": [
-        "Turkey",
+        "Good Friday",
         "Scott",
-        "Pretty Ricky",
         "Mizi",
         "Matt Bruner",
-        "Omarion",
-        "Corbin",
-        "Pulisic",
-        "Weah",
-        "Pepi",
-        "SK Hynix"
+        "RED Friday",
+        "Turkey",
+        "Temporary",
+        "John Thune",
+        "South Dakota",
+        "Pretty Ricky",
+        "SOUNDCHECK VIP PACKAGE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jun 26 2026 09:15:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 26 2026 11:48:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ecuador",
-        "#ECUGER",
-        "Kemi",
-        "Scotland",
-        "#enggha",
-        "Venezuela",
-        "#CurrysFootball",
+        "phil",
+        "#OBSIDIANRANK1",
         "Buckingham Palace",
-        "#brasco",
-        "Clarke",
-        "Phillipson"
+        "#thismorning",
+        "Bruno G",
+        "Turkey",
+        "Fritz",
+        "Devlin",
+        "#WHFreeBet",
+        "Olodo",
+        "Anderson"
       ],
       "hashtags": [
-        "#ECUGER",
-        "#enggha",
-        "#CurrysFootball",
-        "#brasco",
-        "#scobra"
+        "#OBSIDIANRANK1",
+        "#thismorning",
+        "#WHFreeBet",
+        "#AustrianGP",
+        "#loosewomen",
+        "#Wimbledon",
+        "#jeremyvine"
       ],
       "regular_topics": [
-        "Ecuador",
-        "Kemi",
-        "Scotland",
-        "Venezuela",
+        "phil",
         "Buckingham Palace",
-        "Clarke",
-        "Phillipson",
-        "Anderson",
-        "GTA 6",
+        "Bruno G",
         "Turkey",
-        "Brazil"
+        "Fritz",
+        "Devlin",
+        "Olodo",
+        "Anderson",
+        "Roy Castle",
+        "Jamie Smith",
+        "Barron"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jun 26 2026 09:58:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 26 2026 11:42:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OBSIDIANRANK1",
-        "#betya",
         "Venezuela",
         "WNBA",
         "Seattle",
         "Kawhi",
         "Ecuador",
-        "#Turkiye",
         "Lamelo",
-        "Gausman",
-        "24 Sussex"
+        "24 Sussex",
+        "gausman",
+        "#deltarunespoilers",
+        "GTA 6"
       ],
       "hashtags": [
         "#OBSIDIANRANK1",
-        "#betya",
-        "#Turkiye",
         "#deltarunespoilers",
-        "#criticalrolespoilers"
+        "#ForTheW",
+        "#criticalrolespoilers",
+        "#Verzuz"
       ],
       "regular_topics": [
         "Venezuela",
@@ -110,87 +112,87 @@
         "Kawhi",
         "Ecuador",
         "Lamelo",
-        "Gausman",
         "24 Sussex",
+        "gausman",
+        "GTA 6",
         "South Africa",
-        "Marina Mabrey",
-        "GTA 6"
+        "Turkey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jun 26 2026 09:56:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 26 2026 11:40:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GalaxyM47Launch29June",
         "#OBSIDIANRANK1",
+        "#AyodhyaMeinKejriwal",
+        "#GalaxyM47Launch29June",
         "#InvitingTheWorldWithRespect",
         "3Days Left Kabir Prakat Diwas",
-        "#DrugsFreeBharat",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "#ChampatRai",
+        "#WelcomeToTheJungleReview",
         "Operation Amistad",
-        "\u0939\u091c\u093c\u0930\u0924 \u0907\u092e\u093e\u092e \u0939\u0941\u0938\u0948\u0928",
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
         "\u0905\u0930\u0935\u093f\u0902\u0926 \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
-        "Snapdragon Processor"
+        "Ram Lalla"
       ],
       "hashtags": [
-        "#GalaxyM47Launch29June",
         "#OBSIDIANRANK1",
+        "#AyodhyaMeinKejriwal",
+        "#GalaxyM47Launch29June",
         "#InvitingTheWorldWithRespect",
-        "#DrugsFreeBharat",
-        "#ChampatRai"
+        "#WelcomeToTheJungleReview"
       ],
       "regular_topics": [
         "3Days Left Kabir Prakat Diwas",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
         "Operation Amistad",
-        "\u0939\u091c\u093c\u0930\u0924 \u0907\u092e\u093e\u092e \u0939\u0941\u0938\u0948\u0928",
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
         "\u0905\u0930\u0935\u093f\u0902\u0926 \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
-        "Snapdragon Processor",
-        "Siyavar Ramchandra",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u091f\u094d\u0930\u0938\u094d\u091f",
+        "Ram Lalla",
+        "Gorilla Glass Victus",
+        "\u0939\u091c\u093c\u0930\u0924 \u0907\u092e\u093e\u092e \u0939\u0941\u0938\u0948\u0928",
         "\u0915\u092c\u0940\u0930 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930",
-        "\u0915\u093f\u0936\u0928 \u0928\u093e\u092f\u0915",
-        "\u0939\u0928\u0941\u092e\u093e\u0928 \u0917\u0922\u093c\u0940"
+        "Stake",
+        "\u0915\u093f\u0936\u0928 \u0928\u093e\u092f\u0915"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jun 26 2026 09:54:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jun 26 2026 11:39:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OBSIDIANRANK1",
         "Olodo",
-        "Peller",
         "Akara",
-        "Ycee",
+        "Peller",
         "Stake",
-        "#SupergirlNG",
-        "First Lady",
-        "Newcastle",
-        "Remi Tinubu",
-        "Tipped"
+        "#JumiaNGAnniversary",
+        "Ycee",
+        "#PANDITO",
+        "Norway",
+        "Tipped",
+        "Newcastle"
       ],
       "hashtags": [
         "#OBSIDIANRANK1",
-        "#SupergirlNG",
-        "#ReadTheFoodLabel",
-        "#BadBunny",
-        "#BTSTickets"
+        "#JumiaNGAnniversary",
+        "#PANDITO",
+        "#OdigommabyAssortedMusic",
+        "#SupergirlNG"
       ],
       "regular_topics": [
         "Olodo",
-        "Peller",
         "Akara",
-        "Ycee",
+        "Peller",
         "Stake",
-        "First Lady",
-        "Newcastle",
-        "Remi Tinubu",
+        "Ycee",
+        "Norway",
         "Tipped",
+        "Newcastle",
+        "First Lady",
         "Bruno Guimar\u00e3es",
         "Ticketmaster"
       ],
