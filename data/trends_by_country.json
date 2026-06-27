@@ -1,90 +1,91 @@
 {
-  "generated_at_utc": "2026-06-27T20:01:47.102350+00:00",
+  "generated_at_utc": "2026-06-27T21:34:14.156685+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 27 2026 19:33:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 21:18:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sami",
         "#WWENOC",
-        "#UFCBaku",
         "SummerSlam",
+        "Gunther",
         "#NightOfChampions",
-        "Gerrit Cole",
-        "Seth",
-        "Fiziev",
+        "Roman",
+        "#tvlspoilers",
+        "Nick Aldis",
+        "Flake",
         "Brock",
-        "Shara",
-        "Oba Femi",
-        "Bron Breakker"
+        "#UFCBaku"
       ],
       "hashtags": [
         "#WWENOC",
-        "#UFCBaku",
         "#NightOfChampions",
-        "#PortugalHealingGlory",
-        "#HWCafe"
+        "#tvlspoilers",
+        "#UFCBaku",
+        "#AndNew"
       ],
       "regular_topics": [
+        "Sami",
         "SummerSlam",
-        "Gerrit Cole",
-        "Seth",
-        "Fiziev",
-        "Brock",
-        "Shara",
-        "Oba Femi",
-        "Bron Breakker",
+        "Gunther",
         "Roman",
-        "Liv Morgan",
-        "Iyo Sky"
+        "Nick Aldis",
+        "Flake",
+        "Brock",
+        "Seth",
+        "Oba Femi",
+        "Will Vest",
+        "El Generico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 27 2026 19:04:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 20:48:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWENOC",
+        "Sami",
         "Xhaka",
-        "Sunderland",
-        "#UFCBaku",
-        "Bron",
-        "Alonso",
-        "SummerSlam",
+        "#PANENG",
+        "Somalian",
         "#NightOfChampions",
-        "#SAFC",
-        "Seth",
-        "Roman"
+        "SummerSlam",
+        "Panama",
+        "Sunderland",
+        "#ENGPAN",
+        "Quansah"
       ],
       "hashtags": [
         "#WWENOC",
-        "#UFCBaku",
+        "#PANENG",
         "#NightOfChampions",
-        "#SAFC",
-        "#HWCafe"
+        "#ENGPAN",
+        "#soundsofthe80s"
       ],
       "regular_topics": [
+        "Sami",
         "Xhaka",
-        "Sunderland",
-        "Bron",
-        "Alonso",
+        "Somalian",
         "SummerSlam",
-        "Seth",
-        "Roman",
-        "Russell",
-        "Michael Cole",
-        "Charles",
-        "Liv Morgan"
+        "Panama",
+        "Sunderland",
+        "Quansah",
+        "Mainoo",
+        "Gunther",
+        "Alonso",
+        "Bron"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 27 2026 18:57:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 20:42:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWENOC",
+        "Sami",
         "#NHLDraft",
         "24 Sussex",
         "#UFCBaku",
@@ -93,8 +94,7 @@
         "Preston",
         "Carl",
         "#Canucks",
-        "Joe Iginla",
-        "SummerSlam"
+        "Stornoway"
       ],
       "hashtags": [
         "#WWENOC",
@@ -104,95 +104,95 @@
         "#NightOfChampions"
       ],
       "regular_topics": [
+        "Sami",
         "24 Sussex",
         "Titi",
         "Gavin McKenna",
         "Preston",
         "Carl",
-        "Joe Iginla",
-        "SummerSlam",
         "Stornoway",
-        "Valentini",
-        "Xhaka",
-        "Aniya"
+        "SummerSlam",
+        "Aniya",
+        "Alexander Karmanov",
+        "Dylan Cease"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 27 2026 19:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 20:39:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWENOC",
         "MUNAWAR DEFINES LOCKUPP ERA",
         "#RiyazAly",
-        "#WWENOC",
-        "AMAAL X NOISE",
+        "Sami Zayn",
         "#AmazonPrimeDaySale",
         "#GalaxyS25UltraDay1",
         "#Monetary_Boycott_Of_BELIFT",
         "jungkook",
-        "Xhaka",
+        "SummerSlam",
         "Seth",
-        "SummerSlam"
+        "Xhaka"
       ],
       "hashtags": [
-        "#RiyazAly",
         "#WWENOC",
+        "#RiyazAly",
         "#AmazonPrimeDaySale",
         "#GalaxyS25UltraDay1",
         "#Monetary_Boycott_Of_BELIFT"
       ],
       "regular_topics": [
         "MUNAWAR DEFINES LOCKUPP ERA",
-        "AMAAL X NOISE",
+        "Sami Zayn",
         "jungkook",
-        "Xhaka",
-        "Seth",
         "SummerSlam",
-        "Sach Ya Sazaa",
+        "Seth",
+        "Xhaka",
+        "Madrid",
         "HAPPY BDAY VDSENA",
+        "Gunther",
         "Oba Femi",
-        "Rangers",
-        "Sunderland"
+        "Rangers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 27 2026 18:52:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 20:36:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Xhaka",
-        "#FamsUp",
         "Sunderland",
         "#ShedrachEgede4Tinubu",
+        "#FamsUp",
+        "Panama",
         "Xabi Alonso",
-        "#TheRemiXNneomaMovie",
-        "Thiago Silva",
+        "Sami Zayn",
         "#WWENOC",
-        "Leverkusen",
-        "Checkers",
+        "Thiago Silva",
+        "XPHERE",
         "Oloye"
       ],
       "hashtags": [
-        "#FamsUp",
         "#ShedrachEgede4Tinubu",
-        "#TheRemiXNneomaMovie",
+        "#FamsUp",
         "#WWENOC",
-        "#UFCBaku"
+        "#UFCBaku",
+        "#WorldCupFIFA"
       ],
       "regular_topics": [
         "Xhaka",
         "Sunderland",
+        "Panama",
         "Xabi Alonso",
+        "Sami Zayn",
         "Thiago Silva",
-        "Leverkusen",
-        "Checkers",
+        "XPHERE",
         "Oloye",
-        "Cuppy",
-        "Akara",
-        "Colombia",
-        "Chalobah"
+        "Stake",
+        "Cody Gakpo",
+        "Colombia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
