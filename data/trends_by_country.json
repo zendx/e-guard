@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-06-27T15:59:58.350407+00:00",
+  "generated_at_utc": "2026-06-27T17:10:41.181560+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 27 2026 14:57:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 16:31:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCBaku",
+        "#WWENOC",
+        "Hasanov",
+        "JUNGKOOK",
+        "Abus Magomedov",
         "Good Saturday",
-        "Nascimento",
-        "Matsumoto",
-        "Kaan Ofli",
-        "#Caturday",
         "Bill Maher",
-        "Donchenko",
-        "Javier Reyes",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e487",
-        "THE AIR BLEEDING LOVE"
+        "#LoveIslanUSA",
+        "Eric Nolan",
+        "#Caturday",
+        "George Russell"
       ],
       "hashtags": [
         "#UFCBaku",
-        "#Caturday",
-        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e487",
+        "#WWENOC",
         "#LoveIslanUSA",
-        "#WWENOC"
+        "#Caturday",
+        "#TicketToHeavenEP5"
       ],
       "regular_topics": [
+        "Hasanov",
+        "JUNGKOOK",
+        "Abus Magomedov",
         "Good Saturday",
-        "Nascimento",
-        "Matsumoto",
-        "Kaan Ofli",
         "Bill Maher",
-        "Donchenko",
-        "Javier Reyes",
-        "THE AIR BLEEDING LOVE",
-        "Almakhan",
+        "Eric Nolan",
+        "George Russell",
+        "Julius Walker",
+        "Scott Weiner",
         "Bahrain",
-        "Abdullayev"
+        "Kaan Ofli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
