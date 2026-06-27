@@ -1,204 +1,199 @@
 {
-  "generated_at_utc": "2026-06-27T14:57:31.744829+00:00",
+  "generated_at_utc": "2026-06-27T15:59:58.350407+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jun 27 2026 14:06:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 14:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCBaku",
         "Good Saturday",
         "Nascimento",
         "Matsumoto",
+        "Kaan Ofli",
         "#Caturday",
-        "Abdullayev",
-        "More Info in Article Below",
         "Bill Maher",
-        "Bahrain",
-        "#loveisland2026",
-        "Titi"
+        "Donchenko",
+        "Javier Reyes",
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e487",
+        "THE AIR BLEEDING LOVE"
       ],
       "hashtags": [
         "#UFCBaku",
         "#Caturday",
-        "#loveisland2026",
-        "#SaturdayVibes",
-        "#TicketToHeavenEP5"
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e487",
+        "#LoveIslanUSA",
+        "#WWENOC"
       ],
       "regular_topics": [
         "Good Saturday",
         "Nascimento",
         "Matsumoto",
-        "Abdullayev",
-        "More Info in Article Below",
+        "Kaan Ofli",
         "Bill Maher",
-        "Bahrain",
-        "Titi",
-        "Clarke",
+        "Donchenko",
+        "Javier Reyes",
         "THE AIR BLEEDING LOVE",
-        "Night Moves"
+        "Almakhan",
+        "Bahrain",
+        "Abdullayev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jun 27 2026 14:31:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 15:28:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Result365",
-        "#UFCBaku",
-        "#ArmedForcesDay",
+        "Russell",
         "#AustrianGP",
-        "Xhaka",
-        "Aston Martin",
-        "Halifax",
-        "Never So Brave",
-        "#bbcaq",
+        "Verstappen",
+        "#UFCBaku",
+        "Kimi",
+        "Ferrari",
+        "Toto",
+        "Antonelli",
         "Charles",
-        "Saber Strike"
+        "#Result365",
+        "Leclerc"
       ],
       "hashtags": [
-        "#Result365",
-        "#UFCBaku",
-        "#ArmedForcesDay",
         "#AustrianGP",
-        "#bbcaq",
-        "#WWENOC",
-        "#Caturday",
-        "#ENGvNZ"
+        "#UFCBaku",
+        "#Result365",
+        "#CelebsOrTVShowsInFurniture",
+        "#SkyF1",
+        "#ArmedForcesDay",
+        "#WWENOC"
       ],
       "regular_topics": [
-        "Xhaka",
-        "Aston Martin",
-        "Halifax",
-        "Never So Brave",
+        "Russell",
+        "Verstappen",
+        "Kimi",
+        "Ferrari",
+        "Toto",
+        "Antonelli",
         "Charles",
-        "Saber Strike",
-        "Cape Verde",
-        "Hartlepool",
-        "Reece James",
-        "Dion",
-        "Church of England"
+        "Leclerc",
+        "George North",
+        "Qirat",
+        "IPTV"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jun 27 2026 14:24:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 15:16:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "24 Sussex",
         "#NHLDraft",
         "#UFCBaku",
-        "Gavin McKenna",
         "Titi",
+        "Gavin McKenna",
         "Carl",
-        "Matsumoto",
-        "SHIVANGI IN LOCKUPP2",
+        "#AustrianGP",
         "Stornoway",
-        "Dembele",
-        "#loveislandusa"
+        "#loveislandusa",
+        "Aniya",
+        "Justin Bieber"
       ],
       "hashtags": [
         "#NHLDraft",
         "#UFCBaku",
+        "#AustrianGP",
         "#loveislandusa",
-        "#Canucks",
-        "#Flames"
+        "#Canucks"
       ],
       "regular_topics": [
         "24 Sussex",
-        "Gavin McKenna",
         "Titi",
+        "Gavin McKenna",
         "Carl",
-        "Matsumoto",
-        "SHIVANGI IN LOCKUPP2",
         "Stornoway",
-        "Dembele",
+        "Aniya",
+        "Justin Bieber",
+        "Matsumoto",
         "Reid",
-        "justin bieber",
-        "Aniya"
+        "Dembele",
+        "Preston"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jun 27 2026 14:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 15:12:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "JANTA LOCKEDUP FOR DHEERAJ",
         "#ExposingBiasedUN",
         "#KaleshOnAlliance",
         "#AvatarFireAndAsh",
+        "#\u0928_\u091c\u0928\u094d\u092e_\u0939\u0941\u0906_\u0928_\u092e\u0930\u093e_\u0915\u092c\u0940\u0930\u093e",
         "#RythuluAgainstRowdies",
-        "#WelcomeToTheJungleOnDistrict",
         "JioHotstar",
-        "AKANKSHA TAKES OVER LOCKUPP",
         "2Days Left Kabir Prakat Diwas",
-        "Pandora",
-        "AERA"
+        "AKANKSHA TAKES OVER  LOCKUPP",
+        "Russell",
+        "Seychelles"
       ],
       "hashtags": [
         "#ExposingBiasedUN",
         "#KaleshOnAlliance",
         "#AvatarFireAndAsh",
-        "#RythuluAgainstRowdies",
-        "#WelcomeToTheJungleOnDistrict",
-        "#NoidaTheGrowthCorridor",
         "#\u0928_\u091c\u0928\u094d\u092e_\u0939\u0941\u0906_\u0928_\u092e\u0930\u093e_\u0915\u092c\u0940\u0930\u093e",
-        "#MannKiBaat",
-        "#achyutaavataaram"
+        "#RythuluAgainstRowdies"
       ],
       "regular_topics": [
         "JANTA LOCKEDUP FOR DHEERAJ",
         "JioHotstar",
-        "AKANKSHA TAKES OVER LOCKUPP",
         "2Days Left Kabir Prakat Diwas",
-        "Pandora",
-        "AERA",
+        "AKANKSHA TAKES OVER  LOCKUPP",
+        "Russell",
         "Seychelles",
+        "Verstappen",
         "AMAAL X NOISE",
-        "Watch Avatar",
-        "Amaravati",
-        "The Origin of Fire"
+        "Ancy Sojan",
+        "AERA",
+        "\u0930\u0947\u0921\u093f\u092f\u094b \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jun 27 2026 14:19:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jun 27 2026 15:09:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Cape Verde",
-        "Akara",
         "Xhaka",
+        "Akara",
+        "Cape Verde",
+        "Cuppy",
+        "David Silva",
         "Colombia",
         "Maghnes Akliouche",
-        "First Lady",
-        "David Silva",
+        "Russell",
         "Panama",
-        "Greenwood",
-        "Patience Jonathan",
-        "Stella Obasanjo"
+        "First Lady",
+        "Ozil"
       ],
       "hashtags": [
+        "#AustrianGP",
         "#BadBunny",
         "#calvinharris",
-        "#Tinubumustgo",
-        "#PANDITO"
+        "#Tinubumustgo"
       ],
       "regular_topics": [
-        "Cape Verde",
-        "Akara",
         "Xhaka",
+        "Akara",
+        "Cape Verde",
+        "Cuppy",
+        "David Silva",
         "Colombia",
         "Maghnes Akliouche",
-        "First Lady",
-        "David Silva",
+        "Russell",
         "Panama",
-        "Greenwood",
-        "Patience Jonathan",
-        "Stella Obasanjo"
+        "First Lady",
+        "Ozil"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
