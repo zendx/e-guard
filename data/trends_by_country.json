@@ -1,127 +1,129 @@
 {
-  "generated_at_utc": "2026-06-28T21:51:02.131557+00:00",
+  "generated_at_utc": "2026-06-28T22:50:50.977664+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 28 2026 21:21:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 22:15:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "#TNASlammiversary",
         "Kasich",
-        "Hornets",
-        "Dan Wilson",
-        "Davies",
+        "Samira",
+        "Carla Leite",
         "Mauricio",
-        "Suns",
-        "Olivia Miles",
-        "Ethan Roberts",
-        "#RSACAN"
+        "Triple OT",
+        "Dan Wilson",
+        "Jordan Wicks",
+        "Axios",
+        "Brewers"
       ],
       "hashtags": [
         "#TNASlammiversary",
         "#RSACAN",
         "#GreenWall",
-        "#RSAvsCAN",
-        "#CANMNT"
+        "#BETAwards",
+        "#RSAvsCAN"
       ],
       "regular_topics": [
         "Canada",
         "Kasich",
-        "Hornets",
-        "Dan Wilson",
-        "Davies",
+        "Samira",
+        "Carla Leite",
         "Mauricio",
-        "Suns",
-        "Olivia Miles",
-        "Ethan Roberts",
-        "Grayson Allen",
-        "Haiti"
+        "Triple OT",
+        "Dan Wilson",
+        "Jordan Wicks",
+        "Axios",
+        "Brewers",
+        "Mullin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 28 2026 20:54:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 22:39:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RSACAN",
         "Canada",
+        "#RSACAN",
         "Barcola",
-        "Mara",
-        "Angie",
         "Diomande",
-        "Stokes",
-        "Minteh",
+        "Angie",
+        "Mara",
         "Rayan",
-        "Alphonso Davies",
-        "#RSAvsCAN"
+        "Stokes",
+        "#loveislandaftersun",
+        "Minteh",
+        "Big Country"
       ],
       "hashtags": [
         "#RSACAN",
-        "#RSAvsCAN",
-        "#sts70s",
-        "#wildflowerhour",
-        "#TNASlammiversary"
+        "#loveislandaftersun",
+        "#ATEEZatBSTHydePark",
+        "#TNASlammiversary",
+        "#CANRSA"
       ],
       "regular_topics": [
         "Canada",
         "Barcola",
-        "Mara",
-        "Angie",
         "Diomande",
+        "Angie",
+        "Mara",
+        "Rayan",
         "Stokes",
         "Minteh",
-        "Rayan",
-        "Alphonso Davies",
-        "Christina Unkel",
-        "Martha"
+        "Big Country",
+        "Mbokazi",
+        "Brook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 28 2026 20:48:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 22:32:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Davies",
-        "#CANMNT",
         "South Africa",
-        "Millar",
-        "Cornelius",
-        "Jonathan David",
-        "Larin",
+        "#CANMNT",
+        "Round of 16",
+        "Davies",
+        "Morocco",
+        "#WorldCup",
+        "Stephen Eust\u00e1quio",
         "Kawhi",
-        "Austria",
         "#RSACAN",
-        "Buchanan"
+        "Millar",
+        "#FIFA"
       ],
       "hashtags": [
         "#CANMNT",
-        "#RSACAN",
         "#WorldCup",
-        "#WWENOC",
-        "#TAEHYUNGxCELINE"
+        "#RSACAN",
+        "#FIFA",
+        "#RSAvsCAN",
+        "#TNASlammiversary",
+        "#ExtendTS2023"
       ],
       "regular_topics": [
-        "Davies",
         "South Africa",
+        "Round of 16",
+        "Davies",
+        "Morocco",
+        "Stephen Eust\u00e1quio",
+        "Kawhi",
         "Millar",
         "Cornelius",
         "Jonathan David",
-        "Larin",
-        "Kawhi",
-        "Austria",
-        "Buchanan",
-        "Portugal",
-        "Werenski"
+        "Promise David",
+        "Bafana Bafana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 28 2026 21:36:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 22:30:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Ireland",
@@ -130,49 +132,49 @@
         "Ben Stokes",
         "#INDWvsAUSW",
         "#GodOfWar",
-        "Gautam Gambhir",
-        "#RSACAN",
         "Barcola",
-        "#UPLeadsPower"
+        "#RSACAN",
+        "Gautam Gambhir",
+        "Round of 16"
       ],
       "hashtags": [
         "#AnantAmbani",
         "#INDWvsAUSW",
         "#GodOfWar",
         "#RSACAN",
-        "#UPLeadsPower"
+        "#LockUpp2"
       ],
       "regular_topics": [
         "Canada",
         "Ireland",
         "South Africa",
         "Ben Stokes",
-        "Gautam Gambhir",
         "Barcola",
-        "England",
+        "Gautam Gambhir",
         "Round of 16",
+        "Diomande",
+        "England",
         "Shreyas Iyer",
-        "Australia",
-        "Diomande"
+        "Australia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 28 2026 21:34:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 22:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
-        "#RSACAN",
         "Bafana Bafana",
         "beck",
+        "#RSACAN",
+        "Liverpool",
         "Drake",
-        "Go Bek",
-        "#RSAvsCAN",
         "Xenophobic",
-        "Alphonso Davies",
-        "Stephen Eustaquio",
-        "Round of 16"
+        "Barcola",
+        "#RSAvsCAN",
+        "Round of 16",
+        "Stephen Eustaquio"
       ],
       "hashtags": [
         "#RSACAN",
@@ -183,14 +185,14 @@
         "South Africa",
         "Bafana Bafana",
         "beck",
+        "Liverpool",
         "Drake",
-        "Go Bek",
         "Xenophobic",
-        "Alphonso Davies",
-        "Stephen Eustaquio",
+        "Barcola",
         "Round of 16",
+        "Stephen Eustaquio",
         "Kantry",
-        "Mbokazi"
+        "Bode Thomas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
