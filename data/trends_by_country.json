@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-06-28T15:49:24.071522+00:00",
+  "generated_at_utc": "2026-06-28T16:54:30.043560+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 28 2026 15:21:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 16:13:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Sunday",
         "All 20",
-        "#AustrianGP",
-        "Happy Birthday Elon",
+        "Good Sunday",
         "#SeductiveSunday",
-        "Verstappen",
+        "Happy Birthday Elon",
         "#JacksonWang",
+        "Mel Brooks",
+        "#AustrianGP",
         "#EnemiesWithBenefitsEP9",
-        "Kimi",
         "Sunday Funday",
-        "#SundayVibes"
+        "#LouisVuitton",
+        "Happy 100th"
       ],
       "hashtags": [
-        "#AustrianGP",
         "#SeductiveSunday",
         "#JacksonWang",
+        "#AustrianGP",
         "#EnemiesWithBenefitsEP9",
-        "#SundayVibes"
+        "#LouisVuitton"
       ],
       "regular_topics": [
-        "Good Sunday",
         "All 20",
+        "Good Sunday",
         "Happy Birthday Elon",
-        "Verstappen",
-        "Kimi",
-        "Sunday Funday",
         "Mel Brooks",
+        "Sunday Funday",
         "Happy 100th",
-        "Ferrari",
         "EWB NINTH EP",
-        "Silverstone"
+        "Oracle AI Trade",
+        "$ANSEM",
+        "Verstappen",
+        "Morbius"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 28 2026 14:54:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 16:36:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ben Stokes",
-        "#AustrianGP",
-        "Lewis",
-        "Ferrari",
-        "Antonelli",
-        "Rob Key",
         "McCullum",
-        "Louth",
-        "Leclerc",
+        "Rob Key",
+        "#ENGvNZ",
+        "Benvenuto Cellini",
+        "Lewis",
+        "#AustrianGP",
+        "Ferrari",
+        "taemin",
         "Silverstone",
-        "lando"
+        "Ashes"
       ],
       "hashtags": [
-        "#AustrianGP",
-        "#SkyF1",
         "#ENGvNZ",
-        "#VxCelineSS27",
-        "#DutchGP"
+        "#AustrianGP",
+        "#EnglandCricket",
+        "#SkyF1",
+        "#VxCelineSS27"
       ],
       "regular_topics": [
         "Ben Stokes",
+        "McCullum",
+        "Rob Key",
+        "Benvenuto Cellini",
         "Lewis",
         "Ferrari",
-        "Antonelli",
-        "Rob Key",
-        "McCullum",
-        "Louth",
-        "Leclerc",
+        "taemin",
         "Silverstone",
-        "lando",
-        "All 20"
+        "Ashes",
+        "Daryl Mitchell",
+        "Verstappen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 28 2026 14:46:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 16:30:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Austria",
         "Portugal",
-        "Lewis",
-        "Ferrari",
-        "#WWENOC",
         "24 Sussex",
-        "Verstappen",
+        "#WWENOC",
         "#PPxSTAKE",
         "Sami",
+        "Verstappen",
+        "jungkook",
         "#NHLDraft",
-        "jungkook"
+        "Antonelli",
+        "Werenski"
       ],
       "hashtags": [
         "#WWENOC",
         "#PPxSTAKE",
         "#NHLDraft",
-        "#UFCBaku",
-        "#TAEHYUNGxCELINE"
+        "#TAEHYUNGxCELINE",
+        "#UFCBaku"
       ],
       "regular_topics": [
         "Austria",
         "Portugal",
-        "Lewis",
-        "Ferrari",
         "24 Sussex",
-        "Verstappen",
         "Sami",
+        "Verstappen",
         "jungkook",
-        "Kimi",
-        "Alexandre Dumas",
-        "Antonelli"
+        "Antonelli",
+        "Werenski",
+        "Stornoway",
+        "Good Sunday",
+        "Ansem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 28 2026 15:36:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 16:28:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UPLeadsPower",
+        "#AnantAmbaniInTirupati",
         "#SunitaLockUppEntertainer",
-        "#AnantAmbaniAtTirupati",
+        "#UPLeadsPower",
         "Ben Stokes",
         "#INDWvsAUSW",
         "#GodOfWar",
         "Harmanpreet Kaur",
         "Australia",
-        "Prince Yadav",
         "Ireland",
-        "Richa"
+        "Deepti Sharma",
+        "Perry"
       ],
       "hashtags": [
-        "#UPLeadsPower",
+        "#AnantAmbaniInTirupati",
         "#SunitaLockUppEntertainer",
-        "#AnantAmbaniAtTirupati",
+        "#UPLeadsPower",
         "#INDWvsAUSW",
         "#GodOfWar"
       ],
@@ -146,53 +146,53 @@
         "Ben Stokes",
         "Harmanpreet Kaur",
         "Australia",
-        "Prince Yadav",
         "Ireland",
-        "Richa",
+        "Deepti Sharma",
+        "Perry",
         "Jai Moondra",
+        "Ravi Shastri",
+        "Prince Yadav",
         "Smriti",
-        "Anushka Sharma",
-        "Jemimah",
-        "Vaibhav"
+        "Anushka Sharma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 28 2026 14:42:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 16:25:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "#EveNanaMedspaAndWellness",
-        "Ansem",
-        "Pep Chavarr\u00eda",
+        "#PoojaXZonex",
+        "$ANSEM",
         "Fastlane",
+        "#EveNanaMedspaAndWellness",
         "ICAN",
-        "Verstappen",
-        "#AustrianGP",
-        "Church",
-        "Rayo Vallecano",
-        "Chops"
+        "Pep Chavarr\u00eda",
+        "Rodrygo",
+        "Doris Ogala",
+        "Seun Kuti",
+        "Jago"
       ],
       "hashtags": [
+        "#PoojaXZonex",
         "#EveNanaMedspaAndWellness",
         "#AustrianGP",
         "#VxCelineSS27",
-        "#FROMily",
-        "#TAEHYUNGxCELINE"
+        "#FROMily"
       ],
       "regular_topics": [
         "Canada",
-        "Ansem",
-        "Pep Chavarr\u00eda",
+        "$ANSEM",
         "Fastlane",
         "ICAN",
-        "Verstappen",
-        "Church",
-        "Rayo Vallecano",
-        "Chops",
-        "Vitinha",
-        "Seun Kuti"
+        "Pep Chavarr\u00eda",
+        "Rodrygo",
+        "Doris Ogala",
+        "Seun Kuti",
+        "Jago",
+        "Manuel Ugarte",
+        "Mount"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
