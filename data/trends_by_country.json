@@ -1,28 +1,29 @@
 {
-  "generated_at_utc": "2026-06-28T19:05:27.127952+00:00",
+  "generated_at_utc": "2026-06-28T20:38:46.539318+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 28 2026 18:48:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 19:39:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hornets",
         "Suns",
+        "#GreenWall",
         "Miles Bridges",
         "Grayson Allen",
         "Kasich",
-        "Royce",
+        "South Africa",
+        "Haiti",
         "All 20",
-        "Springfield",
-        "#SeductiveSunday",
-        "DeWine",
-        "Serves 10"
+        "#TNASlammiversary",
+        "#brickbybrick"
       ],
       "hashtags": [
-        "#SeductiveSunday",
-        "#SouthAfrica",
         "#GreenWall",
-        "#DEATHBATTLE"
+        "#TNASlammiversary",
+        "#brickbybrick",
+        "#SeductiveSunday",
+        "#RSACAN"
       ],
       "regular_topics": [
         "Hornets",
@@ -30,166 +31,167 @@
         "Miles Bridges",
         "Grayson Allen",
         "Kasich",
-        "Royce",
+        "South Africa",
+        "Haiti",
         "All 20",
-        "Springfield",
-        "DeWine",
-        "Serves 10",
-        "Geraldo"
+        "Bregman",
+        "Barcola",
+        "OpTic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 28 2026 18:20:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 20:03:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Barcola",
+        "#RSACAN",
+        "Canada",
         "Stokes",
-        "McCullum",
+        "Diomande",
+        "Minteh",
+        "Rayan",
+        "Christina Unkel",
         "Brook",
-        "#ENGvNZ",
-        "Bazball",
-        "Rob Key",
-        "Ashes",
-        "Root",
-        "Bethell",
-        "Sunderland",
-        "Silverstone"
+        "McCullum",
+        "Lucy Ward"
       ],
       "hashtags": [
-        "#ENGvNZ",
-        "#Cricket",
-        "#AustrianGP",
-        "#AskGeorge",
-        "#IREvIND"
+        "#RSACAN",
+        "#wildflowerhour",
+        "#sts70s",
+        "#RSAvsCAN",
+        "#GreenWall"
       ],
       "regular_topics": [
+        "Barcola",
+        "Canada",
         "Stokes",
-        "McCullum",
+        "Diomande",
+        "Minteh",
+        "Rayan",
+        "Christina Unkel",
         "Brook",
-        "Bazball",
-        "Rob Key",
-        "Ashes",
-        "Root",
-        "Bethell",
-        "Sunderland",
-        "Silverstone",
-        "South Africa vs Canada"
+        "McCullum",
+        "Lucy Ward",
+        "Sunderland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 28 2026 18:13:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 19:56:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#CANMNT",
+        "Cornelius",
+        "South Africa",
+        "Millar",
+        "Davies",
+        "Jonathan David",
         "Austria",
         "Portugal",
         "Larin",
-        "Colombia",
-        "24 Sussex",
-        "Davies",
-        "#PPxSTAKE",
-        "#CanMNT",
-        "Millar",
-        "#WWENOC",
-        "Sami"
+        "#RSACAN",
+        "Sussex"
       ],
       "hashtags": [
+        "#CANMNT",
+        "#RSACAN",
         "#PPxSTAKE",
-        "#CanMNT",
         "#WWENOC",
-        "#TAEHYUNGxCELINE",
-        "#NHLDraft"
+        "#TAEHYUNGxCELINE"
       ],
       "regular_topics": [
+        "Cornelius",
+        "South Africa",
+        "Millar",
+        "Davies",
+        "Jonathan David",
         "Austria",
         "Portugal",
         "Larin",
-        "Colombia",
-        "24 Sussex",
-        "Davies",
-        "Millar",
-        "Sami",
+        "Sussex",
         "Werenski",
-        "Tani",
-        "Hornets"
+        "Colombia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 28 2026 18:10:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 19:52:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ireland",
-        "#AnantAmbaniInTirupati",
-        "#INDWvsAUSW",
+        "#AnantAmbani",
         "Ben Stokes",
-        "#UPLeadsPower",
+        "#INDWvsAUSW",
         "#GodOfWar",
         "Gautam Gambhir",
-        "Shreyas Iyer",
-        "Australia",
+        "#UPLeadsPower",
         "England",
-        "T20I"
+        "Shreyas Iyer",
+        "South Africa",
+        "Australia"
       ],
       "hashtags": [
-        "#AnantAmbaniInTirupati",
+        "#AnantAmbani",
         "#INDWvsAUSW",
-        "#UPLeadsPower",
         "#GodOfWar",
-        "#SunitaLockUppEntertainer"
+        "#UPLeadsPower",
+        "#LockUpp2"
       ],
       "regular_topics": [
         "Ireland",
         "Ben Stokes",
         "Gautam Gambhir",
-        "Shreyas Iyer",
-        "Australia",
         "England",
-        "T20I",
+        "Shreyas Iyer",
+        "South Africa",
+        "Australia",
+        "Barcola",
         "Harman",
-        "T20 World Cup",
-        "Perry",
-        "Vaibhav"
+        "T20I",
+        "T20 World Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 28 2026 18:08:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 19:51:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "Chicago Fire",
-        "$ANSEM",
-        "Lewandowski",
-        "#PoojaXZonex",
-        "Rodrygo",
         "Sunderland",
-        "Pastor Bolaji",
+        "#RSACAN",
+        "Chicago Fire",
+        "Lewandowski",
+        "$ANSEM",
+        "Bafana Bafana",
         "Tomorrow is Monday",
-        "Lenglet",
-        "Ajax"
+        "Rejected Liverpool",
+        "Xhaka",
+        "Drake"
       ],
       "hashtags": [
+        "#RSACAN",
+        "#pastorbolaji",
         "#PoojaXZonex",
-        "#EveNanaMedspaAndWellness",
-        "#VenezuelaNoEst\u00e1Sola"
+        "#SAFC"
       ],
       "regular_topics": [
         "Canada",
-        "Chicago Fire",
-        "$ANSEM",
-        "Lewandowski",
-        "Rodrygo",
         "Sunderland",
-        "Pastor Bolaji",
+        "Chicago Fire",
+        "Lewandowski",
+        "$ANSEM",
+        "Bafana Bafana",
         "Tomorrow is Monday",
-        "Lenglet",
-        "Ajax",
-        "Benfica"
+        "Rejected Liverpool",
+        "Xhaka",
+        "Drake",
+        "Yan Diomand\u00e9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
