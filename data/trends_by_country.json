@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-06-28T22:50:50.977664+00:00",
+  "generated_at_utc": "2026-06-28T23:56:40.147918+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jun 28 2026 22:15:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 23:09:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
+        "#OlandriaxBETAwards",
+        "South Africa",
         "#TNASlammiversary",
+        "Mystics",
+        "#NXTGAB",
         "Kasich",
-        "Samira",
+        "Mullin",
         "Carla Leite",
-        "Mauricio",
-        "Triple OT",
-        "Dan Wilson",
-        "Jordan Wicks",
-        "Axios",
-        "Brewers"
+        "#ForbiddenDoor",
+        "Samira"
       ],
       "hashtags": [
+        "#OlandriaxBETAwards",
         "#TNASlammiversary",
-        "#RSACAN",
-        "#GreenWall",
-        "#BETAwards",
-        "#RSAvsCAN"
+        "#NXTGAB",
+        "#ForbiddenDoor",
+        "#RSACAN"
       ],
       "regular_topics": [
         "Canada",
+        "South Africa",
+        "Mystics",
         "Kasich",
-        "Samira",
+        "Mullin",
         "Carla Leite",
-        "Mauricio",
+        "Samira",
         "Triple OT",
-        "Dan Wilson",
-        "Jordan Wicks",
         "Axios",
-        "Brewers",
-        "Mullin"
+        "Tanner Scott",
+        "4th OT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jun 28 2026 22:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 23:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "#RSACAN",
         "Barcola",
+        "#RSACAN",
         "Diomande",
+        "#NXTGAB",
         "Angie",
         "Mara",
         "Rayan",
+        "#OlandriaxBETAwards",
         "Stokes",
-        "#loveislandaftersun",
-        "Minteh",
-        "Big Country"
+        "#loveislandaftersun"
       ],
       "hashtags": [
         "#RSACAN",
+        "#NXTGAB",
+        "#OlandriaxBETAwards",
         "#loveislandaftersun",
-        "#ATEEZatBSTHydePark",
-        "#TNASlammiversary",
-        "#CANRSA"
+        "#ATEEZatBSTHydePark"
       ],
       "regular_topics": [
         "Canada",
@@ -73,8 +73,8 @@
         "Rayan",
         "Stokes",
         "Minteh",
-        "Big Country",
         "Mbokazi",
+        "Big Country",
         "Brook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,26 +82,28 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jun 28 2026 22:32:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 23:27:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "#CANMNT",
         "Round of 16",
         "Davies",
         "Morocco",
+        "#OlandriaxBETAwards",
+        "Kawhi",
         "#WorldCup",
         "Stephen Eust\u00e1quio",
-        "Kawhi",
-        "#RSACAN",
-        "Millar",
-        "#FIFA"
+        "#NXTGAB",
+        "Cornelius"
       ],
       "hashtags": [
         "#CANMNT",
+        "#OlandriaxBETAwards",
         "#WorldCup",
-        "#RSACAN",
+        "#NXTGAB",
         "#FIFA",
         "#RSAvsCAN",
+        "#RSACAN",
         "#TNASlammiversary",
         "#ExtendTS2023"
       ],
@@ -110,44 +112,49 @@
         "Round of 16",
         "Davies",
         "Morocco",
-        "Stephen Eust\u00e1quio",
         "Kawhi",
-        "Millar",
+        "Stephen Eust\u00e1quio",
         "Cornelius",
+        "Clippers",
         "Jonathan David",
-        "Promise David",
-        "Bafana Bafana"
+        "Leamington",
+        "Promise David"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jun 28 2026 22:30:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 23:22:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "Ireland",
         "South Africa",
+        "Ireland",
         "#AnantAmbani",
         "Ben Stokes",
-        "#INDWvsAUSW",
-        "#GodOfWar",
         "Barcola",
-        "#RSACAN",
+        "#GodOfWar",
+        "#INDvsIRE",
+        "#INDWvsAUSW",
         "Gautam Gambhir",
         "Round of 16"
       ],
       "hashtags": [
         "#AnantAmbani",
-        "#INDWvsAUSW",
         "#GodOfWar",
-        "#RSACAN",
-        "#LockUpp2"
+        "#INDvsIRE",
+        "#INDWvsAUSW",
+        "#LockUpp2",
+        "#ENGvsNZ",
+        "#Trivikram",
+        "#nsfwtwt\u064b\u064b",
+        "#INDvAUS",
+        "#Awarapan2"
       ],
       "regular_topics": [
         "Canada",
-        "Ireland",
         "South Africa",
+        "Ireland",
         "Ben Stokes",
         "Barcola",
         "Gautam Gambhir",
@@ -162,7 +169,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jun 28 2026 22:28:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jun 28 2026 23:21:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "South Africa",
         "Bafana Bafana",
@@ -170,15 +177,16 @@
         "#RSACAN",
         "Liverpool",
         "Drake",
-        "Xenophobic",
         "Barcola",
-        "#RSAvsCAN",
+        "Xenophobic",
+        "Bode Thomas",
         "Round of 16",
-        "Stephen Eustaquio"
+        "#RSAvsCAN"
       ],
       "hashtags": [
         "#RSACAN",
         "#RSAvsCAN",
+        "#BETAwards",
         "#CANRSA"
       ],
       "regular_topics": [
@@ -187,12 +195,12 @@
         "beck",
         "Liverpool",
         "Drake",
-        "Xenophobic",
         "Barcola",
+        "Xenophobic",
+        "Bode Thomas",
         "Round of 16",
         "Stephen Eustaquio",
-        "Kantry",
-        "Bode Thomas"
+        "Amapiano"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
