@@ -1,193 +1,194 @@
 {
-  "generated_at_utc": "2026-06-29T22:43:57.170859+00:00",
+  "generated_at_utc": "2026-06-29T23:50:03.811676+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 29 2026 22:33:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 23:27:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
-        "Jrue",
         "#WWERaw",
+        "Jrue",
+        "Neuer",
         "Dame",
         "Portland",
+        "Sabonis",
+        "Duren",
+        "Havertz",
         "Blazers",
-        "Brazil",
-        "HELL IN A CELL",
-        "Japan",
-        "Brock",
-        "Grizzlies"
+        "Brock"
       ],
       "hashtags": [
         "#WWERaw",
         "#GERPAR",
-        "#RipCity"
+        "#GERvsPAR"
       ],
       "regular_topics": [
         "Paraguay",
         "Jrue",
+        "Neuer",
         "Dame",
         "Portland",
+        "Sabonis",
+        "Duren",
+        "Havertz",
         "Blazers",
-        "Brazil",
-        "HELL IN A CELL",
-        "Japan",
         "Brock",
-        "Grizzlies",
-        "Election Day"
+        "Scoot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 29 2026 22:09:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 23:01:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Germany",
         "#GERPAR",
-        "Simba",
-        "Japan",
         "Wirtz",
-        "Martinelli",
+        "Simba",
         "Havertz",
-        "Enciso",
-        "Aidan",
-        "Casemiro",
-        "Sean"
+        "Japan",
+        "#WWERaw",
+        "Brazil",
+        "Alan Shearer",
+        "Martinelli",
+        "Enciso"
       ],
       "hashtags": [
         "#GERPAR",
+        "#WWERaw",
         "#BRAJPN",
         "#Wimbledon",
-        "#BRAJAP",
-        "#LoveIslandDebrief"
+        "#BRAJAP"
       ],
       "regular_topics": [
         "Germany",
-        "Simba",
-        "Japan",
         "Wirtz",
-        "Martinelli",
+        "Simba",
         "Havertz",
+        "Japan",
+        "Brazil",
+        "Alan Shearer",
+        "Martinelli",
         "Enciso",
-        "Aidan",
-        "Casemiro",
-        "Sean",
-        "Lola"
+        "Nagelsmann",
+        "Aidan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 29 2026 22:04:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 22:56:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
-        "Brazil",
+        "Germany",
         "Jrue",
+        "#WWERaw",
+        "Brazil",
+        "Bo Bichette",
+        "Japan",
         "Portland",
-        "Blazers",
-        "Dame",
-        "Martinelli",
-        "Ja Morant",
-        "Havertz",
-        "Scoot",
-        "Bo Bichette"
+        "Brock",
+        "#GERPAR",
+        "Blazers"
       ],
       "hashtags": [
-        "#Germany",
-        "#BRAJPN"
+        "#WWERaw",
+        "#GERPAR"
       ],
       "regular_topics": [
         "Paraguay",
-        "Brazil",
+        "Germany",
         "Jrue",
+        "Brazil",
+        "Bo Bichette",
+        "Japan",
         "Portland",
+        "Brock",
         "Blazers",
         "Dame",
-        "Martinelli",
-        "Ja Morant",
-        "Havertz",
-        "Scoot",
-        "Bo Bichette"
+        "Martinelli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 29 2026 21:56:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 22:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Casemiro",
         "Paraguay",
+        "Casemiro",
         "Martinelli",
         "Neymar",
         "Ancelotti",
         "#BRAJPN",
         "Vini",
         "#GERPAR",
-        "#skel",
-        "WhatsApp"
+        "Kai Havertz",
+        "#skel"
       ],
       "hashtags": [
         "#BRAJPN",
         "#GERPAR",
         "#skel",
         "#BRAvsJPN",
-        "#SEVEN_WILL_CONNECT"
+        "#SEVEN_WILL_CONNECT",
+        "#SPLENDID_FUTURE_AWAITS_7",
+        "#Wimbledon"
       ],
       "regular_topics": [
         "Brazil",
-        "Casemiro",
         "Paraguay",
+        "Casemiro",
         "Martinelli",
         "Neymar",
         "Ancelotti",
         "Vini",
-        "WhatsApp",
         "Kai Havertz",
-        "Endrick",
-        "Sano"
+        "WhatsApp",
+        "Wirtz",
+        "Round of 16"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 29 2026 21:54:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 23:37:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Germany",
-        "Brazil",
-        "Martinelli",
+        "Jonathan Tah",
         "Kai Havertz",
-        "Casemiro",
-        "$ANSEM",
-        "#skel",
-        "NYSC",
         "#GERPAR",
-        "Enciso",
-        "Ancelotti"
+        "Neuer",
+        "Brazil",
+        "NYSC",
+        "$ANSEM",
+        "Woltemade",
+        "Gabriel",
+        "Kimmich"
       ],
       "hashtags": [
-        "#skel",
         "#GERPAR",
+        "#skel",
         "#BRAJPN",
-        "#RedBullDanceYourStyle",
-        "#SSFootball"
+        "#RedBullDanceYourStyle"
       ],
       "regular_topics": [
         "Germany",
-        "Brazil",
-        "Martinelli",
+        "Jonathan Tah",
         "Kai Havertz",
-        "Casemiro",
-        "$ANSEM",
+        "Neuer",
+        "Brazil",
         "NYSC",
-        "Enciso",
-        "Ancelotti",
-        "WhatsApp",
-        "Wirtz"
+        "$ANSEM",
+        "Woltemade",
+        "Gabriel",
+        "Kimmich",
+        "South American"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
