@@ -1,100 +1,95 @@
 {
-  "generated_at_utc": "2026-06-29T20:20:24.924665+00:00",
+  "generated_at_utc": "2026-06-29T21:47:55.226667+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jun 29 2026 19:57:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 20:48:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
+        "Japan",
+        "Dame",
+        "Jrue",
+        "Portland",
+        "Scoot",
+        "Blazers",
+        "Election Day",
         "Casemiro",
         "Martinelli",
-        "Election Day",
-        "Vini",
-        "SCOTUS",
-        "Supreme Court",
-        "Barrett",
-        "Ancelotti",
-        "LeBron",
-        "Neymar"
+        "Supreme Court"
       ],
       "hashtags": [
-        "#BRAJPN",
-        "#IKnewItIKnewYou",
-        "#SAMURAIBLUE",
-        "#MCMQuiereEstallidoSocial",
-        "#skel"
+        "#BRAJPN"
       ],
       "regular_topics": [
         "Brazil",
+        "Japan",
+        "Dame",
+        "Jrue",
+        "Portland",
+        "Scoot",
+        "Blazers",
+        "Election Day",
         "Casemiro",
         "Martinelli",
-        "Election Day",
-        "Vini",
-        "SCOTUS",
-        "Supreme Court",
-        "Barrett",
-        "Ancelotti",
-        "LeBron",
-        "Neymar"
+        "Supreme Court"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jun 29 2026 19:31:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 21:15:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Japan",
-        "Casemiro",
+        "Simba",
+        "Paraguay",
+        "#GERPAR",
         "Martinelli",
+        "Casemiro",
+        "Aidan",
+        "Julia",
         "#BRAJPN",
-        "Vini",
-        "Ancelotti",
-        "Suzuki",
-        "Neymar",
-        "Tanaka",
-        "#BRAJAP",
-        "Bruno G"
+        "Enciso",
+        "Lola"
       ],
       "hashtags": [
+        "#GERPAR",
         "#BRAJPN",
-        "#BRAJAP",
         "#Wimbledon",
-        "#bcafc",
-        "#SAMURAIBLUE"
+        "#BRAJAP"
       ],
       "regular_topics": [
         "Japan",
-        "Casemiro",
+        "Simba",
+        "Paraguay",
         "Martinelli",
+        "Casemiro",
+        "Aidan",
+        "Julia",
+        "Enciso",
+        "Lola",
         "Vini",
-        "Ancelotti",
-        "Suzuki",
-        "Neymar",
-        "Tanaka",
-        "Bruno G",
-        "Manchester",
-        "Endrick"
+        "Ancelotti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jun 29 2026 19:24:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 21:07:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Casemiro",
+        "Jrue",
         "Martinelli",
-        "Vini",
-        "Gally",
-        "#BRAJPN",
-        "Ancelotti",
-        "Brendan Gallagher",
-        "Gabriel",
-        "Neymar",
-        "Maccelli"
+        "Casemiro",
+        "Portland",
+        "Blazers",
+        "Dame",
+        "Ja Morant",
+        "Scoot",
+        "Maccelli",
+        "Gally"
       ],
       "hashtags": [
         "#BRAJPN",
@@ -102,42 +97,42 @@
       ],
       "regular_topics": [
         "Brazil",
-        "Casemiro",
+        "Jrue",
         "Martinelli",
-        "Vini",
-        "Gally",
-        "Ancelotti",
-        "Brendan Gallagher",
-        "Gabriel",
-        "Neymar",
+        "Casemiro",
+        "Portland",
+        "Blazers",
+        "Dame",
+        "Ja Morant",
+        "Scoot",
         "Maccelli",
-        "Gudas"
+        "Gally"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jun 29 2026 19:20:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 21:03:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Casemiro",
         "Martinelli",
         "Neymar",
-        "#BRAJPN",
         "Ancelotti",
+        "#BRAJPN",
         "Vini",
         "#skel",
-        "AUDIENCE WINNER TANYA",
-        "Endrick",
-        "#BRAvsJPN"
+        "WhatsApp",
+        "#BRAvsJPN",
+        "Endrick"
       ],
       "hashtags": [
         "#BRAJPN",
         "#skel",
         "#BRAvsJPN",
         "#SEVEN_WILL_CONNECT",
-        "#YogiForHinduRefugees"
+        "#SPLENDID_FUTURE_AWAITS_7"
       ],
       "regular_topics": [
         "Brazil",
@@ -146,50 +141,50 @@
         "Neymar",
         "Ancelotti",
         "Vini",
-        "AUDIENCE WINNER TANYA",
+        "WhatsApp",
         "Endrick",
+        "Paraguay",
         "Sano",
-        "Suzuki",
-        "Fabinho"
+        "Round of 16"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jun 29 2026 19:18:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jun 29 2026 21:01:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Casemiro",
         "Martinelli",
-        "#skel",
-        "#BRAJPN",
-        "Ancelotti",
+        "Casemiro",
         "$ANSEM",
-        "Vinicius",
+        "#skel",
+        "Ancelotti",
+        "Germany",
+        "#BRAJPN",
         "Endrick",
-        "Suzuki",
-        "Sano"
+        "Vinicius",
+        "Kenzie"
       ],
       "hashtags": [
         "#skel",
         "#BRAJPN",
         "#RedBullDanceYourStyle",
-        "#TTNaija",
-        "#BRAJAP"
+        "#GERPAR",
+        "#ssfootball"
       ],
       "regular_topics": [
         "Brazil",
-        "Casemiro",
         "Martinelli",
-        "Ancelotti",
+        "Casemiro",
         "$ANSEM",
-        "Vinicius",
+        "Ancelotti",
+        "Germany",
         "Endrick",
-        "Suzuki",
-        "Sano",
-        "MAKE IT RAIN",
-        "Maresca"
+        "Vinicius",
+        "Kenzie",
+        "WhatsApp",
+        "Suzuki"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
