@@ -1,192 +1,192 @@
 {
-  "generated_at_utc": "2026-06-30T21:10:12.686872+00:00",
+  "generated_at_utc": "2026-06-30T22:45:27.001577+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jun 30 2026 21:00:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 30 2026 21:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kawhi",
         "LeBron",
+        "#AriZonaGolfWang",
         "Raptors",
         "Lakers",
-        "Clippers",
         "Serena",
+        "Clippers",
+        "Olise",
         "Supreme Court",
         "SCOTUS",
-        "Constitution",
-        "Norway",
-        "Congress"
+        "Constitution"
       ],
       "hashtags": [
         "#AriZonaGolfWang",
-        "#Wimbledon",
-        "#CIVNOR",
-        "#LakeShow"
+        "#FRASWE",
+        "#Wimbledon"
       ],
       "regular_topics": [
         "Kawhi",
         "LeBron",
         "Raptors",
         "Lakers",
-        "Clippers",
         "Serena",
+        "Clippers",
+        "Olise",
         "Supreme Court",
         "SCOTUS",
         "Constitution",
-        "Norway",
-        "Congress"
+        "Toronto"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jun 30 2026 20:34:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 30 2026 22:19:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Norway",
-        "Amad",
-        "Spurs",
-        "#IVCNOR",
-        "Fernandes",
+        "Olise",
+        "Mbappe",
+        "#FRASWE",
+        "#loveisland",
         "Serena",
-        "Haaland",
-        "Danny Murphy",
-        "Odegaard",
-        "West Ham",
-        "Ebola"
+        "Spurs",
+        "Simba",
+        "Priya",
+        "Gyokeres",
+        "Fernandes",
+        "Maya Joint"
       ],
       "hashtags": [
+        "#FRASWE",
+        "#loveisland",
         "#IVCNOR",
-        "#Wimbledon",
-        "#Corrie",
-        "#CIVNOR",
-        "#MUFC"
+        "#Wimbledon"
       ],
       "regular_topics": [
-        "Norway",
-        "Amad",
-        "Spurs",
-        "Fernandes",
+        "Olise",
+        "Mbappe",
         "Serena",
-        "Haaland",
-        "Danny Murphy",
-        "Odegaard",
-        "West Ham",
+        "Spurs",
+        "Simba",
+        "Priya",
+        "Gyokeres",
+        "Fernandes",
+        "Maya Joint",
         "Ebola",
-        "Nusa"
+        "Amad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jun 30 2026 20:28:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 30 2026 22:12:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kawhi",
         "Raptors",
+        "Mbappe",
+        "Olise",
+        "#FRASWE",
         "#WeTheNorth",
-        "Norway",
-        "Shead",
-        "Ivory Coast",
         "LeBron",
-        "Amad",
-        "Bobby",
+        "Shead",
         "Ingram",
-        "Haaland"
+        "Canada Day",
+        "Raps"
       ],
       "hashtags": [
+        "#FRASWE",
         "#WeTheNorth",
-        "#CIVNOR"
+        "#CIVNOR",
+        "#BringBackValko"
       ],
       "regular_topics": [
         "Kawhi",
         "Raptors",
-        "Norway",
-        "Shead",
-        "Ivory Coast",
+        "Mbappe",
+        "Olise",
         "LeBron",
-        "Amad",
-        "Bobby",
+        "Shead",
         "Ingram",
-        "Haaland",
-        "Clippers"
+        "Canada Day",
+        "Raps",
+        "Clippers",
+        "Amad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jun 30 2026 20:24:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 30 2026 22:08:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
         "#FIFAKnockout",
+        "Olise",
         "Haaland",
+        "Ivory Coast",
         "Amad Diallo",
+        "#FRASWE",
         "Sonnet 5",
-        "#CIVNOR",
-        "#Marriages_In_17Minutes",
-        "Mission Of Sant Rampal Ji",
+        "Serena Williams",
         "#BELIFT_stand_for_Jungwon",
-        "Nusa",
-        "Spurs"
+        "France vs Sweden"
       ],
       "hashtags": [
         "#FIFAKnockout",
-        "#CIVNOR",
-        "#Marriages_In_17Minutes",
+        "#FRASWE",
         "#BELIFT_stand_for_Jungwon",
-        "#WUTheSeriesFinalEP"
+        "#Marriages_In_17Minutes",
+        "#Wimbledon"
       ],
       "regular_topics": [
         "Norway",
+        "Olise",
         "Haaland",
+        "Ivory Coast",
         "Amad Diallo",
         "Sonnet 5",
-        "Mission Of Sant Rampal Ji",
-        "Nusa",
-        "Spurs",
+        "Serena Williams",
+        "France vs Sweden",
+        "Maya Joint",
         "SHAME ON ADI FILMY GYAAN",
-        "Serena",
-        "\u0926\u0939\u0947\u091c \u092e\u0941\u0915\u094d\u0924",
-        "Vikings"
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jun 30 2026 20:21:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jun 30 2026 22:04:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Olise",
+        "Kylian Mbappe",
         "Norway",
-        "Amad",
+        "#FRASWE",
         "Haaland",
+        "Amad",
+        "France 1-0 Sweden",
+        "Rabiot",
         "Spurs",
-        "#CIVNOR",
-        "Tottenham",
-        "Antonio Nusa",
-        "Manchester United",
-        "Odegaard",
-        "Vikings",
-        "Mateus Fernandes"
+        "Mr World Cup",
+        "Tottenham"
       ],
       "hashtags": [
+        "#FRASWE",
         "#CIVNOR",
-        "#NORCIV",
-        "#FRASWE"
+        "#NORCIV"
       ],
       "regular_topics": [
+        "Olise",
+        "Kylian Mbappe",
         "Norway",
-        "Amad",
         "Haaland",
+        "Amad",
+        "France 1-0 Sweden",
+        "Rabiot",
         "Spurs",
+        "Mr World Cup",
         "Tottenham",
-        "Antonio Nusa",
-        "Manchester United",
-        "Odegaard",
-        "Vikings",
-        "Mateus Fernandes",
-        "Diomande"
+        "Barcola"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
