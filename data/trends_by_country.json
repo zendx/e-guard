@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-07-01T18:20:03.260787+00:00",
+  "generated_at_utc": "2026-07-01T20:19:36.137538+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 01 2026 17:42:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 19:27:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Harry Kane",
         "England",
         "Congo",
-        "Lakers",
-        "PlayStation",
-        "Harry Kane",
-        "Sony",
         "Empire State Building",
-        "Mitch",
-        "Kessler",
         "#CFB27",
+        "Sony",
+        "PlayStation",
+        "Lakers",
+        "Kessler",
+        "Mitch",
         "Grimes"
       ],
       "hashtags": [
@@ -25,170 +25,167 @@
         "#BB28"
       ],
       "regular_topics": [
+        "Harry Kane",
         "England",
         "Congo",
-        "Lakers",
-        "PlayStation",
-        "Harry Kane",
-        "Sony",
         "Empire State Building",
-        "Mitch",
+        "Sony",
+        "PlayStation",
+        "Lakers",
         "Kessler",
+        "Mitch",
         "Grimes",
-        "Tuchel"
+        "Xbox"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 01 2026 17:16:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 19:56:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ENGDRC",
-        "Spence",
         "Kane",
         "England",
+        "#ENGDRC",
+        "Spence",
+        "Congo",
+        "Gordon",
         "Tuchel",
-        "Konsa",
-        "Trent",
-        "Maguire",
         "Anderson",
-        "Southgate",
-        "Glasner"
+        "Spurs",
+        "Saka",
+        "Pickford"
       ],
       "hashtags": [
         "#ENGDRC",
-        "#NFFC",
         "#ThreeLions",
-        "#ENGCOD",
-        "#CPFC"
+        "#nffc",
+        "#COYS"
       ],
       "regular_topics": [
-        "Spence",
         "Kane",
         "England",
+        "Spence",
+        "Congo",
+        "Gordon",
         "Tuchel",
-        "Konsa",
-        "Trent",
-        "Maguire",
         "Anderson",
-        "Southgate",
-        "Glasner",
-        "Palmer"
+        "Spurs",
+        "Saka",
+        "Pickford",
+        "Konsa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 01 2026 18:00:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 19:44:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Harry Kane",
         "England",
         "Congo",
-        "Tuchel",
-        "Madueke",
-        "Gordon",
+        "Levi",
+        "Roslovic",
+        "Sissons",
+        "Leafs",
+        "Trouba",
         "Sony",
-        "PlayStation",
-        "Rashford",
-        "Spence"
+        "Oilers"
       ],
       "hashtags": [
         "#ENGCOD",
-        "#ThreeLions"
+        "#ThreeLions",
+        "#ENGDRC"
       ],
       "regular_topics": [
         "Canada",
         "Harry Kane",
         "England",
         "Congo",
-        "Tuchel",
-        "Madueke",
-        "Gordon",
+        "Levi",
+        "Roslovic",
+        "Sissons",
+        "Leafs",
+        "Trouba",
         "Sony",
-        "PlayStation",
-        "Rashford",
-        "Spence"
+        "Oilers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 01 2026 17:57:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 19:40:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Harry Kane",
         "England",
         "#INDvsENG",
-        "#MafiaRajBirthday",
         "Gordon",
-        "#\u092e\u0926\u0930\u0938\u093e_\u092c\u094b\u0930\u094d\u0921_\u0926\u092b\u0928",
-        "Dhami in Action",
-        "#\u092e\u093e\u0928\u0935_\u0927\u0930\u094d\u092e_\u0939\u092e\u093e\u0930\u093e",
+        "#MafiaRajBirthday",
         "Abhishek Sharma",
-        "#NewShape",
-        "Sant RampalJi Life Savior"
+        "Dhami in Action",
+        "#\u092e\u0926\u0930\u0938\u093e_\u092c\u094b\u0930\u094d\u0921_\u0926\u092b\u0928",
+        "Shivam Dube",
+        "D. Premium",
+        "#\u092e\u093e\u0928\u0935_\u0927\u0930\u094d\u092e_\u0939\u092e\u093e\u0930\u093e"
       ],
       "hashtags": [
         "#INDvsENG",
         "#MafiaRajBirthday",
         "#\u092e\u0926\u0930\u0938\u093e_\u092c\u094b\u0930\u094d\u0921_\u0926\u092b\u0928",
         "#\u092e\u093e\u0928\u0935_\u0927\u0930\u094d\u092e_\u0939\u092e\u093e\u0930\u093e",
-        "#NewShape"
+        "#newshapeofgalaxy"
       ],
       "regular_topics": [
         "Harry Kane",
         "England",
         "Gordon",
-        "Dhami in Action",
         "Abhishek Sharma",
+        "Dhami in Action",
+        "Shivam Dube",
+        "D. Premium",
+        "C. Bold",
         "Sant RampalJi Life Savior",
-        "Green Drive Portal",
-        "Sanju Samson",
-        "Rashford",
-        "Tuchel",
-        "C. Bold"
+        "Tilak",
+        "Tuchel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 01 2026 17:55:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 19:39:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "England",
         "Harry Kane",
-        "Tuchel",
         "Gordon",
+        "Tottenham",
+        "Tuchel",
+        "Spurs",
         "#ENGDRC",
         "#ENGCOD",
         "Madueke",
-        "Spence",
-        "Mpasi",
-        "Wissa",
-        "Bellingham"
+        "Tonali",
+        "Spence"
       ],
       "hashtags": [
         "#ENGDRC",
-        "#ENGCOD",
-        "#HarvestersChurch",
-        "#Abefeiscoming",
-        "#NFFC"
+        "#ENGCOD"
       ],
       "regular_topics": [
         "England",
         "Harry Kane",
-        "Tuchel",
         "Gordon",
+        "Tottenham",
+        "Tuchel",
+        "Spurs",
         "Madueke",
+        "Tonali",
         "Spence",
         "Mpasi",
-        "Wissa",
-        "Bellingham",
-        "Palmer",
-        "Trent"
+        "Bellingham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
