@@ -1,99 +1,98 @@
 {
-  "generated_at_utc": "2026-07-01T22:58:58.731544+00:00",
+  "generated_at_utc": "2026-07-02T00:04:54.616247+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 01 2026 22:03:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 23:45:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Celtics",
+        "Paul George",
+        "Senegal",
+        "Brad Stevens",
         "Belgium",
+        "Philly",
+        "Embiid",
+        "Maxey",
+        "Tatum",
         "Lukaku",
-        "#CFB27",
-        "Empire State Building",
-        "Sony",
-        "Harry Kane",
-        "PlayStation",
-        "Teddy Roosevelt",
-        "Doval",
-        "England",
-        "Tobias Harris"
+        "Paul Skenes"
       ],
       "hashtags": [
         "#CFB27",
         "#BELSEN",
-        "#WorldCupFIFA",
-        "#4MILLION"
+        "#FIFAWWorldCup"
       ],
       "regular_topics": [
+        "Celtics",
+        "Paul George",
+        "Senegal",
+        "Brad Stevens",
         "Belgium",
+        "Philly",
+        "Embiid",
+        "Maxey",
+        "Tatum",
         "Lukaku",
-        "Empire State Building",
-        "Sony",
-        "Harry Kane",
-        "PlayStation",
-        "Teddy Roosevelt",
-        "Doval",
-        "England",
-        "Tobias Harris",
-        "Dansby Swanson"
+        "Paul Skenes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 01 2026 22:30:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 23:21:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Belgium",
+        "Senegal",
         "#BELSEN",
+        "Tielemans",
+        "Lukaku",
         "#loveisland",
         "England",
-        "Lukaku",
-        "Kane",
         "Sarr",
-        "Tielemans",
-        "Aidan",
-        "Mara",
-        "Jasmine"
+        "Kane",
+        "AFCON",
+        "Celtics",
+        "Paul George"
       ],
       "hashtags": [
         "#BELSEN",
         "#loveisland",
+        "#SENBEL",
         "#ENGDRC",
-        "#NUFC",
         "#WorldCupFIFA"
       ],
       "regular_topics": [
-        "Belgium",
-        "England",
-        "Lukaku",
-        "Kane",
-        "Sarr",
+        "Senegal",
         "Tielemans",
+        "Lukaku",
+        "England",
+        "Sarr",
+        "Kane",
+        "AFCON",
+        "Celtics",
+        "Paul George",
         "Aidan",
-        "Mara",
-        "Jasmine",
-        "Simba",
-        "Angie"
+        "Sixers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 01 2026 22:20:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 23:12:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Senegal",
-        "Belgium",
-        "Nick Paul",
-        "Canada Day",
-        "Lukaku",
-        "Nurse",
+        "Celtics",
+        "Sixers",
+        "Paul George",
         "#BELSEN",
-        "Sarr",
-        "Marcus Pettersson",
-        "Oilers",
-        "San Jose"
+        "Lukaku",
+        "76ers",
+        "Jaylen Brown",
+        "Canada Day",
+        "Embiid",
+        "Brad Stevens"
       ],
       "hashtags": [
         "#BELSEN",
@@ -101,93 +100,93 @@
       ],
       "regular_topics": [
         "Senegal",
-        "Belgium",
-        "Nick Paul",
-        "Canada Day",
+        "Celtics",
+        "Sixers",
+        "Paul George",
         "Lukaku",
-        "Nurse",
-        "Sarr",
-        "Marcus Pettersson",
-        "Oilers",
-        "San Jose",
-        "Ryan Shea"
+        "76ers",
+        "Jaylen Brown",
+        "Canada Day",
+        "Embiid",
+        "Brad Stevens",
+        "Pape Thiaw"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 01 2026 22:16:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 23:08:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
+        "Lukaku",
+        "Tielemans",
+        "#BELSEN",
         "Harry Kane",
         "England",
-        "Lukaku",
         "#INDvsENG",
         "DR Congo",
-        "Tielemans",
         "Gordon",
-        "#BELSEN",
-        "Brussels",
-        "Abhishek Sharma"
+        "#4MILLION",
+        "Brussels"
       ],
       "hashtags": [
-        "#INDvsENG",
         "#BELSEN",
-        "#MafiaRajBirthday",
+        "#INDvsENG",
         "#4MILLION",
+        "#MafiaRajBirthday",
         "#ENGENEs_Man_HEESEUNG"
       ],
       "regular_topics": [
         "Belgium",
+        "Lukaku",
+        "Tielemans",
         "Harry Kane",
         "England",
-        "Lukaku",
         "DR Congo",
-        "Tielemans",
         "Gordon",
         "Brussels",
-        "Abhishek Sharma",
         "De Bruyne",
-        "D. Premium"
+        "Fable 5",
+        "Trossard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 01 2026 22:16:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 01 2026 23:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Senegal",
-        "Lukaku",
         "#BELSEN",
-        "#4MILLION",
+        "Lukaku",
         "Tielemans",
+        "#4MILLION",
+        "AFCON",
+        "#SENBEL",
         "Sarr",
-        "Harry Kane",
         "England",
-        "Tottenham",
-        "Doku",
-        "Gordon"
+        "Harry Kane",
+        "Paul George"
       ],
       "hashtags": [
         "#BELSEN",
         "#4MILLION",
-        "#ENGDRC",
-        "#ENGCOD"
+        "#SENBEL",
+        "#FIFAWWorldCup"
       ],
       "regular_topics": [
         "Senegal",
         "Lukaku",
         "Tielemans",
+        "AFCON",
         "Sarr",
-        "Harry Kane",
         "England",
-        "Tottenham",
-        "Doku",
-        "Gordon",
-        "De Bruyne",
-        "Habib Diarra"
+        "Harry Kane",
+        "Paul George",
+        "Celtics",
+        "Jaylen Brown",
+        "DR Congo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
