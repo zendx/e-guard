@@ -1,193 +1,197 @@
 {
-  "generated_at_utc": "2026-07-02T12:51:46.438397+00:00",
+  "generated_at_utc": "2026-07-02T15:02:11.302887+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 02 2026 12:39:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 14:21:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Norway",
         "Good Thursday",
-        "Trust in the Lord",
-        "#thursdayvibes",
         "Cancun",
-        "Happy Friday Eve",
         "Tim Walz",
         "SSPX",
-        "Balogun",
-        "#ThursdayThoughts",
-        "#NIKKESummerSnapshot",
-        "Thirsty Thursday"
+        "Independence Day",
+        "Obsidian",
+        "Happy Friday Eve",
+        "#ThursdayVibes",
+        "UCMJ",
+        "Trust in the Lord"
       ],
       "hashtags": [
-        "#thursdayvibes",
+        "#ThursdayVibes",
         "#ThursdayThoughts",
-        "#NIKKESummerSnapshot",
         "#ThursdayMotivation",
-        "#TESTME_2"
+        "#appraisal",
+        "#America250"
       ],
       "regular_topics": [
+        "Norway",
         "Good Thursday",
-        "Trust in the Lord",
         "Cancun",
-        "Happy Friday Eve",
         "Tim Walz",
         "SSPX",
-        "Balogun",
-        "Thirsty Thursday",
-        "Thankful Thursday",
+        "Independence Day",
+        "Obsidian",
+        "Happy Friday Eve",
         "UCMJ",
-        "Soccer"
+        "Trust in the Lord",
+        "Leavenworth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 02 2026 12:15:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 14:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gabby",
-        "Santi",
+        "Brian May",
         "Milan",
-        "#thismorning",
-        "Ryley",
-        "Hughes",
+        "Obsidian",
+        "Gary Glitter",
+        "Santi",
         "Kroupi",
-        "Hayden",
-        "Jack Butland",
-        "Twana Jamal",
-        "The Princess of Wales"
+        "Arthur Fery",
+        "Morgan McSweeney",
+        "Damascus",
+        "Agbonlahor"
       ],
       "hashtags": [
-        "#thismorning",
         "#BritishGP",
-        "#popmaster",
-        "#LADSValkoReturn"
+        "#LADSValkoReturn",
+        "#afcb",
+        "#LoveAndDeepspace",
+        "#spycops"
       ],
       "regular_topics": [
         "Gabby",
-        "Santi",
+        "Brian May",
         "Milan",
-        "Ryley",
-        "Hughes",
+        "Obsidian",
+        "Gary Glitter",
+        "Santi",
         "Kroupi",
-        "Hayden",
-        "Jack Butland",
-        "Twana Jamal",
-        "The Princess of Wales",
-        "Kyiv"
+        "Arthur Fery",
+        "Morgan McSweeney",
+        "Damascus",
+        "Agbonlahor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 02 2026 12:06:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 14:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "AllScale",
         "Senegal",
         "Belgium",
         "Sony",
         "PlayStation",
-        "Bosnia",
-        "Harry Kane",
-        "#betya",
         "Balogun",
-        "Celtics"
+        "CUSMA",
+        "Bosnia",
+        "Celtics",
+        "Harry Kane",
+        "Eurovision"
       ],
       "hashtags": [
-        "#betya",
         "#BELSEN",
-        "#ENGCOD"
+        "#ENGCOD",
+        "#AEWDynamite",
+        "#BringBackValko"
       ],
       "regular_topics": [
         "Canada",
-        "AllScale",
         "Senegal",
         "Belgium",
         "Sony",
         "PlayStation",
-        "Bosnia",
-        "Harry Kane",
         "Balogun",
+        "CUSMA",
+        "Bosnia",
         "Celtics",
-        "CUSMA"
+        "Harry Kane",
+        "Eurovision"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 02 2026 12:03:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 14:36:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#MonsterM47withLPDDR5X",
+        "#LandMafiaCongress",
         "#NewShapeOfGalaxy",
         "#Samsung",
-        "#FightingRadicals",
-        "#MaaHaiNaOnZEE5",
-        "#NorthBengalGoesGlobal",
+        "#WomenFarmersBillbyDevaBhau",
         "Grooming Gang",
-        "Aditya Mitruka",
-        "UK Business Forum",
-        "Indian MSMEs",
-        "Govinda",
-        "Panchayat Advancement Index"
+        "Prime Day",
+        "Kichha",
+        "LPDDR5X RAM",
+        "ITV STAR HARSHAD CHOPDA",
+        "Devendra Fadnavis"
       ],
       "hashtags": [
+        "#MonsterM47withLPDDR5X",
+        "#LandMafiaCongress",
         "#NewShapeOfGalaxy",
         "#Samsung",
-        "#FightingRadicals",
-        "#MaaHaiNaOnZEE5",
-        "#NorthBengalGoesGlobal"
+        "#WomenFarmersBillbyDevaBhau"
       ],
       "regular_topics": [
         "Grooming Gang",
-        "Aditya Mitruka",
-        "UK Business Forum",
-        "Indian MSMEs",
-        "Govinda",
-        "Panchayat Advancement Index",
+        "Prime Day",
+        "Kichha",
+        "LPDDR5X RAM",
+        "ITV STAR HARSHAD CHOPDA",
+        "Devendra Fadnavis",
+        "C. The Camera",
         "Innovation",
-        "Tina",
-        "Tanya",
-        "Gold Award",
-        "Sunita"
+        "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0939\u093f\u0932\u093e",
+        "Fast RAM",
+        "\u0915\u093f\u091a\u094d\u091b\u093e \u0935\u093f\u0935\u093e\u0926"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 02 2026 12:01:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 14:36:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Santi Cazorla",
-        "#FCTProjectsCommissioning",
         "Adire",
+        "NYSC",
+        "Austria",
+        "#TheNewWorld",
+        "#MangroveFoods",
+        "Santi Cazorla",
+        "Ansem",
+        "Oloye",
         "Fastlane",
-        "Pastore",
-        "Janice",
-        "$SOL",
-        "Congratulations Rinu",
-        "Gbaja",
-        "PCOS",
-        "De Zerbi"
+        "David Mark",
+        "$SOL"
       ],
       "hashtags": [
+        "#TheNewWorld",
+        "#MangroveFoods",
         "#FCTProjectsCommissioning",
-        "#SipSmartChallenge26",
-        "#SSBTaxSaves"
+        "#22BetAlwaysPays",
+        "#Mad\u0131mak"
       ],
       "regular_topics": [
-        "Santi Cazorla",
         "Adire",
+        "NYSC",
+        "Austria",
+        "Santi Cazorla",
+        "Ansem",
+        "Oloye",
         "Fastlane",
-        "Pastore",
-        "Janice",
+        "David Mark",
         "$SOL",
-        "Congratulations Rinu",
-        "Gbaja",
-        "PCOS",
-        "De Zerbi",
-        "Nico Jackson"
+        "Ayodele Olawande",
+        "Minister of Youth Development"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
