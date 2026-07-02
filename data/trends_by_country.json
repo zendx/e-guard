@@ -1,195 +1,196 @@
 {
-  "generated_at_utc": "2026-07-02T20:12:40.064007+00:00",
+  "generated_at_utc": "2026-07-02T21:38:44.774570+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 02 2026 19:36:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 21:20:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "NEW ANNOUNCEMENT",
-        "OFFICIAL UPDATE",
+        "Spain",
         "FRESH NEWS",
-        "MAJOR ANNOUNCEMENT",
-        "HOT UPDATE",
         "LATEST UPDATE",
-        "LIVE UPDATE",
+        "Oyarzabal",
         "BIG NEWS",
+        "Lamine",
         "BREAKING NEWS",
-        "Simons",
-        "UCMJ"
+        "Pirro",
+        "UCMJ",
+        "Cucurella",
+        "FOR YOUTH"
       ],
       "hashtags": [
+        "#ESPAUT",
         "#KeepValkoAlive",
-        "#Spain",
         "#TrumpRepublicanCorruption",
-        "#ESPAUT"
+        "#AX2026",
+        "#execution"
       ],
       "regular_topics": [
-        "NEW ANNOUNCEMENT",
-        "OFFICIAL UPDATE",
+        "Spain",
         "FRESH NEWS",
-        "MAJOR ANNOUNCEMENT",
-        "HOT UPDATE",
         "LATEST UPDATE",
-        "LIVE UPDATE",
+        "Oyarzabal",
         "BIG NEWS",
+        "Lamine",
         "BREAKING NEWS",
-        "Simons",
-        "UCMJ"
+        "Pirro",
+        "UCMJ",
+        "Cucurella",
+        "FOR YOUTH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 02 2026 20:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 20:52:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Austria",
+        "Simba",
+        "Mica",
+        "Angie",
+        "#loveislanduk",
+        "Spain",
         "#SPAAUT",
-        "Oyarzabal",
-        "NEW ANNOUNCEMENT",
-        "MAJOR ANNOUNCEMENT",
-        "HOT UPDATE",
-        "OFFICIAL UPDATE",
-        "LIVE UPDATE",
-        "FRESH NEWS",
-        "LATEST UPDATE",
-        "BIG NEWS"
+        "Julia",
+        "Lola",
+        "Yamal",
+        "Monga",
+        "Pedro Porro"
       ],
       "hashtags": [
+        "#loveislanduk",
         "#SPAAUT",
         "#ESPAUT",
-        "#EastEnders",
-        "#BritishGP",
-        "#BringValkoBack"
+        "#EastEnders"
       ],
       "regular_topics": [
-        "Austria",
-        "Oyarzabal",
-        "NEW ANNOUNCEMENT",
-        "MAJOR ANNOUNCEMENT",
-        "HOT UPDATE",
-        "OFFICIAL UPDATE",
-        "LIVE UPDATE",
-        "FRESH NEWS",
-        "LATEST UPDATE",
-        "BIG NEWS",
-        "Monga"
+        "Simba",
+        "Mica",
+        "Angie",
+        "Spain",
+        "Julia",
+        "Lola",
+        "Yamal",
+        "Monga",
+        "Pedro Porro",
+        "Ellie",
+        "Oyarzabal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 02 2026 19:54:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 20:45:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Spain",
-        "Senegal",
         "Sony",
-        "Belgium",
-        "Eurovision",
+        "Senegal",
         "Bryan Adams",
+        "Eurovision",
+        "Belgium",
+        "Jakub Dobes",
         "PlayStation",
         "CUSMA",
-        "Balogun",
-        "Oyarzabal"
+        "Balogun"
       ],
       "hashtags": [
-        "#ENGCOD",
         "#ESPAUT",
         "#BringValkoBack"
       ],
       "regular_topics": [
         "Canada",
         "Spain",
-        "Senegal",
         "Sony",
-        "Belgium",
-        "Eurovision",
+        "Senegal",
         "Bryan Adams",
+        "Eurovision",
+        "Belgium",
+        "Jakub Dobes",
         "PlayStation",
         "CUSMA",
-        "Balogun",
-        "Oyarzabal"
+        "Balogun"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 02 2026 19:51:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 20:42:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Oyarzabal",
-        "#newshapeofgalaxy",
-        "#Samsung",
-        "#JAY_Our_Rockstar",
-        "#RespectJaysPrivacy",
+        "FOR YOUTH",
+        "Pedro Porro",
+        "Baena",
         "Yamal",
-        "Nat Sciver",
+        "#NewShapeOfGalaxy",
+        "#Samsung",
         "#ESPAUT",
-        "SEVEN CHORDS ONE SYMPHONY",
-        "Olmo"
+        "#JAY_Our_Rockstar",
+        "#RespectJaysPrivacy"
       ],
       "hashtags": [
-        "#newshapeofgalaxy",
+        "#NewShapeOfGalaxy",
         "#Samsung",
+        "#ESPAUT",
         "#JAY_Our_Rockstar",
         "#RespectJaysPrivacy",
-        "#ESPAUT",
-        "#Gurthukosthunnayi",
+        "#ENGvSA",
         "#MonsterM47withLPDDR5X",
-        "#GodNightThursday"
+        "#Gurthukosthunnayi",
+        "#AmazonPrimeDay4",
+        "#LandMafiaCongress",
+        "#Jailer2"
       ],
       "regular_topics": [
         "Spain",
         "Oyarzabal",
-        "Yamal",
-        "Nat Sciver",
-        "SEVEN CHORDS ONE SYMPHONY",
-        "Olmo",
-        "Croatia",
-        "Cucurella",
-        "TRP OWNED BY SHREYA",
+        "FOR YOUTH",
+        "Pedro Porro",
         "Baena",
-        "Innovation"
+        "Yamal",
+        "Olmo",
+        "Nat Sciver",
+        "Pedri",
+        "SEVEN CHORDS ONE SYMPHONY",
+        "Croatia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 02 2026 19:48:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 20:40:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Oyarzabal",
+        "Pedro Porro",
         "#ESPAUT",
         "Lamine Yamal",
-        "Adire",
+        "Cucurella",
         "Laimer",
-        "Jeremy Monga",
+        "Monga",
+        "Olmo",
         "Croatia",
-        "NYSC",
-        "Johnvents Apex League",
-        "Jorja Smith"
+        "Baena"
       ],
       "hashtags": [
-        "#ESPAUT",
-        "#PORCRO"
+        "#ESPAUT"
       ],
       "regular_topics": [
         "Spain",
         "Oyarzabal",
+        "Pedro Porro",
         "Lamine Yamal",
-        "Adire",
+        "Cucurella",
         "Laimer",
-        "Jeremy Monga",
+        "Monga",
+        "Olmo",
         "Croatia",
-        "NYSC",
-        "Johnvents Apex League",
-        "Jorja Smith",
-        "Olmo"
+        "Baena",
+        "Adire"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
