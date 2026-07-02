@@ -1,52 +1,52 @@
 {
-  "generated_at_utc": "2026-07-02T07:58:13.371753+00:00",
+  "generated_at_utc": "2026-07-02T10:33:03.637628+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 02 2026 07:30:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 10:04:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Thursday",
         "Balogun",
         "Belgium",
         "Bosnia",
         "#USMNT",
         "FIFA",
+        "GM CT",
+        "Trust in the Lord",
         "Pepi",
-        "Country Roads",
-        "Tillman",
-        "Celtics",
-        "Pulisic",
-        "Soccer"
+        "#BringValkoBack",
+        "UCMJ"
       ],
       "hashtags": [
         "#USMNT",
-        "#AEWDynamite",
         "#BringValkoBack",
         "#artfight",
-        "#\u604b\u4e0e\u6df1\u7a7a"
+        "#\u604b\u4e0e\u6df1\u7a7a",
+        "#LoveAndDeepspace"
       ],
       "regular_topics": [
+        "Good Thursday",
         "Balogun",
         "Belgium",
         "Bosnia",
         "FIFA",
+        "GM CT",
+        "Trust in the Lord",
         "Pepi",
-        "Country Roads",
+        "UCMJ",
         "Tillman",
-        "Celtics",
-        "Pulisic",
-        "Soccer",
-        "Paul George"
+        "Walz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 02 2026 07:04:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 09:39:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ENGDRC",
         "Kane",
+        "#ENGDRC",
         "England",
         "Congo",
         "Senegal",
@@ -55,14 +55,14 @@
         "Spurs",
         "#BELSEN",
         "Tuchel",
-        "Pickford"
+        "Sony"
       ],
       "hashtags": [
         "#ENGDRC",
         "#BELSEN",
+        "#fraswe",
         "#USABIH",
-        "#AdoorableThursday",
-        "#fraswe"
+        "#ENGCOD"
       ],
       "regular_topics": [
         "Kane",
@@ -73,23 +73,23 @@
         "Belgium",
         "Spurs",
         "Tuchel",
-        "Pickford",
         "Sony",
-        "Azteca"
+        "Azteca",
+        "Pickford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 02 2026 07:48:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 09:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Senegal",
         "Belgium",
         "Bosnia",
-        "PlayStation",
         "Harry Kane",
+        "PlayStation",
         "Sony",
         "Balogun",
         "Celtics",
@@ -106,8 +106,8 @@
         "Senegal",
         "Belgium",
         "Bosnia",
-        "PlayStation",
         "Harry Kane",
+        "PlayStation",
         "Sony",
         "Balogun",
         "Celtics",
@@ -119,77 +119,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 02 2026 07:44:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 10:20:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ReRatingStock",
-        "#BillionaireBlock",
+        "#MoPRatNAeG",
+        "#BestDealsOnSamsungPhones",
+        "#GalaxyM47withLPDDR5X",
+        "#KiskoBachaRaheModiJi",
         "#JGUinJapan",
-        "#Jailer2",
-        "#FIIBuying",
-        "\u0926\u0947\u0939\u0930\u093e\u0926\u0942\u0928 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u092d\u0935\u0928",
-        "Omkar Speciality Chemicals",
-        "\u0905\u091f\u0932 \u091f\u0928\u0932",
-        "\u0936\u094d\u0930\u0940 \u0939\u0947\u092e\u0902\u0924 \u0916\u0902\u0921\u0947\u0932\u0935\u093e\u0932",
-        "\u0938\u094d\u092a\u0947\u0936\u0932 \u0938\u0947\u0932"
+        "Panchayat Advancement Index",
+        "Gold Award",
+        "India and Japan",
+        "Foldables",
+        "Vicky",
+        "\u0928\u093f\u0930\u094d\u092e\u0932 \u091a\u094c\u0927\u0930\u0940"
       ],
       "hashtags": [
-        "#ReRatingStock",
-        "#BillionaireBlock",
-        "#JGUinJapan",
-        "#Jailer2",
-        "#FIIBuying"
+        "#MoPRatNAeG",
+        "#BestDealsOnSamsungPhones",
+        "#GalaxyM47withLPDDR5X",
+        "#KiskoBachaRaheModiJi",
+        "#JGUinJapan"
       ],
       "regular_topics": [
-        "\u0926\u0947\u0939\u0930\u093e\u0926\u0942\u0928 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u092d\u0935\u0928",
-        "Omkar Speciality Chemicals",
-        "\u0905\u091f\u0932 \u091f\u0928\u0932",
-        "\u0936\u094d\u0930\u0940 \u0939\u0947\u092e\u0902\u0924 \u0916\u0902\u0921\u0947\u0932\u0935\u093e\u0932",
-        "\u0938\u094d\u092a\u0947\u0936\u0932 \u0938\u0947\u0932",
-        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+        "Panchayat Advancement Index",
+        "Gold Award",
+        "India and Japan",
+        "Foldables",
+        "Vicky",
         "\u0928\u093f\u0930\u094d\u092e\u0932 \u091a\u094c\u0927\u0930\u0940",
-        "Hyderabad House",
-        "Janice",
-        "Rashtrapati Bhavan"
+        "\u0926\u0947\u0939\u0930\u093e\u0926\u0942\u0928 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947",
+        "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+        "Karan Adani",
+        "Bar Association",
+        "\u0917\u094b\u092a\u093e\u0932 \u0930\u093e\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 02 2026 07:44:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 10:18:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Janice",
+        "Pastore",
+        "Nico Jackson",
+        "Fastlane",
+        "Congratulations Rinu",
         "NO CONTRADICTION",
         "Balogun",
-        "Senegal",
-        "#NSPPD",
-        "Belgium",
-        "Happy 35th",
+        "Kenneth Okonkwo",
         "Federal Secretariat",
-        "Presidency",
-        "Super Cup",
-        "Pape Gueye"
+        "Happy 35th",
+        "Gbaja"
       ],
       "hashtags": [
         "#NSPPD",
-        "#BringValkoBack",
-        "#USABIH",
-        "#4MILLION"
+        "#SipSmartChallenge26",
+        "#SSBTaxSaves",
+        "#BringValkoBack"
       ],
       "regular_topics": [
         "Janice",
+        "Pastore",
+        "Nico Jackson",
+        "Fastlane",
+        "Congratulations Rinu",
         "NO CONTRADICTION",
         "Balogun",
-        "Senegal",
-        "Belgium",
-        "Happy 35th",
+        "Kenneth Okonkwo",
         "Federal Secretariat",
-        "Presidency",
-        "Super Cup",
-        "Pape Gueye",
-        "Blessed Thursday"
+        "Happy 35th",
+        "Gbaja"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
