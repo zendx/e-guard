@@ -1,177 +1,173 @@
 {
-  "generated_at_utc": "2026-07-02T22:53:25.932227+00:00",
+  "generated_at_utc": "2026-07-02T23:53:26.018575+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 02 2026 22:12:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 23:03:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "FRESH NEWS",
-        "Oyarzabal",
-        "BIG NEWS",
+        "Croatia",
         "Jack Smith",
-        "LATEST UPDATE",
-        "UCMJ",
+        "Oyarzabal",
         "Pirro",
-        "Yamal",
-        "Cucurella",
-        "Happy 4th"
+        "UCMJ",
+        "LATEST UPDATE",
+        "Modric",
+        "Happy 4th",
+        "Billy Donovan",
+        "Taylor Swift"
       ],
       "hashtags": [
-        "#ESPAUT",
         "#KeepValkoAlive",
-        "#TrumpRepublicanCorruption",
-        "#AX2026"
+        "#AX2026",
+        "#ESPAUT",
+        "#TrumpRepublicanCorruption"
       ],
       "regular_topics": [
         "Spain",
-        "FRESH NEWS",
-        "Oyarzabal",
-        "BIG NEWS",
+        "Croatia",
         "Jack Smith",
-        "LATEST UPDATE",
-        "UCMJ",
+        "Oyarzabal",
         "Pirro",
-        "Yamal",
-        "Cucurella",
-        "Happy 4th"
+        "UCMJ",
+        "LATEST UPDATE",
+        "Modric",
+        "Happy 4th",
+        "Billy Donovan",
+        "Taylor Swift"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 02 2026 22:36:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 23:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Simba",
+        "#PORCRO",
+        "Leao",
         "#loveisland",
         "Mica",
         "Angie",
-        "Oyarzabal",
         "#SPAAUT",
+        "Oyarzabal",
         "Julia",
-        "Ellie",
-        "Mara",
-        "Cucurella"
+        "Mara"
       ],
       "hashtags": [
+        "#PORCRO",
         "#loveisland",
-        "#SPAAUT",
-        "#ESPAUT"
+        "#SPAAUT"
       ],
       "regular_topics": [
         "Spain",
         "Simba",
+        "Leao",
         "Mica",
         "Angie",
         "Oyarzabal",
         "Julia",
-        "Ellie",
         "Mara",
-        "Cucurella",
         "Yamal",
-        "Monga"
+        "Cucurella",
+        "Ellie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 02 2026 22:30:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 23:21:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
+        "Portugal",
+        "Ronaldo",
         "Spain",
+        "Modric",
         "Sony",
         "Bryan Adams",
-        "Portugal",
         "Eurovision",
         "Senegal",
         "Kyle Lowry",
-        "PlayStation",
-        "Belgium",
-        "CUSMA"
+        "PlayStation"
       ],
       "hashtags": [
         "#ESPAUT",
+        "#PORCRO",
         "#BringValkoBack"
       ],
       "regular_topics": [
         "Canada",
+        "Portugal",
+        "Ronaldo",
         "Spain",
+        "Modric",
         "Sony",
         "Bryan Adams",
-        "Portugal",
         "Eurovision",
         "Senegal",
         "Kyle Lowry",
-        "PlayStation",
-        "Belgium",
-        "CUSMA"
+        "PlayStation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 02 2026 22:27:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 23:18:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#newshapeofgalaxy",
+        "#Samsung",
         "Spain",
+        "#jguinjapan",
+        "#FightingRadicals",
+        "#LandMafiaCongress",
         "Oyarzabal",
-        "Croatia",
-        "Cucurella",
-        "Lamine",
-        "FOR YOUTH",
-        "Pedro Porro",
-        "#ESPAUT",
-        "Baena",
-        "Ferran",
-        "Pedri"
+        "Grooming Gang",
+        "Portugal",
+        "Ronaldo",
+        "Sant RampalJi Life Savior"
       ],
       "hashtags": [
-        "#ESPAUT",
-        "#RespectJaysPrivacy",
-        "#JAY_Our_Rockstar",
-        "#ENGvSA",
-        "#Gurthukosthunnayi",
-        "#GalaxyS25UltraDay4",
-        "#AmazonPrimeDay4",
-        "#GattaKusthi2",
-        "#RaoBahadur",
-        "#JusticeForValko"
+        "#newshapeofgalaxy",
+        "#Samsung",
+        "#jguinjapan",
+        "#FightingRadicals",
+        "#LandMafiaCongress"
       ],
       "regular_topics": [
         "Spain",
         "Oyarzabal",
-        "Croatia",
-        "Cucurella",
+        "Grooming Gang",
+        "Portugal",
+        "Ronaldo",
+        "Sant RampalJi Life Savior",
         "Lamine",
-        "FOR YOUTH",
-        "Pedro Porro",
-        "Baena",
+        "Cucurella",
+        "ravidada chavan",
         "Ferran",
-        "Pedri",
-        "La Roja"
+        "Innovation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 02 2026 22:24:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 02 2026 23:16:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Oyarzabal",
-        "Yamal",
-        "MOTM",
         "Croatia",
+        "MOTM",
+        "Yamal",
         "Pedro Porro",
         "#ESPAUT",
+        "Modric",
+        "Iya Alakara",
         "Ferran Torres",
-        "La Roja",
-        "Jeremy Monga",
-        "Cubarsi"
+        "La Roja"
       ],
       "hashtags": [
         "#ESPAUT",
@@ -180,15 +176,15 @@
       "regular_topics": [
         "Spain",
         "Oyarzabal",
-        "Yamal",
-        "MOTM",
         "Croatia",
+        "MOTM",
+        "Yamal",
         "Pedro Porro",
+        "Modric",
+        "Iya Alakara",
         "Ferran Torres",
         "La Roja",
-        "Jeremy Monga",
-        "Cubarsi",
-        "Rodri"
+        "Jeremy Monga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
