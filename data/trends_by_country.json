@@ -1,118 +1,117 @@
 {
-  "generated_at_utc": "2026-07-03T15:30:54.341232+00:00",
+  "generated_at_utc": "2026-07-03T17:08:32.378468+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 03 2026 14:45:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 16:30:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FRESH NEWS",
-        "LATEST UPDATE",
         "LIVE UPDATE",
-        "HOT UPDATE",
-        "OFFICIAL UPDATE",
-        "MAJOR ANNOUNCEMENT",
+        "LATEST UPDATE",
         "NEW ANNOUNCEMENT",
+        "FRESH NEWS",
+        "HOT UPDATE",
+        "MAJOR ANNOUNCEMENT",
+        "OFFICIAL UPDATE",
         "BIG NEWS",
         "BREAKING NEWS",
-        "Rich Paul",
+        "Happy 4th of July",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3",
-        "#VenezuelaEsEsperanza",
         "#LastFourWatched",
+        "#TheChi",
         "#LetterboxdFriday",
-        "#FridayVibes"
+        "#FursuitFriday"
       ],
       "regular_topics": [
-        "FRESH NEWS",
-        "LATEST UPDATE",
         "LIVE UPDATE",
-        "HOT UPDATE",
-        "OFFICIAL UPDATE",
-        "MAJOR ANNOUNCEMENT",
+        "LATEST UPDATE",
         "NEW ANNOUNCEMENT",
+        "FRESH NEWS",
+        "HOT UPDATE",
+        "MAJOR ANNOUNCEMENT",
+        "OFFICIAL UPDATE",
         "BIG NEWS",
         "BREAKING NEWS",
-        "Rich Paul",
-        "LINGORM ILF EP3"
+        "Happy 4th of July",
+        "Rich Paul"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 03 2026 15:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 16:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#CurrysFootball",
         "MAJOR ANNOUNCEMENT",
+        "NEW ANNOUNCEMENT",
         "LATEST UPDATE",
         "BIG NEWS",
-        "OFFICIAL UPDATE",
-        "FRESH NEWS",
         "LIVE UPDATE",
-        "NEW ANNOUNCEMENT",
+        "OFFICIAL UPDATE",
         "HOT UPDATE",
-        "fa vase",
-        "BREAKING NEWS"
+        "FRESH NEWS",
+        "#BritishGP",
+        "Lewis Hamilton",
+        "Granit Xhaka"
       ],
       "hashtags": [
-        "#CurrysFootball",
         "#BritishGP",
-        "#KeepValkoAlive",
-        "#JusticeForValko",
-        "#BringValkoBack"
+        "#bcfc",
+        "#CurrysFootball",
+        "#thechase",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3"
       ],
       "regular_topics": [
         "MAJOR ANNOUNCEMENT",
+        "NEW ANNOUNCEMENT",
         "LATEST UPDATE",
         "BIG NEWS",
-        "OFFICIAL UPDATE",
-        "FRESH NEWS",
         "LIVE UPDATE",
-        "NEW ANNOUNCEMENT",
+        "OFFICIAL UPDATE",
         "HOT UPDATE",
-        "fa vase",
-        "BREAKING NEWS",
-        "IPTV"
+        "FRESH NEWS",
+        "Lewis Hamilton",
+        "Granit Xhaka",
+        "Nathan Ake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 03 2026 15:04:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 16:48:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Croatia",
         "Ronaldo",
         "Portuguese",
-        "Modric",
-        "#PORCRO",
         "Sony",
+        "Tommy Hunter",
+        "Modric",
         "Bryan Adams",
         "Spain",
-        "LINGORM ILF EP3",
-        "Leao"
+        "Leao",
+        "Roberto Martinez"
       ],
       "hashtags": [
-        "#PORCRO",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3",
         "#BringValkoBack",
-        "#BELSEN",
-        "#ExtendTS2023"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3",
+        "#PORCRO",
+        "#Messi"
       ],
       "regular_topics": [
         "Canada",
         "Croatia",
         "Ronaldo",
         "Portuguese",
-        "Modric",
         "Sony",
+        "Tommy Hunter",
+        "Modric",
         "Bryan Adams",
         "Spain",
-        "LINGORM ILF EP3",
         "Leao",
         "Roberto Martinez"
       ],
@@ -121,78 +120,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 03 2026 15:00:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 16:44:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BestTimeToBuyS25Ultra",
+        "Prime Day",
+        "#SatlujOnZee5",
         "#WelcomeNolan",
         "#Anti_Kissan_Congress",
-        "Prime Day",
-        "#PritamAndPedro",
-        "#SatlujOnZee5",
-        "DOORIYAN FT AKANKSHA",
-        "Heavy Section Mill",
+        "#NewShapeOfGalaxy",
+        "Punjab 95",
+        "SEVEN HEARTBEATS ONE LIFE",
+        "Inception Wrapped",
         "BUTTERFLY GIRL SHIVANGI",
-        "\u0915\u0926\u092e \u092d\u093e\u0930\u0924",
-        "LINGORM ILF EP3"
+        "THE GAMBLER"
       ],
       "hashtags": [
         "#BestTimeToBuyS25Ultra",
+        "#SatlujOnZee5",
         "#WelcomeNolan",
         "#Anti_Kissan_Congress",
-        "#PritamAndPedro",
-        "#SatlujOnZee5"
+        "#NewShapeOfGalaxy"
       ],
       "regular_topics": [
         "Prime Day",
-        "DOORIYAN FT AKANKSHA",
-        "Heavy Section Mill",
+        "Punjab 95",
+        "SEVEN HEARTBEATS ONE LIFE",
+        "Inception Wrapped",
         "BUTTERFLY GIRL SHIVANGI",
+        "THE GAMBLER",
+        "DOORIYAN FT AKANKSHA",
         "\u0915\u0926\u092e \u092d\u093e\u0930\u0924",
+        "Lewis Hamilton",
         "LINGORM ILF EP3",
-        "Travis Scott",
-        "Gujarat ATS",
-        "\u091f\u094b\u0902\u0915 \u0930\u094b\u0921",
-        "HSBC Live",
-        "Welcome to India"
+        "Travis Scott"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 03 2026 15:00:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 16:42:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ilotbetad",
+        "Cape Verde",
+        "Inception Wrapped",
+        "Ezege",
+        "THE GAMBLER",
+        "#ThatILOTBETAd",
         "Egypt",
-        "#EbelechukwuLeads",
-        "Enzo",
-        "#TAFmonthlychallenge",
-        "#openplatnovausdaccounts",
-        "Bullpen",
-        "#BTOPickAJob",
-        "Daniel Ogunmodede",
-        "Elite Club",
-        "honourable shedrach egede"
+        "Trap Lan Je",
+        "Fenerbah\u00e7e",
+        "Nathan Ak\u00e9",
+        "$BABYANSEM",
+        "Enzo"
       ],
       "hashtags": [
-        "#ilotbetad",
+        "#ThatILOTBETAd",
         "#EbelechukwuLeads",
         "#TAFmonthlychallenge",
-        "#openplatnovausdaccounts",
-        "#BTOPickAJob"
+        "#BritishGP",
+        "#BringValkoBack"
       ],
       "regular_topics": [
+        "Cape Verde",
+        "Inception Wrapped",
+        "Ezege",
+        "THE GAMBLER",
         "Egypt",
+        "Trap Lan Je",
+        "Fenerbah\u00e7e",
+        "Nathan Ak\u00e9",
+        "$BABYANSEM",
         "Enzo",
-        "Bullpen",
-        "Daniel Ogunmodede",
-        "Elite Club",
-        "honourable shedrach egede",
-        "Baba Ijesha",
-        "Argentina vs Cape Verde",
-        "Kano Pillars",
-        "join ansem",
-        "Michael Jackson"
+        "Medvedev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
