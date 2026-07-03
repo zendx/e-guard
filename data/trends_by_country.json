@@ -1,198 +1,197 @@
 {
-  "generated_at_utc": "2026-07-03T18:43:08.708073+00:00",
+  "generated_at_utc": "2026-07-03T20:07:04.563532+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 03 2026 18:15:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 19:06:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ayton",
-        "OFFICIAL UPDATE",
-        "LIVE UPDATE",
-        "MAJOR ANNOUNCEMENT",
         "Happy 4th",
-        "BIG NEWS",
+        "American Gangster",
         "Hardy",
         "LATEST UPDATE",
-        "Rich Paul",
+        "#250YearsOfFreedom",
+        "Uganda",
+        "#Egypt",
         "Independence Day",
-        "BREAKING NEWS"
+        "Rich Paul",
+        "#NicVansxRampage"
       ],
       "hashtags": [
+        "#250YearsOfFreedom",
         "#Egypt",
+        "#NicVansxRampage",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3",
-        "#TheChi",
-        "#LaysFWC26",
-        "#FursuitFriday"
+        "#Nakabee"
       ],
       "regular_topics": [
         "Ayton",
-        "OFFICIAL UPDATE",
-        "LIVE UPDATE",
-        "MAJOR ANNOUNCEMENT",
         "Happy 4th",
-        "BIG NEWS",
+        "American Gangster",
         "Hardy",
         "LATEST UPDATE",
-        "Rich Paul",
+        "Uganda",
         "Independence Day",
-        "BREAKING NEWS"
+        "Rich Paul",
+        "Sarr",
+        "Fairlane Mall",
+        "Wizards"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 03 2026 17:48:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 19:30:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lewis",
-        "Reddit",
-        "Granit Xhaka",
-        "Ange Postecoglou",
-        "#BritishGP",
+        "#TOTP",
         "#AUSEGY",
-        "4th of July",
-        "Dael",
-        "Al Nassr",
-        "#bcfc",
-        "OFFICIAL UPDATE"
+        "Egypt",
+        "Reddit",
+        "England v Mexico",
+        "Xhaka",
+        "Marmoush",
+        "Hany",
+        "Bucks Fizz",
+        "#MEXENG",
+        "Lewis"
       ],
       "hashtags": [
-        "#BritishGP",
+        "#TOTP",
         "#AUSEGY",
-        "#bcfc",
-        "#thechase",
-        "#CurrysFootball"
+        "#MEXENG",
+        "#SAFC",
+        "#ENGMEX"
       ],
       "regular_topics": [
-        "Lewis",
+        "Egypt",
         "Reddit",
-        "Granit Xhaka",
-        "Ange Postecoglou",
+        "England v Mexico",
+        "Xhaka",
+        "Marmoush",
+        "Hany",
+        "Bucks Fizz",
+        "Lewis",
+        "Emam Ashour",
         "4th of July",
-        "Dael",
-        "Al Nassr",
-        "OFFICIAL UPDATE",
-        "Nathan Ake",
-        "Silverstone",
-        "Egypt"
+        "Mexico City"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 03 2026 18:32:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 19:24:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Croatia",
+        "Leo Carlsson",
         "Ronaldo",
+        "Cutter Gauthier",
         "Portuguese",
-        "Sony",
         "Egypt",
-        "Bryan Adams",
-        "Modric",
-        "Tommy Hunter",
-        "Leao",
-        "Roberto Martinez"
+        "Anaheim",
+        "Flyers",
+        "Sony",
+        "Australia"
       ],
       "hashtags": [
-        "#BringValkoBack",
         "#AUSEGY",
+        "#BringValkoBack",
         "#PORCRO",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3",
-        "#artfight"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP3"
       ],
       "regular_topics": [
         "Canada",
         "Croatia",
+        "Leo Carlsson",
         "Ronaldo",
+        "Cutter Gauthier",
         "Portuguese",
-        "Sony",
         "Egypt",
-        "Bryan Adams",
-        "Modric",
-        "Tommy Hunter",
-        "Leao",
-        "Roberto Martinez"
+        "Anaheim",
+        "Flyers",
+        "Sony",
+        "Australia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 03 2026 17:36:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 19:20:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AmazonPrimeDay",
         "#BestTimeToBuyS25Ultra",
+        "Reliable",
+        "#PrioritizeJakesHealth",
+        "Egypt",
         "#SatlujOnZee5",
-        "#WelcomeNolan",
-        "#Anti_Kissan_Congress",
         "SEVEN HEARTBEATS ONE LIFE",
+        "#WelcomeNolan",
         "Inception Wrapped",
-        "Sustainability",
-        "THE GAMBLER",
-        "Punjab 95",
-        "Reliable"
+        "Emam Ashour",
+        "THE GAMBLER"
       ],
       "hashtags": [
         "#AmazonPrimeDay",
         "#BestTimeToBuyS25Ultra",
+        "#PrioritizeJakesHealth",
         "#SatlujOnZee5",
-        "#WelcomeNolan",
-        "#Anti_Kissan_Congress"
+        "#WelcomeNolan"
       ],
       "regular_topics": [
+        "Reliable",
+        "Egypt",
         "SEVEN HEARTBEATS ONE LIFE",
         "Inception Wrapped",
-        "Sustainability",
+        "Emam Ashour",
         "THE GAMBLER",
-        "Punjab 95",
-        "Reliable",
+        "Sustainability",
         "Responsible",
-        "BUTTERFLY GIRL SHIVANGI",
+        "Punjab 95",
         "Environmental",
-        "\u0915\u0926\u092e \u092d\u093e\u0930\u0924",
-        "Al Nassr"
+        "LINGORM ILF EP3"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 03 2026 18:27:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 03 2026 19:19:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Egypt",
-        "Inception Wrapped",
         "Cape Verde",
-        "THE GAMBLER",
-        "Emam Ashour",
-        "#ThatILOTBETAd",
-        "Al Nassr",
-        "Ange Postecoglou",
-        "Sunderland",
+        "Inception Wrapped",
         "#AUSEGY",
-        "#AdaEzeByTekno"
+        "Emam Ashour",
+        "THE GAMBLER",
+        "#AdaEzeByTekno",
+        "Al Nassr",
+        "Sunderland",
+        "Ange Postecoglou",
+        "#ThatILOTBETAd"
       ],
       "hashtags": [
-        "#ThatILOTBETAd",
         "#AUSEGY",
         "#AdaEzeByTekno",
-        "#KalakutaFrequency",
-        "#TAFmonthlychallenge"
+        "#ThatILOTBETAd",
+        "#NationalInnovationChallenge",
+        "#KalakutaFrequency"
       ],
       "regular_topics": [
         "Egypt",
-        "Inception Wrapped",
         "Cape Verde",
-        "THE GAMBLER",
+        "Inception Wrapped",
         "Emam Ashour",
+        "THE GAMBLER",
         "Al Nassr",
-        "Ange Postecoglou",
         "Sunderland",
-        "Trap Lan Je",
-        "Big 13",
-        "Ezege"
+        "Ange Postecoglou",
+        "Vibiz",
+        "Marmoush",
+        "Pharaohs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
