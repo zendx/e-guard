@@ -1,150 +1,154 @@
 {
-  "generated_at_utc": "2026-07-04T22:24:08.385051+00:00",
+  "generated_at_utc": "2026-07-04T23:27:09.309405+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 04 2026 21:51:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:42:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Paraguay",
         "Happy 4th",
         "SPLC",
-        "Canada",
-        "Morocco",
         "Patriot Front",
-        "Independence Day",
         "Feds",
-        "Happy Fourth of July",
-        "#4thJuly",
-        "Southern Poverty Law Center",
-        "Paul Pelosi"
+        "Canada",
+        "Antifa",
+        "Morocco",
+        "Independence Day",
+        "Paul Pelosi",
+        "Darryn Peterson"
       ],
       "hashtags": [
-        "#4thJuly",
         "#PARFRA",
+        "#4thJuly",
+        "#FRAPAR",
         "#tvlspoilers",
-        "#mcrglasgow",
-        "#artfight2026\u1160"
+        "#GCW4th"
       ],
       "regular_topics": [
+        "Paraguay",
         "Happy 4th",
         "SPLC",
-        "Canada",
-        "Morocco",
         "Patriot Front",
-        "Independence Day",
         "Feds",
-        "Happy Fourth of July",
-        "Southern Poverty Law Center",
+        "Canada",
+        "Antifa",
+        "Morocco",
+        "Independence Day",
         "Paul Pelosi",
-        "Doval"
+        "Darryn Peterson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 04 2026 21:27:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 23:09:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Morocco",
+        "Paraguay",
         "#PARFRA",
-        "#CANMAR",
-        "Michael Oliver",
-        "Woodgate",
-        "Steve McManaman",
-        "Pride",
-        "Maroc",
-        "Dimitrov",
-        "#Paraguay",
-        "#ARGvSCO"
+        "Galarza",
+        "Mbappe",
+        "#FRAPAR",
+        "South American",
+        "Caceres",
+        "Doue",
+        "Morocco",
+        "Stephen Warnock",
+        "Rabiot"
       ],
       "hashtags": [
         "#PARFRA",
+        "#FRAPAR",
+        "#tvlspoilers",
         "#CANMAR",
-        "#Paraguay",
-        "#ARGvSCO",
         "#soundsofthe80s"
       ],
       "regular_topics": [
+        "Paraguay",
+        "Galarza",
+        "Mbappe",
+        "South American",
+        "Caceres",
+        "Doue",
         "Morocco",
-        "Michael Oliver",
-        "Woodgate",
-        "Steve McManaman",
-        "Pride",
-        "Maroc",
-        "Dimitrov",
-        "Ounahi",
-        "Happy 4th of July",
-        "David Beckham",
-        "Trossard"
+        "Stephen Warnock",
+        "Rabiot",
+        "Ilgiz Tantashev",
+        "Kone"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 04 2026 22:09:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 23:00:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Paraguay",
         "Morocco",
         "Davies",
-        "#CANMNT",
         "Bayern",
+        "#CANMNT",
+        "#PARFRA",
+        "#FRAPAR",
+        "Bieber",
         "Kone",
         "Jonathan David",
-        "Happy 4th of July",
-        "Shane Bieber",
-        "Maroc",
-        "Moroccan",
-        "Michael Oliver"
+        "Happy 4th"
       ],
       "hashtags": [
         "#CANMNT",
         "#PARFRA",
+        "#FRAPAR",
+        "#abstorm",
         "#CANMAR",
-        "#CMNT",
         "#MARCAN",
         "#4thJuly"
       ],
       "regular_topics": [
+        "Paraguay",
         "Morocco",
         "Davies",
         "Bayern",
+        "Bieber",
         "Kone",
         "Jonathan David",
-        "Happy 4th of July",
-        "Shane Bieber",
-        "Maroc",
-        "Moroccan",
-        "Michael Oliver",
-        "Flores"
+        "Happy 4th",
+        "SPLC",
+        "Rabiot",
+        "Moroccan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 04 2026 22:06:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:57:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
         "Morocco",
+        "#PARFRA",
         "#INDvsENG",
         "Ravi Bishnoi",
-        "#PARFRA",
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
         "#OurIcePrinceSunghoon",
         "Jacob Bethell",
         "Factful Debates Yt Channel",
-        "#Arya4K",
-        "Azzedine Ounahi"
+        "Azzedine Ounahi",
+        "#CANMAR"
       ],
       "hashtags": [
-        "#INDvsENG",
         "#PARFRA",
+        "#INDvsENG",
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
         "#OurIcePrinceSunghoon",
-        "#Arya4K",
         "#CANMAR",
-        "#ChennaiLoveStory",
-        "#23rdHoneyThePHUWINDay"
+        "#Arya4K",
+        "#TicketToHeavenFinalEP",
+        "#23rdHoneyThePHUWINDay",
+        "#phuwintang",
+        "#\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32\u0e27\u0e32\u0e42\u0e22\u0e15\u0e2d\u0e19\u0e08\u0e1a",
+        "#ShreyaKalra"
       ],
       "regular_topics": [
         "Paraguay",
@@ -154,47 +158,47 @@
         "Factful Debates Yt Channel",
         "Azzedine Ounahi",
         "SEVEN VISIONS ONE GOAL",
-        "Brahim",
-        "Atlas Lions",
         "America",
-        "Dimitrov"
+        "Dimitrov",
+        "Atlas Lions",
+        "Happy 4th of July"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 04 2026 22:04:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:55:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
         "Morocco",
         "#PARFRA",
-        "Brahim Diaz",
-        "Azzedine Ounahi",
+        "Doue",
+        "Haram",
         "Kone",
-        "America",
-        "The Atlas Lions",
-        "Maroc",
-        "Enciso",
-        "Brazil of Africa"
+        "Rabiot",
+        "19 World Cup",
+        "Penalty to France",
+        "Almiron",
+        "Enciso"
       ],
       "hashtags": [
         "#PARFRA",
-        "#Valko",
-        "#LuxeMasion"
+        "#FRAPAR",
+        "#Valko"
       ],
       "regular_topics": [
         "Paraguay",
         "Morocco",
-        "Brahim Diaz",
-        "Azzedine Ounahi",
+        "Doue",
+        "Haram",
         "Kone",
-        "America",
-        "The Atlas Lions",
-        "Maroc",
+        "Rabiot",
+        "19 World Cup",
+        "Penalty to France",
+        "Almiron",
         "Enciso",
-        "Brazil of Africa",
-        "Moroccan"
+        "Brahim Diaz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
