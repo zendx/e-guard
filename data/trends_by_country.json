@@ -1,39 +1,41 @@
 {
-  "generated_at_utc": "2026-07-04T21:23:48.362591+00:00",
+  "generated_at_utc": "2026-07-04T22:24:08.385051+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 04 2026 20:57:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 21:51:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th",
         "SPLC",
-        "Morocco",
         "Canada",
-        "Independence Day",
+        "Morocco",
         "Patriot Front",
+        "Independence Day",
         "Feds",
         "Happy Fourth of July",
         "#4thJuly",
-        "Joey Chestnut",
-        "Southern Poverty Law Center"
+        "Southern Poverty Law Center",
+        "Paul Pelosi"
       ],
       "hashtags": [
         "#4thJuly",
+        "#PARFRA",
         "#tvlspoilers",
-        "#CANMAR"
+        "#mcrglasgow",
+        "#artfight2026\u1160"
       ],
       "regular_topics": [
         "Happy 4th",
         "SPLC",
-        "Morocco",
         "Canada",
-        "Independence Day",
+        "Morocco",
         "Patriot Front",
+        "Independence Day",
         "Feds",
         "Happy Fourth of July",
-        "Joey Chestnut",
         "Southern Poverty Law Center",
+        "Paul Pelosi",
         "Doval"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -41,155 +43,158 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 04 2026 20:33:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 21:27:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
+        "#PARFRA",
         "#CANMAR",
         "Michael Oliver",
-        "Ounahi",
+        "Woodgate",
+        "Steve McManaman",
         "Pride",
-        "#soundsofthe80s",
-        "Jonathan David",
-        "#RSAvENG",
-        "Trossard",
-        "Hakimi",
-        "Rahimi"
+        "Maroc",
+        "Dimitrov",
+        "#Paraguay",
+        "#ARGvSCO"
       ],
       "hashtags": [
+        "#PARFRA",
         "#CANMAR",
-        "#soundsofthe80s",
-        "#RSAvENG",
-        "#Qualify365",
-        "#PARFRA"
+        "#Paraguay",
+        "#ARGvSCO",
+        "#soundsofthe80s"
       ],
       "regular_topics": [
         "Morocco",
         "Michael Oliver",
-        "Ounahi",
+        "Woodgate",
+        "Steve McManaman",
         "Pride",
-        "Jonathan David",
-        "Trossard",
-        "Hakimi",
-        "Rahimi",
         "Maroc",
-        "Arthur Fery",
-        "Saibari"
+        "Dimitrov",
+        "Ounahi",
+        "Happy 4th of July",
+        "David Beckham",
+        "Trossard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 04 2026 20:27:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:09:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
         "Davies",
         "#CANMNT",
-        "Jonathan David",
         "Bayern",
-        "Michael Oliver",
-        "Happy 4th of July",
         "Kone",
+        "Jonathan David",
+        "Happy 4th of July",
+        "Shane Bieber",
+        "Maroc",
         "Moroccan",
-        "Hakimi",
-        "Flores"
+        "Michael Oliver"
       ],
       "hashtags": [
         "#CANMNT",
+        "#PARFRA",
         "#CANMAR",
-        "#MARCAN",
-        "#CANvsMAR",
         "#CMNT",
+        "#MARCAN",
         "#4thJuly"
       ],
       "regular_topics": [
         "Morocco",
         "Davies",
-        "Jonathan David",
         "Bayern",
-        "Michael Oliver",
-        "Happy 4th of July",
         "Kone",
+        "Jonathan David",
+        "Happy 4th of July",
+        "Shane Bieber",
+        "Maroc",
         "Moroccan",
-        "Hakimi",
-        "Flores",
-        "Larin"
+        "Michael Oliver",
+        "Flores"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 04 2026 20:21:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:06:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Paraguay",
         "Morocco",
         "#INDvsENG",
         "Ravi Bishnoi",
+        "#PARFRA",
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
+        "#OurIcePrinceSunghoon",
         "Jacob Bethell",
         "Factful Debates Yt Channel",
-        "Azzedine Ounahi",
-        "#OurIcePrinceSunghoon",
-        "#CANMAR",
-        "#Arya4k",
-        "Brahim"
+        "#Arya4K",
+        "Azzedine Ounahi"
       ],
       "hashtags": [
         "#INDvsENG",
+        "#PARFRA",
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
         "#OurIcePrinceSunghoon",
+        "#Arya4K",
         "#CANMAR",
-        "#Arya4k"
+        "#ChennaiLoveStory",
+        "#23rdHoneyThePHUWINDay"
       ],
       "regular_topics": [
+        "Paraguay",
         "Morocco",
         "Ravi Bishnoi",
         "Jacob Bethell",
         "Factful Debates Yt Channel",
         "Azzedine Ounahi",
+        "SEVEN VISIONS ONE GOAL",
         "Brahim",
         "Atlas Lions",
-        "SEVEN VISIONS ONE GOAL",
-        "Hakimi",
         "America",
-        "OUR STAR PHUWIN 23rd"
+        "Dimitrov"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 04 2026 21:12:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 22:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Morocco",
         "Paraguay",
+        "Morocco",
+        "#PARFRA",
         "Brahim Diaz",
         "Azzedine Ounahi",
-        "Atlas Lions",
-        "Moroccan",
-        "Brazil of Africa",
-        "Michael Oliver",
+        "Kone",
         "America",
-        "Hakimi",
-        "Happy 4th of July"
+        "The Atlas Lions",
+        "Maroc",
+        "Enciso",
+        "Brazil of Africa"
       ],
       "hashtags": [
         "#PARFRA",
-        "#LuxeMasion",
-        "#Valko"
+        "#Valko",
+        "#LuxeMasion"
       ],
       "regular_topics": [
-        "Morocco",
         "Paraguay",
+        "Morocco",
         "Brahim Diaz",
         "Azzedine Ounahi",
-        "Atlas Lions",
-        "Moroccan",
-        "Brazil of Africa",
-        "Michael Oliver",
+        "Kone",
         "America",
-        "Hakimi",
-        "Happy 4th of July"
+        "The Atlas Lions",
+        "Maroc",
+        "Enciso",
+        "Brazil of Africa",
+        "Moroccan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
