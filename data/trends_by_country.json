@@ -1,198 +1,197 @@
 {
-  "generated_at_utc": "2026-07-04T16:48:26.162896+00:00",
+  "generated_at_utc": "2026-07-04T17:52:30.928750+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 04 2026 15:48:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 17:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th of July",
         "Happy Fourth of July",
+        "Joey Chestnut",
         "#4thJuly",
+        "SPLC",
         "Beyonc\u00e9",
+        "Patriot Front",
         "Donk",
-        "MORNING DEW",
-        "Celebrating 250",
-        "For 250",
-        "Here's to 250",
-        "#USA250",
-        "Eala"
+        "Nathan",
+        "Freedom",
+        "Celebrating 250"
       ],
       "hashtags": [
         "#4thJuly",
         "#USA250",
+        "#CashInWithRitas",
         "#CaelenStrayfe3D",
-        "#TicketToHeavenFinalEP",
-        "#Caturday",
-        "#LingOrmKhonKaenFanMeet"
+        "#CANMAR"
       ],
       "regular_topics": [
         "Happy 4th of July",
         "Happy Fourth of July",
+        "Joey Chestnut",
+        "SPLC",
         "Beyonc\u00e9",
+        "Patriot Front",
         "Donk",
-        "MORNING DEW",
+        "Nathan",
+        "Freedom",
         "Celebrating 250",
-        "For 250",
-        "Here's to 250",
-        "Eala",
-        "B'Day",
-        "Freedom"
+        "Morning Dew"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 04 2026 16:15:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 17:06:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RSAvENG",
-        "Happy 4th of July",
-        "Constitution River",
-        "#BritishGP",
-        "America",
         "Trossard",
+        "Happy 4th of July",
+        "Jacob Bethell",
+        "America",
         "Borthwick",
-        "FULL TIME",
-        "Eala",
-        "#FIJvWAL",
-        "Beyonc\u00e9"
+        "Constitution River",
+        "#ENGvIND",
+        "Canada vs Morocco",
+        "Pride",
+        "FULL TIME"
       ],
       "hashtags": [
         "#RSAvENG",
-        "#BritishGP",
-        "#FIJvWAL",
         "#ENGvIND",
-        "#MusicalCelebsOrTVShows"
+        "#BritishGP",
+        "#CANMAR",
+        "#FIJvWAL"
       ],
       "regular_topics": [
-        "Happy 4th of July",
-        "Constitution River",
-        "America",
         "Trossard",
+        "Happy 4th of July",
+        "Jacob Bethell",
+        "America",
         "Borthwick",
+        "Constitution River",
+        "Canada vs Morocco",
+        "Pride",
         "FULL TIME",
-        "Eala",
-        "Beyonc\u00e9",
         "Kimi",
-        "Swiatek",
-        "Fiji"
+        "Beyonc\u00e9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 04 2026 16:07:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 16:57:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th of July",
         "Cape Verde",
         "Argentina",
-        "Carlsson",
         "#CANMNT",
-        "Happy Fourth of July",
+        "Carlsson",
+        "Morocco",
         "Messi",
-        "Ducks",
+        "Happy Fourth of July",
         "Verbeek",
-        "Taylor Swift",
-        "Anaheim"
+        "Ducks",
+        "Taylor Swift"
       ],
       "hashtags": [
         "#CANMNT",
         "#4thJuly",
         "#ARGCPV",
         "#Porcro",
-        "#FrozenforCanada"
+        "#BringValkoBack"
       ],
       "regular_topics": [
         "Happy 4th of July",
         "Cape Verde",
         "Argentina",
         "Carlsson",
-        "Happy Fourth of July",
+        "Morocco",
         "Messi",
-        "Ducks",
+        "Happy Fourth of July",
         "Verbeek",
+        "Ducks",
         "Taylor Swift",
-        "Anaheim",
-        "Wright"
+        "Anaheim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 04 2026 16:04:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 16:56:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
         "Factful Debates Yt Channel",
         "#SandeepGuptaScamExposed",
         "#INDvsENG",
+        "#ChennaiLoveStory",
         "#NidarshanaGowani",
         "Vaibhav Sooryavanshi",
-        "#ChennaiLoveStory",
         "Arshdeep Singh",
         "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "Harry Brook",
-        "Tilak"
+        "SEVEN VISIONS ONE GOAL",
+        "Axar Patel"
       ],
       "hashtags": [
         "#\u092d\u093e\u0930\u0924_\u0910\u0938\u0947\u092c\u0928\u0947\u0917\u093e_\u0938\u094b\u0928\u0947_\u0915\u0940_\u091a\u093f\u0921\u093c\u093f\u092f\u093e",
         "#SandeepGuptaScamExposed",
         "#INDvsENG",
-        "#NidarshanaGowani",
-        "#ChennaiLoveStory"
+        "#ChennaiLoveStory",
+        "#NidarshanaGowani"
       ],
       "regular_topics": [
         "Factful Debates Yt Channel",
         "Vaibhav Sooryavanshi",
         "Arshdeep Singh",
         "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
-        "Harry Brook",
-        "Tilak",
-        "\u092f\u0942\u091f\u094d\u092f\u0942\u092c \u091a\u0948\u0928\u0932",
         "SEVEN VISIONS ONE GOAL",
-        "Jofra Archer",
-        "Sanju",
-        "Axar Patel"
+        "Axar Patel",
+        "Harry Brook",
+        "Ravi Bishnoi",
+        "\u092f\u0942\u091f\u094d\u092f\u0942\u092c \u091a\u0948\u0928\u0932",
+        "Tilak",
+        "YOGESH BEYOND THE VERDICT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 04 2026 16:03:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 04 2026 16:54:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sam Larry",
-        "America",
         "Happy 4th of July",
-        "Mohbad",
+        "America",
+        "Trossard",
         "#WDLGByTekno",
-        "Happy 250th",
-        "Independence Day",
         "#LuxeMasion",
-        "Leandro Trossard",
+        "Mohbad",
+        "Besiktas",
         "Canada vs Morocco",
-        "Eala"
+        "Happy 250th",
+        "Independence Day"
       ],
       "hashtags": [
         "#WDLGByTekno",
         "#LuxeMasion",
-        "#July4th",
-        "#Paris"
+        "#4thJuly",
+        "#BritishGP"
       ],
       "regular_topics": [
         "Sam Larry",
-        "America",
         "Happy 4th of July",
+        "America",
+        "Trossard",
         "Mohbad",
+        "Besiktas",
+        "Canada vs Morocco",
         "Happy 250th",
         "Independence Day",
-        "Leandro Trossard",
-        "Canada vs Morocco",
-        "Eala",
-        "MORNING DEW",
-        "Be\u015fikta\u015f"
+        "Morocco and France",
+        "Statue of Liberty"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
