@@ -1,198 +1,196 @@
 {
-  "generated_at_utc": "2026-07-05T18:55:15.482552+00:00",
+  "generated_at_utc": "2026-07-05T20:04:43.107532+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 18:27:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 19:19:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "FIFA",
         "Balogun",
-        "Naomi",
         "Sheamus",
+        "Naomi",
+        "Article 27",
+        "Infantino",
         "Newport Beach",
         "Sabalenka",
-        "Infantino",
-        "Article 27",
+        "Stevens",
         "#promotion",
-        "Patriot Front",
-        "#Wimbledon"
+        "Patriot Front"
       ],
       "hashtags": [
         "#promotion",
         "#Wimbledon",
+        "#SeductiveSunday",
         "#CarameloEnFoodBazaar",
-        "#BritishGP",
-        "#SeductiveSunday"
+        "#IndyCar"
       ],
       "regular_topics": [
         "FIFA",
         "Balogun",
-        "Naomi",
         "Sheamus",
+        "Naomi",
+        "Article 27",
+        "Infantino",
         "Newport Beach",
         "Sabalenka",
-        "Infantino",
-        "Article 27",
+        "Stevens",
         "Patriot Front",
-        "Peacock",
-        "SPLC"
+        "McMorrow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 18:03:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 19:45:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BritishGP",
-        "Infantino",
         "FIFA",
-        "Lewis",
+        "Infantino",
         "Balogun",
-        "Ferrari",
-        "Ederson",
+        "Blatter",
+        "Sheamus",
+        "Corruption",
         "Osaka",
-        "Piers",
-        "Kimi",
-        "Charles"
+        "Article 27",
+        "Ederson",
+        "Sabalenka",
+        "#wildflowerhour"
       ],
       "hashtags": [
+        "#wildflowerhour",
+        "#sts70s",
         "#BritishGP",
-        "#Silverstone",
-        "#T20WorldCup",
-        "#ENGvAUS",
-        "#Formula1"
+        "#BRANOR",
+        "#MEXENG"
       ],
       "regular_topics": [
-        "Infantino",
         "FIFA",
-        "Lewis",
+        "Infantino",
         "Balogun",
-        "Ferrari",
-        "Ederson",
+        "Blatter",
+        "Sheamus",
+        "Corruption",
         "Osaka",
-        "Piers",
-        "Kimi",
-        "Charles",
-        "Verstappen"
+        "Article 27",
+        "Ederson",
+        "Sabalenka",
+        "Battle of Britain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 17:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 19:37:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy 4th of July",
-        "America",
-        "Morocco",
-        "Davies",
-        "Paraguay",
         "FIFA",
+        "America",
+        "Happy 4th of July",
+        "Davies",
+        "Morocco",
+        "Paraguay",
+        "Sheamus",
+        "Infantino",
         "$ANSEM",
-        "Lewis",
-        "#BritishGP",
-        "Bayern",
-        "Independence Day"
+        "Balogun",
+        "#BritishGP"
       ],
       "hashtags": [
         "#BritishGP",
         "#CanMNT",
+        "#Wimbledon",
         "#promotion",
-        "#CANMAR",
         "#4thJuly"
       ],
       "regular_topics": [
-        "Happy 4th of July",
-        "America",
-        "Morocco",
-        "Davies",
-        "Paraguay",
         "FIFA",
+        "America",
+        "Happy 4th of July",
+        "Davies",
+        "Morocco",
+        "Paraguay",
+        "Sheamus",
+        "Infantino",
         "$ANSEM",
-        "Lewis",
-        "Bayern",
-        "Independence Day",
-        "Wright"
+        "Balogun",
+        "Bayern"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 18:42:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 19:33:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SatlujMovie",
         "Australia",
         "#T20WorldCup",
-        "#BiharRejectsPK",
         "Norway",
+        "#BiharRejectsPK",
         "#OurForeverSunshineSUNOO",
         "Beth Mooney",
-        "#SandeepGuptaExposed",
         "SEVEN COLORS ONE CANVAS",
-        "54 TMT",
-        "Charles"
+        "#HappyBirthdayRanveer",
+        "Balogun",
+        "54 TMT"
       ],
       "hashtags": [
         "#SatlujMovie",
         "#T20WorldCup",
         "#BiharRejectsPK",
         "#OurForeverSunshineSUNOO",
-        "#SandeepGuptaExposed"
+        "#HappyBirthdayRanveer"
       ],
       "regular_topics": [
         "Australia",
         "Norway",
         "Beth Mooney",
         "SEVEN COLORS ONE CANVAS",
-        "54 TMT",
-        "Charles",
-        "Naomi Osaka",
         "Balogun",
-        "35 TMT",
+        "54 TMT",
+        "Sheamus",
+        "Naomi Osaka",
         "Ellyse Perry",
-        "12 Indian"
+        "35 TMT",
+        "Charles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 18:42:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 19:33:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Norway",
-        "Balogun",
+        "Brazil",
         "FIFA",
-        "Andrey Santos",
+        "Balogun",
         "Infantino",
-        "#SunBet",
-        "Article 27",
         "Donald Trump",
-        "Lavia",
-        "Naomi Osaka",
+        "Andrey Santos",
+        "Article 27",
+        "Tomorrow is Monday",
+        "#SunBet",
+        "Ederson",
         "USMNT"
       ],
       "hashtags": [
         "#SunBet",
-        "#OKINNITHEMOVIE",
         "#BRANOR",
-        "#Wimbledon",
-        "#BritishGP"
+        "#promotion"
       ],
       "regular_topics": [
-        "Norway",
-        "Balogun",
+        "Brazil",
         "FIFA",
-        "Andrey Santos",
+        "Balogun",
         "Infantino",
-        "Article 27",
         "Donald Trump",
-        "Lavia",
-        "Naomi Osaka",
+        "Andrey Santos",
+        "Article 27",
+        "Tomorrow is Monday",
+        "Ederson",
         "USMNT",
-        "Tomorrow is Monday"
+        "Naomi Osaka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
