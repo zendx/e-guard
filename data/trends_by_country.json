@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-07-05T08:22:02.056462+00:00",
+  "generated_at_utc": "2026-07-05T10:32:18.561240+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 07:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 09:52:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mason",
-        "#250YearsStrong",
         "#holoSerendipity",
+        "Mason",
+        "#DENTISTEXPERTHSANTA",
+        "PERTHSANTA FRESH BREATH",
+        "#250YearsStrong",
+        "Good Sunday",
         "SPLC",
-        "Paraguay",
-        "Brandon Jones",
+        "Absolutely VIP and EXCLUSIVE",
+        "Wild Berry",
         "Patriot Front",
-        "Mighty",
-        "Antifa",
-        "Fireworks",
-        "#Toonami"
+        "Tropical"
       ],
       "hashtags": [
-        "#250YearsStrong",
         "#holoSerendipity",
+        "#DENTISTEXPERTHSANTA",
+        "#250YearsStrong",
         "#Toonami",
-        "#TokyoRevengers",
-        "#boxing"
+        "#MyAdventuresWithSuperman"
       ],
       "regular_topics": [
         "Mason",
+        "PERTHSANTA FRESH BREATH",
+        "Good Sunday",
         "SPLC",
-        "Paraguay",
-        "Brandon Jones",
+        "Absolutely VIP and EXCLUSIVE",
+        "Wild Berry",
         "Patriot Front",
-        "Mighty",
-        "Antifa",
-        "Fireworks",
-        "Mbappe",
-        "Chase Elliott",
-        "Feds"
+        "Tropical",
+        "Mighty England",
+        "Brandon Jones",
+        "Antifa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 07:43:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 10:18:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
         "#PARFRA",
         "Cape Verde",
+        "#bbclaurak",
         "Argentina",
         "Happy 4th of July",
+        "Farage",
+        "Jenrick",
         "America",
         "Morocco",
-        "Egypt",
-        "Galarza",
-        "#argCPV",
-        "#AUSEGY"
+        "Egypt"
       ],
       "hashtags": [
         "#PARFRA",
+        "#bbclaurak",
         "#argCPV",
-        "#AUSEGY",
-        "#CANMAR",
-        "#SundayYellow"
+        "#ausegy",
+        "#CANMAR"
       ],
       "regular_topics": [
         "Paraguay",
         "Cape Verde",
         "Argentina",
         "Happy 4th of July",
+        "Farage",
+        "Jenrick",
         "America",
         "Morocco",
         "Egypt",
         "Galarza",
-        "Michael Oliver",
-        "Messi",
-        "Cabo Verde"
+        "Michael Oliver"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 07:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 10:09:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th of July",
         "Morocco",
@@ -90,17 +90,17 @@
         "Paraguay",
         "Cape Verde",
         "#CANMNT",
+        "My $ANSEM",
         "Independence Day",
         "Argentina",
         "Bayern",
-        "Carlsson",
         "Michael Oliver"
       ],
       "hashtags": [
         "#CANMNT",
-        "#holoSerendipity",
         "#CANMAR",
         "#argCPV",
+        "#holoSerendipity",
         "#PARFRA"
       ],
       "regular_topics": [
@@ -109,88 +109,84 @@
         "Davies",
         "Paraguay",
         "Cape Verde",
+        "My $ANSEM",
         "Independence Day",
         "Argentina",
         "Bayern",
-        "Carlsson",
         "Michael Oliver",
-        "Cabo Verde"
+        "Carlsson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 07:32:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 10:06:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JeetJaoge",
-        "#KamalaSaysNo2Drugs",
+        "#CatchTheRain",
+        "#NewShapeOfGalaxy",
+        "#Samsung",
+        "#TeamNitinPankaj",
         "#Sarkar",
-        "#Kamalatrust",
-        "#NidarshanaGowani",
-        "Bhuvan Bam",
-        "Anant Ambani Ji",
-        "Samagra Vikas",
-        "\u0930\u093e\u092e\u0935\u093f\u0932\u093e\u0938 \u092a\u093e\u0938\u0935\u093e\u0928",
-        "Bal Sanskar Kendra",
-        "\u092a\u0926\u094d\u092e \u092d\u0942\u0937\u0923"
+        "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "\u0906\u092e\u093f\u0930 \u0916\u093e\u0928",
+        "Revolutionary",
+        "Sophisticated",
+        "Limitless",
+        "Signature"
       ],
       "hashtags": [
-        "#JeetJaoge",
-        "#KamalaSaysNo2Drugs",
-        "#Sarkar",
-        "#Kamalatrust",
-        "#NidarshanaGowani",
-        "#PKforBankipur",
-        "#SaveAshram"
+        "#CatchTheRain",
+        "#NewShapeOfGalaxy",
+        "#Samsung",
+        "#TeamNitinPankaj",
+        "#Sarkar"
       ],
       "regular_topics": [
-        "Bhuvan Bam",
-        "Anant Ambani Ji",
-        "Samagra Vikas",
-        "\u0930\u093e\u092e\u0935\u093f\u0932\u093e\u0938 \u092a\u093e\u0938\u0935\u093e\u0928",
-        "Bal Sanskar Kendra",
-        "\u092a\u0926\u094d\u092e \u092d\u0942\u0937\u0923",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Babar Azam",
-        "\u0932\u094b\u0915 \u091c\u0928\u0936\u0915\u094d\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0932\u094b\u0915 \u0915\u0932\u093e"
+        "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "\u0906\u092e\u093f\u0930 \u0916\u093e\u0928",
+        "Revolutionary",
+        "Sophisticated",
+        "Limitless",
+        "Signature",
+        "Seamless",
+        "Refined",
+        "Innovative",
+        "Dazzling",
+        "Babar Azam"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 07:31:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 10:04:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "PHHDXX",
+        "Church",
         "Blessed Sunday",
-        "Paraguay",
         "Today is Sunday",
-        "Happy Sunday Fam",
-        "Happy Sunday X",
-        "Beautiful Sunday",
-        "Sunday of July",
-        "Happy Sunday Boss",
-        "First Sunday",
-        "Sabbath",
-        "Alex"
+        "Alex",
+        "Paraguay",
+        "Rome",
+        "Gavi",
+        "Tunde",
+        "Happy Sunday CT",
+        "Pep Echevarria"
       ],
-      "hashtags": [
-        "#PARFRA"
-      ],
+      "hashtags": [],
       "regular_topics": [
+        "PHHDXX",
+        "Church",
         "Blessed Sunday",
-        "Paraguay",
         "Today is Sunday",
-        "Happy Sunday Fam",
-        "Happy Sunday X",
-        "Beautiful Sunday",
-        "Sunday of July",
-        "Happy Sunday Boss",
-        "First Sunday",
-        "Sabbath",
-        "Alex"
+        "Alex",
+        "Paraguay",
+        "Rome",
+        "Gavi",
+        "Tunde",
+        "Happy Sunday CT",
+        "Pep Echevarria"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
