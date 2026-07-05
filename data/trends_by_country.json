@@ -1,47 +1,48 @@
 {
-  "generated_at_utc": "2026-07-05T22:45:28.289077+00:00",
+  "generated_at_utc": "2026-07-05T23:52:30.654923+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 21:56:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 22:48:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Haaland",
-        "FIFA",
+        "Norway",
         "Neymar",
+        "FIFA",
         "Vini",
-        "Gabriel",
         "Belgium",
-        "Balogun",
-        "NEW ANNOUNCEMENT",
+        "Ancelotti",
+        "Gabriel",
         "Endrick",
-        "OFFICIAL UPDATE"
+        "Balogun",
+        "Casemiro"
       ],
       "hashtags": [
         "#BRANOR",
+        "#BadBoysDR",
         "#BRAvsNOR",
-        "#GCWBYW8"
+        "#NASCAR"
       ],
       "regular_topics": [
         "Brazil",
-        "Haaland",
-        "FIFA",
+        "Norway",
         "Neymar",
+        "FIFA",
         "Vini",
-        "Gabriel",
         "Belgium",
-        "Balogun",
-        "NEW ANNOUNCEMENT",
+        "Ancelotti",
+        "Gabriel",
         "Endrick",
-        "OFFICIAL UPDATE"
+        "Balogun",
+        "Casemiro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 22:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 23:18:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Neymar",
@@ -50,15 +51,17 @@
         "Ancelotti",
         "Odegaard",
         "Endrick",
-        "Vini",
         "FIFA",
-        "Nyland",
-        "Joao Pedro"
+        "Vini",
+        "Joao Pedro",
+        "#MEXENG"
       ],
       "hashtags": [
         "#BRANOR",
+        "#MEXENG",
         "#NORBRA",
-        "#loveislandaftersun"
+        "#loveislandaftersun",
+        "#ENGMEX"
       ],
       "regular_topics": [
         "Brazil",
@@ -67,126 +70,124 @@
         "Ancelotti",
         "Odegaard",
         "Endrick",
-        "Vini",
         "FIFA",
-        "Nyland",
+        "Vini",
         "Joao Pedro",
-        "Jasmine"
+        "Nyland",
+        "Priya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 22:13:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 23:04:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Haaland",
         "Neymar",
+        "FIFA",
         "Gabriel",
         "Vini",
-        "FIFA",
         "Ancelotti",
-        "Odegaard",
+        "Belgium",
         "Endrick",
-        "#BRANOR",
-        "Nyland"
+        "Odegaard",
+        "Br\u00e9sil"
       ],
       "hashtags": [
         "#BRANOR",
-        "#promotion",
-        "#Wimbledon",
         "#abstorm",
-        "#BritishGP"
+        "#promotion",
+        "#Wimbledon"
       ],
       "regular_topics": [
         "Brazil",
         "Haaland",
         "Neymar",
+        "FIFA",
         "Gabriel",
         "Vini",
-        "FIFA",
         "Ancelotti",
-        "Odegaard",
+        "Belgium",
         "Endrick",
-        "Nyland",
-        "Casemiro"
+        "Odegaard",
+        "Br\u00e9sil"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 22:09:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 23:01:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Neymar",
         "Haaland",
-        "Gabriel",
         "Vini",
+        "Gabriel",
+        "Ancelotti",
         "#BRANOR",
         "Nyland",
-        "Ancelotti",
-        "Odegaard",
         "Endrick",
-        "#BRAvsNOR"
+        "Vikings",
+        "Odegaard"
       ],
       "hashtags": [
         "#BRANOR",
         "#BRAvsNOR",
-        "#SatlujMovie",
+        "#NORBRA",
         "#T20WorldCup",
+        "#SatlujMovie",
         "#OurForeverSunshineSUNOO"
       ],
       "regular_topics": [
         "Brazil",
         "Neymar",
         "Haaland",
-        "Gabriel",
         "Vini",
-        "Nyland",
+        "Gabriel",
         "Ancelotti",
-        "Odegaard",
+        "Nyland",
         "Endrick",
-        "Cunha",
-        "Vikings"
+        "Vikings",
+        "Odegaard",
+        "Cunha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 22:09:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 23:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Haaland",
         "Neymar",
-        "#BRANOR",
         "Ancelotti",
+        "Joao Pedro",
         "Endrick",
         "Vini",
+        "#BRANOR",
+        "Vikings",
         "Odegaard",
-        "Joao Pedro",
-        "Nyland",
         "Cunha"
       ],
       "hashtags": [
-        "#BRANOR",
-        "#worldcupknockout",
-        "#NORBRA"
+        "#BRANOR"
       ],
       "regular_topics": [
         "Brazil",
         "Haaland",
         "Neymar",
         "Ancelotti",
+        "Joao Pedro",
         "Endrick",
         "Vini",
+        "Vikings",
         "Odegaard",
-        "Joao Pedro",
-        "Nyland",
         "Cunha",
-        "Vikings"
+        "Nyland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
