@@ -1,60 +1,60 @@
 {
-  "generated_at_utc": "2026-07-05T16:51:28.752631+00:00",
+  "generated_at_utc": "2026-07-05T17:53:11.855850+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 15:52:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 17:36:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Folarin Balogun",
+        "Newport Beach",
         "#BritishGP",
         "Lewis",
-        "Charles",
-        "Ferrari",
-        "Kimi",
-        "Verstappen",
-        "SPLC",
-        "Good Sunday",
-        "Newport Beach",
+        "#promotion",
         "Patriot Front",
-        "#promotion"
+        "Charles",
+        "SPLC",
+        "Ferrari",
+        "Article 27",
+        "Kimi"
       ],
       "hashtags": [
         "#BritishGP",
         "#promotion",
-        "#EnemiesWithBenefitsFinalEP",
         "#SeductiveSunday",
-        "#SundayVibes"
+        "#SundayVibes",
+        "#EnemiesWithBenefitsFinalEP"
       ],
       "regular_topics": [
-        "Lewis",
-        "Charles",
-        "Ferrari",
-        "Kimi",
-        "Verstappen",
-        "SPLC",
-        "Good Sunday",
+        "Folarin Balogun",
         "Newport Beach",
+        "Lewis",
         "Patriot Front",
-        "Burgum",
-        "Silverstone"
+        "Charles",
+        "SPLC",
+        "Ferrari",
+        "Article 27",
+        "Kimi",
+        "Rainn",
+        "Naomi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 16:20:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 17:12:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BritishGP",
         "Lewis",
         "Ferrari",
         "Verstappen",
-        "Antonelli",
-        "#Silverstone",
-        "CHARLES LECLERC",
-        "Russell",
-        "Safety Car",
+        "Kimi",
         "Ederson",
+        "Charles",
+        "Safety Car",
+        "Russell",
+        "#Silverstone",
         "Andrey Santos"
       ],
       "hashtags": [
@@ -68,40 +68,40 @@
         "Lewis",
         "Ferrari",
         "Verstappen",
-        "Antonelli",
-        "CHARLES LECLERC",
-        "Russell",
-        "Safety Car",
+        "Kimi",
         "Ederson",
+        "Charles",
+        "Safety Car",
+        "Russell",
         "Andrey Santos",
-        "The FIA",
-        "Abu Dhabi 2021"
+        "Piers",
+        "The FIA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 16:12:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 17:03:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th of July",
         "America",
         "Morocco",
-        "#BritishGP",
         "Davies",
         "Paraguay",
-        "Lewis",
-        "Kimi",
+        "#BritishGP",
         "Ferrari",
         "$ANSEM",
-        "Bayern"
+        "Lewis",
+        "Bayern",
+        "Independence Day"
       ],
       "hashtags": [
         "#BritishGP",
         "#CanMNT",
         "#CANMAR",
-        "#holoSerendipity",
-        "#PARFRA"
+        "#promotion",
+        "#holoSerendipity"
       ],
       "regular_topics": [
         "Happy 4th of July",
@@ -109,89 +109,90 @@
         "Morocco",
         "Davies",
         "Paraguay",
-        "Lewis",
-        "Kimi",
         "Ferrari",
         "$ANSEM",
+        "Lewis",
         "Bayern",
-        "Independence Day"
+        "Independence Day",
+        "Wright"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 16:08:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 17:00:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SatlujMovie",
         "#BiharRejectsPK",
         "#SandeepGuptaExposed",
-        "#HaalandOnZee5",
+        "#OurForeverSunshineSUNOO",
         "#BritishGP",
         "Charles",
-        "#OurForeverSunshineSUNOO",
+        "SEVEN COLORS ONE CANVAS",
+        "Nat Sciver",
         "Lewis",
         "Ferrari",
-        "27M BOTS STAND WITH RIYAZ",
-        "SEVEN COLORS ONE CANVAS",
-        "Verstappen"
+        "27M BOTS STAND WITH RIYAZ"
       ],
       "hashtags": [
+        "#SatlujMovie",
         "#BiharRejectsPK",
         "#SandeepGuptaExposed",
-        "#HaalandOnZee5",
-        "#BritishGP",
-        "#OurForeverSunshineSUNOO"
+        "#OurForeverSunshineSUNOO",
+        "#BritishGP"
       ],
       "regular_topics": [
         "Charles",
+        "SEVEN COLORS ONE CANVAS",
+        "Nat Sciver",
         "Lewis",
         "Ferrari",
         "27M BOTS STAND WITH RIYAZ",
-        "SEVEN COLORS ONE CANVAS",
         "Verstappen",
         "Russell",
         "Kimi",
-        "Nat Sciver",
-        "Bankipur",
-        "HPCL Rajasthan Refinery"
+        "HPCL Rajasthan Refinery",
+        "\u0906\u092e\u093f\u0930 \u0916\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 16:08:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 17:00:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Andrey Santos",
         "Norway",
         "Lavia",
-        "#OKINNITHEMOVIE",
         "Ederson",
-        "Tony Elumelu",
-        "Leclerc",
-        "Ferrari",
+        "#SunBet",
+        "#OKINNITHEMOVIE",
         "State of Origin",
-        "Lewis",
-        "Verstappen"
+        "Tony Elumelu",
+        "Ferrari",
+        "Leclerc",
+        "Lewis"
       ],
       "hashtags": [
+        "#SunBet",
         "#OKINNITHEMOVIE",
         "#BritishGP",
-        "#KwaraNdupe",
-        "#Mbapp\u00e9"
+        "#BRANOR",
+        "#KwaraNdupe"
       ],
       "regular_topics": [
         "Andrey Santos",
         "Norway",
         "Lavia",
         "Ederson",
-        "Tony Elumelu",
-        "Leclerc",
-        "Ferrari",
         "State of Origin",
+        "Tony Elumelu",
+        "Ferrari",
+        "Leclerc",
         "Lewis",
         "Verstappen",
-        "Hamilton"
+        "Tomorrow is Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
