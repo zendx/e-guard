@@ -1,67 +1,73 @@
 {
-  "generated_at_utc": "2026-07-05T10:32:18.561240+00:00",
+  "generated_at_utc": "2026-07-05T12:06:54.008543+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 09:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 11:36:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#holoSerendipity",
-        "Mason",
-        "#DENTISTEXPERTHSANTA",
-        "PERTHSANTA FRESH BREATH",
-        "#250YearsStrong",
         "Good Sunday",
-        "SPLC",
-        "Absolutely VIP and EXCLUSIVE",
-        "Wild Berry",
+        "PERTHSANTA FRESH BREATH",
+        "#DENTISTEXPERTHSANTA",
+        "#Promotion",
         "Patriot Front",
-        "Tropical"
+        "Wild Berry",
+        "#holoSerendipity",
+        "Absolutely VIP and EXCLUSIVE",
+        "Mighty",
+        "#250YearsStrong",
+        "Mason"
       ],
       "hashtags": [
-        "#holoSerendipity",
         "#DENTISTEXPERTHSANTA",
+        "#Promotion",
+        "#holoSerendipity",
         "#250YearsStrong",
         "#Toonami",
-        "#MyAdventuresWithSuperman"
+        "#MyAdventuresWithSuperman",
+        "#RissaLIVE",
+        "#BAUrendipity",
+        "#boxing",
+        "#artfight2026\u1160",
+        "#TicketToHeavenFinalEP"
       ],
       "regular_topics": [
-        "Mason",
-        "PERTHSANTA FRESH BREATH",
         "Good Sunday",
-        "SPLC",
-        "Absolutely VIP and EXCLUSIVE",
-        "Wild Berry",
+        "PERTHSANTA FRESH BREATH",
         "Patriot Front",
+        "Wild Berry",
+        "Absolutely VIP and EXCLUSIVE",
+        "Mighty",
+        "Mason",
+        "Hololive",
+        "Bell",
         "Tropical",
-        "Mighty England",
-        "Brandon Jones",
-        "Antifa"
+        "Brandon Jones"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 10:18:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 11:09:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paraguay",
         "#PARFRA",
         "Cape Verde",
-        "#bbclaurak",
         "Argentina",
         "Happy 4th of July",
         "Farage",
-        "Jenrick",
+        "#bbclaurak",
         "America",
-        "Morocco",
-        "Egypt"
+        "Jenrick",
+        "#argCPV",
+        "#AUSEGY"
       ],
       "hashtags": [
         "#PARFRA",
         "#bbclaurak",
         "#argCPV",
-        "#ausegy",
+        "#AUSEGY",
         "#CANMAR"
       ],
       "regular_topics": [
@@ -70,19 +76,19 @@
         "Argentina",
         "Happy 4th of July",
         "Farage",
-        "Jenrick",
         "America",
+        "Jenrick",
         "Morocco",
         "Egypt",
-        "Galarza",
-        "Michael Oliver"
+        "Michael Oliver",
+        "Galarza"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 10:09:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 11:00:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy 4th of July",
         "Morocco",
@@ -90,15 +96,15 @@
         "Paraguay",
         "Cape Verde",
         "#CANMNT",
-        "My $ANSEM",
         "Independence Day",
+        "My $ANSEM",
         "Argentina",
         "Bayern",
         "Michael Oliver"
       ],
       "hashtags": [
         "#CANMNT",
-        "#CANMAR",
+        "#houston",
         "#argCPV",
         "#holoSerendipity",
         "#PARFRA"
@@ -109,8 +115,8 @@
         "Davies",
         "Paraguay",
         "Cape Verde",
-        "My $ANSEM",
         "Independence Day",
+        "My $ANSEM",
         "Argentina",
         "Bayern",
         "Michael Oliver",
@@ -121,72 +127,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 10:06:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 11:48:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#CatchTheRain",
         "#NewShapeOfGalaxy",
         "#Samsung",
-        "#TeamNitinPankaj",
-        "#Sarkar",
+        "#CatchTheRain",
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "#AamirKhan",
         "\u0906\u092e\u093f\u0930 \u0916\u093e\u0928",
+        "#TeamNitinPankaj",
         "Revolutionary",
-        "Sophisticated",
-        "Limitless",
-        "Signature"
+        "Unfolding",
+        "Signature",
+        "Gurnoor Brar"
       ],
       "hashtags": [
-        "#CatchTheRain",
         "#NewShapeOfGalaxy",
         "#Samsung",
-        "#TeamNitinPankaj",
-        "#Sarkar"
+        "#CatchTheRain",
+        "#AamirKhan",
+        "#TeamNitinPankaj"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
         "\u0906\u092e\u093f\u0930 \u0916\u093e\u0928",
         "Revolutionary",
-        "Sophisticated",
-        "Limitless",
+        "Unfolding",
         "Signature",
-        "Seamless",
-        "Refined",
-        "Innovative",
+        "Gurnoor Brar",
+        "Just 5",
+        "Limitless",
+        "Klopp",
         "Dazzling",
-        "Babar Azam"
+        "Sophisticated"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 10:04:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 05 2026 11:48:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Klopp",
         "PHHDXX",
+        "Andrey Santos",
         "Church",
-        "Blessed Sunday",
-        "Today is Sunday",
         "Alex",
-        "Paraguay",
+        "Dumfries",
+        "Blessed Sunday",
+        "Brazil 2-1 Norway",
+        "Lavia",
         "Rome",
-        "Gavi",
-        "Tunde",
-        "Happy Sunday CT",
-        "Pep Echevarria"
+        "#22BetAlwaysPays"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#22BetAlwaysPays",
+        "#KwaraNdupe",
+        "#Mbapp\u00e9",
+        "#SundayService"
+      ],
       "regular_topics": [
+        "Klopp",
         "PHHDXX",
+        "Andrey Santos",
         "Church",
-        "Blessed Sunday",
-        "Today is Sunday",
         "Alex",
-        "Paraguay",
+        "Dumfries",
+        "Blessed Sunday",
+        "Brazil 2-1 Norway",
+        "Lavia",
         "Rome",
-        "Gavi",
-        "Tunde",
-        "Happy Sunday CT",
-        "Pep Echevarria"
+        "Today is Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
