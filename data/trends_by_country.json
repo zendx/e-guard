@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-07-06T17:31:55.209025+00:00",
+  "generated_at_utc": "2026-07-06T19:27:00.530428+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 06 2026 17:06:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 18:52:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
         "FIFA",
         "Balogun",
+        "Trea Turner",
+        "Candace",
+        "#WhiteHouseBarbie",
+        "DeMar DeRozan",
         "Trump Accounts",
-        "UEFA",
-        "Piers",
-        "Tic Tac",
-        "Asha",
+        "Skylar",
         "Tyler Robinson",
-        "Dell",
-        "Belgian"
+        "Tic Tac"
       ],
       "hashtags": [
         "#WhiteHouseBarbie",
-        "#GalaxyZFlip7",
         "#tommavi",
-        "#MondayMotivation",
-        "#Rashmer"
+        "#GalaxyZFlip7",
+        "#Rashmer",
+        "#jonita"
       ],
       "regular_topics": [
         "Belgium",
         "FIFA",
         "Balogun",
+        "Trea Turner",
+        "Candace",
+        "DeMar DeRozan",
         "Trump Accounts",
-        "UEFA",
-        "Piers",
-        "Tic Tac",
-        "Asha",
+        "Skylar",
         "Tyler Robinson",
-        "Dell",
+        "Tic Tac",
         "Belgian"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,154 +43,155 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 06 2026 16:42:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 19:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FIFA",
         "Belgium",
+        "FIFA",
+        "#PORSPA",
         "Balogun",
-        "#thechase",
-        "UEFA",
-        "Belgian",
+        "Oyarzabal",
+        "#PORESP",
+        "Cenk",
+        "Portugal vs Spain",
         "Beer",
-        "VPNs",
-        "Blatter",
-        "Double Fine",
-        "Arkane"
+        "Fery",
+        "Anthony Taylor"
       ],
       "hashtags": [
-        "#thechase",
+        "#PORSPA",
+        "#PORESP",
         "#USABEL",
-        "#BTS_WORLDTOUR_ARIRANG_LONDON",
-        "#BTS_ARIRANG_LONDON",
-        "#corruption"
+        "#redcard",
+        "#thechase"
       ],
       "regular_topics": [
-        "FIFA",
         "Belgium",
+        "FIFA",
         "Balogun",
-        "UEFA",
-        "Belgian",
+        "Oyarzabal",
+        "Cenk",
+        "Portugal vs Spain",
         "Beer",
-        "VPNs",
-        "Blatter",
-        "Double Fine",
-        "Arkane",
-        "Tyrique George"
+        "Fery",
+        "Anthony Taylor",
+        "Belgian",
+        "Dimitrov"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 06 2026 16:33:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 19:08:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "FIFA",
-        "England",
-        "Norway",
         "Belgium",
-        "Brazil",
+        "England",
         "Infantino",
+        "Balogun",
+        "Norway",
+        "Brazil",
         "Haaland",
         "Neymar",
-        "Balogun",
-        "My $ANSEM",
-        "#MEXENG"
+        "Demar",
+        "My $ANSEM"
       ],
       "hashtags": [
         "#MEXENG",
         "#BRANOR",
-        "#ENGMEX"
+        "#ENGMEX",
+        "#PORESP"
       ],
       "regular_topics": [
         "FIFA",
-        "England",
-        "Norway",
         "Belgium",
-        "Brazil",
+        "England",
         "Infantino",
+        "Balogun",
+        "Norway",
+        "Brazil",
         "Haaland",
         "Neymar",
-        "Balogun",
-        "My $ANSEM",
-        "America"
+        "Demar",
+        "My $ANSEM"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 06 2026 17:20:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 19:06:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#NamoAirportDaman",
         "#HappyBirthdayDhoni",
+        "Spain",
+        "Thala",
+        "#DanceProdigyRiki",
+        "#BELIFT_Treat_Riki_Fairly",
+        "#NamoAirportDaman",
+        "SEVEN DREAMS ONE REALITY",
         "#JantaKeYogi",
         "Zimbabwe",
-        "#BELIFT_Treat_Riki_Fairly",
-        "#DanceProdigyRiki",
-        "Sanju Samson",
-        "SEVEN DREAMS ONE REALITY",
-        "Spain",
-        "DECADE OF SULTAN HYSTERIA",
-        "\u0915\u0943\u0937\u094d\u0923 \u092e\u094b\u0939\u0928"
+        "Captain Cool",
+        "Sanju Samson"
       ],
       "hashtags": [
-        "#NamoAirportDaman",
         "#HappyBirthdayDhoni",
-        "#JantaKeYogi",
+        "#DanceProdigyRiki",
         "#BELIFT_Treat_Riki_Fairly",
-        "#DanceProdigyRiki"
+        "#NamoAirportDaman",
+        "#JantaKeYogi"
       ],
       "regular_topics": [
-        "Zimbabwe",
-        "Sanju Samson",
-        "SEVEN DREAMS ONE REALITY",
         "Spain",
-        "DECADE OF SULTAN HYSTERIA",
-        "\u0915\u0943\u0937\u094d\u0923 \u092e\u094b\u0939\u0928",
-        "Xbox",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u091f\u094d\u0930\u0938\u094d\u091f",
-        "Yash Thakur",
+        "Thala",
+        "SEVEN DREAMS ONE REALITY",
+        "Zimbabwe",
+        "Captain Cool",
+        "Sanju Samson",
         "Belgium",
-        "Happy Birthday Thala"
+        "THE GAMBLER",
+        "DECADE OF SULTAN HYSTERIA",
+        "iOS 27 Beta 3",
+        "Cristiano Ronaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 06 2026 17:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 19:04:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Trump",
+        "#PORESP",
         "FIFA",
-        "Infantino",
         "Balogun",
+        "#runoski",
+        "SmileOn Dental",
+        "Infantino",
+        "$SUNUSI",
         "#Lotusbanksuedagain",
-        "Clippers",
-        "Biden",
-        "#Sportybetscam",
-        "#BitgetrTokenChallenge",
-        "Saylor"
+        "#PORSPA"
       ],
       "hashtags": [
-        "#Lotusbanksuedagain",
-        "#Sportybetscam",
-        "#BitgetrTokenChallenge",
         "#PORESP",
-        "#M\u00e9xico"
+        "#runoski",
+        "#Lotusbanksuedagain",
+        "#PORSPA",
+        "#Sportybetscam"
       ],
       "regular_topics": [
         "Spain",
         "Trump",
         "FIFA",
-        "Infantino",
         "Balogun",
-        "Clippers",
-        "Biden",
-        "Saylor",
-        "Oval Office",
-        "My PFP for the World Cup",
-        "Alejandro Garnacho"
+        "SmileOn Dental",
+        "Infantino",
+        "$SUNUSI",
+        "Racism",
+        "The African Bull",
+        "THE GAMBLER",
+        "Inception Wrapped"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
