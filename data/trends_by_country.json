@@ -1,180 +1,188 @@
 {
-  "generated_at_utc": "2026-07-05T23:52:30.654923+00:00",
+  "generated_at_utc": "2026-07-06T01:50:44.186422+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 05 2026 22:48:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 01:25:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Norway",
         "Neymar",
+        "Norway",
         "FIFA",
-        "Vini",
+        "Haaland",
         "Belgium",
-        "Ancelotti",
-        "Gabriel",
-        "Endrick",
+        "England",
         "Balogun",
-        "Casemiro"
+        "#MEXENG",
+        "Vini",
+        "Pickford"
       ],
       "hashtags": [
-        "#BRANOR",
+        "#MEXENG",
+        "#90DayFiance",
+        "#baddiesgonewild",
         "#BadBoysDR",
-        "#BRAvsNOR",
         "#NASCAR"
       ],
       "regular_topics": [
         "Brazil",
-        "Norway",
         "Neymar",
+        "Norway",
         "FIFA",
-        "Vini",
+        "Haaland",
         "Belgium",
-        "Ancelotti",
-        "Gabriel",
-        "Endrick",
+        "England",
         "Balogun",
-        "Casemiro"
+        "Vini",
+        "Pickford",
+        "Ancelotti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 05 2026 23:18:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 01:00:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Neymar",
         "Haaland",
+        "#MEXENG",
+        "Gabriel",
         "#BRANOR",
-        "Ancelotti",
-        "Odegaard",
-        "Endrick",
         "FIFA",
-        "Vini",
-        "Joao Pedro",
-        "#MEXENG"
+        "COME ON ENGLAND",
+        "Ancelotti",
+        "#ENGMEX",
+        "Odegaard"
       ],
       "hashtags": [
-        "#BRANOR",
         "#MEXENG",
+        "#BRANOR",
+        "#ENGMEX",
         "#NORBRA",
-        "#loveislandaftersun",
-        "#ENGMEX"
+        "#loveislandaftersun"
       ],
       "regular_topics": [
         "Brazil",
         "Neymar",
         "Haaland",
+        "Gabriel",
+        "FIFA",
+        "COME ON ENGLAND",
         "Ancelotti",
         "Odegaard",
-        "Endrick",
-        "FIFA",
         "Vini",
-        "Joao Pedro",
-        "Nyland",
-        "Priya"
+        "Endrick",
+        "Belgium"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 05 2026 23:04:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 00:48:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
-        "Haaland",
         "Neymar",
+        "Haaland",
         "FIFA",
+        "Belgium",
         "Gabriel",
         "Vini",
         "Ancelotti",
-        "Belgium",
-        "Endrick",
-        "Odegaard",
-        "Br\u00e9sil"
+        "England",
+        "Freezies",
+        "Viking"
       ],
       "hashtags": [
+        "#90DayFiance",
         "#BRANOR",
+        "#Bombers",
         "#abstorm",
-        "#promotion",
         "#Wimbledon"
       ],
       "regular_topics": [
         "Brazil",
-        "Haaland",
         "Neymar",
+        "Haaland",
         "FIFA",
+        "Belgium",
         "Gabriel",
         "Vini",
         "Ancelotti",
-        "Belgium",
-        "Endrick",
-        "Odegaard",
-        "Br\u00e9sil"
+        "England",
+        "Freezies",
+        "Viking"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 05 2026 23:01:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 01:42:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Brazil",
         "Neymar",
+        "Brazil",
+        "#GodMorningMonday",
         "Haaland",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0938\u0902\u0918",
+        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
         "Vini",
-        "Gabriel",
         "Ancelotti",
-        "#BRANOR",
-        "Nyland",
-        "Endrick",
-        "Vikings",
-        "Odegaard"
+        "\u092c\u093e\u092c\u0942 \u091c\u0917\u091c\u0940\u0935\u0928 \u0930\u093e\u092e",
+        "Gabriel",
+        "Nyland"
       ],
       "hashtags": [
+        "#GodMorningMonday",
         "#BRANOR",
+        "#MondayMotivation",
+        "#MEXENG",
+        "#NORVE\u00c7",
         "#BRAvsNOR",
-        "#NORBRA",
+        "#M\u00e9xico",
+        "#ShyamaPrasadMukherjee",
+        "#DrSyamaPrasadMookerjee",
         "#T20WorldCup",
-        "#SatlujMovie",
         "#OurForeverSunshineSUNOO"
       ],
       "regular_topics": [
-        "Brazil",
         "Neymar",
+        "Brazil",
         "Haaland",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0938\u0902\u0918",
+        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
         "Vini",
-        "Gabriel",
         "Ancelotti",
+        "\u092c\u093e\u092c\u0942 \u091c\u0917\u091c\u0940\u0935\u0928 \u0930\u093e\u092e",
+        "Gabriel",
         "Nyland",
-        "Endrick",
-        "Vikings",
-        "Odegaard",
-        "Cunha"
+        "Vikings"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 05 2026 23:00:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 01:36:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Brazil",
         "Haaland",
         "Neymar",
         "Ancelotti",
         "Joao Pedro",
-        "Endrick",
         "Vini",
-        "#BRANOR",
+        "Endrick",
         "Vikings",
+        "#BRANOR",
         "Odegaard",
-        "Cunha"
+        "Pickford"
       ],
       "hashtags": [
-        "#BRANOR"
+        "#BRANOR",
+        "#MEXENG"
       ],
       "regular_topics": [
         "Brazil",
@@ -182,12 +190,12 @@
         "Neymar",
         "Ancelotti",
         "Joao Pedro",
-        "Endrick",
         "Vini",
+        "Endrick",
         "Vikings",
         "Odegaard",
-        "Cunha",
-        "Nyland"
+        "Pickford",
+        "Cunha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
