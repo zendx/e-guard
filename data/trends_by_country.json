@@ -1,56 +1,57 @@
 {
-  "generated_at_utc": "2026-07-06T22:42:24.494418+00:00",
+  "generated_at_utc": "2026-07-06T23:54:53.052466+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 06 2026 22:21:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 23:12:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Platner",
         "Ronaldo",
+        "Portugal",
         "Spain",
         "Maine",
-        "Roberto Martinez",
         "Susan Collins",
-        "Merino",
         "Belgium",
-        "Mills",
-        "Troy Jackson",
-        "Charlie"
+        "Roberto Martinez",
+        "Merino",
+        "The Nazi",
+        "Mills"
       ],
       "hashtags": [
+        "#USMNT",
         "#WhiteHouseBarbie",
-        "#PORESP",
-        "#MeToo"
+        "#MeToo",
+        "#PORESP"
       ],
       "regular_topics": [
         "Platner",
         "Ronaldo",
+        "Portugal",
         "Spain",
         "Maine",
-        "Roberto Martinez",
         "Susan Collins",
-        "Merino",
         "Belgium",
-        "Mills",
-        "Troy Jackson",
-        "Charlie"
+        "Roberto Martinez",
+        "Merino",
+        "The Nazi",
+        "Mills"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 06 2026 21:56:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 22:48:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
         "Portugal",
         "Roberto Martinez",
-        "#PORSPA",
         "Merino",
+        "#PORSPA",
         "Jasmine",
-        "Lorenzo",
         "Bruno Fernandes",
+        "Lorenzo",
         "Bernardo Silva",
         "Rodri",
         "Vitinha"
@@ -59,8 +60,8 @@
         "#PORSPA",
         "#PORESP",
         "#ESPPOR",
-        "#SPAPOR",
-        "#loveislandthedebrief"
+        "#USABEL",
+        "#BTS_AR\u0130RANG_LONDON"
       ],
       "regular_topics": [
         "Ronaldo",
@@ -68,30 +69,30 @@
         "Roberto Martinez",
         "Merino",
         "Jasmine",
-        "Lorenzo",
         "Bruno Fernandes",
+        "Lorenzo",
         "Bernardo Silva",
         "Rodri",
         "Vitinha",
-        "Yamal"
+        "Portuguese"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 06 2026 21:48:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 23:32:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
-        "Spain",
+        "Portugal",
+        "Platner",
+        "Belgium",
         "Merino",
         "Roberto Martinez",
+        "Demar",
         "#PORESP",
-        "Platner",
+        "Vitinha",
         "Nuno Mendes",
-        "Belgium",
-        "Bernardo Silva",
-        "Yamal",
         "Bruno Fernandes"
       ],
       "hashtags": [
@@ -100,35 +101,35 @@
       ],
       "regular_topics": [
         "Ronaldo",
-        "Spain",
+        "Portugal",
+        "Platner",
+        "Belgium",
         "Merino",
         "Roberto Martinez",
-        "Platner",
+        "Demar",
+        "Vitinha",
         "Nuno Mendes",
-        "Belgium",
-        "Bernardo Silva",
-        "Yamal",
         "Bruno Fernandes",
-        "Vitinha"
+        "Bernardo Silva"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 06 2026 21:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 23:31:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spain",
+        "Ronaldo",
+        "Portugal",
         "#PORvsESP",
-        "Merino",
         "Roberto Martinez",
+        "Merino",
         "#PORESP",
         "#HappyBirthdayDhoni",
         "Ferran",
-        "Oyarzabal",
         "Nuno",
         "Lamine",
-        "Pedri"
+        "Oyarzabal"
       ],
       "hashtags": [
         "#PORvsESP",
@@ -136,58 +137,56 @@
         "#HappyBirthdayDhoni",
         "#ESPPOR",
         "#GOAT",
-        "#DanceProdigyRiki",
-        "#BELIFT_Treat_Riki_Fairly"
+        "#DanceProdigyRiki"
       ],
       "regular_topics": [
-        "Spain",
-        "Merino",
+        "Ronaldo",
+        "Portugal",
         "Roberto Martinez",
+        "Merino",
         "Ferran",
-        "Oyarzabal",
         "Nuno",
         "Lamine",
-        "Pedri",
+        "Oyarzabal",
         "Rodri",
-        "Vitinha",
-        "Bernardo"
+        "Pedri",
+        "Vitinha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 06 2026 21:44:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 06 2026 23:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
         "Merino",
-        "#PORESP",
         "Roberto Martinez",
-        "Mendes",
-        "#ESPPOR",
-        "Yamal",
+        "Portuguese",
         "Bruno Fernandes",
         "Vitinha",
-        "Portuguese",
-        "Bernardo Silva"
+        "Mendes",
+        "#PORESP",
+        "#ESPPOR",
+        "Yamal",
+        "Rodri"
       ],
       "hashtags": [
         "#PORESP",
-        "#ESPPOR",
-        "#PORSPA"
+        "#ESPPOR"
       ],
       "regular_topics": [
         "Ronaldo",
         "Merino",
         "Roberto Martinez",
-        "Mendes",
-        "Yamal",
+        "Portuguese",
         "Bruno Fernandes",
         "Vitinha",
-        "Portuguese",
-        "Bernardo Silva",
+        "Mendes",
+        "Yamal",
         "Rodri",
-        "Ferran Torres"
+        "Bernardo Silva",
+        "Ramos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
