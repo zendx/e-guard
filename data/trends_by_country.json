@@ -1,127 +1,127 @@
 {
-  "generated_at_utc": "2026-07-07T21:00:11.829632+00:00",
+  "generated_at_utc": "2026-07-07T22:10:43.051101+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 07 2026 20:04:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 21:48:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ApeAi",
         "Argentina",
-        "LovescapeAI",
         "Scott Jennings",
-        "Egipto",
-        "#bb28",
         "Colombia",
         "Mitch",
-        "#ARGEGY",
-        "FIFA",
+        "#bb28",
+        "Egipto",
+        "Switzerland",
         "#CFBPlayDontPay",
-        "#EGYARG"
+        "Chennedy Carter",
+        "Looney"
       ],
       "hashtags": [
+        "#ApeAi",
         "#bb28",
-        "#ARGEGY",
         "#CFBPlayDontPay",
-        "#EGYARG",
-        "#ARGxEGI"
+        "#ARGEGY",
+        "#SUICOL"
       ],
       "regular_topics": [
         "Argentina",
-        "LovescapeAI",
         "Scott Jennings",
-        "Egipto",
         "Colombia",
         "Mitch",
-        "FIFA",
+        "Egipto",
         "Switzerland",
-        "Enzo",
-        "Mo Salah",
-        "Ebonics"
+        "Chennedy Carter",
+        "Looney",
+        "Tyler",
+        "Angela",
+        "Greenland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 07 2026 20:30:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 21:21:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
+        "Egypt",
         "Count Binface",
         "Clacton",
-        "#ARGEGY",
+        "Jordan",
+        "Martha",
+        "Lola",
+        "Charleen",
         "Colombia",
-        "Priya",
-        "Hassan",
-        "Makerfield",
-        "#SUICOL",
-        "#EGYARG",
-        "Zico"
+        "#ARGEGY",
+        "Aiden"
       ],
       "hashtags": [
         "#ARGEGY",
         "#SUICOL",
         "#EGYARG",
         "#ENGvIND",
-        "#EastEnders"
+        "#F\u0131faworldcup"
       ],
       "regular_topics": [
         "Argentina",
+        "Egypt",
         "Count Binface",
         "Clacton",
+        "Jordan",
+        "Martha",
+        "Lola",
+        "Charleen",
         "Colombia",
-        "Priya",
-        "Hassan",
-        "Makerfield",
-        "Zico",
-        "Enzo",
-        "Romero",
-        "Marmoush"
+        "Aiden",
+        "Priya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 07 2026 20:21:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 21:15:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
-        "Alfie",
+        "Ukraine",
         "Colombia",
+        "Alfie",
         "Rogers",
-        "#ARGEGY",
         "Switzerland",
         "Greenland",
-        "FIFA",
-        "Daniel Alfredsson",
+        "#ARGEGY",
         "#bb28",
+        "Sens",
         "Mo Salah"
       ],
       "hashtags": [
         "#ARGEGY",
         "#bb28",
-        "#EGYARG",
         "#F\u0131faworldcup",
+        "#EGYARG",
         "#ARGvsEGY"
       ],
       "regular_topics": [
         "Argentina",
-        "Alfie",
+        "Ukraine",
         "Colombia",
+        "Alfie",
         "Rogers",
         "Switzerland",
         "Greenland",
-        "FIFA",
-        "Daniel Alfredsson",
+        "Sens",
         "Mo Salah",
         "Marmoush",
-        "Lautaro"
+        "Mitch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 07 2026 20:19:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 21:10:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Argentina",
@@ -129,10 +129,10 @@
         "#FIFA",
         "#EGYARG",
         "#CokeMatchDayHangout",
-        "Romero",
-        "Enzo",
         "Colombia",
-        "Paredes",
+        "Romero",
+        "YOUNG FOREVER",
+        "Enzo",
         "Gambhir"
       ],
       "hashtags": [
@@ -145,14 +145,14 @@
       "regular_topics": [
         "Messi",
         "Argentina",
-        "Romero",
-        "Enzo",
         "Colombia",
-        "Paredes",
-        "Gambhir",
-        "Prince Yadav",
-        "Lautaro",
+        "Romero",
         "YOUNG FOREVER",
+        "Enzo",
+        "Gambhir",
+        "Paredes",
+        "Djokovic",
+        "Alvarez",
         "Rigged"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 07 2026 20:18:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 21:09:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "#ARGEGY",
         "#EGYARG",
-        "Enzo Fernandez",
         "Colombia",
-        "Romero",
+        "Enzo Fernandez",
         "Rigged",
         "$PENGU",
-        "Pharaoh",
-        "Tears of Joy",
-        "Farouk"
+        "#F\u0131faworldcup",
+        "Romero",
+        "Hossam Hassan",
+        "#SUICOL"
       ],
       "hashtags": [
         "#ARGEGY",
         "#EGYARG",
         "#F\u0131faworldcup",
-        "#SUICOL",
-        "#ARGvsEGY"
+        "#SUICOL"
       ],
       "regular_topics": [
         "Messi",
-        "Enzo Fernandez",
         "Colombia",
-        "Romero",
+        "Enzo Fernandez",
         "Rigged",
         "$PENGU",
-        "Pharaoh",
-        "Tears of Joy",
+        "Romero",
+        "Hossam Hassan",
+        "Infantino",
         "Farouk",
-        "Hassan",
-        "Zico"
+        "Pharaoh",
+        "ICPC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
