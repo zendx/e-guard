@@ -1,107 +1,105 @@
 {
-  "generated_at_utc": "2026-07-07T09:19:40.207176+00:00",
+  "generated_at_utc": "2026-07-07T12:12:50.107403+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 07 2026 08:42:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 11:24:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Belgium",
-        "Sami",
-        "Platner",
-        "Pulisic",
-        "USMNT",
-        "#WWERaw",
-        "Punk",
+        "Good Tuesday",
         "#ZatimaOnParamountPlus",
+        "Sami",
+        "Punk",
+        "Damascus",
+        "Pulisic",
+        "Inception Wrapped",
+        "Macron",
         "Rushing",
-        "Freese",
-        "Team USA"
+        "THE GAMBLER",
+        "Ringo Starr"
       ],
       "hashtags": [
-        "#WWERaw",
         "#ZatimaOnParamountPlus",
-        "#ETTD",
-        "#USABEL"
+        "#BTS_WORLDTOUR",
+        "#WeMustRise"
       ],
       "regular_topics": [
-        "Belgium",
+        "Good Tuesday",
         "Sami",
-        "Platner",
-        "Pulisic",
-        "USMNT",
         "Punk",
+        "Damascus",
+        "Pulisic",
+        "Inception Wrapped",
+        "Macron",
         "Rushing",
-        "Freese",
-        "Team USA",
-        "Tanner Scott",
-        "Soccer"
+        "THE GAMBLER",
+        "Ringo Starr",
+        "Everything Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 07 2026 08:16:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 11:51:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
-        "Trump",
-        "Belgian",
-        "#thicktrunktuesday",
-        "Justice",
-        "Karma",
+        "Nigel",
+        "Resign",
+        "#thismorning",
         "Sky News",
-        "#USABEL",
-        "Sean Steur",
-        "#TongueOutTuesday",
-        "Sami"
+        "Gulf",
+        "Onana",
+        "ADHD",
+        "Call a GE",
+        "Pads",
+        "#popmaster"
       ],
       "hashtags": [
-        "#thicktrunktuesday",
-        "#USABEL",
+        "#thismorning",
+        "#popmaster",
+        "#WorldChocolateDay",
         "#TongueOutTuesday",
-        "#USMNT",
-        "#BELUSA",
-        "#WWERaw"
+        "#thicktrunktuesday"
       ],
       "regular_topics": [
         "Belgium",
-        "Trump",
-        "Belgian",
-        "Justice",
-        "Karma",
+        "Nigel",
+        "Resign",
         "Sky News",
-        "Sean Steur",
-        "Sami",
-        "Ajax",
-        "Balogun",
-        "USA 4-1"
+        "Gulf",
+        "Onana",
+        "ADHD",
+        "Call a GE",
+        "Pads",
+        "Alfie Devine",
+        "Damascus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 07 2026 09:00:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 11:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Belgium",
         "FIFA",
         "Balogun",
         "Trump",
         "Infantino",
+        "#CrownCoins",
         "Spain",
         "Belgian",
-        "Lukaku",
         "Ronaldo",
-        "#USMNT",
-        "#USABEL"
+        "Lukaku",
+        "Switzerland vs Colombia"
       ],
       "hashtags": [
+        "#CrownCoins",
         "#USMNT",
         "#USABEL",
         "#WWERaw",
-        "#BELUSA",
-        "#MEXENG"
+        "#GuessTheScore"
       ],
       "regular_topics": [
         "Belgium",
@@ -111,84 +109,87 @@
         "Infantino",
         "Spain",
         "Belgian",
-        "Lukaku",
         "Ronaldo",
-        "Platner",
-        "My $ANSEM"
+        "Lukaku",
+        "Switzerland vs Colombia",
+        "Platner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 07 2026 08:57:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 11:40:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#EkPedMaaKeNaam",
+        "#Phone4B",
         "#FlipkartFoodFest2026",
-        "#DunSIRCampbySiddharth",
-        "#MoveUP",
-        "#HisenseIndia",
-        "Rekha Gupta",
+        "#Wayanad",
+        "#Dhamaal4",
+        "#EkPedMaaKeNaam",
         "Indonesia",
-        "Prime Day",
-        "Hisense E8S",
-        "Bintang Adipurna",
-        "\u092b\u094b\u091f\u094b \u0938\u0947\u0935\u093e"
+        "A. 6000mAh",
+        "Nothing Phone",
+        "Unwanted",
+        "Shapoor Zadran",
+        "Bintang Adipurna"
       ],
       "hashtags": [
-        "#EkPedMaaKeNaam",
+        "#Phone4B",
         "#FlipkartFoodFest2026",
-        "#DunSIRCampbySiddharth",
-        "#MoveUP",
-        "#HisenseIndia"
+        "#Wayanad",
+        "#Dhamaal4",
+        "#EkPedMaaKeNaam"
       ],
       "regular_topics": [
-        "Rekha Gupta",
         "Indonesia",
-        "Prime Day",
-        "Hisense E8S",
+        "A. 6000mAh",
+        "Nothing Phone",
+        "Unwanted",
+        "Shapoor Zadran",
         "Bintang Adipurna",
-        "\u092b\u094b\u091f\u094b \u0938\u0947\u0935\u093e",
-        "\u092b\u094b\u091f\u094b \u0938\u0941\u0935\u093f\u0927\u093e",
-        "Bhushan Bhai",
-        "Damascus",
-        "SIR Support Camps",
-        "\u0915\u0948\u092a\u094d\u091f\u0928 \u0935\u093f\u0915\u094d\u0930\u092e \u092c\u0924\u094d\u0930\u093e"
+        "B. Eye Candy",
+        "Background",
+        "Endless",
+        "C. Blue",
+        "B. 16MP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 07 2026 08:56:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 07 2026 11:39:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "IT IS SETTLED",
-        "Carter Efe",
+        "#NoCaseNoWahala",
+        "Anna",
         "$SUNUSI",
-        "Taco Tuesday",
-        "Belgium",
         "Paris FC",
-        "Ali Modu Sheriff",
-        "Kai Cenat",
-        "Amadou Onana",
         "Liam Rosenior",
-        "The African Bull"
+        "Carter",
+        "The African Bull",
+        "Ali Modu Sheriff",
+        "Happy Davido",
+        "Argentina vs Egypt",
+        "Kai Cenat"
       ],
       "hashtags": [
+        "#NoCaseNoWahala",
+        "#sal\u0131",
+        "#Mbapp\u00e9",
         "#Valko"
       ],
       "regular_topics": [
-        "IT IS SETTLED",
-        "Carter Efe",
+        "Anna",
         "$SUNUSI",
-        "Taco Tuesday",
-        "Belgium",
         "Paris FC",
-        "Ali Modu Sheriff",
-        "Kai Cenat",
-        "Amadou Onana",
         "Liam Rosenior",
-        "The African Bull"
+        "Carter",
+        "The African Bull",
+        "Ali Modu Sheriff",
+        "Happy Davido",
+        "Argentina vs Egypt",
+        "Kai Cenat",
+        "Motivated"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
