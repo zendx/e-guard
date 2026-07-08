@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-07-07T23:26:19.631312+00:00",
+  "generated_at_utc": "2026-07-08T00:57:09.475663+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 07 2026 22:44:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 00:27:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ApeAi",
         "Colombia",
-        "Argentina",
-        "Egypt",
-        "Scott Jennings",
         "Mitch",
-        "#bb28",
-        "Djokovic",
-        "Chennedy Carter",
-        "#CFBPlayDontPay",
-        "Egipto"
+        "Will Warren",
+        "#ApeAi",
+        "Scott Jennings",
+        "Messi",
+        "Egypt",
+        "Suiza",
+        "Ryan O'Hearn",
+        "Senga",
+        "Tyler"
       ],
       "hashtags": [
         "#ApeAi",
-        "#bb28",
         "#CFBPlayDontPay",
+        "#bb28",
         "#SUICOL",
-        "#fifaworld2026"
+        "#AGT"
       ],
       "regular_topics": [
         "Colombia",
-        "Argentina",
-        "Egypt",
-        "Scott Jennings",
         "Mitch",
-        "Djokovic",
-        "Chennedy Carter",
-        "Egipto",
-        "Looney",
+        "Will Warren",
+        "Scott Jennings",
+        "Messi",
+        "Egypt",
+        "Suiza",
+        "Ryan O'Hearn",
+        "Senga",
         "Tyler",
-        "Twiggs"
+        "Swiss"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 07 2026 23:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 00:00:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Switzerland",
         "#SUICOL",
         "Count Binface",
-        "Akanji",
         "Egypt",
-        "Djokovic",
+        "Akanji",
         "Clacton",
+        "Djokovic",
         "Swiss",
+        "Sanchez",
         "Lola",
-        "Mara",
-        "Sanchez"
+        "Jordan"
       ],
       "hashtags": [
         "#SUICOL",
@@ -63,137 +63,141 @@
         "#Newsnight",
         "#F\u0131faworldcup",
         "#ARGEGY",
-        "#EGYARG"
+        "#BTS_AR\u0130RANG_LONDON"
       ],
       "regular_topics": [
         "Switzerland",
         "Count Binface",
-        "Akanji",
         "Egypt",
-        "Djokovic",
+        "Akanji",
         "Clacton",
+        "Djokovic",
         "Swiss",
-        "Lola",
-        "Mara",
         "Sanchez",
-        "Martha"
+        "Lola",
+        "Jordan",
+        "Aidan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 07 2026 23:00:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 00:44:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Switzerland",
-        "Colombia",
         "Argentina",
+        "Colombia",
         "Ukraine",
+        "Egypt",
         "Swiss",
-        "#SUICOL",
-        "Greenland",
-        "Felix",
-        "Novak",
         "Rogers",
-        "Alfie"
+        "#SUICOL",
+        "Mitch McConnell",
+        "Felix",
+        "Greenland"
       ],
       "hashtags": [
         "#SUICOL",
         "#Wimbledon",
         "#bb28",
-        "#F\u0131faworldcup",
-        "#ARGEGY",
-        "#EGYARG"
+        "#F\u0131faworldcup"
       ],
       "regular_topics": [
         "Switzerland",
-        "Colombia",
         "Argentina",
+        "Colombia",
         "Ukraine",
+        "Egypt",
         "Swiss",
-        "Greenland",
-        "Felix",
-        "Novak",
         "Rogers",
-        "Alfie",
-        "Mitch"
+        "Mitch McConnell",
+        "Felix",
+        "Greenland",
+        "Alfie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 07 2026 22:57:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 00:42:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
         "Switzerland",
+        "#GodMorningWednesday",
+        "FIFA",
         "#ENGvsIND",
-        "#FIFA",
+        "Bandar Abbas",
         "#ARGvsEGY",
+        "Novak Djokovic",
         "#EGYARG",
-        "Novak",
-        "#ARGEGY",
-        "Young Forever",
-        "Romero",
-        "Alvarez"
+        "#SUICOL",
+        "Swiss"
       ],
       "hashtags": [
+        "#GodMorningWednesday",
         "#ENGvsIND",
-        "#FIFA",
         "#ARGvsEGY",
         "#EGYARG",
-        "#ARGEGY"
+        "#SUICOL",
+        "#Wimbledon",
+        "#IndiaWillBecomeTheGoldenBird",
+        "#ARGEGY",
+        "#77thYSRJayanthi",
+        "#BOYCOTT_BELIFTLAB_AND_HYBE",
+        "#ENGENE_For_sevEN"
       ],
       "regular_topics": [
         "Argentina",
         "Switzerland",
-        "Novak",
-        "Young Forever",
+        "FIFA",
+        "Bandar Abbas",
+        "Novak Djokovic",
+        "Swiss",
         "Romero",
         "Alvarez",
         "Enzo",
         "Paredes",
-        "Gambhir",
-        "Felix",
-        "Rigged"
+        "Felix"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 07 2026 22:56:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 00:40:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Argentina",
+        "Switzerland",
+        "FIFA",
         "Akanji",
-        "#SUICOL",
-        "Vargas",
+        "$FROG",
         "Swiss",
-        "#ARGEGY",
-        "Rigged",
+        "#SUICOL",
+        "$LYNK",
         "#F\u0131faworldcup",
-        "Luis Diaz",
-        "#EGYARG",
-        "$PENGU"
+        "Fulham",
+        "Gregor Kobel",
+        "Rigged"
       ],
       "hashtags": [
         "#SUICOL",
-        "#ARGEGY",
         "#F\u0131faworldcup",
+        "#ARGEGY",
         "#EGYARG"
       ],
       "regular_topics": [
-        "Argentina",
+        "Switzerland",
+        "FIFA",
         "Akanji",
-        "Vargas",
+        "$FROG",
         "Swiss",
+        "$LYNK",
+        "Fulham",
+        "Gregor Kobel",
         "Rigged",
         "Luis Diaz",
-        "$PENGU",
-        "Enzo Fernandez",
-        "Hossam Hassan",
-        "Djokovic",
-        "ICPC"
+        "Vargas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
