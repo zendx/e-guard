@@ -1,93 +1,88 @@
 {
-  "generated_at_utc": "2026-07-08T11:20:39.847627+00:00",
+  "generated_at_utc": "2026-07-08T12:56:21.310731+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 08 2026 10:51:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 12:33:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#peai",
-        "#Fran\u00e7ois_Letexier_unfair",
         "Good Wednesday",
-        "winwin",
-        "Doran",
-        "#HudsonxBalenciaga",
         "Hump Day",
-        "Robinhood",
-        "Mario Kart Tour",
-        "#MSI2026",
-        "Peyz"
+        "NATO",
+        "#HudsonxBalenciaga",
+        "winwin",
+        "Happy Hump",
+        "#WednesdayMotivation",
+        "Rutte",
+        "#Fran\u00e7ois_Letexier_unfair",
+        "Mario Kart Tour"
       ],
       "hashtags": [
         "#peai",
-        "#Fran\u00e7ois_Letexier_unfair",
         "#HudsonxBalenciaga",
-        "#MSI2026",
-        "#RUN_TO_YOU",
-        "#AHOF",
-        "#DigimonUPComing0715",
-        "#newllithealings",
-        "#PSDDevils2Years2gether",
-        "#XAUUSD",
-        "#BOYCOTT_BELIFTLAB_AND_HYBE"
+        "#WednesdayMotivation",
+        "#Fran\u00e7ois_Letexier_unfair",
+        "#PutThatInYourPipe"
       ],
       "regular_topics": [
         "Good Wednesday",
-        "winwin",
-        "Doran",
         "Hump Day",
-        "Robinhood",
+        "NATO",
+        "winwin",
+        "Happy Hump",
+        "Rutte",
         "Mario Kart Tour",
-        "Peyz",
-        "Bahrain",
-        "Grok 4.5",
-        "$CASHCAT",
-        "Hudson Williams"
+        "Doran",
+        "Robinhood",
+        "Greenland",
+        "Grok 4.5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 08 2026 10:28:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 12:12:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PMQs",
         "Count Binface",
         "Clacton",
-        "#popmaster",
-        "Rutte",
+        "#politicslive",
+        "#thismorning",
+        "David Lammy",
+        "#stateoforigin",
         "Makerfield",
-        "#RoseWednesday",
-        "winwin",
-        "Virgin Media",
-        "Establishment",
-        "Ed Davey",
-        "#thismorning"
+        "Rutte",
+        "#HudsonxBalenciaga",
+        "Katie Price"
       ],
       "hashtags": [
-        "#popmaster",
-        "#RoseWednesday",
+        "#PMQs",
+        "#politicslive",
         "#thismorning",
-        "#r4today"
+        "#stateoforigin",
+        "#HudsonxBalenciaga"
       ],
       "regular_topics": [
         "Count Binface",
         "Clacton",
-        "Rutte",
+        "David Lammy",
         "Makerfield",
-        "winwin",
-        "Virgin Media",
+        "Rutte",
+        "Katie Price",
+        "Jess Phillips",
         "Establishment",
-        "Ed Davey",
+        "James Cleverly",
         "Suella",
-        "Huw Edwards",
-        "No World Cup"
+        "'IF'"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 08 2026 11:12:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 12:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
         "Messi",
@@ -97,13 +92,13 @@
         "Trump",
         "Rogers",
         "Switzerland",
-        "Platner",
         "NATO",
-        "Colombia"
+        "Greenland",
+        "Platner"
       ],
       "hashtags": [
-        "#HudsonxBalenciaga",
         "#ARGEGY",
+        "#HudsonxBalenciaga",
         "#BB28",
         "#EGYARG",
         "#USABEL"
@@ -117,86 +112,87 @@
         "Trump",
         "Rogers",
         "Switzerland",
-        "Platner",
         "NATO",
-        "Colombia"
+        "Greenland",
+        "Platner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 08 2026 11:07:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 12:48:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#No1PanIndiaMusicstar",
         "#PropogandaAgainstGadkari",
         "#BankipurKaLaalAbhishek",
-        "#Samsung",
-        "#FlipkartFoodFestSeason3",
+        "#StockReversalAlert",
         "#NewShapeOfGalaxy",
         "Riding",
+        "Protection",
+        "Warranty",
         "Smooth",
-        "Riders",
-        "Innovation",
-        "Reliable",
-        "Ashnisha Industries"
+        "Coverage",
+        "Riders"
       ],
       "hashtags": [
+        "#No1PanIndiaMusicstar",
         "#PropogandaAgainstGadkari",
         "#BankipurKaLaalAbhishek",
-        "#Samsung",
-        "#FlipkartFoodFestSeason3",
+        "#StockReversalAlert",
         "#NewShapeOfGalaxy"
       ],
       "regular_topics": [
         "Riding",
+        "Protection",
+        "Warranty",
         "Smooth",
+        "Coverage",
         "Riders",
-        "Innovation",
         "Reliable",
-        "Ashnisha Industries",
-        "Nitin Gadkari ji",
-        "Iran",
-        "\u0905\u092d\u093f\u0937\u0947\u0915 \u0915\u0941\u092e\u093e\u0930 \u0938\u093f\u0928\u094d\u0939\u093e",
-        "Abhishek Kumar Sinha",
-        "\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0936\u093f\u0915\u094d\u0937\u0915"
+        "\u0932\u0932\u093f\u0924 \u0915\u0941\u092e\u093e\u0930",
+        "ARTO",
+        "Trump",
+        "Extended"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 08 2026 11:07:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 11:57:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Robinhood",
         "#FITCESG2026",
-        "Zion",
-        "Ikenga",
+        "#ProjectsFCT2026",
+        "Fran Garc\u00eda",
+        "Betis",
         "Ojoo",
+        "Carreras",
         "Ponzi",
-        "#Sportybetscam",
-        "Bernice",
+        "Zion",
         "$CASHCAT",
-        "Jesse Derry",
-        "$NYX"
+        "Bernice"
       ],
       "hashtags": [
         "#FITCESG2026",
+        "#ProjectsFCT2026",
+        "#Origin",
         "#Sportybetscam",
-        "#WIZARD",
-        "#ForexTrader"
+        "#WIZARD"
       ],
       "regular_topics": [
         "Robinhood",
-        "Zion",
-        "Ikenga",
+        "Fran Garc\u00eda",
+        "Betis",
         "Ojoo",
+        "Carreras",
         "Ponzi",
-        "Bernice",
+        "Zion",
         "$CASHCAT",
-        "Jesse Derry",
-        "$NYX",
-        "Kepa",
-        "THE MERCY OF GOD HAS PREVAILED"
+        "Bernice",
+        "Ikenga",
+        "El Rufai"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
