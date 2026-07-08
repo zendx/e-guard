@@ -1,39 +1,38 @@
 {
-  "generated_at_utc": "2026-07-08T22:29:16.468761+00:00",
+  "generated_at_utc": "2026-07-08T23:35:12.354274+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 08 2026 22:08:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 23:00:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Dylan Cease",
         "Fallout",
         "Grok 4.5",
         "Avowed",
-        "Dylan Cease",
-        "Emmy",
         "Dune",
+        "Air Force One",
+        "Emmy",
         "Islamic Republic of Japan",
         "Ryan Walker",
-        "Logan Webb",
         "Chabahar",
-        "#HoodiesOn"
+        "Josh Sawyer"
       ],
       "hashtags": [
-        "#HoodiesOn",
-        "#mcrlondon",
         "#CFBPlayDontPay",
-        "#momson"
+        "#HoodiesOn",
+        "#mcrlondon"
       ],
       "regular_topics": [
+        "Dylan Cease",
         "Fallout",
         "Grok 4.5",
         "Avowed",
-        "Dylan Cease",
-        "Emmy",
         "Dune",
+        "Air Force One",
+        "Emmy",
         "Islamic Republic of Japan",
         "Ryan Walker",
-        "Logan Webb",
         "Chabahar",
         "Josh Sawyer"
       ],
@@ -42,7 +41,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 08 2026 21:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 22:33:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Julia",
         "Lola",
@@ -50,16 +49,18 @@
         "Priya",
         "Baleba",
         "#NUFC",
-        "Ederson",
         "Isak",
+        "Ederson",
         "Howe",
-        "Finley",
-        "Tchouameni"
+        "Tchouameni",
+        "Bruno G"
       ],
       "hashtags": [
         "#NUFC",
         "#HoodiesOn",
-        "#HowToGetFilthyRich"
+        "#Newsnight",
+        "#HowToGetFilthyRich",
+        "#mcrlondon"
       ],
       "regular_topics": [
         "Julia",
@@ -67,135 +68,126 @@
         "Martha",
         "Priya",
         "Baleba",
-        "Ederson",
         "Isak",
+        "Ederson",
         "Howe",
-        "Finley",
         "Tchouameni",
-        "Bruno G"
+        "Bruno G",
+        "Finley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 08 2026 21:34:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 23:18:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Dylan Cease",
         "Argentina",
+        "Egypt",
         "Ukraine",
         "NATO",
+        "Ramos",
         "Messi",
-        "Greenland",
-        "Rogers",
         "Iran",
-        "World Cup",
-        "Platner",
-        "FIFA",
-        "Islamic Republic of Japan"
+        "Greenland",
+        "#BlueJays50",
+        "Rogers"
       ],
       "hashtags": [
-        "#USABEL",
+        "#BlueJays50",
         "#ARGEGY",
         "#linglingbadiorbeauty",
-        "#SUICOL",
-        "#bb28"
+        "#SUICOL"
       ],
       "regular_topics": [
+        "Dylan Cease",
         "Argentina",
+        "Egypt",
         "Ukraine",
         "NATO",
+        "Ramos",
         "Messi",
+        "Iran",
         "Greenland",
         "Rogers",
-        "Iran",
-        "World Cup",
-        "Platner",
-        "FIFA",
-        "Islamic Republic of Japan"
+        "World Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 08 2026 21:32:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 23:15:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Grok 4.5",
-        "WE SUPPORT AKANKSHA",
-        "Chelsea",
-        "Chabahar",
-        "#Fight_For_SevEN",
-        "Ederson",
-        "#Monetary_Boycott_HYBE",
-        "Andrey Santos",
-        "Happy ARMY",
-        "ARMY Day",
-        "Dune 3"
+        "Argentina",
+        "Messi",
+        "#FlipkartFoodFestSeason3",
+        "#BankipurKaLaalAbhishek",
+        "#yogicashlesschikitsa",
+        "#IndiaWillBecomeTheGoldenBird",
+        "#DadaFirstLook",
+        "Galaxy Unpacked",
+        "ashnisha industries",
+        "Factful Debates YtChannel",
+        "Iran"
       ],
       "hashtags": [
-        "#Fight_For_SevEN",
-        "#Monetary_Boycott_HYBE",
-        "#PeachAndMeSeriesLastQ",
-        "#HappyBirthdayARMY",
-        "#ShreyaKalra",
-        "#MUFC",
-        "#PeddiOnNetflix",
-        "#WhenOrangesFallEP9",
-        "#IranWar",
-        "#ShilpaShinde",
-        "#PSDDevils2Years2gether"
+        "#FlipkartFoodFestSeason3",
+        "#BankipurKaLaalAbhishek",
+        "#yogicashlesschikitsa",
+        "#IndiaWillBecomeTheGoldenBird",
+        "#DadaFirstLook"
       ],
       "regular_topics": [
-        "Grok 4.5",
-        "WE SUPPORT AKANKSHA",
-        "Chelsea",
-        "Chabahar",
-        "Ederson",
-        "Andrey Santos",
-        "Happy ARMY",
-        "ARMY Day",
-        "Dune 3",
-        "Tchouameni",
-        "Justin Bieber"
+        "Argentina",
+        "Messi",
+        "Galaxy Unpacked",
+        "ashnisha industries",
+        "Factful Debates YtChannel",
+        "Iran",
+        "FIFA",
+        "Indonesia",
+        "Trump",
+        "naturite agro",
+        "WE SUPPORT AKANKSHA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 08 2026 21:31:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 08 2026 23:15:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Andrey Santos",
+        "Karim Adeyemi",
         "Manchester United",
-        "Justin Bieber",
-        "Baleba",
+        "Andrey Santos",
         "Newcastle",
-        "Ederson",
-        "Garnacho",
+        "Baleba",
+        "Justin Bieber",
         "Maduka Okoye",
+        "Cardi",
+        "Ederson",
         "Man U",
-        "Lavia",
-        "Geovany Quenda"
+        "Bruno Guimar\u00e3es"
       ],
       "hashtags": [
         "#MUFC",
         "#skel",
-        "#ericanlewedimxSamsung",
-        "#BetKingStreamFest",
-        "#BelongWithMSport"
+        "#ericanlewedimxSamsung"
       ],
       "regular_topics": [
-        "Andrey Santos",
+        "Karim Adeyemi",
         "Manchester United",
-        "Justin Bieber",
-        "Baleba",
+        "Andrey Santos",
         "Newcastle",
-        "Ederson",
-        "Garnacho",
+        "Baleba",
+        "Justin Bieber",
         "Maduka Okoye",
+        "Cardi",
+        "Ederson",
         "Man U",
-        "Lavia",
-        "Geovany Quenda"
+        "Bruno Guimar\u00e3es"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
