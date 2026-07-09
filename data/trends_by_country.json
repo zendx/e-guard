@@ -1,193 +1,195 @@
 {
-  "generated_at_utc": "2026-07-08T23:35:12.354274+00:00",
+  "generated_at_utc": "2026-07-09T01:28:06.609598+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 08 2026 23:00:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 00:45:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dylan Cease",
+        "#AEWDynamite",
+        "Tanner Banks",
+        "Ciampa",
+        "Joey Bart",
+        "Jared Jones",
+        "Jericho",
+        "#AEWBeachBreak",
         "Fallout",
         "Grok 4.5",
-        "Avowed",
-        "Dune",
-        "Air Force One",
-        "Emmy",
-        "Islamic Republic of Japan",
-        "Ryan Walker",
-        "Chabahar",
-        "Josh Sawyer"
+        "Obsidian",
+        "Don Kelly"
       ],
       "hashtags": [
+        "#AEWDynamite",
+        "#AEWBeachBreak",
         "#CFBPlayDontPay",
-        "#HoodiesOn",
-        "#mcrlondon"
+        "#cinemzel26"
       ],
       "regular_topics": [
-        "Dylan Cease",
+        "Tanner Banks",
+        "Ciampa",
+        "Joey Bart",
+        "Jared Jones",
+        "Jericho",
         "Fallout",
         "Grok 4.5",
-        "Avowed",
-        "Dune",
-        "Air Force One",
-        "Emmy",
-        "Islamic Republic of Japan",
-        "Ryan Walker",
-        "Chabahar",
-        "Josh Sawyer"
+        "Obsidian",
+        "Don Kelly",
+        "Dylan Cease",
+        "Air Force One"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 08 2026 22:33:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 01:12:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Julia",
         "Lola",
+        "#AEWDynamite",
+        "#mcrlondon",
         "Martha",
-        "Priya",
         "Baleba",
-        "#NUFC",
         "Isak",
+        "Priya",
+        "#LoveIslandDebrief",
         "Ederson",
-        "Howe",
-        "Tchouameni",
-        "Bruno G"
+        "Adeyemi"
       ],
       "hashtags": [
+        "#AEWDynamite",
+        "#mcrlondon",
+        "#LoveIslandDebrief",
         "#NUFC",
-        "#HoodiesOn",
-        "#Newsnight",
-        "#HowToGetFilthyRich",
-        "#mcrlondon"
+        "#HoodiesOn"
       ],
       "regular_topics": [
         "Julia",
         "Lola",
         "Martha",
-        "Priya",
         "Baleba",
         "Isak",
+        "Priya",
         "Ederson",
+        "Adeyemi",
         "Howe",
-        "Tchouameni",
-        "Bruno G",
-        "Finley"
+        "Fitzy",
+        "Bruno G"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 08 2026 23:18:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 01:01:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dylan Cease",
-        "Argentina",
         "Egypt",
+        "Argentina",
         "Ukraine",
         "NATO",
-        "Ramos",
-        "Messi",
+        "Dylan Cease",
         "Iran",
+        "#AEWDynamite",
         "Greenland",
-        "#BlueJays50",
-        "Rogers"
+        "Messi",
+        "Rogers",
+        "World Cup"
       ],
       "hashtags": [
+        "#AEWDynamite",
         "#BlueJays50",
         "#ARGEGY",
         "#linglingbadiorbeauty",
         "#SUICOL"
       ],
       "regular_topics": [
-        "Dylan Cease",
-        "Argentina",
         "Egypt",
+        "Argentina",
         "Ukraine",
         "NATO",
-        "Ramos",
-        "Messi",
+        "Dylan Cease",
         "Iran",
         "Greenland",
+        "Messi",
         "Rogers",
-        "World Cup"
+        "World Cup",
+        "Platner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 08 2026 23:15:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 00:58:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#GodMorningThursday",
         "Argentina",
         "Messi",
+        "#bankipurkalaalabhishek",
         "#FlipkartFoodFestSeason3",
-        "#BankipurKaLaalAbhishek",
-        "#yogicashlesschikitsa",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "#IndiaWillBecomeTheGoldenBird",
-        "#DadaFirstLook",
+        "#YogiCashlessChikitsa",
         "Galaxy Unpacked",
         "ashnisha industries",
-        "Factful Debates YtChannel",
-        "Iran"
+        "Factful Debates YtChannel"
       ],
       "hashtags": [
+        "#GodMorningThursday",
+        "#bankipurkalaalabhishek",
         "#FlipkartFoodFestSeason3",
-        "#BankipurKaLaalAbhishek",
-        "#yogicashlesschikitsa",
         "#IndiaWillBecomeTheGoldenBird",
-        "#DadaFirstLook"
+        "#YogiCashlessChikitsa"
       ],
       "regular_topics": [
         "Argentina",
         "Messi",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "Galaxy Unpacked",
         "ashnisha industries",
         "Factful Debates YtChannel",
         "Iran",
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
         "FIFA",
         "Indonesia",
-        "Trump",
-        "naturite agro",
-        "WE SUPPORT AKANKSHA"
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 08 2026 23:15:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 00:58:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Karim Adeyemi",
-        "Manchester United",
-        "Andrey Santos",
-        "Newcastle",
-        "Baleba",
-        "Justin Bieber",
+        "Adeyemi",
+        "Cardi B",
         "Maduka Okoye",
-        "Cardi",
-        "Ederson",
-        "Man U",
-        "Bruno Guimar\u00e3es"
+        "Roony",
+        "Newcastle",
+        "Manchester United",
+        "$HOODIE",
+        "Baleba",
+        "Andrey Santos",
+        "Flick",
+        "Justin Bieber"
       ],
       "hashtags": [
-        "#MUFC",
         "#skel",
-        "#ericanlewedimxSamsung"
+        "#MUFC",
+        "#FranceVsMorocco"
       ],
       "regular_topics": [
-        "Karim Adeyemi",
-        "Manchester United",
-        "Andrey Santos",
-        "Newcastle",
-        "Baleba",
-        "Justin Bieber",
+        "Adeyemi",
+        "Cardi B",
         "Maduka Okoye",
-        "Cardi",
-        "Ederson",
-        "Man U",
-        "Bruno Guimar\u00e3es"
+        "Roony",
+        "Newcastle",
+        "Manchester United",
+        "$HOODIE",
+        "Baleba",
+        "Andrey Santos",
+        "Flick",
+        "Justin Bieber"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
