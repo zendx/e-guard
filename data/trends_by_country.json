@@ -1,197 +1,195 @@
 {
-  "generated_at_utc": "2026-07-09T16:58:09.758786+00:00",
+  "generated_at_utc": "2026-07-09T18:47:11.284418+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 09 2026 16:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 18:00:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coco",
-        "Muchova",
-        "#LastKissDay",
         "Little Italy",
-        "Bonnie Tyler",
         "Italians",
-        "Total Eclipse of the Heart",
+        "Lance Twiggs",
+        "Jim Jarvis",
         "#teenagee",
+        "Bonnie Tyler",
         "#momson",
-        "Muse Spark 1.1",
-        "#UltimateBiasChoiSan"
+        "ChatGPT Work",
+        "Mitch Keller",
+        "#LastKissDay"
       ],
       "hashtags": [
-        "#LastKissDay",
         "#teenagee",
         "#momson",
+        "#LastKissDay",
         "#UltimateBiasChoiSan",
         "#OMEGAXTOUR"
       ],
       "regular_topics": [
         "Coco",
-        "Muchova",
         "Little Italy",
-        "Bonnie Tyler",
         "Italians",
-        "Total Eclipse of the Heart",
+        "Lance Twiggs",
+        "Jim Jarvis",
+        "Bonnie Tyler",
+        "ChatGPT Work",
+        "Mitch Keller",
         "Muse Spark 1.1",
-        "LAMRON",
-        "Good Thursday",
-        "Jordan Clarkson",
-        "Holding Out for a Hero"
+        "Muchova",
+        "Zuck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 09 2026 16:40:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 18:24:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dunblane",
+        "Darlow",
+        "Meateor",
+        "Jarell Quansah",
+        "Perri",
+        "Vitek",
+        "Baloguns",
         "Muchova",
         "Coco",
-        "Bonnie Tyler",
         "Muhammad",
-        "#oufc",
-        "Wasps",
-        "#thechase",
-        "Rebel's Romance",
-        "Dale Vince",
-        "Malik"
+        "Czech"
       ],
       "hashtags": [
         "#oufc",
+        "#ENGvIND",
         "#thechase",
-        "#wimbledon26",
         "#ITV7InItToWinIt",
-        "#AssassinsCreed"
+        "#londonmarathon"
       ],
       "regular_topics": [
         "Dunblane",
+        "Darlow",
+        "Meateor",
+        "Jarell Quansah",
+        "Perri",
+        "Vitek",
+        "Baloguns",
         "Muchova",
         "Coco",
-        "Bonnie Tyler",
         "Muhammad",
-        "Wasps",
-        "Rebel's Romance",
-        "Dale Vince",
-        "Malik",
-        "Lowe",
-        "Rogan"
+        "Czech"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 09 2026 16:32:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 18:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
         "NATO",
         "Iran",
-        "Coco",
         "Meta",
-        "Mark Leach",
         "Bonnie Tyler",
+        "Ducks",
         "Argentina",
+        "Leach",
         "Egypt",
-        "Muchova",
-        "Dylan Cease"
+        "Platner",
+        "FIFA"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#CanChamp",
-        "#TheValley",
-        "#FlashbackWilliamjkpMV"
+        "#TheValley"
       ],
       "regular_topics": [
         "Ukraine",
         "NATO",
         "Iran",
-        "Coco",
         "Meta",
-        "Mark Leach",
         "Bonnie Tyler",
+        "Ducks",
         "Argentina",
+        "Leach",
         "Egypt",
-        "Muchova",
-        "Dylan Cease"
+        "Platner",
+        "FIFA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 09 2026 16:30:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 18:12:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MbappeOnZEE5",
-        "#JanaNayagan",
-        "LAMRON",
-        "#GodNightThursday",
-        "Prasidh Krishna",
-        "#FlashbackWilliamjkpMV",
-        "#NissanTekton",
-        "Muse Spark 1.1",
+        "#ENGvsIND",
         "Washington Sundar",
-        "Selective Justice",
-        "Varun Chakravarthy"
+        "Shreyas Iyer",
+        "Jofra Archer",
+        "Ishan Kishan",
+        "AKKUSENA LOVES AKANKSHA",
+        "#MbappeOnZEE5",
+        "#FlashbackWilliamjkpMV",
+        "#JanaNayagan",
+        "#GodNightThursday",
+        "Muse Spark 1.1"
       ],
       "hashtags": [
+        "#ENGvsIND",
         "#MbappeOnZEE5",
-        "#JanaNayagan",
-        "#GodNightThursday",
         "#FlashbackWilliamjkpMV",
-        "#NissanTekton"
+        "#JanaNayagan",
+        "#GodNightThursday"
       ],
       "regular_topics": [
-        "LAMRON",
-        "Prasidh Krishna",
-        "Muse Spark 1.1",
         "Washington Sundar",
-        "Selective Justice",
-        "Varun Chakravarthy",
-        "NORMAL MV",
-        "REAL TRP AKANKSHA",
-        "\u092a\u094d\u0930\u0915\u093e\u0936 \u091a\u093f\u0915",
-        "\u0938\u0941\u0937\u094d\u092e\u093f\u0924\u093e \u0926\u0947\u0935",
-        "Morocco"
+        "Shreyas Iyer",
+        "Jofra Archer",
+        "Ishan Kishan",
+        "AKKUSENA LOVES AKANKSHA",
+        "Muse Spark 1.1",
+        "LAMRON",
+        "ChatGPT Work",
+        "Prasidh Krishna",
+        "Adil Rashid",
+        "Bristol"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 09 2026 16:28:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 18:12:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
-        "#SkukiVavavoom",
-        "#PBATDoorToDoor",
-        "#BetKingStreamFest",
-        "#EvilDeadBurnNG",
-        "Xabi Alonso",
-        "Coco",
-        "Emmanuel Amunike",
-        "Muchova",
+        "Which Icon",
+        "Karl Darlow",
         "DJ Chicken",
-        "#BinanceTurns9"
+        "Seyi Tinubu",
+        "#BetKingStreamFest",
+        "#SkukiVavavoom",
+        "Jarell Quansah",
+        "#GAYUMemeContest",
+        "Emmanuel Amunike",
+        "Bayindir"
       ],
       "hashtags": [
-        "#SkukiVavavoom",
-        "#PBATDoorToDoor",
         "#BetKingStreamFest",
-        "#EvilDeadBurnNG",
-        "#BinanceTurns9"
+        "#SkukiVavavoom",
+        "#GAYUMemeContest",
+        "#ilotbethouse",
+        "#PBATDoorToDoor"
       ],
       "regular_topics": [
         "Morocco",
-        "Xabi Alonso",
-        "Coco",
-        "Emmanuel Amunike",
-        "Muchova",
+        "Which Icon",
+        "Karl Darlow",
         "DJ Chicken",
-        "Ijora Bad Road",
-        "Delap",
-        "Wike",
-        "First Nigerian",
-        "Illan Meslier"
+        "Seyi Tinubu",
+        "Jarell Quansah",
+        "Emmanuel Amunike",
+        "Bayindir",
+        "Xabi Alonso",
+        "Alejandro Garnacho",
+        "King Charles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
