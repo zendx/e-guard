@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-07-09T09:02:26.058095+00:00",
+  "generated_at_utc": "2026-07-09T11:55:19.966007+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 09 2026 08:30:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 11:04:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jungwon",
+        "Platner",
+        "Iran",
+        "Bonnie Tyler",
+        "Maine",
+        "Total Eclipse of the Heart",
+        "Mitch McConnell",
+        "Good Thursday",
         "#AEWDynamite",
-        "Kenny",
-        "#Valkols6th",
-        "Grok 4.5",
-        "Enhypen",
-        "#TheValley",
-        "Alex Call",
-        "Adeyemi",
-        "$BCAT",
-        "Ospreay"
+        "Argentina",
+        "Egypt",
+        "Charlie"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#Valkols6th",
-        "#TheValley",
-        "#ONEPIECE1188",
-        "#BlackoutForValko"
+        "#apeai",
+        "#CFBPlayDontPay",
+        "#bb28",
+        "#HoodiesOn"
       ],
       "regular_topics": [
-        "Jungwon",
-        "Kenny",
-        "Grok 4.5",
-        "Enhypen",
-        "Alex Call",
-        "Adeyemi",
-        "$BCAT",
-        "Ospreay",
-        "Lala",
-        "Kelsey Mitchell",
-        "Eram"
+        "Platner",
+        "Iran",
+        "Bonnie Tyler",
+        "Maine",
+        "Total Eclipse of the Heart",
+        "Mitch McConnell",
+        "Good Thursday",
+        "Argentina",
+        "Egypt",
+        "Charlie",
+        "NATO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 09 2026 08:06:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 11:31:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
         "Farage",
+        "Bonnie Tyler",
         "Count Binface",
         "Argentina",
+        "Total Eclipse of the Heart",
         "Egypt",
-        "Julia",
-        "Lola",
         "Reform",
-        "Martha",
+        "Julia",
         "Trump",
-        "Messi"
+        "#ITV7InItToWinIt"
       ],
       "hashtags": [
-        "#HoodiesOn",
-        "#AdoorableThursday",
-        "#Remote",
+        "#ITV7InItToWinIt",
+        "#swfc",
         "#NUFC",
-        "#ARGEGY"
+        "#ARGEGY",
+        "#HoodiesOn"
       ],
       "regular_topics": [
         "Clacton",
         "Farage",
+        "Bonnie Tyler",
         "Count Binface",
         "Argentina",
+        "Total Eclipse of the Heart",
         "Egypt",
-        "Julia",
-        "Lola",
         "Reform",
-        "Martha",
+        "Julia",
         "Trump",
-        "Messi"
+        "Lola"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 09 2026 08:48:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 11:24:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bonnie Tyler",
         "NATO",
         "Ukraine",
-        "Argentina",
         "Egypt",
+        "Argentina",
         "Iran",
+        "Total Eclipse of the Heart",
         "Dylan Cease",
         "Greenland",
         "Platner",
-        "#AEWDynamite",
-        "Islamic Republic of Japan",
-        "Rogers"
+        "#AEWDynamite"
       ],
       "hashtags": [
         "#AEWDynamite",
@@ -104,93 +104,96 @@
         "#TheValley"
       ],
       "regular_topics": [
+        "Bonnie Tyler",
         "NATO",
         "Ukraine",
-        "Argentina",
         "Egypt",
+        "Argentina",
         "Iran",
+        "Total Eclipse of the Heart",
         "Dylan Cease",
         "Greenland",
         "Platner",
-        "Islamic Republic of Japan",
-        "Rogers",
-        "FIFA"
+        "Islamic Republic of Japan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 09 2026 08:44:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 11:20:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ReversalConfirmed",
-        "#PrakritiKaMahaYagya",
-        "Galaxy",
+        "#OberoiGurgaonOnHold",
+        "#KisanVirodhiKejriwal",
+        "#NissanTekton",
+        "#NewShapeOfGalaxy",
+        "#Samsung",
+        "UP Mega Plantation",
         "Upper Circuit",
         "Ashnisha Industries",
-        "#StockReversalSignal",
-        "UP Mega Plantation",
-        "#1YrOfMadhavJi",
-        "Innovation",
-        "#SolarPennyRally",
-        "\u0905\u0916\u093f\u0932 \u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u092a\u0930\u093f\u0937\u0926"
+        "Aditya Birla",
+        "Melbourne",
+        "Innovation"
       ],
       "hashtags": [
-        "#ReversalConfirmed",
-        "#PrakritiKaMahaYagya",
-        "#StockReversalSignal",
-        "#1YrOfMadhavJi",
-        "#SolarPennyRally"
+        "#OberoiGurgaonOnHold",
+        "#KisanVirodhiKejriwal",
+        "#NissanTekton",
+        "#NewShapeOfGalaxy",
+        "#Samsung",
+        "#BonusForMyFuture"
       ],
       "regular_topics": [
-        "Galaxy",
+        "UP Mega Plantation",
         "Upper Circuit",
         "Ashnisha Industries",
-        "UP Mega Plantation",
+        "Aditya Birla",
+        "Melbourne",
         "Innovation",
-        "\u0905\u0916\u093f\u0932 \u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u092a\u0930\u093f\u0937\u0926",
-        "52W High",
+        "Anmol Akshaya",
         "Jungwon",
-        "Designed",
-        "HPCL",
-        "Melbourne"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u092e\u0941\u0926\u093e\u092f",
+        "Net Profit",
+        "E85 Compatible"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 09 2026 08:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 11:19:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Xabi Alonso",
+        "#Abefeishere",
+        "Gaffer",
+        "#WikeSpeaks",
         "Adeyemi",
-        "RAIN OF ANSWERS",
+        "#Undocumented9Trillion",
         "Daniel Bwala",
-        "Grok 4.5",
-        "$GAYU",
-        "Wale",
-        "#NSPPD",
-        "Dortmund",
-        "Dexsport",
-        "Maduka Okoye",
-        "Flick"
+        "Total Eclipse of the Heart",
+        "Bonnie Tyler",
+        "Cobham",
+        "My Manager"
       ],
       "hashtags": [
-        "#NSPPD",
-        "#NATO",
-        "#FRAMAR"
+        "#Abefeishere",
+        "#WikeSpeaks",
+        "#Undocumented9Trillion",
+        "#FRAMAR",
+        "#NUFC"
       ],
       "regular_topics": [
+        "Xabi Alonso",
+        "Gaffer",
         "Adeyemi",
-        "RAIN OF ANSWERS",
         "Daniel Bwala",
-        "Grok 4.5",
-        "$GAYU",
-        "Wale",
-        "Dortmund",
-        "Dexsport",
+        "Total Eclipse of the Heart",
+        "Bonnie Tyler",
+        "Cobham",
+        "My Manager",
+        "Fiorentina",
         "Maduka Okoye",
-        "Flick",
-        "Raphinha"
+        "Morroco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
