@@ -1,154 +1,157 @@
 {
-  "generated_at_utc": "2026-07-09T21:57:13.413955+00:00",
+  "generated_at_utc": "2026-07-09T23:04:22.216823+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 09 2026 21:25:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 22:16:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
         "Mbappe",
         "Bono",
         "#FRAMAR",
+        "Francia",
+        "Philon",
+        "Marruecos",
         "Lance",
         "Hakimi",
-        "Bounou",
-        "Cellebrite",
-        "Little Italy",
-        "Italians",
-        "Doue"
+        "Mateta",
+        "Moroccan"
       ],
       "hashtags": [
         "#FRAMAR",
-        "#TrumpsWarOfChoice",
-        "#momson"
+        "#FIFAworldcupFootball",
+        "#FRAvsMAR",
+        "#Orientation"
       ],
       "regular_topics": [
         "Morocco",
         "Mbappe",
         "Bono",
+        "Francia",
+        "Philon",
+        "Marruecos",
         "Lance",
         "Hakimi",
-        "Bounou",
-        "Cellebrite",
-        "Little Italy",
-        "Italians",
-        "Doue",
-        "Tyler"
+        "Mateta",
+        "Moroccan",
+        "20 World Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 09 2026 21:00:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 22:42:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Morocco",
         "#FRAMAR",
         "Mbappe",
-        "Morocco",
-        "Bono",
+        "Dembele",
         "Finley",
-        "Dunblane",
-        "Ellie",
-        "Mazraoui",
+        "Bono",
+        "Moroccan",
+        "Kone",
         "Hakimi",
-        "#worldcupfootball",
-        "Moroccan"
+        "Mateta",
+        "Bouaddi"
       ],
       "hashtags": [
         "#FRAMAR",
-        "#worldcupfootball",
+        "#MARFRA",
         "#OnEveryCorner",
-        "#ENGvIND",
-        "#oufc"
+        "#worldcupfootball",
+        "#ENGvIND"
       ],
       "regular_topics": [
-        "Mbappe",
         "Morocco",
-        "Bono",
+        "Mbappe",
+        "Dembele",
         "Finley",
-        "Dunblane",
-        "Ellie",
-        "Mazraoui",
-        "Hakimi",
+        "Bono",
         "Moroccan",
         "Kone",
-        "Ethan"
+        "Hakimi",
+        "Mateta",
+        "Bouaddi",
+        "Dunblane"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 09 2026 21:42:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 22:33:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
         "Mbappe",
         "Dembele",
         "#FRAMAR",
-        "Bono",
         "Clippers",
-        "Kawhi",
         "Meta",
-        "Raptors",
+        "Bono",
+        "Kawhi",
+        "Hakimi",
         "Ukraine",
-        "NATO"
+        "Maroc"
       ],
       "hashtags": [
         "#FRAMAR",
         "#MARFRA",
-        "#AEWDynamite"
+        "#AEWDynamite",
+        "#BB28",
+        "#OnEveryCorner"
       ],
       "regular_topics": [
         "Morocco",
         "Mbappe",
         "Dembele",
-        "Bono",
         "Clippers",
-        "Kawhi",
         "Meta",
-        "Raptors",
+        "Bono",
+        "Kawhi",
+        "Hakimi",
         "Ukraine",
-        "NATO",
-        "Iran"
+        "Maroc",
+        "NATO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 09 2026 21:39:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 22:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
-        "Dembele",
         "Mbappe",
+        "Dembele",
         "#FRAMAR",
         "#ENGvsIND",
-        "Bono",
         "#FRAvsMAR",
+        "Bono",
+        "#FIFAworldcupFootball",
         "Harry Brook",
         "Bounou",
-        "Washington Sundar",
-        "Shreyas Iyer"
+        "Les Bleus"
       ],
       "hashtags": [
         "#FRAMAR",
         "#ENGvsIND",
         "#FRAvsMAR",
-        "#FlashbackWilliamjkpMV",
-        "#Boycott_BeliftLab_For_Enhypen"
+        "#FIFAworldcupFootball",
+        "#MARFRA"
       ],
       "regular_topics": [
         "Morocco",
-        "Dembele",
         "Mbappe",
+        "Dembele",
         "Bono",
         "Harry Brook",
         "Bounou",
+        "Les Bleus",
         "Washington Sundar",
         "Shreyas Iyer",
         "Hakimi",
-        "Gambhir",
         "Moroccan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -156,39 +159,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 09 2026 21:37:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 09 2026 22:30:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Morocco",
         "Mbappe",
-        "Bono",
         "#FRAMAR",
+        "Bono",
         "#MARFRA",
         "20 World Cup",
         "Kone",
-        "Penalty for France",
-        "Hakimi",
-        "Moroccan",
-        "Doue",
-        "Mazraoui"
+        "Congratulations to France",
+        "Mateta",
+        "Les Bleus",
+        "Hakimi"
       ],
       "hashtags": [
         "#FRAMAR",
         "#MARFRA",
-        "#FRAvsMAR",
-        "#worldcupfootball",
-        "#matura2026"
+        "#FIFAworldcupFootball",
+        "#FRAvsMAR"
       ],
       "regular_topics": [
+        "Morocco",
         "Mbappe",
         "Bono",
         "20 World Cup",
         "Kone",
-        "Penalty for France",
+        "Congratulations to France",
+        "Mateta",
+        "Les Bleus",
         "Hakimi",
-        "Moroccan",
-        "Doue",
-        "Mazraoui",
-        "Bouaddi",
-        "WHAT A GOAL"
+        "Penalty for France",
+        "The French"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
