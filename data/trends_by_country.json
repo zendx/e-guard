@@ -1,126 +1,126 @@
 {
-  "generated_at_utc": "2026-07-10T21:55:32.888819+00:00",
+  "generated_at_utc": "2026-07-10T22:47:52.149545+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 10 2026 21:28:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 10 2026 22:20:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$VEX",
         "Spain",
+        "Herro",
         "Merino",
         "Courtois",
         "Lammens",
         "Espa\u00f1a",
-        "Lamine",
+        "Lamine Yamal",
         "#ESPBEL",
         "Pedri",
-        "De Ketelaere",
-        "Unai Simon",
-        "B\u00e9lgica"
+        "OpenAI"
       ],
       "hashtags": [
         "#ESPBEL",
         "#teenager",
-        "#FursuitFriday",
         "#mcrlondon",
-        "#ESPvsBEL"
+        "#FursuitFriday",
+        "#ometv"
       ],
       "regular_topics": [
+        "$VEX",
         "Spain",
+        "Herro",
         "Merino",
         "Courtois",
         "Lammens",
         "Espa\u00f1a",
-        "Lamine",
+        "Lamine Yamal",
         "Pedri",
-        "De Ketelaere",
-        "Unai Simon",
-        "B\u00e9lgica",
-        "Doku"
+        "OpenAI",
+        "Logan Act"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 10 2026 21:03:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 10 2026 21:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$VEX",
         "Merino",
         "Lammens",
         "Spain",
         "#SPABEL",
         "Courtois",
+        "Julia",
+        "Sean",
         "Yamal",
         "Ann Widdecombe",
-        "Ellie",
-        "Michael Oliver",
-        "Finley",
-        "Pedri"
+        "Aidan"
       ],
       "hashtags": [
         "#SPABEL",
         "#ESPBEL",
         "#TOTP",
-        "#SongsThatNeedABath",
         "#SLWigWar"
       ],
       "regular_topics": [
+        "$VEX",
         "Merino",
         "Lammens",
         "Spain",
         "Courtois",
+        "Julia",
+        "Sean",
         "Yamal",
         "Ann Widdecombe",
-        "Ellie",
-        "Michael Oliver",
-        "Finley",
-        "Pedri",
-        "Elicia"
+        "Aidan",
+        "Ellie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 10 2026 20:54:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 10 2026 22:36:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Courtois",
         "Spain",
         "Merino",
+        "Courtois",
         "Lammens",
-        "Yamal",
+        "Herro",
         "#ESPBEL",
         "Kory",
-        "#bb28",
-        "Nance",
-        "Meta",
-        "Charles De Ketelaere"
+        "Unai Simon",
+        "Cubarsi",
+        "California",
+        "#bb28"
       ],
       "hashtags": [
         "#ESPBEL",
         "#bb28",
         "#ValkoWasFramed",
-        "#FRAMAR"
+        "#FRAMAR",
+        "#FursuitFriday"
       ],
       "regular_topics": [
-        "Courtois",
         "Spain",
         "Merino",
+        "Courtois",
         "Lammens",
-        "Yamal",
+        "Herro",
         "Kory",
-        "Nance",
+        "Unai Simon",
+        "Cubarsi",
+        "California",
         "Meta",
-        "Charles De Ketelaere",
-        "Iran",
-        "Pedri"
+        "Iran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 10 2026 21:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 10 2026 22:34:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Merino",
@@ -128,10 +128,10 @@
         "#ESPBEL",
         "Lammens",
         "#ESPvsBEL",
-        "Lamine",
+        "Lamine Yamal",
         "Pedri",
-        "Olmo",
         "Rodri",
+        "Olmo",
         "Unai Simon"
       ],
       "hashtags": [
@@ -139,57 +139,62 @@
         "#ESPvsBEL",
         "#Espa\u00f1a",
         "#ThamizhMurugan",
-        "#fifa2026worldcup"
+        "#Fifa2026WorldCup",
+        "#BeliftRespectENHYPEN",
+        "#BoycottHYBEandBELIFTLAB",
+        "#Wimbledon",
+        "#FifaWorldCup_2026",
+        "#SonOfKottravai",
+        "#ADogAndAPlaneEP7"
       ],
       "regular_topics": [
         "Spain",
         "Merino",
         "Courtois",
         "Lammens",
-        "Lamine",
+        "Lamine Yamal",
         "Pedri",
-        "Olmo",
         "Rodri",
+        "Olmo",
         "Unai Simon",
-        "Fabian Ruiz",
-        "Cubarsi"
+        "Cubarsi",
+        "Fabian Ruiz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 10 2026 21:40:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 10 2026 22:33:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Merino",
         "Lammens",
         "Courtois",
+        "Lamine Yamal",
         "#ESPBEL",
         "Pedri",
-        "Lamine Yamal",
         "Fabian Ruiz",
         "Doku",
-        "Oyo State",
+        "Rodri",
         "#BELESP"
       ],
       "hashtags": [
         "#ESPBEL",
         "#BELESP",
-        "#OnosAriyo",
-        "#SPABEL"
+        "#OnosAriyo"
       ],
       "regular_topics": [
         "Spain",
         "Merino",
         "Lammens",
         "Courtois",
-        "Pedri",
         "Lamine Yamal",
+        "Pedri",
         "Fabian Ruiz",
         "Doku",
+        "Rodri",
         "Oyo State",
-        "Lukaku",
         "Cubarsi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
