@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-07-11T09:02:11.493919+00:00",
+  "generated_at_utc": "2026-07-11T10:37:26.498120+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 11 2026 08:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 09:31:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$VEX",
         "#bb28",
@@ -13,65 +13,65 @@
         "#TheLastDriveIn",
         "Caleb Wilson",
         "Jay Z",
+        "Kamu",
+        "Chuk",
         "Mallory",
-        "#TokyoGorePolice",
-        "#MutantFam",
-        "Benny"
+        "Lyric"
       ],
       "hashtags": [
         "#bb28",
         "#ValkoIsLoved",
         "#TheLastDriveIn",
-        "#TokyoGorePolice",
-        "#MutantFam"
+        "#SmackDown",
+        "#WeLoveValko"
       ],
       "regular_topics": [
         "$VEX",
         "Haley",
         "Caleb Wilson",
         "Jay Z",
+        "Kamu",
+        "Chuk",
         "Mallory",
+        "Lyric",
         "Benny",
         "Baron Corbin",
-        "Lyric",
-        "Chuk",
-        "Jimmy Crooks",
-        "Melody"
+        "Jimmy Crooks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 11 2026 08:15:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 09:57:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ann Widdecombe",
         "$VEX",
-        "Lammens",
         "#SPABEL",
+        "Lammens",
         "Dunblane",
-        "Merino",
         "Farage",
-        "#PostboxSaturday",
         "Adam Boulton",
-        "#Caturday",
-        "Tatchell"
+        "Merino",
+        "Tatchell",
+        "Courtois",
+        "#FRAMAR"
       ],
       "hashtags": [
         "#SPABEL",
-        "#PostboxSaturday",
+        "#FRAMAR",
+        "#AUSvFRA",
         "#Caturday",
-        "#NZLvITA",
-        "#FRAMAR"
+        "#SaturdayKitchen"
       ],
       "regular_topics": [
         "Ann Widdecombe",
         "$VEX",
         "Lammens",
         "Dunblane",
-        "Merino",
         "Farage",
         "Adam Boulton",
+        "Merino",
         "Tatchell",
         "Courtois",
         "Spain",
@@ -82,14 +82,14 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 11 2026 08:06:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 09:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bb28",
         "Spain",
         "#SmackDown",
         "California",
-        "Kory",
         "Courtois",
+        "Kory",
         "Lammens",
         "#ESPBEL",
         "Merino",
@@ -106,73 +106,73 @@
       "regular_topics": [
         "Spain",
         "California",
-        "Kory",
         "Courtois",
+        "Kory",
         "Lammens",
         "Merino",
         "Pierre",
         "Shane Bieber",
         "Herro",
         "Caleb Wilson",
-        "Meta"
+        "Katy Perry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 11 2026 08:54:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 09:45:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u092a\u0941\u0928\u0930\u094d\u092a\u094d\u0930\u093e\u092a\u094d\u0924_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
+        "#TheOdysseyonDistrict",
         "#MyYouthMyPride",
-        "UP Green Development Story",
+        "#\u092a\u0941\u0928\u0930\u094d\u092a\u094d\u0930\u093e\u092a\u094d\u0924_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
         "#UPKaGreenSignature",
+        "UP Green Development Story",
         "#NamaazwadiParty",
         "Punarprapt Janamotsav",
         "\u092e\u093e\u092f \u092f\u0942\u0925 \u092e\u093e\u092f",
-        "#HBDBandiSanjayAnna",
+        "Radhika",
         "Nandi Bhaiya",
-        "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Nandi Ji"
+        "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "hashtags": [
-        "#\u092a\u0941\u0928\u0930\u094d\u092a\u094d\u0930\u093e\u092a\u094d\u0924_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
+        "#TheOdysseyonDistrict",
         "#MyYouthMyPride",
+        "#\u092a\u0941\u0928\u0930\u094d\u092a\u094d\u0930\u093e\u092a\u094d\u0924_\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935",
         "#UPKaGreenSignature",
-        "#NamaazwadiParty",
-        "#HBDBandiSanjayAnna"
+        "#NamaazwadiParty"
       ],
       "regular_topics": [
         "UP Green Development Story",
         "Punarprapt Janamotsav",
         "\u092e\u093e\u092f \u092f\u0942\u0925 \u092e\u093e\u092f",
+        "Radhika",
         "Nandi Bhaiya",
         "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e",
         "Nandi Ji",
-        "\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0928\u094d\u0926\u0940",
-        "Uttar Pradesh",
-        "Recovered Birthday",
-        "NOLA SUPERFAN X EST SUPHA",
-        "Auckland"
+        "INS Mahendragiri",
+        "Auckland",
+        "Christopher Nolan",
+        "NOLA SUPERFAN X EST SUPHA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 11 2026 08:01:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 09:44:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#iLotbetad",
         "CCTV",
         "Venezia",
-        "Touching",
-        "#iLotbetad",
-        "Roma",
         "Festus Keyamo",
         "Sevilla",
-        "Dear Self",
-        "Today is Saturday",
-        "Another Saturday",
-        "#BRUNOGRACEABOUND"
+        "Touching",
+        "E-Money",
+        "Roma",
+        "Ferran",
+        "Akor Adams",
+        "Xora"
       ],
       "hashtags": [
         "#iLotbetad",
@@ -183,15 +183,15 @@
       "regular_topics": [
         "CCTV",
         "Venezia",
-        "Touching",
-        "Roma",
         "Festus Keyamo",
         "Sevilla",
-        "Dear Self",
-        "Today is Saturday",
-        "Another Saturday",
-        "Weekends",
-        "Cila"
+        "Touching",
+        "E-Money",
+        "Roma",
+        "Ferran",
+        "Akor Adams",
+        "Xora",
+        "Today is Saturday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
