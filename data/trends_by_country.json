@@ -1,183 +1,183 @@
 {
-  "generated_at_utc": "2026-07-11T14:15:22.637482+00:00",
+  "generated_at_utc": "2026-07-11T15:26:54.071252+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 11 2026 13:48:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 14:40:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Saturday",
         "#PeachAndMeSeriesEP1",
         "#Caturday",
+        "Jayden Adams",
         "Incorrectly",
         "#SaturdayVibes",
+        "#SB19ForAllGenerations",
         "Benny",
-        "SB19 HEADLINES OPM",
-        "Jeanna",
-        "$VEX",
-        "#ValkoIsLoved",
-        "#SaturdayMotivation"
+        "Altman",
+        "#screenshotsaturday",
+        "Walz"
       ],
       "hashtags": [
         "#PeachAndMeSeriesEP1",
         "#Caturday",
         "#SaturdayVibes",
-        "#ValkoIsLoved",
-        "#SaturdayMotivation"
+        "#SB19ForAllGenerations",
+        "#screenshotsaturday"
       ],
       "regular_topics": [
         "Good Saturday",
+        "Jayden Adams",
         "Incorrectly",
         "Benny",
-        "SB19 HEADLINES OPM",
-        "Jeanna",
-        "$VEX",
         "Altman",
+        "Walz",
+        "Jeanna",
+        "2-1 Norway",
         "Jay Z",
-        "Lyon",
-        "For His",
-        "Slurpee"
+        "Nick Shirley",
+        "Absolutely VIP and EXCLUSIVE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 11 2026 13:24:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 15:06:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dermot",
-        "Fiji",
-        "Murphy",
-        "Hearts",
-        "Devlin",
-        "Rangers",
-        "Incorrectly",
-        "#bbcaq",
-        "#CurrysGoogle",
+        "Ken Bates",
         "#FIJvENG",
-        "Eggheads"
+        "HALF TIME",
+        "Fiji",
+        "Jayden Adams",
+        "#SeaLifeInMoviesAndSongs",
+        "Abraham Lincoln",
+        "Harry Brook",
+        "#HWCafe",
+        "#PeachAndMeSeriesEP1",
+        "Bunbury Cup"
       ],
       "hashtags": [
-        "#bbcaq",
-        "#CurrysGoogle",
         "#FIJvENG",
-        "#Caturday",
-        "#ValkoIsLoved"
+        "#SeaLifeInMoviesAndSongs",
+        "#HWCafe",
+        "#PeachAndMeSeriesEP1",
+        "#bbcaq"
       ],
       "regular_topics": [
-        "Dermot",
+        "Ken Bates",
+        "HALF TIME",
         "Fiji",
-        "Murphy",
-        "Hearts",
-        "Devlin",
-        "Rangers",
-        "Incorrectly",
-        "Eggheads",
-        "Nervous",
-        "Colin",
-        "Apology"
+        "Jayden Adams",
+        "Abraham Lincoln",
+        "Harry Brook",
+        "Bunbury Cup",
+        "More Thunder",
+        "3-1 England",
+        "Trialist",
+        "Fallon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 11 2026 14:06:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 14:57:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bb28",
-        "#Caturday",
-        "Spain",
-        "#SmackDown",
-        "Courtois",
-        "Gordie Howe Bridge",
         "Lammens",
-        "SB19 HEADLINES OPM",
-        "California",
+        "Spain",
+        "Ambassador Bridge",
+        "#SmackDown",
         "Merino",
-        "Pierre"
+        "California",
+        "Gordie Howe Bridge",
+        "Pierre",
+        "Carney",
+        "#Caturday"
       ],
       "hashtags": [
         "#bb28",
-        "#Caturday",
         "#SmackDown",
-        "#TorontoLocketTour",
-        "#PeachAndMeSeriesEP1"
+        "#Caturday",
+        "#PeachAndMeSeriesEP1",
+        "#FRAMAR"
       ],
       "regular_topics": [
-        "Spain",
-        "Courtois",
-        "Gordie Howe Bridge",
         "Lammens",
-        "SB19 HEADLINES OPM",
-        "California",
+        "Spain",
+        "Ambassador Bridge",
         "Merino",
+        "California",
+        "Gordie Howe Bridge",
         "Pierre",
-        "Trump",
+        "Carney",
         "Kory",
-        "shane bieber"
+        "Trump",
+        "Shane Bieber"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 11 2026 14:03:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 14:54:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#GoGreenUP",
         "#DhamaalOnlyOnDistrict",
         "#FIFAonZee5",
-        "#GoGreenUP",
         "District App",
-        "200 OFF",
-        "Drip Irrigation",
-        "#EveryDropCounts",
+        "#PeachAndMeSeriesEP1",
         "#Vietnam",
-        "Book 2",
+        "200 OFF",
+        "Kranti Gaud",
         "15 Indian",
-        "Kranti Gaud"
+        "Drip Irrigation",
+        "Book 2"
       ],
       "hashtags": [
+        "#GoGreenUP",
         "#DhamaalOnlyOnDistrict",
         "#FIFAonZee5",
-        "#GoGreenUP",
-        "#EveryDropCounts",
+        "#PeachAndMeSeriesEP1",
         "#Vietnam"
       ],
       "regular_topics": [
         "District App",
         "200 OFF",
+        "Kranti Gaud",
+        "15 Indian",
         "Drip Irrigation",
         "Book 2",
-        "15 Indian",
-        "Kranti Gaud",
-        "Southampton",
+        "Harry Brook",
         "SPOTLIGHT ON SHIVANGI",
-        "Suryansh Shedge",
-        "Traffic",
-        "Ayush"
+        "Southampton",
+        "Jayden Adams",
+        "Sai Kishore"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 11 2026 14:01:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 14:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jayden Adams",
+        "#iLotbet150million",
         "Garnacho",
         "Ken Bates",
         "Mamelodi Sundowns",
+        "Bafana Bafana",
+        "Bello Matawalle",
         "CCTV",
-        "Norway 1-2 England",
-        "#itelPower80",
-        "$KAS",
-        "Venezia",
+        "Norway 1",
         "OUTCOMES",
-        "Keyamo"
+        "#itelPower80"
       ],
       "hashtags": [
+        "#iLotbet150million",
         "#itelPower80",
         "#22BetAlwaysPays",
-        "#WIZARD",
         "#iLotbetad"
       ],
       "regular_topics": [
@@ -185,13 +185,13 @@
         "Garnacho",
         "Ken Bates",
         "Mamelodi Sundowns",
+        "Bafana Bafana",
+        "Bello Matawalle",
         "CCTV",
-        "Norway 1-2 England",
-        "$KAS",
-        "Venezia",
+        "Norway 1",
         "OUTCOMES",
-        "Keyamo",
-        "Bafana Bafana"
+        "Rest in Peace",
+        "$KAS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
