@@ -1,99 +1,98 @@
 {
-  "generated_at_utc": "2026-07-11T20:35:39.953057+00:00",
+  "generated_at_utc": "2026-07-11T21:36:35.259443+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 11 2026 19:48:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 20:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "PIED PIPER",
+        "Quiznos",
         "Ro Khanna",
         "#MLBDraft",
         "West Bank",
-        "Quiznos",
-        "Justin Lebron",
-        "#tvlspoilers",
-        "Ashby",
-        "Roch Cholowsky",
+        "BAEPSAE",
         "NRED",
-        "Lombard",
-        "Valdez"
+        "#tvlspoilers",
+        "Daniel Jackson",
+        "Justin Lebron",
+        "Roch Cholowsky"
       ],
       "hashtags": [
         "#MLBDraft",
         "#tvlspoilers",
         "#UFC329",
-        "#teenager",
-        "#RaiseIt"
+        "#teenager"
       ],
       "regular_topics": [
+        "PIED PIPER",
+        "Quiznos",
         "Ro Khanna",
         "West Bank",
-        "Quiznos",
-        "Justin Lebron",
-        "Ashby",
-        "Roch Cholowsky",
+        "BAEPSAE",
         "NRED",
-        "Lombard",
-        "Valdez",
-        "Ace Reese",
-        "Zion Rose"
+        "Daniel Jackson",
+        "Justin Lebron",
+        "Roch Cholowsky",
+        "Carson Wiggins",
+        "Ace Reese"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 11 2026 20:15:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 21:06:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Norway",
         "#NORENG",
-        "PIED PIPER",
+        "Norway",
         "#ENGNOR",
-        "BAEPSAE",
-        "CCTV",
         "COME ON ENGLAND",
-        "Joe Joyce",
-        "#ssnthreelions",
+        "PIED PIPER",
+        "CCTV",
+        "Lee Dixon",
+        "BAEPSAE",
         "#ARGvWAL",
+        "Matterface",
         "Norwegian"
       ],
       "hashtags": [
         "#NORENG",
         "#ENGNOR",
-        "#ssnthreelions",
         "#ARGvWAL",
+        "#ssnthreelions",
         "#tvlspoilers"
       ],
       "regular_topics": [
         "Norway",
-        "PIED PIPER",
-        "BAEPSAE",
-        "CCTV",
         "COME ON ENGLAND",
-        "Joe Joyce",
+        "PIED PIPER",
+        "CCTV",
+        "Lee Dixon",
+        "BAEPSAE",
+        "Matterface",
         "Norwegian",
-        "3-1 England",
-        "Linda Noskova",
-        "Noni Madueke",
-        "Miami"
+        "Joe Joyce",
+        "Karen Carney",
+        "Noni Madueke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 11 2026 20:06:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 20:57:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
         "Carney",
         "#bb28",
         "PIED PIPER",
+        "Cole Carlon",
         "Lammens",
-        "Trump",
         "Gordie Howe Bridge",
-        "Noskova",
+        "Trump",
         "#UFC329",
-        "Pierre",
+        "shane bieber",
         "Trudeau"
       ],
       "hashtags": [
@@ -107,92 +106,92 @@
         "Norway",
         "Carney",
         "PIED PIPER",
+        "Cole Carlon",
         "Lammens",
-        "Trump",
         "Gordie Howe Bridge",
-        "Noskova",
-        "Pierre",
+        "Trump",
+        "shane bieber",
         "Trudeau",
-        "California",
-        "Shane Bieber"
+        "Pierre",
+        "California"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 11 2026 20:03:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 20:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Norway",
         "#INDvsENG",
-        "#OdysseyPremiereChaiTime",
         "Riyaz",
         "#SJanaki",
-        "Norway",
         "PIED PIPER",
+        "#OdysseyPremiereChaiTime",
         "BAEPSAE",
+        "Switzerland",
         "STAY STRONG AKANKSHA",
         "#PeachAndMeSeriesEP1",
-        "Switzerland",
-        "Gambhir"
+        "Munich"
       ],
       "hashtags": [
         "#INDvsENG",
-        "#OdysseyPremiereChaiTime",
         "#SJanaki",
+        "#OdysseyPremiereChaiTime",
         "#PeachAndMeSeriesEP1",
         "#BoycottHYBE_Belift"
       ],
       "regular_topics": [
-        "Riyaz",
         "Norway",
+        "Riyaz",
         "PIED PIPER",
         "BAEPSAE",
-        "STAY STRONG AKANKSHA",
         "Switzerland",
-        "Gambhir",
+        "STAY STRONG AKANKSHA",
         "Munich",
+        "Gambhir",
         "Shreyas Iyer",
-        "Om Shanti",
-        "MUNAWARS DHANDHO SPECIAL ON YT"
+        "MUNAWARS DHANDHO SPECIAL ON YT",
+        "Om Shanti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 11 2026 20:03:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 11 2026 20:54:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
-        "#Sabi",
-        "Fireboy",
         "#BringTheGameToLife",
-        "Leonardo",
         "#WatchWithTECNO",
-        "Ajax",
+        "Madueke",
+        "#NORENG",
+        "Fireboy",
+        "Umahi",
+        "Asake",
         "Zuko",
-        "Maldini",
-        "Jayden Adams",
-        "#beejay"
+        "#beejay",
+        "Leonardo"
       ],
       "hashtags": [
-        "#Sabi",
         "#BringTheGameToLife",
         "#WatchWithTECNO",
+        "#NORENG",
         "#beejay",
-        "#NORENG"
+        "#ENGNOR"
       ],
       "regular_topics": [
         "Norway",
+        "Madueke",
         "Fireboy",
-        "Leonardo",
-        "Ajax",
-        "Zuko",
-        "Maldini",
-        "Jayden Adams",
-        "Ezri Konsa",
+        "Umahi",
         "Asake",
+        "Zuko",
+        "Leonardo",
         "Vikings",
-        "Azzedine Ounahi"
+        "Paolo Maldini",
+        "Ezri Konsa",
+        "Jayden Adams"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
