@@ -1,201 +1,203 @@
 {
-  "generated_at_utc": "2026-07-11T23:39:51.884370+00:00",
+  "generated_at_utc": "2026-07-12T01:20:37.906922+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 11 2026 23:16:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 00:57:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
         "Haaland",
-        "Bellingham",
         "#UFC329",
-        "Kane",
+        "Bellingham",
+        "Gable Steveson",
         "Sorloth",
-        "#NORENG",
+        "Whittaker",
+        "Switzerland",
+        "Kane",
         "Tuchel",
-        "Saka",
-        "Tracy Cortez",
-        "Pickford"
+        "Spence"
       ],
       "hashtags": [
         "#UFC329",
         "#NORENG",
-        "#NORvsENG",
-        "#ENGNOR",
-        "#ThreeLions"
+        "#AEWCollision",
+        "#Svengoolie",
+        "#G1CLIMAX36"
       ],
       "regular_topics": [
         "Norway",
         "Haaland",
         "Bellingham",
-        "Kane",
+        "Gable Steveson",
         "Sorloth",
+        "Whittaker",
+        "Switzerland",
+        "Kane",
         "Tuchel",
-        "Saka",
-        "Tracy Cortez",
-        "Pickford",
-        "Garza",
-        "Nyland"
+        "Spence",
+        "Bobby Knuckles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 11 2026 22:48:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 00:32:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NORENG",
-        "Norway",
-        "Pickford",
-        "Bellingham",
         "Tuchel",
-        "Madueke",
-        "Mainoo",
+        "England",
+        "Norway",
+        "Spence",
+        "Haaland",
         "Saka",
-        "Reece James",
-        "Sorloth",
-        "Lee Dixon"
+        "Pickford",
+        "Mainoo",
+        "Lee Dixon",
+        "Gabriel Clarke"
       ],
       "hashtags": [
         "#NORENG",
-        "#OnEveryCorner",
         "#ThreeLions",
         "#UFC329",
-        "#ARGvWAL",
-        "#itvfootball",
-        "#itvsport"
+        "#OnEveryCorner",
+        "#Sweepstakes"
       ],
       "regular_topics": [
-        "Norway",
-        "Pickford",
-        "Bellingham",
         "Tuchel",
-        "Madueke",
-        "Mainoo",
+        "England",
+        "Norway",
+        "Spence",
+        "Haaland",
         "Saka",
-        "Reece James",
-        "Sorloth",
+        "Pickford",
+        "Mainoo",
         "Lee Dixon",
-        "Bobb"
+        "Gabriel Clarke",
+        "Anderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 11 2026 22:40:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 00:24:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
-        "Sorloth",
-        "Bellingham",
-        "Pickford",
-        "#NORENG",
         "Haaland",
-        "Kane",
-        "Gordon",
+        "Bellingham",
+        "Spence",
         "Tuchel",
-        "Madueke",
-        "Andreas Schjelderup"
+        "Sorloth",
+        "Kane",
+        "#NORENG",
+        "#UFC329",
+        "Saka",
+        "Pickford"
       ],
       "hashtags": [
         "#NORENG",
-        "#OnEveryCorner",
         "#UFC329",
-        "#bb28",
-        "#ENGNOR"
+        "#OnEveryCorner",
+        "#ENGNOR",
+        "#ThreeLions",
+        "#yegwx",
+        "#ValkoIsLoved"
       ],
       "regular_topics": [
         "Norway",
-        "Sorloth",
-        "Bellingham",
-        "Pickford",
         "Haaland",
-        "Kane",
-        "Gordon",
+        "Bellingham",
+        "Spence",
         "Tuchel",
-        "Madueke",
-        "Andreas Schjelderup",
-        "Carney"
+        "Sorloth",
+        "Kane",
+        "Saka",
+        "Pickford",
+        "Gable Steveson",
+        "Reece James"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 11 2026 22:36:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 00:21:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
         "#NORENG",
-        "Sorloth",
         "Bellingham",
         "Haaland",
+        "Sorloth",
+        "Tuchel",
+        "Spence",
         "Kane",
-        "Pickford",
-        "Gordon",
         "#ENGNOR",
         "#ENGvsNOR",
-        "Andreas Schjelderup"
+        "Nyland"
       ],
       "hashtags": [
         "#NORENG",
         "#ENGNOR",
         "#ENGvsNOR",
+        "#GodMorningSunday",
         "#INDvsENG",
-        "#SJanaki"
+        "#SJanaki",
+        "#UFC329",
+        "#PeachAndMeSeriesEP1",
+        "#BoycottHYBE_Belift",
+        "#MyENGENE_era",
+        "#WilliamEst"
       ],
       "regular_topics": [
         "Norway",
-        "Sorloth",
         "Bellingham",
         "Haaland",
+        "Sorloth",
+        "Tuchel",
+        "Spence",
         "Kane",
+        "Nyland",
         "Pickford",
-        "Gordon",
-        "Andreas Schjelderup",
-        "Madueke",
-        "Bobb",
-        "PIED PIPER"
+        "Switzerland",
+        "Odegaard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 11 2026 22:36:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 00:20:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Norway",
         "Bellingham",
         "Sorloth",
         "#NORENG",
-        "Madueke",
         "Tuchel",
-        "Pickford",
-        "Andreas Schjelderup",
+        "Spence",
         "Saka",
-        "Pedri",
-        "#ENGNOR"
+        "Kane",
+        "Odegaard",
+        "Switzerland",
+        "Madueke"
       ],
       "hashtags": [
         "#NORENG",
-        "#ENGNOR",
-        "#BringTheGameToLife",
-        "#WatchWithTECNO",
-        "#beejay",
-        "#Sabi"
+        "#ENGNOR"
       ],
       "regular_topics": [
         "Norway",
         "Bellingham",
         "Sorloth",
-        "Madueke",
         "Tuchel",
-        "Pickford",
-        "Andreas Schjelderup",
+        "Spence",
         "Saka",
-        "Pedri",
+        "Kane",
+        "Odegaard",
         "Switzerland",
-        "Oscar Bobb"
+        "Madueke",
+        "Vikings"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
