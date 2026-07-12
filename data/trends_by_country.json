@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-12T18:44:01.241903+00:00",
+  "generated_at_utc": "2026-07-12T19:58:06.336427+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 12 2026 18:09:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:00:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
-        "Graham",
         "Ukraine",
-        "South Carolina",
         "Zverev",
+        "South Carolina",
         "Nancy Mace",
         "Nikki Haley",
-        "James Wood",
+        "Tom Kim",
+        "Bison",
         "Robert Mueller",
-        "John McCain",
-        "Bison"
+        "Sinner",
+        "James Wood"
       ],
       "hashtags": [
         "#Olandria",
@@ -25,61 +25,61 @@
       ],
       "regular_topics": [
         "Lindsey Graham",
-        "Graham",
         "Ukraine",
-        "South Carolina",
         "Zverev",
+        "South Carolina",
         "Nancy Mace",
         "Nikki Haley",
-        "James Wood",
+        "Tom Kim",
+        "Bison",
         "Robert Mueller",
-        "John McCain",
-        "Bison"
+        "Sinner",
+        "James Wood"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 12 2026 17:40:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:25:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Wimbledon",
         "Zverev",
-        "Rotherham",
         "Sinner",
+        "Rotherham",
         "Lindsey Graham",
-        "#GrotesqueGrooves",
-        "Rowley",
-        "Rob Key",
-        "Saints",
-        "Yorkshire",
-        "Toulouse",
-        "Ali G"
+        "Andrew Castle",
+        "Johan Manzambi",
+        "Learning",
+        "Tom Kim",
+        "Freiburg",
+        "#sts70s"
       ],
       "hashtags": [
+        "#Wimbledon",
+        "#sts70s",
         "#GrotesqueGrooves",
-        "#Wimbledon26",
-        "#WINTERxWimbledon",
         "#\uc708\ud130_\uc714\ube14\ub358\uc73c\ub85c\uac00\uc790"
       ],
       "regular_topics": [
         "Zverev",
-        "Rotherham",
         "Sinner",
+        "Rotherham",
         "Lindsey Graham",
-        "Rowley",
-        "Rob Key",
-        "Saints",
-        "Yorkshire",
-        "Toulouse",
-        "Ali G",
-        "Devon"
+        "Andrew Castle",
+        "Johan Manzambi",
+        "Learning",
+        "Tom Kim",
+        "Freiburg",
+        "Falklands",
+        "Alcaraz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 12 2026 18:27:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:18:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "#UFC329",
@@ -88,8 +88,8 @@
         "Embolo",
         "McGregor",
         "Salsa",
-        "Sorloth",
         "St. Clair",
+        "Sorloth",
         "Carney",
         "#NORENG"
       ],
@@ -98,7 +98,7 @@
         "#NORENG",
         "#ARGSUI",
         "#ValkoIsLoved",
-        "#BYDSEALION5DMixLingLingKwong"
+        "#Wimbledon"
       ],
       "regular_topics": [
         "Lindsey Graham",
@@ -107,69 +107,69 @@
         "Embolo",
         "McGregor",
         "Salsa",
-        "Sorloth",
         "St. Clair",
+        "Sorloth",
         "Carney",
-        "Bellingham",
-        "Swiss"
+        "Swiss",
+        "Bellingham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 12 2026 18:21:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:15:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zverev",
-        "#GodNightSunday",
         "#Wimbledon",
-        "#GoaWantsDevelopment",
-        "Sinner",
+        "Jannik Sinner",
+        "#GodNightSunday",
         "#United_we_boycottBELIFT",
         "#EN_isHOME",
+        "#GoaWantsDevelopment",
         "Robin Singh",
         "Kuwait",
         "Shilpa",
-        "Yastika Bhatia"
+        "Lindsey Graham"
       ],
       "hashtags": [
-        "#GodNightSunday",
         "#Wimbledon",
-        "#GoaWantsDevelopment",
+        "#GodNightSunday",
         "#United_we_boycottBELIFT",
-        "#EN_isHOME"
+        "#EN_isHOME",
+        "#GoaWantsDevelopment"
       ],
       "regular_topics": [
         "Zverev",
-        "Sinner",
+        "Jannik Sinner",
         "Robin Singh",
         "Kuwait",
         "Shilpa",
-        "Yastika Bhatia",
-        "Maha Mumbai Metro",
         "Lindsey Graham",
-        "Qeshm Island",
+        "Maha Mumbai Metro",
+        "Alcaraz",
         "Yuvraj Singh",
-        "\u0938\u094d\u091f\u0947\u0936\u0928 \u092e\u093e\u0938\u094d\u091f\u0930"
+        "Yastika Bhatia",
+        "Sascha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 12 2026 18:21:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:12:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zverev",
-        "Chippa United",
-        "Stanley Nwabali",
         "Sinner",
-        "Greenwood",
-        "WAEC and NECO",
-        "Layi",
+        "Aston Villa",
         "Tomorrow is Monday",
-        "Besiktas",
-        "Genoa",
-        "Ajax"
+        "Stanley Nwabali",
+        "Chippa United",
+        "WAEC and NECO",
+        "Freiburg",
+        "Kyran Thompson",
+        "Greenwood",
+        "Manzambi"
       ],
       "hashtags": [
         "#Wimbledon",
@@ -178,16 +178,16 @@
       ],
       "regular_topics": [
         "Zverev",
-        "Chippa United",
-        "Stanley Nwabali",
         "Sinner",
-        "Greenwood",
-        "WAEC and NECO",
-        "Layi",
+        "Aston Villa",
         "Tomorrow is Monday",
-        "Besiktas",
-        "Genoa",
-        "Ajax"
+        "Stanley Nwabali",
+        "Chippa United",
+        "WAEC and NECO",
+        "Freiburg",
+        "Kyran Thompson",
+        "Greenwood",
+        "Manzambi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
