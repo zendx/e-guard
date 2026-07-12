@@ -1,86 +1,88 @@
 {
-  "generated_at_utc": "2026-07-12T12:47:08.448714+00:00",
+  "generated_at_utc": "2026-07-12T14:20:05.837501+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 12 2026 12:08:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 13:51:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
+        "Ukraine",
         "South Carolina",
         "Good Sunday",
         "John McCain",
-        "Mitch McConnell",
-        "Sudden",
-        "AIDS",
-        "Rest in Peace",
-        "Conor",
+        "Bison",
         "Robert Mueller",
-        "#BYDSEALION5DMixLingLingKwong"
+        "Sudden",
+        "Nancy Mace",
+        "AIDS",
+        "Yellowstone"
       ],
       "hashtags": [
-        "#BYDSEALION5DMixLingLingKwong",
-        "#HolyOfHoliesAgenda",
-        "#NIJIBUTTLERBATTLE",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
-        "#SundayVibes"
+        "#\uc708\ud130_\uc714\ube14\ub358\uc73c\ub85c\uac00\uc790",
+        "#WINTERxWimbledon",
+        "#ThroneRoomInstruction",
+        "#SundayVibes",
+        "#BYDSEALION5DMixLingLingKwong"
       ],
       "regular_topics": [
         "Lindsey Graham",
+        "Ukraine",
         "South Carolina",
         "Good Sunday",
         "John McCain",
-        "Mitch McConnell",
-        "Sudden",
-        "AIDS",
-        "Rest in Peace",
-        "Conor",
+        "Bison",
         "Robert Mueller",
-        "LINGLING 1ST PRESENTER BYD"
+        "Sudden",
+        "Nancy Mace",
+        "AIDS",
+        "Yellowstone"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 12 2026 12:32:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 13:24:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lindsey Graham",
         "Rotherham",
+        "Lindsey Graham",
         "Argentina",
+        "Rob Key",
+        "#WINTERxWimbledon",
+        "WINTER AT WIMBLEDON 2026",
+        "#\uc708\ud130_\uc714\ube14\ub358\uc73c\ub85c\uac00\uc790",
+        "Brendon McCullum",
+        "Ralph Lauren",
         "Tuchel",
-        "Falklands",
-        "#bbclaurak",
-        "Gabriel Clarke",
-        "South Yorkshire",
-        "Embolo",
-        "Anderson",
-        "Femi"
+        "South Yorkshire"
       ],
       "hashtags": [
+        "#WINTERxWimbledon",
+        "#\uc708\ud130_\uc714\ube14\ub358\uc73c\ub85c\uac00\uc790",
         "#bbclaurak",
         "#ENGARG",
         "#SundayYellow"
       ],
       "regular_topics": [
-        "Lindsey Graham",
         "Rotherham",
+        "Lindsey Graham",
         "Argentina",
+        "Rob Key",
+        "WINTER AT WIMBLEDON 2026",
+        "Brendon McCullum",
+        "Ralph Lauren",
         "Tuchel",
-        "Falklands",
-        "Gabriel Clarke",
         "South Yorkshire",
-        "Embolo",
-        "Anderson",
-        "Femi",
-        "Happy Birthday England"
+        "Falklands",
+        "Gabriel Clarke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 12 2026 12:24:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 13:15:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "#UFC329",
@@ -88,18 +90,18 @@
         "Embolo",
         "McGregor",
         "Sorloth",
-        "Swiss",
         "Paddy",
-        "Haaland",
+        "Swiss",
+        "Bellingham",
         "Salsa",
-        "Bellingham"
+        "St. Clair"
       ],
       "hashtags": [
         "#UFC329",
         "#ARGSUI",
         "#NORENG",
-        "#BYDSEALION5DMixLingLingKwong",
-        "#oneverycorner"
+        "#OnEveryCorner",
+        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07"
       ],
       "regular_topics": [
         "Lindsey Graham",
@@ -107,89 +109,90 @@
         "Embolo",
         "McGregor",
         "Sorloth",
-        "Swiss",
         "Paddy",
-        "Haaland",
-        "Salsa",
+        "Swiss",
         "Bellingham",
-        "St. Clair"
+        "Salsa",
+        "St. Clair",
+        "Haaland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 12 2026 12:20:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 14:03:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#JhaaduKitheHai",
-        "#NagabandhamInCinemas",
         "#GoGreen_UP",
+        "#JhaaduKitheHai",
+        "#nagabandhamincinemas",
+        "Yastika Bhatia",
+        "Brendon McCullum",
         "Paudhon Ka Maha Yagya",
-        "#HappyAnniversaryAnantika",
-        "#RiyazWonHearts",
-        "Sangrur",
+        "#GodNightSunday",
         "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940",
-        "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
-        "Lindsey Graham",
-        "Radhika"
+        "The 35",
+        "Bazball",
+        "#HappyAnniversaryAnantika"
       ],
       "hashtags": [
-        "#JhaaduKitheHai",
-        "#NagabandhamInCinemas",
         "#GoGreen_UP",
-        "#HappyAnniversaryAnantika",
-        "#RiyazWonHearts"
+        "#JhaaduKitheHai",
+        "#nagabandhamincinemas",
+        "#GodNightSunday",
+        "#HappyAnniversaryAnantika"
       ],
       "regular_topics": [
+        "Yastika Bhatia",
+        "Brendon McCullum",
         "Paudhon Ka Maha Yagya",
-        "Sangrur",
         "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940",
+        "The 35",
+        "Bazball",
+        "England's Test",
         "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
-        "Lindsey Graham",
-        "Radhika",
-        "Sourav Joshi",
-        "\u0906\u0917\u0930\u093e \u0915\u0948\u0902\u091f \u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
-        "LINGLING 1ST PRESENTER BYD",
-        "\u092c\u0902\u091f\u0940 \u092f\u093e\u0926\u0935",
-        "Happy 2nd"
+        "Sangrur",
+        "Uttar Pradesh",
+        "Lindsey Graham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 12 2026 12:20:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 14:03:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WhoisNCAA",
         "PCOS",
-        "#iLothouse",
-        "Church",
-        "#iaccelerate",
+        "#WhoisNCAA",
         "Lindsey Graham",
-        "Blessed Sunday",
-        "Embolo",
-        "Paredes",
+        "Church",
+        "#ilothouse",
+        "Lazio",
         "Pastor",
-        "Today is Sunday"
+        "Blessed Sunday",
+        "#IAccelerate",
+        "Embolo",
+        "South Carolina"
       ],
       "hashtags": [
         "#WhoisNCAA",
-        "#iLothouse",
-        "#iaccelerate",
-        "#SundayService"
+        "#ilothouse",
+        "#IAccelerate",
+        "#SundayService",
+        "#BTS_AR\u0130RANG_MUNICH"
       ],
       "regular_topics": [
         "PCOS",
-        "Church",
         "Lindsey Graham",
+        "Church",
+        "Lazio",
+        "Pastor",
         "Blessed Sunday",
         "Embolo",
-        "Paredes",
-        "Pastor",
+        "South Carolina",
         "Today is Sunday",
-        "$PUMPFUNLIFE",
-        "Tuchel",
-        "Spain vs Argentina"
+        "Happy Sunday Sir",
+        "$PUMPFUNLIFE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
