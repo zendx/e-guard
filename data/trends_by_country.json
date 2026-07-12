@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-07-12T19:58:06.336427+00:00",
+  "generated_at_utc": "2026-07-12T20:38:54.511665+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 12 2026 19:00:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 19:51:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Ukraine",
@@ -12,16 +12,17 @@
         "South Carolina",
         "Nancy Mace",
         "Nikki Haley",
+        "#Wimbledon",
+        "LOUDER THAN BOMBS",
         "Tom Kim",
         "Bison",
-        "Robert Mueller",
-        "Sinner",
-        "James Wood"
+        "Robert Mueller"
       ],
       "hashtags": [
-        "#Olandria",
+        "#Wimbledon",
         "#SeductiveSunday",
-        "#SundayVibes"
+        "#Olandria",
+        "#LetsGoBucs"
       ],
       "regular_topics": [
         "Lindsey Graham",
@@ -30,56 +31,55 @@
         "South Carolina",
         "Nancy Mace",
         "Nikki Haley",
+        "LOUDER THAN BOMBS",
         "Tom Kim",
         "Bison",
         "Robert Mueller",
-        "Sinner",
-        "James Wood"
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 12 2026 19:25:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 20:16:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sean",
         "#Wimbledon",
         "Zverev",
         "Sinner",
+        "Manzambi",
+        "Eddie Howe",
+        "LOUDER THAN BOMBS",
+        "Munich",
         "Rotherham",
-        "Lindsey Graham",
-        "Andrew Castle",
-        "Johan Manzambi",
-        "Learning",
-        "Tom Kim",
-        "Freiburg",
-        "#sts70s"
+        "#wildflowerhour",
+        "Fitz"
       ],
       "hashtags": [
         "#Wimbledon",
-        "#sts70s",
-        "#GrotesqueGrooves",
-        "#\uc708\ud130_\uc714\ube14\ub358\uc73c\ub85c\uac00\uc790"
+        "#wildflowerhour",
+        "#sts70s"
       ],
       "regular_topics": [
+        "Sean",
         "Zverev",
         "Sinner",
+        "Manzambi",
+        "Eddie Howe",
+        "LOUDER THAN BOMBS",
+        "Munich",
         "Rotherham",
-        "Lindsey Graham",
-        "Andrew Castle",
-        "Johan Manzambi",
-        "Learning",
-        "Tom Kim",
-        "Freiburg",
-        "Falklands",
-        "Alcaraz"
+        "Fitz",
+        "Rogers",
+        "Falklands"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 12 2026 19:18:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 20:09:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "#UFC329",
@@ -88,10 +88,10 @@
         "Embolo",
         "McGregor",
         "Salsa",
+        "LOUDER THAN BOMBS",
         "St. Clair",
         "Sorloth",
-        "Carney",
-        "#NORENG"
+        "Carney"
       ],
       "hashtags": [
         "#UFC329",
@@ -107,87 +107,86 @@
         "Embolo",
         "McGregor",
         "Salsa",
+        "LOUDER THAN BOMBS",
         "St. Clair",
         "Sorloth",
         "Carney",
-        "Swiss",
-        "Bellingham"
+        "Swiss"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 12 2026 19:15:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 20:06:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zverev",
         "#Wimbledon",
+        "Zverev",
+        "LOUDER THAN BOMBS",
         "Jannik Sinner",
+        "Munich",
         "#GodNightSunday",
-        "#United_we_boycottBELIFT",
+        "Newcastle",
         "#EN_isHOME",
-        "#GoaWantsDevelopment",
-        "Robin Singh",
-        "Kuwait",
-        "Shilpa",
-        "Lindsey Graham"
+        "#United_we_boycottBELIFT",
+        "Alcaraz",
+        "Robin Singh"
       ],
       "hashtags": [
         "#Wimbledon",
         "#GodNightSunday",
-        "#United_we_boycottBELIFT",
         "#EN_isHOME",
+        "#United_we_boycottBELIFT",
         "#GoaWantsDevelopment"
       ],
       "regular_topics": [
         "Zverev",
+        "LOUDER THAN BOMBS",
         "Jannik Sinner",
-        "Robin Singh",
-        "Kuwait",
-        "Shilpa",
-        "Lindsey Graham",
-        "Maha Mumbai Metro",
+        "Munich",
+        "Newcastle",
         "Alcaraz",
-        "Yuvraj Singh",
-        "Yastika Bhatia",
-        "Sascha"
+        "Robin Singh",
+        "Shilpa",
+        "Kuwait",
+        "Lindsey Graham",
+        "Yuvraj Singh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 12 2026 19:12:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 20:04:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Newcastle",
+        "Aston Villa",
         "Zverev",
         "Sinner",
-        "Aston Villa",
         "Tomorrow is Monday",
-        "Stanley Nwabali",
-        "Chippa United",
-        "WAEC and NECO",
+        "Manzambi",
         "Freiburg",
         "Kyran Thompson",
-        "Greenwood",
-        "Manzambi"
+        "WAEC",
+        "Chippa United",
+        "Stanley Nwabali"
       ],
       "hashtags": [
-        "#Wimbledon",
-        "#TAFAnnivesaryChallenge",
+        "#AVFC",
         "#FRAESP"
       ],
       "regular_topics": [
+        "Newcastle",
+        "Aston Villa",
         "Zverev",
         "Sinner",
-        "Aston Villa",
         "Tomorrow is Monday",
-        "Stanley Nwabali",
-        "Chippa United",
-        "WAEC and NECO",
+        "Manzambi",
         "Freiburg",
         "Kyran Thompson",
-        "Greenwood",
-        "Manzambi"
+        "WAEC",
+        "Chippa United",
+        "Stanley Nwabali"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
