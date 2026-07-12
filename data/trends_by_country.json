@@ -1,194 +1,196 @@
 {
-  "generated_at_utc": "2026-07-12T07:22:28.725919+00:00",
+  "generated_at_utc": "2026-07-12T09:22:36.114108+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 12 2026 06:57:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 08:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "McGregor",
-        "#UFC329",
         "Argentina",
+        "#UFC329",
         "Paddy",
-        "Switzerland",
+        "South Carolina",
         "Embolo",
-        "Senator Graham",
-        "Swiss",
+        "Switzerland",
+        "Rest in Peace",
         "Holloway",
-        "Paredes"
+        "Swiss"
       ],
       "hashtags": [
         "#UFC329",
-        "#UFC239",
         "#Toonami",
+        "#MyAdventuresWithSuperman",
         "#ARGSUI",
-        "#TokyoRevengers"
+        "#SeductiveSunday"
       ],
       "regular_topics": [
         "Lindsey Graham",
         "McGregor",
         "Argentina",
         "Paddy",
-        "Switzerland",
+        "South Carolina",
         "Embolo",
-        "Senator Graham",
-        "Swiss",
+        "Switzerland",
+        "Rest in Peace",
         "Holloway",
-        "Paredes",
-        "Dana White"
+        "Swiss",
+        "John McCain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 12 2026 06:32:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 09:06:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "McGregor",
-        "#UFC329",
+        "#bbclaurak",
+        "Lindsey Graham",
         "Argentina",
-        "Embolo",
-        "Paddy",
-        "Alvarez",
-        "#ARGSUI",
         "Tuchel",
-        "Norway",
-        "Bellingham",
-        "#NORENG"
+        "McGregor",
+        "Embolo",
+        "#SundayYellow",
+        "Gabriel Clarke",
+        "Mitch McConnell",
+        "Nadhim Zahawi",
+        "Femi"
       ],
       "hashtags": [
+        "#bbclaurak",
+        "#SundayYellow",
         "#UFC329",
+        "#ENGARG",
         "#ARGSUI",
-        "#NORENG",
-        "#ThreeLions"
+        "#ValkoIsLoved"
       ],
       "regular_topics": [
-        "McGregor",
+        "Lindsey Graham",
         "Argentina",
-        "Embolo",
-        "Paddy",
-        "Alvarez",
         "Tuchel",
-        "Norway",
-        "Bellingham",
-        "Swiss",
-        "Spence",
-        "Paredes"
+        "McGregor",
+        "Embolo",
+        "Gabriel Clarke",
+        "Mitch McConnell",
+        "Nadhim Zahawi",
+        "Femi",
+        "Alfie",
+        "Argies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 12 2026 06:24:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 08:58:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Argentina",
-        "McGregor",
+        "Lindsey Graham",
         "#UFC329",
+        "Norway",
         "Embolo",
-        "Switzerland",
+        "McGregor",
+        "Sorloth",
         "Swiss",
         "Paddy",
-        "Alvarez",
-        "Paredes",
-        "Salsa",
-        "St. Clair"
+        "#NORENG",
+        "Haaland",
+        "Bellingham"
       ],
       "hashtags": [
         "#UFC329",
+        "#NORENG",
         "#ARGSUI",
-        "#skstorm",
-        "#ValkoIsLoved"
+        "#ValkoIsLoved",
+        "#OnEveryCorner"
       ],
       "regular_topics": [
-        "Argentina",
-        "McGregor",
+        "Lindsey Graham",
+        "Norway",
         "Embolo",
-        "Switzerland",
+        "McGregor",
+        "Sorloth",
         "Swiss",
         "Paddy",
-        "Alvarez",
-        "Paredes",
+        "Haaland",
+        "Bellingham",
         "Salsa",
-        "St. Clair",
-        "Holloway"
+        "St. Clair"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 12 2026 07:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 08:55:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BPCLSBICardOctane",
-        "#\u091a\u0941\u0928\u093e\u0935\u0940_\u0939\u093f\u0902\u0926\u0942_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
+        "#RiyazWonHearts",
+        "Paudhon Ka Maha Yagya",
         "#\u0928\u0928\u094d\u0926\u0940_\u092a\u0941\u0928\u0930\u094d\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935_2026",
-        "#E20RealityByKejriwal",
         "#GoGreen_UP",
-        "Argentina",
+        "#\u092e\u0941\u0928\u094d\u0928\u0940_\u0938\u0947_\u091c\u094d\u092f\u093e\u0926\u093e_\u092c\u0926\u0928\u093e\u092e_\u0938\u092a\u093e",
+        "#BPCLSBICardOctane",
         "Lindsey Graham",
-        "Gau Raksha",
-        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928",
-        "Alvarez",
-        "Embolo"
+        "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
+        "Argentina",
+        "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940",
+        "GFS Galaxy"
       ],
       "hashtags": [
-        "#BPCLSBICardOctane",
-        "#\u091a\u0941\u0928\u093e\u0935\u0940_\u0939\u093f\u0902\u0926\u0942_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
+        "#RiyazWonHearts",
         "#\u0928\u0928\u094d\u0926\u0940_\u092a\u0941\u0928\u0930\u094d\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935_2026",
-        "#E20RealityByKejriwal",
-        "#GoGreen_UP"
+        "#GoGreen_UP",
+        "#\u092e\u0941\u0928\u094d\u0928\u0940_\u0938\u0947_\u091c\u094d\u092f\u093e\u0926\u093e_\u092c\u0926\u0928\u093e\u092e_\u0938\u092a\u093e",
+        "#BPCLSBICardOctane"
       ],
       "regular_topics": [
-        "Argentina",
+        "Paudhon Ka Maha Yagya",
         "Lindsey Graham",
-        "Gau Raksha",
-        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928",
-        "Alvarez",
-        "Embolo",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0936\u093f\u0915\u094d\u0937\u0915 \u092d\u0930\u094d\u0924\u0940",
+        "\u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923 \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
+        "Argentina",
+        "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940",
+        "GFS Galaxy",
+        "\u092a\u094c\u0927\u093e \u0927\u0930\u0924\u0940",
         "Khalifa Al Thani",
-        "Scaloni",
-        "Qatar"
+        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928",
+        "Uttar Pradesh",
+        "Nandi Ji"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 12 2026 06:20:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 12 2026 08:54:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Argentina",
         "Embolo",
-        "Switzerland",
-        "Alvarez",
-        "Scaloni",
         "Blessed Sunday",
-        "#ARGSUI",
-        "USA vs Paraguay",
+        "Lindsey Graham",
+        "Church",
+        "Today is Sunday",
+        "Bellingham",
         "Paredes",
-        "Swiss",
-        "Simeone",
-        "Lautaro Martinez"
+        "Happy Sunday CT",
+        "USA vs Paraguay",
+        "Tuchel"
       ],
       "hashtags": [
-        "#ARGSUI",
-        "#UFC329",
-        "#NORENG"
+        "#SundayService",
+        "#ARGSUI"
       ],
       "regular_topics": [
+        "Argentina",
         "Embolo",
-        "Switzerland",
-        "Alvarez",
-        "Scaloni",
         "Blessed Sunday",
-        "USA vs Paraguay",
+        "Lindsey Graham",
+        "Church",
+        "Today is Sunday",
+        "Bellingham",
         "Paredes",
-        "Swiss",
-        "Simeone",
-        "Lautaro Martinez",
-        "Beautiful Sunday"
+        "Happy Sunday CT",
+        "USA vs Paraguay",
+        "Tuchel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
