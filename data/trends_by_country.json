@@ -1,127 +1,124 @@
 {
-  "generated_at_utc": "2026-07-12T23:39:27.636851+00:00",
+  "generated_at_utc": "2026-07-13T01:22:20.075479+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 12 2026 23:16:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 01:00:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RHOA",
+        "Shamea",
         "Lindsey Graham",
         "CNBC",
-        "LOUDER THAN BOMBS",
-        "Lindor",
-        "Aortic",
-        "Dillon Mitchell",
-        "John Ritter",
-        "#NicVansxLIV",
-        "Haley",
-        "#GCWMelee",
-        "Nancy Mace"
+        "Porsha",
+        "#BaddiesUSA",
+        "#90DayFiance",
+        "Tennessee",
+        "Kelli",
+        "Garth",
+        "#NASCAR"
       ],
       "hashtags": [
-        "#NicVansxLIV",
-        "#GCWMelee",
-        "#BadBoysDR",
-        "#holla",
-        "#BadBoysDominicanRepublic"
+        "#RHOA",
+        "#BaddiesUSA",
+        "#90DayFiance",
+        "#NASCAR",
+        "#BaddiesGoneWild"
       ],
       "regular_topics": [
+        "Shamea",
         "Lindsey Graham",
         "CNBC",
-        "LOUDER THAN BOMBS",
-        "Lindor",
-        "Aortic",
-        "Dillon Mitchell",
-        "John Ritter",
+        "Porsha",
+        "Tennessee",
+        "Kelli",
+        "Garth",
         "Haley",
-        "Nancy Mace",
-        "Ashley",
-        "No IV"
+        "Aortic",
+        "No IV",
+        "Washington Post"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 12 2026 22:51:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 00:33:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ellie",
         "Finley",
         "Sean",
-        "#loveislandaftersun",
-        "Elicia",
         "Falklands",
+        "#loveislandaftersun",
         "Manzambi",
-        "Ethan",
-        "Eddie Howe",
+        "Elicia",
         "LOUDER THAN BOMBS",
-        "Rogers"
+        "Eddie Howe",
+        "Ethan",
+        "#LoveIslandDebrief"
       ],
       "hashtags": [
         "#loveislandaftersun",
-        "#ThePiano",
-        "#Wimbledon",
-        "#TheDark",
-        "#wildflowerhour"
+        "#LoveIslandDebrief"
       ],
       "regular_topics": [
         "Ellie",
         "Finley",
         "Sean",
-        "Elicia",
         "Falklands",
         "Manzambi",
-        "Ethan",
-        "Eddie Howe",
+        "Elicia",
         "LOUDER THAN BOMBS",
-        "Rogers",
-        "Munich"
+        "Eddie Howe",
+        "Ethan",
+        "Munich",
+        "Rogers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 12 2026 22:42:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 00:27:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Hoffman",
         "#UFC329",
-        "Embolo",
         "England",
+        "Embolo",
         "Norway",
         "McGregor",
-        "Gausman",
         "Argentina",
-        "Switzerland",
-        "Salsa"
+        "Carney",
+        "Salsa",
+        "#NORENG"
       ],
       "hashtags": [
         "#UFC329",
         "#NORENG",
-        "#BlueJays",
         "#ARGSUI",
-        "#ValkoIsLoved"
+        "#ValkoIsLoved",
+        "#CFMTL"
       ],
       "regular_topics": [
         "Lindsey Graham",
         "Hoffman",
-        "Embolo",
         "England",
+        "Embolo",
         "Norway",
         "McGregor",
-        "Gausman",
         "Argentina",
-        "Switzerland",
+        "Carney",
         "Salsa",
-        "Carney"
+        "Switzerland",
+        "St. Clair"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 12 2026 22:40:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 00:24:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GoGreen_UP",
         "paudhon ka maha yagya",
@@ -129,10 +126,10 @@
         "#nagabandhamincinemas",
         "#riyazwonhearts",
         "#\u0928\u0928\u094d\u0926\u0940_\u092a\u0941\u0928\u0930\u094d\u091c\u0928\u094d\u092e\u094b\u0924\u094d\u0938\u0935_2026",
-        "LOUDER THAN BOMBS",
-        "Munich",
         "England",
+        "LOUDER THAN BOMBS",
         "Zverev",
+        "Munich",
         "Lindsey Graham"
       ],
       "hashtags": [
@@ -144,54 +141,52 @@
       ],
       "regular_topics": [
         "paudhon ka maha yagya",
-        "LOUDER THAN BOMBS",
-        "Munich",
         "England",
+        "LOUDER THAN BOMBS",
         "Zverev",
+        "Munich",
         "Lindsey Graham",
-        "Jannik Sinner",
         "Norway",
         "Switzerland",
-        "Yastika Bhatia",
-        "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940"
+        "\u0938\u094c\u0930\u092d \u091c\u094b\u0936\u0940",
+        "Sinner",
+        "Yastika Bhatia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 12 2026 22:39:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 00:24:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Laporta",
         "Newcastle",
         "Tomorrow is Monday",
-        "Aston Villa",
-        "Laporta",
         "WAEC",
+        "Aston Villa",
+        "$BISON",
         "#JULYFOROLUWASON",
-        "#Oluwaforce",
-        "Johan Manzambi",
-        "Jannik Sinner",
-        "Yann Sommer",
-        "Bronx, NY"
+        "Bronx, NY",
+        "Moonpay",
+        "Sterling",
+        "Ellie"
       ],
       "hashtags": [
         "#JULYFOROLUWASON",
-        "#Oluwaforce",
-        "#GodNightSunday",
         "#AVFC"
       ],
       "regular_topics": [
+        "Laporta",
         "Newcastle",
         "Tomorrow is Monday",
-        "Aston Villa",
-        "Laporta",
         "WAEC",
-        "Johan Manzambi",
-        "Jannik Sinner",
-        "Yann Sommer",
+        "Aston Villa",
+        "$BISON",
         "Bronx, NY",
+        "Moonpay",
+        "Sterling",
         "Ellie",
-        "Zverev"
+        "Yankee Stadium"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
