@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-07-13T19:54:43.390054+00:00",
+  "generated_at_utc": "2026-07-13T20:45:39.383273+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 13 2026 19:04:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 19:56:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Freddy",
         "lexie",
+        "#SwiftDay",
         "Lamar",
-        "#TejRan",
         "#Rashmer",
-        "Sam Neill",
+        "#TejRan",
         "Biddeford",
         "#jonita",
-        "Tim Scott",
+        "#tommavi",
         "Carrie",
-        "Gowdy"
+        "Tim Scott"
       ],
       "hashtags": [
-        "#TejRan",
+        "#SwiftDay",
         "#Rashmer",
+        "#TejRan",
         "#jonita",
-        "#tommavi",
-        "#SwiftDay"
+        "#tommavi"
       ],
       "regular_topics": [
         "Freddy",
         "lexie",
         "Lamar",
-        "Sam Neill",
         "Biddeford",
-        "Tim Scott",
         "Carrie",
-        "Gowdy",
+        "Tim Scott",
         "Home Run Derby",
-        "The ICC",
-        "Boosie"
+        "Elm Street",
+        "Gowdy",
+        "Boosie",
+        "Sam Neill"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 13 2026 19:33:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 20:27:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#onlyconnect",
+        "#universitychallenge",
         "Wayne Broadhurst",
-        "Tielemans",
+        "#onlyconnect",
         "lexie",
-        "#Mastermind",
+        "Coalition",
         "Jim White",
-        "#SwiftDay",
+        "Tielemans",
+        "Hatred",
         "Saudi Arabia",
-        "Freddy",
-        "Simon Jordan",
-        "IRGC"
+        "FA Cup",
+        "#mastermind"
       ],
       "hashtags": [
+        "#universitychallenge",
         "#onlyconnect",
-        "#Mastermind",
+        "#mastermind",
         "#SwiftDay",
-        "#thechase",
-        "#Hollyoaks"
+        "#thechase"
       ],
       "regular_topics": [
         "Wayne Broadhurst",
-        "Tielemans",
         "lexie",
+        "Coalition",
         "Jim White",
+        "Tielemans",
+        "Hatred",
         "Saudi Arabia",
-        "Freddy",
+        "FA Cup",
         "Simon Jordan",
-        "IRGC",
-        "Suffolk",
-        "Mack",
-        "Carrie"
+        "Chip",
+        "Freddy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 13 2026 19:20:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 20:12:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Sam Neill",
         "Jurassic Park",
         "Tielemans",
         "Hoffman",
-        "lexie",
         "Strait of Hormuz",
+        "lexie",
         "Event Horizon",
         "Argentina",
         "Iran",
-        "Conor"
+        "#ValkoIsLoved"
       ],
       "hashtags": [
         "#ValkoIsLoved",
-        "#SwiftDay",
         "#RHOA",
-        "#UFC329",
-        "#BYDSEALION5DMixLingLingKwong"
+        "#SwiftDay",
+        "#BYDSEALION5DMixLingLingKwong",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Lindsey Graham",
@@ -109,89 +109,88 @@
         "Jurassic Park",
         "Tielemans",
         "Hoffman",
-        "lexie",
         "Strait of Hormuz",
+        "lexie",
         "Event Horizon",
         "Argentina",
         "Iran",
-        "Conor"
+        "Salsa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 13 2026 19:18:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 20:09:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BankipurKaBetaNeeraj",
         "#JCMangoFest2026",
-        "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
-        "#BeliftLabSpeakUp",
         "#MassBoycottHYBE",
+        "#BeliftLabSpeakUp",
         "Tahir Hussain",
-        "#GodNightMonday",
+        "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
         "Saudi Arabia",
-        "Yemen",
+        "#GodNightMonday",
         "Ankit Sharma",
+        "Yemen",
         "lexie"
       ],
       "hashtags": [
         "#BankipurKaBetaNeeraj",
         "#JCMangoFest2026",
-        "#BeliftLabSpeakUp",
         "#MassBoycottHYBE",
+        "#BeliftLabSpeakUp",
         "#GodNightMonday"
       ],
       "regular_topics": [
-        "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
         "Tahir Hussain",
+        "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
         "Saudi Arabia",
-        "Yemen",
         "Ankit Sharma",
+        "Yemen",
         "lexie",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
         "\u091c\u0948\u0938\u0940 \u0906\u0915\u0943\u0924\u093f",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
         "Houthis",
-        "\u0905\u0902\u0915\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
-        "BST Iterator"
+        "BST Iterator",
+        "\u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0905\u0902\u0915\u093f\u0924 \u0936\u0930\u094d\u092e\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 13 2026 19:16:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 13 2026 20:08:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ezege",
         "Andrey Santos",
         "Famous Pluto",
+        "Embezzlement",
         "Tielemans",
-        "Manchester United",
-        "Season One",
-        "Harrison Bettoni",
-        "Money Laundering",
-        "Baleba",
+        "United Nations",
+        "MONEY LAUNDERING",
+        "Besiktas",
+        "Naira Abuse",
         "Appeal Court",
-        "Napoli"
+        "#freedjchicken"
       ],
       "hashtags": [
-        "#BetrPicks",
         "#freedjchicken",
-        "#MUFC",
-        "#iLotbetwinahouse"
+        "#BetrPicks",
+        "#BTSParis"
       ],
       "regular_topics": [
         "Ezege",
         "Andrey Santos",
         "Famous Pluto",
+        "Embezzlement",
         "Tielemans",
-        "Manchester United",
-        "Season One",
-        "Harrison Bettoni",
-        "Money Laundering",
-        "Baleba",
+        "United Nations",
+        "MONEY LAUNDERING",
+        "Besiktas",
+        "Naira Abuse",
         "Appeal Court",
-        "Napoli"
+        "Nicolas Jackson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
