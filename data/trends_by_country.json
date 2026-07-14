@@ -1,198 +1,197 @@
 {
-  "generated_at_utc": "2026-07-14T16:06:10.958067+00:00",
+  "generated_at_utc": "2026-07-14T17:37:28.475818+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 14 2026 15:44:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 16:36:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "TACO Tuesday",
-        "#OlandriaxTIME100",
+        "Taco Tuesday",
+        "#RTXPowersPlay",
         "$IBM",
         "Bastille Day",
+        "#ChilisinSeattle",
+        "#OlandriaxTIME100",
+        "Times Square",
+        "Jeffries",
         "Good Tuesday",
-        "SEC Media Days",
-        "#RTXPowersPlay",
         "Warsh",
-        "Go Cubs Go",
-        "Kagan",
-        "Hakeem Jeffries"
+        "SEC Media Days"
       ],
       "hashtags": [
-        "#OlandriaxTIME100",
         "#RTXPowersPlay",
+        "#ChilisinSeattle",
+        "#OlandriaxTIME100",
         "#PortfolioDay",
-        "#TuesdayMotivation",
-        "#InnovatingABrighterLife"
+        "#DaytimeEmmys"
       ],
       "regular_topics": [
-        "TACO Tuesday",
+        "Taco Tuesday",
         "$IBM",
         "Bastille Day",
+        "Times Square",
+        "Jeffries",
         "Good Tuesday",
-        "SEC Media Days",
         "Warsh",
+        "SEC Media Days",
         "Go Cubs Go",
         "Kagan",
-        "Hakeem Jeffries",
-        "June CPI",
-        "Courtland Sutton"
+        "Inflation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 14 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 17:03:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rwanda",
-        "Betano",
-        "Covid",
-        "Karl Darlow",
-        "Trossard",
-        "#Qualify365",
-        "Joe Root",
+        "Michelle Mone",
+        "#thechase",
         "Portsmouth",
-        "#aplaceinthesun",
-        "Scott Mills",
-        "Gibraltar"
+        "John Simpson",
+        "Gibraltar",
+        "Macron",
+        "Thierry Henry",
+        "Covid",
+        "Trossard",
+        "Betano"
       ],
       "hashtags": [
+        "#thechase",
         "#Qualify365",
-        "#aplaceinthesun",
         "#ENGvIND",
-        "#PoliticsLive",
         "#spycops"
       ],
       "regular_topics": [
         "Rwanda",
-        "Betano",
-        "Covid",
-        "Karl Darlow",
-        "Trossard",
-        "Joe Root",
+        "Michelle Mone",
         "Portsmouth",
-        "Scott Mills",
+        "John Simpson",
         "Gibraltar",
-        "Dawson",
-        "Brighton"
+        "Macron",
+        "Thierry Henry",
+        "Covid",
+        "Trossard",
+        "Betano",
+        "France v Spain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 14 2026 15:10:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 16:52:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Sam Neill",
         "Jordan Walker",
         "Iran",
         "#HRDerby",
-        "Rath",
         "Jurassic Park",
+        "Strait of Hormuz",
         "Tielemans",
-        "Core CPI",
-        "$IBM",
-        "England"
+        "E. Jean Carroll",
+        "Rath",
+        "Taco Tuesday"
       ],
       "hashtags": [
         "#HRDerby",
-        "#OlandriaxTIME100",
         "#WWERaw",
         "#ValkoIsLoved",
-        "#RHOA"
+        "#RHOA",
+        "#Mondaymotivation"
       ],
       "regular_topics": [
         "Lindsey Graham",
         "Sam Neill",
         "Jordan Walker",
         "Iran",
-        "Rath",
         "Jurassic Park",
+        "Strait of Hormuz",
         "Tielemans",
-        "Core CPI",
-        "$IBM",
-        "England",
-        "Strait of Hormuz"
+        "E. Jean Carroll",
+        "Rath",
+        "Taco Tuesday",
+        "England"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 14 2026 16:00:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 16:51:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AndhaAkhilesh",
-        "#PropagandaAgainstGadkari",
         "#Samsung",
         "#NewShapeofGalaxy",
-        "#FIFASemifinalOnZEE5",
-        "Rohit",
+        "#PropagandaAgainstGadkari",
+        "#fifasemifinalonzee5",
         "Gill",
-        "Joe Root",
-        "Ramgarh Taal",
-        "AERA",
+        "KL Rahul",
+        "Washington Sundar",
+        "Rohit",
+        "Madhuri ji",
         "Innovation"
       ],
       "hashtags": [
         "#AndhaAkhilesh",
-        "#PropagandaAgainstGadkari",
         "#Samsung",
         "#NewShapeofGalaxy",
-        "#FIFASemifinalOnZEE5"
+        "#PropagandaAgainstGadkari",
+        "#fifasemifinalonzee5"
       ],
       "regular_topics": [
-        "Rohit",
         "Gill",
-        "Joe Root",
+        "KL Rahul",
+        "Washington Sundar",
+        "Rohit",
+        "Madhuri ji",
+        "Innovation",
         "Ramgarh Taal",
         "AERA",
-        "Innovation",
-        "Ro-Ko",
+        "Joe Root",
         "\u0926\u0947\u0935\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
-        "Dawson",
-        "France vs Spain",
-        "\u0938\u092e\u092f \u0930\u0948\u0928\u093e"
+        "France vs Spain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 14 2026 15:58:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 16:48:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Elon",
         "Nikita",
         "Algorithm",
+        "#Unfaded",
+        "Adeniyi Adeyemi",
+        "Noxa",
         "Fadeyi",
-        "#BringTheGameToLife",
-        "#WatchWithTECNO",
+        "Toba",
         "Frenkie",
-        "Karl Darlow",
-        "Bernal",
-        "Adeniyi Adeyemi"
+        "Trossard"
       ],
       "hashtags": [
+        "#Unfaded",
         "#BringTheGameToLife",
+        "#BinanceTurns9",
         "#WatchWithTECNO",
-        "#NoCaseNoWahala",
-        "#PstBiodunLiveAtIbadanStadium",
-        "#BinanceTurns9"
+        "#NoCaseNoWahala"
       ],
       "regular_topics": [
         "Spain",
         "Elon",
         "Nikita",
         "Algorithm",
-        "Fadeyi",
-        "Frenkie",
-        "Karl Darlow",
-        "Bernal",
         "Adeniyi Adeyemi",
+        "Noxa",
+        "Fadeyi",
+        "Toba",
+        "Frenkie",
         "Trossard",
-        "Toba"
+        "Bernal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
