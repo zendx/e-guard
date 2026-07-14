@@ -1,48 +1,49 @@
 {
-  "generated_at_utc": "2026-07-14T10:28:50.878442+00:00",
+  "generated_at_utc": "2026-07-14T11:52:34.038938+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 14 2026 09:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 11:27:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Lindsey Graham",
         "Jordan Walker",
-        "Good Tuesday",
-        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
-        "$TRUMPCOIN",
         "#HRDerby",
+        "Sam Neill",
+        "Good Tuesday",
+        "Jurassic Park",
         "#WWERaw",
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "Schwarber",
-        "Seth",
-        "Kyogre",
-        "Tzuyu",
-        "James Franco"
+        "Porsha",
+        "Freddy"
       ],
       "hashtags": [
-        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "#HRDerby",
         "#WWERaw",
-        "#TheOdyssey"
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
+        "#RHOA",
+        "#bb28"
       ],
       "regular_topics": [
+        "Lindsey Graham",
         "Jordan Walker",
+        "Sam Neill",
         "Good Tuesday",
-        "$TRUMPCOIN",
+        "Jurassic Park",
         "Schwarber",
-        "Seth",
-        "Kyogre",
-        "Tzuyu",
-        "James Franco",
-        "Olivia Miles",
-        "Joan Sebastian Guerrero",
-        "Bayley"
+        "Porsha",
+        "Freddy",
+        "South Carolina",
+        "Shamea",
+        "Rihanna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 14 2026 10:09:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 11:01:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tielemans",
         "England",
@@ -50,18 +51,18 @@
         "Falklands",
         "#CurrysFootball",
         "Ann Widdecombe",
-        "Jurassic Park",
         "IRGC",
-        "Ellie",
+        "Jurassic Park",
         "Wayne Broadhurst",
-        "#popmaster"
+        "#popmaster",
+        "Ellie"
       ],
       "hashtags": [
         "#CurrysFootball",
         "#popmaster",
         "#ASongOrMovieForAboutFrance",
         "#avfc",
-        "#jeremyvine"
+        "#Qualify365"
       ],
       "regular_topics": [
         "Tielemans",
@@ -69,10 +70,10 @@
         "Sam Neill",
         "Falklands",
         "Ann Widdecombe",
-        "Jurassic Park",
         "IRGC",
-        "Ellie",
+        "Jurassic Park",
         "Wayne Broadhurst",
+        "Ellie",
         "Norway",
         "Villa"
       ],
@@ -81,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 14 2026 10:01:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 10:52:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Sam Neill",
@@ -89,11 +90,11 @@
         "#HRDerby",
         "Jurassic Park",
         "Iran",
-        "#WWERaw",
         "Tielemans",
+        "#WWERaw",
         "Strait of Hormuz",
         "Argentina",
-        "Hoffman"
+        "England"
       ],
       "hashtags": [
         "#HRDerby",
@@ -111,85 +112,87 @@
         "Tielemans",
         "Strait of Hormuz",
         "Argentina",
-        "Hoffman",
-        "Shamea",
-        "Event Horizon"
+        "England",
+        "Event Horizon",
+        "Lexie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 14 2026 09:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 11:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UnstoppableE20Petrol",
+        "#AnantQ1Vision",
         "#SupportE20PetrolDotCom",
+        "Gurnoor Brar",
         "#HighMomentumStock",
+        "Bumrah",
         "#\u0930\u093e\u092e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0907\u0902\u0921\u0940_\u090f\u0932\u093e\u092f\u0902\u0938",
-        "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u093e\u0932",
-        "#StopE20PetrolDotCom",
-        "Rights Issue Opportunity",
-        "Ashnisha Industries",
-        "Nitin Gadkari Ji",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "Sonam Wangchuk"
+        "Prasidh Krishna",
+        "Anant Ambani",
+        "Reliance's Q1",
+        "Ashnisha Industries"
       ],
       "hashtags": [
         "#UnstoppableE20Petrol",
+        "#AnantQ1Vision",
         "#SupportE20PetrolDotCom",
         "#HighMomentumStock",
-        "#\u0930\u093e\u092e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0907\u0902\u0921\u0940_\u090f\u0932\u093e\u092f\u0902\u0938",
-        "#StopE20PetrolDotCom"
+        "#\u0930\u093e\u092e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0907\u0902\u0921\u0940_\u090f\u0932\u093e\u092f\u0902\u0938"
       ],
       "regular_topics": [
-        "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u093e\u0932",
-        "Rights Issue Opportunity",
+        "Gurnoor Brar",
+        "Bumrah",
+        "Prasidh Krishna",
+        "Anant Ambani",
+        "Reliance's Q1",
         "Ashnisha Industries",
+        "Washington Sundar",
         "Nitin Gadkari Ji",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "Sonam Wangchuk",
+        "Duckett",
         "Kuldeep",
-        "Annapurna Muhim Sant RampalJi",
-        "\u0905\u0930\u0935\u093f\u0902\u0926 \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
-        "RE Closing Soon",
-        "AIMIM"
+        "Jacob Bethell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 14 2026 09:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 10:48:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nikita",
-        "Taco Tuesday",
+        "Sunderland",
         "Lille",
+        "Meunier",
+        "Taco Tuesday",
         "Ayyoub Bouaddi",
         "Delap",
-        "THE LORD BLOCKED IT",
         "Patience Jonathan",
         "France vs Spain",
-        "Rackz",
         "Curtis Jones",
-        "France 2"
+        "#CWAYOTG"
       ],
       "hashtags": [
+        "#CWAYOTG",
         "#HisFansWelcomeHimWithLove",
-        "#KIMSOOHYUN",
+        "#Kimsoohyun",
+        "#\uc5b4\uc11c\uc640\uae40\uc218\ud604_\ubcf4\uace0\uc2f6\uc5c8\uc5b4",
         "#FRAESP"
       ],
       "regular_topics": [
         "Nikita",
-        "Taco Tuesday",
+        "Sunderland",
         "Lille",
+        "Meunier",
+        "Taco Tuesday",
         "Ayyoub Bouaddi",
         "Delap",
-        "THE LORD BLOCKED IT",
         "Patience Jonathan",
         "France vs Spain",
-        "Rackz",
         "Curtis Jones",
-        "France 2"
+        "THE LORD BLOCKED IT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
