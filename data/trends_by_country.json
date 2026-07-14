@@ -1,96 +1,96 @@
 {
-  "generated_at_utc": "2026-07-14T06:30:56.178139+00:00",
+  "generated_at_utc": "2026-07-14T08:56:24.552464+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 14 2026 06:18:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 08:00:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jordan Walker",
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "#HRDerby",
         "#WWERaw",
         "Schwarber",
+        "$TRUMPCOIN",
         "Philly",
         "Olivia Miles",
-        "Roman",
         "Seth",
-        "#STLCards",
-        "Tzuyu",
-        "Lyra"
+        "Roman",
+        "Tzuyu"
       ],
       "hashtags": [
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "#HRDerby",
         "#WWERaw",
-        "#STLCards",
-        "#TheOdyssey",
-        "#NYCLocketTour"
+        "#stlcards",
+        "#TheOdyssey"
       ],
       "regular_topics": [
         "Jordan Walker",
         "Schwarber",
+        "$TRUMPCOIN",
         "Philly",
         "Olivia Miles",
-        "Roman",
         "Seth",
+        "Roman",
         "Tzuyu",
         "Lyra",
-        "Phillies",
         "Contreras",
-        "Caleb Wilson"
+        "James Franco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 14 2026 05:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 08:27:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tielemans",
-        "Sam Neill",
         "England",
+        "Sam Neill",
         "Falklands",
         "#CurrysFootball",
-        "#WWERaw",
-        "Ellie",
-        "Jurassic Park",
         "Ann Widdecombe",
-        "Finley",
+        "#thicktrunktuesday",
+        "Jurassic Park",
+        "Ellie",
+        "#ASongOrMovieForAboutFrance",
         "IRGC"
       ],
       "hashtags": [
         "#CurrysFootball",
-        "#WWERaw",
-        "#avfc",
         "#thicktrunktuesday",
-        "#universitychallenge"
+        "#ASongOrMovieForAboutFrance",
+        "#r4today",
+        "#AVFC"
       ],
       "regular_topics": [
         "Tielemans",
-        "Sam Neill",
         "England",
+        "Sam Neill",
         "Falklands",
-        "Ellie",
-        "Jurassic Park",
         "Ann Widdecombe",
-        "Finley",
+        "Jurassic Park",
+        "Ellie",
         "IRGC",
-        "Villa",
-        "Lindsey Graham"
+        "Finley",
+        "Wayne Broadhurst",
+        "Norway"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 14 2026 05:43:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 08:18:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lindsey Graham",
         "Sam Neill",
         "Jordan Walker",
         "#HRDerby",
         "Jurassic Park",
-        "Tielemans",
         "Iran",
+        "Tielemans",
         "#WWERaw",
         "Strait of Hormuz",
         "Argentina",
@@ -99,8 +99,8 @@
       "hashtags": [
         "#HRDerby",
         "#WWERaw",
-        "#RHOA",
         "#ValkoIsLoved",
+        "#RHOA",
         "#BYDSEALION5DMixLingLingKwong"
       ],
       "regular_topics": [
@@ -108,12 +108,12 @@
         "Sam Neill",
         "Jordan Walker",
         "Jurassic Park",
-        "Tielemans",
         "Iran",
+        "Tielemans",
         "Strait of Hormuz",
         "Argentina",
         "Hoffman",
-        "Shamea",
+        "England",
         "Event Horizon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,76 +121,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 14 2026 05:40:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 08:16:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HighMomentumStock",
+        "#NewShapeofGalaxy",
+        "#Samsung",
+        "#StopE20PetrolDotCom",
         "#SumeetREClosesTomorrow",
-        "#HighConvictionStock",
-        "#\u0938\u092e\u0930\u094d\u0925_\u0915\u092c\u0940\u0930_\u0915\u0947_\u0938\u0941\u0926\u093e\u092e\u093e\u0913\u0902\u0915\u0947_\u092e\u0939\u0932",
-        "Annapurna Muhim Sant RampalJi",
-        "#Day_6_Upper_Circuit_Stock",
-        "#MainBhiOpus",
         "Rights Issue Opportunity",
         "Ashnisha Industries",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
-        "Vanaja Sundar Iyer",
-        "\u0930\u093e\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u0938\u093f\u0902\u0939"
+        "Annapurna Muhim Sant RampalJi",
+        "Nothing Phone 4b",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "Vanaja Sundar Iyer"
       ],
       "hashtags": [
-        "#SumeetREClosesTomorrow",
-        "#HighConvictionStock",
-        "#\u0938\u092e\u0930\u094d\u0925_\u0915\u092c\u0940\u0930_\u0915\u0947_\u0938\u0941\u0926\u093e\u092e\u093e\u0913\u0902\u0915\u0947_\u092e\u0939\u0932",
-        "#Day_6_Upper_Circuit_Stock",
-        "#MainBhiOpus"
+        "#HighMomentumStock",
+        "#NewShapeofGalaxy",
+        "#Samsung",
+        "#StopE20PetrolDotCom",
+        "#SumeetREClosesTomorrow"
       ],
       "regular_topics": [
-        "Annapurna Muhim Sant RampalJi",
         "Rights Issue Opportunity",
         "Ashnisha Industries",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
+        "Annapurna Muhim Sant RampalJi",
+        "Nothing Phone 4b",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
         "Vanaja Sundar Iyer",
-        "\u0930\u093e\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "Sonam Wangchuk",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0938\u0902\u0918",
+        "3 Idiots",
         "\u0917\u0930\u0940\u092c \u092a\u0930\u093f\u0935\u093e\u0930",
-        "\u0938\u092e\u0930\u094d\u0925 \u0915\u092c\u0940\u0930",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "\u0905\u0928\u094d\u0928\u092a\u0942\u0930\u094d\u0923\u093e \u092e\u093f\u0936\u0928",
-        "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e \u0938\u0941\u0902\u0926\u0930\u0940"
+        "\u0930\u093e\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u0938\u093f\u0902\u0939"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 14 2026 05:39:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 08:12:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tielemans",
         "Taco Tuesday",
-        "Amen",
-        "Happy New Week",
-        "England",
-        "Aston Villa",
-        "GM CT",
-        "Manchester United",
-        "Robinhood",
-        "WAEC",
-        "Jane Lynch"
+        "THE LORD BLOCKED IT",
+        "Nikita",
+        "Rackz",
+        "$TRUMPCOIN",
+        "Blessed Tuesday",
+        "Sounds From The Other Side",
+        "Curtis Jones",
+        "Norway and Argentina",
+        "$BKN",
+        "Delap"
       ],
       "hashtags": [
-        "#MondayMotivation",
-        "#ilotbetwinahouse",
-        "#WWERaw"
+        "#HisFansWelcomeHimWithLove",
+        "#KIMSOOHYUN",
+        "#FRAESP"
       ],
       "regular_topics": [
-        "Tielemans",
         "Taco Tuesday",
-        "Amen",
-        "Happy New Week",
-        "England",
-        "Aston Villa",
-        "GM CT",
-        "Manchester United",
-        "Robinhood",
-        "WAEC",
-        "Jane Lynch"
+        "THE LORD BLOCKED IT",
+        "Nikita",
+        "Rackz",
+        "$TRUMPCOIN",
+        "Blessed Tuesday",
+        "Sounds From The Other Side",
+        "Curtis Jones",
+        "Norway and Argentina",
+        "$BKN",
+        "Delap"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
