@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-07-14T21:27:08.735951+00:00",
+  "generated_at_utc": "2026-07-14T22:27:51.085679+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 14 2026 20:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 21:48:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Digne",
+        "Espa\u00f1a",
+        "Mbappe",
         "Yamal",
+        "Rodri",
+        "Dembele",
         "Olise",
         "#FRAESP",
-        "Dembele",
-        "Espa\u00f1a",
-        "Rabiot",
-        "Rodri",
-        "Pedro Porro",
-        "Deschamps"
+        "Digne",
+        "Deschamps",
+        "Cucurella"
       ],
       "hashtags": [
         "#FRAESP",
         "#FIFAWordlCup2026",
+        "#ESPFRA",
         "#ChilisinSeattle",
-        "#RTXPowersPlay",
-        "#PortfolioDay"
+        "#FRAvsESP"
       ],
       "regular_topics": [
         "Spain",
-        "Digne",
-        "Yamal",
-        "Olise",
-        "Dembele",
         "Espa\u00f1a",
-        "Rabiot",
+        "Mbappe",
+        "Yamal",
         "Rodri",
-        "Pedro Porro",
+        "Dembele",
+        "Olise",
+        "Digne",
         "Deschamps",
-        "Saliba"
+        "Cucurella",
+        "Pedro Porro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 14 2026 20:30:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 22:12:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "#FRAESP",
-        "Digne",
-        "Olise",
         "Rodri",
-        "Saliba",
+        "Dembele",
         "Yamal",
-        "#FRASPA",
-        "Rabiot",
-        "Pedro Porro",
-        "Deschamps"
+        "Priya",
+        "Mbappe",
+        "Deschamps",
+        "Digne",
+        "Saliba",
+        "#FRASPA"
       ],
       "hashtags": [
         "#FRAESP",
         "#FRASPA",
-        "#worldcupfifa",
+        "#FIFAWordlCup2026",
         "#ESPFRA",
-        "#itvfootball"
+        "#OnEveryCorner"
       ],
       "regular_topics": [
         "Spain",
-        "Digne",
-        "Olise",
         "Rodri",
-        "Saliba",
+        "Dembele",
         "Yamal",
-        "Rabiot",
-        "Pedro Porro",
+        "Priya",
+        "Mbappe",
         "Deschamps",
-        "Olmo",
-        "Barcola"
+        "Digne",
+        "Saliba",
+        "Cucurella",
+        "Porro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 14 2026 21:12:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 22:04:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "#FRAESP",
@@ -94,7 +94,7 @@
         "Deschamps",
         "Digne",
         "#FIFAWordlCup2026",
-        "Rabiot"
+        "Tchouameni"
       ],
       "hashtags": [
         "#FRAESP",
@@ -111,87 +111,87 @@
         "Olise",
         "Deschamps",
         "Digne",
+        "Tchouameni",
         "Rabiot",
-        "Saliba",
-        "Cucurella"
+        "Saliba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 14 2026 21:10:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 22:01:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "#FRAESP",
         "#FIFAWordlCup2026",
-        "Rodri",
         "Mbappe",
+        "Rodri",
+        "Yamal",
         "Dembele",
         "Olise",
-        "Yamal",
         "Pedro Porro",
-        "STOP TARGETING YOGESH",
-        "#ESPFRA"
+        "Olmo",
+        "Cucurella"
       ],
       "hashtags": [
         "#FRAESP",
         "#FIFAWordlCup2026",
         "#ESPFRA",
-        "#CokeMatchDayHangout",
-        "#Espa\u00f1aFrancia"
+        "#Espa\u00f1aFrancia",
+        "#CokeMatchDayHangout"
       ],
       "regular_topics": [
         "Spain",
-        "Rodri",
         "Mbappe",
+        "Rodri",
+        "Yamal",
         "Dembele",
         "Olise",
-        "Yamal",
         "Pedro Porro",
-        "STOP TARGETING YOGESH",
         "Olmo",
-        "Unai Simon",
-        "Cucurella"
+        "Cucurella",
+        "STOP TARGETING YOGESH",
+        "Unai Simon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 14 2026 21:09:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 14 2026 22:00:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "#FRAESP",
         "Rodri",
-        "Olise",
+        "Mbappe",
         "Yamal",
-        "Rabiot",
+        "#FRAESP",
+        "Olise",
         "Cucurella",
-        "Digne",
+        "Rabiot",
         "Deschamps",
-        "Olmo",
-        "Saliba"
+        "Pedro Porro",
+        "Olmo"
       ],
       "hashtags": [
         "#FRAESP",
         "#ESPFRA",
         "#FIFAWordlCup2026",
         "#Espa\u00f1aFrancia",
-        "#FRASPA"
+        "#SSFootball"
       ],
       "regular_topics": [
         "Spain",
         "Rodri",
-        "Olise",
+        "Mbappe",
         "Yamal",
-        "Rabiot",
+        "Olise",
         "Cucurella",
-        "Digne",
+        "Rabiot",
         "Deschamps",
+        "Pedro Porro",
         "Olmo",
-        "Saliba",
-        "Pedro Porro"
+        "Saliba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
