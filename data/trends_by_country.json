@@ -1,197 +1,197 @@
 {
-  "generated_at_utc": "2026-07-15T17:06:48.631425+00:00",
+  "generated_at_utc": "2026-07-15T18:34:36.833497+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 15 2026 16:43:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 17:34:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Todd Blanche",
         "Batman",
-        "Yzerman",
-        "Larkin",
         "Lindell",
+        "Yzerman",
         "Matt Reeves",
-        "$BULLCAT",
+        "Larkin",
+        "Clayton",
         "JJ Abrams",
-        "Standard Time",
-        "BZZR",
+        "#NationalHotDogDay",
+        "$BULLCAT",
         "Pokemon Center"
       ],
       "hashtags": [
         "#NationalHotDogDay",
         "#FundHealthcareNotWars",
-        "#BuschCashCrop",
-        "#LGRW",
-        "#TejRan"
+        "#Rashmer",
+        "#TejRan",
+        "#jonita"
       ],
       "regular_topics": [
         "Todd Blanche",
         "Batman",
-        "Yzerman",
-        "Larkin",
         "Lindell",
+        "Yzerman",
         "Matt Reeves",
-        "$BULLCAT",
+        "Larkin",
+        "Clayton",
         "JJ Abrams",
-        "Standard Time",
-        "BZZR",
-        "Pokemon Center"
+        "$BULLCAT",
+        "Pokemon Center",
+        "Rotten Tomatoes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 15 2026 16:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 17:57:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$BULLCAT",
         "#ENGARG",
-        "PMQs",
-        "The Batman",
-        "Matt Reeves",
-        "#CurrysHarryKane",
         "COME ON ENGLAND",
         "#ssnthreelions",
+        "Mr Clutch",
+        "O\u2019Reilly",
+        "Simeone",
+        "PMQs",
+        "Morgan Rogers",
         "England vs Argentina",
-        "British Asian",
-        "Clapping"
+        "Matt Reeves",
+        "#TheChase"
       ],
       "hashtags": [
         "#ENGARG",
-        "#CurrysHarryKane",
         "#ssnthreelions",
+        "#TheChase",
         "#itscominghome",
         "#ARGENG"
       ],
       "regular_topics": [
-        "$BULLCAT",
-        "PMQs",
-        "The Batman",
-        "Matt Reeves",
         "COME ON ENGLAND",
+        "Mr Clutch",
+        "O\u2019Reilly",
+        "Simeone",
+        "PMQs",
+        "Morgan Rogers",
         "England vs Argentina",
-        "British Asian",
-        "Clapping",
-        "Douglas Alexander",
-        "Beth",
-        "Balikwisha"
+        "Matt Reeves",
+        "Argies",
+        "The Batman",
+        "Chancellor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 15 2026 16:08:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 17:51:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Toronto",
         "Ontario",
-        "Steve Yzerman",
-        "Yamal",
+        "Toronto",
         "#FRAESP",
-        "#AllStarGame",
-        "Larkin",
+        "Yamal",
         "Rodri",
+        "#AllStarGame",
+        "Mantha",
         "Digne",
-        "Yzerplan"
+        "Yzerman",
+        "Larkin"
       ],
       "hashtags": [
         "#FRAESP",
         "#AllStarGame",
-        "#NJDevils",
-        "#LGRW",
-        "#wildfires"
+        "#wildfires",
+        "#FIFAWordlCup2026"
       ],
       "regular_topics": [
         "Spain",
-        "Toronto",
         "Ontario",
-        "Steve Yzerman",
+        "Toronto",
         "Yamal",
-        "Larkin",
         "Rodri",
-        "Digne",
-        "Yzerplan",
         "Mantha",
-        "Bank of Canada"
+        "Digne",
+        "Yzerman",
+        "Larkin",
+        "Deschamps",
+        "MPPs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 15 2026 16:57:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 17:48:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Unicorn_EmergentLabs",
         "#NewShapeofGalaxy",
+        "#CocaColaMatchDayHangout",
+        "#Unicorn_EmergentLabs",
         "Galaxy",
-        "#MahaCMforFarmers",
-        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a",
         "#Samsung",
+        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a",
+        "STOP SIDELINING YOGESH",
         "Innovation",
         "Bigger",
-        "Smarter",
         "THE SHREYA KALRA SHOW",
-        "Messi Vs Bellingham"
+        "Coca-Cola"
       ],
       "hashtags": [
-        "#Unicorn_EmergentLabs",
         "#NewShapeofGalaxy",
-        "#MahaCMforFarmers",
-        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a",
-        "#Samsung"
+        "#CocaColaMatchDayHangout",
+        "#Unicorn_EmergentLabs",
+        "#Samsung",
+        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a"
       ],
       "regular_topics": [
         "Galaxy",
+        "STOP SIDELINING YOGESH",
         "Innovation",
         "Bigger",
-        "Smarter",
         "THE SHREYA KALRA SHOW",
-        "Messi Vs Bellingham",
-        "Designed",
+        "Coca-Cola",
+        "Smarter",
         "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "STOP SIDELINING YOGESH",
-        "\u0906\u091c\u092e \u0916\u093e\u0928",
-        "Maharashtra"
+        "Designed",
+        "TALK OF THE TOWN HARSHAD",
+        "Messi Vs Bellingham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 15 2026 16:04:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 17:48:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "England",
-        "Bella Shmurda",
-        "Odogwu Asaba",
-        "Piercing",
-        "Oluwo of Iwo",
-        "Malami",
+        "#PastorDaysman",
         "#ENGARG",
-        "Matt Reeves",
-        "Government Secondary School",
-        "Joe Cole",
-        "Keke"
+        "Odogwu Asaba",
+        "Aubameyang",
+        "#ZabiraPredictWin26",
+        "Bella Shmurda",
+        "Diego Conde",
+        "Mr Clutch",
+        "Oluwo of Iwo",
+        "Giuliano Simeone"
       ],
       "hashtags": [
+        "#PastorDaysman",
         "#ENGARG",
-        "#WorldYouthSkillsDay",
-        "#22BetAlwaysPays",
-        "#FranciaEspa\u00f1a"
+        "#ZabiraPredictWin26",
+        "#runehall",
+        "#ARGENG"
       ],
       "regular_topics": [
         "England",
-        "Bella Shmurda",
         "Odogwu Asaba",
-        "Piercing",
+        "Aubameyang",
+        "Bella Shmurda",
+        "Diego Conde",
+        "Mr Clutch",
         "Oluwo of Iwo",
+        "Giuliano Simeone",
         "Malami",
-        "Matt Reeves",
-        "Government Secondary School",
-        "Joe Cole",
-        "Keke",
-        "NECO"
+        "Piercing",
+        "Mancini"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
