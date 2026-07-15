@@ -1,75 +1,73 @@
 {
-  "generated_at_utc": "2026-07-15T08:39:00.392285+00:00",
+  "generated_at_utc": "2026-07-15T10:39:38.232698+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 15 2026 08:06:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 09:48:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "GPT-5.6 Sol",
-        "Alvin",
-        "#AllStarGame",
+        "Good Wednesday",
         "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
-        "Standard Time",
-        "Miguel Vargas",
         "#monkeyappwins",
-        "Cody Bellinger",
-        "Bovino",
-        "Cameron Carr",
-        "Markiplier"
+        "Alvin",
+        "Standard Time",
+        "Rand Paul",
+        "Metawin",
+        "Himeko",
+        "Jack Smith",
+        "Vargas"
       ],
       "hashtags": [
-        "#AllStarGame",
         "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "#monkeyappwins",
-        "#WWENXT",
         "#HonkaiStarRail"
       ],
       "regular_topics": [
         "GPT-5.6 Sol",
+        "Good Wednesday",
         "Alvin",
         "Standard Time",
-        "Miguel Vargas",
-        "Cody Bellinger",
-        "Bovino",
-        "Cameron Carr",
-        "Markiplier",
-        "NDAA",
         "Rand Paul",
-        "Cam Carr"
+        "Metawin",
+        "Himeko",
+        "Jack Smith",
+        "Vargas",
+        "IMAX",
+        "Bovino"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 15 2026 07:40:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 10:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "#FRAESP",
+        "#CurrysHarryKane",
         "Rodri",
         "Digne",
-        "Yamal",
         "Falklands",
-        "Olise",
+        "Yamal",
         "#FRASPA",
+        "Olise",
         "Dembele",
-        "#RoseWednesday",
         "Deschamps"
       ],
       "hashtags": [
         "#FRAESP",
+        "#CurrysHarryKane",
         "#FRASPA",
-        "#RoseWednesday",
-        "#bbcbreakfast",
-        "#Wordle"
+        "#ENGARG",
+        "#RoseWednesday"
       ],
       "regular_topics": [
         "Spain",
         "Rodri",
         "Digne",
-        "Yamal",
         "Falklands",
+        "Yamal",
         "Olise",
         "Dembele",
         "Deschamps",
@@ -82,22 +80,22 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 15 2026 08:24:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 10:06:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "#AllStarGame",
+        "#allstargame",
         "#FRAESP",
         "Yamal",
         "Rodri",
         "Digne",
         "Deschamps",
         "Olise",
-        "Rabiot",
         "Rath",
-        "Bastille Day"
+        "Bastille Day",
+        "Rabiot"
       ],
       "hashtags": [
-        "#AllStarGame",
+        "#allstargame",
         "#FRAESP",
         "#FIFAWordlCup2026",
         "#WWENXT",
@@ -110,9 +108,9 @@
         "Digne",
         "Deschamps",
         "Olise",
-        "Rabiot",
         "Rath",
         "Bastille Day",
+        "Rabiot",
         "Cucurella",
         "Dembele"
       ],
@@ -121,78 +119,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 15 2026 08:21:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 10:04:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a",
+        "#MahaCMforFarmers",
+        "#Solar_Fii_stock_in_news",
         "#OnlyForASelectFew",
         "#MotorolaEdge70Max",
-        "#SumeetREClosesToday",
-        "#AmritStation",
-        "#Solar_Fii_stock_in_news",
+        "Desh Ka Growth Engine UP",
         "Jaipur Watch Company",
-        "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u093e\u0932",
+        "Sumeet Rights Entitlements",
         "Royal Baagh II",
         "Ashnisha Industries",
-        "Snapdragon 8 Gen 5",
-        "Quad HD"
+        "Hon'ble PM Shri"
       ],
       "hashtags": [
+        "#\u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u093e_\u092d\u093e\u090a_\u0926\u0947\u0935\u093e\u092d\u093e\u090a",
+        "#MahaCMforFarmers",
+        "#Solar_Fii_stock_in_news",
         "#OnlyForASelectFew",
-        "#MotorolaEdge70Max",
-        "#SumeetREClosesToday",
-        "#AmritStation",
-        "#Solar_Fii_stock_in_news"
+        "#MotorolaEdge70Max"
       ],
       "regular_topics": [
+        "Desh Ka Growth Engine UP",
         "Jaipur Watch Company",
-        "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u093e\u0932",
+        "Sumeet Rights Entitlements",
         "Royal Baagh II",
         "Ashnisha Industries",
-        "Snapdragon 8 Gen 5",
-        "Quad HD",
         "Hon'ble PM Shri",
-        "The 7100mAh",
-        "Hon'ble Railway Minister Shri",
-        "\u0905\u092e\u0943\u0924 \u0938\u094d\u091f\u0947\u0936\u0928",
-        "Birla Opus"
+        "CM Devendra Fadnavis Ji",
+        "Snapdragon 8 Gen 5",
+        "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u093e\u0932",
+        "Quad HD",
+        "Rights Issue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 15 2026 08:20:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 15 2026 10:03:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Rodri",
         "THE MERCY OF GOD HAS PREVAILED",
         "Bournemouth",
-        "Antonio Silva",
-        "Blessed Wednesday",
-        "Brey",
-        "Block Rocket",
-        "Happy Hump",
-        "Midweek",
         "Pogba",
-        "Benfica",
-        "FRAGWAR"
+        "Jackie Chan",
+        "Boy Alone",
+        "$MAHUTA",
+        "Kante",
+        "Antonio Silva",
+        "England vs Argentina",
+        "Camavinga"
       ],
       "hashtags": [
         "#FranciaEspa\u00f1a",
-        "#mundialdef\u00fatbol2026",
         "#ENGARG",
-        "#KimSooHyun",
-        "#ITLX"
+        "#mundialdef\u00fatbol2026"
       ],
       "regular_topics": [
+        "Rodri",
         "THE MERCY OF GOD HAS PREVAILED",
         "Bournemouth",
-        "Antonio Silva",
-        "Blessed Wednesday",
-        "Brey",
-        "Block Rocket",
-        "Happy Hump",
-        "Midweek",
         "Pogba",
-        "Benfica",
-        "FRAGWAR"
+        "Jackie Chan",
+        "Boy Alone",
+        "$MAHUTA",
+        "Kante",
+        "Antonio Silva",
+        "England vs Argentina",
+        "Camavinga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
