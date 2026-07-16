@@ -1,85 +1,88 @@
 {
-  "generated_at_utc": "2026-07-16T04:29:36.798124+00:00",
+  "generated_at_utc": "2026-07-16T06:42:25.008078+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 03:54:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 06:28:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDynamite",
-        "Argentina",
-        "Messi",
         "ESPYs",
-        "England",
-        "Blue Angels",
         "Vance",
-        "Kaitlyn Chen",
+        "Blue Angels",
+        "#AEWDynamite",
         "#ValkoIsValuable",
-        "Tuchel",
-        "Coppertone"
+        "#NextGenNYC",
+        "Streamer University",
+        "#hxh414",
+        "Bellingham",
+        "Rogan",
+        "Kaitlyn Chen"
       ],
       "hashtags": [
         "#AEWDynamite",
         "#ValkoIsValuable",
         "#NextGenNYC",
-        "#Cinemzel26"
+        "#hxh414",
+        "#TheUltimatum"
       ],
       "regular_topics": [
-        "Argentina",
-        "Messi",
         "ESPYs",
-        "England",
-        "Blue Angels",
         "Vance",
+        "Blue Angels",
+        "Streamer University",
+        "Bellingham",
+        "Rogan",
         "Kaitlyn Chen",
-        "Tuchel",
-        "Coppertone",
         "Pensacola",
-        "Ashley"
+        "Killua",
+        "lana",
+        "Coppertone"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 03:27:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 06:03:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tuchel",
         "Argentina",
+        "#ENGARG",
         "Southgate",
         "Messi",
-        "England",
-        "#ENGARG",
-        "Kane",
-        "Gordon",
         "Spence",
-        "Rashford",
-        "Pickford"
+        "Gordon",
+        "Falklands",
+        "Simeone",
+        "Pickford",
+        "Kane"
       ],
       "hashtags": [
         "#ENGARG",
-        "#AEWDynamite",
-        "#ARGENG"
+        "#ARGENG",
+        "#WorldCup",
+        "#FRAESP",
+        "#fraspa"
       ],
       "regular_topics": [
         "Tuchel",
         "Argentina",
         "Southgate",
         "Messi",
-        "England",
-        "Kane",
-        "Gordon",
         "Spence",
-        "Rashford",
+        "Gordon",
+        "Falklands",
+        "Simeone",
         "Pickford",
-        "German"
+        "Kane",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 16 2026 04:09:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 05:54:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "England",
         "Tuchel",
@@ -96,7 +99,8 @@
       "hashtags": [
         "#ENGARG",
         "#wildfires",
-        "#AEWDynamite",
+        "#hxh414",
+        "#MLPMAYHEM",
         "#ARGENG"
       ],
       "regular_topics": [
@@ -117,82 +121,80 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 04:08:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 05:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Day8_Upper_Circuit_Stock",
+        "#SumeetRightsIssue5DaysLeft",
+        "#PanchSammelan_Kashi",
+        "#Omega_interactive_in_news",
         "#RathYatra",
+        "Omega Interactive Technologies",
         "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "#GodMorningThursday",
-        "#GalaxyUnpacked",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "Messi",
-        "#PolvaramModiVaram",
-        "Argentina",
-        "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e",
-        "\u092d\u0917\u0935\u093e\u0928 \u092c\u0932\u092d\u0926\u094d\u0930"
+        "#Day8_Upper_Circuit_Stock",
+        "Oracle",
+        "Only 5",
+        "\u092a\u0902\u091a \u0938\u092e\u094d\u092e\u0947\u0932\u0928",
+        "Just 5"
       ],
       "hashtags": [
-        "#Day8_Upper_Circuit_Stock",
+        "#SumeetRightsIssue5DaysLeft",
+        "#PanchSammelan_Kashi",
+        "#Omega_interactive_in_news",
         "#RathYatra",
-        "#GodMorningThursday",
+        "#Day8_Upper_Circuit_Stock",
+        "#Fauzi",
         "#GalaxyUnpacked",
+        "#GodMorningThursday",
+        "#FIFAWoldCup",
         "#PolvaramModiVaram",
-        "#ReviewAsaramBapuCase",
-        "#sureshproductions",
-        "#husharpittalu",
-        "#wareymedia",
-        "#mangli",
-        "#Tongatonga"
+        "#ReviewAsaramBapuCase"
       ],
       "regular_topics": [
+        "Omega Interactive Technologies",
         "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "Messi",
-        "Argentina",
+        "Oracle",
+        "Only 5",
+        "\u092a\u0902\u091a \u0938\u092e\u094d\u092e\u0947\u0932\u0928",
+        "Just 5",
+        "Steve Smith",
         "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e",
-        "\u092d\u0917\u0935\u093e\u0928 \u092c\u0932\u092d\u0926\u094d\u0930",
-        "Nicholas Pooran",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u0936\u094d\u0930\u0940 \u092c\u0932\u092d\u0926\u094d\u0930",
-        "Devi Subhadra"
+        "Messi",
+        "\u0917\u094d\u0930\u093e\u092e\u0940\u0923 \u0935\u093f\u0915\u093e\u0938",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 16 2026 04:08:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 05:51:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Tuchel",
-        "#ENGARG",
-        "Enzo",
         "Big Wiz",
-        "Bellingham",
+        "Raven",
+        "Gary Neville",
+        "Happy 36th",
+        "Enzo",
         "#wizkid",
-        "Gordon",
-        "Pickford",
         "Barco",
-        "Happy 36th"
+        "Pickford",
+        "Malami"
       ],
       "hashtags": [
-        "#ENGARG",
-        "#wizkid",
-        "#WorldCupWinners2026"
+        "#wizkid"
       ],
       "regular_topics": [
         "Messi",
         "Tuchel",
-        "Enzo",
         "Big Wiz",
-        "Bellingham",
-        "Gordon",
-        "Pickford",
-        "Barco",
+        "Raven",
+        "Gary Neville",
         "Happy 36th",
-        "ESPYs",
-        "Spence"
+        "Enzo",
+        "Barco",
+        "Pickford",
+        "Malami",
+        "Aptos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
