@@ -1,193 +1,196 @@
 {
-  "generated_at_utc": "2026-07-16T18:51:33.958572+00:00",
+  "generated_at_utc": "2026-07-16T19:53:15.713909+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 18:31:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 19:24:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Blue Angels",
         "Vance",
-        "Karoline Leavitt",
-        "Morale",
-        "West Hollywood",
-        "Pensacola",
         "Kimi K3",
-        "#ColombiaRevivalFlames",
+        "Tillis",
+        "Karoline Leavitt",
+        "Brad Keller",
         "The Odyssey",
-        "Chase Burns"
+        "Rubio",
+        "Pensacola",
+        "West Hollywood"
       ],
       "hashtags": [
-        "#ColombiaRevivalFlames"
+        "#ColombiaRevivalFlames",
+        "#pastapass",
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
+        "#BeliftStopOverworkingArtists",
+        "#Boycott_Belift_Management"
       ],
       "regular_topics": [
         "Canada",
         "Blue Angels",
         "Vance",
-        "Karoline Leavitt",
-        "Morale",
-        "West Hollywood",
-        "Pensacola",
         "Kimi K3",
+        "Tillis",
+        "Karoline Leavitt",
+        "Brad Keller",
         "The Odyssey",
-        "Chase Burns",
-        "Tillis"
+        "Rubio",
+        "Pensacola",
+        "West Hollywood"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 18:06:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 18:57:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "House of Lords",
-        "Sadiq Khan",
+        "Khan",
         "Abolish",
+        "Philogene",
         "Harry Brook",
+        "David Davis",
         "Tzolis",
-        "The SFA",
         "Dahl",
-        "Campbell",
-        "#thechase",
-        "Lucy Connolly",
-        "Order of Freedom"
+        "Salmond",
+        "Sturgeon",
+        "Joe Root"
       ],
       "hashtags": [
-        "#thechase",
         "#ValkoIsValuable",
-        "#ITV7InItToWinIt",
+        "#thechase",
+        "#TheOpen",
         "#pafc"
       ],
       "regular_topics": [
         "House of Lords",
-        "Sadiq Khan",
+        "Khan",
         "Abolish",
+        "Philogene",
         "Harry Brook",
+        "David Davis",
         "Tzolis",
-        "The SFA",
         "Dahl",
-        "Campbell",
-        "Lucy Connolly",
-        "Order of Freedom",
-        "Dane Murray"
+        "Salmond",
+        "Sturgeon",
+        "Joe Root"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 16 2026 17:57:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 19:39:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ontario",
-        "England",
         "Tuchel",
+        "England",
         "Messi",
         "California",
         "Canada",
         "#ENGARG",
         "Forest",
-        "Spence",
         "Arson",
-        "Southgate"
+        "Doug Ford",
+        "Spence"
       ],
       "hashtags": [
         "#ENGARG",
         "#wildfires",
-        "#FRAESP",
         "#onpoli",
-        "#NHL27"
+        "#FRAESP"
       ],
       "regular_topics": [
         "Ontario",
-        "England",
         "Tuchel",
+        "England",
         "Messi",
         "California",
         "Canada",
         "Forest",
-        "Spence",
         "Arson",
-        "Southgate",
-        "Doug Ford"
+        "Doug Ford",
+        "Spence",
+        "Michigan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 17:54:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 19:36:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rohit Sharma",
+        "#WeStandWithSonamWangchuk",
         "#LetShivangiKnowTheTruth",
         "#BharatTex2026",
-        "#WeStandWithSonamWangchuk",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "NO YOGESH NO LOCKUPP",
-        "NEET UG 2026",
-        "#BirlaOpus",
         "2027 World Cup",
-        "#SpeakUp",
-        "Devendra Pandey"
+        "NEET UG 2026",
+        "Jaiswal",
+        "Kimi K3",
+        "#Boycott_Belift_Management"
       ],
       "hashtags": [
+        "#WeStandWithSonamWangchuk",
         "#LetShivangiKnowTheTruth",
         "#BharatTex2026",
-        "#WeStandWithSonamWangchuk",
-        "#BirlaOpus",
-        "#SpeakUp"
+        "#Boycott_Belift_Management",
+        "#BeliftStopOverworkingArtists"
       ],
       "regular_topics": [
         "Rohit Sharma",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "NO YOGESH NO LOCKUPP",
-        "NEET UG 2026",
         "2027 World Cup",
-        "Devendra Pandey",
+        "NEET UG 2026",
         "Jaiswal",
-        "Bumrah",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "Kimi K3",
         "Lord's ODI",
-        "Kohli"
+        "Kohli",
+        "Devendra Pandey",
+        "Joe Root"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 16 2026 17:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 19:36:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#PowerYourHustle",
-        "Christos Tzolis",
+        "Tzolis",
         "Nikita",
-        "#BBNaijaXbetPawa",
+        "#PowerYourHustle",
+        "Morgan Rogers",
         "Club Brugge",
-        "Abazz",
-        "Welcome to Arsenal",
+        "Arteta",
+        "#BBNaijaXbetPawa",
         "#KuCoin",
         "Trade $ELON",
-        "#MasterChefNg",
-        "Aisha Achimugu"
+        "Aisha Achimugu",
+        "Phillies"
       ],
       "hashtags": [
         "#PowerYourHustle",
         "#BBNaijaXbetPawa",
         "#KuCoin",
         "#MasterChefNg",
-        "#argentini\u00eb"
+        "#WizkidAt36"
       ],
       "regular_topics": [
-        "Christos Tzolis",
+        "Tzolis",
         "Nikita",
+        "Morgan Rogers",
         "Club Brugge",
-        "Abazz",
-        "Welcome to Arsenal",
+        "Arteta",
         "Trade $ELON",
         "Aisha Achimugu",
-        "Deeone",
-        "Mary Habila",
-        "BSTOCKS",
-        "Dominik Szoboszlai"
+        "Phillies",
+        "Kimi K3",
+        "Welcome to Arsenal",
+        "Abazz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
