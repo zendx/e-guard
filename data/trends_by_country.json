@@ -1,88 +1,87 @@
 {
-  "generated_at_utc": "2026-07-16T09:06:26.329042+00:00",
+  "generated_at_utc": "2026-07-16T11:14:25.539888+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 08:12:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 10:45:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "LINGORM X NESPRESSO",
-        "#VertuoWorldwithLingOrm",
-        "Siam Paragon",
-        "Vance",
-        "ESPYs",
-        "Blue Angels",
-        "#ValkoIsValuable",
-        "Hal Williams",
-        "#AEWDynamite",
-        "#hxh414",
-        "Streamer University"
+        "Argentina",
+        "Messi",
+        "Tuchel",
+        "Good Thursday",
+        "Blanche",
+        "#ENGARG",
+        "Standard Time",
+        "Spence",
+        "Pickford",
+        "Canada",
+        "Enzo"
       ],
       "hashtags": [
-        "#VertuoWorldwithLingOrm",
-        "#ValkoIsValuable",
+        "#ENGARG",
         "#AEWDynamite",
-        "#hxh414",
-        "#NextGenNYC"
+        "#ValkoIsValuable",
+        "#AllStarGame"
       ],
       "regular_topics": [
-        "LINGORM X NESPRESSO",
-        "Siam Paragon",
-        "Vance",
-        "ESPYs",
-        "Blue Angels",
-        "Hal Williams",
-        "Streamer University",
-        "Lana",
-        "Killua",
-        "Bellingham",
-        "Rogan"
+        "Argentina",
+        "Messi",
+        "Tuchel",
+        "Good Thursday",
+        "Blanche",
+        "Standard Time",
+        "Spence",
+        "Pickford",
+        "Canada",
+        "Enzo",
+        "ESPYs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 08:39:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 10:21:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "British Steel",
+        "Gomes",
         "Falklands",
+        "Craig Gordon",
         "Tommy Steele",
-        "#AdoorableThursday",
-        "Palmer",
+        "Kane",
+        "British Steel",
+        "Palhinha",
+        "#popmaster",
         "Watkins",
-        "Barco",
-        "Foden",
-        "Tim Vickery",
-        "Argentine",
-        "#WorldCupSemiFinal"
+        "#wwfc",
+        "#ASongOrMovieForAllThatsGreen"
       ],
       "hashtags": [
-        "#AdoorableThursday",
-        "#WorldCupSemiFinal",
+        "#popmaster",
+        "#wwfc",
+        "#ASongOrMovieForAllThatsGreen",
         "#F\u0131faworldcup",
-        "#TheOpen",
-        "#Tuchel"
+        "#jeremyvine"
       ],
       "regular_topics": [
-        "British Steel",
+        "Gomes",
         "Falklands",
+        "Craig Gordon",
         "Tommy Steele",
-        "Palmer",
+        "Kane",
+        "British Steel",
+        "Palhinha",
         "Watkins",
-        "Barco",
-        "Foden",
-        "Tim Vickery",
-        "Argentine",
-        "Croatia",
-        "Bowen"
+        "Palmer",
+        "Rice",
+        "Barco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 16 2026 08:30:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 10:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "England",
         "Tuchel",
@@ -91,15 +90,16 @@
         "#ENGARG",
         "Spence",
         "Pickford",
-        "Gordon",
         "Southgate",
         "Enzo",
+        "Gordon",
         "Simeone"
       ],
       "hashtags": [
         "#ENGARG",
         "#wildfires",
         "#ARGENG",
+        "#XAUUSD",
         "#FRAESP"
       ],
       "regular_topics": [
@@ -109,9 +109,9 @@
         "Ontario",
         "Spence",
         "Pickford",
-        "Gordon",
         "Southgate",
         "Enzo",
+        "Gordon",
         "Simeone",
         "Toronto"
       ],
@@ -120,80 +120,83 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 08:27:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 10:12:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SHRM_UnConference",
-        "#SumeetRightsIssue5DaysLeft",
-        "#PolvaramModiVaram",
+        "#SpitiDiariesWithJio",
+        "#ToolkitAgainstGadkari",
         "#Omega_interactive_in_news",
-        "#Fauzi",
+        "#SHRM_UnConference",
         "Omega Interactive Technologies",
-        "Sumeet RE Last Chance",
+        "#Fauzi",
         "Oracle",
+        "Kibber",
+        "ISRO",
         "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "Polavaram",
-        "ISRO"
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
       ],
       "hashtags": [
+        "#SpitiDiariesWithJio",
+        "#ToolkitAgainstGadkari",
+        "#Omega_interactive_in_news",
         "#SHRM_UnConference",
+        "#Fauzi",
         "#SumeetRightsIssue5DaysLeft",
         "#PolvaramModiVaram",
-        "#Omega_interactive_in_news",
-        "#Fauzi",
-        "#SavdhaanIndiaPappuReturns",
         "#RathYatra",
         "#Prabhas",
-        "#PanchSammelan_Kashi",
-        "#Day8_Upper_Circuit_Stock",
-        "#VedantaAGM2026"
+        "#SavdhaanIndiaPappuReturns",
+        "#JioTransformsLives"
       ],
       "regular_topics": [
         "Omega Interactive Technologies",
-        "Sumeet RE Last Chance",
         "Oracle",
-        "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "Polavaram",
+        "Kibber",
         "ISRO",
-        "Prakash Pal",
-        "Only 5",
-        "Just 5",
-        "Steve Smith",
-        "Anthem"
+        "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
+        "\u0915\u094b\u092f\u0932 \u092e\u0932\u094d\u0932\u093f\u0915",
+        "\u0906\u091c\u092e \u0916\u093e\u0928",
+        "Anil Agarwal",
+        "Anthem",
+        "Only 5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 16 2026 08:24:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 10:09:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Big Wiz",
-        "Happy 36th",
-        "TURN AROUND BY FIRE",
         "Enzo",
-        "Blessed Thursday",
-        "Beautiful Thursday",
+        "Jo\u00e3o Gomes",
         "Malami",
-        "Rahim Alhassane",
+        "Happy 36th",
+        "Gary Neville",
+        "#F\u0131faworldcup",
+        "Valencia",
+        "TURN AROUND BY FIRE",
         "Biggest Bird",
-        "Barco",
-        "Haley Stevens"
+        "Barco"
       ],
       "hashtags": [
-        "#F\u0131faworldcup"
+        "#F\u0131faworldcup",
+        "#wizkid",
+        "#argentini\u00eb",
+        "#ITLX"
       ],
       "regular_topics": [
         "Big Wiz",
-        "Happy 36th",
-        "TURN AROUND BY FIRE",
         "Enzo",
-        "Blessed Thursday",
-        "Beautiful Thursday",
+        "Jo\u00e3o Gomes",
         "Malami",
-        "Rahim Alhassane",
+        "Happy 36th",
+        "Gary Neville",
+        "Valencia",
+        "TURN AROUND BY FIRE",
         "Biggest Bird",
         "Barco",
-        "Haley Stevens"
+        "EFCC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
