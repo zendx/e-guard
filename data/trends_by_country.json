@@ -1,198 +1,197 @@
 {
-  "generated_at_utc": "2026-07-16T16:07:40.537839+00:00",
+  "generated_at_utc": "2026-07-16T17:43:27.399979+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 15:56:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 16:48:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Blue Angels",
         "Morale",
         "Vance",
-        "Good Thursday",
         "wonwoo",
         "West Hollywood",
+        "Tinashe",
         "Pensacola",
-        "Happy Friday Eve",
-        "Achilles",
-        "Happy Birthday Bill"
+        "Good Thursday",
+        "Daily Close",
+        "Achilles"
       ],
       "hashtags": [
+        "#AllRoundsOnBeckham",
         "#ThursdayThoughts",
         "#ThursdayVibes",
-        "#AllRoundsOnBeckham",
         "#SFxJoongDunkJaidee",
-        "#WorldSnakeDay"
+        "#NextGenNYC"
       ],
       "regular_topics": [
         "Canada",
         "Blue Angels",
         "Morale",
         "Vance",
-        "Good Thursday",
         "wonwoo",
         "West Hollywood",
+        "Tinashe",
         "Pensacola",
-        "Happy Friday Eve",
-        "Achilles",
-        "Happy Birthday Bill"
+        "Good Thursday",
+        "Daily Close",
+        "Achilles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 15:32:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 17:16:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tzolis",
-        "Savinho",
-        "Tommy Steele",
-        "Lucy Connolly",
-        "Gomes",
-        "Rushworth",
-        "Falkland Islands",
-        "ACAS",
-        "#pafc",
+        "Sadiq Khan",
         "House of Lords",
-        "Campbell"
+        "Abolish",
+        "Lord Khan",
+        "The SFA",
+        "Tzolis",
+        "#thechase",
+        "Campbell",
+        "#tippingpoint",
+        "Order of Freedom",
+        "Tommy Steele"
       ],
       "hashtags": [
-        "#pafc",
+        "#thechase",
+        "#tippingpoint",
+        "#ValkoIsValuable",
         "#ITV7InItToWinIt",
-        "#bcfc",
-        "#TheOpen",
-        "#wwfc"
+        "#pafc"
       ],
       "regular_topics": [
+        "Sadiq Khan",
+        "House of Lords",
+        "Abolish",
+        "Lord Khan",
+        "The SFA",
         "Tzolis",
-        "Savinho",
+        "Campbell",
+        "Order of Freedom",
         "Tommy Steele",
         "Lucy Connolly",
-        "Gomes",
-        "Rushworth",
-        "Falkland Islands",
-        "ACAS",
-        "House of Lords",
-        "Campbell",
-        "Adrian Durham"
+        "Savinho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 16 2026 15:24:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 17:06:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Ontario",
         "England",
         "Tuchel",
-        "Ontario",
         "Messi",
-        "#ENGARG",
         "California",
-        "Spence",
+        "#ENGARG",
         "Canada",
-        "Southgate",
-        "Enzo",
-        "Forest"
+        "Spence",
+        "Forest",
+        "#wildfires",
+        "Enzo"
       ],
       "hashtags": [
         "#ENGARG",
         "#wildfires",
         "#NHL27",
-        "#ARGENG",
         "#FRAESP"
       ],
       "regular_topics": [
+        "Ontario",
         "England",
         "Tuchel",
-        "Ontario",
         "Messi",
         "California",
-        "Spence",
         "Canada",
-        "Southgate",
-        "Enzo",
+        "Spence",
         "Forest",
-        "Golf Channel"
+        "Enzo",
+        "Doug Ford",
+        "Southgate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 15:20:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 17:03:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BirlaOpus",
-        "#MainBhiOpus",
-        "#KejriwalWithSonamWangchuk",
-        "#GalaxyUnpacked",
+        "#LetShivangiKnowTheTruth",
+        "#BharatTex2026",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
-        "#Suriya47",
         "Rohit Sharma",
-        "Kohli",
-        "Ishan Kishan",
-        "Galaxy",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915"
+        "#WeStandWithSonamWangchuk",
+        "#BirlaOpus",
+        "Bumrah",
+        "#GodNightThursday",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "Devendra Pandey",
+        "\u092e\u0943\u0924\u094d\u092f\u0941\u0902\u091c\u092f \u0924\u093f\u0935\u093e\u0930\u0940"
       ],
       "hashtags": [
+        "#LetShivangiKnowTheTruth",
+        "#BharatTex2026",
+        "#WeStandWithSonamWangchuk",
         "#BirlaOpus",
-        "#MainBhiOpus",
-        "#KejriwalWithSonamWangchuk",
-        "#GalaxyUnpacked",
-        "#Suriya47"
+        "#GodNightThursday"
       ],
       "regular_topics": [
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "Rohit Sharma",
-        "Kohli",
-        "Ishan Kishan",
-        "Galaxy",
+        "Bumrah",
         "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "\u0905\u0930\u0935\u093f\u0902\u0926 \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
-        "\u0921\u093f\u0902\u092a\u0932 \u092f\u093e\u0926\u0935",
-        "JDJAIDEE ABCERI X SF MOANA",
-        "\u0938\u094b\u0928\u093e\u0915\u094d\u0937\u0940 \u0938\u093f\u0928\u094d\u0939\u093e",
-        "Vicky Kaushal"
+        "Devendra Pandey",
+        "\u092e\u0943\u0924\u094d\u092f\u0941\u0902\u091c\u092f \u0924\u093f\u0935\u093e\u0930\u0940",
+        "Kohli",
+        "Lord's ODI",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "2027 World Cup",
+        "\u0905\u0930\u0935\u093f\u0902\u0926 \u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 16 2026 15:18:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 17:00:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BBNaijaXbetPawa",
         "Christos Tzolis",
         "Abazz",
+        "#PowerYourHustle",
         "#FCT31DaysCommissioning",
         "Club Brugge",
+        "Nikita",
+        "#KuCoin",
         "Welcome to Arsenal",
-        "BSTOCKS",
-        "Dominik Szoboszlai",
         "Aisha Achimugu",
-        "Malami",
-        "Rayo",
-        "Mary Habila"
+        "Dominik Szoboszlai"
       ],
       "hashtags": [
+        "#BBNaijaXbetPawa",
+        "#PowerYourHustle",
         "#FCT31DaysCommissioning",
-        "#FlyingFishFWC26",
-        "#FlyingFishNg",
-        "#argentini\u00eb",
-        "#rTokenCapitalEfficiency"
+        "#KuCoin",
+        "#argentini\u00eb"
       ],
       "regular_topics": [
         "Christos Tzolis",
         "Abazz",
         "Club Brugge",
+        "Nikita",
         "Welcome to Arsenal",
-        "BSTOCKS",
-        "Dominik Szoboszlai",
         "Aisha Achimugu",
-        "Malami",
-        "Rayo",
+        "Dominik Szoboszlai",
+        "BSTOCKS",
         "Mary Habila",
-        "Big Wiz"
+        "Deeone",
+        "Malami"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
