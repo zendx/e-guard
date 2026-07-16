@@ -1,49 +1,48 @@
 {
-  "generated_at_utc": "2026-07-15T23:45:53.736154+00:00",
+  "generated_at_utc": "2026-07-16T01:17:34.321736+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 15 2026 23:36:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 00:28:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
         "England",
         "Tuchel",
-        "Pickford",
-        "Enzo",
-        "#ENGARG",
-        "Gordon",
-        "Spence",
-        "Kane",
         "Bellingham",
-        "Southgate"
+        "Enzo",
+        "Pickford",
+        "ESPYs",
+        "#ENGARG",
+        "Helmet",
+        "Gordon",
+        "Spence"
       ],
       "hashtags": [
         "#ENGARG",
         "#ValkoIsValuable",
-        "#WorldCupWinners2026",
-        "#ENGvsARG",
+        "#iubb",
         "#ARGENG"
       ],
       "regular_topics": [
         "Argentina",
         "England",
         "Tuchel",
-        "Pickford",
+        "Bellingham",
         "Enzo",
+        "Pickford",
+        "ESPYs",
+        "Helmet",
         "Gordon",
         "Spence",
-        "Kane",
-        "Bellingham",
-        "Southgate",
-        "Helmet"
+        "Kane"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 15 2026 23:09:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 00:52:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tuchel",
         "Southgate",
@@ -54,8 +53,8 @@
         "Kane",
         "Gordon",
         "Spence",
-        "Pickford",
-        "Rashford"
+        "Rashford",
+        "Pickford"
       ],
       "hashtags": [
         "#ENGARG",
@@ -71,8 +70,8 @@
         "Kane",
         "Gordon",
         "Spence",
-        "Pickford",
         "Rashford",
+        "Pickford",
         "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -80,83 +79,88 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 15 2026 23:00:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 00:42:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
+        "England",
         "Tuchel",
+        "#AEWDynamite",
         "#ENGARG",
-        "Spence",
-        "Pickford",
-        "Enzo",
-        "Gordon",
         "Southgate",
-        "Kane",
-        "Rashford",
-        "Dan Burn"
+        "Enzo",
+        "Pickford",
+        "Spence",
+        "Bellingham",
+        "Kane"
       ],
       "hashtags": [
+        "#AEWDynamite",
         "#ENGARG",
         "#ARGENG",
-        "#ENGvsARG"
+        "#ThreeLions"
       ],
       "regular_topics": [
         "Messi",
+        "England",
         "Tuchel",
-        "Spence",
-        "Pickford",
-        "Enzo",
-        "Gordon",
         "Southgate",
+        "Enzo",
+        "Pickford",
+        "Spence",
+        "Bellingham",
         "Kane",
-        "Rashford",
-        "Dan Burn",
-        "Konsa"
+        "Gordon",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 15 2026 22:57:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 00:40:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "#ENGARG",
         "Tuchel",
         "Enzo",
+        "#GodMorningThursday",
         "#FIFA",
         "Gordon",
+        "Bellingham",
         "Pickford",
         "Spence",
-        "Bellingham",
-        "Lautaro",
-        "Kane"
+        "Lautaro"
       ],
       "hashtags": [
         "#ENGARG",
+        "#GodMorningThursday",
         "#FIFA",
-        "#CocaColaMatchDayHangout",
+        "#RathYatra",
+        "#JaiJagannath",
         "#GalaxyUnpacked",
-        "#semifinal"
+        "#mundialdef\u00fatbol2026",
+        "#semifinal",
+        "#CocaColaMatchDayHangout"
       ],
       "regular_topics": [
         "Messi",
         "Tuchel",
         "Enzo",
         "Gordon",
+        "Bellingham",
         "Pickford",
         "Spence",
-        "Bellingham",
         "Lautaro",
-        "Kane",
         "Barca",
-        "Southgate"
+        "Kane",
+        "\u092e\u0939\u093e\u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u091c\u0917\u0928\u094d\u0928\u093e\u0925"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 15 2026 22:56:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 00:40:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Tuchel",
@@ -164,17 +168,19 @@
         "Enzo",
         "Pickford",
         "Gordon",
+        "Bellingham",
         "Spence",
         "Rashford",
         "Saka",
-        "Bellingham",
-        "Dan Burn"
+        "At 39"
       ],
       "hashtags": [
         "#ENGARG",
         "#WorldCupWinners2026",
         "#ARGENG",
-        "#SSFootball"
+        "#ssfootball",
+        "#wizkid",
+        "#F\u0131faworldcup2026"
       ],
       "regular_topics": [
         "Messi",
@@ -182,12 +188,12 @@
         "Enzo",
         "Pickford",
         "Gordon",
+        "Bellingham",
         "Spence",
         "Rashford",
         "Saka",
-        "Bellingham",
-        "Dan Burn",
-        "Kane"
+        "At 39",
+        "Barco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
