@@ -1,87 +1,84 @@
 {
-  "generated_at_utc": "2026-07-16T22:44:32.269479+00:00",
+  "generated_at_utc": "2026-07-16T23:44:47.203242+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 21:57:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 22:48:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ZenMux",
-        "Canada",
-        "TokenEconomics",
-        "Vance",
-        "Kimi K3",
-        "NBC and ABC",
-        "Blue Angels",
-        "Gallego",
         "ABC and NBC",
-        "#BetrPicks",
-        "Alluka"
+        "NBC and ABC",
+        "#ZenMux",
+        "Taylor Farms",
+        "Canada",
+        "#AskBryce",
+        "Vance",
+        "The Odyssey",
+        "TokenEconomics",
+        "Blue Angels",
+        "Kimi K3"
       ],
       "hashtags": [
         "#ZenMux",
-        "#BetrPicks",
-        "#stlblues",
-        "#ColombiaRevivalFlames",
-        "#CODChamps"
+        "#AskBryce",
+        "#BetrPicks"
       ],
       "regular_topics": [
-        "Canada",
-        "TokenEconomics",
-        "Vance",
-        "Kimi K3",
-        "NBC and ABC",
-        "Blue Angels",
-        "Gallego",
         "ABC and NBC",
-        "Alluka",
-        "$NFLX",
-        "The Odyssey"
+        "NBC and ABC",
+        "Taylor Farms",
+        "Canada",
+        "Vance",
+        "The Odyssey",
+        "TokenEconomics",
+        "Blue Angels",
+        "Kimi K3",
+        "Gallego",
+        "Rubio"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 22:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 23:15:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mica",
         "Ellie",
         "Souness",
-        "Lords",
+        "House of Lords",
         "Joe Root",
-        "#TheChaseAroundTheWorld",
         "Khan",
-        "#ZenMux",
-        "English DNA",
+        "#TheChaseAroundTheWorld",
         "Mbaye",
+        "English DNA",
+        "Islanders",
         "Atkinson"
       ],
       "hashtags": [
         "#TheChaseAroundTheWorld",
-        "#ZenMux",
-        "#corrie",
-        "#newsnight"
+        "#newsnight",
+        "#corrie"
       ],
       "regular_topics": [
         "Mica",
         "Ellie",
         "Souness",
-        "Lords",
+        "House of Lords",
         "Joe Root",
         "Khan",
-        "English DNA",
         "Mbaye",
+        "English DNA",
+        "Islanders",
         "Atkinson",
-        "Ethan",
-        "Islanders"
+        "Hope Not Hate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 16 2026 22:15:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 23:06:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ontario",
         "California",
@@ -90,14 +87,15 @@
         "England",
         "Argentina",
         "Canada",
-        "Kirby Dach",
         "#ENGARG",
+        "Kirby Dach",
         "Forest",
-        "Arson"
+        "Minnesota"
       ],
       "hashtags": [
         "#ENGARG",
-        "#wildfires"
+        "#wildfires",
+        "#CFMTL"
       ],
       "regular_topics": [
         "Ontario",
@@ -109,36 +107,36 @@
         "Canada",
         "Kirby Dach",
         "Forest",
-        "Arson",
-        "Doug Ford"
+        "Minnesota",
+        "Arson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 22:12:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 23:04:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joe Root",
         "Rohit Sharma",
         "Kimi K3",
         "Atkinson",
         "#WeStandWithSonamWangchuk",
-        "NEET UG 2026",
         "2027 World Cup",
-        "#BharatTex2026",
-        "NO YOGESH NO LOCKUPP",
         "Jaiswal",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940"
+        "Kohli",
+        "Bandar Abbas",
+        "#BeliftStopOverworkingArtists",
+        "#Boycott_Belift_Management"
       ],
       "hashtags": [
         "#WeStandWithSonamWangchuk",
-        "#BharatTex2026",
         "#BeliftStopOverworkingArtists",
         "#Boycott_Belift_Management",
         "#SpeakUp",
+        "#neetresult",
         "#YouManiacSeriesQ23",
-        "#Hitman",
+        "#GodNightThursday",
         "#SFxJoongDunkJaidee"
       ],
       "regular_topics": [
@@ -146,50 +144,51 @@
         "Rohit Sharma",
         "Kimi K3",
         "Atkinson",
-        "NEET UG 2026",
         "2027 World Cup",
-        "NO YOGESH NO LOCKUPP",
         "Jaiswal",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "Kohli",
-        "Bandar Abbas"
+        "Bandar Abbas",
+        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
+        "taekook",
+        "Lord's ODI"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 16 2026 22:09:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 23:03:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mica",
-        "Jorge Mendes",
-        "Tomiyasu",
         "Ellie",
+        "Mica",
+        "Tomiyasu",
+        "Jorge Mendes",
+        "Samraj",
+        "Joan Laporta",
+        "Juli\u00e1n",
         "Rogers",
         "Nikita",
-        "Samraj",
-        "Finley",
         "John Terry",
-        "Tzolis",
-        "EFCC"
+        "Finley"
       ],
       "hashtags": [
         "#KuCoin",
+        "#PowerYourHustle",
         "#AVFC",
         "#WizkidAt36"
       ],
       "regular_topics": [
-        "Mica",
-        "Jorge Mendes",
-        "Tomiyasu",
         "Ellie",
+        "Mica",
+        "Tomiyasu",
+        "Jorge Mendes",
+        "Samraj",
+        "Joan Laporta",
+        "Juli\u00e1n",
         "Rogers",
         "Nikita",
-        "Samraj",
-        "Finley",
         "John Terry",
-        "Tzolis",
-        "EFCC"
+        "Finley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
