@@ -1,80 +1,81 @@
 {
-  "generated_at_utc": "2026-07-16T19:53:15.713909+00:00",
+  "generated_at_utc": "2026-07-16T20:41:02.840645+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 16 2026 19:24:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 20:15:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Blue Angels",
         "Vance",
+        "Pat Riley",
         "Kimi K3",
         "Tillis",
-        "Karoline Leavitt",
-        "Brad Keller",
-        "The Odyssey",
+        "Gallego",
         "Rubio",
-        "Pensacola",
-        "West Hollywood"
+        "The Odyssey",
+        "Brad Keller",
+        "Karoline Leavitt"
       ],
       "hashtags": [
         "#ColombiaRevivalFlames",
         "#pastapass",
-        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f",
         "#BeliftStopOverworkingArtists",
-        "#Boycott_Belift_Management"
+        "#Boycott_Belift_Management",
+        "#\u4e2a\u4eba\u5973\u5927\u5b66\u751f"
       ],
       "regular_topics": [
         "Canada",
         "Blue Angels",
         "Vance",
+        "Pat Riley",
         "Kimi K3",
         "Tillis",
-        "Karoline Leavitt",
-        "Brad Keller",
-        "The Odyssey",
+        "Gallego",
         "Rubio",
-        "Pensacola",
-        "West Hollywood"
+        "The Odyssey",
+        "Brad Keller",
+        "Karoline Leavitt"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 16 2026 18:57:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 19:48:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "House of Lords",
         "Khan",
+        "Joe Root",
         "Abolish",
         "Philogene",
-        "Harry Brook",
         "David Davis",
+        "Jacks",
         "Tzolis",
-        "Dahl",
-        "Salmond",
-        "Sturgeon",
-        "Joe Root"
+        "Alex Salmond",
+        "#corrie",
+        "Cardiff"
       ],
       "hashtags": [
+        "#corrie",
         "#ValkoIsValuable",
         "#thechase",
-        "#TheOpen",
-        "#pafc"
+        "#Fortnite",
+        "#TheOpen"
       ],
       "regular_topics": [
         "House of Lords",
         "Khan",
+        "Joe Root",
         "Abolish",
         "Philogene",
-        "Harry Brook",
         "David Davis",
+        "Jacks",
         "Tzolis",
-        "Dahl",
-        "Salmond",
-        "Sturgeon",
-        "Joe Root"
+        "Alex Salmond",
+        "Cardiff",
+        "Sturgeon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -119,39 +120,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 16 2026 19:36:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 16 2026 20:28:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Joe Root",
         "Rohit Sharma",
+        "Atkinson",
         "#WeStandWithSonamWangchuk",
+        "Kimi K3",
         "#LetShivangiKnowTheTruth",
-        "#BharatTex2026",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "NO YOGESH NO LOCKUPP",
         "2027 World Cup",
         "NEET UG 2026",
-        "Jaiswal",
-        "Kimi K3",
-        "#Boycott_Belift_Management"
+        "#BharatTex2026",
+        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940"
       ],
       "hashtags": [
         "#WeStandWithSonamWangchuk",
         "#LetShivangiKnowTheTruth",
         "#BharatTex2026",
-        "#Boycott_Belift_Management",
-        "#BeliftStopOverworkingArtists"
+        "#BeliftStopOverworkingArtists",
+        "#Boycott_Belift_Management"
       ],
       "regular_topics": [
+        "Joe Root",
         "Rohit Sharma",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Atkinson",
+        "Kimi K3",
         "NO YOGESH NO LOCKUPP",
         "2027 World Cup",
         "NEET UG 2026",
+        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "Jaiswal",
-        "Kimi K3",
-        "Lord's ODI",
         "Kohli",
-        "Devendra Pandey",
-        "Joe Root"
+        "Lord's ODI"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
