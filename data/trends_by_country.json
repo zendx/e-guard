@@ -1,182 +1,185 @@
 {
-  "generated_at_utc": "2026-07-17T01:21:26.135810+00:00",
+  "generated_at_utc": "2026-07-17T04:31:35.930421+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 17 2026 00:32:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 03:57:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "China",
+        "#TrumpSpeech",
+        "Friendly",
         "ABC and NBC",
-        "#ZenMux",
-        "NBC and ABC",
-        "Taylor Farms",
-        "TokenEconomics",
-        "Nola",
         "The Odyssey",
-        "ABC & NBC",
+        "Pass the Save America Act",
+        "Chuck",
+        "NBC and ABC",
         "Revoke",
-        "Ashley",
-        "Lindor"
+        "Deep State",
+        "Taylor Farms"
       ],
       "hashtags": [
-        "#ZenMux",
+        "#TrumpSpeech",
         "#LoserTrumpsElectionLies",
-        "#AskBryce",
-        "#JSFamilyVacation",
-        "#BetrPicks"
+        "#TNAiMPACT",
+        "#TokenEconomics",
+        "#CanadasDragRace"
       ],
       "regular_topics": [
+        "China",
+        "Friendly",
         "ABC and NBC",
-        "NBC and ABC",
-        "Taylor Farms",
-        "TokenEconomics",
-        "Nola",
         "The Odyssey",
-        "ABC & NBC",
+        "Pass the Save America Act",
+        "Chuck",
+        "NBC and ABC",
         "Revoke",
-        "Ashley",
-        "Lindor",
-        "Trea Turner"
+        "Deep State",
+        "Taylor Farms",
+        "President of the United States"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 17 2026 00:57:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 03:32:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mica",
-        "Ellie",
-        "#ZenMux",
-        "gracie abrams",
-        "Souness",
-        "Steve Lacy",
-        "House of Lords",
-        "Joe Root",
-        "Khan",
-        "Mbaye",
-        "The Odyssey"
+        "Argentina",
+        "Tuchel",
+        "England",
+        "Messi",
+        "Falklands",
+        "Southgate",
+        "#ENGARG",
+        "Spain",
+        "Spence",
+        "Kane",
+        "Gordon"
       ],
       "hashtags": [
-        "#ZenMux",
-        "#newsnight"
+        "#ENGARG",
+        "#loveislanduk",
+        "#WorldCup",
+        "#TheOdyssey",
+        "#ZenMux"
       ],
       "regular_topics": [
-        "Mica",
-        "Ellie",
-        "gracie abrams",
-        "Souness",
-        "Steve Lacy",
-        "House of Lords",
-        "Joe Root",
-        "Khan",
-        "Mbaye",
-        "The Odyssey",
-        "English DNA"
+        "Argentina",
+        "Tuchel",
+        "England",
+        "Messi",
+        "Falklands",
+        "Southgate",
+        "Spain",
+        "Spence",
+        "Kane",
+        "Gordon",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 17 2026 00:48:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 04:15:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ontario",
         "California",
+        "Ontario",
+        "China",
         "Tuchel",
-        "Messi",
-        "Canada",
-        "England",
-        "Argentina",
         "#ENGARG",
+        "Messi",
         "Colorado",
+        "Michigan",
         "Forest",
-        "Minnesota"
+        "Minnesota",
+        "Argentina"
       ],
       "hashtags": [
         "#ENGARG",
-        "#CFMTL",
         "#wildfires",
+        "#CanadasDragRace",
         "#TFCLive",
-        "#bb28"
+        "#CFMTL"
       ],
       "regular_topics": [
-        "Ontario",
         "California",
+        "Ontario",
+        "China",
         "Tuchel",
         "Messi",
-        "Canada",
-        "England",
-        "Argentina",
         "Colorado",
+        "Michigan",
         "Forest",
         "Minnesota",
-        "Michigan"
+        "Argentina",
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 17 2026 00:48:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 04:12:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GalaxyUnpacked",
+        "#Omega_interactive_Stock_watch",
+        "#JusticeForBapuji",
+        "Right To Health",
         "#GodMorningFriday",
-        "#MainBhiOpus",
-        "#BirlaOpus",
-        "#RathYatra",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "Sonam Wangchuk",
-        "Omega Interactive Technologies",
-        "Messi",
-        "\u092d\u0917\u0935\u093e\u0928 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "Rohit Sharma"
+        "149.25 Cr",
+        "9.03 Cr",
+        "70.99 Cr",
+        "#WorldEmojiDay",
+        "\u0930\u094b\u0939\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
+        "\u0936\u094d\u0930\u0940 \u0930\u0935\u093f \u0915\u093f\u0936\u0928",
+        "\u0928\u093f\u0930\u094d\u092e\u0932\u091c\u0940\u0924 \u0938\u093f\u0902\u0939 \u0938\u0947\u0916\u094b\u0902"
       ],
       "hashtags": [
-        "#GalaxyUnpacked",
+        "#Omega_interactive_Stock_watch",
+        "#JusticeForBapuji",
         "#GodMorningFriday",
-        "#MainBhiOpus",
-        "#BirlaOpus",
-        "#RathYatra"
+        "#WorldEmojiDay",
+        "#InternationalJusticeDay"
       ],
       "regular_topics": [
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "Sonam Wangchuk",
+        "Right To Health",
+        "149.25 Cr",
+        "9.03 Cr",
+        "70.99 Cr",
+        "\u0930\u094b\u0939\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
+        "\u0936\u094d\u0930\u0940 \u0930\u0935\u093f \u0915\u093f\u0936\u0928",
+        "\u0928\u093f\u0930\u094d\u092e\u0932\u091c\u0940\u0924 \u0938\u093f\u0902\u0939 \u0938\u0947\u0916\u094b\u0902",
+        "NORMAL MV OUT TODAY",
         "Omega Interactive Technologies",
-        "Messi",
-        "\u092d\u0917\u0935\u093e\u0928 \u091c\u0917\u0928\u094d\u0928\u093e\u0925",
-        "Rohit Sharma",
-        "Argentina",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Joe Root",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "England"
+        "\u092a\u0930\u092e\u0935\u0940\u0930 \u091a\u0915\u094d\u0930",
+        "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u0938\u0941\u0935\u093f\u0927\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 17 2026 00:45:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 04:12:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Tuchel",
         "England",
         "#ENGARG",
         "Enzo",
+        "#BRUNOGRACEABOUND",
+        "#BMMBM",
+        "#BC9\ufe0f\u20e39\ufe0f\u20e3",
         "Pickford",
-        "Gimme Dat Ting",
         "Malami",
-        "Spence",
-        "BB LIFESTYLE",
-        "Big Wiz"
+        "Spence"
       ],
       "hashtags": [
         "#ENGARG",
-        "#nsfwtwt\u064b\u064b",
-        "#PowerYourHustle",
-        "#buyingcontent",
-        "#ARGENG"
+        "#BRUNOGRACEABOUND",
+        "#BMMBM",
+        "#BC9\ufe0f\u20e39\ufe0f\u20e3",
+        "#buyingcontent"
       ],
       "regular_topics": [
         "Messi",
@@ -184,12 +187,12 @@
         "England",
         "Enzo",
         "Pickford",
-        "Gimme Dat Ting",
         "Malami",
         "Spence",
-        "BB LIFESTYLE",
         "Big Wiz",
-        "Christos Tzolis"
+        "Christos Tzolis",
+        "Yamal",
+        "Gimme Dat Ting"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
