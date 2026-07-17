@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-07-17T16:55:39.656121+00:00",
+  "generated_at_utc": "2026-07-17T17:56:08.887286+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 17 2026 16:00:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 17:42:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "China",
+        "Bethesda",
         "Friendly",
-        "Fallout 5",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP5",
-        "LINGORM ILF EP5",
         "Meatloaf",
-        "Home Alone 2",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP5",
+        "Fallout 5",
+        "LINGORM ILF EP5",
+        "Dante Hall",
+        "Starfield",
         "#FursuitFriday",
-        "Brenda Fricker",
-        "Move the 1",
-        "Starfield"
+        "Move the 1"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP5",
         "#FursuitFriday",
-        "#LastFourWatched",
+        "#iufb",
         "#TheChi",
-        "#LetterboxdFriday"
+        "#LastFourWatched"
       ],
       "regular_topics": [
         "China",
+        "Bethesda",
         "Friendly",
+        "Meatloaf",
         "Fallout 5",
         "LINGORM ILF EP5",
-        "Meatloaf",
-        "Home Alone 2",
-        "Brenda Fricker",
-        "Move the 1",
-        "Starfield",
         "Dante Hall",
-        "Good Friday"
+        "Starfield",
+        "Move the 1",
+        "Brenda Fricker",
+        "Home Alone 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 17 2026 16:27:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 17:18:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sir Garfield Sobers",
-        "Brenda Fricker",
-        "#CurrysFootball",
         "Andy Burnham",
         "Norfolk",
-        "Fallout 5",
-        "Henry Nowak",
-        "Kiran Kaur",
+        "#bwfc",
+        "Brenda Fricker",
+        "#CurrysFootball",
         "West Indies",
+        "Move the 1",
+        "Henry Nowak",
         "Iheanacho",
-        "Vickrum Digwa"
+        "Bethesda"
       ],
       "hashtags": [
+        "#bwfc",
         "#CurrysFootball",
         "#BelgianGP",
-        "#GeneralElectionNow",
-        "#LastFourWatched",
-        "#NSL2027"
+        "#NSL2027",
+        "#GeneralElectionNow"
       ],
       "regular_topics": [
         "Sir Garfield Sobers",
-        "Brenda Fricker",
         "Andy Burnham",
         "Norfolk",
-        "Fallout 5",
-        "Henry Nowak",
-        "Kiran Kaur",
+        "Brenda Fricker",
         "West Indies",
+        "Move the 1",
+        "Henry Nowak",
         "Iheanacho",
-        "Vickrum Digwa",
-        "Move the 1"
+        "Bethesda",
+        "Johan",
+        "Sir Gary"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 17 2026 16:18:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 17:09:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
         "China",
@@ -92,14 +92,15 @@
         "Argentina",
         "Minnesota",
         "England",
-        "Bethesda",
         "Michigan",
-        "Stan Cho"
+        "Forest",
+        "Bethesda"
       ],
       "hashtags": [
         "#wildfires",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP5",
-        "#TFCLive"
+        "#TFCLive",
+        "#ValkoIsValuable"
       ],
       "regular_topics": [
         "California",
@@ -110,86 +111,86 @@
         "Argentina",
         "Minnesota",
         "England",
-        "Bethesda",
         "Michigan",
-        "Stan Cho"
+        "Forest",
+        "Bethesda"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 17 2026 16:15:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 17:06:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GalaxyUnpacked",
         "#SupremeGodKabir",
-        "#AmaalxOffWhite",
         "Sant RampalJi YouTube",
-        "#EcopreneurAwards2026",
+        "#AmaalxOffWhite",
         "#SuperHitMisterMiddleClass",
-        "J-Hope",
+        "#EcopreneurAwards2026",
         "Sir Garfield Sobers",
-        "ACE PLAYER SHREYA",
-        "\u0936\u094d\u0930\u0940 \u0928\u093e\u0928\u0915",
-        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c"
+        "J-Hope",
+        "ace player shreya",
+        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
+        "\u0936\u094d\u0930\u0940 \u0928\u093e\u0928\u0915"
       ],
       "hashtags": [
         "#GalaxyUnpacked",
         "#SupremeGodKabir",
         "#AmaalxOffWhite",
-        "#EcopreneurAwards2026",
-        "#SuperHitMisterMiddleClass"
+        "#SuperHitMisterMiddleClass",
+        "#EcopreneurAwards2026"
       ],
       "regular_topics": [
         "Sant RampalJi YouTube",
-        "J-Hope",
         "Sir Garfield Sobers",
-        "ACE PLAYER SHREYA",
-        "\u0936\u094d\u0930\u0940 \u0928\u093e\u0928\u0915",
+        "J-Hope",
+        "ace player shreya",
         "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
+        "\u0936\u094d\u0930\u0940 \u0928\u093e\u0928\u0915",
+        "ONE YEAR OF SAIYAARA",
         "Amaal Mallik",
+        "Sir Garry Sobers",
         "\u0915\u092c\u0940\u0930 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930",
-        "\u0915\u092c\u0940\u0930 \u0915\u0930\u0940\u092e",
-        "Miss Universe India 2026",
-        "Sir Garry Sobers"
+        "\u0915\u092c\u0940\u0930 \u0915\u0930\u0940\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 17 2026 16:12:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 17:04:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#inDriveCWOOnDuty",
+        "#PastorDaysman",
         "#FaceofZaron2026",
+        "#BasseyOtu",
         "#Atiku4Education",
         "Isaac Fayose",
-        "Benfica",
-        "Brenda Fricker",
-        "Marco Silva",
-        "Skel",
         "2baba",
-        "Jhon Dur\u00e1n",
-        "Seyi Tinubu",
-        "#FamsUpTasks"
+        "Benfica",
+        "Marco Silva",
+        "Bursaspor",
+        "Jhon Dur\u00e1n"
       ],
       "hashtags": [
+        "#inDriveCWOOnDuty",
+        "#PastorDaysman",
         "#FaceofZaron2026",
-        "#Atiku4Education",
-        "#FamsUpTasks",
-        "#ROZER",
-        "#FCTProjectsCommissioning"
+        "#BasseyOtu",
+        "#Atiku4Education"
       ],
       "regular_topics": [
         "Isaac Fayose",
-        "Benfica",
-        "Brenda Fricker",
-        "Marco Silva",
-        "Skel",
         "2baba",
+        "Benfica",
+        "Marco Silva",
+        "Bursaspor",
         "Jhon Dur\u00e1n",
-        "Seyi Tinubu",
-        "Okafor",
         "$WOOD",
+        "Zinedine Zidane",
+        "Skel",
+        "Seyi Tinubu",
         "2face"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
