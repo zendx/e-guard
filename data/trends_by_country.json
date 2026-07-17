@@ -1,96 +1,96 @@
 {
-  "generated_at_utc": "2026-07-17T19:55:21.480706+00:00",
+  "generated_at_utc": "2026-07-17T20:40:23.958553+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 17 2026 19:27:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 20:18:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "China",
+        "Bryson",
         "Olive Garden",
         "Jimothy",
         "Meatloaf",
-        "Bethesda",
         "Friendly",
         "Jake Bennett",
-        "#FursuitFriday",
-        "Move the 1",
-        "Fallout 5",
-        "Taylor Farms"
+        "Bethesda",
+        "Taylor Farms",
+        "#BudSummerOf250",
+        "Roger Waters",
+        "#FursuitFriday"
       ],
       "hashtags": [
+        "#BudSummerOf250",
         "#FursuitFriday",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48Netflix",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP5",
+        "#TheOpen",
         "#TheChi",
-        "#BogotaWordExpo"
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48Netflix"
       ],
       "regular_topics": [
-        "China",
+        "Bryson",
         "Olive Garden",
         "Jimothy",
         "Meatloaf",
-        "Bethesda",
         "Friendly",
         "Jake Bennett",
-        "Move the 1",
-        "Fallout 5",
+        "Bethesda",
         "Taylor Farms",
-        "Henry Park"
+        "Roger Waters",
+        "Move the 1",
+        "Odysseus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 17 2026 19:00:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 19:51:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
+        "#GovernmentPlayList",
+        "Kenny G",
+        "Bergvall",
         "Burnham",
+        "Beadle",
         "Sir Garfield Sobers",
-        "#bwfc",
-        "Celeste",
         "The Odyssey",
-        "Norfolk",
-        "Daphne",
-        "Besiktas",
-        "West Indies",
-        "Bethesda"
+        "Pet Shop Boys",
+        "Bruce Willis",
+        "Celeste"
       ],
       "hashtags": [
         "#TOTP",
+        "#GovernmentPlayList",
         "#bwfc",
-        "#Millwall",
-        "#CurrysFootball",
-        "#ncfc"
+        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48Netflix",
+        "#bcfc"
       ],
       "regular_topics": [
+        "Kenny G",
+        "Bergvall",
         "Burnham",
+        "Beadle",
         "Sir Garfield Sobers",
-        "Celeste",
         "The Odyssey",
+        "Pet Shop Boys",
+        "Bruce Willis",
+        "Celeste",
         "Norfolk",
-        "Daphne",
-        "Besiktas",
-        "West Indies",
-        "Bethesda",
-        "Brenda Fricker",
-        "Iheanacho"
+        "Thatcher"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 17 2026 18:51:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 17 2026 19:42:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
         "China",
         "Ontario",
         "The Odyssey",
         "Colorado",
-        "Minnesota",
         "Argentina",
+        "Minnesota",
         "England",
         "Michigan",
         "Forest",
@@ -98,8 +98,8 @@
       ],
       "hashtags": [
         "#wildfires",
-        "#\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48Netflix",
-        "#tvlspoilers"
+        "#tvlspoilers",
+        "#onpoli"
       ],
       "regular_topics": [
         "California",
@@ -107,8 +107,8 @@
         "Ontario",
         "The Odyssey",
         "Colorado",
-        "Minnesota",
         "Argentina",
+        "Minnesota",
         "England",
         "Michigan",
         "Forest",
