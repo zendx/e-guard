@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-07-18T17:26:34.724364+00:00",
+  "generated_at_utc": "2026-07-18T18:13:25.149745+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 18 2026 16:52:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 17:44:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rory",
         "Finish",
+        "Jacob Gonzalez",
+        "Jared Jones",
+        "Bryson",
         "#Caturday",
         "Wrexham",
-        "Good Saturday",
-        "Josh Kerr",
-        "#PeachAndMeSeriesEP2",
         "Murkowski",
+        "Josh Kerr",
         "Alaskans",
-        "Jim Crow",
-        "#PerthSantaConcertD1"
+        "Jim Crow"
       ],
       "hashtags": [
         "#Caturday",
         "#PeachAndMeSeriesEP2",
+        "#SNME",
         "#PerthSantaConcertD1",
-        "#HWCafe",
-        "#SNME"
+        "#HWCafe"
       ],
       "regular_topics": [
         "Rory",
         "Finish",
+        "Jacob Gonzalez",
+        "Jared Jones",
+        "Bryson",
         "Wrexham",
-        "Good Saturday",
-        "Josh Kerr",
         "Murkowski",
+        "Josh Kerr",
         "Alaskans",
         "Jim Crow",
-        "Faxon",
-        "Kisner",
-        "Zirkzee"
+        "Morgan Rogers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 18 2026 16:27:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 17:18:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Josh Kerr",
         "Wrexham",
-        "FULL TIME",
+        "#RSAvWAL",
+        "Josh Kerr",
         "Owen Hargreaves",
+        "FULL TIME",
         "Zirkzee",
         "Jack Fletcher",
-        "#RSAvWAL",
         "#HWCafe",
         "Mikey Lewis",
-        "HALF TIME",
-        "Trialist"
+        "MUTV",
+        "Lacey"
       ],
       "hashtags": [
         "#RSAvWAL",
@@ -65,16 +65,16 @@
         "#PeachAndMeSeriesEP2"
       ],
       "regular_topics": [
-        "Josh Kerr",
         "Wrexham",
-        "FULL TIME",
+        "Josh Kerr",
         "Owen Hargreaves",
+        "FULL TIME",
         "Zirkzee",
         "Jack Fletcher",
         "Mikey Lewis",
-        "HALF TIME",
-        "Trialist",
         "MUTV",
+        "Lacey",
+        "Rory",
         "Johanna Walsh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,123 +82,121 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 18 2026 17:09:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 18:00:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
+        "Morgan Rogers",
         "Colorado",
         "China",
-        "Tornado",
+        "Arsenal",
+        "Chelsea",
         "The Odyssey",
-        "Brendon Little",
         "Bryson",
-        "Ontario",
-        "#onstorm",
-        "Jasper",
-        "Minnesota"
+        "Rory",
+        "117m",
+        "Ontario"
       ],
       "hashtags": [
         "#onstorm",
         "#PerthSantaConcertD1",
         "#ValkoIsValuable",
-        "#Caturday",
-        "#wildfires"
+        "#Caturday"
       ],
       "regular_topics": [
         "California",
+        "Morgan Rogers",
         "Colorado",
         "China",
-        "Tornado",
+        "Arsenal",
+        "Chelsea",
         "The Odyssey",
-        "Brendon Little",
         "Bryson",
-        "Ontario",
-        "Jasper",
-        "Minnesota",
-        "Nolan"
+        "Rory",
+        "117m",
+        "Ontario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 18 2026 17:06:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 17:57:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Ramayana",
+        "YOGESH DESERVES FAIRNESS",
+        "AKANKSHA RETURNS TO RULE",
         "#FRAvENGonZee5",
         "#72ndNationalFilmAwards",
-        "YOGESH DESERVES FAIRNESS",
-        "#\u0939\u0930\u094d\u0937\u093f\u0924\u093e\u0938\u093e\u0939\u0942",
         "#PeachAndMeSeriesEP2",
+        "#Yash",
+        "Morgan Rogers",
         "ROHIT FOR 2027 WC",
-        "Terror Funding",
-        "Best Actor",
-        "Wrexham",
-        "Chandu Champion"
+        "Article 370",
+        "Best Actor"
       ],
       "hashtags": [
         "#Ramayana",
         "#FRAvENGonZee5",
         "#72ndNationalFilmAwards",
-        "#\u0939\u0930\u094d\u0937\u093f\u0924\u093e\u0938\u093e\u0939\u0942",
         "#PeachAndMeSeriesEP2",
-        "#GalaxyUnpacked",
         "#Yash",
-        "#SaiPallavi",
+        "#GalaxyUnpacked",
         "#RanbirKapoor",
+        "#SaiPallavi",
+        "#\u0939\u0930\u094d\u0937\u093f\u0924\u093e\u0938\u093e\u0939\u0942",
         "#Amaran",
-        "#Mammootty"
+        "#Boycott_BELIFTandHYBE"
       ],
       "regular_topics": [
         "YOGESH DESERVES FAIRNESS",
+        "AKANKSHA RETURNS TO RULE",
+        "Morgan Rogers",
         "ROHIT FOR 2027 WC",
-        "Terror Funding",
+        "Article 370",
         "Best Actor",
         "Wrexham",
         "Chandu Champion",
         "Best Feature Film",
-        "France vs England",
-        "J-Hope",
         "Best Actress",
-        "Beloved Sumedh Mudgalkar"
+        "PERTHSANTA ONE TASTE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 18 2026 17:06:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 17:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Morgan Rogers",
         "Wrexham",
         "Man U",
+        "DiEgo EP",
         "Zirkzee",
-        "Fletcher",
-        "Carrick",
-        "#PepsiFootballNation",
-        "Al Ahli",
-        "Temu",
-        "Sam Smith",
         "#itelPower80",
-        "Drake"
+        "Mudryk",
+        "Carrick",
+        "Arsenal for Chelsea",
+        "Ornstein",
+        "Fletcher"
       ],
       "hashtags": [
-        "#PepsiFootballNation",
         "#itelPower80",
+        "#PepsiFootballNation",
         "#PepsiNaija",
-        "#MTNxNASSeason2",
-        "#EarnWithFamsUp"
+        "#PreSeason"
       ],
       "regular_topics": [
+        "Morgan Rogers",
         "Wrexham",
         "Man U",
+        "DiEgo EP",
         "Zirkzee",
-        "Fletcher",
+        "Mudryk",
         "Carrick",
-        "Al Ahli",
-        "Temu",
-        "Sam Smith",
-        "Drake",
-        "MUTV",
-        "Crawley"
+        "Arsenal for Chelsea",
+        "Ornstein",
+        "Fletcher",
+        "Berta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
