@@ -1,199 +1,202 @@
 {
-  "generated_at_utc": "2026-07-18T20:34:38.661348+00:00",
+  "generated_at_utc": "2026-07-18T21:37:39.786365+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 18 2026 20:18:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 21:09:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rory",
+        "Declan Rice",
         "Chelsea",
-        "Arsenal",
         "Rogers",
+        "#FRAENG",
+        "Arsenal",
         "Finish",
-        "Anthony Rizzo",
         "Alaska",
-        "Barcola",
-        "Berta",
+        "Nadu",
         "Bryson",
-        "117m"
+        "Barcola"
       ],
       "hashtags": [
-        "#mcrmadrid",
+        "#FRAENG",
+        "#UFCOKC",
         "#JesusTheMasterHealer",
-        "#SNME",
-        "#Caturday",
-        "#CODxPleasures"
+        "#mcrmadrid",
+        "#Cubs"
       ],
       "regular_topics": [
         "Rory",
+        "Declan Rice",
         "Chelsea",
-        "Arsenal",
         "Rogers",
+        "Arsenal",
         "Finish",
-        "Anthony Rizzo",
         "Alaska",
-        "Barcola",
-        "Berta",
+        "Nadu",
         "Bryson",
-        "117m"
+        "Barcola",
+        "Rizzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 18 2026 19:52:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 20:44:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Rogers",
         "Arsenal",
-        "Berta",
         "Villa",
-        "Mudryk",
-        "Alonso",
-        "#avfc",
         "#ARGvENG",
-        "Vini",
-        "Rice and Saka"
+        "Berta",
+        "Rice and Saka",
+        "Mudryk",
+        "#FRAENG",
+        "#avfc",
+        "Alonso"
       ],
       "hashtags": [
-        "#avfc",
         "#ARGvENG",
-        "#mcrmadrid",
         "#FRAENG",
-        "#soundsofthe80s"
+        "#avfc",
+        "#mcrmadrid",
+        "#ENGFRA"
       ],
       "regular_topics": [
         "Chelsea",
         "Rogers",
         "Arsenal",
-        "Berta",
         "Villa",
+        "Berta",
+        "Rice and Saka",
         "Mudryk",
         "Alonso",
         "Vini",
-        "Rice and Saka",
         "Arteta",
-        "Wrexham"
+        "Garnacho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 18 2026 19:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 21:27:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Declan Rice",
         "Joe Carter",
-        "Rogers",
-        "Chelsea",
-        "Arsenal",
         "California",
+        "#FRAENG",
         "Colorado",
-        "China",
-        "Bryson",
+        "Chelsea",
+        "Rogers",
         "The Odyssey",
-        "Rory",
-        "Jasper"
+        "Arsenal",
+        "Bryson",
+        "China"
       ],
       "hashtags": [
-        "#BlueJays50",
+        "#FRAENG",
         "#PerthSantaConcertD1",
-        "#Caturday",
-        "#ValkoIsValuable",
-        "#onstorm"
+        "#BlueJays50",
+        "#Blackhawks",
+        "#Caturday"
       ],
       "regular_topics": [
+        "Declan Rice",
         "Joe Carter",
-        "Rogers",
-        "Chelsea",
-        "Arsenal",
         "California",
         "Colorado",
-        "China",
-        "Bryson",
+        "Chelsea",
+        "Rogers",
         "The Odyssey",
-        "Rory",
-        "Jasper"
+        "Arsenal",
+        "Bryson",
+        "China",
+        "Bedard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 18 2026 19:40:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 21:24:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#FRAENG",
         "Chelsea",
-        "YOGESH DESERVES FAIRNESS",
-        "AKANKSHA RETURNS TO RULE",
         "Rogers",
-        "#Ramayana",
+        "Declan Rice",
+        "AKANKSHA RETURNS TO RULE",
         "Arsenal",
-        "#PeachAndMeSeriesEP2",
-        "#72ndNationalFilmAwards",
-        "117m",
-        "#FRAvENGonZee5",
-        "Palmer"
+        "YOGESH DESERVES FAIRNESS",
+        "THE ETERNAL",
+        "#Ramayana",
+        "#ChennaiLoveStory",
+        "France vs England"
       ],
       "hashtags": [
+        "#FRAENG",
         "#Ramayana",
+        "#ChennaiLoveStory",
         "#PeachAndMeSeriesEP2",
+        "#Boycott_BELIFTandHYBE",
+        "#TaeHo_Cant_Manipulate_Us",
         "#72ndNationalFilmAwards",
         "#FRAvENGonZee5",
         "#Yash",
-        "#Boycott_BELIFTandHYBE",
-        "#TaeHo_Cant_Manipulate_Us",
-        "#RanbirKapoor"
+        "#SaiPallavi"
       ],
       "regular_topics": [
         "Chelsea",
-        "YOGESH DESERVES FAIRNESS",
-        "AKANKSHA RETURNS TO RULE",
         "Rogers",
+        "Declan Rice",
+        "AKANKSHA RETURNS TO RULE",
         "Arsenal",
-        "117m",
-        "Palmer",
-        "Barcola",
-        "Berta",
-        "Xabi",
-        "ROHIT FOR 2027 WC"
+        "YOGESH DESERVES FAIRNESS",
+        "THE ETERNAL",
+        "France vs England",
+        "Jungkookie",
+        "SO WHAT",
+        "Barcola"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 18 2026 19:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 21:24:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chelsea",
+        "Rogers",
+        "Declan Rice",
+        "#FRAENG",
         "Mudryk",
+        "France 0-1 England",
         "Barcola",
-        "Wrexham",
         "Aston Villa",
-        "Berta",
         "Vini",
-        "London",
-        "Alonso",
-        "Man U",
-        "#itelPower80"
+        "Berta",
+        "#ENGFRA",
+        "Alonso"
       ],
       "hashtags": [
-        "#itelPower80",
+        "#FRAENG",
+        "#ENGFRA",
         "#BattleOfTheMoves",
-        "#FRAENG"
+        "#itelPower80"
       ],
       "regular_topics": [
-        "Chelsea",
+        "Rogers",
+        "Declan Rice",
         "Mudryk",
+        "France 0-1 England",
         "Barcola",
-        "Wrexham",
         "Aston Villa",
-        "Berta",
         "Vini",
-        "London",
+        "Berta",
         "Alonso",
-        "Man U",
-        "Middlesbrough"
+        "London",
+        "Wrexham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
