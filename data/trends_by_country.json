@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-07-18T04:18:06.009585+00:00",
+  "generated_at_utc": "2026-07-18T06:25:29.061885+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 18 2026 04:00:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 05:44:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PerthSantaConcertD1",
         "#SmackDown",
-        "Grisham",
-        "#OPLive",
-        "Bryson",
-        "Caitlin Clark",
-        "Kyle Hart",
-        "Garrett Mitchell",
         "Jimothy",
-        "Logan Paul",
-        "Tom Brady",
-        "Stammen"
+        "Marte",
+        "Caitlin Clark",
+        "#OPLive",
+        "Grisham",
+        "Bryson",
+        "Yates",
+        "Boardwalk Empire",
+        "Logan Paul"
       ],
       "hashtags": [
+        "#PerthSantaConcertD1",
         "#SmackDown",
         "#OPLive",
-        "#PerthSantaConcertD1",
-        "#OPNation",
-        "#Royals"
+        "#tjpw",
+        "#OPNation"
       ],
       "regular_topics": [
+        "Jimothy",
+        "Marte",
+        "Caitlin Clark",
         "Grisham",
         "Bryson",
-        "Caitlin Clark",
-        "Kyle Hart",
-        "Garrett Mitchell",
-        "Jimothy",
+        "Yates",
+        "Boardwalk Empire",
         "Logan Paul",
-        "Tom Brady",
-        "Stammen",
-        "Boone",
-        "Boardwalk Empire"
+        "Rome",
+        "Sewald",
+        "Stammen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 18 2026 03:33:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 05:18:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "England",
         "#SmackDown",
@@ -51,17 +51,17 @@
         "#CurrysFootball",
         "The Odyssey",
         "Falklands",
+        "#PerthSantaConcertD1",
         "Souness",
-        "Tuchel",
         "Spain",
         "Messi",
-        "#TOTP"
+        "Tuchel"
       ],
       "hashtags": [
         "#SmackDown",
         "#CurrysFootball",
-        "#TOTP",
-        "#TheOpen",
+        "#PerthSantaConcertD1",
+        "#totp",
         "#ENGARG"
       ],
       "regular_topics": [
@@ -70,9 +70,9 @@
         "The Odyssey",
         "Falklands",
         "Souness",
-        "Tuchel",
         "Spain",
         "Messi",
+        "Tuchel",
         "Bryson",
         "Burnham",
         "House of Lords"
@@ -82,122 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 18 2026 03:27:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 06:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
         "China",
         "Colorado",
-        "Ontario",
         "The Odyssey",
-        "#SmackDown",
-        "Brice",
+        "Ontario",
         "Minnesota",
         "Bryson",
-        "#BCLions",
-        "#BlueJays"
+        "Jasper",
+        "Nolan",
+        "Chase Brice",
+        "Forest"
       ],
       "hashtags": [
-        "#SmackDown",
+        "#PerthSantaConcertD1",
         "#BCLions",
-        "#BlueJays",
-        "#wildfires"
+        "#SmackDown",
+        "#wildfires",
+        "#ValkoIsValuable"
       ],
       "regular_topics": [
         "California",
         "China",
         "Colorado",
-        "Ontario",
         "The Odyssey",
-        "Brice",
+        "Ontario",
         "Minnesota",
         "Bryson",
+        "Jasper",
         "Nolan",
-        "Forest",
-        "Jasper"
+        "Chase Brice",
+        "Forest"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 18 2026 03:24:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 05:57:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Delhi Police",
-        "#GodMorningSaturday",
         "#SonamWangchuck",
-        "#PromisesVsReality",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "\u0928\u0947\u0932\u094d\u0938\u0928 \u092e\u0902\u0921\u0947\u0932\u093e",
-        "\u092a\u0941\u0932\u093f\u0938 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
+        "Delhi Police",
+        "#PropagandaAgainstGadkari",
+        "Delhi",
+        "Jantar Mantar",
+        "Abhijeet Dipke",
         "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0930\u0947\u0932"
+        "#PriyankaChopra",
+        "#Varanasi",
+        "Safdarjung Hospital"
       ],
       "hashtags": [
-        "#GodMorningSaturday",
         "#SonamWangchuck",
-        "#PromisesVsReality",
+        "#PropagandaAgainstGadkari",
+        "#PriyankaChopra",
         "#Varanasi",
-        "#NelsonMandela",
-        "#\u0950_\u0936\u0902_\u0936\u0928\u0948\u0936\u094d\u091a\u0930\u093e\u092f_\u0928\u092e\u0903",
-        "#HBDPriyankaChopra",
-        "#SupremeGodKabir",
-        "#SmackDown",
-        "#Vikram1",
-        "#AshwiniVaishnaw"
+        "#GodMorningSaturday"
       ],
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "Delhi Police",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
-        "\u0928\u0947\u0932\u094d\u0938\u0928 \u092e\u0902\u0921\u0947\u0932\u093e",
-        "\u092a\u0941\u0932\u093f\u0938 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0930\u0947\u0932",
+        "Delhi",
         "Jantar Mantar",
-        "\u0930\u093e\u092e \u092e\u0928\u094b\u0939\u0930 \u0932\u094b\u0939\u093f\u092f\u093e \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "Safdarjung Hospital"
+        "Abhijeet Dipke",
+        "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
+        "Safdarjung Hospital",
+        "18 Years Of YASHism",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "\u0928\u0947\u0932\u094d\u0938\u0928 \u092e\u0902\u0921\u0947\u0932\u093e",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0930\u0947\u0932"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 18 2026 03:21:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 05:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
         "Argentina",
         "England",
+        "PERTHSANTA ONE TASTE",
         "Isaac Fayose",
         "GOAT",
+        "GM CT",
+        "Padre",
         "Even Trump",
-        "Colo Colo",
-        "#PerthSantaConcertD1",
-        "Caitlin Clark",
-        "Tuchel",
-        "Malami"
+        "$VAULTS",
+        "Another Saturday"
       ],
       "hashtags": [
-        "#PerthSantaConcertD1",
-        "#ROZER",
+        "#\u0e40\u0e1e\u0e34\u0e23\u0e4c\u0e18\u0e41\u0e0b\u0e19\u0e15\u0e49\u0e32",
         "#AskBinance",
-        "#buyingcontent",
-        "#atiku4education"
+        "#ROZER",
+        "#atiku4education",
+        "#pstbiodunliveatibadanstadium"
       ],
       "regular_topics": [
         "Messi",
         "Argentina",
         "England",
+        "PERTHSANTA ONE TASTE",
         "Isaac Fayose",
         "GOAT",
+        "GM CT",
+        "Padre",
         "Even Trump",
-        "Colo Colo",
-        "Caitlin Clark",
-        "Tuchel",
-        "Malami",
-        "$VAULTS"
+        "$VAULTS",
+        "Another Saturday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
