@@ -1,194 +1,196 @@
 {
-  "generated_at_utc": "2026-07-17T23:39:33.112504+00:00",
+  "generated_at_utc": "2026-07-18T01:13:23.729237+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 17 2026 22:52:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 00:36:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bryson",
-        "Olive Garden",
-        "Rory",
-        "Jimothy",
-        "Brandel",
-        "The R&A",
-        "Meatloaf",
+        "#SmackDown",
         "Logan Paul",
-        "Wyndham Clark",
-        "Friendly",
-        "Scrap"
+        "Rhea",
+        "Tom Brady",
+        "Brandel",
+        "Olive Garden",
+        "Jimothy",
+        "Rory",
+        "Tiana",
+        "#loveafterlockup"
       ],
       "hashtags": [
-        "#TheOpen",
-        "#BudSummerOf250",
-        "#BLOODSAGA_IN_DALLAS",
-        "#TheChi",
-        "#TheFive"
+        "#SmackDown",
+        "#loveafterlockup",
+        "#asknattie",
+        "#BelleCollective",
+        "#BLOODSAGA_IN_DALLAS"
       ],
       "regular_topics": [
         "Bryson",
-        "Olive Garden",
-        "Rory",
-        "Jimothy",
-        "Brandel",
-        "The R&A",
-        "Meatloaf",
         "Logan Paul",
-        "Wyndham Clark",
-        "Friendly",
-        "Scrap"
+        "Rhea",
+        "Tom Brady",
+        "Brandel",
+        "Olive Garden",
+        "Jimothy",
+        "Rory",
+        "Tiana",
+        "Interim",
+        "Meatloaf"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 17 2026 23:18:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 00:09:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bryson",
         "The Odyssey",
-        "#totp",
-        "Bergvall",
-        "Ethan",
+        "Joshua Kerry",
         "Rhea",
-        "#AnnDroid",
-        "Scrap",
+        "Bergvall",
+        "#TOTP",
         "Nolan",
-        "The R&A",
-        "#newsnight"
+        "Ethan",
+        "Scrap",
+        "#AnnDroid",
+        "The R&A"
       ],
       "hashtags": [
-        "#totp",
+        "#TOTP",
         "#AnnDroid",
-        "#newsnight",
         "#GovernmentPlayList",
-        "#TheOpen"
+        "#TheOpen",
+        "#newsnight"
       ],
       "regular_topics": [
         "Bryson",
         "The Odyssey",
-        "Bergvall",
-        "Ethan",
+        "Joshua Kerry",
         "Rhea",
-        "Scrap",
+        "Bergvall",
         "Nolan",
+        "Ethan",
+        "Scrap",
         "The R&A",
-        "Priya and Aidan",
-        "Saracchi",
-        "Iheanacho"
+        "IMAX",
+        "Odysseus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 17 2026 23:09:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 00:52:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
         "China",
         "Colorado",
         "Ontario",
-        "Bryson",
-        "Canada",
+        "Varsho",
         "The Odyssey",
+        "Canada",
         "Minnesota",
-        "Argentina",
-        "Forest",
-        "England"
+        "Bryson",
+        "#BlueJays",
+        "#SmackDown"
       ],
       "hashtags": [
-        "#ValkoIsValuable"
+        "#BlueJays",
+        "#SmackDown",
+        "#wildfires"
       ],
       "regular_topics": [
         "California",
         "China",
         "Colorado",
         "Ontario",
-        "Bryson",
-        "Canada",
+        "Varsho",
         "The Odyssey",
+        "Canada",
         "Minnesota",
-        "Argentina",
-        "Forest",
-        "England"
+        "Bryson",
+        "Apple TV",
+        "Argentina"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 17 2026 23:06:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 00:48:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GalaxyUnpacked",
-        "#EcopreneurAwards2026",
         "#SupremeGodKabir",
+        "#EcopreneurAwards2026",
         "Sant RampalJi YouTube",
         "#omega_interactive_stock_watch",
         "#sumeetrightsissue4daysleft",
         "omega interactive technologies",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
         "Rohit Sharma",
-        "Sonam Wangchuk",
-        "J-Hope"
+        "Sonam Wangchuk"
       ],
       "hashtags": [
         "#GalaxyUnpacked",
-        "#EcopreneurAwards2026",
         "#SupremeGodKabir",
+        "#EcopreneurAwards2026",
         "#omega_interactive_stock_watch",
         "#sumeetrightsissue4daysleft"
       ],
       "regular_topics": [
         "Sant RampalJi YouTube",
         "omega interactive technologies",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
         "Rohit Sharma",
         "Sonam Wangchuk",
-        "J-Hope",
         "149.25 cr",
-        "Sir Garfield Sobers",
-        "Nolan",
+        "J-Hope",
         "ACE PLAYER SHREYA",
-        "NEET"
+        "Sir Garfield Sobers",
+        "Nolan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 17 2026 23:06:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 00:48:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Messi",
+        "Argentina",
+        "England",
         "Shakira",
+        "Isaac Fayose",
+        "GOAT",
+        "Tom Brady",
         "#JULY4OLUWASON",
-        "OLOWO STAKE",
-        "Temu",
-        "#OLUWAFORCE",
-        "The Odyssey",
-        "Saida Boj",
-        "IMAX",
-        "Nolan",
-        "Popsy",
-        "Trabzonspor"
+        "Tuchel",
+        "Malami",
+        "#AskBinance"
       ],
       "hashtags": [
         "#JULY4OLUWASON",
-        "#OLUWAFORCE",
-        "#furry",
-        "#NMAMwithsunking",
-        "#BBNaija"
+        "#AskBinance",
+        "#ROZER",
+        "#Atiku4Education",
+        "#pastordaysman"
       ],
       "regular_topics": [
+        "Messi",
+        "Argentina",
+        "England",
         "Shakira",
-        "OLOWO STAKE",
-        "Temu",
-        "The Odyssey",
-        "Saida Boj",
-        "IMAX",
-        "Nolan",
-        "Popsy",
-        "Trabzonspor",
-        "Renato Sanches",
-        "Apple Music"
+        "Isaac Fayose",
+        "GOAT",
+        "Tom Brady",
+        "Tuchel",
+        "Malami",
+        "$VAULTS",
+        "The Odyssey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
