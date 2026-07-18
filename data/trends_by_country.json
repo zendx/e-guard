@@ -1,59 +1,59 @@
 {
-  "generated_at_utc": "2026-07-18T08:13:46.023127+00:00",
+  "generated_at_utc": "2026-07-18T09:51:19.578953+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 18 2026 07:27:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 09:09:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PerthSantaConcertD1",
-        "Jimothy",
-        "#SmackDown",
-        "Caitlin Clark",
+        "#NewShapeofGalaxy",
         "Wildberries",
-        "Bryson",
-        "Ketel Marte",
-        "Kirby Yates",
-        "Grisham",
+        "Jimothy",
+        "#STARDOM",
+        "Caitlin Clark",
+        "#SmackDown",
+        "Odysseus",
         "Dan Wilson",
-        "#OPLive"
+        "Ketel",
+        "Kirby Yates"
       ],
       "hashtags": [
         "#PerthSantaConcertD1",
+        "#NewShapeofGalaxy",
+        "#STARDOM",
         "#SmackDown",
-        "#OPLive",
-        "#BLOODSAGA_IN_DALLAS",
-        "#monkeyapp"
+        "#BLOODSAGA_IN_DALLAS"
       ],
       "regular_topics": [
+        "Wildberries",
         "Jimothy",
         "Caitlin Clark",
-        "Wildberries",
-        "Bryson",
-        "Ketel Marte",
-        "Kirby Yates",
-        "Grisham",
-        "Dan Wilson",
-        "Boardwalk Empire",
         "Odysseus",
-        "Rome"
+        "Dan Wilson",
+        "Ketel",
+        "Kirby Yates",
+        "Boardwalk Empire",
+        "Tiana",
+        "The Game",
+        "Tom Brady"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 18 2026 07:51:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 09:33:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
         "#NZLvIRE",
         "#CurrysFootball",
         "The Odyssey",
         "Falklands",
-        "#Caturday",
-        "#PostboxSaturday",
-        "Tuchel",
         "Burnham",
+        "Bryson",
+        "#Caturday",
+        "Tuchel",
         "England",
         "Spain"
       ],
@@ -61,28 +61,28 @@
         "#NZLvIRE",
         "#CurrysFootball",
         "#Caturday",
-        "#PostboxSaturday",
+        "#ASongOrMovieForAboutThrowing",
         "#TOTP"
       ],
       "regular_topics": [
         "Argentina",
         "The Odyssey",
         "Falklands",
-        "Tuchel",
         "Burnham",
+        "Bryson",
+        "Tuchel",
         "England",
         "Spain",
         "Messi",
-        "Bryson",
         "Souness",
-        "GAME DAY"
+        "Bergvall"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 18 2026 07:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 09:27:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "California",
         "China",
@@ -91,15 +91,16 @@
         "Ontario",
         "Bryson",
         "Minnesota",
-        "Nolan",
         "Jasper",
         "#PerthSantaConcertD1",
-        "Forest"
+        "PERTHSANTA ONE TASTE",
+        "Jimothy"
       ],
       "hashtags": [
         "#PerthSantaConcertD1",
         "#wildfires",
         "#ValkoIsValuable",
+        "#BCLions",
         "#SmackDown"
       ],
       "regular_topics": [
@@ -110,88 +111,88 @@
         "Ontario",
         "Bryson",
         "Minnesota",
-        "Nolan",
         "Jasper",
-        "Forest",
-        "Jimothy"
+        "PERTHSANTA ONE TASTE",
+        "Jimothy",
+        "Forest"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 18 2026 07:40:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 09:24:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BcmForORM",
+        "#BrandsCareMedia",
+        "#GalaxyUnpacked",
+        "#BankipurWantsBJP",
         "#ChinarBookFestival2026",
-        "#Vikram1",
-        "#SochnaPadega",
-        "#SonamWangchuck",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "J-Hope",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
         "Delhi Police",
         "Sony Entertainment Television",
-        "#JantarMantar",
-        "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "Abhijeet Dipke",
-        "Kaun Banega Crorepati"
+        "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932"
       ],
       "hashtags": [
-        "#ChinarBookFestival2026",
-        "#Vikram1",
-        "#SochnaPadega",
-        "#SonamWangchuck",
-        "#JantarMantar"
+        "#BcmForORM",
+        "#BrandsCareMedia",
+        "#GalaxyUnpacked",
+        "#BankipurWantsBJP",
+        "#ChinarBookFestival2026"
       ],
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "J-Hope",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
         "Delhi Police",
         "Sony Entertainment Television",
         "\u0938\u092b\u0926\u0930\u091c\u0902\u0917 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
-        "Abhijeet Dipke",
-        "Kaun Banega Crorepati",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "\u092a\u0924\u094d\u0928\u0940 \u0917\u0940\u0924\u093e\u0902\u091c\u0932\u093f",
+        "JOONGDUNK URANUS IN CBI",
         "Sriharikota",
-        "PERTHSANTA ONE TASTE",
-        "Safdarjung Hospital",
-        "Democracy",
-        "\u092e\u094b\u0926\u0940 \u0938\u0930\u0915\u093e\u0930"
+        "Srinagar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 18 2026 07:40:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 18 2026 09:24:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Messi",
-        "England",
-        "Amen",
         "Drake",
-        "Padre",
-        "GM CT",
+        "#HappyBirthdayShedrachEgede",
+        "Amen",
         "Cindy",
         "Isaac Fayose",
-        "#PerthSantaConcertD1",
+        "Elon",
         "Argentina",
-        "Elijah Upson"
+        "Hagar",
+        "Shakira",
+        "Today is Saturday"
       ],
       "hashtags": [
-        "#PerthSantaConcertD1",
+        "#HappyBirthdayShedrachEgede",
         "#ROZER",
-        "#AskBinance",
-        "#atiku4education",
-        "#pstbiodunliveatibadanstadium"
+        "#slotsfired",
+        "#PerthSantaConcertD1",
+        "#SunXWorldCupFinal"
       ],
       "regular_topics": [
         "Messi",
-        "England",
-        "Amen",
         "Drake",
-        "Padre",
-        "GM CT",
+        "Amen",
         "Cindy",
         "Isaac Fayose",
+        "Elon",
         "Argentina",
-        "Elijah Upson",
-        "Wrexham"
+        "Hagar",
+        "Shakira",
+        "Today is Saturday",
+        "Padre"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
