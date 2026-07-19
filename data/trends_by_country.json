@@ -1,198 +1,196 @@
 {
-  "generated_at_utc": "2026-07-19T19:37:11.950541+00:00",
+  "generated_at_utc": "2026-07-19T20:34:59.195461+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 19 2026 18:36:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 20:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ryan Fox",
+        "Shakira",
+        "Spain",
+        "Madonna",
+        "Justin Bieber",
+        "Ted Lasso",
+        "Muppets",
+        "Tom Cruise",
+        "Ronaldinho",
+        "#ESPARG",
         "Dort",
-        "Hawks",
-        "Risacher",
-        "#BTSxWORLDCUP2026",
-        "#BTSHALFTIMESHOW",
-        "World Cup Final",
-        "#WorldCupSpainvsArgentina",
-        "Cason Wallace",
-        "Cam Young",
-        "Sean Burke"
+        "Ryan Fox"
       ],
       "hashtags": [
-        "#BTSxWORLDCUP2026",
-        "#BTSHALFTIMESHOW",
-        "#WorldCupSpainvsArgentina",
-        "#TheOpen",
-        "#HueleDeLujo"
+        "#ESPARG"
       ],
       "regular_topics": [
-        "Ryan Fox",
+        "Shakira",
+        "Spain",
+        "Madonna",
+        "Justin Bieber",
+        "Ted Lasso",
+        "Muppets",
+        "Tom Cruise",
+        "Ronaldinho",
         "Dort",
-        "Hawks",
-        "Risacher",
-        "World Cup Final",
-        "Cason Wallace",
-        "Cam Young",
-        "Sean Burke",
-        "Thunder",
-        "Mavs",
-        "Presti"
+        "Ryan Fox",
+        "Jennifer Hudson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 19 2026 19:03:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 19:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldCupFinal",
         "Tom Cruise",
-        "Robbie Williams",
         "#ESPARG",
-        "Jennifer Hudson",
-        "Louis Vuitton",
-        "Ryan Fox",
-        "#Spain",
+        "Robbie Williams",
         "#SPAARG",
-        "Paulie Walnuts",
-        "Steve Bray"
+        "AKA Rocky",
+        "#Spain",
+        "Mac Allister",
+        "Pharrell",
+        "Lisandro Martinez",
+        "Jennifer Hudson"
       ],
       "hashtags": [
         "#WorldCupFinal",
         "#ESPARG",
-        "#Spain",
         "#SPAARG",
-        "#ARGSPA"
+        "#Spain",
+        "#ArgentinaVsEspa\u00f1a"
       ],
       "regular_topics": [
         "Tom Cruise",
         "Robbie Williams",
+        "AKA Rocky",
+        "Mac Allister",
+        "Pharrell",
+        "Lisandro Martinez",
         "Jennifer Hudson",
+        "Licha",
         "Louis Vuitton",
         "Ryan Fox",
-        "Paulie Walnuts",
-        "Steve Bray",
-        "Nicole Scherzinger",
-        "Super Bowl",
-        "Lewis",
-        "Sam Curran"
+        "Bruce Buffer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 19 2026 18:52:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 19:44:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
+        "Tom Cruise",
+        "#ESPARG",
         "Ryan Fox",
-        "Jennifer Hudson",
-        "#CrownSports",
-        "Duane Ward",
+        "Yamal",
+        "Robbie Williams",
         "Tate",
-        "Crown Coins",
-        "The Odyssey",
-        "Bryson",
-        "#SNME",
-        "#UFCOKC"
+        "Jennifer Hudson",
+        "Duane Ward",
+        "#BTSHALFTIMESHOW",
+        "The Odyssey"
       ],
       "hashtags": [
-        "#CrownSports",
+        "#ESPARG",
+        "#BTSHALFTIMESHOW",
         "#SNME",
         "#UFCOKC",
-        "#FRAENG",
-        "#BTSHALFTIMESHOW"
+        "#FRAENG"
       ],
       "regular_topics": [
         "Spain",
+        "Tom Cruise",
         "Ryan Fox",
+        "Yamal",
+        "Robbie Williams",
+        "Tate",
         "Jennifer Hudson",
         "Duane Ward",
-        "Tate",
-        "Crown Coins",
         "The Odyssey",
-        "Bryson",
-        "Robbie Williams",
-        "Rory",
-        "GoodLife"
+        "Mac Allister",
+        "Olmo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 19 2026 18:51:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 19:42:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Spain",
+        "#CokeMatchDayHangout",
         "#INDvsENG",
         "#RohitSharma",
-        "#CokeMatchDayHangout",
-        "Spain",
         "#BTSxWORLDCUP2026",
-        "Sam Curran",
         "#BTSHALFTIMESHOW",
         "Gill",
-        "BRING BACK YOGESH",
+        "Sam Curran",
         "Lords",
-        "Gambhir"
+        "Lamal",
+        "BRING BACK YOGESH"
       ],
       "hashtags": [
+        "#CokeMatchDayHangout",
         "#INDvsENG",
         "#RohitSharma",
-        "#CokeMatchDayHangout",
         "#BTSxWORLDCUP2026",
-        "#BTSHALFTIMESHOW"
+        "#BTSHALFTIMESHOW",
+        "#WorldCupFinal",
+        "#ESPARG"
       ],
       "regular_topics": [
         "Spain",
-        "Sam Curran",
         "Gill",
-        "BRING BACK YOGESH",
+        "Sam Curran",
         "Lords",
+        "Lamal",
+        "BRING BACK YOGESH",
+        "Tom Cruise",
         "Gambhir",
-        "Sa News YouTube Channel",
-        "\u0930\u094b\u0939\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
-        "First Indian",
         "Ishan",
-        "AKANKSHA TAKES CHARGE"
+        "\u0930\u094b\u0939\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
+        "Peter Drury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 19 2026 18:48:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 19:40:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "#ESPARG",
-        "IShowSpeed",
-        "Ivana",
         "#WorldCupFinal",
-        "#SSFootball",
-        "#BringTheGameToLife",
-        "#RemixNneomaMovie",
-        "Post Malone",
-        "Tomorrow is Monday",
-        "Terry G"
+        "Tom Cruise",
+        "IShowSpeed",
+        "Tagliafico",
+        "Nico Gonzalez",
+        "#ARGESP",
+        "Ivana",
+        "Jennifer Hudson",
+        "#SSFootball"
       ],
       "hashtags": [
         "#ESPARG",
         "#WorldCupFinal",
+        "#ARGESP",
         "#SSFootball",
-        "#BringTheGameToLife",
-        "#RemixNneomaMovie"
+        "#BringTheGameToLife"
       ],
       "regular_topics": [
         "Spain",
+        "Tom Cruise",
         "IShowSpeed",
+        "Tagliafico",
+        "Nico Gonzalez",
         "Ivana",
-        "Post Malone",
-        "Tomorrow is Monday",
-        "Terry G",
-        "ARRIVED",
-        "Team Argentina",
-        "Vamos Argentina",
+        "Jennifer Hudson",
+        "Donald Trump",
         "Team Messi",
-        "Infection"
+        "Post Malone",
+        "Baena"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
