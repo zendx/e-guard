@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-07-19T15:28:02.183365+00:00",
+  "generated_at_utc": "2026-07-19T16:24:59.226267+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 19 2026 15:09:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 16:03:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
+        "Scottie",
         "Lewis",
-        "Leclerc",
-        "#BelgianGP",
+        "Lu Dort",
         "Cam Young",
-        "Lando",
-        "McLaren",
-        "Tate",
         "Alaska",
-        "#NationalIceCreamDay",
-        "Clara"
+        "Tate",
+        "Tropical Depression Two",
+        "Leclerc",
+        "#BTSxWORLDCUP2026",
+        "#NationalIceCreamDay"
       ],
       "hashtags": [
-        "#BelgianGP",
+        "#BTSxWORLDCUP2026",
         "#NationalIceCreamDay",
-        "#PerthSantaConcertD2",
+        "#BelgianGP",
         "#SeductiveSunday",
-        "#SundayVibes"
+        "#PerthSantaConcertD2"
       ],
       "regular_topics": [
         "Good Sunday",
+        "Scottie",
         "Lewis",
-        "Leclerc",
+        "Lu Dort",
         "Cam Young",
-        "Lando",
-        "McLaren",
-        "Tate",
         "Alaska",
-        "Clara",
-        "PERTHSANTA NEVER ENOUGH",
-        "Antonelli"
+        "Tate",
+        "Tropical Depression Two",
+        "Leclerc",
+        "Risacher",
+        "Happy Birthday Sass"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 19 2026 14:44:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 15:36:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lewis",
         "Leclerc",
@@ -52,20 +52,17 @@
         "Ferrari",
         "McLaren",
         "Piastri",
-        "Lando",
         "Haiti",
-        "Antonelli",
-        "Tate"
+        "Lando",
+        "Tate",
+        "Antonelli"
       ],
       "hashtags": [
         "#BelgianGP",
         "#BelgiumGP",
         "#SkyF1",
-        "#PerthSantaConcertD2",
-        "#ESPARG",
-        "#Final365",
-        "#bbclaurak",
-        "#cafc"
+        "#WorldCupFinal",
+        "#PerthSantaConcertD2"
       ],
       "regular_topics": [
         "Lewis",
@@ -74,37 +71,37 @@
         "Ferrari",
         "McLaren",
         "Piastri",
-        "Lando",
         "Haiti",
-        "Antonelli",
+        "Lando",
         "Tate",
-        "Oscar"
+        "Antonelli",
+        "Ryan Carr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 19 2026 14:36:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 15:27:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Duane Ward",
-        "#FRAENG",
         "Lewis",
-        "#SNME",
-        "#UFCOKC",
         "#BelgianGP",
+        "#SNME",
+        "#FRAENG",
+        "#UFCOKC",
         "Leclerc",
         "The Odyssey",
         "Saka",
-        "Antonelli",
-        "Lando"
+        "Spain",
+        "Bryson"
       ],
       "hashtags": [
-        "#FRAENG",
-        "#SNME",
-        "#UFCOKC",
         "#BelgianGP",
-        "#PerthSantaConcertD2"
+        "#SNME",
+        "#FRAENG",
+        "#UFCOKC",
+        "#betya"
       ],
       "regular_topics": [
         "Duane Ward",
@@ -112,90 +109,90 @@
         "Leclerc",
         "The Odyssey",
         "Saka",
-        "Antonelli",
-        "Lando",
+        "Spain",
         "Bryson",
-        "Ferrari",
         "Rory",
-        "Spain"
+        "Antonelli",
+        "Tate",
+        "Nolan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 19 2026 14:33:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 15:24:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#MCD500CrLoss",
+        "#TAPwithAmanChopra",
         "#FIFAFinalsOnZee5",
+        "#PrakharSonamWangchukPodcast",
         "#\u092b\u094d\u0930\u0940_\u0916\u093e\u0926_\u092c\u0940\u091c_\u0926\u0935\u093e\u0908_\u0938\u0947\u0935\u093e\u0905\u092d\u093f\u092f\u093e\u0928",
         "Sa News YouTube Channel",
-        "#TAPwithAmanChopra",
-        "#PrakharSonamWangchukPodcast",
-        "#MCD500CrLoss",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Airtel Unlimited 5G",
         "Siraj",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Bumrah",
-        "Shami"
+        "Argentina vs Spain"
       ],
       "hashtags": [
-        "#FIFAFinalsOnZee5",
-        "#\u092b\u094d\u0930\u0940_\u0916\u093e\u0926_\u092c\u0940\u091c_\u0926\u0935\u093e\u0908_\u0938\u0947\u0935\u093e\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#MCD500CrLoss",
         "#TAPwithAmanChopra",
+        "#FIFAFinalsOnZee5",
         "#PrakharSonamWangchukPodcast",
-        "#MCD500CrLoss"
+        "#\u092b\u094d\u0930\u0940_\u0916\u093e\u0926_\u092c\u0940\u091c_\u0926\u0935\u093e\u0908_\u0938\u0947\u0935\u093e\u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Airtel Unlimited 5G",
         "Siraj",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Bumrah",
+        "Argentina vs Spain",
         "Shami",
+        "MLFF",
+        "Yamal",
         "Ben Duckett",
-        "Argentina v Spain",
-        "Gurnoor Brar",
-        "Messi vs Yamal",
-        "Joe Root"
+        "Gurnoor Brar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 19 2026 14:32:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 15:24:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BringTheGameToLife",
         "#WatchWithTECNO",
         "Ivana",
+        "#TreasureYourTreasure",
+        "#YourGameYouRule",
         "#BelongWithMSport",
         "Spain 2",
-        "#TreasureYourTreasure",
         "Okwute",
-        "#WorldCupFinal",
-        "Bedbug",
         "Infection",
-        "Nini"
+        "Dr. Dahiru Muhammed",
+        "Bedbug"
       ],
       "hashtags": [
         "#BringTheGameToLife",
         "#WatchWithTECNO",
-        "#BelongWithMSport",
         "#TreasureYourTreasure",
-        "#WorldCupFinal"
+        "#YourGameYouRule",
+        "#BelongWithMSport"
       ],
       "regular_topics": [
         "Ivana",
         "Spain 2",
         "Okwute",
-        "Bedbug",
         "Infection",
-        "Nini",
-        "Happy 65th",
-        "Church",
-        "Hamilton",
+        "Dr. Dahiru Muhammed",
+        "Bedbug",
+        "His Excellency",
         "Lewis",
-        "Brazino 777"
+        "Happy 65th",
+        "Mr Peter Obi",
+        "Leclerc"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
