@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-07-19T07:19:29.804187+00:00",
+  "generated_at_utc": "2026-07-19T09:22:52.730224+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 19 2026 06:36:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 08:18:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Usman",
-        "Tate",
-        "#SNME",
-        "#UFCOKC",
         "#PerthSantaConcertD2",
         "PERTHSANTA NEVER ENOUGH",
-        "#Toonami",
+        "Usman",
+        "Tate",
         "Ojay",
-        "Colby",
-        "#TokyoRevengers",
-        "Santana"
+        "#UFCOKC",
+        "#SNME",
+        "#Toonami",
+        "Lacy",
+        "Lyric",
+        "Melody"
       ],
       "hashtags": [
-        "#SNME",
-        "#UFCOKC",
         "#PerthSantaConcertD2",
+        "#UFCOKC",
+        "#SNME",
         "#Toonami",
-        "#TokyoRevengers"
+        "#MyAdventuresWithSuperman"
       ],
       "regular_topics": [
+        "PERTHSANTA NEVER ENOUGH",
         "Usman",
         "Tate",
-        "PERTHSANTA NEVER ENOUGH",
         "Ojay",
+        "Lacy",
+        "Lyric",
+        "Melody",
         "Colby",
-        "Santana",
-        "Jennifer Finch",
-        "Bayley",
-        "chivas",
-        "Lyra",
-        "Romania"
+        "Romania",
+        "Cartoons",
+        "Jennifer Finch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 19 2026 07:00:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 08:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#FRAENG",
+        "#bbclaurak",
         "Saka",
         "Rogers",
         "Arsenal",
+        "Andrew Tate",
         "Barcola",
-        "Tuchel",
         "Olise",
-        "England",
-        "#SNME",
-        "#UFCOKC",
-        "The Odyssey"
+        "Tuchel",
+        "#trevorphillips",
+        "#SNME"
       ],
       "hashtags": [
         "#FRAENG",
+        "#bbclaurak",
+        "#trevorphillips",
         "#SNME",
-        "#UFCOKC",
-        "#SundayYellow",
-        "#OnEveryCorner"
+        "#SundayYellow"
       ],
       "regular_topics": [
         "Saka",
         "Rogers",
         "Arsenal",
+        "Andrew Tate",
         "Barcola",
-        "Tuchel",
         "Olise",
-        "England",
+        "Tuchel",
         "The Odyssey",
+        "England",
         "Bryson",
-        "Konate",
-        "Usman"
+        "Lucy Powell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 19 2026 06:52:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 08:36:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#FRAENG",
         "#SNME",
+        "#FRAENG",
         "#UFCOKC",
         "Saka",
         "The Odyssey",
-        "Old Dutch",
         "Bryson",
         "Rory",
         "Usman",
-        "California",
-        "Colorado"
+        "Nolan",
+        "Colorado",
+        "California"
       ],
       "hashtags": [
-        "#FRAENG",
         "#SNME",
+        "#FRAENG",
         "#UFCOKC",
         "#PerthSantaConcertD2",
-        "#yegwx"
+        "#ENGFRA"
       ],
       "regular_topics": [
         "Saka",
         "The Odyssey",
-        "Old Dutch",
         "Bryson",
         "Rory",
         "Usman",
-        "California",
-        "Colorado",
         "Nolan",
-        "Olise",
-        "Arsenal"
+        "Colorado",
+        "California",
+        "Old Dutch",
+        "Arsenal",
+        "PERTHSANTA NEVER ENOUGH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 19 2026 06:51:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 08:33:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#OdysseyOnlyOnDistrict",
+        "#GalaxyUnpacked",
         "#DangaMuktPradeshUP",
-        "#ToolkitAgainstGadkari",
         "Yogi Ka Fear Free UP",
+        "Spider-Man",
         "#\u0935\u093f\u092a\u094d\u0930_\u0938\u0947\u0928\u093e_\u0938\u094d\u0925\u093e\u092a\u0928\u093e_\u0926\u093f\u0935\u0938",
-        "#BcmForORM",
-        "#BrandsCareMedia",
+        "#ToolkitAgainstGadkari",
         "Japan Open",
-        "\u092e\u0902\u0917\u0932 \u092a\u093e\u0902\u0921\u0947",
-        "\u092a\u094d\u0930\u0925\u092e \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
-        "Hindu Sanskriti",
-        "PERTHSANTA NEVER ENOUGH"
+        "Fold",
+        "PERTHSANTA NEVER ENOUGH",
+        "Compact"
       ],
       "hashtags": [
+        "#OdysseyOnlyOnDistrict",
+        "#GalaxyUnpacked",
         "#DangaMuktPradeshUP",
-        "#ToolkitAgainstGadkari",
         "#\u0935\u093f\u092a\u094d\u0930_\u0938\u0947\u0928\u093e_\u0938\u094d\u0925\u093e\u092a\u0928\u093e_\u0926\u093f\u0935\u0938",
-        "#BcmForORM",
-        "#BrandsCareMedia"
+        "#ToolkitAgainstGadkari"
       ],
       "regular_topics": [
         "Yogi Ka Fear Free UP",
+        "Spider-Man",
         "Japan Open",
-        "\u092e\u0902\u0917\u0932 \u092a\u093e\u0902\u0921\u0947",
-        "\u092a\u094d\u0930\u0925\u092e \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
-        "Hindu Sanskriti",
+        "Fold",
         "PERTHSANTA NEVER ENOUGH",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "Compact",
+        "\u092e\u0902\u0917\u0932 \u092a\u093e\u0902\u0921\u0947",
         "Poonch",
-        "\u092a\u0940\u0935\u0940 \u0938\u093f\u0902\u0927\u0941",
-        "\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0936\u094d\u0930\u0940\u092e\u0924\u0940",
-        "Akane Yamaguchi"
+        "THE ARENA WELCOMES REBEL KID",
+        "Pocket-sized",
+        "\u092a\u094d\u0930\u0925\u092e \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 19 2026 06:48:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 19 2026 08:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Blessed Sunday",
+        "#TCMOTY2026",
         "Today is Sunday",
-        "Saka",
-        "Happy Sunday X",
-        "Tristan Tate",
-        "Beautiful Sunday",
         "Ivana",
         "Sir David",
-        "Mbappe",
-        "Money Constant",
-        "Kate Henshaw"
+        "Black Sunday",
+        "#fifa_worldcup2026",
+        "Beautiful Sunday",
+        "Happy Sunday Fam",
+        "Aunty Kate",
+        "Happy Sunday X"
       ],
       "hashtags": [
-        "#FRAENG",
-        "#UFCOKC",
-        "#ITLX",
-        "#WorldCupFinal",
-        "#ENGFRA"
+        "#TCMOTY2026",
+        "#fifa_worldcup2026",
+        "#PerthSantaConcertD2",
+        "#ESPARG",
+        "#WorldCupFinal"
       ],
       "regular_topics": [
         "Blessed Sunday",
         "Today is Sunday",
-        "Saka",
-        "Happy Sunday X",
-        "Tristan Tate",
-        "Beautiful Sunday",
         "Ivana",
         "Sir David",
-        "Mbappe",
-        "Money Constant",
-        "Kate Henshaw"
+        "Black Sunday",
+        "Beautiful Sunday",
+        "Happy Sunday Fam",
+        "Aunty Kate",
+        "Happy Sunday X",
+        "Suspension",
+        "Saka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
