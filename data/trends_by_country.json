@@ -1,74 +1,75 @@
 {
-  "generated_at_utc": "2026-07-20T18:46:48.774289+00:00",
+  "generated_at_utc": "2026-07-20T20:14:17.147694+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 20 2026 17:46:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 19:31:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Doom",
         "Thor",
         "Marvel",
-        "Endgame",
         "Thanos",
-        "Secret Wars",
-        "Steve Rogers",
         "#HappyBirthdayJustin",
-        "Gambit",
+        "Endgame",
+        "Secret Wars",
         "Kang",
+        "Gambit",
+        "Matisse Thybulle",
         "Loki"
       ],
       "hashtags": [
-        "#HappyBirthdayJustin",
-        "#MondayMotivation"
+        "#HappyBirthdayJustin"
       ],
       "regular_topics": [
         "Doom",
         "Thor",
         "Marvel",
-        "Endgame",
         "Thanos",
+        "Endgame",
         "Secret Wars",
-        "Steve Rogers",
-        "Gambit",
         "Kang",
+        "Gambit",
+        "Matisse Thybulle",
         "Loki",
-        "Mystique"
+        "Steve Rogers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 20 2026 18:12:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 19:55:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kevin Keegan",
-        "John Healey",
-        "Manchester",
-        "Lammy",
-        "Burnham",
-        "Ed Miliband",
+        "Chancellor",
         "Foreign Secretary",
+        "Ed Miliband",
+        "Manchester",
         "Louise Haigh",
-        "Defence",
-        "Mahmood",
-        "Cabinet"
+        "Burnham",
+        "Yvette Cooper",
+        "Lammy",
+        "#universitychallenge",
+        "Reeves"
       ],
       "hashtags": [
-        "#YNWA",
-        "#thechase"
+        "#universitychallenge",
+        "#onlyconnect",
+        "#mastermind",
+        "#YNWA"
       ],
       "regular_topics": [
         "Kevin Keegan",
-        "John Healey",
-        "Manchester",
-        "Lammy",
-        "Burnham",
-        "Ed Miliband",
+        "Chancellor",
         "Foreign Secretary",
+        "Ed Miliband",
+        "Manchester",
         "Louise Haigh",
-        "Defence",
-        "Mahmood",
+        "Burnham",
+        "Yvette Cooper",
+        "Lammy",
+        "Reeves",
         "Cabinet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -76,7 +77,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 20 2026 18:03:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 19:46:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "World Cup",
@@ -84,18 +85,18 @@
         "Messi",
         "Rodri",
         "GoodLife",
+        "#ESPARG",
         "Shakira",
         "Thor",
-        "#ESPARG",
-        "Paredes",
-        "Doomsday"
+        "#ESPvsARG",
+        "Paredes"
       ],
       "hashtags": [
         "#ESPARG",
         "#ESPvsARG",
-        "#oneverycorner",
-        "#BTSHALFTIMESHOW",
-        "#ARGESP"
+        "#OnEveryCorner",
+        "#ARGESP",
+        "#BTSHALFTIMESHOW"
       ],
       "regular_topics": [
         "Spain",
@@ -115,77 +116,75 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 20 2026 18:01:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 19:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0938\u0902\u0938\u0926_\u092e\u093e\u0930\u094d\u091a",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
-        "AMAAL X EMRAAN",
+        "#\u0926\u093f\u0932\u094d\u0932\u0940",
         "#CJPProtest",
+        "AMAAL x EMRAAN",
         "#AvengersDoomsday",
         "Thor",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "#HBDVinodTawde",
-        "MISSING YOGESH IN LOCKUPP",
-        "NEET",
-        "YOGESH IS BEST"
+        "Dharmendra Pradhan",
+        "Shame",
+        "Loki",
+        "Marvel"
       ],
       "hashtags": [
         "#\u0938\u0902\u0938\u0926_\u092e\u093e\u0930\u094d\u091a",
         "#cjp_\u092a\u093e\u0930\u094d\u091f\u0940",
+        "#\u0926\u093f\u0932\u094d\u0932\u0940",
         "#CJPProtest",
-        "#AvengersDoomsday",
-        "#HBDVinodTawde"
+        "#AvengersDoomsday"
       ],
       "regular_topics": [
-        "AMAAL X EMRAAN",
+        "AMAAL x EMRAAN",
         "Thor",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "MISSING YOGESH IN LOCKUPP",
-        "NEET",
-        "YOGESH IS BEST",
-        "Steve Rogers",
-        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "Marvel",
         "Dharmendra Pradhan",
-        "MV Golden Leo"
+        "Shame",
+        "Loki",
+        "Marvel",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Steve Rogers",
+        "YOGESH IS BEST",
+        "MISSING YOGESH IN LOCKUPP",
+        "\u0921\u093f\u0902\u092a\u0932 \u092f\u093e\u0926\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 20 2026 18:00:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 19:43:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TheGloLegacy",
         "Thor",
-        "Kevin Keegan",
+        "$DOW",
+        "#TheGloLegacy",
         "Doom",
         "Marvel",
-        "Steve Rogers",
-        "Maybach",
-        "Andy Burnham",
-        "Welcome to Chelsea",
-        "Loki",
-        "Captain America"
+        "Kevin Keegan",
+        "Maxence Lacroix",
+        "ICPC",
+        "Perez",
+        "Crystal Palace",
+        "Steve Rogers"
       ],
       "hashtags": [
         "#TheGloLegacy",
-        "#MyPiggyvestWAECreport",
-        "#RHOA",
-        "#MondayMotivation"
+        "#MyPiggyvestWAECreport"
       ],
       "regular_topics": [
         "Thor",
-        "Kevin Keegan",
+        "$DOW",
         "Doom",
         "Marvel",
+        "Kevin Keegan",
+        "Maxence Lacroix",
+        "ICPC",
+        "Perez",
+        "Crystal Palace",
         "Steve Rogers",
-        "Maybach",
-        "Andy Burnham",
-        "Welcome to Chelsea",
-        "Loki",
-        "Captain America",
-        "King Kev"
+        "Loki"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
