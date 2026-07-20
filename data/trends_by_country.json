@@ -1,70 +1,67 @@
 {
-  "generated_at_utc": "2026-07-20T01:22:10.537278+00:00",
+  "generated_at_utc": "2026-07-20T04:57:13.362706+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 20 2026 00:36:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 04:03:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Argentina",
-        "World Cup",
+        "#HOTD",
         "Messi",
+        "#HouseOfTheDragon",
+        "#GrandConcert",
+        "Logano",
+        "#RHOA",
+        "#BaddiesUSA",
         "Rodri",
-        "Ferran Torres",
-        "Enzo",
-        "Lamine",
-        "Shakira",
-        "Paredes",
-        "Infantino"
+        "Yaxel"
       ],
       "hashtags": [
-        "#ESPARG",
-        "#ESPvsARG",
-        "#mundialdef\u00fatbol2026",
-        "#baddiesgonewild",
-        "#BTSHALFTIMESHOW",
-        "#BadBoysDR",
-        "#GCWTussle",
-        "#Olandria"
+        "#HOTD",
+        "#HouseOfTheDragon",
+        "#GrandConcert",
+        "#RHOA",
+        "#BaddiesUSA"
       ],
       "regular_topics": [
         "Spain",
         "Argentina",
-        "World Cup",
         "Messi",
+        "Logano",
         "Rodri",
-        "Ferran Torres",
-        "Enzo",
-        "Lamine",
-        "Shakira",
+        "Yaxel",
         "Paredes",
-        "Infantino"
+        "North Wilkesboro",
+        "Usha",
+        "Criston Cole",
+        "Giant Eagle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 20 2026 01:03:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 04:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Argentina",
         "Messi",
         "World Cup",
-        "Paredes",
         "Rodri",
+        "Paredes",
         "#ESPARG",
         "Enzo",
         "Infantino",
-        "#SPAARG",
-        "Ferran Torres"
+        "Ferran Torres",
+        "#SPAARG"
       ],
       "hashtags": [
         "#ESPARG",
         "#SPAARG",
-        "#halftimeshow",
         "#mundialdef\u00fatbol2026",
+        "#BTSHALFTIMESHOW",
         "#ARGSPA"
       ],
       "regular_topics": [
@@ -72,8 +69,8 @@
         "Argentina",
         "Messi",
         "World Cup",
-        "Paredes",
         "Rodri",
+        "Paredes",
         "Enzo",
         "Infantino",
         "Ferran Torres",
@@ -85,26 +82,27 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 20 2026 00:54:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 04:21:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Argentina",
         "World Cup",
         "Messi",
         "Rodri",
-        "#ESPARG",
-        "Ferran Torres",
-        "Enzo",
-        "Paredes",
-        "Nico Williams",
-        "Infantino"
+        "#Umamusume",
+        "Redblacks",
+        "#90dayfiance",
+        "#ForTheW",
+        "Ottawa",
+        "GoodLife"
       ],
       "hashtags": [
-        "#ESPARG",
-        "#ESPvsARG",
+        "#Umamusume",
+        "#90dayfiance",
+        "#ForTheW",
+        "#Bombers",
         "#BTSHALFTIMESHOW",
-        "#ARGESP",
-        "#mundialdef\u00fatbol2026"
+        "#ESPvsARG"
       ],
       "regular_topics": [
         "Spain",
@@ -112,78 +110,76 @@
         "World Cup",
         "Messi",
         "Rodri",
-        "Ferran Torres",
-        "Enzo",
+        "Redblacks",
+        "Ottawa",
+        "GoodLife",
         "Paredes",
-        "Nico Williams",
-        "Infantino",
-        "Merino"
+        "Yamal",
+        "Infantino"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 20 2026 00:52:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 04:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PerformanceSpeaks",
+        "#Omega_Stock_Watch",
+        "Omega Interactive Technologies",
+        "#AsaramBapuCase",
+        "Paid Media",
+        "Nirdosh Sant",
         "Spain",
-        "Messi",
-        "#WorldCupFinal",
-        "Ferran Torres",
-        "#ESPARG",
-        "Rodri",
-        "Martinez",
-        "Enzo",
-        "Paredes",
         "#GodMorningMonday",
-        "#ESPvsARG"
+        "200 Cr",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u091a",
+        "#ChaloSansad"
       ],
       "hashtags": [
-        "#WorldCupFinal",
-        "#ESPARG",
+        "#PerformanceSpeaks",
+        "#Omega_Stock_Watch",
+        "#AsaramBapuCase",
         "#GodMorningMonday",
-        "#ESPvsARG",
-        "#BTSHALFTIMESHOW",
-        "#mundialdef\u00fatbol2026",
-        "#ARGESP"
+        "#ChaloSansad"
       ],
       "regular_topics": [
+        "Omega Interactive Technologies",
+        "Paid Media",
+        "Nirdosh Sant",
         "Spain",
+        "200 Cr",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u091a",
+        "\u092c\u091f\u0941\u0915\u0947\u0936\u094d\u0935\u0930 \u0926\u0924\u094d\u0924",
         "Messi",
-        "Ferran Torres",
-        "Rodri",
-        "Martinez",
-        "Enzo",
-        "Paredes",
-        "Lamine Yamal",
-        "Shakira",
-        "Barca",
-        "Merino"
+        "\u0936\u094d\u0930\u0940 \u0935\u093f\u0928\u094b\u0926",
+        "AI Development Centres",
+        "\u0930\u093e\u091c\u0940\u0935 \u091a\u094c\u0915"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 20 2026 00:51:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 20 2026 04:18:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Messi",
         "World Cup",
         "Rodri",
         "Ferran Torres",
-        "#ESPARG",
-        "Lamine Yamal",
         "#StakeColombia",
-        "Paredes",
-        "Merino",
-        "Gavi"
+        "#VamosEspa\u00f1a",
+        "#ESPARG",
+        "Yamal",
+        "Gavi",
+        "Happy New Week"
       ],
       "hashtags": [
-        "#ESPARG",
         "#StakeColombia",
-        "#mundialdef\u00fatbol2026",
-        "#ARGESP"
+        "#VamosEspa\u00f1a",
+        "#ESPARG",
+        "#mundialdef\u00fatbol2026"
       ],
       "regular_topics": [
         "Spain",
@@ -191,12 +187,12 @@
         "World Cup",
         "Rodri",
         "Ferran Torres",
-        "Lamine Yamal",
-        "Paredes",
-        "Merino",
+        "Yamal",
         "Gavi",
-        "Martinez",
-        "Nico Williams"
+        "Happy New Week",
+        "Paredes",
+        "Cucurella",
+        "Martinez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
