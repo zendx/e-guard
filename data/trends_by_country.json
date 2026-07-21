@@ -1,196 +1,194 @@
 {
-  "generated_at_utc": "2026-07-21T13:08:43.250361+00:00",
+  "generated_at_utc": "2026-07-21T15:19:26.172130+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 12:39:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 14:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "ESPN",
         "Good Tuesday",
-        "Happy Birthday Tina",
-        "#ScotchXLinglingWithOrm",
+        "Karl Ravech",
+        "Taco Tuesday",
         "Ryan Clark",
-        "LINGORM X SCOTCH THAILAND",
-        "#JIMINxDIOR",
-        "#PutThatInYourPipe",
-        "#TuesdayVibes",
-        "RIP Bear",
-        "DIOR GLOBAL AMBASSADOR JIMIN",
-        "#TacoTuesday"
+        "Kirby Smart",
+        "Lee Evan Caplin",
+        "Van Jones",
+        "Pat McAfee",
+        "Happy Birthday Tina",
+        "Coraline"
       ],
       "hashtags": [
         "#ScotchXLinglingWithOrm",
+        "#pilotstwtselfieday",
         "#JIMINxDIOR",
-        "#PutThatInYourPipe",
-        "#TuesdayVibes",
-        "#TacoTuesday",
         "#TuesdayMotivation",
-        "#HHN35",
-        "#WWEUnreal",
-        "#PatHeads"
+        "#WWEUnreal"
       ],
       "regular_topics": [
+        "ESPN",
         "Good Tuesday",
-        "Happy Birthday Tina",
+        "Karl Ravech",
+        "Taco Tuesday",
         "Ryan Clark",
-        "LINGORM X SCOTCH THAILAND",
-        "RIP Bear",
-        "DIOR GLOBAL AMBASSADOR JIMIN",
+        "Kirby Smart",
+        "Lee Evan Caplin",
         "Van Jones",
-        "Uribe",
-        "Francine",
-        "Jeremiah",
-        "NO AMNESTY"
+        "Pat McAfee",
+        "Happy Birthday Tina",
+        "Coraline"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 12:12:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 14:48:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Digital ID",
+        "Garnacho",
+        "Poor Ann",
+        "Emery",
+        "Sancho",
         "Alex Scott",
-        "#thismorning",
-        "Darren Jones",
-        "Dixon",
-        "pence",
+        "Will Lankshear",
         "Knock",
-        "Unfunded",
+        "pence",
+        "Digital ID",
         "Electricity",
-        "Bear",
-        "Streeting"
+        "Loan"
       ],
       "hashtags": [
         "#thismorning",
-        "#jeremyvine",
-        "#htafc",
-        "#thicktrunktuesday"
+        "#spycops",
+        "#FIA2026"
       ],
       "regular_topics": [
-        "Digital ID",
+        "Garnacho",
+        "Poor Ann",
+        "Emery",
+        "Sancho",
         "Alex Scott",
-        "Darren Jones",
-        "Dixon",
-        "pence",
+        "Will Lankshear",
         "Knock",
-        "Unfunded",
+        "pence",
+        "Digital ID",
         "Electricity",
-        "Bear",
-        "Streeting",
-        "5% VAT"
+        "Loan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 12:56:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 14:39:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "TVA Sports",
         "Argentina",
-        "Good Tuesday",
         "World Cup",
-        "GoodLife",
-        "Doomsday",
+        "Canada",
         "Messi",
+        "Doomsday",
+        "GoodLife",
         "Thor",
+        "TVA Sports",
         "Rodri",
-        "Canada"
+        "Carney"
       ],
       "hashtags": [
         "#ESPARG",
         "#MarchToOttawa",
-        "#BTSHALFTIMESHOW",
-        "#ExtendTS2023",
-        "#WWERaw"
+        "#TongueOutTuesday",
+        "#VamosEspa\u00f1a",
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "Spain",
-        "TVA Sports",
         "Argentina",
-        "Good Tuesday",
         "World Cup",
-        "GoodLife",
-        "Doomsday",
+        "Canada",
         "Messi",
+        "Doomsday",
+        "GoodLife",
         "Thor",
+        "TVA Sports",
         "Rodri",
-        "Canada"
+        "Carney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 21 2026 12:54:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 14:36:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RahulGandhi",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "#Kambli",
         "#BrandsCareMedia",
         "#BcmForORM",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "#RahulGandhi",
-        "#CJPProtestUpdate",
         "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
-        "Anant Ambani",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "#CJPProtestUpdate",
         "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917",
-        "Vijeta Dahiya"
+        "Lok Kalyan Marg",
+        "\u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
+        "Democracy in India"
       ],
       "hashtags": [
+        "#RahulGandhi",
         "#Kambli",
         "#BrandsCareMedia",
         "#BcmForORM",
-        "#RahulGandhi",
-        "#CJPProtestUpdate",
-        "#GalaxyUnpacked"
+        "#CJPProtestUpdate"
       ],
       "regular_topics": [
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
-        "Anant Ambani",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
         "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917",
-        "Vijeta Dahiya",
         "Lok Kalyan Marg",
-        "215.6 ARPU",
-        "Reliance",
         "\u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "15.1% EBITDA"
+        "Democracy in India",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "\u0938\u0902\u091c\u092f \u0938\u093f\u0902\u0939",
+        "\u0906\u092e \u0906\u0926\u092e\u0940 \u092a\u093e\u0930\u094d\u091f\u0940",
+        "Anant Ambani",
+        "Leader of Opposition"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 12:52:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 14:36:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Alex Scott",
+        "Polan Fit",
+        "Unai Emery",
         "Vini",
+        "Alex Scott",
         "Perez",
-        "Bournemouth",
-        "Bruno Guimar\u00e3es",
-        "Face ID",
-        "Jesse Bisiwu",
         "Laporte",
-        "JJ Gabriel",
-        "John Stones",
-        "$DOW"
+        "Jessica Chastain",
+        "Face ID",
+        "Bruno Guimar\u00e3es",
+        "Will Lankshear",
+        "Real Sociedad"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#ArsenalTickets",
+        "#brussels",
+        "#PremierLeague"
+      ],
       "regular_topics": [
-        "Alex Scott",
+        "Polan Fit",
+        "Unai Emery",
         "Vini",
+        "Alex Scott",
         "Perez",
-        "Bournemouth",
-        "Bruno Guimar\u00e3es",
-        "Face ID",
-        "Jesse Bisiwu",
         "Laporte",
-        "JJ Gabriel",
-        "John Stones",
-        "$DOW"
+        "Jessica Chastain",
+        "Face ID",
+        "Bruno Guimar\u00e3es",
+        "Will Lankshear",
+        "Real Sociedad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
