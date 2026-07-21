@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-21T20:58:19.853042+00:00",
+  "generated_at_utc": "2026-07-21T22:00:21.033259+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 20:24:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 21:15:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "ESPN",
         "#AIOdysseyByYoroll",
+        "ESPN",
         "Smithsonian",
+        "Morgan",
         "Unbiased",
         "Olive Garden",
-        "Morgan",
+        "Smithfield",
+        "Mikie Sherrill",
         "#RHONY",
-        "Ryan Clark",
-        "Pat McAfee",
-        "Karl Ravech",
-        "Mikie Sherrill"
+        "Glitch",
+        "#PMSLive"
       ],
       "hashtags": [
         "#AIOdysseyByYoroll",
@@ -28,108 +28,109 @@
       "regular_topics": [
         "ESPN",
         "Smithsonian",
+        "Morgan",
         "Unbiased",
         "Olive Garden",
-        "Morgan",
-        "Ryan Clark",
-        "Pat McAfee",
-        "Karl Ravech",
+        "Smithfield",
         "Mikie Sherrill",
-        "Mistakenly",
-        "Kaylee Hottle"
+        "Glitch",
+        "McAfee",
+        "Ryan Clark",
+        "Karl Ravech"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 20:48:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 21:39:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Priya",
-        "Luke Littler",
         "Kavan",
+        "Luke Littler",
+        "Aspinall",
         "Hearts",
-        "Anas Sarwar",
+        "Sarwar",
         "McCart",
-        "Frank Lampard",
-        "Madjo",
+        "#WorldMatchplay",
         "Scottish Labour",
-        "Trialist",
-        "Monica Lennon"
+        "Frank Lampard",
+        "Madjo"
       ],
       "hashtags": [
         "#WorldMatchplay",
         "#TheHundred",
         "#SewingBee",
-        "#oafc",
-        "#Millwall"
+        "#LOFC"
       ],
       "regular_topics": [
         "Priya",
-        "Luke Littler",
         "Kavan",
+        "Luke Littler",
+        "Aspinall",
         "Hearts",
-        "Anas Sarwar",
+        "Sarwar",
         "McCart",
+        "Scottish Labour",
         "Frank Lampard",
         "Madjo",
-        "Scottish Labour",
-        "Trialist",
-        "Monica Lennon"
+        "Grafties"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 20:39:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 21:31:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
+        "Doug",
         "CUSMA",
         "Argentina",
         "Spain",
-        "Doug",
         "World Cup",
         "Messi",
         "Doomsday",
         "Canada",
         "USMCA",
-        "Thor"
+        "#ESPARG"
       ],
       "hashtags": [
-        "#ESPARG"
+        "#ESPARG",
+        "#onstorm",
+        "#RHONY"
       ],
       "regular_topics": [
         "Trump",
+        "Doug",
         "CUSMA",
         "Argentina",
         "Spain",
-        "Doug",
         "World Cup",
         "Messi",
         "Doomsday",
         "Canada",
         "USMCA",
-        "Thor"
+        "Ryan Clark"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 21 2026 20:36:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 21:28:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RahulGandhi",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "#NEETIssue",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "#NEETExamIssue",
         "Resign",
         "#AkhileshYadav",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
         "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930",
-        "STOP SIDELINING AKANKSHA",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
-        "RaGa"
+        "RaGa",
+        "HAPPY BIRTHDAY NATS"
       ],
       "hashtags": [
         "#RahulGandhi",
@@ -142,51 +143,52 @@
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "Resign",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
-        "STOP SIDELINING AKANKSHA",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
         "RaGa",
         "HAPPY BIRTHDAY NATS",
         "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Arnab",
         "YOGESH DEFINED LOCKUPP",
-        "MI London",
-        "Arnab"
+        "Godi",
+        "MI London"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 20:36:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 21:27:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "London",
+        "Morgan Rogers",
         "Anthony Taylor",
-        "#ImoIsReady",
+        "Welcome Rogers",
         "DJ Chicken",
-        "Al Hilal",
-        "Saudi",
+        "#ImoIsReady",
         "Axel Disasi",
-        "Roma",
         "Vini",
-        "Summerville",
-        "Garnacho",
-        "Ratel"
+        "Alex Scott",
+        "Priya",
+        "Al Hilal"
       ],
       "hashtags": [
         "#ImoIsReady",
         "#RoadtoHealingStreams",
-        "#FirstBankVsKuraBrothers"
+        "#FirstBankVsKuraBrothers",
+        "#PremierLeague"
       ],
       "regular_topics": [
+        "London",
+        "Morgan Rogers",
         "Anthony Taylor",
+        "Welcome Rogers",
         "DJ Chicken",
-        "Al Hilal",
-        "Saudi",
         "Axel Disasi",
-        "Roma",
         "Vini",
-        "Summerville",
-        "Garnacho",
-        "Ratel",
-        "West Ham"
+        "Alex Scott",
+        "Priya",
+        "Al Hilal",
+        "Saudi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
