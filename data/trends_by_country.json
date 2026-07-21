@@ -1,194 +1,201 @@
 {
-  "generated_at_utc": "2026-07-21T22:00:21.033259+00:00",
+  "generated_at_utc": "2026-07-21T23:24:29.654297+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 21:15:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 22:57:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AIOdysseyByYoroll",
         "ESPN",
-        "Smithsonian",
-        "Morgan",
-        "Unbiased",
-        "Olive Garden",
+        "#AIOdysseyByYoroll",
         "Smithfield",
-        "Mikie Sherrill",
-        "#RHONY",
+        "Smithsonian",
+        "Hegseth",
         "Glitch",
-        "#PMSLive"
+        "New Jersey",
+        "Lebanon",
+        "Hugging Face",
+        "Mistakenly",
+        "Cornyn"
       ],
       "hashtags": [
         "#AIOdysseyByYoroll",
         "#RHONY",
         "#PMSLive",
         "#bb27",
-        "#PayToVoteSaveAct"
+        "#TakeAMonkeyToLunchDay"
       ],
       "regular_topics": [
         "ESPN",
-        "Smithsonian",
-        "Morgan",
-        "Unbiased",
-        "Olive Garden",
         "Smithfield",
-        "Mikie Sherrill",
+        "Smithsonian",
+        "Hegseth",
         "Glitch",
-        "McAfee",
-        "Ryan Clark",
-        "Karl Ravech"
+        "New Jersey",
+        "Lebanon",
+        "Hugging Face",
+        "Mistakenly",
+        "Cornyn",
+        "Unbiased"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 21:39:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 22:31:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Priya",
-        "Kavan",
         "Luke Littler",
+        "Kavan",
+        "Sarwar",
         "Aspinall",
         "Hearts",
-        "Sarwar",
+        "Scottish Labour",
         "McCart",
         "#WorldMatchplay",
-        "Scottish Labour",
         "Frank Lampard",
-        "Madjo"
+        "Morgan"
       ],
       "hashtags": [
         "#WorldMatchplay",
+        "#Newsnight",
+        "#LoveIslandDebrief",
         "#TheHundred",
-        "#SewingBee",
         "#LOFC"
       ],
       "regular_topics": [
         "Priya",
-        "Kavan",
         "Luke Littler",
+        "Kavan",
+        "Sarwar",
         "Aspinall",
         "Hearts",
-        "Sarwar",
-        "McCart",
         "Scottish Labour",
+        "McCart",
         "Frank Lampard",
-        "Madjo",
-        "Grafties"
+        "Morgan",
+        "Madjo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 21:31:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 22:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Doug",
         "CUSMA",
+        "Ford",
         "Argentina",
         "Spain",
         "World Cup",
         "Messi",
-        "Doomsday",
         "Canada",
-        "USMCA",
+        "Doomsday",
         "#ESPARG"
       ],
       "hashtags": [
         "#ESPARG",
-        "#onstorm",
+        "#MarchToOttawa",
+        "#loveislanduk",
         "#RHONY"
       ],
       "regular_topics": [
         "Trump",
         "Doug",
         "CUSMA",
+        "Ford",
         "Argentina",
         "Spain",
         "World Cup",
         "Messi",
-        "Doomsday",
         "Canada",
-        "USMCA",
-        "Ryan Clark"
+        "Doomsday",
+        "USMCA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 21 2026 21:28:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 23:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RahulGandhi",
         "#NEETIssue",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "#NEETExamIssue",
+        "#RahulGandhi",
         "Resign",
+        "#NEETExamIssue",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "#AkhileshYadav",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
         "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
         "RaGa",
-        "HAPPY BIRTHDAY NATS"
+        "Arnab"
       ],
       "hashtags": [
-        "#RahulGandhi",
         "#NEETIssue",
+        "#RahulGandhi",
         "#NEETExamIssue",
         "#AkhileshYadav",
-        "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930"
+        "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930",
+        "#HappyBirthdayArmaan",
+        "#Moditaanashah",
+        "#Boycott_HYBE_Until_Justice",
+        "#Belift_Take_Accountability",
+        "#PriyankaGandhi",
+        "#BanNEET"
       ],
       "regular_topics": [
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "Resign",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
         "RaGa",
-        "HAPPY BIRTHDAY NATS",
-        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
         "Arnab",
-        "YOGESH DEFINED LOCKUPP",
+        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Kaylee Hottle",
         "Godi",
-        "MI London"
+        "Sharam",
+        "Shameless"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 21:27:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 23:09:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "London",
         "Morgan Rogers",
-        "Anthony Taylor",
-        "Welcome Rogers",
-        "DJ Chicken",
-        "#ImoIsReady",
-        "Axel Disasi",
-        "Vini",
         "Alex Scott",
-        "Priya",
-        "Al Hilal"
+        "Welcome Rogers",
+        "Situationship",
+        "Raymond",
+        "Anthony Taylor",
+        "#ImoIsReady",
+        "Ratel",
+        "Akwete",
+        "Vini"
       ],
       "hashtags": [
         "#ImoIsReady",
-        "#RoadtoHealingStreams",
-        "#FirstBankVsKuraBrothers",
-        "#PremierLeague"
+        "#PremierLeague",
+        "#RoadtoHealingStreams"
       ],
       "regular_topics": [
         "London",
         "Morgan Rogers",
-        "Anthony Taylor",
-        "Welcome Rogers",
-        "DJ Chicken",
-        "Axel Disasi",
-        "Vini",
         "Alex Scott",
-        "Priya",
-        "Al Hilal",
-        "Saudi"
+        "Welcome Rogers",
+        "Situationship",
+        "Raymond",
+        "Anthony Taylor",
+        "Ratel",
+        "Akwete",
+        "Vini",
+        "Stamford Bridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
