@@ -1,77 +1,82 @@
 {
-  "generated_at_utc": "2026-07-21T11:41:06.423217+00:00",
+  "generated_at_utc": "2026-07-21T13:08:43.250361+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 10:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 12:39:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spain",
-        "Doom",
-        "Ryan Clark",
-        "Thor",
         "Good Tuesday",
-        "World Cup",
-        "Argentina",
-        "ESPN",
-        "Messi",
-        "Marvel",
-        "Thanos"
+        "Happy Birthday Tina",
+        "#ScotchXLinglingWithOrm",
+        "Ryan Clark",
+        "LINGORM X SCOTCH THAILAND",
+        "#JIMINxDIOR",
+        "#PutThatInYourPipe",
+        "#TuesdayVibes",
+        "RIP Bear",
+        "DIOR GLOBAL AMBASSADOR JIMIN",
+        "#TacoTuesday"
       ],
       "hashtags": [
-        "#WWERaw",
-        "#HappyBirthdayJustin",
-        "#RAINDELAYQUESTIONS"
+        "#ScotchXLinglingWithOrm",
+        "#JIMINxDIOR",
+        "#PutThatInYourPipe",
+        "#TuesdayVibes",
+        "#TacoTuesday",
+        "#TuesdayMotivation",
+        "#HHN35",
+        "#WWEUnreal",
+        "#PatHeads"
       ],
       "regular_topics": [
-        "Spain",
-        "Doom",
-        "Ryan Clark",
-        "Thor",
         "Good Tuesday",
-        "World Cup",
-        "Argentina",
-        "ESPN",
-        "Messi",
-        "Marvel",
-        "Thanos"
+        "Happy Birthday Tina",
+        "Ryan Clark",
+        "LINGORM X SCOTCH THAILAND",
+        "RIP Bear",
+        "DIOR GLOBAL AMBASSADOR JIMIN",
+        "Van Jones",
+        "Uribe",
+        "Francine",
+        "Jeremiah",
+        "NO AMNESTY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 11:21:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 12:12:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Digital ID",
-        "Darren Jones",
         "Alex Scott",
         "#thismorning",
+        "Darren Jones",
         "Dixon",
         "pence",
         "Knock",
-        "#popmaster",
-        "Bear",
+        "Unfunded",
         "Electricity",
-        "Unfunded"
+        "Bear",
+        "Streeting"
       ],
       "hashtags": [
         "#thismorning",
-        "#popmaster",
         "#jeremyvine",
-        "#TongueOutTuesday",
+        "#htafc",
         "#thicktrunktuesday"
       ],
       "regular_topics": [
         "Digital ID",
-        "Darren Jones",
         "Alex Scott",
+        "Darren Jones",
         "Dixon",
         "pence",
         "Knock",
-        "Bear",
-        "Electricity",
         "Unfunded",
+        "Electricity",
+        "Bear",
         "Streeting",
         "5% VAT"
       ],
@@ -80,19 +85,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 11:12:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 12:56:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "World Cup",
+        "TVA Sports",
         "Argentina",
+        "Good Tuesday",
+        "World Cup",
         "GoodLife",
         "Doomsday",
-        "Thor",
         "Messi",
+        "Thor",
         "Rodri",
-        "#ESPARG",
-        "#MarchToOttawa",
-        "Shakira"
+        "Canada"
       ],
       "hashtags": [
         "#ESPARG",
@@ -103,90 +108,89 @@
       ],
       "regular_topics": [
         "Spain",
-        "World Cup",
+        "TVA Sports",
         "Argentina",
+        "Good Tuesday",
+        "World Cup",
         "GoodLife",
         "Doomsday",
-        "Thor",
         "Messi",
+        "Thor",
         "Rodri",
-        "Shakira",
-        "Steve Rogers",
-        "Tate"
+        "Canada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 21 2026 11:12:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 12:54:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GalaxyUnpacked",
+        "#Kambli",
         "#BrandsCareMedia",
         "#BcmForORM",
-        "#100daysofDrugFreeJK",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
+        "#RahulGandhi",
         "#CJPProtestUpdate",
         "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "200 Crore",
-        "Expecting",
+        "Anant Ambani",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
         "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917",
-        "Omega Interactive Technologies"
+        "Vijeta Dahiya"
       ],
       "hashtags": [
-        "#GalaxyUnpacked",
+        "#Kambli",
         "#BrandsCareMedia",
         "#BcmForORM",
-        "#100daysofDrugFreeJK",
-        "#CJPProtestUpdate"
+        "#RahulGandhi",
+        "#CJPProtestUpdate",
+        "#GalaxyUnpacked"
       ],
       "regular_topics": [
-        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "200 Crore",
-        "Expecting",
+        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Anant Ambani",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
         "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917",
-        "Omega Interactive Technologies",
+        "Vijeta Dahiya",
         "Lok Kalyan Marg",
-        "Congress MPs",
-        "Counting",
-        "\u0930\u0935\u093f \u0915\u093f\u0936\u0928",
-        "Artificial Intelligence"
+        "215.6 ARPU",
+        "Reliance",
+        "\u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
+        "15.1% EBITDA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 11:09:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 12:52:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Alex Scott",
-        "Bournemouth",
         "Vini",
-        "Jesse Bisiwu",
         "Perez",
+        "Bournemouth",
+        "Bruno Guimar\u00e3es",
         "Face ID",
+        "Jesse Bisiwu",
+        "Laporte",
+        "JJ Gabriel",
         "John Stones",
-        "Ramirez",
-        "IT IS DONE",
-        "Antonio Silva",
-        "dezny"
+        "$DOW"
       ],
-      "hashtags": [
-        "#HappyBirthdayJustin"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Alex Scott",
-        "Bournemouth",
         "Vini",
-        "Jesse Bisiwu",
         "Perez",
+        "Bournemouth",
+        "Bruno Guimar\u00e3es",
         "Face ID",
+        "Jesse Bisiwu",
+        "Laporte",
+        "JJ Gabriel",
         "John Stones",
-        "Ramirez",
-        "IT IS DONE",
-        "Antonio Silva",
-        "dezny"
+        "$DOW"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
