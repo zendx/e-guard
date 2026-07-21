@@ -1,191 +1,193 @@
 {
-  "generated_at_utc": "2026-07-21T16:50:45.332041+00:00",
+  "generated_at_utc": "2026-07-21T18:05:29.286907+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 16:04:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 17:48:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "ESPN",
+        "Olive Garden",
         "Karl Ravech",
-        "McAfee",
-        "$WOOD",
-        "Coraline",
-        "danielle",
         "Ryan Clark",
+        "danielle",
+        "Pat McAfee",
+        "Smithsonian",
+        "Cam Newton",
+        "Kaylee Hottle",
         "Charles Davis",
-        "#gachiakuta172",
-        "Taco Tuesday",
-        "Gemini 3.6 Flash"
+        "Stephen A"
       ],
       "hashtags": [
         "#gachiakuta172",
         "#ATSD",
         "#AtinySelcaDay",
-        "#pilotstwtselfieday",
-        "#JIMINxDIOR"
+        "#momson",
+        "#PayToVoteSaveAct"
       ],
       "regular_topics": [
         "ESPN",
+        "Olive Garden",
         "Karl Ravech",
-        "McAfee",
-        "$WOOD",
-        "Coraline",
-        "danielle",
         "Ryan Clark",
+        "danielle",
+        "Pat McAfee",
+        "Smithsonian",
+        "Cam Newton",
+        "Kaylee Hottle",
         "Charles Davis",
-        "Taco Tuesday",
-        "Gemini 3.6 Flash",
-        "Kaylee Hottle"
+        "Stephen A"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 16:31:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 17:21:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "West Ham",
         "Garnacho",
-        "Anthony Taylor",
         "Summerville",
-        "Al Hilal",
-        "Emery",
-        "Poor Ann",
+        "Saudi",
+        "Anthony Taylor",
         "Frank Lampard",
+        "Al Hilal",
+        "Poor Ann",
+        "Emery",
         "Sancho",
-        "Roma",
-        "HOW MUCH",
-        "Unrelated to Rogers"
+        "Roma"
       ],
       "hashtags": [
         "#thechase",
-        "#WHUFC",
         "#TheHundred",
+        "#WHUFC",
         "#itfc",
         "#spycops"
       ],
       "regular_topics": [
+        "West Ham",
         "Garnacho",
-        "Anthony Taylor",
         "Summerville",
-        "Al Hilal",
-        "Emery",
-        "Poor Ann",
+        "Saudi",
+        "Anthony Taylor",
         "Frank Lampard",
+        "Al Hilal",
+        "Poor Ann",
+        "Emery",
         "Sancho",
-        "Roma",
-        "HOW MUCH",
-        "Unrelated to Rogers"
+        "Roma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 16:24:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 17:15:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Spain",
         "Argentina",
+        "Spain",
         "CUSMA",
+        "Trump",
         "World Cup",
         "Messi",
-        "Trump",
         "Doomsday",
-        "John Marino",
+        "john marino",
         "Carney",
-        "GoodLife",
-        "Canada"
+        "Canada",
+        "GoodLife"
       ],
       "hashtags": [
         "#ESPARG",
-        "#MarchToOttawa",
-        "#ExtendTS2023",
-        "#AIM26"
+        "#MarchToOttawa"
       ],
       "regular_topics": [
-        "Spain",
         "Argentina",
+        "Spain",
         "CUSMA",
+        "Trump",
         "World Cup",
         "Messi",
-        "Trump",
         "Doomsday",
-        "John Marino",
+        "john marino",
         "Carney",
-        "GoodLife",
-        "Canada"
+        "Canada",
+        "GoodLife"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 21 2026 16:20:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 17:12:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RahulGandhi",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
-        "#Congress",
-        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
         "#AkhileshYadav",
-        "#PriyankaGandhi",
-        "#OhhMyDog",
+        "#Congress",
+        "STOP SIDELINING AKANKSHA",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
-        "\u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917"
+        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930",
+        "#GodNightTuesday",
+        "YOGESH DEFINED LOCKUPP"
       ],
       "hashtags": [
         "#RahulGandhi",
-        "#Congress",
         "#AkhileshYadav",
-        "#PriyankaGandhi",
-        "#OhhMyDog"
+        "#Congress",
+        "#\u091c\u0928\u0930\u0932_\u0915\u093e\u092f\u0930",
+        "#GodNightTuesday"
       ],
       "regular_topics": [
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "\u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935",
-        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "STOP SIDELINING AKANKSHA",
         "\u091b\u0924\u094d\u0930\u0938\u093e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+        "\u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940",
+        "YOGESH DEFINED LOCKUPP",
         "\u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "\u0932\u094b\u0915 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u093e\u0930\u094d\u0917",
         "\u092e\u0902\u0926\u093f\u0930 \u092e\u093e\u0930\u094d\u0917",
+        "Gemini 3.6 Flash",
         "Democracy in India",
-        "Lok Kalyan Marg",
-        "Anthony Taylor",
-        "Leader of the Opposition"
+        "RaGa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 16:19:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 17:10:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Anthony Taylor",
         "Al Hilal",
-        "Polan Fit",
-        "Roma",
-        "Aston Villa",
-        "Summerville",
-        "Unai Emery",
-        "West Ham",
         "Garnacho",
-        "Michael Oliver",
-        "Kaylee Hottle"
+        "Saudi",
+        "Summerville",
+        "Roma",
+        "West Ham",
+        "Aston Villa",
+        "#RoadtoHealingStreams",
+        "#FirstBankVsKuraBrothers",
+        "Polan Fit"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#RoadtoHealingStreams",
+        "#FirstBankVsKuraBrothers",
+        "#BBNaija"
+      ],
       "regular_topics": [
         "Anthony Taylor",
         "Al Hilal",
-        "Polan Fit",
-        "Roma",
-        "Aston Villa",
-        "Summerville",
-        "Unai Emery",
-        "West Ham",
         "Garnacho",
-        "Michael Oliver",
-        "Kaylee Hottle"
+        "Saudi",
+        "Summerville",
+        "Roma",
+        "West Ham",
+        "Aston Villa",
+        "Polan Fit",
+        "Unai Emery",
+        "Michael Oliver"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
