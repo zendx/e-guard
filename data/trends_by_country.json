@@ -1,201 +1,202 @@
 {
-  "generated_at_utc": "2026-07-22T14:51:53.338819+00:00",
+  "generated_at_utc": "2026-07-22T16:11:08.063406+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 22 2026 14:24:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 15:16:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Wednesday",
+        "Arrowhead",
         "#LingOrmAtDiorSiamParagon",
-        "Hump Day",
-        "NBA 2K27",
+        "Good Wednesday",
         "Ben Crump",
-        "Happy Hump",
-        "Daniel Siad",
+        "NBA 2K27",
         "Nolan Wells",
-        "#WednesdayMotivation",
-        "#XMen97",
-        "#navigatingforward"
+        "Jon Sumrall",
+        "Derrick Rose",
+        "Hump Day",
+        "Daniel Siad",
+        "#XMen97"
       ],
       "hashtags": [
         "#LingOrmAtDiorSiamParagon",
-        "#WednesdayMotivation",
         "#XMen97",
-        "#navigatingforward",
-        "#WednesdayVibes"
+        "#WednesdayMotivation",
+        "#WednesdayVibes",
+        "#GalaxyUnpacked"
       ],
       "regular_topics": [
+        "Arrowhead",
         "Good Wednesday",
-        "Hump Day",
-        "NBA 2K27",
         "Ben Crump",
-        "Happy Hump",
-        "Daniel Siad",
+        "NBA 2K27",
         "Nolan Wells",
+        "Jon Sumrall",
         "Derrick Rose",
-        "Saudi Arabia",
-        "Lingling Kwong",
-        "Victor Wembanyama"
+        "Hump Day",
+        "Daniel Siad",
+        "Drose",
+        "Happy Hump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 22 2026 13:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 15:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GalaxyUnpacked",
+        "Akliouche",
         "Prince George",
+        "#GalaxyUnpacked",
+        "#aplaceinthesun",
+        "Monaco",
+        "LINGORM DIOR BA AT PARAGON",
+        "Petty",
         "Phil Foden",
+        "Southern Water",
         "#LingOrmAtDiorSiamParagon",
-        "Hato",
-        "Samsung",
-        "Tonda Eckert",
-        "#thismorning",
-        "Miriam",
-        "Bezos",
-        "Buses"
+        "Education Secretary"
       ],
       "hashtags": [
         "#GalaxyUnpacked",
+        "#aplaceinthesun",
         "#LingOrmAtDiorSiamParagon",
-        "#thismorning",
-        "#ozzyday",
-        "#SaintsFC",
-        "#spycops",
         "#itfc",
-        "#Boro"
+        "#hcafc",
+        "#spycops",
+        "#OzzyDay",
+        "#SaintsFC"
       ],
       "regular_topics": [
+        "Akliouche",
         "Prince George",
+        "Monaco",
+        "LINGORM DIOR BA AT PARAGON",
+        "Petty",
         "Phil Foden",
-        "Hato",
-        "Samsung",
-        "Tonda Eckert",
-        "Miriam",
-        "Bezos",
-        "Buses",
+        "Southern Water",
         "Education Secretary",
-        "Sarwar",
-        "U-turn"
+        "Oxbridge",
+        "OpenAI",
+        "Hato"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 22 2026 14:40:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 15:32:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Ford",
-        "Lingling Kwong",
+        "#LingOrmAtDiorSiamParagon",
         "Spain",
         "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
         "CUSMA",
         "Premiers",
         "#betya",
+        "Scott Moe",
         "Team Canada",
-        "Good Wednesday",
-        "Scott Moe"
+        "Gausman"
       ],
       "hashtags": [
+        "#LingOrmAtDiorSiamParagon",
         "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
         "#betya",
         "#MarchToOttawa",
-        "#ExtendTS2023",
-        "#WWENXT"
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "Trump",
         "Ford",
-        "Lingling Kwong",
         "Spain",
         "CUSMA",
         "Premiers",
-        "Team Canada",
-        "Good Wednesday",
         "Scott Moe",
+        "Team Canada",
         "Gausman",
-        "Hump Day"
+        "Quebec",
+        "Netanyahu",
+        "ESPN"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 22 2026 14:39:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 15:30:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UnfoldANewShape",
-        "#TumToChupHiRaho",
         "#NewShapeUnfolds",
-        "Galaxy",
+        "#TumToChupHiRaho",
+        "#UnfoldANewShape",
         "#HBD_DevendraJi",
         "#RaktDanSevaYadnya",
-        "Samsung",
+        "Galaxy",
         "Buds4 Pro",
+        "Smarter",
         "Flex Mode",
-        "Foldables",
-        "Ayesha Khan"
+        "\u0906\u092f\u0936\u093e \u0916\u093e\u0928",
+        "Foldables"
       ],
       "hashtags": [
-        "#UnfoldANewShape",
-        "#TumToChupHiRaho",
         "#NewShapeUnfolds",
+        "#TumToChupHiRaho",
+        "#UnfoldANewShape",
         "#HBD_DevendraJi",
-        "#RaktDanSevaYadnya"
+        "#RaktDanSevaYadnya",
+        "#HBDTheOneSuriya"
       ],
       "regular_topics": [
         "Galaxy",
-        "Samsung",
         "Buds4 Pro",
+        "Smarter",
         "Flex Mode",
+        "\u0906\u092f\u0936\u093e \u0916\u093e\u0928",
         "Foldables",
         "Ayesha Khan",
-        "S Pen",
+        "Predicting",
         "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
-        "\u0930\u0935\u0940\u0936 \u0915\u0941\u092e\u093e\u0930",
-        "HIMALAYA WITH WILLIAM",
-        "Anantnag"
+        "S Pen",
+        "\u0930\u0935\u0940\u0936 \u0915\u0941\u092e\u093e\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 22 2026 14:36:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 15:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jarvis",
+        "#SamsungGalaxyZFold8",
         "#ASIS2026",
         "Phil Foden",
+        "#BoostWithFamsUp",
         "#DailyTimesAt100",
         "Ibrahima Ba",
+        "Fubara",
         "David Eze",
-        "#MemoryLaneSchool",
         "Manchester City",
-        "Sporting",
-        "Karim Cassim",
-        "Fede Valverde"
+        "#GalxeID"
       ],
       "hashtags": [
+        "#SamsungGalaxyZFold8",
         "#ASIS2026",
+        "#BoostWithFamsUp",
         "#DailyTimesAt100",
-        "#MemoryLaneSchool",
-        "#TheGloLegacy",
-        "#GalaxyUnpacked"
+        "#GalxeID"
       ],
       "regular_topics": [
         "Jarvis",
         "Phil Foden",
         "Ibrahima Ba",
+        "Fubara",
         "David Eze",
         "Manchester City",
-        "Sporting",
         "Karim Cassim",
+        "Sporting",
         "Fede Valverde",
-        "$BOP",
         "Fulham",
-        "Man City"
+        "Rivers State"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
