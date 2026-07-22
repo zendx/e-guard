@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-07-22T20:03:34.638987+00:00",
+  "generated_at_utc": "2026-07-22T21:38:14.204046+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 22 2026 19:32:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 21:16:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ben Rice",
-        "Olandria",
-        "Brett Baty",
-        "Clayface",
-        "Gerrit Cole",
-        "Mitch Keller",
-        "Arrowhead",
         "Phee",
-        "Dean Kremer",
-        "Pete Golding",
-        "Wemby"
+        "Pinky Herman",
+        "Geraldo",
+        "Ben Rice",
+        "Google Cloud",
+        "Fernando Cruz",
+        "Olandria",
+        "$GOOG",
+        "$TSLA",
+        "Baty",
+        "#DirtyWater"
       ],
       "hashtags": [
-        "#HealthcareNotWarfare",
+        "#DirtyWater",
         "#GalaxyGiveaways",
         "#GalaxyZFold8",
-        "#RHOSLC",
-        "#NBA2K27"
+        "#RaiseIt",
+        "#HealthcareNotWarfare"
       ],
       "regular_topics": [
-        "Ben Rice",
-        "Olandria",
-        "Brett Baty",
-        "Clayface",
-        "Gerrit Cole",
-        "Mitch Keller",
-        "Arrowhead",
         "Phee",
-        "Dean Kremer",
-        "Pete Golding",
+        "Pinky Herman",
+        "Geraldo",
+        "Ben Rice",
+        "Google Cloud",
+        "Fernando Cruz",
+        "Olandria",
+        "$GOOG",
+        "$TSLA",
+        "Baty",
         "Wemby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 22 2026 19:06:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 20:48:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Julia",
+        "Jasmine",
+        "Samraj",
+        "Priya",
+        "Charleen",
+        "Cammy Devlin",
+        "Mike Tapp",
+        "Elicia",
+        "Aidan",
         "Menzies",
-        "Garnacho",
-        "Ross Smith",
-        "Cammy",
-        "Harvey Elliott",
-        "SpursPlay",
-        "Emery",
-        "MK Dons",
-        "#EastEnders",
-        "Akliouche",
-        "Mateus Fernandes"
+        "Garnacho"
       ],
       "hashtags": [
-        "#EastEnders",
-        "#Darts",
-        "#TheChase",
-        "#c4news",
-        "#WWE2K26"
+        "#RareFindWhisky",
+        "#wwfc",
+        "#TheHundred",
+        "#WorldMatchplay",
+        "#EastEnders"
       ],
       "regular_topics": [
+        "Julia",
+        "Jasmine",
+        "Samraj",
+        "Priya",
+        "Charleen",
+        "Cammy Devlin",
+        "Mike Tapp",
+        "Elicia",
+        "Aidan",
         "Menzies",
-        "Garnacho",
-        "Ross Smith",
-        "Cammy",
-        "Harvey Elliott",
-        "SpursPlay",
-        "Emery",
-        "MK Dons",
-        "Akliouche",
-        "Mateus Fernandes",
-        "Godfrey"
+        "Garnacho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 22 2026 19:51:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 20:42:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Ford",
@@ -91,16 +91,16 @@
         "Premiers",
         "#betya",
         "Mamdani",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
         "Scott Moe",
+        "Quebec",
         "Team Canada",
-        "Quebec"
+        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07"
       ],
       "hashtags": [
         "#LingOrmAtDiorSiamParagon",
         "#betya",
         "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
-        "#MarchToOttawa"
+        "#AIM26"
       ],
       "regular_topics": [
         "Trump",
@@ -109,30 +109,30 @@
         "Premiers",
         "Mamdani",
         "Scott Moe",
-        "Team Canada",
         "Quebec",
+        "Team Canada",
         "Netanyahu",
         "Hugging Face",
-        "Gausman"
+        "USMCA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 22 2026 19:48:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 20:39:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Fold8InANewShape",
         "#UnfoldANewShape",
         "#HBDTheOneSuriya",
         "#NewShapeUnfolds",
-        "#CongressJawabDe",
         "Salman Khan",
+        "#CongressJawabDe",
         "Buds4 Pro",
         "\u0938\u0932\u092e\u093e\u0928 \u0916\u093e\u0928",
+        "\u0906\u0932\u092e \u092c\u0926\u0940",
         "Flex Mode",
-        "Bhaijaan",
-        "Battery"
+        "Bhaijaan"
       ],
       "hashtags": [
         "#Fold8InANewShape",
@@ -145,53 +145,53 @@
         "Salman Khan",
         "Buds4 Pro",
         "\u0938\u0932\u092e\u093e\u0928 \u0916\u093e\u0928",
+        "\u0906\u0932\u092e \u092c\u0926\u0940",
         "Flex Mode",
         "Bhaijaan",
         "Battery",
-        "Foldable",
+        "Ayesha Khan",
+        "Galaxy AI",
         "Slim",
-        "FOREVER TEAM YOGESH",
-        "Premium",
-        "Nightography"
+        "One Last Time"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 22 2026 19:45:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 20:36:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Casemiro",
         "Jumia",
+        "Casemiro",
         "Inter Miami",
         "Garnacho",
-        "Baba Segi",
-        "Vozinha",
-        "Upamecano",
         "Camavinga",
+        "Vozinha",
+        "Baba Segi",
+        "Upamecano",
         "#SilenceIsNotFear",
-        "Olandria",
-        "Unai Emery"
+        "Konga",
+        "Mali"
       ],
       "hashtags": [
         "#SilenceIsNotFear",
         "#ProphetJeremiah",
+        "#virtusfybweek",
         "#SamsungGalaxyZFold8",
-        "#BoostWithFamsUp",
-        "#GalxeID"
+        "#BBNaija"
       ],
       "regular_topics": [
-        "Casemiro",
         "Jumia",
+        "Casemiro",
         "Inter Miami",
         "Garnacho",
-        "Baba Segi",
-        "Vozinha",
-        "Upamecano",
         "Camavinga",
-        "Olandria",
-        "Unai Emery",
-        "Cierra"
+        "Vozinha",
+        "Baba Segi",
+        "Upamecano",
+        "Konga",
+        "Mali",
+        "Olandria"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
