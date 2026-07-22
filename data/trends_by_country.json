@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-07-21T23:24:29.654297+00:00",
+  "generated_at_utc": "2026-07-22T00:12:27.390813+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 21 2026 22:57:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 23:48:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Hegseth",
         "ESPN",
-        "#AIOdysseyByYoroll",
         "Smithfield",
         "Smithsonian",
-        "Hegseth",
+        "Cornyn",
         "Glitch",
         "New Jersey",
-        "Lebanon",
+        "#AIOdysseyByYoroll",
         "Hugging Face",
-        "Mistakenly",
-        "Cornyn"
+        "Lebanon",
+        "Mistakenly"
       ],
       "hashtags": [
         "#AIOdysseyByYoroll",
         "#RHONY",
-        "#PMSLive",
-        "#bb27",
-        "#TakeAMonkeyToLunchDay"
+        "#iubb",
+        "#jeopardyblindguess",
+        "#PMSLive"
       ],
       "regular_topics": [
+        "Hegseth",
         "ESPN",
         "Smithfield",
         "Smithsonian",
-        "Hegseth",
+        "Cornyn",
         "Glitch",
         "New Jersey",
-        "Lebanon",
         "Hugging Face",
+        "Lebanon",
         "Mistakenly",
-        "Cornyn",
-        "Unbiased"
+        "McAfee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 21 2026 22:31:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 23:21:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Priya",
         "Luke Littler",
@@ -55,12 +55,12 @@
         "McCart",
         "#WorldMatchplay",
         "Frank Lampard",
-        "Morgan"
+        "Morgz"
       ],
       "hashtags": [
         "#WorldMatchplay",
         "#Newsnight",
-        "#LoveIslandDebrief",
+        "#loveislanddebrief",
         "#TheHundred",
         "#LOFC"
       ],
@@ -74,46 +74,45 @@
         "Scottish Labour",
         "McCart",
         "Frank Lampard",
-        "Morgan",
-        "Madjo"
+        "Morgz",
+        "Morgan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 21 2026 22:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 21 2026 23:15:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Doug",
         "CUSMA",
-        "Ford",
         "Argentina",
         "Spain",
         "World Cup",
         "Messi",
         "Canada",
         "Doomsday",
-        "#ESPARG"
+        "USMCA",
+        "Ryan Clark"
       ],
       "hashtags": [
         "#ESPARG",
         "#MarchToOttawa",
-        "#loveislanduk",
         "#RHONY"
       ],
       "regular_topics": [
         "Trump",
         "Doug",
         "CUSMA",
-        "Ford",
         "Argentina",
         "Spain",
         "World Cup",
         "Messi",
         "Canada",
         "Doomsday",
-        "USMCA"
+        "USMCA",
+        "Ryan Clark"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -165,19 +164,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 21 2026 23:09:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 00:01:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "London",
         "Morgan Rogers",
+        "Welcome to Chelsea",
         "Alex Scott",
-        "Welcome Rogers",
-        "Situationship",
         "Raymond",
-        "Anthony Taylor",
-        "#ImoIsReady",
-        "Ratel",
         "Akwete",
-        "Vini"
+        "Situationship",
+        "Welcome Rogers",
+        "Pete Hegseth",
+        "Stamford Bridge",
+        "Ratel"
       ],
       "hashtags": [
         "#ImoIsReady",
@@ -187,15 +186,15 @@
       "regular_topics": [
         "London",
         "Morgan Rogers",
+        "Welcome to Chelsea",
         "Alex Scott",
-        "Welcome Rogers",
-        "Situationship",
         "Raymond",
-        "Anthony Taylor",
-        "Ratel",
         "Akwete",
-        "Vini",
-        "Stamford Bridge"
+        "Situationship",
+        "Welcome Rogers",
+        "Pete Hegseth",
+        "Stamford Bridge",
+        "Ratel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
