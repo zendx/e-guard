@@ -1,192 +1,196 @@
 {
-  "generated_at_utc": "2026-07-22T06:18:47.209969+00:00",
+  "generated_at_utc": "2026-07-22T09:04:29.770511+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 22 2026 05:48:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 08:24:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWENXT",
-        "Mike Santana",
-        "Realmuto",
-        "Netanyahu",
-        "Paul Sewald",
-        "Rucker",
-        "Publix",
-        "Phillies",
         "Godzilla",
+        "Mel Gibson",
         "Andy Biggs",
-        "Hegseth"
+        "#BLOODSAGA_IN_SAN_DIEGO",
+        "Mike Santana",
+        "Neelix",
+        "#WWENXT",
+        "Paul Sewald",
+        "Jansport",
+        "2hollis",
+        "Realmuto"
       ],
       "hashtags": [
+        "#BLOODSAGA_IN_SAN_DIEGO",
         "#WWENXT",
-        "#SB19BackInTheUS",
         "#holodori",
         "#InTheCity",
-        "#Dbacks"
+        "#\u062e\u0627\u0646_\u0642\u06cc\u062f_\u0646\u06c1\u06cc\u06ba_\u06cc\u0631\u063a\u0645\u0627\u0644_\u06c1\u06d2"
       ],
       "regular_topics": [
-        "Mike Santana",
-        "Realmuto",
-        "Netanyahu",
-        "Paul Sewald",
-        "Rucker",
-        "Publix",
-        "Phillies",
         "Godzilla",
+        "Mel Gibson",
         "Andy Biggs",
-        "Hegseth",
-        "Crawford"
+        "Mike Santana",
+        "Neelix",
+        "Paul Sewald",
+        "Jansport",
+        "2hollis",
+        "Realmuto",
+        "Wildberries",
+        "Hegseth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 22 2026 05:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 08:48:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kevin Keegan",
-        "World Cup",
         "Burnham",
+        "Kevin Keegan",
         "Spain",
         "Garnacho",
         "Cabinet",
-        "Manchester",
-        "Darren Jones",
-        "Digital ID",
-        "Anthony Taylor",
-        "Streeting"
+        "Prince George",
+        "#RoseWednesday",
+        "Streeting",
+        "#ASongOrMovieForLions",
+        "Andrew Harper",
+        "Manchester"
       ],
       "hashtags": [
-        "#WWENXT",
-        "#Wordle1859",
-        "#ThisMorning",
-        "#TheHundred",
-        "#loveisland"
+        "#RoseWednesday",
+        "#ASongOrMovieForLions",
+        "#Fairground",
+        "#Woodensday",
+        "#bbcbreakfast"
       ],
       "regular_topics": [
-        "Kevin Keegan",
-        "World Cup",
         "Burnham",
+        "Kevin Keegan",
         "Spain",
         "Garnacho",
         "Cabinet",
+        "Prince George",
+        "Streeting",
+        "Andrew Harper",
         "Manchester",
         "Darren Jones",
-        "Digital ID",
-        "Anthony Taylor",
-        "Streeting"
+        "Digital ID"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 22 2026 05:15:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 08:40:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
+        "Amber",
         "Ford",
-        "CUSMA",
         "Spain",
+        "CUSMA",
         "World Cup",
-        "Gausman",
         "Premiers",
-        "Team Canada",
-        "#MarchToOttawa",
-        "#WWENXT",
-        "Doomsday"
+        "Gausman",
+        "#marchtoottawa",
+        "Doomsday",
+        "Team Canada"
       ],
       "hashtags": [
-        "#MarchToOttawa",
+        "#marchtoottawa",
+        "#extendts2023",
         "#WWENXT",
-        "#ExtendTS2023"
+        "#SHOW_WHAT_I_AM"
       ],
       "regular_topics": [
         "Trump",
+        "Amber",
         "Ford",
-        "CUSMA",
         "Spain",
+        "CUSMA",
         "World Cup",
-        "Gausman",
         "Premiers",
-        "Team Canada",
+        "Gausman",
         "Doomsday",
-        "Jays",
-        "USMCA"
+        "Team Canada",
+        "Scott Moe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 22 2026 06:03:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 08:39:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u0927\u094b\u0916\u0947\u092c\u093e\u091c\u093cPrashantKishor",
-        "#HappyBirthdayDevaBhau",
+        "#HKVitalsCollagen",
+        "#RaktDanSevaYadnya",
+        "#HBD_DevendraJi",
         "#OmegaStockRadar",
-        "#SaleemSarang",
-        "#ReleaseInnocent",
-        "Janata Ki Awaaz",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "200 Cr",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "\u0928\u0938\u0940\u0930\u0941\u0926\u094d\u0926\u0940\u0928 \u0936\u093e\u0939",
-        "Happy Birthday CM"
+        "#GalaxyUnpacked",
+        "149.25 Cr",
+        "9.03 Cr",
+        "Yami Gautam",
+        "Anantnag",
+        "1.19 Cr",
+        "CJI Surya Kant"
       ],
       "hashtags": [
-        "#\u0927\u094b\u0916\u0947\u092c\u093e\u091c\u093cPrashantKishor",
-        "#HappyBirthdayDevaBhau",
+        "#HKVitalsCollagen",
+        "#RaktDanSevaYadnya",
+        "#HBD_DevendraJi",
         "#OmegaStockRadar",
-        "#SaleemSarang",
-        "#ReleaseInnocent"
+        "#GalaxyUnpacked"
       ],
       "regular_topics": [
-        "Janata Ki Awaaz",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "200 Cr",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "\u0928\u0938\u0940\u0930\u0941\u0926\u094d\u0926\u0940\u0928 \u0936\u093e\u0939",
-        "Happy Birthday CM",
-        "\u0938\u0932\u0940\u092e \u0938\u093e\u0930\u0902\u0917",
-        "Mukhyamantri",
+        "149.25 Cr",
         "9.03 Cr",
-        "Nihangs",
-        "Naseeruddin Shah"
+        "Yami Gautam",
+        "Anantnag",
+        "1.19 Cr",
+        "CJI Surya Kant",
+        "Chahiye",
+        "\u0930\u093e\u091c\u0940\u0935 \u091a\u094c\u0915",
+        "South Kashmir",
+        "\u0938\u0902\u0938\u0926 \u092a\u0930\u093f\u0938\u0930",
+        "Vrindavan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 22 2026 06:01:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 22 2026 08:36:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Amen",
         "Spain",
         "World Cup",
         "Anthony Taylor",
-        "Rodri",
-        "Amen",
-        "Vini",
         "London",
-        "Chelsea",
+        "Rodri",
+        "Vini",
         "Alex Scott",
+        "Chelsea",
         "Ivana",
-        "Al Hilal"
+        "Alberich Token"
       ],
       "hashtags": [
-        "#firstbankvskurabrothers"
+        "#JULY4OLUWASON",
+        "#NSPPD",
+        "#firstbankvskurabrothers",
+        "#RoadtoHealingStreams"
       ],
       "regular_topics": [
+        "Amen",
         "Spain",
         "World Cup",
         "Anthony Taylor",
-        "Rodri",
-        "Amen",
-        "Vini",
         "London",
-        "Chelsea",
+        "Rodri",
+        "Vini",
         "Alex Scott",
+        "Chelsea",
         "Ivana",
-        "Al Hilal"
+        "Alberich Token"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
