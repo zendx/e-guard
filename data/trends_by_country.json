@@ -1,197 +1,197 @@
 {
-  "generated_at_utc": "2026-07-23T04:43:08.196128+00:00",
+  "generated_at_utc": "2026-07-23T07:25:22.164665+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 23 2026 04:08:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 06:42:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDynamite",
         "#holodori",
-        "Don Kelly",
-        "Kyrie",
-        "Eisert",
+        "#AEWDynamite",
+        "Kelo",
         "Hippo",
-        "Mike Lindell",
-        "NDAA",
+        "#JanaNayagan",
         "End of Evangelion",
-        "Kevin Knight",
-        "Tisha B'Av"
+        "#SDCC",
+        "Vanney",
+        "Masters of the Universe",
+        "Clue",
+        "#fishtanklive"
       ],
       "hashtags": [
-        "#AEWDynamite",
         "#holodori",
+        "#AEWDynamite",
+        "#JanaNayagan",
         "#SDCC",
-        "#fishtanklive",
-        "#AllForCITY"
+        "#fishtanklive"
       ],
       "regular_topics": [
-        "Don Kelly",
-        "Kyrie",
-        "Eisert",
+        "Kelo",
         "Hippo",
-        "Mike Lindell",
-        "NDAA",
         "End of Evangelion",
-        "Kevin Knight",
-        "Tisha B'Av",
-        "Thekla",
-        "Divine Dominion"
+        "Vanney",
+        "Masters of the Universe",
+        "Clue",
+        "Kyrie",
+        "Tylil",
+        "LAFC",
+        "Don Kelly",
+        "Lindell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 23 2026 03:42:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 07:08:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Julia",
         "Garnacho",
+        "#AdoorableThursday",
+        "Gary Lineker",
         "#loveisland",
         "Jasmine",
-        "#AEWDynamite",
         "Priya",
+        "Grandpaw",
         "Burnham",
-        "Sarwar",
-        "Chelsea",
-        "Emery",
-        "Streeting"
+        "HMRC",
+        "Sarwar"
       ],
       "hashtags": [
+        "#AdoorableThursday",
         "#loveisland",
-        "#AEWDynamite",
-        "#thehundred",
-        "#OzzyDay"
+        "#bbcbreakfast",
+        "#thursgate",
+        "#holodori"
       ],
       "regular_topics": [
         "Julia",
         "Garnacho",
+        "Gary Lineker",
         "Jasmine",
         "Priya",
+        "Grandpaw",
         "Burnham",
+        "HMRC",
         "Sarwar",
         "Chelsea",
-        "Emery",
-        "Streeting",
-        "Oxbridge",
-        "Aidan"
+        "Streeting"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 23 2026 04:27:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 07:00:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Ford",
         "#AEWDynamite",
-        "Oliver Jones",
-        "#CFMTL",
-        "Navarro",
         "Premiers",
+        "Navarro",
         "Varsho",
-        "Marner",
+        "#betya",
         "#VWFC",
-        "#betya"
+        "Michel Savard",
+        "#LingOrmAtDiorSiamParagon",
+        "#holodori"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#CFMTL",
-        "#VWFC",
         "#betya",
-        "#LingOrmAtDiorSiamParagon"
+        "#VWFC",
+        "#LingOrmAtDiorSiamParagon",
+        "#holodori"
       ],
       "regular_topics": [
         "Trump",
         "Ford",
-        "Oliver Jones",
-        "Navarro",
         "Premiers",
+        "Navarro",
         "Varsho",
-        "Marner",
         "Michel Savard",
-        "CUSMA",
+        "Alberta and Saskatchewan",
         "Mamdani",
-        "Scott Moe"
+        "CUSMA",
+        "Scott Moe",
+        "le plq"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 23 2026 04:24:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 06:57:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#UnfoldANewShape",
+        "#Samsung",
+        "#Fast_Track_Courts",
         "#The_AI_Stock_Omega",
-        "#Fold8InANewShape",
-        "\u0932\u094b\u0915\u092e\u093e\u0928\u094d\u092f \u092c\u093e\u0932 \u0917\u0902\u0917\u093e\u0927\u0930 \u0924\u093f\u0932\u0915",
         "#ChandrashekharAzad",
-        "#GodMorningThursday",
-        "#BalGangadharTilak",
+        "\u0932\u094b\u0915\u092e\u093e\u0928\u094d\u092f \u092c\u093e\u0932 \u0917\u0902\u0917\u093e\u0927\u0930 \u0924\u093f\u0932\u0915",
         "12.52 Cr",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "HealthReturns",
         "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
-        "Operating Profit"
+        "\u0905\u092e\u0930 \u0936\u0939\u0940\u0926 \u091a\u0902\u0926\u094d\u0930\u0936\u0947\u0916\u0930 \u0906\u091c\u093c\u093e\u0926",
+        "S Pen"
       ],
       "hashtags": [
+        "#UnfoldANewShape",
+        "#Samsung",
+        "#Fast_Track_Courts",
         "#The_AI_Stock_Omega",
-        "#Fold8InANewShape",
-        "#ChandrashekharAzad",
-        "#GodMorningThursday",
-        "#BalGangadharTilak"
+        "#ChandrashekharAzad"
       ],
       "regular_topics": [
         "\u0932\u094b\u0915\u092e\u093e\u0928\u094d\u092f \u092c\u093e\u0932 \u0917\u0902\u0917\u093e\u0927\u0930 \u0924\u093f\u0932\u0915",
         "12.52 Cr",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "HealthReturns",
         "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
-        "Operating Profit",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "\u0905\u092e\u0930 \u0936\u0939\u0940\u0926 \u091a\u0902\u0926\u094d\u0930\u0936\u0947\u0916\u0930 \u0906\u091c\u093c\u093e\u0926",
+        "S Pen",
+        "Operating Profit",
+        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u091c\u0926\u0942\u0930 \u0938\u0902\u0918",
-        "\u0906\u0932\u092e \u092c\u0926\u0940",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923"
+        "200 Cr Oracle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 23 2026 04:21:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 06:56:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Amen",
+        "GM CT",
         "Chelsea",
         "Alex Scott",
         "Garnacho",
-        "London",
-        "Rodri",
-        "Jumia",
+        "Grand",
         "Inter Miami",
-        "Anthony Taylor",
-        "Casemiro",
-        "Jarvis",
-        "Unai Emery"
+        "Jumia",
+        "London",
+        "Blessed Thursday",
+        "Casemiro"
       ],
       "hashtags": [
-        "#theglolegacy",
-        "#asis2026",
-        "#SamsungGalaxyZFold8",
         "#SilenceIsNotFear",
+        "#SamsungGalaxyZFold8",
+        "#memorylaneschool",
         "#dailytimesat100"
       ],
       "regular_topics": [
+        "Amen",
+        "GM CT",
         "Chelsea",
         "Alex Scott",
         "Garnacho",
-        "London",
-        "Rodri",
-        "Jumia",
+        "Grand",
         "Inter Miami",
-        "Anthony Taylor",
-        "Casemiro",
-        "Jarvis",
-        "Unai Emery"
+        "Jumia",
+        "London",
+        "Blessed Thursday",
+        "Casemiro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
