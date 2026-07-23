@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-07-23T21:52:34.359345+00:00",
+  "generated_at_utc": "2026-07-23T22:43:15.319974+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 23 2026 21:19:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 22:10:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Korra",
         "Diego Pavia",
-        "Phoenix Cyclops",
+        "All 26",
+        "Seven Havens",
         "$INTC",
+        "Phoenix Cyclops",
+        "Alex Bowman",
         "#Olandria",
-        "Gavin Williams",
-        "Gundam",
-        "Family Video",
-        "Pong",
         "Scrooge",
-        "USA Today",
-        "Alex Bowman"
+        "Gundam",
+        "Zilisch"
       ],
       "hashtags": [
         "#Olandria",
         "#SDCC",
-        "#UnidaVenezuelaRenace",
-        "#GuardsBall"
+        "#TheFive"
       ],
       "regular_topics": [
+        "Korra",
         "Diego Pavia",
-        "Phoenix Cyclops",
+        "All 26",
+        "Seven Havens",
         "$INTC",
-        "Gavin Williams",
-        "Gundam",
-        "Family Video",
-        "Pong",
-        "Scrooge",
-        "USA Today",
+        "Phoenix Cyclops",
         "Alex Bowman",
-        "Nancy Armour"
+        "Scrooge",
+        "Gundam",
+        "Zilisch",
+        "Allahu Akbar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -81,113 +80,114 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 23 2026 21:33:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 22:27:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Shane Bieber",
+        "Korra",
         "Marner",
         "Ford",
+        "Shane Bieber",
         "#crowncoins",
         "Navarro",
+        "Patrick Kane",
         "$TSLA",
         "Premiers",
-        "Patrick Kane",
         "Saskatchewan",
-        "crown rise",
-        "#LingOrmAtDiorSiamParagon"
+        "crown rise"
       ],
       "hashtags": [
         "#crowncoins",
         "#LingOrmAtDiorSiamParagon",
         "#VWFC",
-        "#secretstory",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07"
+        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
+        "#secretstory"
       ],
       "regular_topics": [
-        "Shane Bieber",
+        "Korra",
         "Marner",
         "Ford",
+        "Shane Bieber",
         "Navarro",
+        "Patrick Kane",
         "$TSLA",
         "Premiers",
-        "Patrick Kane",
         "Saskatchewan",
         "crown rise",
-        "Oliver Jones",
-        "Stampede"
+        "Oliver Jones"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 23 2026 21:32:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 22:24:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CJPMovement",
         "#NEETQuestionPaperLeak",
         "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
-        "#HDB_ALISHA_SHAIKH",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
         "Dharmendra Pradhan",
-        "Modi ji",
         "Cabinet",
+        "Modi ji",
+        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
         "#NEETExamPaperLeak",
-        "#BcmForORM",
+        "Jitendra Singh",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0947\u092a\u0940",
         "\u0928\u0930\u0947\u0936 \u092a\u093e\u0932 \u0917\u0902\u0917\u0935\u093e\u0930"
       ],
       "hashtags": [
         "#CJPMovement",
         "#NEETQuestionPaperLeak",
-        "#HDB_ALISHA_SHAIKH",
         "#NEETExamPaperLeak",
+        "#ChennaiLoveStory",
         "#BcmForORM"
       ],
       "regular_topics": [
         "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
         "Dharmendra Pradhan",
-        "Modi ji",
         "Cabinet",
-        "\u0928\u0930\u0947\u0936 \u092a\u093e\u0932 \u0917\u0902\u0917\u0935\u093e\u0930",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0947\u092a\u0940",
+        "Modi ji",
+        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
         "Jitendra Singh",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0947\u092a\u0940",
+        "\u0928\u0930\u0947\u0936 \u092a\u093e\u0932 \u0917\u0902\u0917\u0935\u093e\u0930",
         "Education Secretary",
-        "Naresh Pal Gangwar",
-        "Teleprompter"
+        "Teleprompter",
+        "Friends"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 23 2026 21:31:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 23 2026 22:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Korra",
         "Enugu Air",
         "Newcastle",
         "Elliot Anderson",
         "Benin Airport",
+        "Nicol\u00e1s Otamendi",
         "Manchester",
         "Pele",
-        "Aguero",
-        "Kaito",
         "Villarreal",
         "Sesko",
-        "Priya"
+        "The Avatar"
       ],
       "hashtags": [
-        "#Day2OfASIS2026"
+        "#loveislanduk",
+        "#virtusfutaclass25"
       ],
       "regular_topics": [
+        "Korra",
         "Enugu Air",
         "Newcastle",
         "Elliot Anderson",
         "Benin Airport",
+        "Nicol\u00e1s Otamendi",
         "Manchester",
         "Pele",
-        "Aguero",
-        "Kaito",
         "Villarreal",
         "Sesko",
-        "Priya"
+        "The Avatar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
