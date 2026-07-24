@@ -1,79 +1,79 @@
 {
-  "generated_at_utc": "2026-07-24T19:09:59.884633+00:00",
+  "generated_at_utc": "2026-07-24T20:42:46.977797+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 24 2026 18:51:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 19:44:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
+        "Embiid",
         "Knicks",
         "Maxey",
         "Lakers",
         "Cleveland",
-        "Cavs",
-        "Celtics",
+        "Tony Romo",
         "Opus 5",
-        "East",
-        "Warriors",
-        "Dean Wade"
+        "Celtics",
+        "Cavs",
+        "East"
       ],
       "hashtags": [
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#nrednews",
         "#RepublicanCostOfCorruption",
-        "#FursuitFriday"
+        "#FursuitFriday",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6"
       ],
       "regular_topics": [
         "LeBron",
+        "Embiid",
         "Knicks",
         "Maxey",
         "Lakers",
         "Cleveland",
-        "Cavs",
-        "Celtics",
+        "Tony Romo",
         "Opus 5",
-        "East",
-        "Warriors",
-        "Dean Wade"
+        "Celtics",
+        "Cavs",
+        "East"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 24 2026 18:24:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 20:12:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TOTP",
+        "Tchouameni",
         "LeBron",
-        "Zirkzee",
-        "Philly",
-        "Lacey",
-        "76ers",
-        "Sixers",
-        "Harry Amass",
         "Manchester",
-        "Embiid",
         "Opus 5",
-        "Broadmoor"
+        "#BBCProms",
+        "76ers",
+        "Philly",
+        "Zirkzee",
+        "#ForestAlbums",
+        "Alvarez"
       ],
       "hashtags": [
-        "#thechase",
-        "#stayselcaday",
-        "#LastFourWatched",
-        "#LetterboxdFriday",
-        "#TDF2026RP"
+        "#TOTP",
+        "#BBCProms",
+        "#ForestAlbums",
+        "#SLWIGSTH",
+        "#drfc"
       ],
       "regular_topics": [
+        "Tchouameni",
         "LeBron",
-        "Zirkzee",
-        "Philly",
-        "Lacey",
-        "76ers",
-        "Sixers",
-        "Harry Amass",
         "Manchester",
-        "Embiid",
         "Opus 5",
+        "76ers",
+        "Philly",
+        "Zirkzee",
+        "Alvarez",
+        "Lacey",
+        "North",
         "Broadmoor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -81,115 +81,116 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 24 2026 18:16:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 20:00:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
         "Sixers",
         "76ers",
         "Maxey",
-        "Kawhi",
         "Opus 5",
-        "Raptors",
+        "Kawhi",
+        "Elon",
         "Lakers",
-        "Cavs",
-        "Knicks",
-        "Elon"
+        "Korra",
+        "Raptors",
+        "Marner"
       ],
       "hashtags": [
-        "#questpit",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
-        "#Verzuz"
+        "#questpit",
+        "#Verzuz",
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "LeBron",
         "Sixers",
         "76ers",
         "Maxey",
-        "Kawhi",
         "Opus 5",
-        "Raptors",
+        "Kawhi",
+        "Elon",
         "Lakers",
-        "Cavs",
-        "Knicks",
-        "Elon"
+        "Korra",
+        "Raptors",
+        "Marner"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 24 2026 18:15:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 19:57:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JantarManatar",
-        "JANTA LOVES AKANKSHA",
-        "Opus 5",
-        "#BoycottKerala",
         "#modivideo",
-        "#Newtons3rdLaw",
-        "LeBron",
+        "Opus 5",
+        "JANTA LOVES AKANKSHA",
+        "Thank You Friends",
         "#BoycottHYBE_EnforceReform",
-        "\u0930\u0935\u0928\u0940\u0924 \u0938\u093f\u0902\u0939 \u092c\u093f\u091f\u094d\u091f\u0942",
-        "76ers",
-        "Trailer Out Tomorrow"
+        "LeBron",
+        "#BoycottKerala",
+        "Modi ji",
+        "AKKUSENA STANS AKKU",
+        "Insta"
       ],
       "hashtags": [
         "#JantarManatar",
-        "#BoycottKerala",
         "#modivideo",
-        "#Newtons3rdLaw",
-        "#BoycottHYBE_EnforceReform"
+        "#BoycottHYBE_EnforceReform",
+        "#BoycottKerala",
+        "#Newtons3rdLaw"
       ],
       "regular_topics": [
-        "JANTA LOVES AKANKSHA",
         "Opus 5",
+        "JANTA LOVES AKANKSHA",
+        "Thank You Friends",
         "LeBron",
-        "\u0930\u0935\u0928\u0940\u0924 \u0938\u093f\u0902\u0939 \u092c\u093f\u091f\u094d\u091f\u0942",
-        "76ers",
-        "Trailer Out Tomorrow",
+        "Modi ji",
+        "AKKUSENA STANS AKKU",
+        "Insta",
         "Philly",
-        "Jensen",
-        "Sixers",
-        "Lacey",
-        "Embiid"
+        "\u0930\u0935\u0928\u0940\u0924 \u0938\u093f\u0902\u0939 \u092c\u093f\u091f\u094d\u091f\u0942",
+        "Embiid",
+        "76ers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 24 2026 18:12:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 19:57:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Shea Lacey",
         "LeBron",
         "Zirkzee",
-        "Harry Amass",
-        "76ers",
+        "Shea Lacey",
         "Rosenborg",
+        "Trillionaire",
+        "76ers",
+        "Harry Amass",
         "Sixers",
-        "Embiid",
-        "Ethan Williams",
-        "Maxey",
-        "Jacob Devaney"
+        "Austin MacPhee",
+        "Skel",
+        "Tchouameni"
       ],
       "hashtags": [
-        "#MistikayxZinoBundleBundle",
+        "#HealingAtYourDoorstep",
+        "#ManchesterUnited",
         "#TemmyDreddzJeje",
-        "#GGMU",
-        "#Day3OfASIS2026",
-        "#ManchesterUnited"
+        "#MistikayxZinoBundleBundle",
+        "#PreSeason"
       ],
       "regular_topics": [
-        "Shea Lacey",
         "LeBron",
         "Zirkzee",
-        "Harry Amass",
-        "76ers",
+        "Shea Lacey",
         "Rosenborg",
+        "Trillionaire",
+        "76ers",
+        "Harry Amass",
         "Sixers",
-        "Embiid",
-        "Ethan Williams",
-        "Maxey",
-        "Jacob Devaney"
+        "Austin MacPhee",
+        "Skel",
+        "Tchouameni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
