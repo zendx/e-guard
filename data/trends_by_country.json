@@ -1,87 +1,86 @@
 {
-  "generated_at_utc": "2026-07-24T22:49:24.880217+00:00",
+  "generated_at_utc": "2026-07-24T23:51:43.572579+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 24 2026 22:20:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 23:12:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
+        "Philly",
         "Sixers",
         "76ers",
-        "Embiid",
         "Lakers",
-        "Maxey",
-        "Knicks",
+        "Embiid",
         "Tony Romo",
+        "Maxey",
         "Opus 5",
-        "Cleveland",
-        "Kobe"
+        "Knicks",
+        "Jordan"
       ],
       "hashtags": [
         "#Lanterns",
         "#BudSummerOf250",
-        "#teenage",
-        "#FursuitFriday"
+        "#NationalDriveThruDay"
       ],
       "regular_topics": [
         "LeBron",
+        "Philly",
         "Sixers",
         "76ers",
-        "Embiid",
         "Lakers",
-        "Maxey",
-        "Knicks",
+        "Embiid",
         "Tony Romo",
+        "Maxey",
         "Opus 5",
-        "Cleveland",
-        "Kobe"
+        "Knicks",
+        "Jordan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 24 2026 21:54:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 23:36:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Vini",
         "#TOTP",
         "#loveisland",
+        "Diomande",
+        "Rodrygo",
         "Lorenzo",
         "Priya",
+        "David Brent",
         "Simba",
-        "Diomande",
         "Jasmine",
-        "Rodrygo",
-        "Tchouameni",
-        "Manchester",
-        "Murphy"
+        "Tchouameni"
       ],
       "hashtags": [
         "#TOTP",
         "#loveisland",
         "#Lanterns",
-        "#BBCProms",
-        "#SLWIGSTH"
+        "#SLWIGSTH",
+        "#ForestAlbums"
       ],
       "regular_topics": [
+        "Vini",
+        "Diomande",
+        "Rodrygo",
         "Lorenzo",
         "Priya",
+        "David Brent",
         "Simba",
-        "Diomande",
         "Jasmine",
-        "Rodrygo",
         "Tchouameni",
-        "Manchester",
-        "Murphy",
-        "Samraj",
-        "Alvarez"
+        "Angie",
+        "Endrick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 24 2026 22:36:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 23:28:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
         "Sixers",
@@ -89,15 +88,15 @@
         "Embiid",
         "Maxey",
         "Opus 5",
-        "Vini",
         "Diomande",
         "Elon",
+        "Vini",
         "Marner",
-        "Korra"
+        "Apple TV"
       ],
       "hashtags": [
-        "#questpit",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
+        "#questpit",
         "#FursuitFriday",
         "#Verzuz"
       ],
@@ -108,85 +107,85 @@
         "Embiid",
         "Maxey",
         "Opus 5",
-        "Vini",
         "Diomande",
         "Elon",
+        "Vini",
         "Marner",
-        "Korra"
+        "Apple TV"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 24 2026 22:33:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 23:27:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GalaxyZFold8",
         "#GenZWithBharat",
+        "#OperationMeritUP",
+        "#SorosFoundationFundsTerror",
         "#omega_ai_stock",
-        "#lavavirat5gonflipkart",
+        "Gen Z",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
         "Terror Funding",
         "Modi",
         "Dharmendra Pradhan",
-        "Sa News YouTube Channel",
-        "Opus 5",
-        "Jhandu Kumar"
+        "Sa News YouTube Channel"
       ],
       "hashtags": [
         "#GalaxyZFold8",
         "#GenZWithBharat",
-        "#omega_ai_stock",
-        "#lavavirat5gonflipkart"
+        "#OperationMeritUP",
+        "#SorosFoundationFundsTerror",
+        "#omega_ai_stock"
       ],
       "regular_topics": [
+        "Gen Z",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
         "Terror Funding",
         "Modi",
         "Dharmendra Pradhan",
         "Sa News YouTube Channel",
-        "Opus 5",
-        "Jhandu Kumar",
         "jab vinny met dheeraj",
         "omega interactive technologies",
-        "\u091b\u093e\u0924\u094d\u0930 \u0906\u0902\u0926\u094b\u0932\u0928",
-        "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939"
+        "Opus 5",
+        "Jhandu Kumar",
+        "\u091b\u093e\u0924\u094d\u0930 \u0906\u0902\u0926\u094b\u0932\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 24 2026 22:33:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 23:24:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Real Madrid",
         "Diomande",
+        "Real Madrid",
         "Leipzig",
         "Rodrygo",
         "Trillionaire",
         "Mourinho",
-        "Alvarez",
         "LeBron",
+        "Alvarez",
         "Gyokeres",
         "Diamonde",
-        "#HealingAtYourDoorstep"
+        "$RAKO"
       ],
       "hashtags": [
-        "#HealingAtYourDoorstep",
         "#PreSeason"
       ],
       "regular_topics": [
-        "Real Madrid",
         "Diomande",
+        "Real Madrid",
         "Leipzig",
         "Rodrygo",
         "Trillionaire",
         "Mourinho",
-        "Alvarez",
         "LeBron",
+        "Alvarez",
         "Gyokeres",
         "Diamonde",
-        "Philly"
+        "$RAKO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
