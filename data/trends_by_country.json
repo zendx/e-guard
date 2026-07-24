@@ -1,198 +1,194 @@
 {
-  "generated_at_utc": "2026-07-23T23:45:10.199819+00:00",
+  "generated_at_utc": "2026-07-24T01:20:49.387291+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 23 2026 23:00:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 00:44:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Korra",
         "Allahu Akbar",
+        "Bye Rome",
+        "Johnny Depp",
+        "Raul Morales",
+        "The Economist",
         "Diego Pavia",
         "Seven Havens",
-        "All 26",
-        "Alex Bowman",
-        "$INTC",
-        "Phoenix Cyclops",
-        "Zilisch",
-        "Upper West Side",
-        "Hendrick"
+        "Aang",
+        "Neto",
+        "Upper West Side"
       ],
       "hashtags": [
-        "#Olandria",
+        "#JSFamilyVacation",
         "#PeanutButterAndChocolateDay",
-        "#SDCC"
+        "#ESTBoston",
+        "#SDCC",
+        "#OlandriaxVS"
       ],
       "regular_topics": [
         "Korra",
         "Allahu Akbar",
+        "Bye Rome",
+        "Johnny Depp",
+        "Raul Morales",
+        "The Economist",
         "Diego Pavia",
         "Seven Havens",
-        "All 26",
-        "Alex Bowman",
-        "$INTC",
-        "Phoenix Cyclops",
-        "Zilisch",
-        "Upper West Side",
-        "Hendrick"
+        "Aang",
+        "Neto",
+        "Upper West Side"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 23 2026 23:27:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 00:18:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveisland",
-        "Priya",
         "Julia",
+        "Priya",
         "Simba",
         "Broadmoor",
+        "Korra",
         "Mica",
         "Tommy",
-        "Korra",
         "#CommonwealthGames",
         "Jasmine",
-        "Maya"
+        "Tyla"
       ],
       "hashtags": [
         "#loveisland",
         "#CommonwealthGames",
         "#Glasgow2026",
         "#16YearsOfOneDirection",
-        "#Pompey"
+        "#pompey"
       ],
       "regular_topics": [
-        "Priya",
         "Julia",
+        "Priya",
         "Simba",
         "Broadmoor",
+        "Korra",
         "Mica",
         "Tommy",
-        "Korra",
         "Jasmine",
+        "Tyla",
         "Maya",
-        "Hull FC",
-        "Spender"
+        "Scrooge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 23 2026 23:18:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 01:00:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#bb28",
         "Korra",
         "Marner",
-        "Ford",
+        "Keno",
         "#crowncoins",
         "Navarro",
+        "Jason",
+        "Ford",
         "Premiers",
-        "Patrick Kane",
         "Saskatchewan",
-        "crown rise",
-        "$TSLA",
-        "Elon"
+        "crown rise"
       ],
       "hashtags": [
+        "#bb28",
         "#crowncoins",
         "#LingOrmAtDiorSiamParagon",
         "#VWFC",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
-        "#AEWDynamite"
+        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07"
       ],
       "regular_topics": [
         "Korra",
         "Marner",
-        "Ford",
+        "Keno",
         "Navarro",
+        "Jason",
+        "Ford",
         "Premiers",
-        "Patrick Kane",
         "Saskatchewan",
         "crown rise",
-        "$TSLA",
-        "Elon",
-        "Oliver Jones"
+        "Patrick Kane",
+        "$TSLA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 23 2026 23:16:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 01:00:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Samsung",
+        "#Fold8InANewShape",
+        "NEET",
         "#CJPMovement",
-        "#NEETQuestionPaperLeak",
-        "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
-        "Cabinet",
+        "#JanaNayagan",
+        "#GodMorningFriday",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Modi",
         "Dharmendra Pradhan",
-        "Modi ji",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
-        "#NEETExamPaperLeak",
-        "Jitendra Singh",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0947\u092a\u0940",
-        "Teleprompter"
+        "149.25 cr",
+        "omega interactive technologies"
       ],
       "hashtags": [
+        "#Samsung",
+        "#Fold8InANewShape",
         "#CJPMovement",
-        "#NEETQuestionPaperLeak",
-        "#NEETExamPaperLeak",
-        "#ChennaiLoveStory",
-        "#BcmForORM",
-        "#NarendraModi",
-        "#Boycott_HYBE_Until_Change",
-        "#CJPPprotest",
-        "#KiranAbbavaram",
-        "#nsfwtwt\u064b\u064b",
-        "#StudentIssues"
+        "#JanaNayagan",
+        "#GodMorningFriday"
       ],
       "regular_topics": [
-        "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
-        "Cabinet",
+        "NEET",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Modi",
         "Dharmendra Pradhan",
-        "Modi ji",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u0938\u091a\u093f\u0935",
-        "Jitendra Singh",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0947\u092a\u0940",
-        "Teleprompter",
-        "\u0928\u0930\u0947\u0936 \u092a\u093e\u0932 \u0917\u0902\u0917\u0935\u093e\u0930",
-        "Education Secretary",
-        "Friends"
+        "149.25 cr",
+        "omega interactive technologies",
+        "\u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u0938\u093f\u0902\u0939",
+        "\u0938\u094b\u0928\u092e \u0935\u093e\u0902\u0917\u091a\u0941\u0915",
+        "9.03 cr",
+        "Gen Z",
+        "Sonam Wangchuk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 23 2026 23:15:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 00:57:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Korra",
+        "Mines",
+        "Mavo",
+        "NEY LIVE IN LONDON",
+        "Johnny Depp",
+        "OUT NOW",
         "Nicol\u00e1s Otamendi",
-        "Enugu Air",
-        "Newcastle",
-        "Elliot Anderson",
-        "Seven Havens",
-        "Benin Airport",
-        "Pele",
-        "The Avatar",
-        "Manchester",
-        "Sesko"
+        "Keno",
+        "Tyla",
+        "Mofe",
+        "Seven Havens"
       ],
       "hashtags": [
-        "#loveislanduk"
+        "#loveisland"
       ],
       "regular_topics": [
         "Korra",
+        "Mines",
+        "Mavo",
+        "NEY LIVE IN LONDON",
+        "Johnny Depp",
+        "OUT NOW",
         "Nicol\u00e1s Otamendi",
-        "Enugu Air",
-        "Newcastle",
-        "Elliot Anderson",
-        "Seven Havens",
-        "Benin Airport",
-        "Pele",
-        "The Avatar",
-        "Manchester",
-        "Sesko"
+        "Keno",
+        "Tyla",
+        "Mofe",
+        "Seven Havens"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
