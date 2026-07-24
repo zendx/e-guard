@@ -1,103 +1,104 @@
 {
-  "generated_at_utc": "2026-07-24T20:42:46.977797+00:00",
+  "generated_at_utc": "2026-07-24T21:51:56.028080+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 24 2026 19:44:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 21:28:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
+        "Sixers",
+        "76ers",
         "Embiid",
-        "Knicks",
-        "Maxey",
         "Lakers",
-        "Cleveland",
+        "Maxey",
+        "Knicks",
         "Tony Romo",
         "Opus 5",
-        "Celtics",
-        "Cavs",
-        "East"
+        "Cleveland",
+        "Celtics"
       ],
       "hashtags": [
-        "#nrednews",
-        "#RepublicanCostOfCorruption",
-        "#FursuitFriday",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6"
+        "#Lanterns",
+        "#teenage",
+        "#BudSummerOf250",
+        "#PennyStocks",
+        "#nrednews"
       ],
       "regular_topics": [
         "LeBron",
+        "Sixers",
+        "76ers",
         "Embiid",
-        "Knicks",
-        "Maxey",
         "Lakers",
-        "Cleveland",
+        "Maxey",
+        "Knicks",
         "Tony Romo",
         "Opus 5",
-        "Celtics",
-        "Cavs",
-        "East"
+        "Cleveland",
+        "Celtics"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 24 2026 20:12:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 21:03:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
+        "#loveislanduk",
+        "Priya",
+        "Lorenzo",
+        "Jasmine",
+        "Simba",
         "Tchouameni",
-        "LeBron",
         "Manchester",
+        "Murphy",
         "Opus 5",
-        "#BBCProms",
-        "76ers",
-        "Philly",
-        "Zirkzee",
-        "#ForestAlbums",
-        "Alvarez"
+        "Samraj"
       ],
       "hashtags": [
         "#TOTP",
+        "#loveislanduk",
         "#BBCProms",
-        "#ForestAlbums",
         "#SLWIGSTH",
-        "#drfc"
+        "#ForestAlbums"
       ],
       "regular_topics": [
+        "Priya",
+        "Lorenzo",
+        "Jasmine",
+        "Simba",
         "Tchouameni",
-        "LeBron",
         "Manchester",
+        "Murphy",
         "Opus 5",
-        "76ers",
-        "Philly",
-        "Zirkzee",
-        "Alvarez",
-        "Lacey",
-        "North",
-        "Broadmoor"
+        "Samraj",
+        "Tommy",
+        "LeBron"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 24 2026 20:00:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 20:52:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
         "Sixers",
         "76ers",
         "Maxey",
         "Opus 5",
-        "Kawhi",
         "Elon",
         "Lakers",
+        "Tony Romo",
+        "Marner",
         "Korra",
-        "Raptors",
-        "Marner"
+        "Raptors"
       ],
       "hashtags": [
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#questpit",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#Verzuz",
         "#FursuitFriday"
       ],
@@ -107,41 +108,42 @@
         "76ers",
         "Maxey",
         "Opus 5",
-        "Kawhi",
         "Elon",
         "Lakers",
+        "Tony Romo",
+        "Marner",
         "Korra",
-        "Raptors",
-        "Marner"
+        "Raptors"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 24 2026 19:57:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 20:51:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JantarManatar",
         "#modivideo",
         "Opus 5",
+        "Jhandu Kumar",
         "JANTA LOVES AKANKSHA",
         "Thank You Friends",
-        "#BoycottHYBE_EnforceReform",
         "LeBron",
+        "#BoycottHYBE_EnforceReform",
         "#BoycottKerala",
         "Modi ji",
-        "AKKUSENA STANS AKKU",
-        "Insta"
+        "AKKUSENA STANS AKKU"
       ],
       "hashtags": [
         "#JantarManatar",
         "#modivideo",
         "#BoycottHYBE_EnforceReform",
         "#BoycottKerala",
-        "#Newtons3rdLaw"
+        "#DharmendraPradhanResignDo"
       ],
       "regular_topics": [
         "Opus 5",
+        "Jhandu Kumar",
         "JANTA LOVES AKANKSHA",
         "Thank You Friends",
         "LeBron",
@@ -149,47 +151,46 @@
         "AKKUSENA STANS AKKU",
         "Insta",
         "Philly",
-        "\u0930\u0935\u0928\u0940\u0924 \u0938\u093f\u0902\u0939 \u092c\u093f\u091f\u094d\u091f\u0942",
-        "Embiid",
-        "76ers"
+        "Junaid",
+        "\u0930\u0935\u0928\u0940\u0924 \u0938\u093f\u0902\u0939 \u092c\u093f\u091f\u094d\u091f\u0942"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 24 2026 19:57:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 24 2026 21:42:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "LeBron",
-        "Zirkzee",
-        "Shea Lacey",
-        "Rosenborg",
+        "Diomande",
+        "Leipzig",
         "Trillionaire",
-        "76ers",
-        "Harry Amass",
-        "Sixers",
+        "Real Madrid",
+        "LeBron",
+        "Rodrygo",
+        "#HealingAtYourDoorstep",
+        "Rosenborg",
         "Austin MacPhee",
-        "Skel",
-        "Tchouameni"
+        "Gyokeres",
+        "Zirkzee"
       ],
       "hashtags": [
         "#HealingAtYourDoorstep",
-        "#ManchesterUnited",
+        "#PreSeason",
         "#TemmyDreddzJeje",
-        "#MistikayxZinoBundleBundle",
-        "#PreSeason"
+        "#ManchesterUnited",
+        "#MistikayxZinoBundleBundle"
       ],
       "regular_topics": [
-        "LeBron",
-        "Zirkzee",
-        "Shea Lacey",
-        "Rosenborg",
+        "Diomande",
+        "Leipzig",
         "Trillionaire",
-        "76ers",
-        "Harry Amass",
-        "Sixers",
+        "Real Madrid",
+        "LeBron",
+        "Rodrygo",
+        "Rosenborg",
         "Austin MacPhee",
-        "Skel",
+        "Gyokeres",
+        "Zirkzee",
         "Tchouameni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
