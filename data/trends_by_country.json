@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-07-25T04:35:31.051111+00:00",
+  "generated_at_utc": "2026-07-25T07:06:53.181546+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 04:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 06:06:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump 2028",
         "#SmackDown",
         "#WHCD",
         "#OPLive",
         "White House Correspondents",
+        "Grant McCray",
+        "#Densetsu1stLive",
+        "Kaitlan Collins",
         "Azzi",
         "Starship",
-        "Finn",
-        "#OPNation",
-        "Kaitlan Collins",
-        "#Densetsu1stLive"
+        "Kentavious Caldwell-Pope"
       ],
       "hashtags": [
         "#SmackDown",
         "#WHCD",
         "#OPLive",
-        "#OPNation",
-        "#Densetsu1stLive"
+        "#Densetsu1stLive",
+        "#OPNation"
       ],
       "regular_topics": [
         "Trump 2028",
         "White House Correspondents",
+        "Grant McCray",
+        "Kaitlan Collins",
         "Azzi",
         "Starship",
-        "Finn",
-        "Kaitlan Collins",
-        "Sami",
+        "Kentavious Caldwell-Pope",
+        "Rafael Devers",
         "Dylan Mulvaney",
-        "SummerSlam",
-        "Laufey",
-        "WHCA"
+        "Finn",
+        "Laufey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 03:54:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 06:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Broadmoor",
-        "#SmackDown",
+        "#PostboxSaturday",
         "Manchester",
         "No 10 North",
         "LeBron",
         "Julia",
         "#elonlikedswoledoge",
         "Priya",
-        "Philly",
         "76ers",
-        "#loveisland"
+        "Chain",
+        "Philly"
       ],
       "hashtags": [
-        "#SmackDown",
+        "#PostboxSaturday",
         "#elonlikedswoledoge",
+        "#Caturday",
         "#loveisland",
-        "#totp",
-        "#HungarianGP"
+        "#TOTP"
       ],
       "regular_topics": [
         "Broadmoor",
@@ -71,134 +71,128 @@
         "LeBron",
         "Julia",
         "Priya",
-        "Philly",
         "76ers",
-        "SummerSlam",
-        "Simba",
-        "HMRC"
+        "Chain",
+        "Philly",
+        "Sixers",
+        "Simba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 03:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 06:24:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
-        "76ers",
         "Sixers",
+        "76ers",
         "Embiid",
-        "Van Eyk",
         "Maxey",
-        "#SmackDown",
-        "Schneider",
         "Opus 5",
-        "Billy Bishop",
-        "Trump 2028"
+        "Van Eyk",
+        "Trump 2028",
+        "Elon",
+        "Coyne",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6"
       ],
       "hashtags": [
-        "#SmackDown",
-        "#Bombers",
-        "#ForTheW",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
-        "#BlueJays"
+        "#SmackDown",
+        "#ForTheW",
+        "#fursuitfriday",
+        "#QuestPit"
       ],
       "regular_topics": [
         "LeBron",
-        "76ers",
         "Sixers",
+        "76ers",
         "Embiid",
-        "Van Eyk",
         "Maxey",
-        "Schneider",
         "Opus 5",
-        "Billy Bishop",
+        "Van Eyk",
         "Trump 2028",
-        "Macko"
+        "Elon",
+        "Coyne",
+        "LINGORM ILF EP6"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 03:44:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 06:20:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DevshayaniEkadashi",
-        "Vrat Mahima",
-        "#GodMorningSaturday",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "#MalharAndTheSea",
+        "#100DaysOfCMSamrat",
+        "#BrandsCareMedia",
+        "#BcmForORM",
+        "#JantarMantarUpdates",
         "\u092d\u0917\u0935\u093e\u0928 \u0936\u094d\u0930\u0940\u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "#\u0926\u0947\u0935\u0936\u092f\u0928\u0940_\u090f\u0915\u093e\u0926\u0936\u0940",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Vrat Mahima",
         "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
-        "#\u0950_\u0936\u0902_\u0936\u0928\u0948\u0936\u094d\u091a\u0930\u093e\u092f_\u0928\u092e\u0903",
-        "#neet_paper_leak",
-        "Jai Shani Dev"
+        "Bihar",
+        "Typhoid",
+        "Jhandu Kumar"
       ],
       "hashtags": [
+        "#MalharAndTheSea",
+        "#100DaysOfCMSamrat",
+        "#BrandsCareMedia",
+        "#BcmForORM",
+        "#JantarMantarUpdates",
         "#DevshayaniEkadashi",
-        "#GodMorningSaturday",
-        "#\u0926\u0947\u0935\u0936\u092f\u0928\u0940_\u090f\u0915\u093e\u0926\u0936\u0940",
-        "#\u0950_\u0936\u0902_\u0936\u0928\u0948\u0936\u094d\u091a\u0930\u093e\u092f_\u0928\u092e\u0903",
-        "#neet_paper_leak",
-        "#StudentProtestIndia",
-        "#TNForStudents",
-        "#JhanduKumar",
-        "#SaturdayMotivation",
-        "#SmackDown",
-        "#StudentsDeserveJustice"
+        "#GodMorningSaturday"
       ],
       "regular_topics": [
-        "Vrat Mahima",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u092d\u0917\u0935\u093e\u0928 \u0936\u094d\u0930\u0940\u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Vrat Mahima",
         "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
-        "Jai Shani Dev",
-        "\u0935\u0930\u094d\u0932\u094d\u0921 \u0930\u093f\u0915\u0949\u0930\u094d\u0921",
-        "\u0936\u0928\u093f \u092e\u0939\u093e\u0930\u093e\u091c",
-        "\u092a\u0940\u092f\u0942\u0937 \u0917\u094b\u092f\u0932",
+        "Bihar",
+        "Typhoid",
+        "Jhandu Kumar",
+        "Danish Husain",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Tap and Hold",
-        "Starship"
+        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
+        "\u0935\u0930\u094d\u0932\u094d\u0921 \u0930\u093f\u0915\u0949\u0930\u094d\u0921"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 03:43:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 06:20:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
+        "Dynamic Reward Rate",
         "Chelsea",
         "Real Madrid",
         "Rosenborg",
-        "Shea Lacey",
+        "Diomande",
         "Korra",
         "76ers",
-        "Diomande",
         "Leipzig",
-        "Sixers",
-        "Colo Colo"
+        "Shea Lacey",
+        "$FLAT"
       ],
       "hashtags": [
-        "#dailytimesat100",
-        "#buyingcontent",
-        "#corruptnuprc",
-        "#naffrontlineinsight",
-        "#ogogorobykokopee"
+        "#mistikayxzinobundlebundle",
+        "#nsfwtwt\u064b\u064b",
+        "#temmydreddzjeje"
       ],
       "regular_topics": [
         "LeBron",
+        "Dynamic Reward Rate",
         "Chelsea",
         "Real Madrid",
         "Rosenborg",
-        "Shea Lacey",
+        "Diomande",
         "Korra",
         "76ers",
-        "Diomande",
         "Leipzig",
-        "Sixers",
-        "Colo Colo"
+        "Shea Lacey",
+        "$FLAT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
