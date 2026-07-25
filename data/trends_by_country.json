@@ -1,97 +1,95 @@
 {
-  "generated_at_utc": "2026-07-25T18:44:36.804679+00:00",
+  "generated_at_utc": "2026-07-25T20:02:39.292164+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 18:06:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 19:48:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCAbuDhabi",
-        "Vini",
-        "John Pork",
-        "Temirov",
-        "Chanco",
-        "Kyle Shanahan",
+        "Guskov",
+        "#LaVeladaDelA\u00f1oVI",
+        "Ankalaev",
         "Ron Simmons",
-        "Erceg",
-        "Valter Walker",
-        "Kuniev",
-        "Troy Jackson"
+        "Vierling",
+        "Katy Perry",
+        "Salvy",
+        "Vini",
+        "Temirov",
+        "State Farm"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
-        "#Caturday",
-        "#LUN\u00c9SelcaDay",
-        "#PeachAndMeSeriesEP3",
-        "#LUN\u00c9JidoriDay"
+        "#LaVeladaDelA\u00f1oVI",
+        "#Caturday"
       ],
       "regular_topics": [
-        "Vini",
-        "John Pork",
-        "Temirov",
-        "Chanco",
-        "Kyle Shanahan",
+        "Guskov",
+        "Ankalaev",
         "Ron Simmons",
-        "Erceg",
-        "Valter Walker",
-        "Kuniev",
-        "Troy Jackson",
-        "Rzepecki"
+        "Vierling",
+        "Katy Perry",
+        "Salvy",
+        "Vini",
+        "Temirov",
+        "State Farm",
+        "John Pork",
+        "Steve Erceg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 17:40:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 19:24:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "Lewis",
         "#UFCAbuDhabi",
-        "FULL TIME",
+        "Lewis",
+        "Tice",
+        "Ankalaev",
+        "#soundsofthe80s",
         "Madrid",
         "#thehitlist",
-        "Lando",
-        "Piastri",
-        "Ferrari",
-        "Antifa",
-        "#HungarianGP"
+        "FULL TIME",
+        "Guskov",
+        "Piastri"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
+        "#soundsofthe80s",
         "#thehitlist",
-        "#HungarianGP",
-        "#readingfc",
-        "#PeachAndMeSeriesEP3"
+        "#JoshuaPrenga",
+        "#readingfc"
       ],
       "regular_topics": [
         "Vini",
         "Lewis",
-        "FULL TIME",
+        "Tice",
+        "Ankalaev",
         "Madrid",
-        "Lando",
+        "FULL TIME",
+        "Guskov",
         "Piastri",
+        "Kimi",
         "Ferrari",
-        "Antifa",
-        "HALF TIME",
-        "Kalpana",
-        "Valter Walker"
+        "Lando"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 18:24:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 19:15:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "LeBron",
         "#UFCAbuDhabi",
+        "LeBron",
         "Vini",
         "Sixers",
         "Philly",
         "76ers",
         "Embiid",
-        "Arsenal",
+        "Guskov",
         "Coyne",
         "Chanco",
         "Opus 5"
@@ -101,7 +99,7 @@
         "#Caturday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#FursuitFriday",
-        "#QuestPit"
+        "#PeachAndMeSeriesEP3"
       ],
       "regular_topics": [
         "LeBron",
@@ -110,7 +108,7 @@
         "Philly",
         "76ers",
         "Embiid",
-        "Arsenal",
+        "Guskov",
         "Coyne",
         "Chanco",
         "Opus 5",
@@ -121,36 +119,36 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 18:21:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 19:12:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
-        "Sant Rampal Ji Maharaj",
         "Pralhad Joshi",
+        "Sant Rampal Ji Maharaj",
         "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
         "SCRIPTED TRASH LOCK UPP",
         "#DharmendraPradhan",
+        "#dharmrapradharesigned",
         "AKANKSHA RULES X",
-        "#Newtons3rdLaw",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "LOCKUPP FUMBLED AKANKSHA"
+        "#GenZCockroach",
+        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924"
       ],
       "hashtags": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
         "#DharmendraPradhan",
-        "#Newtons3rdLaw",
-        "#PeachAndMeSeriesEP3"
+        "#dharmrapradharesigned",
+        "#GenZCockroach"
       ],
       "regular_topics": [
-        "Sant Rampal Ji Maharaj",
         "Pralhad Joshi",
+        "Sant Rampal Ji Maharaj",
         "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
         "SCRIPTED TRASH LOCK UPP",
         "AKANKSHA RULES X",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "LOCKUPP FUMBLED AKANKSHA",
         "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
+        "LOCKUPP FUMBLED AKANKSHA",
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "THE SHOW NEEDED YOGESH",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
         "AKKUSENA KE L PE MAKERS"
@@ -160,37 +158,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 18:20:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 19:12:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Borrow",
+        "Geh Geh",
         "#JulyHealingStreamsDay2",
+        "Madrid",
+        "Peller",
         "Bayern",
         "Soso",
-        "Amorim",
         "Lobistar",
-        "Peller",
-        "Palhinha",
-        "Ozil",
-        "Camarda"
+        "Amorim",
+        "Chalobah"
       ],
       "hashtags": [
         "#JulyHealingStreamsDay2",
+        "#UFCAbuDhabi",
         "#WAFCON2026",
-        "#ProbeNuprc2025Licensing"
+        "#ProbeNuprc2025Licensing",
+        "#BBNaija"
       ],
       "regular_topics": [
         "Vini",
         "Borrow",
+        "Geh Geh",
+        "Madrid",
+        "Peller",
         "Bayern",
         "Soso",
-        "Amorim",
         "Lobistar",
-        "Peller",
-        "Palhinha",
-        "Ozil",
-        "Camarda",
-        "AC Milan"
+        "Amorim",
+        "Chalobah",
+        "Ozil"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
