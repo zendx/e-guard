@@ -1,78 +1,80 @@
 {
-  "generated_at_utc": "2026-07-24T23:51:43.572579+00:00",
+  "generated_at_utc": "2026-07-25T01:21:20.792704+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 24 2026 23:12:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 00:56:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SmackDown",
         "LeBron",
+        "Starship",
         "Philly",
+        "Bridget Carleton",
+        "GG Banks",
+        "Nikki Bella",
+        "Team Washington",
+        "#loveafterlockup",
         "Sixers",
-        "76ers",
-        "Lakers",
-        "Embiid",
-        "Tony Romo",
-        "Maxey",
-        "Opus 5",
-        "Knicks",
-        "Jordan"
+        "76ers"
       ],
       "hashtags": [
-        "#Lanterns",
-        "#BudSummerOf250",
-        "#NationalDriveThruDay"
+        "#SmackDown",
+        "#loveafterlockup",
+        "#WNBAAllStar",
+        "#BBUnlocked",
+        "#Lanterns"
       ],
       "regular_topics": [
         "LeBron",
+        "Starship",
         "Philly",
+        "Bridget Carleton",
+        "GG Banks",
+        "Nikki Bella",
+        "Team Washington",
         "Sixers",
         "76ers",
-        "Lakers",
-        "Embiid",
-        "Tony Romo",
-        "Maxey",
-        "Opus 5",
-        "Knicks",
-        "Jordan"
+        "Indian Ocean",
+        "Lakers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 24 2026 23:36:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 00:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "#TOTP",
-        "#loveisland",
+        "#SmackDown",
+        "#totp",
+        "Nick Aldis",
         "Diomande",
+        "Starship",
         "Rodrygo",
-        "Lorenzo",
-        "Priya",
         "David Brent",
-        "Simba",
-        "Jasmine",
-        "Tchouameni"
+        "Priya",
+        "Lorenzo",
+        "Jasmine"
       ],
       "hashtags": [
-        "#TOTP",
-        "#loveisland",
+        "#SmackDown",
+        "#totp",
         "#Lanterns",
-        "#SLWIGSTH",
-        "#ForestAlbums"
+        "#drfc",
+        "#LoveIslandDebrief"
       ],
       "regular_topics": [
         "Vini",
+        "Nick Aldis",
         "Diomande",
+        "Starship",
         "Rodrygo",
-        "Lorenzo",
-        "Priya",
         "David Brent",
-        "Simba",
+        "Priya",
+        "Lorenzo",
         "Jasmine",
-        "Tchouameni",
-        "Angie",
+        "Madrid",
         "Endrick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -80,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 24 2026 23:28:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 00:20:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
         "Sixers",
@@ -88,17 +90,17 @@
         "Embiid",
         "Maxey",
         "Opus 5",
-        "Diomande",
-        "Elon",
+        "Apple TV",
+        "#SmackDown",
         "Vini",
-        "Marner",
-        "Apple TV"
+        "Starship",
+        "Elon"
       ],
       "hashtags": [
+        "#SmackDown",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#questpit",
-        "#FursuitFriday",
-        "#Verzuz"
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "LeBron",
@@ -107,85 +109,83 @@
         "Embiid",
         "Maxey",
         "Opus 5",
-        "Diomande",
-        "Elon",
+        "Apple TV",
         "Vini",
-        "Marner",
-        "Apple TV"
+        "Starship",
+        "Elon",
+        "Coyne"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 24 2026 23:27:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 01:09:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GalaxyZFold8",
+        "#GodMorningSaturday",
         "#GenZWithBharat",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "#\u092b\u094d\u0930\u0940_\u0916\u093e\u0926_\u092c\u0940\u091c\u0926\u0935\u093e\u0908_\u0938\u0947\u0935\u093e\u0905\u092d\u093f\u092f\u093e\u0928",
         "#OperationMeritUP",
-        "#SorosFoundationFundsTerror",
-        "#omega_ai_stock",
-        "Gen Z",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "Terror Funding",
+        "terror funding",
+        "NEET",
         "Modi",
-        "Dharmendra Pradhan",
-        "Sa News YouTube Channel"
+        "Dharmendra Pradhan"
       ],
       "hashtags": [
         "#GalaxyZFold8",
+        "#GodMorningSaturday",
         "#GenZWithBharat",
-        "#OperationMeritUP",
-        "#SorosFoundationFundsTerror",
-        "#omega_ai_stock"
+        "#\u092b\u094d\u0930\u0940_\u0916\u093e\u0926_\u092c\u0940\u091c\u0926\u0935\u093e\u0908_\u0938\u0947\u0935\u093e\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#OperationMeritUP"
       ],
       "regular_topics": [
-        "Gen Z",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "Terror Funding",
+        "terror funding",
+        "NEET",
         "Modi",
         "Dharmendra Pradhan",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Sa News YouTube Channel",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
         "jab vinny met dheeraj",
-        "omega interactive technologies",
-        "Opus 5",
-        "Jhandu Kumar",
-        "\u091b\u093e\u0924\u094d\u0930 \u0906\u0902\u0926\u094b\u0932\u0928"
+        "omega interactive technologies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 24 2026 23:24:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 00:16:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Diomande",
         "Real Madrid",
         "Leipzig",
         "Rodrygo",
+        "Perez",
         "Trillionaire",
         "Mourinho",
+        "$RAKO",
         "LeBron",
-        "Alvarez",
-        "Gyokeres",
-        "Diamonde",
-        "$RAKO"
+        "Starship",
+        "Alvarez"
       ],
-      "hashtags": [
-        "#PreSeason"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Diomande",
         "Real Madrid",
         "Leipzig",
         "Rodrygo",
+        "Perez",
         "Trillionaire",
         "Mourinho",
+        "$RAKO",
         "LeBron",
-        "Alvarez",
-        "Gyokeres",
-        "Diamonde",
-        "$RAKO"
+        "Starship",
+        "Alvarez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
