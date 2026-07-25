@@ -1,138 +1,138 @@
 {
-  "generated_at_utc": "2026-07-25T21:12:44.210525+00:00",
+  "generated_at_utc": "2026-07-25T22:14:22.580275+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 20:40:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 21:32:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Josh Kelly",
-        "#UFCAbuDhabi",
         "#LaVeladaDelA\u00f1oVI",
+        "Josh Kelly",
+        "Kyler Gordon",
         "Ron Simmons",
         "Katy Perry",
-        "Guskov",
-        "Ankalaev",
-        "Vierling",
-        "Salvy",
-        "State Farm",
-        "Denzel"
+        "#UFCAbuDhabi",
+        "Denzel",
+        "Jeremy Clements",
+        "henry park",
+        "Jackson Koivun",
+        "Sonny Gray"
       ],
       "hashtags": [
-        "#UFCAbuDhabi",
         "#LaVeladaDelA\u00f1oVI",
-        "#JoshuaPrenga",
+        "#UFCAbuDhabi",
         "#YAGA",
-        "#Caturday"
+        "#JoshuaPrenga",
+        "#Pennzoil250"
       ],
       "regular_topics": [
         "Josh Kelly",
+        "Kyler Gordon",
         "Ron Simmons",
         "Katy Perry",
-        "Guskov",
-        "Ankalaev",
-        "Vierling",
-        "Salvy",
-        "State Farm",
         "Denzel",
-        "Kyler Gordon",
-        "Edu Aguirre"
+        "Jeremy Clements",
+        "henry park",
+        "Jackson Koivun",
+        "Sonny Gray",
+        "State Farm",
+        "Luke Cage"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 20:16:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 21:57:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vini",
-        "#UFCAbuDhabi",
-        "Tice",
-        "Lewis",
-        "Luka Lynch",
-        "Josh Kelly",
+        "Sheeraz",
         "#JoshuaPrenga",
-        "Ankalaev",
-        "#soundsofthe80s",
-        "Madrid",
-        "Guskov"
+        "Josh Kelly",
+        "Littler",
+        "Vini",
+        "Jesse Derry",
+        "Janine",
+        "Tice",
+        "Jacquet",
+        "#UFCAbuDhabi",
+        "#Casualty"
       ],
       "hashtags": [
-        "#UFCAbuDhabi",
         "#JoshuaPrenga",
-        "#soundsofthe80s",
-        "#readingfc",
-        "#CWGNetball"
+        "#UFCAbuDhabi",
+        "#Casualty",
+        "#MatchplayDarts",
+        "#footballtwt"
       ],
       "regular_topics": [
-        "Vini",
-        "Tice",
-        "Lewis",
-        "Luka Lynch",
+        "Sheeraz",
         "Josh Kelly",
-        "Ankalaev",
-        "Madrid",
-        "Guskov",
-        "Antifa",
-        "Agyarko",
-        "Piastri"
+        "Littler",
+        "Vini",
+        "Jesse Derry",
+        "Janine",
+        "Tice",
+        "Jacquet",
+        "Hemmings",
+        "Lewis",
+        "Dirk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 20:06:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 21:48:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCAbuDhabi",
-        "LeBron",
         "Vini",
+        "LeBron",
+        "Marchenko",
         "Sixers",
-        "Philly",
         "76ers",
+        "Philly",
         "Embiid",
-        "Guskov",
-        "Coyne",
-        "Opus 5",
-        "Billy Bishop"
+        "Sonny Gray",
+        "Billy Bishop",
+        "Coyne"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
         "#Caturday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
-        "#FursuitFriday",
-        "#PeachAndMeSeriesEP3"
+        "#JoshuaPrenga",
+        "#FursuitFriday"
       ],
       "regular_topics": [
-        "LeBron",
         "Vini",
+        "LeBron",
+        "Marchenko",
         "Sixers",
-        "Philly",
         "76ers",
+        "Philly",
         "Embiid",
-        "Guskov",
-        "Coyne",
-        "Opus 5",
+        "Sonny Gray",
         "Billy Bishop",
-        "Steve Erceg"
+        "Coyne",
+        "Opus 5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 20:54:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 21:45:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "Pralhad Joshi",
         "#GenZCockroach",
+        "Pralhad Joshi",
         "#dharmrapradharesigned",
         "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
         "Sant Rampal Ji Maharaj",
-        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
         "AKANKSHA RULES X",
         "SCRIPTED TRASH LOCK UPP",
+        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
         "#PeachAndMeSeriesEP3"
       ],
       "hashtags": [
@@ -146,53 +146,53 @@
         "Pralhad Joshi",
         "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
         "Sant Rampal Ji Maharaj",
-        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
         "AKANKSHA RULES X",
         "SCRIPTED TRASH LOCK UPP",
-        "LOCKUPP FUMBLED AKANKSHA",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
+        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
         "Vini",
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
-        "AKKUSENA KE L PE MAKERS"
+        "AKKUSENA KE L PE MAKERS",
+        "Lewis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 20:54:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 21:45:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Geh Geh",
         "Vini",
+        "#HennessyArtistry2026",
+        "Gheghe",
         "Jesse Derry",
         "Borrow",
-        "Gheghe",
-        "#StandingonBusiness",
         "Peller",
         "Bayern",
+        "#StandingonBusiness",
         "Soso",
-        "Lobistar",
-        "Niger State"
+        "Black Jesus"
       ],
       "hashtags": [
+        "#HennessyArtistry2026",
         "#StandingonBusiness",
+        "#sobeau2026",
         "#JulyHealingStreamsDay2",
-        "#WAFCON2026",
-        "#UFCAbuDhabi",
-        "#sobeau2026"
+        "#BLEACH"
       ],
       "regular_topics": [
         "Geh Geh",
         "Vini",
+        "Gheghe",
         "Jesse Derry",
         "Borrow",
-        "Gheghe",
         "Peller",
         "Bayern",
         "Soso",
-        "Lobistar",
+        "Black Jesus",
         "Niger State",
-        "Amorim"
+        "Lobistar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
