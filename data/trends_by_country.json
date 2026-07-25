@@ -1,119 +1,118 @@
 {
-  "generated_at_utc": "2026-07-25T14:24:01.140514+00:00",
+  "generated_at_utc": "2026-07-25T15:33:46.042235+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 13:48:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 14:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Saturday",
         "#UFCAbuDhabi",
         "Vini",
-        "Cody Gibson",
+        "Good Saturday",
+        "Tuchalov",
+        "Aliev",
+        "Ribeiro",
+        "Mike Davis",
         "Caturday",
-        "Abdul Hussein",
-        "#PeachAndMeSeriesEP3",
         "Ron Simmons",
-        "Trump 2028",
-        "#SaturdayVibes",
-        "Aliev"
+        "Hussein",
+        "#PeachAndMeSeriesEP3"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
         "#PeachAndMeSeriesEP3",
         "#SaturdayVibes",
         "#FFFPartyConcert2026D1",
-        "#25HBDNuNew"
+        "#HyperLuckyMove1"
       ],
       "regular_topics": [
-        "Good Saturday",
         "Vini",
-        "Cody Gibson",
-        "Caturday",
-        "Abdul Hussein",
-        "Ron Simmons",
-        "Trump 2028",
+        "Good Saturday",
+        "Tuchalov",
         "Aliev",
-        "Evercold",
-        "EMBPFK CLOSE FRIENDS PARTY",
-        "Jeanna"
+        "Ribeiro",
+        "Mike Davis",
+        "Caturday",
+        "Ron Simmons",
+        "Hussein",
+        "Trump 2028",
+        "Cody Gibson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 13:24:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 15:06:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "Daizen",
         "Madrid",
-        "Gateshead",
-        "Ornstein",
-        "Bruno G",
-        "#CWGNetball",
-        "Diomande",
-        "Hogh",
-        "Murphy",
-        "Nick Pope"
+        "HALF TIME",
+        "Lando",
+        "Kalpana",
+        "#HungarianGP",
+        "Daizen",
+        "Duran",
+        "#UFCAbuDhabi",
+        "Madsen",
+        "Bruno G"
       ],
       "hashtags": [
+        "#HungarianGP",
+        "#UFCAbuDhabi",
         "#CWGNetball",
-        "#Caturday",
-        "#bbcaq",
-        "#HWCafe",
-        "#UFCAbuDhabi"
+        "#bbcaq"
       ],
       "regular_topics": [
         "Vini",
-        "Daizen",
         "Madrid",
-        "Gateshead",
-        "Ornstein",
+        "HALF TIME",
+        "Lando",
+        "Kalpana",
+        "Daizen",
+        "Duran",
+        "Madsen",
         "Bruno G",
-        "Diomande",
-        "Hogh",
-        "Murphy",
-        "Nick Pope",
-        "Sean Steur"
+        "Ornstein",
+        "Calandagan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 14:06:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 14:57:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "LeBron",
+        "#UFCAbuDhabi",
+        "Arsenal",
         "Sixers",
         "76ers",
-        "Arsenal",
         "Embiid",
         "Maxey",
-        "Real Madrid",
         "Opus 5",
         "#Caturday",
-        "#UFCAbuDhabi"
+        "Billy Bishop"
       ],
       "hashtags": [
-        "#Caturday",
         "#UFCAbuDhabi",
+        "#Caturday",
+        "#betyaVIP",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
-        "#SmackDown",
-        "#FursuitFriday"
+        "#SmackDown"
       ],
       "regular_topics": [
         "Vini",
         "LeBron",
+        "Arsenal",
         "Sixers",
         "76ers",
-        "Arsenal",
         "Embiid",
         "Maxey",
-        "Real Madrid",
         "Opus 5",
         "Billy Bishop",
+        "Madrid",
         "Elon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,77 +120,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 14:03:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 14:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DharmendraPradhan",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#DharmendraPradhan",
         "Sant Rampal Ji Maharaj",
+        "#BrandsCareMedia",
+        "#BcmForORM",
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
-        "#CMSamratForViksitBihar",
-        "#TimeToEndProtest",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "Vini",
         "\u091c\u0940\u0935 \u0926\u092f\u093e",
-        "Nitin Gadkari",
-        "Vini"
+        "\u092a\u094d\u0930\u0939\u0932\u093e\u0926 \u091c\u094b\u0936\u0940"
       ],
       "hashtags": [
-        "#DharmendraPradhan",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
-        "#CMSamratForViksitBihar",
-        "#TimeToEndProtest"
+        "#DharmendraPradhan",
+        "#BrandsCareMedia",
+        "#BcmForORM",
+        "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
-        "\u091c\u0940\u0935 \u0926\u092f\u093e",
-        "Nitin Gadkari",
         "Vini",
+        "\u091c\u0940\u0935 \u0926\u092f\u093e",
+        "\u092a\u094d\u0930\u0939\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
         "10 HP",
-        "TROPHY AWAITS AKANKSHA",
         "\u0917\u094b\u092a\u093e\u0932 \u0936\u094d\u0930\u0940 \u0915\u0943\u0937\u094d\u0923",
+        "Pralhad Joshi",
         "\u091c\u093f\u0932\u093e \u0930\u094b\u092a\u0921\u093c",
-        "FIRs"
+        "\u091c\u093f\u0932\u093e \u091a\u0942\u0930\u0942"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 14:03:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 14:54:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Madrid",
-        "Pickford",
-        "#ProbeNuprc2025Licensing",
         "Diomande",
+        "#ProbeNuprc2025Licensing",
+        "Pickford",
         "Berta",
         "Alvarez",
-        "Can Arsenal",
-        "Gyokeres",
-        "Lyon",
-        "Ozil"
+        "Ozil",
+        "Arteta",
+        "Martinelli",
+        "Gabriel Jesus"
       ],
       "hashtags": [
         "#ProbeNuprc2025Licensing",
         "#RMFC",
+        "#ZUKO",
         "#GbajaIsInnocent",
-        "#ZUKO"
+        "#HungarianGP"
       ],
       "regular_topics": [
         "Vini",
         "Madrid",
-        "Pickford",
         "Diomande",
+        "Pickford",
         "Berta",
         "Alvarez",
-        "Can Arsenal",
-        "Gyokeres",
-        "Lyon",
         "Ozil",
-        "Ornstein"
+        "Arteta",
+        "Martinelli",
+        "Gabriel Jesus",
+        "Emirates"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
