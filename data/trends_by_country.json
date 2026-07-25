@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-07-25T16:41:22.749076+00:00",
+  "generated_at_utc": "2026-07-25T17:45:24.101583+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 16:24:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 17:15:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCAbuDhabi",
-        "Valter Walker",
         "Vini",
-        "Lando",
-        "Sam Patterson",
-        "Good Saturday",
-        "Saidov",
+        "Valter Walker",
         "Kyle Shanahan",
-        "#LUN\u00c9SelcaDay",
-        "Dustin Jacoby",
-        "#LUN\u00c9JidoriDay"
+        "Kuniev",
+        "Ron Simmons",
+        "Sam Patterson",
+        "#Caturday",
+        "Lando",
+        "Good Saturday",
+        "#LUN\u00c9SelcaDay"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
+        "#Caturday",
         "#LUN\u00c9SelcaDay",
         "#LUN\u00c9JidoriDay",
-        "#Caturday",
         "#PeachAndMeSeriesEP3"
       ],
       "regular_topics": [
-        "Valter Walker",
         "Vini",
-        "Lando",
-        "Sam Patterson",
-        "Good Saturday",
-        "Saidov",
+        "Valter Walker",
         "Kyle Shanahan",
-        "Dustin Jacoby",
-        "Ribeiro",
+        "Kuniev",
         "Ron Simmons",
-        "Tuchalov"
+        "Sam Patterson",
+        "Lando",
+        "Good Saturday",
+        "Tyrell Fortune",
+        "Dustin Jacoby",
+        "Spencer Jones"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 15:57:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 16:48:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "Lando",
         "FULL TIME",
-        "#UFCAbuDhabi",
         "Lewis",
+        "Lando",
+        "#UFCAbuDhabi",
         "Madrid",
         "#HungarianGP",
-        "Kalpana",
-        "HALF TIME",
         "Piastri",
-        "Trialist"
+        "Antifa",
+        "Kalpana",
+        "HALF TIME"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
         "#HungarianGP",
         "#cafc",
-        "#CWGNetball",
-        "#HungaryGP"
+        "#PeachAndMeSeriesEP3",
+        "#readingfc"
       ],
       "regular_topics": [
         "Vini",
-        "Lando",
         "FULL TIME",
         "Lewis",
+        "Lando",
         "Madrid",
+        "Piastri",
+        "Antifa",
         "Kalpana",
         "HALF TIME",
-        "Piastri",
         "Trialist",
-        "Duran",
         "Valter Walker"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,116 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 15:48:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 16:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "LeBron",
         "#UFCAbuDhabi",
-        "Arsenal",
         "Sixers",
+        "Valter Walker",
+        "Philly",
         "76ers",
         "Embiid",
-        "Lando",
-        "Maxey",
+        "Arsenal",
         "Axel Sola",
-        "LINGLING X KUSTIE BRAND"
+        "Dustin Jacoby"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
-        "#betyaVIP",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "#Caturday",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6"
+        "#FursuitFriday",
+        "#SmackDown"
       ],
       "regular_topics": [
         "Vini",
         "LeBron",
-        "Arsenal",
         "Sixers",
+        "Valter Walker",
+        "Philly",
         "76ers",
         "Embiid",
-        "Lando",
-        "Maxey",
+        "Arsenal",
         "Axel Sola",
-        "LINGLING X KUSTIE BRAND",
-        "Dustin Jacoby"
+        "Dustin Jacoby",
+        "Lando"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 15:45:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 17:30:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "Sant Rampal Ji Maharaj",
-        "#DharmendraPradhan",
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
         "Pralhad Joshi",
+        "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
+        "#DharmendraPradhan",
+        "#Newtons3rdLaw",
+        "LOCKUPP FUMBLED AKANKSHA",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "\u092a\u094d\u0930\u0939\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
-        "#BrandsCareMedia",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
-        "Vini"
+        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924"
       ],
       "hashtags": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "#DharmendraPradhan",
         "#\u091c\u0902\u0924\u0930_\u092e\u0902\u0924\u0930_\u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917_\u0928\u094d\u092f\u0942\u091c",
-        "#BrandsCareMedia"
+        "#DharmendraPradhan",
+        "#Newtons3rdLaw",
+        "#PeachAndMeSeriesEP3"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "Pralhad Joshi",
+        "\u092a\u094d\u0930\u0939\u094d\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
+        "LOCKUPP FUMBLED AKANKSHA",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "\u092a\u094d\u0930\u0939\u0932\u093e\u0926 \u091c\u094b\u0936\u0940",
-        "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940",
         "\u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f",
-        "Vini",
-        "\u091c\u0940\u0935 \u0926\u092f\u093e",
-        "\u091c\u093f\u0932\u093e \u0930\u094b\u092a\u0921\u093c",
-        "\u0917\u094b\u092a\u093e\u0932 \u0936\u094d\u0930\u0940 \u0915\u0943\u0937\u094d\u0923",
-        "10 HP"
+        "\u0938\u0924\u094d\u092f\u092e \u092a\u0902\u0921\u093f\u0924",
+        "THE SHOW NEEDED YOGESH",
+        "AKKUSENA KE L PE MAKERS",
+        "Education Minister",
+        "\u0935\u093f\u091c\u092f \u092e\u093e\u0930\u094d\u091a"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 15:45:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 17:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "Diomande",
-        "Pickford",
-        "Ozil",
-        "#ProbeNuprc2025Licensing",
+        "Palhinha",
+        "Amorim",
         "Soso",
-        "Martinelli",
-        "Arteta",
-        "Alvarez",
-        "Berta",
-        "Gabriel Jesus"
+        "Ozil",
+        "Bayern",
+        "Mourinho",
+        "Pickford",
+        "Lobistar",
+        "AC Milan",
+        "Juventus"
       ],
       "hashtags": [
+        "#WAFCON2026",
         "#ProbeNuprc2025Licensing",
-        "#RMFC",
         "#HungarianGP",
-        "#zuko",
-        "#GbajaIsInnocent"
+        "#RMFC",
+        "#ya\u011fmur"
       ],
       "regular_topics": [
         "Vini",
-        "Diomande",
-        "Pickford",
-        "Ozil",
+        "Palhinha",
+        "Amorim",
         "Soso",
-        "Martinelli",
-        "Arteta",
-        "Alvarez",
-        "Berta",
-        "Gabriel Jesus",
-        "Mourinho"
+        "Ozil",
+        "Bayern",
+        "Mourinho",
+        "Pickford",
+        "Lobistar",
+        "AC Milan",
+        "Juventus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
