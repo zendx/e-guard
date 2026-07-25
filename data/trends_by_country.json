@@ -1,80 +1,86 @@
 {
-  "generated_at_utc": "2026-07-25T09:15:05.638167+00:00",
+  "generated_at_utc": "2026-07-25T10:48:53.868104+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Jul 25 2026 08:40:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 10:24:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Saturday",
         "#KARINAxWATERBOMB2026",
-        "Trump 2028",
-        "#Densetsu1stLive",
-        "#FFXIVFanFest",
-        "#LinglingKwongXKustieBrand",
         "#FFFPartyConcert2026D1",
         "EMBPFK CLOSE FRIENDS PARTY",
+        "#FFXIV",
+        "Trump 2028",
+        "Evercold",
+        "#HyperLuckyMove1",
+        "#JacksonWang",
         "APASRA THE LUNA LIGHT",
-        "WHCD",
-        "LINGORM ILF EP6",
-        "White House Correspondents"
+        "LINGORM ILF EP6"
       ],
       "hashtags": [
         "#KARINAxWATERBOMB2026",
-        "#Densetsu1stLive",
-        "#FFXIVFanFest",
+        "#FFFPartyConcert2026D1",
+        "#FFXIV",
+        "#HyperLuckyMove1",
+        "#JacksonWang",
         "#LinglingKwongXKustieBrand",
-        "#FFFPartyConcert2026D1"
+        "#Densetsu1stLive",
+        "#YOKO25thBDfanmeet",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
+        "#MARVELT\u014dkon",
+        "#loveafterlockup"
       ],
       "regular_topics": [
-        "Trump 2028",
+        "Good Saturday",
         "EMBPFK CLOSE FRIENDS PARTY",
+        "Trump 2028",
+        "Evercold",
         "APASRA THE LUNA LIGHT",
-        "WHCD",
         "LINGORM ILF EP6",
+        "WHCD",
         "White House Correspondents",
         "Kaitlan Collins",
         "Starship",
-        "Jazan",
-        "Azzi",
-        "Rafael Devers"
+        "Avatar Aang"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Jul 25 2026 09:06:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 09:57:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Broadmoor",
         "Manchester",
-        "No 10 North",
+        "North",
         "Elon",
         "#Caturday",
-        "MATCH DAY",
-        "#ASongOrMovieForCulinarySkills",
-        "David Brent",
         "LeBron",
-        "#PostboxSaturday",
-        "Julia"
+        "David Brent",
+        "#ASongOrMovieForCulinarySkills",
+        "Julia",
+        "MATCH DAY",
+        "Gyokeres"
       ],
       "hashtags": [
         "#Caturday",
         "#ASongOrMovieForCulinarySkills",
         "#PostboxSaturday",
-        "#Idyllic",
-        "#Totp"
+        "#Totp",
+        "#HWCafe"
       ],
       "regular_topics": [
         "Broadmoor",
         "Manchester",
-        "No 10 North",
+        "North",
         "Elon",
-        "MATCH DAY",
-        "David Brent",
         "LeBron",
+        "David Brent",
         "Julia",
+        "MATCH DAY",
+        "Gyokeres",
         "Fury",
-        "76ers",
         "Philly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,10 +88,9 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Jul 25 2026 08:57:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 09:48:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "LeBron",
-        "76ers",
         "Sixers",
         "Embiid",
         "Maxey",
@@ -94,7 +99,8 @@
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
         "LINGORM ILF EP6",
         "Coyne",
-        "Billy Bishop"
+        "Billy Bishop",
+        "#SmackDown"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP6",
@@ -104,7 +110,6 @@
       ],
       "regular_topics": [
         "LeBron",
-        "76ers",
         "Sixers",
         "Embiid",
         "Maxey",
@@ -113,81 +118,85 @@
         "LINGORM ILF EP6",
         "Coyne",
         "Billy Bishop",
-        "Apple TV"
+        "Shabbat Shalom",
+        "Lakers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Jul 25 2026 08:54:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 09:46:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#100DaysOfCMSamrat",
-        "#PragyaBhumiBihar",
-        "#BuildYourMasterpiece",
-        "#GalaxyZFold8",
+        "#DharmendraPradhan",
         "#NEETExamProtest",
-        "HealthReturns",
-        "Photography",
-        "Filmmaking",
-        "R-City Mall",
+        "#BuildYourMasterpiece",
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "#100DaysOfCMSamrat",
+        "#GalaxyZFold8",
         "LEGO",
-        "Design"
+        "R-City Mall",
+        "Nitin Gadkari",
+        "\u091b\u093e\u0924\u094d\u0930 \u090f\u0915\u0924\u093e",
+        "HealthReturns"
       ],
       "hashtags": [
-        "#100DaysOfCMSamrat",
-        "#PragyaBhumiBihar",
+        "#DharmendraPradhan",
+        "#NEETExamProtest",
         "#BuildYourMasterpiece",
+        "#100DaysOfCMSamrat",
         "#GalaxyZFold8",
-        "#NEETExamProtest"
+        "#EducationMinister",
+        "#PragyaBhumiBihar"
       ],
       "regular_topics": [
+        "\u0927\u0930\u094d\u092e\u0947\u0902\u0926\u094d\u0930 \u092a\u094d\u0930\u0927\u093e\u0928",
+        "LEGO",
+        "R-City Mall",
+        "Nitin Gadkari",
+        "\u091b\u093e\u0924\u094d\u0930 \u090f\u0915\u0924\u093e",
         "HealthReturns",
+        "\u091b\u093e\u0924\u094d\u0930 \u0936\u0915\u094d\u0924\u093f",
+        "WE WON",
         "Photography",
         "Filmmaking",
-        "R-City Mall",
-        "LEGO",
-        "Design",
-        "Samrat Sarkar",
-        "Ghatkopar",
-        "Swine",
-        "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
-        "\u0924\u0947\u091c \u092a\u094d\u0930\u0924\u093e\u092a \u092f\u093e\u0926\u0935"
+        "DEMOCRACY WINS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Jul 25 2026 08:54:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Jul 25 2026 10:36:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RosyMeurer",
-        "Kang-in Lee",
         "Teni Wellness Package",
-        "Today is Saturday",
+        "Real Madrid",
+        "#GbajaIsInnocent",
+        "#RosyMeurer",
         "Yan Diomande",
+        "Kang-in Lee",
+        "Gyokeres",
         "Touching",
-        "Another Saturday",
-        "Lukaku",
-        "Dynamic Reward Rate",
-        "PAXG",
-        "Personalized"
+        "Abdukodir Khusanov",
+        "Today is Saturday",
+        "Havertz"
       ],
       "hashtags": [
+        "#GbajaIsInnocent",
         "#RosyMeurer"
       ],
       "regular_topics": [
-        "Kang-in Lee",
         "Teni Wellness Package",
-        "Today is Saturday",
+        "Real Madrid",
         "Yan Diomande",
+        "Kang-in Lee",
+        "Gyokeres",
         "Touching",
-        "Another Saturday",
-        "Lukaku",
-        "Dynamic Reward Rate",
-        "PAXG",
-        "Personalized",
-        "Mourinho"
+        "Abdukodir Khusanov",
+        "Today is Saturday",
+        "Havertz",
+        "David Nweze Umahi",
+        "Alvarez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
