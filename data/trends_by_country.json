@@ -1,158 +1,158 @@
 {
-  "generated_at_utc": "2026-07-26T20:01:41.997804+00:00",
+  "generated_at_utc": "2026-07-26T21:15:09.620921+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 19:01:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 20:51:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Taillon",
         "#BBNaija",
-        "#WonyoungMLBFirstPitch",
-        "Tony Allen",
+        "Taillon",
+        "Heim",
         "#Brickyard400",
-        "Shawn Ross",
+        "#NASCAR",
+        "Hocevar",
+        "Kyle Kuzma",
+        "Larson",
+        "Tony Allen",
         "Jacob Misiorowski",
-        "Jamo",
-        "#BlueWaveIn100Days",
-        "Jacoby Brissett",
-        "Assad"
+        "Tyrone Taylor"
       ],
       "hashtags": [
         "#BBNaija",
-        "#WonyoungMLBFirstPitch",
         "#Brickyard400",
-        "#BlueWaveIn100Days",
-        "#NASCAR"
+        "#NASCAR",
+        "#RaiseIt",
+        "#BlueWaveIn100Days"
       ],
       "regular_topics": [
         "Taillon",
+        "Heim",
+        "Hocevar",
+        "Kyle Kuzma",
+        "Larson",
         "Tony Allen",
-        "Shawn Ross",
         "Jacob Misiorowski",
-        "Jamo",
-        "Jacoby Brissett",
-        "Assad",
-        "Mario Hezonja",
-        "Framber Valdez",
-        "Fauci",
-        "Ashcraft"
+        "Tyrone Taylor",
+        "Todd Gilliland",
+        "Klein",
+        "Castle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 19:28:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 20:20:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Luke Littler",
         "#BBNaija",
-        "Steve McManaman",
         "Michael Owen",
+        "#WorldMatchplay",
+        "Steve McManaman",
         "Sheba",
-        "Flora",
         "Jonathan Woodgate",
+        "Flora",
         "Laurie Cunningham",
-        "#wildflowerhour",
-        "#ycfc",
-        "Ebuka",
-        "#sts70s"
+        "Neche",
+        "Ndiaye"
       ],
       "hashtags": [
         "#BBNaija",
-        "#wildflowerhour",
-        "#ycfc",
+        "#WorldMatchplay",
         "#sts70s",
+        "#wildflowerhour",
         "#basescoveredlive"
       ],
       "regular_topics": [
-        "Steve McManaman",
+        "Luke Littler",
         "Michael Owen",
+        "Steve McManaman",
         "Sheba",
-        "Flora",
         "Jonathan Woodgate",
+        "Flora",
         "Laurie Cunningham",
-        "Ebuka",
-        "Biggie",
-        "Littler",
-        "Twosync",
-        "Maynard"
+        "Neche",
+        "Ndiaye",
+        "Price",
+        "Phil Taylor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 19:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 20:12:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
+        "Sheba",
         "Marchenko",
         "Ghost Rider",
+        "Brendon Little",
         "Dylan Cease",
         "Vini",
-        "Shawn Levy",
-        "Flora",
-        "Temi",
-        "Black Panther",
-        "#HungarianGP",
-        "David Jonsson"
+        "Neche",
+        "Ryan Gosling",
+        "Araga",
+        "Shawn Levy"
       ],
       "hashtags": [
         "#BBNaija",
         "#HungarianGP",
         "#Caturday",
-        "#UFCAbuDhabi",
-        "#SDCC"
+        "#gamblorballing",
+        "#betya"
       ],
       "regular_topics": [
+        "Sheba",
         "Marchenko",
         "Ghost Rider",
+        "Brendon Little",
         "Dylan Cease",
         "Vini",
+        "Neche",
+        "Ryan Gosling",
+        "Araga",
         "Shawn Levy",
-        "Flora",
-        "Temi",
-        "Black Panther",
-        "David Jonsson",
-        "Lando",
-        "Tram"
+        "Flora"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 19:18:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 20:09:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mirabai Chanu",
-        "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
         "#ReservationFreeIndia",
+        "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
         "#CWG2026",
         "Nandan Nilekani",
         "Commonwealth Games",
-        "#BharatKeDost",
-        "CHU HOGI TU REBEL",
         "AKANKSHA DESERVES BETTER",
         "SHREYA THE GAME CHANGER",
+        "CHU HOGI TU REBEL",
+        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938",
         "HARSHAD ERA RELOADED"
       ],
       "hashtags": [
         "#ReservationFreeIndia",
         "#CWG2026",
         "#BharatKeDost",
-        "#JyotirmayeeNayak",
-        "#Weightlifting"
+        "#BoycottHYBE_ZeroCredibility",
+        "#Hold_HYBE_Accountable_Q2"
       ],
       "regular_topics": [
         "Mirabai Chanu",
         "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
         "Nandan Nilekani",
         "Commonwealth Games",
-        "CHU HOGI TU REBEL",
         "AKANKSHA DESERVES BETTER",
         "SHREYA THE GAME CHANGER",
+        "CHU HOGI TU REBEL",
+        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938",
         "HARSHAD ERA RELOADED",
         "AKKU EARNED FANMILY",
-        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938",
         "YOG ACE RAWAT IS BACK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 19:15:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 20:06:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
+        "Sheba",
         "Flora",
+        "Yusuf",
         "Martins",
+        "Ebuka",
         "Tram",
         "Oyin",
-        "Sultex",
-        "Ebuka",
-        "Chisom",
-        "Kamsy",
-        "Biggie",
-        "Gerard"
+        "Barry",
+        "Ricky",
+        "Biggie"
       ],
       "hashtags": [
         "#BBNaija",
         "#BBNS11",
-        "#iLOTHouseEvent",
-        "#TotalEnergiesWAFCON2026",
-        "#efootball"
+        "#JulyHSLHSGrandFinale",
+        "#bbnajia"
       ],
       "regular_topics": [
+        "Sheba",
         "Flora",
+        "Yusuf",
         "Martins",
+        "Ebuka",
         "Tram",
         "Oyin",
-        "Sultex",
-        "Ebuka",
-        "Chisom",
-        "Kamsy",
+        "Barry",
+        "Ricky",
         "Biggie",
-        "Gerard",
-        "Keivo"
+        "Sultex"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
