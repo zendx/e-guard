@@ -1,97 +1,98 @@
 {
-  "generated_at_utc": "2026-07-26T11:11:18.085100+00:00",
+  "generated_at_utc": "2026-07-26T12:33:57.463222+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 10:27:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 12:09:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
+        "#SundayVibes",
+        "Mead",
+        "Blessed Sunday",
+        "#FFFPartyConcert2026D2",
+        "#SundayFunday",
+        "Lyss",
+        "EMBPFK FEEL THE FUN TOGETHER",
         "Spence",
         "Black Panther",
-        "Mead",
-        "Ghost Rider",
-        "T'Challa",
-        "#FFFPartyConcert2026D2",
-        "Shuri",
-        "Damson",
-        "Chadwick",
-        "David Jonsson"
+        "Shuri"
       ],
       "hashtags": [
+        "#SundayVibes",
         "#FFFPartyConcert2026D2",
-        "#Boxing",
-        "#PeachAndMeSeriesEP3",
-        "#ShikiKatagami3D",
-        "#Marvel"
+        "#SundayFunday",
+        "#SeductiveSunday",
+        "#HyperLuckyMove1"
       ],
       "regular_topics": [
         "Good Sunday",
+        "Mead",
+        "Blessed Sunday",
+        "Lyss",
+        "EMBPFK FEEL THE FUN TOGETHER",
         "Spence",
         "Black Panther",
-        "Mead",
-        "Ghost Rider",
-        "T'Challa",
         "Shuri",
-        "Damson",
         "Chadwick",
-        "David Jonsson",
-        "Shawn Levy"
+        "T'Challa",
+        "Senator Lee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 10:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 11:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Peter",
         "Islamist",
-        "Abdul B",
-        "Pride",
-        "Malaysia",
+        "Peter",
         "#CWGNetball",
-        "#ASongOrMovieForAboutTrees",
-        "Damson",
-        "David Jonsson",
-        "#SundayYellow",
+        "Malaysia",
+        "Pride",
+        "Sepang",
+        "Abdul",
+        "Bradley Barcola",
+        "Bahrain Grand Prix",
+        "#SundayBrunch",
         "Black Panther"
       ],
       "hashtags": [
         "#CWGNetball",
-        "#ASongOrMovieForAboutTrees",
+        "#SundayBrunch",
+        "#BTCC",
         "#SundayYellow",
+        "#ASongOrMovieForAboutTrees",
         "#trevorphillips",
         "#bbclaurak",
-        "#BTCC",
         "#cafc"
       ],
       "regular_topics": [
-        "Peter",
         "Islamist",
-        "Abdul B",
-        "Pride",
+        "Peter",
         "Malaysia",
-        "Damson",
-        "David Jonsson",
-        "Black Panther",
-        "Queers for Palestine",
+        "Pride",
         "Sepang",
-        "Ghost Rider"
+        "Abdul",
+        "Bradley Barcola",
+        "Bahrain Grand Prix",
+        "Black Panther",
+        "David Jonsson",
+        "Damson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 10:43:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 11:36:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dylan Cease",
         "Ghost Rider",
         "Marchenko",
         "Shawn Levy",
-        "#UFCAbuDhabi",
         "Vini",
+        "#UFCAbuDhabi",
         "LeBron",
         "#SDCC",
         "David Jonsson",
@@ -102,8 +103,8 @@
         "#UFCAbuDhabi",
         "#SDCC",
         "#Caturday",
-        "#SpenceTszyu",
-        "#PeachAndMeSeriesEP3"
+        "#PeachAndMeSeriesEP3",
+        "#JoshuaPrenga"
       ],
       "regular_topics": [
         "Dylan Cease",
@@ -123,58 +124,58 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 10:40:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 11:32:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MangrovesMatter",
-        "#KargilVijayDiwas",
+        "#GalaxyZFold8",
         "NO DHEERAJ NO LOCKUPP",
+        "#KargilVijayDiwas",
         "#MannKiBaat",
         "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
-        "#PakistanKiShikast",
-        "#TheIndiaStoryAlert",
-        "Happy Birthday Shweta Ji",
+        "#Youth4ViksitBharat",
+        "Rishikanta Singh",
         "Photography",
         "Design",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e"
+        "Abhishek Sharma"
       ],
       "hashtags": [
         "#MangrovesMatter",
+        "#GalaxyZFold8",
         "#KargilVijayDiwas",
         "#MannKiBaat",
-        "#PakistanKiShikast",
-        "#TheIndiaStoryAlert"
+        "#Youth4ViksitBharat"
       ],
       "regular_topics": [
         "NO DHEERAJ NO LOCKUPP",
         "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
-        "Happy Birthday Shweta Ji",
+        "Rishikanta Singh",
         "Photography",
         "Design",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "Reservation Hatao Andolan",
+        "Abhishek Sharma",
         "Filmmaking",
-        "Jai Hind",
-        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
-        "Anahat Singh"
+        "Reservation Hatao Andolan",
+        "ALLIANCE ACE KUSHAL",
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "Muzarabani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 10:40:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 11:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Blessed Sunday",
+        "Bradley Barcola",
+        "Liverpool",
         "Church",
+        "Blessed Sunday",
         "Gehgeh",
-        "Damson",
         "BitMart",
         "Nasboi",
+        "Damson",
         "Black Panther",
         "Anthony Joshua",
-        "David Jonsson",
-        "Today is Sunday",
-        "Axel Donczew"
+        "David Jonsson"
       ],
       "hashtags": [
         "#BBNaija",
@@ -182,17 +183,17 @@
         "#SundayService"
       ],
       "regular_topics": [
-        "Blessed Sunday",
+        "Bradley Barcola",
+        "Liverpool",
         "Church",
+        "Blessed Sunday",
         "Gehgeh",
-        "Damson",
         "BitMart",
         "Nasboi",
+        "Damson",
         "Black Panther",
         "Anthony Joshua",
-        "David Jonsson",
-        "Today is Sunday",
-        "Axel Donczew"
+        "David Jonsson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
