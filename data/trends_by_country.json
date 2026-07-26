@@ -1,127 +1,127 @@
 {
-  "generated_at_utc": "2026-07-26T22:25:46.267487+00:00",
+  "generated_at_utc": "2026-07-26T23:25:29.278984+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 21:42:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 22:33:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Corey Heim",
-        "#Brickyard400",
+        "Jackson Koivun",
         "#NASCAR",
+        "#Brickyard400",
+        "#AEWRedemption",
         "#BBNaija",
         "Hocevar",
-        "Taillon",
-        "Kyle Kuzma",
-        "Logano",
-        "Svanson",
+        "Bleek",
         "Todd Gilliland",
-        "Cole Winn"
+        "#JohnClearMyList",
+        "Kyle Kuzma"
       ],
       "hashtags": [
-        "#Brickyard400",
         "#NASCAR",
+        "#Brickyard400",
+        "#AEWRedemption",
         "#BBNaija",
-        "#RaiseIt",
-        "#BlueWaveIn100Days"
+        "#JohnClearMyList"
       ],
       "regular_topics": [
         "Corey Heim",
+        "Jackson Koivun",
         "Hocevar",
-        "Taillon",
-        "Kyle Kuzma",
-        "Logano",
-        "Svanson",
+        "Bleek",
         "Todd Gilliland",
-        "Cole Winn",
-        "Blaney",
-        "Tony Allen",
-        "Jacob Misiorowski"
+        "Kyle Kuzma",
+        "Svanson",
+        "Indy",
+        "Logano",
+        "War Eagle",
+        "Taillon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 22:08:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 23:00:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mica",
-        "Lorenzo",
         "#BBNaija",
+        "Lorenzo",
+        "Fabrizio",
         "Tommy",
-        "#loveislandaftersun",
         "Lola",
-        "Mara",
+        "#loveislandaftersun",
         "Luke Littler",
+        "Mara",
         "Martha",
-        "Angie",
         "Steve McManaman"
       ],
       "hashtags": [
         "#BBNaija",
         "#loveislandaftersun",
-        "#worldmatchplay",
-        "#TheRapture",
-        "#sts70s"
+        "#AEWRedemption",
+        "#WorldMatchplay",
+        "#TheRapture"
       ],
       "regular_topics": [
         "Mica",
         "Lorenzo",
+        "Fabrizio",
         "Tommy",
         "Lola",
-        "Mara",
         "Luke Littler",
+        "Mara",
         "Martha",
-        "Angie",
         "Steve McManaman",
         "Michael Owen",
-        "Fabrizio"
+        "Angie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 22:01:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 22:54:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
         "Marchenko",
+        "#AEWRedemption",
         "Ghost Rider",
-        "Sheba",
         "Vini",
-        "Temi",
+        "Sheba",
         "Dylan Cease",
         "Ryan Gosling",
         "Shawn Levy",
-        "Ebuka",
-        "Corey Heim"
+        "Corey Heim",
+        "Aikou"
       ],
       "hashtags": [
         "#BBNaija",
+        "#AEWRedemption",
         "#HungarianGP",
         "#gamblorballing",
-        "#betya",
-        "#UFCAbuDhabi"
+        "#betya"
       ],
       "regular_topics": [
         "Marchenko",
         "Ghost Rider",
-        "Sheba",
         "Vini",
-        "Temi",
+        "Sheba",
         "Dylan Cease",
         "Ryan Gosling",
         "Shawn Levy",
-        "Ebuka",
         "Corey Heim",
-        "Chimsom"
+        "Aikou",
+        "Fabrizio",
+        "Neche"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 22:00:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 22:52:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ReservationFreeIndia",
         "Mirabai Chanu",
@@ -129,32 +129,32 @@
         "#CWG2026",
         "Raja Muthupandi",
         "Triple Launch Fortune Wild",
+        "Fabrizio",
         "Commonwealth Games",
         "Sumama Rehman",
         "Nandan Nilekani",
-        "#BharatKeDost",
-        "SHREYA THE GAME CHANGER"
+        "HARSHAD ERA RELOADED"
       ],
       "hashtags": [
         "#ReservationFreeIndia",
         "#CWG2026",
-        "#BharatKeDost",
-        "#BoycottHYBE_ZeroCredibility",
-        "#Hold_HYBE_Accountable_Q2",
         "#Weightlifting",
-        "#JyotirmayeeNayak"
+        "#JyotirmayeeNayak",
+        "#Glasgow2026",
+        "#NitinGadkari",
+        "#Cheer4Bharat"
       ],
       "regular_topics": [
         "Mirabai Chanu",
         "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
         "Raja Muthupandi",
         "Triple Launch Fortune Wild",
+        "Fabrizio",
         "Commonwealth Games",
         "Sumama Rehman",
         "Nandan Nilekani",
-        "SHREYA THE GAME CHANGER",
         "HARSHAD ERA RELOADED",
-        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938",
+        "Diomande",
         "Gold"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -162,19 +162,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 21:57:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 22:51:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
-        "Sheba",
         "#BBNS11",
-        "Temi",
-        "Flora",
+        "Sheba",
         "Fabrizio",
+        "Aikou",
+        "Flora",
+        "Temi",
+        "Ricky",
         "Oyin",
-        "Yusuf",
-        "Tram",
-        "Biggie",
-        "Martins"
+        "Chimsom",
+        "Yusuf"
       ],
       "hashtags": [
         "#BBNaija",
@@ -184,16 +184,16 @@
       ],
       "regular_topics": [
         "Sheba",
-        "Temi",
-        "Flora",
         "Fabrizio",
+        "Aikou",
+        "Flora",
+        "Temi",
+        "Ricky",
         "Oyin",
+        "Chimsom",
         "Yusuf",
-        "Tram",
         "Biggie",
-        "Martins",
-        "Barry",
-        "Bluethopia"
+        "Barry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
