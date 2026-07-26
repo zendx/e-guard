@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-07-26T16:42:06.075065+00:00",
+  "generated_at_utc": "2026-07-26T17:50:26.776166+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 15:36:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 17:18:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WonyoungMLBFirstPitch",
+        "Tony Allen",
         "Lando",
         "Good Sunday",
-        "carlos sainz",
-        "Oscar",
-        "#HungarianGP",
-        "McLaren",
-        "Lewis",
-        "Mead",
+        "#BlueWaveIn100Days",
         "#SeductiveSunday",
-        "Mike Lee",
-        "#SundayVibes"
+        "Oscar",
+        "Deja Kelly",
+        "#GalaxyZFlip8",
+        "Sainz",
+        "Sunday Funday"
       ],
       "hashtags": [
-        "#HungarianGP",
+        "#WonyoungMLBFirstPitch",
+        "#BlueWaveIn100Days",
         "#SeductiveSunday",
-        "#SundayVibes",
-        "#TheTrumpetSounding",
-        "#GalaxyZFlip8"
+        "#GalaxyZFlip8",
+        "#SundayVibes"
       ],
       "regular_topics": [
+        "Tony Allen",
         "Lando",
         "Good Sunday",
-        "carlos sainz",
         "Oscar",
-        "McLaren",
-        "Lewis",
-        "Mead",
-        "Mike Lee",
+        "Deja Kelly",
+        "Sainz",
         "Sunday Funday",
-        "Ferrari",
-        "Deja Kelly"
+        "Mike Lee",
+        "Fauci",
+        "Mead",
+        "Black Panther"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 16:00:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 16:52:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lewis",
         "Lando",
-        "#HungarianGP",
         "Oscar",
-        "Sainz",
+        "#AllIrelandFinal",
         "Ferrari",
-        "McLaren",
+        "Sainz",
         "#ycfc",
-        "Barcola",
-        "Leclerc",
-        "Kimi"
+        "#HungarianGP",
+        "McLaren",
+        "Maynard",
+        "Kerry"
       ],
       "hashtags": [
-        "#HungarianGP",
+        "#AllIrelandFinal",
         "#ycfc",
+        "#HungarianGP",
         "#DownsizedMoviesAndShows",
-        "#SkyF1",
-        "#AllIrelandFinal"
+        "#SkyF1"
       ],
       "regular_topics": [
         "Lewis",
         "Lando",
         "Oscar",
-        "Sainz",
         "Ferrari",
+        "Sainz",
         "McLaren",
+        "Maynard",
+        "Kerry",
         "Barcola",
-        "Leclerc",
         "Kimi",
-        "Verstappen",
-        "Beau Greaves"
+        "Leclerc"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 15:52:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 17:36:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Marchenko",
-        "Dylan Cease",
         "Ghost Rider",
-        "Lando",
-        "#gamblorballing",
-        "#betya",
-        "McLaren",
+        "Dylan Cease",
+        "Shawn Levy",
+        "Vini",
+        "Sainz",
         "#HungarianGP",
-        "carlos sainz",
-        "Lewis",
-        "Vini"
+        "Lando",
+        "Black Panther",
+        "#UFCAbuDhabi",
+        "David Jonsson"
       ],
       "hashtags": [
-        "#gamblorballing",
-        "#betya",
         "#HungarianGP",
         "#UFCAbuDhabi",
-        "#SDCC"
+        "#Caturday",
+        "#gamblorballing",
+        "#betya"
       ],
       "regular_topics": [
         "Marchenko",
-        "Dylan Cease",
         "Ghost Rider",
-        "Lando",
-        "McLaren",
-        "carlos sainz",
-        "Lewis",
-        "Vini",
+        "Dylan Cease",
         "Shawn Levy",
-        "Oscar",
-        "Verstappen"
+        "Vini",
+        "Sainz",
+        "Lando",
+        "Black Panther",
+        "David Jonsson",
+        "Jewish-owned",
+        "Coyne"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 15:51:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 16:42:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BharatKeDost",
         "Mirabai Chanu",
-        "Nandan Nilekani",
-        "Defence Cooperation",
+        "#BharatKeDost",
         "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
-        "Retd Col Tejendra Pal Tyagi",
-        "#\u092a\u094b\u0930\u094d\u0928_Star_Poonawalla",
-        "#Youth4ViksitBharat",
-        "High Powered Task Force",
+        "Nandan Nilekani",
         "#CWG2026",
-        "Commonwealth Games"
+        "AKKU EARNED FANMILY",
+        "Commonwealth Games",
+        "Defence Cooperation",
+        "#Weightlifting",
+        "High Powered Task Force",
+        "#GodNightSunday"
       ],
       "hashtags": [
         "#BharatKeDost",
-        "#\u092a\u094b\u0930\u094d\u0928_Star_Poonawalla",
-        "#Youth4ViksitBharat",
         "#CWG2026",
-        "#Weightlifting"
+        "#Weightlifting",
+        "#GodNightSunday",
+        "#\u092a\u094b\u0930\u094d\u0928_Star_Poonawalla"
       ],
       "regular_topics": [
         "Mirabai Chanu",
-        "Nandan Nilekani",
-        "Defence Cooperation",
         "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942",
-        "Retd Col Tejendra Pal Tyagi",
-        "High Powered Task Force",
+        "Nandan Nilekani",
+        "AKKU EARNED FANMILY",
         "Commonwealth Games",
-        "\u0928\u0902\u0926\u0928 \u0928\u0940\u0932\u0947\u0915\u0923\u093f",
-        "Vaibhav Sooryavanshi",
-        "\u0939\u093e\u0908 \u092a\u093e\u0935\u0930",
-        "Sainz"
+        "Defence Cooperation",
+        "High Powered Task Force",
+        "YOG ACE RAWAT IS BACK",
+        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938",
+        "SHREYA THE GAME CHANGER",
+        "\u0928\u0902\u0926\u0928 \u0928\u0940\u0932\u0947\u0915\u0923\u093f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 15:48:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 17:32:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Barcola",
         "#BBNaija",
+        "Barcola",
         "Aguero",
-        "#DrIbraheemAdekunle",
-        "#efootball",
-        "Hamilton",
         "Girona",
+        "Tomorrow is Monday",
+        "Schalke",
+        "#DrIbraheemAdekunle",
+        "Ebuka",
         "Ibrahim Mbaye",
-        "Yan Diomande",
-        "Dovbyk",
-        "Verstappen"
+        "Big Brother Naija",
+        "Jamie Gittens"
       ],
       "hashtags": [
         "#BBNaija",
         "#DrIbraheemAdekunle",
         "#efootball",
-        "#HungarianGP",
+        "#TotalEnergiesWAFCON2026",
         "#ilotbethouse"
       ],
       "regular_topics": [
         "Barcola",
         "Aguero",
-        "Hamilton",
         "Girona",
+        "Tomorrow is Monday",
+        "Schalke",
+        "Ebuka",
         "Ibrahim Mbaye",
-        "Yan Diomande",
-        "Dovbyk",
-        "Verstappen",
+        "Big Brother Naija",
+        "Jamie Gittens",
         "Rooney",
-        "Konami",
-        "Tomorrow is Monday"
+        "$GOLD"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
