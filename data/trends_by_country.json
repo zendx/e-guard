@@ -1,88 +1,90 @@
 {
-  "generated_at_utc": "2026-07-26T09:31:27.165655+00:00",
+  "generated_at_utc": "2026-07-26T11:11:18.085100+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 08:42:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 10:27:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Sunday",
         "Spence",
-        "Ghost Rider",
         "Black Panther",
         "Mead",
+        "Ghost Rider",
         "T'Challa",
-        "Shawn Levy",
-        "David Jonsson",
+        "#FFFPartyConcert2026D2",
         "Shuri",
         "Damson",
-        "Crawford",
-        "Chadwick"
+        "Chadwick",
+        "David Jonsson"
       ],
       "hashtags": [
-        "#Toonami",
-        "#TokyoRevengers",
-        "#MyAdventuresWithSuperman",
-        "#boxing",
-        "#ShikiKatagami3D"
+        "#FFFPartyConcert2026D2",
+        "#Boxing",
+        "#PeachAndMeSeriesEP3",
+        "#ShikiKatagami3D",
+        "#Marvel"
       ],
       "regular_topics": [
+        "Good Sunday",
         "Spence",
-        "Ghost Rider",
         "Black Panther",
         "Mead",
+        "Ghost Rider",
         "T'Challa",
-        "Shawn Levy",
-        "David Jonsson",
         "Shuri",
         "Damson",
-        "Crawford",
-        "Chadwick"
+        "Chadwick",
+        "David Jonsson",
+        "Shawn Levy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 09:08:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 10:52:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vini",
-        "Fury",
-        "#JoshuaPrenga",
-        "Broadmoor",
-        "Manchester",
-        "Abdul B",
-        "Islamist",
         "Peter",
-        "Gomez",
+        "Islamist",
+        "Abdul B",
+        "Pride",
+        "Malaysia",
+        "#CWGNetball",
+        "#ASongOrMovieForAboutTrees",
+        "Damson",
+        "David Jonsson",
         "#SundayYellow",
-        "Madrid"
+        "Black Panther"
       ],
       "hashtags": [
-        "#JoshuaPrenga",
-        "#SundayYellow",
+        "#CWGNetball",
         "#ASongOrMovieForAboutTrees",
-        "#UFCAbuDhabi",
-        "#trevorphillips"
+        "#SundayYellow",
+        "#trevorphillips",
+        "#bbclaurak",
+        "#BTCC",
+        "#cafc"
       ],
       "regular_topics": [
-        "Vini",
-        "Fury",
-        "Broadmoor",
-        "Manchester",
-        "Abdul B",
-        "Islamist",
         "Peter",
-        "Gomez",
-        "Madrid",
-        "Berlin Pride",
-        "Elon"
+        "Islamist",
+        "Abdul B",
+        "Pride",
+        "Malaysia",
+        "Damson",
+        "David Jonsson",
+        "Black Panther",
+        "Queers for Palestine",
+        "Sepang",
+        "Ghost Rider"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 09:00:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 10:43:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dylan Cease",
         "Ghost Rider",
@@ -90,18 +92,18 @@
         "Shawn Levy",
         "#UFCAbuDhabi",
         "Vini",
-        "#yegwx",
         "LeBron",
         "#SDCC",
-        "#abstorm",
-        "David Jonsson"
+        "David Jonsson",
+        "Sixers",
+        "Coyne"
       ],
       "hashtags": [
         "#UFCAbuDhabi",
-        "#yegwx",
         "#SDCC",
-        "#abstorm",
-        "#Caturday"
+        "#Caturday",
+        "#SpenceTszyu",
+        "#PeachAndMeSeriesEP3"
       ],
       "regular_topics": [
         "Dylan Cease",
@@ -111,9 +113,9 @@
         "Vini",
         "LeBron",
         "David Jonsson",
-        "Coyne",
-        "Spence",
         "Sixers",
+        "Coyne",
+        "Embiid",
         "Opus 5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,77 +123,74 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 08:57:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 10:40:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "NO DHEERAJ NO LOCKUPP",
-        "#PakistanKiShikast",
+        "#MangrovesMatter",
         "#KargilVijayDiwas",
-        "#TheIndiaStoryAlert",
-        "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
-        "Happy Birthday Shweta Ji",
+        "NO DHEERAJ NO LOCKUPP",
         "#MannKiBaat",
-        "#BLVermaTrainBudaunLKO",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "Jai Hind",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e"
+        "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
+        "#PakistanKiShikast",
+        "#TheIndiaStoryAlert",
+        "Happy Birthday Shweta Ji",
+        "Photography",
+        "Design",
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e"
       ],
       "hashtags": [
-        "#PakistanKiShikast",
+        "#MangrovesMatter",
         "#KargilVijayDiwas",
-        "#TheIndiaStoryAlert",
         "#MannKiBaat",
-        "#BLVermaTrainBudaunLKO",
-        "#IndianArmy",
-        "#\u092e\u0928_\u0915\u0940_\u092c\u093e\u0924",
-        "#OperationVijay",
-        "#SrinivasaMangapuram"
+        "#PakistanKiShikast",
+        "#TheIndiaStoryAlert"
       ],
       "regular_topics": [
         "NO DHEERAJ NO LOCKUPP",
         "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
         "Happy Birthday Shweta Ji",
+        "Photography",
+        "Design",
         "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "Reservation Hatao Andolan",
+        "Filmmaking",
         "Jai Hind",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e",
-        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0930\u0947\u0921\u093f\u092f\u094b \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "Ghost Rider",
-        "Catch the Rain",
-        "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092f\u094b\u091c\u0928\u093e"
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
+        "Anahat Singh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 08:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 10:40:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Blessed Sunday",
         "Church",
-        "Anthony Joshua",
-        "BitMart",
-        "Nasboi",
-        "David Jonsson",
         "Gehgeh",
         "Damson",
+        "BitMart",
+        "Nasboi",
         "Black Panther",
+        "Anthony Joshua",
+        "David Jonsson",
         "Today is Sunday",
         "Axel Donczew"
       ],
       "hashtags": [
         "#BBNaija",
-        "#teenager"
+        "#teenager",
+        "#SundayService"
       ],
       "regular_topics": [
         "Blessed Sunday",
         "Church",
-        "Anthony Joshua",
-        "BitMart",
-        "Nasboi",
-        "David Jonsson",
         "Gehgeh",
         "Damson",
+        "BitMart",
+        "Nasboi",
         "Black Panther",
+        "Anthony Joshua",
+        "David Jonsson",
         "Today is Sunday",
         "Axel Donczew"
       ],
