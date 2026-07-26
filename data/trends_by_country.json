@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-07-26T04:48:46.061746+00:00",
+  "generated_at_utc": "2026-07-26T07:28:44.790064+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Jul 26 2026 04:27:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 07:00:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Spence",
         "Mead",
         "Ghost Rider",
-        "Shawn Levy",
         "Black Panther",
-        "David Jonsson",
-        "Connelly",
         "T'Challa",
+        "David Jonsson",
+        "Shawn Levy",
+        "Crawford",
         "Damson",
-        "Spence",
-        "The Long Walk",
-        "Blade"
+        "Connelly",
+        "The Long Walk"
       ],
       "hashtags": [
-        "#SDCC",
-        "#PFLDC",
+        "#Toonami",
+        "#TokyoRevengers",
+        "#Boxing",
         "#MyAdventuresWithSuperman",
-        "#ShikiKatagami3D",
-        "#AAAVeranoDeEscandalo"
+        "#ShikiKatagami3D"
       ],
       "regular_topics": [
+        "Spence",
         "Mead",
         "Ghost Rider",
-        "Shawn Levy",
         "Black Panther",
-        "David Jonsson",
-        "Connelly",
         "T'Challa",
+        "David Jonsson",
+        "Shawn Levy",
+        "Crawford",
         "Damson",
-        "Spence",
-        "The Long Walk",
-        "Blade"
+        "Connelly",
+        "The Long Walk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Jul 26 2026 04:00:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 06:33:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "#JoshuaPrenga",
         "Fury",
-        "Shawn Levy",
+        "#SpenceTszyu",
         "Broadmoor",
-        "Ghost Rider",
-        "David Jonsson",
         "Manchester",
-        "Gomez",
         "Madrid",
-        "Black Panther"
+        "David Jonsson",
+        "Gomez",
+        "#UFCAbuDhabi",
+        "Daizen"
       ],
       "hashtags": [
         "#JoshuaPrenga",
-        "#SDCC",
+        "#SpenceTszyu",
         "#UFCAbuDhabi",
         "#HungarianGP",
-        "#lufc"
+        "#SDCC"
       ],
       "regular_topics": [
         "Vini",
         "Fury",
-        "Shawn Levy",
         "Broadmoor",
-        "Ghost Rider",
-        "David Jonsson",
         "Manchester",
-        "Gomez",
         "Madrid",
-        "Black Panther",
-        "North"
+        "David Jonsson",
+        "Gomez",
+        "Daizen",
+        "North",
+        "London",
+        "Elon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Jul 26 2026 04:42:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 06:25:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ryan Gosling",
         "Dylan Cease",
-        "Shawn Levy",
-        "#abstorm",
         "Marchenko",
+        "Ghost Rider",
+        "#SpenceTszyu",
         "#yegwx",
-        "David Jonsson",
-        "Mead",
-        "Vini",
+        "Shawn Levy",
         "#UFCAbuDhabi",
-        "Black Panther"
+        "#abstorm",
+        "Vini",
+        "Mead",
+        "LeBron"
       ],
       "hashtags": [
-        "#abstorm",
+        "#SpenceTszyu",
         "#yegwx",
         "#UFCAbuDhabi",
-        "#SDCC",
-        "#SpenceTszyu"
+        "#abstorm",
+        "#SDCC"
       ],
       "regular_topics": [
-        "Ryan Gosling",
         "Dylan Cease",
-        "Shawn Levy",
         "Marchenko",
-        "David Jonsson",
-        "Mead",
+        "Ghost Rider",
+        "Shawn Levy",
         "Vini",
-        "Black Panther",
+        "Mead",
         "LeBron",
-        "T'Challa",
-        "Blade"
+        "Black Panther",
+        "Sixers",
+        "David Jonsson",
+        "Coyne"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Jul 26 2026 03:48:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 07:15:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TheIndiaStoryAlert",
         "#KargilVijayDiwas",
+        "#PakistanKiShikast",
         "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
-        "#SwimmingChampionship",
-        "#ReleaseInnocent",
-        "Sant Samaj",
-        "#IndianArmy",
-        "#GodMorningSunday",
+        "#BLVermaTrainBudaunLKO",
+        "Shweta Ji",
+        "#MannKiBaat",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Sirsa"
+        "Sant Samaj",
+        "Ryan Gosling",
+        "\u0938\u0940\u0927\u0940 \u091f\u094d\u0930\u0947\u0928"
       ],
       "hashtags": [
+        "#TheIndiaStoryAlert",
         "#KargilVijayDiwas",
-        "#SwimmingChampionship",
-        "#ReleaseInnocent",
+        "#PakistanKiShikast",
+        "#BLVermaTrainBudaunLKO",
+        "#MannKiBaat",
         "#IndianArmy",
-        "#GodMorningSunday"
+        "#JaiHind",
+        "#Newtons3rdLaw"
       ],
       "regular_topics": [
         "\u0915\u093e\u0930\u0917\u093f\u0932 \u0935\u093f\u091c\u092f",
-        "Sant Samaj",
+        "Shweta Ji",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Sirsa",
+        "Sant Samaj",
         "Ryan Gosling",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0916\u0947\u0932 \u0917\u093e\u0901\u0935",
-        "MSG Bharatiya Khel Gaon",
+        "\u0938\u0940\u0927\u0940 \u091f\u094d\u0930\u0947\u0928",
         "\u0905\u092e\u0930 \u0935\u0940\u0930",
-        "Shawn Levy"
+        "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "\u0938\u0940\u0927\u0940 \u0930\u0947\u0932 \u0938\u0947\u0935\u093e",
+        "Budaun and Lucknow",
+        "\u0930\u0915\u094d\u0937\u093e \u0939\u0947\u0924\u0941"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Jul 26 2026 03:45:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Jul 26 2026 07:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
-        "Real Madrid",
         "Geh Geh",
+        "Blessed Sunday",
+        "Real Madrid",
+        "Amen",
         "Diomande",
-        "David Jonsson",
-        "Soso",
         "Anthony Joshua",
-        "Gyokeres",
-        "Ryan Gosling",
-        "Liverpool",
-        "Leipzig"
+        "Today is Sunday",
+        "David Jonsson",
+        "Church",
+        "BitMart"
       ],
       "hashtags": [
-        "#HennessyArtistry2026",
         "#probenuprc2025licensing",
-        "#buyingcontent",
-        "#rosymeurer",
-        "#nolimit"
+        "#HennessyArtistry2026"
       ],
       "regular_topics": [
         "Vini",
-        "Real Madrid",
         "Geh Geh",
+        "Blessed Sunday",
+        "Real Madrid",
+        "Amen",
         "Diomande",
-        "David Jonsson",
-        "Soso",
         "Anthony Joshua",
-        "Gyokeres",
-        "Ryan Gosling",
-        "Liverpool",
-        "Leipzig"
+        "Today is Sunday",
+        "David Jonsson",
+        "Church",
+        "BitMart"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
