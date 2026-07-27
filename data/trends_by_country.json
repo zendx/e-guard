@@ -1,199 +1,193 @@
 {
-  "generated_at_utc": "2026-07-27T21:33:10.738636+00:00",
+  "generated_at_utc": "2026-07-27T22:47:16.751885+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 27 2026 21:10:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 27 2026 22:01:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "T-Mobile",
         "Fauci",
         "X Money",
-        "T-Mobile",
         "Tractor Supply",
-        "Appleton",
+        "Lorenzo",
+        "#loveislanduk",
         "George Kirby",
-        "Cruz Montana",
-        "Menasha",
         "Cracker Barrel",
+        "Appleton",
         "Mike Santana",
-        "Bryan Kohberger"
+        "Cruz Montana"
       ],
       "hashtags": [
-        "#MCMFracasadaHastaElFinal"
+        "#loveislanduk",
+        "#jimromeonx"
       ],
       "regular_topics": [
+        "T-Mobile",
         "Fauci",
         "X Money",
-        "T-Mobile",
         "Tractor Supply",
-        "Appleton",
+        "Lorenzo",
         "George Kirby",
-        "Cruz Montana",
-        "Menasha",
         "Cracker Barrel",
+        "Appleton",
         "Mike Santana",
-        "Bryan Kohberger"
+        "Cruz Montana",
+        "Menasha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 27 2026 20:45:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 27 2026 22:27:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tommy",
-        "Henderson",
+        "#loveisland",
         "Lorenzo",
         "Simba",
-        "John Trafford",
+        "Jasmine",
+        "Henderson",
         "Polanski",
-        "John Stones",
-        "#universitychallenge",
         "Lucy Connolly",
-        "Hendo",
-        "Sean"
+        "Lola",
+        "Polish",
+        "John Trafford",
+        "#universitychallenge"
       ],
       "hashtags": [
+        "#loveisland",
         "#universitychallenge",
         "#onlyconnect",
-        "#LUFC",
         "#mastermind",
         "#Panorama"
       ],
       "regular_topics": [
-        "Tommy",
-        "Henderson",
         "Lorenzo",
         "Simba",
-        "John Trafford",
+        "Jasmine",
+        "Henderson",
         "Polanski",
-        "John Stones",
         "Lucy Connolly",
+        "Lola",
+        "Polish",
+        "John Trafford",
         "Hendo",
-        "Sean",
-        "Mica"
+        "Maya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 27 2026 20:36:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 27 2026 22:18:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
         "#AEWRedemption",
         "Welbeck",
-        "Marchenko",
         "Fauci",
-        "Henderson",
+        "Marchenko",
         "Tobi",
         "Maldini",
+        "Ismail Abrahimzada",
         "Avoid Lorex",
         "Ghost Rider",
-        "Islam"
+        "#loveisland"
       ],
       "hashtags": [
         "#BBNaija",
         "#AEWRedemption",
-        "#HOTD",
+        "#loveisland",
         "#RHOA",
-        "#yegwx"
+        "#HOTD"
       ],
       "regular_topics": [
         "Welbeck",
-        "Marchenko",
         "Fauci",
-        "Henderson",
+        "Marchenko",
         "Tobi",
         "Maldini",
+        "Ismail Abrahimzada",
         "Avoid Lorex",
         "Ghost Rider",
         "Islam",
-        "Pastujov",
-        "Ismail Abrahimzada"
+        "Shopify",
+        "U.S. Consulate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 27 2026 21:24:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 27 2026 22:16:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HappyBirthdayDhanush",
-        "Sarvesh Kushare",
-        "FIRs",
-        "\u092c\u093f\u0939\u093e\u0930 \u0938\u0930\u0915\u093e\u0930",
+        "#brandscaremedia",
+        "\u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e",
+        "#bcmfororm",
+        "#GalaxyZFold8",
         "#BrandNewDayAnthem",
-        "Henderson",
-        "Tejaswin Shankar",
-        "#HBDDhanush",
-        "#HBDDulquerSalmaan",
-        "John Stones",
-        "Welbeck"
+        "#solarstockradar",
+        "Ashnisha Industries",
+        "AK-47",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
+        "Galaxy Z Flip8",
+        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928"
       ],
       "hashtags": [
-        "#HappyBirthdayDhanush",
+        "#brandscaremedia",
+        "#bcmfororm",
+        "#GalaxyZFold8",
         "#BrandNewDayAnthem",
-        "#HBDDhanush",
-        "#HBDDulquerSalmaan",
-        "#GodNightMonday",
-        "#ImGame",
-        "#Demand_HYBE_Q2Compliance",
-        "#BoycottHYBE_CeaseMisconduct",
-        "#JrNTR",
-        "#SamayRaina"
+        "#solarstockradar"
       ],
       "regular_topics": [
-        "Sarvesh Kushare",
+        "\u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e",
+        "Ashnisha Industries",
+        "AK-47",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
+        "Galaxy Z Flip8",
+        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
+        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
+        "life cycle costing",
         "FIRs",
-        "\u092c\u093f\u0939\u093e\u0930 \u0938\u0930\u0915\u093e\u0930",
-        "Henderson",
-        "Tejaswin Shankar",
-        "John Stones",
-        "Welbeck",
-        "Bindyarani Devi",
-        "Kapil Sibal",
-        "YOGESH FOR THE WIN",
-        "Justin Greaves"
+        "Sarvesh Kushare",
+        "Mirabai Chanu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 27 2026 20:32:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Jul 27 2026 22:15:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Henderson",
         "Cucu",
-        "John Stones",
         "Gambit",
+        "John Stones",
         "Xhaka",
-        "James Trafford",
-        "Alonso",
+        "Lorenzo",
         "Once a Blue",
-        "#BBNiaja",
-        "Leeds",
+        "Alonso",
+        "Trafford",
+        "Stare",
         "Inter Milan"
       ],
       "hashtags": [
         "#BBNiaja",
         "#TheGloLegacy",
-        "#bbnseason11",
-        "#TemmyDreddzJejeVideo",
-        "#bbtvi"
+        "#bbnseason11"
       ],
       "regular_topics": [
         "Henderson",
         "Cucu",
-        "John Stones",
         "Gambit",
+        "John Stones",
         "Xhaka",
-        "James Trafford",
-        "Alonso",
+        "Lorenzo",
         "Once a Blue",
-        "Leeds",
-        "Inter Milan",
-        "Ricky"
+        "Alonso",
+        "Trafford",
+        "Stare",
+        "Inter Milan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
