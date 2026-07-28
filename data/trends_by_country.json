@@ -1,56 +1,56 @@
 {
-  "generated_at_utc": "2026-07-28T22:47:22.671388+00:00",
+  "generated_at_utc": "2026-07-28T23:46:48.243072+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 28 2026 21:57:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 22:49:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lindsey",
-        "Fauci",
+        "Lindsey Graham",
         "Denzel Ward",
-        "Jake",
         "Tic Tacs",
+        "Jake",
         "#AskTOP",
         "Hannity",
-        "Jalen Carter",
         "Ross Douthat",
-        "Johni Broome",
-        "#NationalWaterparkDay"
+        "#NationalWaterparkDay",
+        "60 Minutes",
+        "Broome",
+        "Part D"
       ],
       "hashtags": [
         "#AskTOP",
         "#NationalWaterparkDay",
         "#StopExecutionsInIran",
-        "#Browns",
-        "#DawgPound"
+        "#mdwx",
+        "#Browns"
       ],
       "regular_topics": [
-        "Lindsey",
-        "Fauci",
+        "Lindsey Graham",
         "Denzel Ward",
-        "Jake",
         "Tic Tacs",
+        "Jake",
         "Hannity",
-        "Jalen Carter",
         "Ross Douthat",
-        "Johni Broome",
         "60 Minutes",
-        "Purina"
+        "Broome",
+        "Part D",
+        "Jalen Carter",
+        "UEFA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 28 2026 22:21:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 23:15:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#newsnight",
         "Infantino",
-        "UEFA",
         "Malawi",
-        "Hearts",
         "Super Falcons",
+        "UEFA",
+        "Hearts",
         "Victoria Derbyshire",
         "Sturm Graz",
         "Blatter",
@@ -66,23 +66,23 @@
       ],
       "regular_topics": [
         "Infantino",
-        "UEFA",
         "Malawi",
-        "Hearts",
         "Super Falcons",
+        "UEFA",
+        "Hearts",
         "Victoria Derbyshire",
         "Sturm Graz",
         "Blatter",
         "Moyes",
-        "Stoke",
-        "Madjo"
+        "Zambia",
+        "Stoke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 28 2026 22:15:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 23:06:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Theo",
@@ -91,9 +91,9 @@
         "Shopify",
         "Covid",
         "Malawi",
-        "Lindsey",
         "Isfahan",
         "Pierre",
+        "Lindsey",
         "Prime"
       ],
       "hashtags": [
@@ -101,7 +101,7 @@
         "#AskTOP",
         "#betya",
         "#pigeonvizion",
-        "#WWERaw"
+        "#ESTMontreal"
       ],
       "regular_topics": [
         "Fauci",
@@ -110,18 +110,18 @@
         "Shopify",
         "Covid",
         "Malawi",
-        "Lindsey",
         "Isfahan",
         "Pierre",
+        "Lindsey",
         "Prime",
-        "Avoid Lorex"
+        "Ghana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 28 2026 22:12:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 23:03:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "ashnisha industries",
         "#WorldNatureConservationDay",
@@ -132,8 +132,8 @@
         "#solarstockradar",
         "Galaxy Z Fold8",
         "Meta",
-        "Gulveer Singh",
-        "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923"
+        "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
+        "FIRs"
       ],
       "hashtags": [
         "#WorldNatureConservationDay",
@@ -147,52 +147,52 @@
         "Galaxy Z Flip8",
         "Galaxy Z Fold8",
         "Meta",
-        "Gulveer Singh",
         "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
         "FIRs",
+        "Gulveer Singh",
         "AK-47",
-        "Harjinder Kaur",
         "Supreme Court",
-        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e"
+        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
+        "Harjinder Kaur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 28 2026 22:09:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 23:01:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Malawi",
-        "Super Falcons",
+        "Zambia",
         "#NGAMWI",
         "Nnadozie",
         "#WAFCON",
-        "Zambia",
+        "Madugu",
         "#OPayIsOkay",
-        "Martins",
-        "Alozie",
         "Ajibade",
-        "Madugu"
+        "Chawinga",
+        "Martins",
+        "Alozie"
       ],
       "hashtags": [
         "#NGAMWI",
         "#WAFCON",
         "#OPayIsOkay",
         "#ORIADE",
-        "#Gambana"
+        "#TheQueens"
       ],
       "regular_topics": [
         "Malawi",
-        "Super Falcons",
-        "Nnadozie",
         "Zambia",
+        "Nnadozie",
+        "Madugu",
+        "Ajibade",
+        "Chawinga",
         "Martins",
         "Alozie",
-        "Ajibade",
-        "Madugu",
-        "Chawinga",
-        "Lindsey Graham",
-        "Ajayi"
+        "Ohale",
+        "$CatWifAura",
+        "Lindsey Graham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
