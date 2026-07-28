@@ -1,192 +1,196 @@
 {
-  "generated_at_utc": "2026-07-27T23:52:01.072636+00:00",
+  "generated_at_utc": "2026-07-28T01:15:57.353994+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Jul 27 2026 22:54:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 00:37:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
+        "Fauci",
         "T-Mobile",
         "Vita Vea",
-        "Fauci",
+        "Wheeler",
         "X Money",
         "Tractor Supply",
-        "Todd Bowles",
         "Bucs",
-        "Lorenzo",
-        "Cruz Montana",
-        "Senators",
-        "Appleton"
+        "Oba Femi",
+        "Brock",
+        "Remember the Titans"
       ],
       "hashtags": [
-        "#loveislanduk",
-        "#NationalWalkOnStiltsDay"
+        "#WWERaw",
+        "#DWTSNextPro",
+        "#AllAmerican",
+        "#NickiTrivia",
+        "#RawOnNetflix"
       ],
       "regular_topics": [
+        "Fauci",
         "T-Mobile",
         "Vita Vea",
-        "Fauci",
+        "Wheeler",
         "X Money",
         "Tractor Supply",
-        "Todd Bowles",
         "Bucs",
-        "Lorenzo",
-        "Cruz Montana",
-        "Senators",
-        "Appleton"
+        "Oba Femi",
+        "Brock",
+        "Remember the Titans",
+        "The Vision"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Jul 27 2026 23:18:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 00:09:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#loveisland",
         "Lorenzo",
-        "Jasmine",
         "Simba",
-        "Henderson",
+        "#WWERaw",
         "Polanski",
+        "Henderson",
         "Lucy Connolly",
+        "#SwitzerlandSunset",
         "Polish",
-        "Lola",
-        "John Trafford",
-        "Hendo"
+        "Isfahan",
+        "Lola"
       ],
       "hashtags": [
         "#loveisland",
+        "#WWERaw",
+        "#SwitzerlandSunset",
         "#universitychallenge",
-        "#LUFC",
         "#BHAFC"
       ],
       "regular_topics": [
         "Lorenzo",
-        "Jasmine",
         "Simba",
-        "Henderson",
         "Polanski",
+        "Henderson",
         "Lucy Connolly",
         "Polish",
+        "Isfahan",
         "Lola",
-        "John Trafford",
+        "Tommy",
         "Hendo",
-        "Jas and Kav"
+        "T-shirt"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Jul 27 2026 23:09:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 00:54:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
         "#BBNaija",
-        "Welbeck",
         "Fauci",
+        "Isfahan",
+        "Welbeck",
         "#AEWRedemption",
         "Henderson",
-        "Marchenko",
         "Tobi",
-        "Vita Vea",
-        "Maldini",
-        "Isfahan",
-        "Avoid Lorex"
+        "Marchenko",
+        "Alikhani Square",
+        "Maldini"
       ],
       "hashtags": [
+        "#WWERaw",
         "#BBNaija",
         "#AEWRedemption",
-        "#loveisland",
         "#RHOA",
         "#HOTD"
       ],
       "regular_topics": [
-        "Welbeck",
         "Fauci",
-        "Henderson",
-        "Marchenko",
-        "Tobi",
-        "Vita Vea",
-        "Maldini",
         "Isfahan",
+        "Welbeck",
+        "Henderson",
+        "Tobi",
+        "Marchenko",
+        "Alikhani Square",
+        "Maldini",
         "Avoid Lorex",
-        "Ismail Abrahimzada",
-        "Ghost Rider"
+        "Oba Femi",
+        "Ismail Abrahimzada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Jul 27 2026 23:08:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 00:51:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#brandscaremedia",
+        "#BrandsCareMedia",
+        "#GodMorningTuesday",
         "\u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e",
         "#GalaxyZFold8",
-        "#BrandNewDayAnthem",
-        "#solarstockradar",
         "Ashnisha Industries",
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "galaxy z flip8",
+        "#brandnewdayanthem",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "AK-47",
-        "#APJAbdulKalam",
+        "#bcmfororm",
         "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928"
       ],
       "hashtags": [
-        "#brandscaremedia",
+        "#BrandsCareMedia",
+        "#GodMorningTuesday",
         "#GalaxyZFold8",
-        "#BrandNewDayAnthem",
-        "#solarstockradar",
-        "#APJAbdulKalam"
+        "#brandnewdayanthem",
+        "#bcmfororm"
       ],
       "regular_topics": [
         "\u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e",
         "Ashnisha Industries",
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "galaxy z flip8",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "AK-47",
         "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
         "life cycle costing",
-        "FIRs",
-        "Mirabai Chanu",
-        "\u092e\u0940\u0930\u093e\u092c\u093e\u0908 \u091a\u093e\u0928\u0942"
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+        "FIRs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Jul 27 2026 23:06:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 00:48:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Henderson",
+        "Kai Cenat",
+        "Tyla",
         "Cucu",
         "Gambit",
         "Lorenzo",
+        "Disney World",
         "John Stones",
-        "Xhaka",
-        "Once a Blue",
-        "Alonso",
-        "South Africa",
-        "Trafford",
-        "Tanzania"
+        "Ricky",
+        "Tram and Sheba",
+        "South Africa"
       ],
       "hashtags": [
         "#BBNiaja",
         "#bbnseason11",
-        "#TheGloLegacy"
+        "#omegle"
       ],
       "regular_topics": [
         "Henderson",
+        "Kai Cenat",
+        "Tyla",
         "Cucu",
         "Gambit",
         "Lorenzo",
+        "Disney World",
         "John Stones",
-        "Xhaka",
-        "Once a Blue",
-        "Alonso",
-        "South Africa",
-        "Trafford",
-        "Tanzania"
+        "Ricky",
+        "Tram and Sheba",
+        "South Africa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
