@@ -1,116 +1,118 @@
 {
-  "generated_at_utc": "2026-07-28T04:32:49.064260+00:00",
+  "generated_at_utc": "2026-07-28T07:28:38.151152+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 28 2026 03:48:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 07:15:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
-        "Raquel",
-        "Fauci",
+        "jungkook",
         "Steve Lacy",
-        "Volpe",
-        "Connor Thomas",
-        "Doval",
-        "Imai",
-        "Ali Sanchez",
-        "Frank Mason",
-        "Billy the Kid"
+        "#WWERaw",
+        "Barrett",
+        "#SpiderManBrandNewDay",
+        "#Gamdom",
+        "Fauci",
+        "Billy the Kid",
+        "Raquel",
+        "Yash",
+        "Flint"
       ],
       "hashtags": [
         "#WWERaw",
         "#SpiderManBrandNewDay",
-        "#RawOnNetflix"
+        "#Gamdom",
+        "#JossGawinConcert",
+        "#LaCasaDeLosFamososM\u00e9xico"
       ],
       "regular_topics": [
-        "Raquel",
-        "Fauci",
+        "jungkook",
         "Steve Lacy",
-        "Volpe",
-        "Connor Thomas",
-        "Doval",
-        "Imai",
-        "Ali Sanchez",
-        "Frank Mason",
+        "Barrett",
+        "Fauci",
         "Billy the Kid",
-        "Sol Ruca"
+        "Raquel",
+        "Yash",
+        "Flint",
+        "Volpe",
+        "Hannity",
+        "Cardi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 28 2026 04:12:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 06:48:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Welbeck",
-        "#WWERaw",
+        "#thicktrunktuesday",
         "Bill Oddie",
         "Lorenzo",
         "#loveisland",
-        "Jodrell Bank",
         "Polanski",
-        "Raquel",
+        "Jodrell Bank",
         "#BBNaija",
         "Simba",
-        "john trafford"
+        "Hendo",
+        "The Goodies"
       ],
       "hashtags": [
-        "#WWERaw",
+        "#thicktrunktuesday",
         "#loveisland",
         "#BBNaija",
-        "#angelanikolau",
-        "#universitychallenge"
+        "#WWERaw",
+        "#Gamdom"
       ],
       "regular_topics": [
         "Welbeck",
         "Bill Oddie",
         "Lorenzo",
-        "Jodrell Bank",
         "Polanski",
-        "Raquel",
+        "Jodrell Bank",
         "Simba",
-        "john trafford",
-        "The Goodies",
         "Hendo",
-        "Islamist"
+        "The Goodies",
+        "john trafford",
+        "Islamist",
+        "Boy George"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 28 2026 04:03:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 06:40:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
         "Fauci",
         "#BBNaija",
-        "Raquel",
+        "#WWERaw",
+        "jungkook",
         "Welbeck",
-        "Steve Lacy",
         "Isfahan",
-        "Louis Varland",
-        "Tobi",
         "Henderson",
-        "#AEWRedemption"
+        "Steve Lacy",
+        "Tobi",
+        "Avoid Lorex",
+        "Raquel"
       ],
       "hashtags": [
-        "#WWERaw",
         "#BBNaija",
+        "#WWERaw",
+        "#SpiderManBrandNewDay",
         "#AEWRedemption",
-        "#RHOA",
-        "#HOTD"
+        "#RHOA"
       ],
       "regular_topics": [
         "Fauci",
-        "Raquel",
+        "jungkook",
         "Welbeck",
-        "Steve Lacy",
         "Isfahan",
-        "Louis Varland",
-        "Tobi",
         "Henderson",
+        "Steve Lacy",
+        "Tobi",
         "Avoid Lorex",
+        "Raquel",
         "Maldini",
         "Marchenko"
       ],
@@ -119,84 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 28 2026 04:00:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 06:36:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#FII_Bought_This_Stock",
         "#MahendraGoenkaCase",
         "#SolarBullishStock",
         "#WorldNatureConservationDay",
-        "#RishiPrasadJayanti",
-        "One Day To Go",
-        "Spiritual Magazine",
+        "Ashnisha Industries",
         "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
-        "#GodMorningTuesday",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u090b\u0937\u093f \u092a\u094d\u0930\u0938\u093e\u0926",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928"
+        "Meta",
+        "#RishiPrasadJayanti",
+        "\u092e\u0902\u0917\u0932 \u092e\u093f\u0932\u0928",
+        "One Day To Go",
+        "Saransh Jain"
       ],
       "hashtags": [
+        "#FII_Bought_This_Stock",
         "#MahendraGoenkaCase",
         "#SolarBullishStock",
         "#WorldNatureConservationDay",
-        "#RishiPrasadJayanti",
-        "#GodMorningTuesday",
-        "#WorldHepatitisDay",
-        "#SaveNature",
-        "#\u0935\u093f\u0936\u094d\u0935_\u092a\u094d\u0930\u0915\u0943\u0924\u093f_\u0938\u0902\u0930\u0915\u094d\u0937\u0923_\u0926\u093f\u0935\u0938",
-        "#HBDDhanush",
-        "#SharmilaDhankar",
-        "#HepatitisAwareness"
+        "#RishiPrasadJayanti"
       ],
       "regular_topics": [
-        "One Day To Go",
-        "Spiritual Magazine",
-        "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u090b\u0937\u093f \u092a\u094d\u0930\u0938\u093e\u0926",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Ashnisha Industries",
-        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "\u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0938\u0902\u0930\u0915\u094d\u0937\u0923",
         "Meta",
-        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e",
-        "Saransh Jain"
+        "\u092e\u0902\u0917\u0932 \u092e\u093f\u0932\u0928",
+        "One Day To Go",
+        "Saransh Jain",
+        "Spiritual Magazine",
+        "\u0935\u0932\u094d\u0932\u0941\u0930\u0940 \u0905\u091c\u092f \u092c\u093e\u092c\u0942",
+        "FIIs",
+        "Saint Gurmeet Ram Rahim Ji",
+        "Mangal Milan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 28 2026 04:00:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 06:36:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
         "Welbeck",
-        "Fabrizio",
         "#Gamdom",
+        "Fabrizio",
+        "Amen",
+        "Taco Tuesday",
         "Brighton",
-        "Sheba",
         "Flora",
+        "Sheba",
         "#BBNiaja",
-        "Yusuf",
-        "#BBNS11",
-        "Alonso"
+        "Ricky"
       ],
       "hashtags": [
         "#BBNaija",
         "#Gamdom",
         "#BBNiaja",
         "#BBNS11",
-        "#bbnseason11"
+        "#BlitzMOVE1"
       ],
       "regular_topics": [
         "Welbeck",
         "Fabrizio",
+        "Amen",
+        "Taco Tuesday",
         "Brighton",
-        "Sheba",
         "Flora",
+        "Sheba",
+        "Ricky",
         "Yusuf",
         "Alonso",
-        "Ricky",
-        "Xhaka",
-        "Arsenal",
-        "Chelsea"
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
