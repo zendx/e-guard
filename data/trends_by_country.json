@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-07-28T20:37:45.950793+00:00",
+  "generated_at_utc": "2026-07-28T21:53:07.606118+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Jul 28 2026 20:15:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 21:06:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lindsey Graham",
+        "Lindsey",
         "Fauci",
+        "Jake",
         "Jalen Carter",
         "#AskTOP",
-        "Jake Cox",
-        "Jake Rogers",
         "Hannity",
-        "Howie",
-        "Draymond Green",
-        "SoFi",
-        "Notre Dame"
+        "Tic Tacs",
+        "Johni Broome",
+        "Ross Douthat",
+        "UEFA",
+        "Purina"
       ],
       "hashtags": [
         "#AskTOP",
@@ -25,80 +25,80 @@
         "#pureblood"
       ],
       "regular_topics": [
-        "Lindsey Graham",
+        "Lindsey",
         "Fauci",
+        "Jake",
         "Jalen Carter",
-        "Jake Cox",
-        "Jake Rogers",
         "Hannity",
-        "Howie",
-        "Draymond Green",
-        "SoFi",
-        "Notre Dame",
-        "Madison Beer"
+        "Tic Tacs",
+        "Johni Broome",
+        "Ross Douthat",
+        "UEFA",
+        "Purina",
+        "Howie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Jul 28 2026 19:48:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 21:30:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Infantino",
         "UEFA",
         "Blatter",
-        "#SewingBee",
-        "Liam Cullen",
-        "#oafc",
+        "Sturm Graz",
+        "Moyes",
         "Beto",
+        "#oafc",
+        "Stoke",
+        "Allison",
         "Hemmings",
-        "Baroness Hayter",
-        "Madjo",
-        "Madison",
-        "KICK OFF"
+        "#SewingBee"
       ],
       "hashtags": [
-        "#SewingBee",
         "#oafc",
+        "#SewingBee",
         "#AskTOP",
-        "#drfc",
+        "#GTFC",
         "#EastEnders"
       ],
       "regular_topics": [
+        "Infantino",
         "UEFA",
         "Blatter",
-        "Liam Cullen",
+        "Sturm Graz",
+        "Moyes",
         "Beto",
+        "Stoke",
+        "Allison",
         "Hemmings",
-        "Baroness Hayter",
-        "Madjo",
-        "Madison",
-        "KICK OFF",
-        "Dibling",
-        "TEAM NEWS"
+        "Cullen",
+        "Madjo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Jul 28 2026 19:40:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 21:24:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Theo",
-        "#BBNaija",
         "Tobi",
+        "#BBNaija",
         "Shopify",
-        "#AskTOP",
-        "Isfahan",
         "Covid",
+        "Isfahan",
         "#WWERaw",
         "Avoid Lorex",
-        "Prime"
+        "Lindsey",
+        "Pierre"
       ],
       "hashtags": [
         "#BBNaija",
-        "#AskTOP",
         "#WWERaw",
+        "#AskTOP",
         "#betya",
         "#pigeonvizion"
       ],
@@ -107,20 +107,20 @@
         "Theo",
         "Tobi",
         "Shopify",
-        "Isfahan",
         "Covid",
+        "Isfahan",
         "Avoid Lorex",
-        "Prime",
-        "Lindsey Graham",
+        "Lindsey",
         "Pierre",
-        "Sportsnet"
+        "Infantino",
+        "Prime"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Jul 28 2026 20:28:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 21:20:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gulveer Singh",
         "Harjinder Kaur",
@@ -137,9 +137,15 @@
       "hashtags": [
         "#No_Revenue_For_HYBE",
         "#BeliftTakeAccountability",
-        "#GodNightTuesday",
         "#GuruPurnima",
-        "#indomim"
+        "#indomim",
+        "#WIvsPAK",
+        "#YouManiacSeriesQ26",
+        "#ShreyaKalra",
+        "#Boxing",
+        "#ipoallotment",
+        "#AlaakaaLoova",
+        "#MrKillSeriesEP4"
       ],
       "regular_topics": [
         "Gulveer Singh",
@@ -151,46 +157,46 @@
         "ULTIMATE COMPETITION AK",
         "LOCKUPP SCAMMED FANS",
         "WE LOVE YOU AKANKSHA",
-        "DOGLA SHOW LOCK UPP",
-        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e"
+        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
+        "DOGLA SHOW LOCK UPP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Jul 28 2026 20:27:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Jul 28 2026 21:18:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OPayIsOkay",
-        "Zambia",
         "Malawi",
-        "#Gambana",
-        "Llona",
-        "Barbra Banda",
-        "#ORIADE",
-        "Leon Thomas",
         "Super Falcons",
-        "$FRANK",
-        "Draymond"
+        "#WAFCON",
+        "Zambia",
+        "Llona",
+        "Alozie",
+        "Barbra Banda",
+        "Ajayi",
+        "#Gambana",
+        "#ORIADE"
       ],
       "hashtags": [
         "#OPayIsOkay",
+        "#WAFCON",
         "#Gambana",
         "#ORIADE",
-        "#WAFCON",
         "#DoMoreWithOhentPay"
       ],
       "regular_topics": [
-        "Zambia",
         "Malawi",
-        "Llona",
-        "Barbra Banda",
-        "Leon Thomas",
         "Super Falcons",
-        "$FRANK",
-        "Draymond",
+        "Zambia",
+        "Llona",
+        "Alozie",
+        "Barbra Banda",
         "Ajayi",
         "Seyi Makinde",
+        "Leon Thomas",
+        "$FRANK",
         "Lindsey Graham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
