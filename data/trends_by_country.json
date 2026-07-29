@@ -1,198 +1,195 @@
 {
-  "generated_at_utc": "2026-07-29T16:13:12.992349+00:00",
+  "generated_at_utc": "2026-07-29T17:43:30.587887+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 29 2026 14:40:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 16:56:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
+        "Covid",
         "Rand Paul",
         "Fifth Amendment",
         "5th Amendment",
-        "Covid",
-        "Josh Hawley",
-        "Blumenthal",
-        "Bernie Moreno",
+        "Hawley",
+        "Moreno",
+        "AIDS",
         "Glen Hansard",
-        "#WeStandWithBTS",
-        "#AsteroidRH"
+        "Pardon",
+        "NCAA"
       ],
       "hashtags": [
         "#WeStandWithBTS",
         "#AsteroidRH",
-        "#OrmXMontigoMalaysia",
-        "#wednesdaywisdom",
-        "#Proud_of_BTS"
+        "#GalaxyZFlip8"
       ],
       "regular_topics": [
         "Fauci",
+        "Covid",
         "Rand Paul",
         "Fifth Amendment",
         "5th Amendment",
-        "Covid",
-        "Josh Hawley",
-        "Blumenthal",
-        "Bernie Moreno",
+        "Hawley",
+        "Moreno",
+        "AIDS",
         "Glen Hansard",
-        "Good Wednesday",
-        "Cooper Rush"
+        "Pardon",
+        "NCAA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 29 2026 15:57:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 17:24:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bow Echo",
         "Fauci",
         "FIFA",
-        "Glen Hansard",
         "UEFA",
+        "Glen Hansard",
         "Frankel",
+        "Nick Brown",
         "Billy Loughnane",
-        "#AsteroidRH",
-        "Gstaad",
+        "The French",
         "Infantino",
-        "Flora Of Bermuda"
+        "Gstaad"
       ],
       "hashtags": [
+        "#thechase",
+        "#SpiderManBrandNewDay",
         "#AsteroidRH",
-        "#Goodwood",
         "#rufc",
-        "#CWGNetball",
-        "#WeStandWithBTS"
+        "#CWGNetball"
       ],
       "regular_topics": [
         "Bow Echo",
         "Fauci",
         "FIFA",
-        "Glen Hansard",
         "UEFA",
+        "Glen Hansard",
         "Frankel",
+        "Nick Brown",
         "Billy Loughnane",
-        "Gstaad",
+        "The French",
         "Infantino",
-        "Flora Of Bermuda",
-        "Wild Blossom"
+        "Gstaad"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 29 2026 15:28:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 17:15:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
-        "Macklin Celebrini",
-        "Rand Paul",
-        "Fifth Amendment",
+        "Celebrini",
         "Covid",
+        "Rand Paul",
         "Grammys",
-        "#LinglingXDirovoLive",
-        "LING PRESENTER DIROVO",
+        "Fifth Amendment",
+        "Tobi",
         "Sharks",
         "Shopify",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07"
+        "Leo Carlsson",
+        "Billy Bishop"
       ],
       "hashtags": [
-        "#LinglingXDirovoLive",
-        "#\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07\u0e04\u0e2d\u0e07",
-        "#LinglingKwong",
         "#ESTMontreal",
-        "#BBNaija"
+        "#BBNaija",
+        "#WeStandWithBTS",
+        "#WWENXT"
       ],
       "regular_topics": [
         "Fauci",
-        "Macklin Celebrini",
-        "Rand Paul",
-        "Fifth Amendment",
+        "Celebrini",
         "Covid",
+        "Rand Paul",
         "Grammys",
-        "LING PRESENTER DIROVO",
+        "Fifth Amendment",
+        "Tobi",
         "Sharks",
         "Shopify",
-        "Tobi",
-        "Bedard"
+        "Leo Carlsson",
+        "Billy Bishop"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 29 2026 15:27:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 17:12:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AllianceOnPrime",
         "#UnfoldANewShape",
         "#IMC26ThemeLaunch",
         "#ScaleWithoutBoundaries",
-        "#BarsaatxSpiderMan",
-        "#PrashantKishorHaarGaya",
-        "IMC 2026",
-        "Padukarchan Pujan Kailashanand",
-        "YOGANKSHA BEYOND LOCKUPP",
-        "New Delhi",
-        "SHREYA DESERVES THE TROPHY",
-        "Peter and MJ"
+        "KARELA KA KUTTA RISHABH",
+        "REAL ONE LINER QUEEN AK",
+        "FAME CHASER LEECH SUZZANE",
+        "AKKUSENA LOVES RAJMA CHAWAL",
+        "#ENGENEs_Boycott_HYBE",
+        "The Ultra",
+        "BRING HEESEUNG BACK"
       ],
       "hashtags": [
+        "#AllianceOnPrime",
         "#UnfoldANewShape",
         "#IMC26ThemeLaunch",
         "#ScaleWithoutBoundaries",
-        "#BarsaatxSpiderMan",
-        "#PrashantKishorHaarGaya"
+        "#ENGENEs_Boycott_HYBE"
       ],
       "regular_topics": [
-        "IMC 2026",
-        "Padukarchan Pujan Kailashanand",
-        "YOGANKSHA BEYOND LOCKUPP",
-        "New Delhi",
-        "SHREYA DESERVES THE TROPHY",
-        "Peter and MJ",
+        "KARELA KA KUTTA RISHABH",
+        "REAL ONE LINER QUEEN AK",
+        "FAME CHASER LEECH SUZZANE",
+        "AKKUSENA LOVES RAJMA CHAWAL",
+        "The Ultra",
         "BRING HEESEUNG BACK",
+        "SHREYA DESERVES THE TROPHY",
         "\u0930\u0935\u093f\u0926\u093e\u0938 \u0928\u0917\u0930",
-        "Idiot",
-        "East Zone",
-        "\u092e\u0928\u092e\u094b\u0939\u0928 \u0938\u093f\u0902\u0939"
+        "IMC 2026",
+        "\u092e\u0941\u0932\u093e\u092f\u092e \u0938\u093f\u0902\u0939",
+        "The Fold8"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 29 2026 15:18:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 17:09:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Jarvis",
+        "#EkunrawoWahala",
+        "#DecemberInNigeria",
         "Kaito",
-        "#SpiderManBrandNewDayNG",
-        "Evian",
-        "#TimesHeroesAwards",
-        "Juventus",
-        "Nomy",
+        "#GbajaExonerated",
+        "Eja Meja",
+        "#WhoDoNaijaTrust",
+        "Bnxn",
         "Henderson",
-        "Ayyoub Bouaddi",
-        "$FAUCI",
-        "#HappyBirthdayVictorOjeakhena",
-        "#EkunrawoWahala"
+        "#SpiderManBrandNewDayNG",
+        "Infantino"
       ],
       "hashtags": [
-        "#SpiderManBrandNewDayNG",
-        "#TimesHeroesAwards",
-        "#HappyBirthdayVictorOjeakhena",
         "#EkunrawoWahala",
-        "#chambreslagos"
+        "#DecemberInNigeria",
+        "#GbajaExonerated",
+        "#WhoDoNaijaTrust",
+        "#SpiderManBrandNewDayNG"
       ],
       "regular_topics": [
+        "Jarvis",
         "Kaito",
-        "Evian",
-        "Juventus",
-        "Nomy",
+        "Eja Meja",
+        "Bnxn",
         "Henderson",
-        "Ayyoub Bouaddi",
-        "$FAUCI",
         "Infantino",
-        "Ricky",
-        "UEFA",
-        "GoLemon"
+        "Buju",
+        "STILL IN CHARGE",
+        "Ball Carrying",
+        "Juventus",
+        "Fauci"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
