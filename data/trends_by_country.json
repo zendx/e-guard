@@ -1,86 +1,85 @@
 {
-  "generated_at_utc": "2026-07-29T22:25:04.181279+00:00",
+  "generated_at_utc": "2026-07-29T23:27:26.587000+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Jul 29 2026 21:51:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 22:54:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Covid",
         "Harvey",
-        "Rand Paul",
+        "$MSFT",
         "AIDS",
+        "Rand Paul",
         "Skubal",
         "Fifth Amendment",
-        "Warsh",
-        "Shannon Brown",
         "$META",
-        "Tigers"
+        "Shannon Brown",
+        "McCarthy"
       ],
       "hashtags": [
-        "#Birdland",
-        "#AniyaxWWHL",
-        "#InternationalTigerDay"
+        "#InternationalTigerDay",
+        "#AniyaxWWHL"
       ],
       "regular_topics": [
         "Fauci",
         "Covid",
         "Harvey",
-        "Rand Paul",
+        "$MSFT",
         "AIDS",
+        "Rand Paul",
         "Skubal",
         "Fifth Amendment",
-        "Warsh",
-        "Shannon Brown",
         "$META",
-        "Tigers"
+        "Shannon Brown",
+        "McCarthy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Jul 29 2026 21:20:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 22:30:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SpiderManBrandNewDay",
+        "Tom Holland",
+        "Fauci",
         "Botman",
         "Howe",
-        "Fauci",
-        "Jacob Murphy",
-        "Bristol City",
-        "#SpiderManBrandNewDay",
-        "Patterson",
         "Covid",
-        "Tom Holland",
-        "Fer Lopez",
-        "Zendaya"
+        "Bristol City",
+        "Patterson",
+        "Pepe Alvarez",
+        "Zendaya",
+        "Murphy"
       ],
       "hashtags": [
         "#SpiderManBrandNewDay",
+        "#BuckMoon",
         "#dlxp",
-        "#wwfc",
         "#bcafc",
-        "#twitterclarets"
+        "#wwfc"
       ],
       "regular_topics": [
+        "Tom Holland",
+        "Fauci",
         "Botman",
         "Howe",
-        "Fauci",
-        "Jacob Murphy",
+        "Covid",
         "Bristol City",
         "Patterson",
-        "Covid",
-        "Tom Holland",
-        "Fer Lopez",
+        "Pepe Alvarez",
         "Zendaya",
-        "Johnston"
+        "Murphy",
+        "Nomy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Jul 29 2026 21:15:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 23:08:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Covid",
@@ -88,16 +87,17 @@
         "Celebrini",
         "Fifth Amendment",
         "Grammys",
-        "Shopify",
         "FOMC",
         "#BBNaija",
-        "Tobi",
+        "Shopify",
+        "Parker",
         "Alto"
       ],
       "hashtags": [
         "#BBNaija",
         "#WeStandWithBTS",
-        "#ESTMontreal"
+        "#ESTMontreal",
+        "#BHIVE"
       ],
       "regular_topics": [
         "Fauci",
@@ -106,9 +106,9 @@
         "Celebrini",
         "Fifth Amendment",
         "Grammys",
-        "Shopify",
         "FOMC",
-        "Tobi",
+        "Shopify",
+        "Parker",
         "Alto",
         "Warsh"
       ],
@@ -117,84 +117,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Jul 29 2026 21:09:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 23:06:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AllianceOnPrime",
-        "YOGANKSHA KA MOOT RISHYA",
-        "REESHAB KI CHEENAL KALRA",
-        "#SpiderManBrandNewDay",
-        "Murali Sreeshankar",
-        "#ENGENEs_Boycott_HYBE",
-        "#SevENcompletesENHYPEN",
-        "BRING HEESEUNG BACK",
-        "PayBox",
+        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
+        "#GuruPurnima",
         "#UnfoldANewShape",
-        "KARELA KA KUTTA RISHABH"
+        "#\u092a\u0942\u0930\u094d\u0923\u0917\u0941\u0930\u0941_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u092e\u0939\u093e\u0930\u093e\u091c",
+        "#IMC26ThemeLaunch",
+        "#anishchit2nishchit",
+        "ashnisha industries",
+        "Sant Rampal Ji Maharaj",
+        "padukarchan pujan kailashanand",
+        "Marvel",
+        "250 cr hydrogen"
       ],
       "hashtags": [
-        "#AllianceOnPrime",
-        "#SpiderManBrandNewDay",
-        "#ENGENEs_Boycott_HYBE",
-        "#SevENcompletesENHYPEN",
+        "#GuruPurnima",
         "#UnfoldANewShape",
+        "#\u092a\u0942\u0930\u094d\u0923\u0917\u0941\u0930\u0941_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940\u092e\u0939\u093e\u0930\u093e\u091c",
         "#IMC26ThemeLaunch",
-        "#AmaalMallikLive",
-        "#FOMC",
-        "#SackShah",
-        "#LavaMobiles",
-        "#TomHolland"
+        "#anishchit2nishchit"
       ],
       "regular_topics": [
-        "YOGANKSHA KA MOOT RISHYA",
-        "REESHAB KI CHEENAL KALRA",
-        "Murali Sreeshankar",
-        "BRING HEESEUNG BACK",
-        "PayBox",
-        "KARELA KA KUTTA RISHABH",
-        "REAL ONE LINER QUEEN AK",
-        "DOGESH KI CHINAAR HAGGU",
-        "The Fed",
-        "The Ultra",
-        "SHREYA DESERVES THE TROPHY"
+        "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
+        "ashnisha industries",
+        "Sant Rampal Ji Maharaj",
+        "padukarchan pujan kailashanand",
+        "Marvel",
+        "250 cr hydrogen",
+        "imc 2026",
+        "Grammys",
+        "Saint Gurmeet Ram Rahim Ji",
+        "yashobhoomi",
+        "yoganksha beyond lockupp"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Jul 29 2026 22:12:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Jul 29 2026 23:04:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ricky",
-        "Jarvis",
         "Moonpay",
+        "Jarvis",
         "PayBox",
-        "Bells",
-        "Bebeto",
-        "Rulli",
+        "AGNT",
         "Batistuta",
-        "Nwachukwu",
-        "Township",
-        "Alejandro Balde"
+        "Bebeto",
+        "Bells",
+        "Rulli",
+        "King Azoulay",
+        "Township"
       ],
       "hashtags": [
         "#AniyaxWWHL",
-        "#WeOutsidebyKin",
         "#WhoDoNaijaTrust",
+        "#HarryStyles",
         "#Gambana",
-        "#DecemberInNigeria"
+        "#SpiderManBrandNewDay"
       ],
       "regular_topics": [
         "Ricky",
-        "Jarvis",
         "Moonpay",
+        "Jarvis",
         "PayBox",
-        "Bells",
-        "Bebeto",
-        "Rulli",
+        "AGNT",
         "Batistuta",
-        "Nwachukwu",
-        "Township",
-        "Alejandro Balde"
+        "Bebeto",
+        "Bells",
+        "Rulli",
+        "King Azoulay",
+        "Township"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
