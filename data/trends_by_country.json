@@ -1,195 +1,196 @@
 {
-  "generated_at_utc": "2026-07-30T15:08:46.202050+00:00",
+  "generated_at_utc": "2026-07-30T16:55:31.683534+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 30 2026 15:00:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 15:52:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ceuta",
-        "#OlandriaxTheNextMove",
         "Morocco",
-        "Good Thursday",
-        "Leopold",
-        "Max Clark",
         "Situational Awareness",
-        "Happy Friday Eve",
-        "JASPER FLAREY FANSIGN",
+        "Leopold",
+        "#olandriaxthenextmove",
+        "Tillis",
+        "Good Thursday",
+        "Spaniards",
+        "Pedro Sanchez",
         "Pete Rose",
-        "National Intern Day"
+        "Max Clark"
       ],
       "hashtags": [
-        "#OlandriaxTheNextMove",
-        "#jonita",
-        "#tommavi",
+        "#olandriaxthenextmove",
+        "#NationalInternDay",
         "#SB19atLollapalooza",
-        "#TejRan"
+        "#jonita",
+        "#tommavi"
       ],
       "regular_topics": [
         "Ceuta",
         "Morocco",
-        "Good Thursday",
-        "Leopold",
-        "Max Clark",
         "Situational Awareness",
-        "Happy Friday Eve",
-        "JASPER FLAREY FANSIGN",
+        "Leopold",
+        "Tillis",
+        "Good Thursday",
+        "Spaniards",
+        "Pedro Sanchez",
         "Pete Rose",
-        "National Intern Day",
-        "Pedro Sanchez"
+        "Max Clark",
+        "Camp of the Saints"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 30 2026 14:32:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 16:15:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Howe",
+        "UEFA",
+        "Morocco",
         "Ceuta",
+        "Infantino",
+        "Diamond Necklace",
+        "FIFA",
+        "Howe",
+        "The Spanish",
+        "Pedro Sanchez",
         "Newcastle",
-        "#NUFC",
-        "Ciarrai Abu",
-        "Man's Best Friend",
-        "Flann Sunna",
-        "Fulham",
-        "Suella",
-        "Jaissle",
-        "Marlon"
+        "Cueta"
       ],
       "hashtags": [
         "#NUFC",
+        "#aplaceinthesun",
         "#Farm24",
-        "#thismorning"
+        "#afcb"
       ],
       "regular_topics": [
-        "Howe",
+        "UEFA",
+        "Morocco",
         "Ceuta",
+        "Infantino",
+        "Diamond Necklace",
+        "FIFA",
+        "Howe",
+        "The Spanish",
+        "Pedro Sanchez",
         "Newcastle",
-        "Ciarrai Abu",
-        "Man's Best Friend",
-        "Flann Sunna",
-        "Fulham",
-        "Suella",
-        "Jaissle",
-        "Marlon",
-        "Suffolk"
+        "Cueta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 30 2026 14:24:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 16:08:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Covid",
-        "Rand Paul",
         "Spain",
-        "#OlandriaxTheNextMove",
         "Ceuta",
+        "Rand Paul",
         "Morocco",
+        "Leopold",
+        "UEFA",
         "Celebrini",
-        "Destination Canada",
-        "Fifth Amendment",
-        "Parker"
+        "Situational Awareness",
+        "#OlandriaxTheNextMove"
       ],
       "hashtags": [
         "#OlandriaxTheNextMove",
+        "#SB19atLollapalooza",
         "#AEWDynamite",
-        "#BBNaija",
-        "#WeStandWithBTS"
+        "#BBNaija"
       ],
       "regular_topics": [
         "Fauci",
         "Covid",
-        "Rand Paul",
         "Spain",
         "Ceuta",
+        "Rand Paul",
         "Morocco",
+        "Leopold",
+        "UEFA",
         "Celebrini",
-        "Destination Canada",
-        "Fifth Amendment",
-        "Parker",
-        "Wuhan"
+        "Situational Awareness",
+        "Fifth Amendment"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 30 2026 14:21:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 16:04:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#PrincessToQueen",
+        "QUEEN SHIVANGI FOR THE WIN",
         "#SpidermanSunfeastFantastik",
-        "#IncredibleIndiaByIndiGo",
-        "#UPKaKanwadMahotsav",
-        "#HappyBirthdaySamCS",
+        "#Anakapalli",
         "#RapidoForAll",
+        "#IncredibleIndiaByIndiGo",
+        "TRAITORS KA BOSS FUKRA",
         "Choco Stick",
-        "Anant Ambani",
-        "JASPER FLAREY FANSIGN",
-        "Unga",
-        "Bol Bam",
-        "Kanwar Yatra"
+        "HYBE BREAK THE SILENCE",
+        "Ceuta",
+        "JASPER FLAREY FANSIGN"
       ],
       "hashtags": [
+        "#PrincessToQueen",
         "#SpidermanSunfeastFantastik",
-        "#IncredibleIndiaByIndiGo",
-        "#UPKaKanwadMahotsav",
-        "#HappyBirthdaySamCS",
-        "#RapidoForAll"
+        "#Anakapalli",
+        "#RapidoForAll",
+        "#IncredibleIndiaByIndiGo"
       ],
       "regular_topics": [
+        "QUEEN SHIVANGI FOR THE WIN",
+        "TRAITORS KA BOSS FUKRA",
         "Choco Stick",
-        "Anant Ambani",
-        "JASPER FLAREY FANSIGN",
-        "Unga",
-        "Bol Bam",
-        "Kanwar Yatra",
-        "Ajinkya Rahane",
-        "\u0930\u0941\u091a\u093f\u0915\u093e \u0938\u093f\u0902\u0939",
+        "HYBE BREAK THE SILENCE",
         "Ceuta",
-        "\u0928\u0940\u0930\u091c \u091a\u094b\u092a\u0921\u093c\u093e",
-        "Jinks"
+        "JASPER FLAREY FANSIGN",
+        "Anant Ambani",
+        "Morocco",
+        "\u0930\u0941\u091a\u093f\u0915\u093e \u0938\u093f\u0902\u0939",
+        "Ruchika Singh",
+        "Unga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 30 2026 14:20:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 16:03:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Fulham",
         "#OLUWAFORCE",
-        "#iLOTBETHouseEvent",
+        "#ITALAWA",
         "#JULYFOROLUWASON",
-        "Maxence Lacroix",
-        "#SNGOSCEONationalworkshop",
-        "Oloye",
+        "#iLOTBETHouseEvent",
+        "Fulham",
+        "Mali",
+        "#SNGOSCEONationalWorkshop",
+        "UEFA",
         "Marcus Rashford",
-        "Newcastle",
-        "Tyla",
-        "Eddie Howe"
+        "Ceuta",
+        "Tyla"
       ],
       "hashtags": [
         "#OLUWAFORCE",
-        "#iLOTBETHouseEvent",
+        "#ITALAWA",
         "#JULYFOROLUWASON",
-        "#SNGOSCEONationalworkshop",
-        "#SFxWilliamEstWesley"
+        "#iLOTBETHouseEvent",
+        "#SNGOSCEONationalWorkshop"
       ],
       "regular_topics": [
         "Fulham",
+        "Mali",
+        "UEFA",
+        "Marcus Rashford",
+        "Ceuta",
+        "Tyla",
+        "Lexark And Legal Tech",
+        "Rashy",
         "Maxence Lacroix",
         "Oloye",
-        "Marcus Rashford",
-        "Newcastle",
-        "Tyla",
-        "Eddie Howe",
-        "Arbeloa",
-        "Welcome to Chelsea",
-        "Tobi Amusan",
-        "Tyler Fredricson"
+        "Infantino"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
