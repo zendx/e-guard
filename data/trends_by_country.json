@@ -1,67 +1,67 @@
 {
-  "generated_at_utc": "2026-07-30T03:48:09.602952+00:00",
+  "generated_at_utc": "2026-07-30T06:14:34.789255+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 30 2026 03:15:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 05:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AEWDynamite",
-        "Thornton",
-        "O'Hoppe",
         "Ali Sanchez",
-        "Tim Hill",
-        "Doval",
-        "Arike",
-        "Ospreay",
-        "Silseth",
-        "Allisha Gray",
-        "Rhyne"
+        "Romy",
+        "Boone",
+        "Hoppe",
+        "Eric Lauer",
+        "#LaCasaDeLosFamososMx",
+        "Thornton",
+        "Edwin Diaz",
+        "Andruw Monasterio",
+        "#brandnewday"
       ],
       "hashtags": [
         "#AEWDynamite",
+        "#LaCasaDeLosFamososMx",
+        "#brandnewday",
         "#WWHL",
-        "#TheValley",
-        "#NINGNINGxGucci",
-        "#Cinemzel26"
+        "#WhiteSox"
       ],
       "regular_topics": [
-        "Thornton",
-        "O'Hoppe",
         "Ali Sanchez",
-        "Tim Hill",
-        "Doval",
-        "Arike",
-        "Ospreay",
+        "Romy",
+        "Boone",
+        "Hoppe",
+        "Eric Lauer",
+        "Thornton",
+        "Edwin Diaz",
+        "Andruw Monasterio",
         "Silseth",
-        "Allisha Gray",
-        "Rhyne",
-        "Paul Blackburn"
+        "Doval",
+        "Jordan Hicks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 30 2026 02:48:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 05:24:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
-        "#AEWDynamite",
         "Polanski",
         "Bow Echo",
         "Spider-Man",
         "UEFA",
-        "Infantino",
+        "#AEWDynamite",
         "Glen Hansard",
-        "Nyoni",
+        "Infantino",
+        "Covid",
         "Lucy Connolly",
-        "Covid"
+        "Reform"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#LIVWRE",
-        "#AsteroidRH",
         "#BBNaija",
+        "#Wordle1867",
+        "#AsteroidRH",
         "#WeStandWithBTS"
       ],
       "regular_topics": [
@@ -70,135 +70,135 @@
         "Bow Echo",
         "Spider-Man",
         "UEFA",
-        "Infantino",
         "Glen Hansard",
-        "Nyoni",
-        "Lucy Connolly",
+        "Infantino",
         "Covid",
-        "Ndukwe"
+        "Lucy Connolly",
+        "Reform",
+        "Nigel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 30 2026 02:40:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 05:16:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Covid",
-        "#AEWDynamite",
-        "Parker",
         "Rand Paul",
         "Celebrini",
+        "Parker",
         "Fifth Amendment",
+        "#AEWDynamite",
         "Grammys",
+        "Wuhan",
         "Shopify",
-        "FOMC",
-        "Wuhan"
+        "FOMC"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#CanM20",
         "#BBNaija",
-        "#BrinityxWWHL",
-        "#WeStandWithBTS"
+        "#WeStandWithBTS",
+        "#mbstorm",
+        "#TheValley"
       ],
       "regular_topics": [
         "Fauci",
         "Covid",
-        "Parker",
         "Rand Paul",
         "Celebrini",
+        "Parker",
         "Fifth Amendment",
         "Grammys",
+        "Wuhan",
         "Shopify",
         "FOMC",
-        "Wuhan",
-        "O'Hoppe"
+        "Hawley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 30 2026 03:30:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 05:12:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Day4_Upper_Circuit_Stock",
+        "#Fold8InANewShape",
         "#Ramayana",
-        "#GodMorningThursday",
+        "#FreePoK",
+        "#Day4_Upper_Circuit_Stock",
+        "#GalaxyZFold8",
         "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
-        "#Yash",
-        "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e",
-        "#UrgentMedicalBailForBapu",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Ajinkya Rahane",
+        "Yash",
+        "The Fold8",
         "Ranbir",
-        "250 Cr",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923"
+        "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e"
       ],
       "hashtags": [
-        "#Day4_Upper_Circuit_Stock",
+        "#Fold8InANewShape",
         "#Ramayana",
+        "#FreePoK",
+        "#Day4_Upper_Circuit_Stock",
+        "#GalaxyZFold8",
         "#GodMorningThursday",
-        "#Yash",
-        "#UrgentMedicalBailForBapu",
-        "#\u0938\u093e\u0935\u0928",
-        "#\u0936\u094d\u0930\u093e\u0935\u0923_\u092e\u093e\u0938",
-        "#Sawan",
         "#HarHarMahadev",
-        "#SaiPallavi",
-        "#\u0950\u0928\u092e\u0903\u0936\u093f\u0935\u093e\u092f"
+        "#Sawan",
+        "#\u0936\u094d\u0930\u093e\u0935\u0923_\u092e\u093e\u0938",
+        "#UrgentMedicalBailForBapu",
+        "#\u0932\u094b\u0939\u093e\u0935\u091f_\u0939\u0924\u094d\u092f\u093e\u0915\u093e\u0902\u0921"
       ],
       "regular_topics": [
         "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
-        "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Ajinkya Rahane",
+        "Yash",
+        "The Fold8",
         "Ranbir",
-        "250 Cr",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
+        "\u0905\u0938\u0940\u092e \u0915\u0943\u092a\u093e",
+        "\u0938\u093e\u0935\u0928 \u092e\u093e\u0938",
+        "Sai Pallavi",
         "\u0926\u0947\u0935 \u092e\u0939\u093e\u0926\u0947\u0935",
-        "\u091c\u0940\u0935\u0928 \u0938\u0941\u0916",
-        "Ashnisha Industries",
-        "\u092a\u0935\u093f\u0924\u094d\u0930 \u092e\u093e\u0939",
-        "Hanuman Ji"
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
+        "Hanuman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 30 2026 03:27:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 06:03:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBNaija",
         "Ricky",
-        "PayBox",
+        "Nomy",
         "Welbeck",
+        "PayBox",
         "Jarvis",
-        "Tyla",
         "Beldex",
-        "FOMC",
+        "Tyla",
+        "Amen",
         "Moonpay",
-        "Malawi",
-        "Fauci"
+        "GM CT"
       ],
       "hashtags": [
         "#BBNaija",
-        "#buyingcontent",
-        "#ekunrawowahala",
-        "#chambreslagos",
-        "#simbapepperoni"
+        "#Gamdom",
+        "#timesheroesawards",
+        "#happybirthdayvictorojeakhena",
+        "#opayisokay"
       ],
       "regular_topics": [
         "Ricky",
-        "PayBox",
+        "Nomy",
         "Welbeck",
+        "PayBox",
         "Jarvis",
-        "Tyla",
         "Beldex",
-        "FOMC",
+        "Tyla",
+        "Amen",
         "Moonpay",
-        "Malawi",
-        "Fauci",
-        "Delap"
+        "GM CT",
+        "FOMC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
