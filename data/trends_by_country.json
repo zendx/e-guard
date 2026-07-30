@@ -1,193 +1,195 @@
 {
-  "generated_at_utc": "2026-07-30T18:07:45.006690+00:00",
+  "generated_at_utc": "2026-07-30T19:57:42.951531+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 30 2026 17:36:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 19:18:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Spain",
         "Morocco",
-        "Ceuta",
+        "Wonder Man",
         "Citadel",
         "Leopold",
         "UEFA",
-        "Situational Awareness",
-        "Tillis",
-        "Infantino",
+        "Spaniards",
         "Pete Rose",
-        "Blanche",
-        "Ken Griffin"
+        "Tillis",
+        "Situational Awareness",
+        "We Odyssey"
       ],
       "hashtags": [
         "#RitasLilVacation",
         "#SB19atLollapalooza",
         "#NationalInternDay",
-        "#OlandriaxTheNextMove",
+        "#RepublicansCutHealthcare",
         "#GalaxyZFold8"
       ],
       "regular_topics": [
+        "Spain",
         "Morocco",
-        "Ceuta",
+        "Wonder Man",
         "Citadel",
         "Leopold",
         "UEFA",
-        "Situational Awareness",
-        "Tillis",
-        "Infantino",
+        "Spaniards",
         "Pete Rose",
-        "Blanche",
-        "Ken Griffin"
+        "Tillis",
+        "Situational Awareness",
+        "We Odyssey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 30 2026 17:57:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 19:42:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "UEFA",
         "Morocco",
+        "UEFA",
+        "Ceuta",
         "Infantino",
         "FIFA",
-        "Ceuta",
-        "The Spanish",
         "Moroccan",
-        "Gibraltar",
-        "Palestine Action",
         "Cueta",
-        "Diamond Necklace"
+        "CONCACAF",
+        "Joelinton",
+        "Gibraltar",
+        "The Spanish"
       ],
       "hashtags": [
         "#thechase",
-        "#farm24"
+        "#oafc",
+        "#Farm24"
       ],
       "regular_topics": [
-        "UEFA",
         "Morocco",
+        "UEFA",
+        "Ceuta",
         "Infantino",
         "FIFA",
-        "Ceuta",
-        "The Spanish",
         "Moroccan",
-        "Gibraltar",
-        "Palestine Action",
         "Cueta",
-        "Diamond Necklace"
+        "CONCACAF",
+        "Joelinton",
+        "Gibraltar",
+        "The Spanish"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 30 2026 17:52:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 19:36:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
-        "Covid",
         "Spain",
-        "UEFA",
-        "Rand Paul",
+        "Covid",
         "Ceuta",
+        "UEFA",
         "Morocco",
+        "Rand Paul",
         "FIFA",
         "Leopold",
-        "Infantino",
-        "Celebrini"
+        "Celebrini",
+        "Wonder Man"
       ],
       "hashtags": [
         "#SB19atLollapalooza",
         "#AEWDynamite",
-        "#BBNaija"
+        "#BBNaija",
+        "#WeStandWithBTS"
       ],
       "regular_topics": [
         "Fauci",
-        "Covid",
         "Spain",
-        "UEFA",
-        "Rand Paul",
+        "Covid",
         "Ceuta",
+        "UEFA",
         "Morocco",
+        "Rand Paul",
         "FIFA",
         "Leopold",
-        "Infantino",
-        "Celebrini"
+        "Celebrini",
+        "Wonder Man"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 30 2026 17:48:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 19:32:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#PrincessToQueen",
-        "#Anakapalli",
-        "QUEEN SHIVANGI FOR THE WIN",
         "HAPPIEST BIRTHDAY DILBER",
+        "#PrincessToQueen",
+        "QUEEN SHIVANGI FOR THE WIN",
+        "#Anakapalli",
+        "SLAYER CHOUDHARY",
         "#SpidermanSunfeastFantastik",
-        "#RapidoForAll",
+        "Lovepreet Singh",
+        "Ruchika Singh",
+        "#GayaKaamSe",
         "AKANKSHA BEYOND BETRAYAL",
-        "TRAITORS KA BOSS FUKRA",
-        "#IncredibleIndiaByIndiGo",
-        "TRP CHOKERS LOCK UPP",
-        "HYBE BREAK THE SILENCE"
+        "#ENGENEs_Demand_Accountability"
       ],
       "hashtags": [
         "#PrincessToQueen",
         "#Anakapalli",
         "#SpidermanSunfeastFantastik",
-        "#RapidoForAll",
-        "#IncredibleIndiaByIndiGo"
+        "#GayaKaamSe",
+        "#ENGENEs_Demand_Accountability"
       ],
       "regular_topics": [
-        "QUEEN SHIVANGI FOR THE WIN",
         "HAPPIEST BIRTHDAY DILBER",
-        "AKANKSHA BEYOND BETRAYAL",
-        "TRAITORS KA BOSS FUKRA",
-        "TRP CHOKERS LOCK UPP",
-        "HYBE BREAK THE SILENCE",
-        "Brazil",
+        "QUEEN SHIVANGI FOR THE WIN",
+        "SLAYER CHOUDHARY",
+        "Lovepreet Singh",
         "Ruchika Singh",
-        "Ceuta",
+        "AKANKSHA BEYOND BETRAYAL",
+        "Brazil",
+        "HYBE BREAK THE SILENCE",
+        "TRP CHOKERS LOCK UPP",
         "Morocco",
-        "UEFA"
+        "Ceuta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 30 2026 17:48:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Jul 30 2026 19:31:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ITALAWA",
+        "Bayern",
         "UEFA",
+        "Gerard",
+        "Carlos Espi",
         "#TheGloLegacy",
         "Lexark And Legal Tech",
-        "Bayern Munich",
-        "#OLUWAFORCE",
-        "Infantino",
-        "Marcus Rashford",
-        "Mali",
+        "Levante",
         "Ceuta",
-        "#iLOTBETHouseEvent"
+        "Infantino",
+        "Marcus Rashford"
       ],
       "hashtags": [
         "#ITALAWA",
         "#TheGloLegacy",
+        "#BBNaijaS11",
         "#OLUWAFORCE",
-        "#iLOTBETHouseEvent",
-        "#JULYFOROLUWASON"
+        "#iLOTBETHouseEvent"
       ],
       "regular_topics": [
+        "Bayern",
         "UEFA",
+        "Gerard",
+        "Carlos Espi",
         "Lexark And Legal Tech",
-        "Bayern Munich",
+        "Levante",
+        "Ceuta",
         "Infantino",
         "Marcus Rashford",
-        "Mali",
-        "Ceuta",
-        "Ibile",
-        "Rashy",
-        "Newcastle",
-        "Tyla"
+        "Chukwuebuka Enekwechi",
+        "Egern"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
