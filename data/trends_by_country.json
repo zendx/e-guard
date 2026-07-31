@@ -1,195 +1,198 @@
 {
-  "generated_at_utc": "2026-07-31T18:00:38.731342+00:00",
+  "generated_at_utc": "2026-07-31T19:58:28.429696+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 31 2026 17:39:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 19:21:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Blade",
         "Morocco",
-        "Emma Frost",
-        "Camp David",
         "Ceuta",
-        "Mahershala Ali",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
-        "LINGORM ILF EP7",
-        "JJ Watt",
-        "Romo"
+        "Emma Frost",
+        "Booster Gold",
+        "Camp David",
+        "Romo",
+        "Haley",
+        "Freddy Peralta",
+        "Kristi Noem"
       ],
       "hashtags": [
+        "#FursuitFriday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
         "#GalaxyWatchUltra2",
         "#LastFourWatched",
-        "#FursuitFriday",
         "#LetterboxdFriday"
       ],
       "regular_topics": [
         "Spain",
         "Blade",
         "Morocco",
-        "Emma Frost",
-        "Camp David",
         "Ceuta",
-        "Mahershala Ali",
-        "LINGORM ILF EP7",
-        "JJ Watt",
+        "Emma Frost",
+        "Booster Gold",
+        "Camp David",
         "Romo",
-        "Mudryk"
+        "Haley",
+        "Freddy Peralta",
+        "Kristi Noem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 31 2026 17:15:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 19:48:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TOTP",
         "Spain",
         "Mudryk",
+        "Naderi",
         "Ceuta",
-        "Misha",
-        "Eddie",
+        "Rangers",
+        "Dundee United",
+        "Gassama",
         "Schengen",
         "Moroccan",
-        "Emma Frost",
-        "Suspended",
-        "Blade",
-        "Argos"
+        "Ray Kennedy"
       ],
       "hashtags": [
-        "#thechase",
-        "#LastFourWatched"
+        "#TOTP",
+        "#Gills",
+        "#WHFreeBet",
+        "#LastFourWatched",
+        "#thechase"
       ],
       "regular_topics": [
         "Spain",
         "Mudryk",
+        "Naderi",
         "Ceuta",
-        "Misha",
-        "Eddie",
+        "Rangers",
+        "Dundee United",
+        "Gassama",
         "Schengen",
         "Moroccan",
-        "Emma Frost",
-        "Suspended",
-        "Blade",
-        "Argos"
+        "Ray Kennedy",
+        "Labour and Reform"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 31 2026 17:06:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 19:42:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
+        "Ceuta",
         "Fauci",
         "Covid",
         "Moroccan",
         "Europe",
         "ariana",
         "Spider-Man",
-        "Mudryk",
-        "Blade",
         "Sanchez",
-        "Emma Frost"
+        "Maroc",
+        "Gibraltar"
       ],
       "hashtags": [
         "#petal",
         "#SB19atLollapalooza",
-        "#betya",
-        "#LastFourWatched",
-        "#pigeonvizion"
+        "#pigeonvizion",
+        "#OlandriaxTime100",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7"
       ],
       "regular_topics": [
         "Spain",
+        "Ceuta",
         "Fauci",
         "Covid",
         "Moroccan",
         "Europe",
         "ariana",
         "Spider-Man",
-        "Mudryk",
-        "Blade",
         "Sanchez",
-        "Emma Frost"
+        "Maroc",
+        "Gibraltar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 31 2026 17:03:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 19:39:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Tashan2Dubai",
         "#RootingForShivangi",
-        "Asmita Dey",
-        "#Judo",
-        "Harsh Singh",
         "Kulgam",
-        "#KheloIndia4YouthDevelopment",
+        "Asmita Dey",
+        "LOVE FOR CHOUDHARY MAAPAA",
+        "#Judo",
         "\u0939\u0930\u094d\u0937 \u0938\u093f\u0902\u0939",
-        "#GodNightFriday",
-        "YOGESH STANDS FOR RIGHT",
-        "#Kejriwal",
-        "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935"
+        "AKANKSHA ABOVE BIAS",
+        "EMPATH AKKU",
+        "Hamza",
+        "#Boycott_HYBE_For_Misconduct"
       ],
       "hashtags": [
+        "#Tashan2Dubai",
         "#RootingForShivangi",
         "#Judo",
-        "#KheloIndia4YouthDevelopment",
-        "#GodNightFriday",
-        "#Kejriwal"
+        "#Boycott_HYBE_For_Misconduct",
+        "#SSMBBdayMonth"
       ],
       "regular_topics": [
-        "Asmita Dey",
-        "Harsh Singh",
         "Kulgam",
+        "Asmita Dey",
+        "LOVE FOR CHOUDHARY MAAPAA",
         "\u0939\u0930\u094d\u0937 \u0938\u093f\u0902\u0939",
-        "YOGESH STANDS FOR RIGHT",
-        "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
-        "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
-        "Seedance 2.5",
-        "Tahir Hussain",
+        "AKANKSHA ABOVE BIAS",
+        "EMPATH AKKU",
+        "Hamza",
         "BELIFT STOP THE NEGLECT",
-        "Higgsfield"
+        "YOGESH STANDS FOR RIGHT",
+        "Bernal",
+        "Neeraj Chopra"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 31 2026 17:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 19:39:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mudryk",
         "Misha",
+        "#Lexark",
+        "Birmingham",
         "#GritGameShow",
-        "Hong Kong",
-        "Emma Frost",
-        "Blade",
-        "Camp David",
-        "Mahershala Ali",
-        "#StayConnectedWithGlo",
-        "HE'S BACK",
-        "The FA"
+        "Hamza",
+        "Julian Brandt",
+        "Jesse Bisiwu",
+        "Gittens",
+        "Valentin Joseph",
+        "Tunkara"
       ],
       "hashtags": [
+        "#Lexark",
         "#GritGameShow",
         "#StayConnectedWithGlo",
-        "#iLOTBETHousePrize",
-        "#Johnvents3in1chocolate",
-        "#DailyTimesAt100"
+        "#CryptoGambling",
+        "#CryptoCasino"
       ],
       "regular_topics": [
         "Mudryk",
         "Misha",
-        "Hong Kong",
-        "Emma Frost",
-        "Blade",
-        "Camp David",
-        "Mahershala Ali",
-        "HE'S BACK",
-        "The FA",
-        "Thieves",
-        "Strasbourg"
+        "Birmingham",
+        "Hamza",
+        "Julian Brandt",
+        "Jesse Bisiwu",
+        "Gittens",
+        "Valentin Joseph",
+        "Tunkara",
+        "Ajax",
+        "Arena"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
