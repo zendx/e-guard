@@ -1,77 +1,78 @@
 {
-  "generated_at_utc": "2026-07-30T23:29:49.437637+00:00",
+  "generated_at_utc": "2026-07-31T01:04:08.865750+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Jul 30 2026 22:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 00:27:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Morocco",
+        "#AEWCollision",
+        "#OlandriaxTime100",
         "Ceuta",
-        "Wonder Man",
         "Moroccan",
-        "Spaniards",
-        "5sos",
         "#spiderman",
-        "The Spanish",
-        "Kody Clemens",
-        "$AMZN"
+        "Wonder Man",
+        "Grant Holmes",
+        "Spaniards",
+        "#OlandriaxMugler",
+        "Motor City Machine Guns"
       ],
       "hashtags": [
-        "#spiderman",
+        "#AEWCollision",
         "#OlandriaxTime100",
-        "#SB19atLollapalooza",
-        "#RepublicansCutHealthcare"
+        "#spiderman",
+        "#OlandriaxMugler",
+        "#SB19atLollapalooza"
       ],
       "regular_topics": [
         "Spain",
-        "Morocco",
         "Ceuta",
-        "Wonder Man",
         "Moroccan",
+        "Wonder Man",
+        "Grant Holmes",
         "Spaniards",
+        "Motor City Machine Guns",
         "5sos",
         "The Spanish",
-        "Kody Clemens",
-        "$AMZN",
-        "TEENAGE DREAM"
+        "Hunter Barco",
+        "Cueta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Jul 30 2026 23:09:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 00:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Morocco",
         "Ceuta",
+        "Moroccan",
         "Europe",
         "Gibraltar",
-        "Moroccan",
+        "North Africa",
         "Cueta",
         "Diane Abbott",
-        "Africa",
         "The Spanish",
         "5sos",
         "CONCACAF"
       ],
       "hashtags": [
+        "#SB19atLollapalooza",
         "#Newsnight",
         "#CWGNetball",
-        "#SB19atLollapalooza",
         "#BBNaija",
-        "#oafc"
+        "#FIFA"
       ],
       "regular_topics": [
         "Morocco",
         "Ceuta",
+        "Moroccan",
         "Europe",
         "Gibraltar",
-        "Moroccan",
+        "North Africa",
         "Cueta",
         "Diane Abbott",
-        "Africa",
         "The Spanish",
         "5sos",
         "CONCACAF"
@@ -81,26 +82,26 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Jul 30 2026 23:00:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 00:44:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fauci",
         "Spain",
         "Covid",
         "Morocco",
         "UEFA",
-        "Europe",
+        "#OlandriaxTime100",
+        "#bb28",
         "#SB19atLollapalooza",
         "Rand Paul",
         "Infantino",
-        "Moroccan",
-        "Leopold"
+        "Europe"
       ],
       "hashtags": [
-        "#SB19atLollapalooza",
-        "#BBNaija",
         "#OlandriaxTime100",
-        "#AEWDynamite",
-        "#estmontreal"
+        "#bb28",
+        "#SB19atLollapalooza",
+        "#AEWCollision",
+        "#OlandriaxMugler"
       ],
       "regular_topics": [
         "Fauci",
@@ -108,90 +109,90 @@
         "Covid",
         "Morocco",
         "UEFA",
-        "Europe",
         "Rand Paul",
         "Infantino",
+        "Europe",
         "Moroccan",
-        "Leopold",
-        "CONCACAF"
+        "Mallory",
+        "Leopold"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Jul 30 2026 22:57:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 00:42:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RapidoForAll",
         "#Ramayana",
+        "#RapidoForAll",
         "#UnfoldANewShape",
         "#HappyBirthdaySamCS",
-        "#SpiderManBrandNewDay",
-        "Ajinkya Rahane",
+        "#GodMorningFriday",
         "queen shivangi for the win",
+        "Ajinkya Rahane",
         "ashnisha industries",
         "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
         "250 cr",
-        "Marvel"
+        "\u092e\u0941\u0902\u0936\u0940 \u092a\u094d\u0930\u0947\u092e\u091a\u0902\u0926"
       ],
       "hashtags": [
-        "#RapidoForAll",
         "#Ramayana",
+        "#RapidoForAll",
         "#UnfoldANewShape",
         "#HappyBirthdaySamCS",
-        "#SpiderManBrandNewDay"
+        "#GodMorningFriday"
       ],
       "regular_topics": [
-        "Ajinkya Rahane",
         "queen shivangi for the win",
+        "Ajinkya Rahane",
         "ashnisha industries",
         "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e",
         "250 cr",
-        "Marvel",
+        "\u092e\u0941\u0902\u0936\u0940 \u092a\u094d\u0930\u0947\u092e\u091a\u0902\u0926",
         "Ranbir",
+        "Marvel",
         "Yash",
-        "Sai Pallavi",
-        "TRAITORS KA BOSS FUKRA",
-        "Sita"
+        "traitors ka boss fukra",
+        "Sai Pallavi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Jul 30 2026 22:57:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 00:40:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Oriad\u00e9",
-        "Carlos Espi",
-        "CONCACAF",
-        "Levante",
-        "Temi",
-        "Barry",
-        "Goddessa",
-        "Sultex",
-        "Endrick",
-        "Bayern",
-        "Ceuta"
+        "Davido",
+        "Already Falling",
+        "Fola",
+        "Amazing Grace",
+        "Julie",
+        "Constantly",
+        "On The Road",
+        "My Light",
+        "Zanzibar",
+        "#30BG"
       ],
       "hashtags": [
         "#Oriad\u00e9",
-        "#ITALAWA",
+        "#30BG",
         "#BBNaijaS11",
         "#spiderman",
-        "#TheGloLegacy"
+        "#ITALAWA"
       ],
       "regular_topics": [
-        "Carlos Espi",
-        "CONCACAF",
-        "Levante",
-        "Temi",
-        "Barry",
-        "Goddessa",
-        "Sultex",
-        "Endrick",
-        "Bayern",
-        "Ceuta",
-        "Moonpay"
+        "Davido",
+        "Already Falling",
+        "Fola",
+        "Amazing Grace",
+        "Julie",
+        "Constantly",
+        "On The Road",
+        "My Light",
+        "Zanzibar",
+        "Tell Everybody",
+        "Peruzzi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
