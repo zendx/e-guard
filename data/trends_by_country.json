@@ -1,88 +1,87 @@
 {
-  "generated_at_utc": "2026-07-31T19:58:28.429696+00:00",
+  "generated_at_utc": "2026-07-31T20:59:58.948523+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 31 2026 19:21:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 20:13:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Blade",
         "Morocco",
         "Ceuta",
-        "Emma Frost",
         "Booster Gold",
+        "Will Warren",
+        "Emma Frost",
         "Camp David",
-        "Romo",
         "Haley",
-        "Freddy Peralta",
-        "Kristi Noem"
+        "Hamza",
+        "Romo"
       ],
       "hashtags": [
         "#FursuitFriday",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
         "#GalaxyWatchUltra2",
-        "#LastFourWatched",
-        "#LetterboxdFriday"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
+        "#IDLEPALOOZA",
+        "#LastFourWatched"
       ],
       "regular_topics": [
         "Spain",
         "Blade",
         "Morocco",
         "Ceuta",
-        "Emma Frost",
         "Booster Gold",
+        "Will Warren",
+        "Emma Frost",
         "Camp David",
-        "Romo",
         "Haley",
-        "Freddy Peralta",
-        "Kristi Noem"
+        "Hamza",
+        "Romo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 31 2026 19:48:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 20:40:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TOTP",
-        "Spain",
-        "Mudryk",
-        "Naderi",
-        "Ceuta",
         "Rangers",
-        "Dundee United",
+        "Naderi",
+        "Godfrey",
         "Gassama",
-        "Schengen",
-        "Moroccan",
-        "Ray Kennedy"
+        "Morocco",
+        "Dundee United",
+        "Aasgaard",
+        "Ceuta",
+        "Beadle",
+        "Mudryk"
       ],
       "hashtags": [
         "#TOTP",
         "#Gills",
         "#WHFreeBet",
-        "#LastFourWatched",
-        "#thechase"
+        "#LastFourWatched"
       ],
       "regular_topics": [
-        "Spain",
-        "Mudryk",
-        "Naderi",
-        "Ceuta",
         "Rangers",
-        "Dundee United",
+        "Naderi",
+        "Godfrey",
         "Gassama",
-        "Schengen",
-        "Moroccan",
-        "Ray Kennedy",
-        "Labour and Reform"
+        "Morocco",
+        "Dundee United",
+        "Aasgaard",
+        "Ceuta",
+        "Beadle",
+        "Mudryk",
+        "McInnes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 31 2026 19:42:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 20:33:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Ceuta",
@@ -91,8 +90,8 @@
         "Moroccan",
         "Europe",
         "ariana",
-        "Spider-Man",
         "Sanchez",
+        "Spider-Man",
         "Maroc",
         "Gibraltar"
       ],
@@ -111,8 +110,8 @@
         "Moroccan",
         "Europe",
         "ariana",
-        "Spider-Man",
         "Sanchez",
+        "Spider-Man",
         "Maroc",
         "Gibraltar"
       ],
@@ -121,78 +120,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 31 2026 19:39:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 20:31:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Tashan2Dubai",
         "#RootingForShivangi",
+        "Hamza",
         "Kulgam",
         "Asmita Dey",
+        "Tejaswin Shankar",
         "LOVE FOR CHOUDHARY MAAPAA",
+        "Arshad Nadeem",
         "#Judo",
-        "\u0939\u0930\u094d\u0937 \u0938\u093f\u0902\u0939",
         "AKANKSHA ABOVE BIAS",
-        "EMPATH AKKU",
-        "Hamza",
-        "#Boycott_HYBE_For_Misconduct"
+        "EMPATH AKKU"
       ],
       "hashtags": [
         "#Tashan2Dubai",
         "#RootingForShivangi",
         "#Judo",
         "#Boycott_HYBE_For_Misconduct",
-        "#SSMBBdayMonth"
+        "#ENtwined_As_Seven"
       ],
       "regular_topics": [
+        "Hamza",
         "Kulgam",
         "Asmita Dey",
+        "Tejaswin Shankar",
         "LOVE FOR CHOUDHARY MAAPAA",
-        "\u0939\u0930\u094d\u0937 \u0938\u093f\u0902\u0939",
+        "Arshad Nadeem",
         "AKANKSHA ABOVE BIAS",
         "EMPATH AKKU",
-        "Hamza",
-        "BELIFT STOP THE NEGLECT",
-        "YOGESH STANDS FOR RIGHT",
-        "Bernal",
-        "Neeraj Chopra"
+        "\u0939\u0930\u094d\u0937 \u0938\u093f\u0902\u0939",
+        "Neeraj Chopra",
+        "BELIFT STOP THE NEGLECT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 31 2026 19:39:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 20:30:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mudryk",
+        "Hamza",
+        "Birmingham",
         "Misha",
         "#Lexark",
-        "Birmingham",
         "#GritGameShow",
-        "Hamza",
         "Julian Brandt",
-        "Jesse Bisiwu",
+        "Club Brugge",
         "Gittens",
-        "Valentin Joseph",
+        "Jesse Bisiwu",
         "Tunkara"
       ],
       "hashtags": [
         "#Lexark",
         "#GritGameShow",
-        "#StayConnectedWithGlo",
-        "#CryptoGambling",
-        "#CryptoCasino"
+        "#OPayIsOkay",
+        "#StayConnectedWithGlo"
       ],
       "regular_topics": [
         "Mudryk",
-        "Misha",
-        "Birmingham",
         "Hamza",
+        "Birmingham",
+        "Misha",
         "Julian Brandt",
-        "Jesse Bisiwu",
+        "Club Brugge",
         "Gittens",
-        "Valentin Joseph",
+        "Jesse Bisiwu",
         "Tunkara",
-        "Ajax",
-        "Arena"
+        "Valentin Joseph",
+        "Ezekiel Nathaniel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
