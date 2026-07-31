@@ -1,40 +1,40 @@
 {
-  "generated_at_utc": "2026-07-31T14:43:09.762939+00:00",
+  "generated_at_utc": "2026-07-31T16:28:10.314061+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Jul 31 2026 14:12:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 15:56:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Good Friday",
+        "Camp David",
+        "Morocco",
+        "Ceuta",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
         "LINGORM ILF EP7",
-        "RED Friday",
-        "Kanan",
-        "Coexistence",
-        "Happy Friyay",
-        "Moroccan",
-        "Camp David",
-        "#FridayVibes"
+        "JJ Watt",
+        "#LastFourWatched",
+        "Mudryk",
+        "Good Friday",
+        "Coexistence"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
-        "#FridayVibes",
+        "#LastFourWatched",
         "#FursuitFriday",
-        "#MCMViejaMalcriada",
-        "#GenshinSpecialProgram"
+        "#LetterboxdFriday",
+        "#GalaxyWatchUltra2"
       ],
       "regular_topics": [
         "Spain",
-        "Good Friday",
-        "LINGORM ILF EP7",
-        "RED Friday",
-        "Kanan",
-        "Coexistence",
-        "Happy Friyay",
-        "Moroccan",
         "Camp David",
+        "Morocco",
+        "Ceuta",
+        "LINGORM ILF EP7",
+        "JJ Watt",
+        "Mudryk",
+        "Good Friday",
+        "Coexistence",
         "Runch",
         "Neen"
       ],
@@ -43,154 +43,153 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Jul 31 2026 13:45:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 15:28:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
-        "Morocco",
         "Ceuta",
+        "Mudryk",
         "Argos",
-        "Talk Of New York",
+        "American Affair",
+        "Suspended",
         "Buick",
         "Moroccan",
-        "Gibraltar",
-        "Mayors",
-        "Suspended",
-        "Africa"
+        "Misha",
+        "Talk Of New York",
+        "Gibraltar"
       ],
       "hashtags": [
-        "#GenshinImpact",
-        "#thismorning",
-        "#Goodwood"
+        "#aplaceinthesun",
+        "#GenshinImpact"
       ],
       "regular_topics": [
         "Spain",
-        "Morocco",
         "Ceuta",
+        "Mudryk",
         "Argos",
-        "Talk Of New York",
+        "American Affair",
+        "Suspended",
         "Buick",
         "Moroccan",
-        "Gibraltar",
-        "Mayors",
-        "Suspended",
-        "Africa"
+        "Misha",
+        "Talk Of New York",
+        "Gibraltar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Jul 31 2026 14:30:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 16:15:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Fauci",
-        "Morocco",
         "Covid",
         "Moroccan",
         "ariana",
         "Europe",
+        "Mudryk",
         "Spider-Man",
-        "UEFA",
         "Sanchez",
-        "#SB19atLollapalooza"
+        "UEFA",
+        "Blade"
       ],
       "hashtags": [
-        "#SB19atLollapalooza",
         "#petal",
+        "#SB19atLollapalooza",
         "#betya",
-        "#pigeonvizion",
-        "#OlandriaxTime100"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
+        "#LastFourWatched"
       ],
       "regular_topics": [
         "Spain",
         "Fauci",
-        "Morocco",
         "Covid",
         "Moroccan",
         "ariana",
         "Europe",
+        "Mudryk",
         "Spider-Man",
-        "UEFA",
         "Sanchez",
-        "Civic Holiday"
+        "UEFA",
+        "Blade"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Jul 31 2026 14:27:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 16:12:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RootingForShivangi",
         "#KheloIndia4YouthDevelopment",
-        "#GalaxyF70ProLaunch3Aug",
+        "Asmita Dey",
+        "#GodNightFriday",
+        "#Judo",
+        "Harsh Singh",
         "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
-        "#GalaxyZFold8",
-        "No Shake Cam",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
-        "#1DayToGo",
-        "#Fold8InANewShape",
-        "Tahir Hussain",
-        "Ankit Sharma",
-        "\u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0905\u0902\u0915\u093f\u0924 \u0936\u0930\u094d\u092e\u093e"
+        "Kulgam",
+        "#Sardar2",
+        "Seedance 2.5"
       ],
       "hashtags": [
+        "#RootingForShivangi",
         "#KheloIndia4YouthDevelopment",
-        "#GalaxyF70ProLaunch3Aug",
-        "#GalaxyZFold8",
-        "#1DayToGo",
-        "#Fold8InANewShape"
+        "#GodNightFriday",
+        "#Judo",
+        "#Sardar2"
       ],
       "regular_topics": [
+        "Asmita Dey",
+        "Harsh Singh",
         "\u0924\u093e\u0939\u093f\u0930 \u0939\u0941\u0938\u0948\u0928",
-        "No Shake Cam",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
-        "Tahir Hussain",
-        "Ankit Sharma",
-        "\u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0905\u0902\u0915\u093f\u0924 \u0936\u0930\u094d\u092e\u093e",
-        "EFFORTLESSLY ICONIC HARSHAD",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u093f\u092e\u0902\u0921\u0932",
-        "Higgsfield",
+        "Kulgam",
         "Seedance 2.5",
-        "\u0938\u0942\u0930\u094d\u092f \u0938\u0930\u094b\u0935\u0930 \u092f\u094b\u091c\u0928\u093e"
+        "Higgsfield",
+        "Tahir Hussain",
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u093f\u092e\u0902\u0921\u0932",
+        "Samsung Galaxy F70 Pro 5G",
+        "Mudryk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Jul 31 2026 14:25:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Jul 31 2026 16:09:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DailyTimesAt100",
-        "#iLOTBETHousePrize",
-        "Davido",
+        "Misha",
+        "Mudryk",
+        "#StayConnectedWithGlo",
+        "Hong Kong",
         "The FA",
+        "Camp David",
         "#Johnvents3in1chocolate",
-        "Genoa",
-        "Abramovich",
-        "Happy Birthday AJ",
-        "FRESH VDM",
-        "Suspended",
-        "#NWOSUCASSI"
+        "HE'S BACK",
+        "#iLOTBETHousePrize",
+        "Thieves",
+        "Blade"
       ],
       "hashtags": [
-        "#DailyTimesAt100",
-        "#iLOTBETHousePrize",
+        "#StayConnectedWithGlo",
         "#Johnvents3in1chocolate",
-        "#NWOSUCASSI",
-        "#betterwithambo"
+        "#iLOTBETHousePrize",
+        "#DailyTimesAt100",
+        "#NWOSUCASSI"
       ],
       "regular_topics": [
-        "Davido",
+        "Misha",
+        "Mudryk",
+        "Hong Kong",
         "The FA",
-        "Genoa",
+        "Camp David",
+        "HE'S BACK",
+        "Thieves",
+        "Blade",
+        "Parma",
         "Abramovich",
-        "Happy Birthday AJ",
-        "FRESH VDM",
-        "Suspended",
-        "Lewis Hall",
-        "Miguel Guti\u00e9rrez",
-        "Suzuki",
-        "Ceuta"
+        "Suspended"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
