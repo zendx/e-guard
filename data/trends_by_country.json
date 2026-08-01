@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-01T10:56:38.342051+00:00",
+  "generated_at_utc": "2026-08-01T11:56:02.688015+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 01 2026 10:03:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 10:54:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Introducing",
-        "Betty",
-        "#DMDSportsDay2026",
-        "DevOps",
         "Good Saturday",
+        "#DMDSportsDay2026",
+        "Betty",
         "#CH3GirlsCup2026",
-        "#\u0e15\u0e35\u0e4b\u0e15\u0e35\u0e4b\u0e1b\u0e4b\u0e2d\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e14\u0e22\u0e4c2026",
-        "TEETEEPOR CHEER UP",
-        "Mr. Morris",
         "Happy New Month",
-        "Miss Grace"
+        "#\u0e15\u0e35\u0e4b\u0e15\u0e35\u0e4b\u0e1b\u0e4b\u0e2d\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e14\u0e22\u0e4c2026",
+        "Caturday",
+        "TEETEEPOR CHEER UP",
+        "Gallagher",
+        "LENAMIU GIRLS CUP CH3",
+        "DOMUNDI SPORTS 2026"
       ],
       "hashtags": [
         "#DMDSportsDay2026",
@@ -26,84 +26,83 @@
         "#MLBS6Spoilers"
       ],
       "regular_topics": [
-        "Introducing",
-        "Betty",
-        "DevOps",
         "Good Saturday",
-        "TEETEEPOR CHEER UP",
-        "Mr. Morris",
+        "Betty",
         "Happy New Month",
-        "Miss Grace",
-        "Mrs. Van Court",
+        "Caturday",
+        "TEETEEPOR CHEER UP",
+        "Gallagher",
+        "LENAMIU GIRLS CUP CH3",
         "DOMUNDI SPORTS 2026",
-        "KNP OHAE FULL POWER"
+        "KNP OHAE FULL POWER",
+        "Giulia",
+        "HAN JISUNG"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 01 2026 10:31:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 11:24:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Gallagher",
+        "Danso",
         "Gakpo",
+        "Gallagher",
+        "Kinsky",
         "#YorkshireDay",
-        "Potts",
+        "Essugo",
+        "Solanke",
         "Estevao",
-        "#Caturday",
-        "MATCH DAY",
-        "Happy New Month",
-        "Van Hecke",
+        "Potts",
         "Robertson",
         "#CHETOT"
       ],
       "hashtags": [
         "#YorkshireDay",
-        "#Caturday",
         "#CHETOT",
+        "#Caturday",
         "#CWGNetball",
-        "#PostboxSaturday",
         "#DMDSportsDay2026",
-        "#SmackDown"
+        "#PostboxSaturday"
       ],
       "regular_topics": [
-        "Gallagher",
+        "Danso",
         "Gakpo",
-        "Potts",
+        "Gallagher",
+        "Kinsky",
+        "Essugo",
+        "Solanke",
         "Estevao",
-        "MATCH DAY",
-        "Happy New Month",
-        "Van Hecke",
+        "Potts",
         "Robertson",
         "Solomon",
-        "Gittens",
-        "GAME DAY"
+        "Van Hecke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 01 2026 10:21:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 11:15:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Morocco",
-        "Ceuta",
         "#gamblorballing",
+        "Ceuta",
         "#betya",
         "Fauci",
         "Moroccan",
-        "#CH3GirlsCup2026",
         "Spider-Man",
-        "#DMDSportsDay2026",
-        "LENAMIU GIRLS CUP CH3"
+        "#CH3GirlsCup2026",
+        "Europe",
+        "Covid"
       ],
       "hashtags": [
         "#gamblorballing",
         "#betya",
         "#CH3GirlsCup2026",
         "#DMDSportsDay2026",
-        "#\u0e15\u0e35\u0e4b\u0e15\u0e35\u0e4b\u0e1b\u0e4b\u0e2d\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e14\u0e22\u0e4c2026"
+        "#SmackDown"
       ],
       "regular_topics": [
         "Spain",
@@ -112,18 +111,18 @@
         "Fauci",
         "Moroccan",
         "Spider-Man",
-        "LENAMIU GIRLS CUP CH3",
         "Europe",
         "Covid",
-        "DOMUNDI SPORTS 2026",
-        "ariana"
+        "LENAMIU GIRLS CUP CH3",
+        "ariana",
+        "Maroc"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 01 2026 10:18:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 11:09:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ExcellencyStudios",
         "Taran Adarsh",
@@ -131,31 +130,30 @@
         "#SpideyOnDistrict",
         "#KisanVirodhiKejriwal",
         "#UttarandhraKalalakuRekkalu",
-        "Use SPIDERMAN20",
+        "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
         "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "\u0905\u091c\u0940\u0924 \u0921\u094b\u092d\u093e\u0932",
-        "Arvind Kejriwal",
-        "Rekha Gupta"
+        "Use SPIDERMAN20",
+        "Jaismine Lamboria",
+        "Praveen Chithravel"
       ],
       "hashtags": [
         "#ExcellencyStudios",
         "#KejriwalTownHallAgainstE20",
         "#SpideyOnDistrict",
         "#KisanVirodhiKejriwal",
-        "#UttarandhraKalalakuRekkalu",
-        "#KoreanKanakaraju"
+        "#UttarandhraKalalakuRekkalu"
       ],
       "regular_topics": [
         "Taran Adarsh",
-        "Use SPIDERMAN20",
+        "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
         "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "Use SPIDERMAN20",
+        "Jaismine Lamboria",
+        "Praveen Chithravel",
         "\u0905\u091c\u0940\u0924 \u0921\u094b\u092d\u093e\u0932",
-        "Arvind Kejriwal",
-        "Rekha Gupta",
-        "Ravinder Kumar",
-        "Ethanol",
-        "National Townhall Against E20",
-        "\u0928\u0940\u0930\u091c \u091a\u094b\u092a\u0921\u093c\u093e",
+        "GK CARVING KKK LEGACY",
+        "Selva Prabhu",
+        "Michaela Walsh",
         "Lokmanya Tilak"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -163,23 +161,23 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 01 2026 10:18:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 11:09:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Month",
         "Tottenham",
-        "Gallagher",
-        "May August",
         "Spurs",
-        "#CHETOT",
+        "Gallagher",
         "#KogiRelaxWithShedrack",
+        "Essugo",
+        "#CHETOT",
         "Estevao",
-        "Portable",
-        "#HelloAugust",
-        "TVSGFF"
+        "May August",
+        "Danso",
+        "Gittens"
       ],
       "hashtags": [
-        "#CHETOT",
         "#KogiRelaxWithShedrack",
+        "#CHETOT",
         "#HelloAugust",
         "#WelcomeAugust",
         "#August2026"
@@ -187,15 +185,15 @@
       "regular_topics": [
         "Happy New Month",
         "Tottenham",
-        "Gallagher",
-        "May August",
         "Spurs",
+        "Gallagher",
+        "Essugo",
         "Estevao",
-        "Portable",
-        "TVSGFF",
-        "Sandro Tonali",
+        "May August",
+        "Danso",
         "Gittens",
-        "Dear August"
+        "Portable",
+        "Kinsky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
