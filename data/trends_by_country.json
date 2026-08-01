@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-01T17:48:20.904385+00:00",
+  "generated_at_utc": "2026-08-01T18:47:59.417345+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 01 2026 16:57:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 17:48:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCBelgrade",
         "Michael Oliveira",
+        "Gilbert Urbina",
         "Vologdin",
+        "Cepo",
         "Bill Maher",
-        "#PeachAndMeSeriesFinalEP",
-        "Nikolic",
-        "Yoho",
-        "#UFCSerbia",
+        "#SummerSlam",
         "Toub",
-        "Good Saturday",
-        "#SummerSlam"
+        "#UFCSerbia",
+        "George Kirby",
+        "#PeachAndMeSeriesFinalEP"
       ],
       "hashtags": [
         "#UFCBelgrade",
-        "#PeachAndMeSeriesFinalEP",
-        "#UFCSerbia",
         "#SummerSlam",
+        "#UFCSerbia",
+        "#PeachAndMeSeriesFinalEP",
         "#Caturday"
       ],
       "regular_topics": [
         "Michael Oliveira",
+        "Gilbert Urbina",
         "Vologdin",
+        "Cepo",
         "Bill Maher",
-        "Nikolic",
-        "Yoho",
         "Toub",
-        "Good Saturday",
-        "Buzukja",
-        "Cyrus Allen",
+        "George Kirby",
+        "Pirro",
+        "Noah Gugnon",
         "Spider-Man Day",
-        "Bo Naylor"
+        "Yoho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 01 2026 17:24:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 18:15:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FULL TIME",
         "Norgaard",
         "#UFCBelgrade",
+        "#thehitlist",
+        "FULL TIME",
         "#swfc",
-        "Lacey",
+        "#soundsofthe80s",
         "Scott McKenna",
-        "Mason Mount",
+        "#pnefc",
+        "Lacey",
         "Gana",
-        "Pederson",
-        "#HWCafe",
-        "JJ Gabriel"
+        "Pederson"
       ],
       "hashtags": [
         "#UFCBelgrade",
+        "#thehitlist",
         "#swfc",
-        "#HWCafe",
-        "#pnefc",
-        "#ncfc"
+        "#soundsofthe80s",
+        "#pnefc"
       ],
       "regular_topics": [
-        "FULL TIME",
         "Norgaard",
-        "Lacey",
+        "FULL TIME",
         "Scott McKenna",
-        "Mason Mount",
+        "Lacey",
         "Gana",
         "Pederson",
+        "Mason Mount",
+        "Aznou",
         "JJ Gabriel",
-        "HALF TIME",
-        "Andrey Santos",
-        "Aznou"
+        "Man of the Match",
+        "HALF TIME"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 01 2026 17:15:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 18:06:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Morocco",
@@ -92,8 +92,8 @@
         "Spider-Man",
         "Moroccan",
         "Fauci",
-        "Europe",
         "Covid",
+        "Europe",
         "Maroc"
       ],
       "hashtags": [
@@ -101,7 +101,7 @@
         "#UFCBelgrade",
         "#Caturday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7",
-        "#DMDSportsDay2026"
+        "#PFLNY"
       ],
       "regular_topics": [
         "Spain",
@@ -110,89 +110,89 @@
         "Spider-Man",
         "Moroccan",
         "Fauci",
-        "Europe",
         "Covid",
+        "Europe",
         "Maroc",
-        "Sanchez",
-        "Klein"
+        "Klein",
+        "Coldcard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 01 2026 17:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 18:03:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#E20Petrol",
-        "#AtmanirbharBharat",
         "#GreenEnergy",
-        "#E20Fuel",
-        "#TalktimeKiTaaqat",
+        "#AtmanirbharBharat",
+        "#HaiJawaniTohIshqHonaHai",
+        "#RedemptionQueenShivangi",
         "WATCH ELVISH ON PG 5",
+        "CHOUDHARY BEYOND TROPHY",
+        "COURAGEOUS AKANKSHA",
         "THE CHEAP SHOW LOCK UPP",
-        "AKKUSENA IS PROUD OF AKKU",
-        "India's E20",
-        "Sakshi Chaudhary",
-        "CM Chandrababu Naidu"
+        "FKN STUPID AHH SHOW",
+        "Sachin Siwach"
       ],
       "hashtags": [
         "#E20Petrol",
-        "#AtmanirbharBharat",
         "#GreenEnergy",
-        "#E20Fuel",
-        "#TalktimeKiTaaqat"
+        "#AtmanirbharBharat",
+        "#HaiJawaniTohIshqHonaHai",
+        "#RedemptionQueenShivangi"
       ],
       "regular_topics": [
         "WATCH ELVISH ON PG 5",
+        "CHOUDHARY BEYOND TROPHY",
+        "COURAGEOUS AKANKSHA",
         "THE CHEAP SHOW LOCK UPP",
+        "FKN STUPID AHH SHOW",
+        "Sachin Siwach",
         "AKKUSENA IS PROUD OF AKKU",
-        "India's E20",
-        "Sakshi Chaudhary",
         "CM Chandrababu Naidu",
-        "Arundhati Choudhary",
-        "ENHYPEN ARE NOT MACHINES",
-        "Priya Ghanghas",
-        "KHILADI FARHANA ARRIVES",
-        "\u0938\u093e\u0915\u094d\u0937\u0940 \u091a\u094c\u0927\u0930\u0940"
+        "Sakshi Chaudhary",
+        "India's E20",
+        "Priya Ghanghas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 01 2026 17:09:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 18:03:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jarvis",
         "#JP2026",
-        "Mason Mount",
-        "Shea Lacey",
-        "Norgaard",
-        "Carrick",
-        "Everton",
-        "Andrey Santos",
-        "JJ Gabriel",
+        "Sam Larry",
         "#Jarpel2026",
-        "Fiorentina"
+        "Mason Mount",
+        "Fiorentina",
+        "Norgaard",
+        "Shea Lacey",
+        "Carrick",
+        "Zinoleesky",
+        "Kolu"
       ],
       "hashtags": [
         "#JP2026",
         "#Jarpel2026",
-        "#BasseyOtu",
         "#PARTYWITHCASSI",
-        "#manchesterunited"
+        "#CASSIXGUINNESS",
+        "#BasseyOtu"
       ],
       "regular_topics": [
         "Jarvis",
+        "Sam Larry",
         "Mason Mount",
-        "Shea Lacey",
-        "Norgaard",
-        "Carrick",
-        "Everton",
-        "Andrey Santos",
-        "JJ Gabriel",
         "Fiorentina",
+        "Norgaard",
+        "Shea Lacey",
+        "Carrick",
+        "Zinoleesky",
         "Kolu",
-        "Mbeumo"
+        "Everton",
+        "Danny"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
