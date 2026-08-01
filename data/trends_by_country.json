@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-01T20:02:26.234632+00:00",
+  "generated_at_utc": "2026-08-01T21:13:00.409959+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 01 2026 19:32:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 20:24:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sydney Taylor",
         "#UFCBelgrade",
         "Doval",
         "#SummerSlam",
-        "Rakic",
-        "Navajo Stirling",
         "Uros Medic",
         "Aces",
-        "Tzolis",
-        "#UFCSerbia",
-        "Max Dowman"
+        "Brock",
+        "Rakic",
+        "Pirro",
+        "Punk",
+        "Navajo Stirling"
       ],
       "hashtags": [
         "#UFCBelgrade",
@@ -28,61 +28,61 @@
       "regular_topics": [
         "Sydney Taylor",
         "Doval",
-        "Rakic",
-        "Navajo Stirling",
         "Uros Medic",
         "Aces",
-        "Tzolis",
-        "Max Dowman",
-        "A'ja",
+        "Brock",
+        "Rakic",
         "Pirro",
-        "Chicago Sky"
+        "Punk",
+        "Navajo Stirling",
+        "A'ja",
+        "Tzolis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 01 2026 19:06:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 20:48:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Max Dowman",
         "Tzolis",
+        "Josh Kerr",
         "Hearts",
-        "Dowman",
         "#UFCBelgrade",
-        "Aberdeen",
-        "Norgaard",
-        "#soundsofthe80s",
-        "McCart",
+        "#SummerSlam",
+        "Ife Ibrahim",
+        "Girona",
         "Steve McManaman",
-        "#thehitlist",
-        "#swfc"
+        "Aberdeen",
+        "Meslier"
       ],
       "hashtags": [
         "#UFCBelgrade",
+        "#SummerSlam",
         "#soundsofthe80s",
         "#thehitlist",
-        "#swfc",
-        "#SummerSlam"
+        "#swfc"
       ],
       "regular_topics": [
+        "Max Dowman",
         "Tzolis",
+        "Josh Kerr",
         "Hearts",
-        "Dowman",
-        "Aberdeen",
-        "Norgaard",
-        "McCart",
+        "Ife Ibrahim",
+        "Girona",
         "Steve McManaman",
-        "Havertz",
-        "Olusanya",
-        "FULL TIME",
-        "Girona"
+        "Aberdeen",
+        "Meslier",
+        "McCart",
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 01 2026 19:51:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 20:42:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spain",
         "Morocco",
@@ -91,17 +91,17 @@
         "#UFCBelgrade",
         "Spider-Man",
         "Moroccan",
+        "#SummerSlam",
         "Sydney Taylor",
         "Uros Medic",
-        "Covid",
-        "Fauci"
+        "Covid"
       ],
       "hashtags": [
         "#HaleyStevens",
         "#UFCBelgrade",
-        "#AIW3",
-        "#Caturday",
-        "#SummerSlam"
+        "#SummerSlam",
+        "#CrownCoins",
+        "#Caturday"
       ],
       "regular_topics": [
         "Spain",
@@ -112,8 +112,8 @@
         "Sydney Taylor",
         "Uros Medic",
         "Covid",
-        "Fauci",
         "Maroc",
+        "Fauci",
         "Europe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 01 2026 18:55:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 20:39:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HaiJawaniTohIshqHonaHai",
         "#E20Petrol",
         "#GreenEnergy",
         "#AtmanirbharBharat",
-        "#TalktimeKiTaaqat",
-        "#HaiJawaniTohIshqHonaHai",
-        "WATCH ELVISH ON PG 5",
-        "CHOUDHARY BEYOND TROPHY",
+        "#\u091c\u0928\u0924\u093e_\u0924\u094d\u0930\u0938\u094d\u0924_\u092a\u0930\u094d\u091a\u0940_\u092e\u0938\u094d\u0924",
         "Sachin Siwach",
-        "SELF RESPECT IS NOT EGO",
-        "COURAGEOUS AKANKSHA",
-        "AKKU DESERVES THE BEST"
+        "WATCH ELVISH ON PG 5",
+        "Gulveer Singh",
+        "CHOUDHARY BEYOND TROPHY",
+        "ENHYPEN ARE NOT MACHINES",
+        "SELF RESPECT IS NOT EGO"
       ],
       "hashtags": [
+        "#HaiJawaniTohIshqHonaHai",
         "#E20Petrol",
         "#GreenEnergy",
         "#AtmanirbharBharat",
-        "#TalktimeKiTaaqat",
-        "#HaiJawaniTohIshqHonaHai"
+        "#\u091c\u0928\u0924\u093e_\u0924\u094d\u0930\u0938\u094d\u0924_\u092a\u0930\u094d\u091a\u0940_\u092e\u0938\u094d\u0924"
       ],
       "regular_topics": [
-        "WATCH ELVISH ON PG 5",
-        "CHOUDHARY BEYOND TROPHY",
         "Sachin Siwach",
+        "WATCH ELVISH ON PG 5",
+        "Gulveer Singh",
+        "CHOUDHARY BEYOND TROPHY",
+        "ENHYPEN ARE NOT MACHINES",
         "SELF RESPECT IS NOT EGO",
-        "COURAGEOUS AKANKSHA",
         "AKKU DESERVES THE BEST",
+        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940",
+        "Priya Ghanghas",
         "CM Chandrababu Naidu",
-        "Sakshi Chaudhary",
-        "FKN STUPID AHH SHOW",
-        "TRP CHOR FLOP UPP",
-        "Priya Ghanghas"
+        "Sakshi Chaudhary"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 01 2026 19:45:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 20:36:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jarvis",
         "Max Dowman",
         "Tzolis",
-        "#JP2026",
         "Girona",
-        "#Jarpel2026",
-        "Sam Larry",
+        "#JP2026",
         "Ife Ibrahim",
-        "Kolu",
-        "Fiorentina",
-        "Kai Havertz"
+        "#Jarpel2026",
+        "Asisat Oshoala",
+        "#Oga9jA",
+        "Pretty Mike",
+        "#NGAZAM"
       ],
       "hashtags": [
         "#JP2026",
         "#Jarpel2026",
-        "#GIRARS",
-        "#OPayisOkay",
-        "#PARTYWITHCASSI"
+        "#Oga9jA",
+        "#NGAZAM",
+        "#GIRARS"
       ],
       "regular_topics": [
         "Jarvis",
         "Max Dowman",
         "Tzolis",
         "Girona",
-        "Sam Larry",
         "Ife Ibrahim",
-        "Kolu",
-        "Fiorentina",
-        "Kai Havertz",
-        "Sydney Taylor",
-        "Mason Mount"
+        "Asisat Oshoala",
+        "Pretty Mike",
+        "Gabriel Jesus",
+        "Sam Larry",
+        "King Ochacho",
+        "Kolu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
