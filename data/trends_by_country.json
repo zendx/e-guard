@@ -1,196 +1,198 @@
 {
-  "generated_at_utc": "2026-08-01T15:32:24.247666+00:00",
+  "generated_at_utc": "2026-08-01T16:43:27.770039+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 01 2026 15:15:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 16:06:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCBelgrade",
+        "Bill Maher",
         "Good Saturday",
         "Yoho",
-        "#HaleyStevens",
-        "Bill Maher",
-        "Blake Perkins",
         "#PeachAndMeSeriesFinalEP",
-        "Bo Naylor",
+        "Buzukja",
         "#Caturday",
-        "Jovan Leka",
-        "Shea Lacey"
+        "Bo Naylor",
+        "#UFCSerbia",
+        "Blake Perkins",
+        "#SummerSlam"
       ],
       "hashtags": [
         "#UFCBelgrade",
-        "#HaleyStevens",
         "#PeachAndMeSeriesFinalEP",
         "#Caturday",
-        "#blitzmove1"
+        "#UFCSerbia",
+        "#SummerSlam"
       ],
       "regular_topics": [
+        "Bill Maher",
         "Good Saturday",
         "Yoho",
-        "Bill Maher",
-        "Blake Perkins",
+        "Buzukja",
         "Bo Naylor",
-        "Jovan Leka",
-        "Shea Lacey",
-        "Stephanie Luciano",
+        "Blake Perkins",
+        "Cyrus Allen",
+        "Herzog",
+        "Dave Toub",
         "Spider-Man Day",
-        "Nina Milosevic",
-        "Hailey Cowan"
+        "Jovan Leka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 01 2026 14:48:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 16:31:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "FULL TIME",
+        "Norgaard",
+        "HALF TIME",
         "Lacey",
-        "#HaleyStevens",
+        "#UFCBelgrade",
+        "Mason Mount",
+        "Scott McKenna",
         "JJ Gabriel",
-        "Dorgu",
-        "KICK OFF",
-        "Mbeumo",
-        "Jack Fletcher",
-        "Madjo",
-        "TEAM NEWS",
         "Andrey Santos",
-        "Starting XI"
+        "#swfc",
+        "#HWCafe"
       ],
       "hashtags": [
-        "#HaleyStevens",
-        "#SoapOperaFolkInFilmOrSong",
-        "#YorkshireDay",
+        "#UFCBelgrade",
+        "#swfc",
         "#HWCafe",
-        "#PeachAndMeSeriesFinalEP"
+        "#SoapOperaFolkInFilmOrSong",
+        "#ncfc"
       ],
       "regular_topics": [
+        "FULL TIME",
+        "Norgaard",
+        "HALF TIME",
         "Lacey",
+        "Mason Mount",
+        "Scott McKenna",
         "JJ Gabriel",
-        "Dorgu",
-        "KICK OFF",
-        "Mbeumo",
-        "Jack Fletcher",
-        "Madjo",
-        "TEAM NEWS",
         "Andrey Santos",
-        "Starting XI",
-        "McAidoo"
+        "Trialist",
+        "Falkirk",
+        "Yoro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 01 2026 14:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 16:24:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HaleyStevens",
         "Spain",
         "Morocco",
         "Ceuta",
-        "Lacey",
-        "Fauci",
+        "#HaleyStevens",
+        "#UFCBelgrade",
+        "Mason Mount",
         "Moroccan",
+        "Fauci",
         "Spider-Man",
         "#Caturday",
-        "Europe",
-        "Covid"
+        "Europe"
       ],
       "hashtags": [
         "#HaleyStevens",
-        "#Caturday",
         "#UFCBelgrade",
-        "#betya",
-        "#gamblorballing"
+        "#Caturday",
+        "#PeachAndMeSeriesFinalEP",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP7"
       ],
       "regular_topics": [
         "Spain",
         "Morocco",
         "Ceuta",
-        "Lacey",
-        "Fauci",
+        "Mason Mount",
         "Moroccan",
+        "Fauci",
         "Spider-Man",
         "Europe",
         "Covid",
         "Maroc",
-        "Emancipation Day"
+        "Shea Lacey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 01 2026 14:36:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 16:20:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u0917\u0948\u0930\u093e\u0902_\u0915\u0947_\u0926\u0941\u0916_\u0926\u0942\u0930_\u0915\u0930\u0942\u0902",
-        "#SpiderMan131CR",
-        "#\u092a\u0930\u094d\u091a\u0940\u0932\u093e\u0932_\u092e\u0938\u094d\u0924_\u091c\u0928\u0924\u093e_\u0924\u094d\u0930\u0938\u094d\u0924",
+        "#E20Fuel",
+        "#TalktimeKiTaaqat",
+        "#AtmanirbharBharat",
+        "#GreenEnergy",
+        "#HaiJawaniTohIshqHonaHai",
         "KHILADI FARHANA ARRIVES",
-        "#PeachAndMeSeriesFinalEP",
-        "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
-        "#PreetiPawar",
+        "ENHYPEN ARE NOT MACHINES",
+        "AKKUSENA IS PROUD OF AKKU",
+        "Sakshi Chaudhary",
         "Annapurna Muhim",
-        "Paid Election Campaign",
-        "AVINASH GRACES KKK15",
-        "Soman Rana"
+        "CM Chandrababu Naidu"
       ],
       "hashtags": [
-        "#\u0917\u0948\u0930\u093e\u0902_\u0915\u0947_\u0926\u0941\u0916_\u0926\u0942\u0930_\u0915\u0930\u0942\u0902",
-        "#SpiderMan131CR",
-        "#\u092a\u0930\u094d\u091a\u0940\u0932\u093e\u0932_\u092e\u0938\u094d\u0924_\u091c\u0928\u0924\u093e_\u0924\u094d\u0930\u0938\u094d\u0924",
-        "#PeachAndMeSeriesFinalEP",
-        "#PreetiPawar"
+        "#E20Fuel",
+        "#TalktimeKiTaaqat",
+        "#AtmanirbharBharat",
+        "#GreenEnergy",
+        "#HaiJawaniTohIshqHonaHai"
       ],
       "regular_topics": [
         "KHILADI FARHANA ARRIVES",
-        "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
+        "ENHYPEN ARE NOT MACHINES",
+        "AKKUSENA IS PROUD OF AKKU",
+        "Sakshi Chaudhary",
         "Annapurna Muhim",
-        "Paid Election Campaign",
+        "CM Chandrababu Naidu",
         "AVINASH GRACES KKK15",
-        "Soman Rana",
-        "Jaismine Lamboria",
-        "Lacey",
-        "\u0905\u091c\u0940\u0924 \u0921\u094b\u092d\u093e\u0932",
-        "GK CARVING KKK LEGACY",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u0941\u0930\u0915\u094d\u0937\u093e"
+        "Lock UPP",
+        "Priya Ghanghas",
+        "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
+        "Spider-Man"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 01 2026 14:36:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 16:18:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lacey",
-        "Tottenham",
         "Jarvis",
-        "Spurs",
         "#JP2026",
-        "Dorgu",
-        "Happy New Month",
-        "Aunty Ramota",
-        "Tosin",
+        "Mason Mount",
+        "Shea Lacey",
+        "Carrick",
+        "Andrey Santos",
+        "Norgaard",
+        "JJ Gabriel",
+        "Everton",
         "Mbeumo",
-        "Alonso"
+        "Tottenham"
       ],
       "hashtags": [
         "#JP2026",
-        "#KogiRelaxWithShedrack",
-        "#CHETOT"
+        "#BasseyOtu",
+        "#Jarpel2026",
+        "#GGMU",
+        "#ManchesterUnited"
       ],
       "regular_topics": [
-        "Lacey",
-        "Tottenham",
         "Jarvis",
-        "Spurs",
-        "Dorgu",
-        "Happy New Month",
-        "Aunty Ramota",
-        "Tosin",
+        "Mason Mount",
+        "Shea Lacey",
+        "Carrick",
+        "Andrey Santos",
+        "Norgaard",
+        "JJ Gabriel",
+        "Everton",
         "Mbeumo",
-        "Alonso",
-        "Pep Chavarr\u00eda"
+        "Tottenham",
+        "Atletico Madrid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
