@@ -1,90 +1,90 @@
 {
-  "generated_at_utc": "2026-08-01T11:56:02.688015+00:00",
+  "generated_at_utc": "2026-08-01T12:55:04.743799+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 01 2026 10:54:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 12:39:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HaleyStevens",
         "Good Saturday",
-        "#DMDSportsDay2026",
-        "Betty",
-        "#CH3GirlsCup2026",
-        "Happy New Month",
-        "#\u0e15\u0e35\u0e4b\u0e15\u0e35\u0e4b\u0e1b\u0e4b\u0e2d\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e14\u0e22\u0e4c2026",
+        "#BlitzMOVE1",
         "Caturday",
-        "TEETEEPOR CHEER UP",
-        "Gallagher",
-        "LENAMIU GIRLS CUP CH3",
-        "DOMUNDI SPORTS 2026"
+        "#PeachAndMeSeriesFinalEP",
+        "#SaturdayVibes",
+        "#DMDSportsDay2026",
+        "Tosin",
+        "Essugo",
+        "Introducing",
+        "Happy New Month"
       ],
       "hashtags": [
-        "#DMDSportsDay2026",
-        "#CH3GirlsCup2026",
-        "#\u0e15\u0e35\u0e4b\u0e15\u0e35\u0e4b\u0e1b\u0e4b\u0e2d\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e14\u0e22\u0e4c2026",
-        "#\u0e40\u0e01\u0e48\u0e07\u0e19\u0e49\u0e4d\u0e32\u0e1b\u0e34\u0e07\u0e0b\u0e39\u0e48\u0e0b\u0e48\u0e32\u0e42\u0e2d\u0e4b\u0e40\u0e2d\u0e4b\u0e2a\u0e39\u0e49\u0e2a\u0e39\u0e49",
-        "#MLBS6Spoilers"
+        "#HaleyStevens",
+        "#BlitzMOVE1",
+        "#PeachAndMeSeriesFinalEP",
+        "#SaturdayVibes",
+        "#DMDSportsDay2026"
       ],
       "regular_topics": [
         "Good Saturday",
-        "Betty",
-        "Happy New Month",
         "Caturday",
+        "Tosin",
+        "Essugo",
+        "Introducing",
+        "Happy New Month",
+        "Stephanie White",
         "TEETEEPOR CHEER UP",
-        "Gallagher",
-        "LENAMIU GIRLS CUP CH3",
-        "DOMUNDI SPORTS 2026",
-        "KNP OHAE FULL POWER",
-        "Giulia",
-        "HAN JISUNG"
+        "Happy 1st",
+        "Tottenham",
+        "Galloway"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 01 2026 11:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 12:15:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HaleyStevens",
+        "Tosin",
         "Danso",
         "Gakpo",
-        "Gallagher",
+        "Manchester",
         "Kinsky",
-        "#YorkshireDay",
         "Essugo",
+        "#YorkshireDay",
         "Solanke",
-        "Estevao",
-        "Potts",
-        "Robertson",
-        "#CHETOT"
+        "Tottenham",
+        "Gallagher"
       ],
       "hashtags": [
+        "#HaleyStevens",
         "#YorkshireDay",
         "#CHETOT",
         "#Caturday",
-        "#CWGNetball",
-        "#DMDSportsDay2026",
-        "#PostboxSaturday"
+        "#DMDSportsDay2026"
       ],
       "regular_topics": [
+        "Tosin",
         "Danso",
         "Gakpo",
-        "Gallagher",
+        "Manchester",
         "Kinsky",
         "Essugo",
         "Solanke",
-        "Estevao",
-        "Potts",
-        "Robertson",
-        "Solomon",
-        "Van Hecke"
+        "Tottenham",
+        "Gallagher",
+        "Richy",
+        "Potts"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 01 2026 11:15:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 12:06:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HaleyStevens",
         "Spain",
         "Morocco",
         "#gamblorballing",
@@ -93,16 +93,15 @@
         "Fauci",
         "Moroccan",
         "Spider-Man",
-        "#CH3GirlsCup2026",
         "Europe",
-        "Covid"
+        "#CH3GirlsCup2026"
       ],
       "hashtags": [
+        "#HaleyStevens",
         "#gamblorballing",
         "#betya",
         "#CH3GirlsCup2026",
-        "#DMDSportsDay2026",
-        "#SmackDown"
+        "#DMDSportsDay2026"
       ],
       "regular_topics": [
         "Spain",
@@ -113,86 +112,86 @@
         "Spider-Man",
         "Europe",
         "Covid",
-        "LENAMIU GIRLS CUP CH3",
+        "Good Saturday",
         "ariana",
-        "Maroc"
+        "Tosin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 01 2026 11:09:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 12:03:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ExcellencyStudios",
-        "Taran Adarsh",
+        "Paid Election Campaign",
         "#KejriwalTownHallAgainstE20",
-        "#SpideyOnDistrict",
-        "#KisanVirodhiKejriwal",
-        "#UttarandhraKalalakuRekkalu",
         "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
-        "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "Use SPIDERMAN20",
-        "Jaismine Lamboria",
-        "Praveen Chithravel"
+        "#PreetiPawar",
+        "#ExcellencyStudios",
+        "#SpideyOnDistrict",
+        "#Boxing",
+        "Taran Adarsh",
+        "\u0905\u091c\u0940\u0924 \u0921\u094b\u092d\u093e\u0932",
+        "Praveen Chithravel",
+        "Soman Rana"
       ],
       "hashtags": [
-        "#ExcellencyStudios",
         "#KejriwalTownHallAgainstE20",
+        "#PreetiPawar",
+        "#ExcellencyStudios",
         "#SpideyOnDistrict",
-        "#KisanVirodhiKejriwal",
-        "#UttarandhraKalalakuRekkalu"
+        "#Boxing"
       ],
       "regular_topics": [
-        "Taran Adarsh",
+        "Paid Election Campaign",
         "\u092a\u094d\u0930\u0940\u0924\u093f \u092a\u0935\u093e\u0930",
-        "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "Use SPIDERMAN20",
-        "Jaismine Lamboria",
-        "Praveen Chithravel",
+        "Taran Adarsh",
         "\u0905\u091c\u0940\u0924 \u0921\u094b\u092d\u093e\u0932",
-        "GK CARVING KKK LEGACY",
+        "Praveen Chithravel",
+        "Soman Rana",
         "Selva Prabhu",
-        "Michaela Walsh",
-        "Lokmanya Tilak"
+        "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "GK CARVING KKK LEGACY",
+        "\u0938\u0947\u0932\u094d\u0935\u093e \u092a\u094d\u0930\u092d\u0941",
+        "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925 \u0917\u0947\u092e\u094d\u0938"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 01 2026 11:09:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 01 2026 12:00:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Month",
         "Tottenham",
+        "Happy New Month",
         "Spurs",
-        "Gallagher",
-        "#KogiRelaxWithShedrack",
-        "Essugo",
         "#CHETOT",
+        "Essugo",
+        "#KogiRelaxWithShedrack",
+        "Gallagher",
+        "Richarlison",
         "Estevao",
-        "May August",
         "Danso",
-        "Gittens"
+        "May August"
       ],
       "hashtags": [
-        "#KogiRelaxWithShedrack",
         "#CHETOT",
+        "#KogiRelaxWithShedrack",
         "#HelloAugust",
         "#WelcomeAugust",
         "#August2026"
       ],
       "regular_topics": [
-        "Happy New Month",
         "Tottenham",
+        "Happy New Month",
         "Spurs",
-        "Gallagher",
         "Essugo",
+        "Gallagher",
+        "Richarlison",
         "Estevao",
-        "May August",
         "Danso",
-        "Gittens",
-        "Portable",
+        "May August",
+        "Oceanic Bank",
         "Kinsky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
