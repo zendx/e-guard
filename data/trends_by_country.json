@@ -1,199 +1,196 @@
 {
-  "generated_at_utc": "2026-08-02T12:50:42.310920+00:00",
+  "generated_at_utc": "2026-08-02T14:20:19.001532+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 02 2026 11:56:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 13:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dodgers",
         "Good Sunday",
-        "Tigers",
+        "#simplepleasures",
         "#cozyvibes",
+        "#everydaymoments",
         "#mindfulliving",
+        "#homebody",
+        "Tigers",
+        "PSD MOGULARRIVAL FS26",
         "Blessed Sunday",
-        "Flint Moore",
-        "#SundayVibes",
-        "Garvin",
-        "Farage",
-        "Brewers"
+        "Sunday Funday"
       ],
       "hashtags": [
+        "#simplepleasures",
         "#cozyvibes",
+        "#everydaymoments",
         "#mindfulliving",
-        "#SundayVibes",
-        "#BlitzMOVE1",
-        "#clubsos"
+        "#homebody"
       ],
       "regular_topics": [
         "Dodgers",
         "Good Sunday",
         "Tigers",
+        "PSD MOGULARRIVAL FS26",
         "Blessed Sunday",
-        "Flint Moore",
-        "Garvin",
-        "Farage",
+        "Sunday Funday",
+        "Jordan Salinas",
         "Brewers",
-        "Bud Deal",
-        "Mrs. Moore",
-        "Zepeda"
+        "World Series",
+        "Mullin",
+        "Dana Bash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 02 2026 12:21:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 14:04:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DreaminaSeedance25",
-        "Rupert",
         "#SummerSlam",
+        "Rupert",
         "Morocco",
         "Ceuta",
+        "#DreaminaSeedance25",
         "Spain",
+        "Europe",
         "Nick Aldis",
         "Moroccan",
-        "Europe",
-        "Brock",
-        "Africa"
+        "Africa",
+        "Brock"
       ],
       "hashtags": [
-        "#DreaminaSeedance25",
         "#SummerSlam",
+        "#DreaminaSeedance25",
         "#YorkshireDay",
         "#UFCBelgrade",
-        "#sammerbcollie"
+        "#haleystevens"
       ],
       "regular_topics": [
         "Rupert",
         "Morocco",
         "Ceuta",
         "Spain",
+        "Europe",
         "Nick Aldis",
         "Moroccan",
-        "Europe",
-        "Brock",
         "Africa",
-        "Manchester",
-        "Stiller"
+        "Brock",
+        "Calvin Harris",
+        "Manchester"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 02 2026 12:15:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 13:57:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SummerSlam",
         "Dodgers",
         "Spain",
         "Ceuta",
         "Morocco",
-        "Good Sunday",
         "#haleystevens",
         "Spider-Man",
         "Gary Busey",
-        "Nick Aldis",
+        "Good Sunday",
+        "#SeductiveSunday",
         "#UFCBelgrade"
       ],
       "hashtags": [
         "#SummerSlam",
         "#haleystevens",
+        "#SeductiveSunday",
         "#UFCBelgrade",
-        "#crowncoins",
-        "#caturday"
+        "#crowncoins"
       ],
       "regular_topics": [
         "Dodgers",
         "Spain",
         "Ceuta",
         "Morocco",
-        "Good Sunday",
         "Spider-Man",
         "Gary Busey",
+        "Good Sunday",
         "Nick Aldis",
+        "Spokane",
         "Brock",
-        "Coldcard",
-        "Moroccan"
+        "Fauci"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 02 2026 12:09:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 13:54:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SpiderManStoleTheShow",
         "#DeewanaOnaha",
-        "Democracy Is NotForSale",
+        "#34YearsOfAjithKumar",
         "VICTORY BELONGS TO SHREYA",
-        "#FriendshipDay",
+        "PSD MOGULARRIVAL FS26",
         "#Yellamma",
+        "Democracy Is NotForSale",
+        "KUSHAL RULING HEARTS",
+        "Happy Friendship",
         "#NashaMuktYuva",
-        "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "Jasprit Bumrah",
-        "Auqib Nabi",
-        "\u092a\u094d\u0930\u092e\u094b\u0926 \u0924\u093f\u0935\u093e\u0930\u0940",
-        "\u092d\u093e\u0930\u0924 \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928"
+        "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935"
       ],
       "hashtags": [
+        "#SpiderManStoleTheShow",
         "#DeewanaOnaha",
-        "#FriendshipDay",
+        "#34YearsOfAjithKumar",
         "#Yellamma",
-        "#NashaMuktYuva",
-        "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#NashaMuktBharat",
-        "#King100"
+        "#NashaMuktYuva"
       ],
       "regular_topics": [
-        "Democracy Is NotForSale",
         "VICTORY BELONGS TO SHREYA",
-        "Jasprit Bumrah",
+        "PSD MOGULARRIVAL FS26",
+        "Democracy Is NotForSale",
+        "KUSHAL RULING HEARTS",
+        "Happy Friendship",
+        "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
+        "TEJA'S PLAYGROUND DEBUT",
+        "Spider-Man: Brand New Day",
         "Auqib Nabi",
-        "\u092a\u094d\u0930\u092e\u094b\u0926 \u0924\u093f\u0935\u093e\u0930\u0940",
-        "\u092d\u093e\u0930\u0924 \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928",
-        "PARSHI",
-        "\u0905\u0936\u094b\u0915 \u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925",
-        "\u092e\u0941\u0915\u094d\u0924 \u092d\u093e\u0930\u0924",
-        "\u0935\u093f\u092e\u0932 \u0915\u0941\u092e\u093e\u0930",
-        "Karan Aujla"
+        "The One",
+        "Jasprit Bumrah"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 02 2026 12:09:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 13:54:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lilith",
-        "BOROKIRI BOY",
         "Yan Couto",
-        "#SanitizeTheOilIndustry",
         "#TyTunezLetsCelebrate",
-        "Church",
         "Pep Chavarr\u00eda",
+        "Peter",
+        "Colo Colo",
+        "Church",
+        "JESUS LOVES ME",
         "Blessed Sunday",
-        "Saint Janet",
-        "Pastor",
-        "Cardinal"
+        "Cardinal",
+        "BOROKIRI BOY"
       ],
       "hashtags": [
-        "#SanitizeTheOilIndustry",
         "#TyTunezLetsCelebrate",
-        "#GovernorBasseyOtu",
-        "#SundayService"
+        "#SanitizeTheOilIndustry",
+        "#GovernorBasseyOtu"
       ],
       "regular_topics": [
         "Lilith",
-        "BOROKIRI BOY",
         "Yan Couto",
-        "Church",
         "Pep Chavarr\u00eda",
+        "Peter",
+        "Colo Colo",
+        "Church",
+        "JESUS LOVES ME",
         "Blessed Sunday",
-        "Saint Janet",
-        "Pastor",
         "Cardinal",
-        "Juanlu",
-        "Colo Colo"
+        "BOROKIRI BOY",
+        "Psquare"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
