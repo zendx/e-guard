@@ -1,100 +1,99 @@
 {
-  "generated_at_utc": "2026-08-02T07:24:50.499679+00:00",
+  "generated_at_utc": "2026-08-02T09:27:25.451697+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 02 2026 06:42:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 08:28:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dodgers",
-        "Zepeda",
         "Tigers",
+        "Zepeda",
         "River Ryan",
         "Brewers",
         "World Series",
-        "Sheehan",
-        "Lockout",
+        "Frawley",
         "Spokane",
-        "Zyhir Hope",
-        "Baseball"
+        "Sheehan",
+        "Garvin",
+        "Lockout"
       ],
       "hashtags": [
-        "#SummerSlam",
         "#Toonami",
         "#NIKKExPersona",
-        "#MyAdventuresWithSuperman",
-        "#Boxing"
+        "#clubsos",
+        "#MyAdventuresWithSuperman"
       ],
       "regular_topics": [
         "Dodgers",
-        "Zepeda",
         "Tigers",
+        "Zepeda",
         "River Ryan",
         "Brewers",
         "World Series",
-        "Sheehan",
-        "Lockout",
+        "Frawley",
         "Spokane",
-        "Zyhir Hope",
-        "Baseball"
+        "Sheehan",
+        "Garvin",
+        "Lockout"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 02 2026 07:09:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 08:52:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Rupert",
         "#SummerSlam",
         "Morocco",
         "Ceuta",
         "Spain",
+        "Nigel",
         "#haleystevens",
         "Nick Aldis",
         "Moroccan",
         "Europe",
-        "#YorkshireDay",
-        "#SundayYellow",
-        "Africa"
+        "#yorkshireday"
       ],
       "hashtags": [
         "#SummerSlam",
         "#haleystevens",
-        "#YorkshireDay",
+        "#yorkshireday",
         "#SundayYellow",
-        "#StainedGlassSunday"
+        "#Harbour"
       ],
       "regular_topics": [
+        "Rupert",
         "Morocco",
         "Ceuta",
         "Spain",
+        "Nigel",
         "Nick Aldis",
         "Moroccan",
         "Europe",
         "Africa",
         "Brock",
-        "Zepeda",
-        "Manchester",
-        "Oba Femi"
+        "Manchester"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 02 2026 07:00:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 08:45:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dodgers",
         "#SummerSlam",
+        "Dodgers",
         "Spain",
         "Morocco",
         "Ceuta",
-        "Tigers",
         "#haleystevens",
         "Spider-Man",
-        "Zepeda",
-        "River Ryan",
-        "#UFCBelgrade"
+        "#UFCBelgrade",
+        "Tigers",
+        "Brock",
+        "Gary Busey"
       ],
       "hashtags": [
         "#SummerSlam",
@@ -108,91 +107,88 @@
         "Spain",
         "Morocco",
         "Ceuta",
-        "Tigers",
         "Spider-Man",
-        "Zepeda",
-        "River Ryan",
-        "Sheehan",
+        "Tigers",
         "Brock",
-        "Gary Busey"
+        "Gary Busey",
+        "Moroccan",
+        "Nick Aldis",
+        "Oba Femi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 02 2026 06:57:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 08:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#FriendshipDay",
         "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#JusticeForBapuji",
-        "Janata Ki Awaaz",
-        "#PingaliVenkayya",
+        "\u0905\u0936\u094b\u0915 \u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925",
         "#PlaneCrash",
-        "\u092a\u093f\u0902\u0917\u0932\u0940 \u0935\u0947\u0902\u0915\u0948\u092f\u093e",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "#NashaMuktYuva",
+        "#NashaMuktBharat",
+        "\u092d\u093e\u0930\u0924 \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0938\u091a\u094d\u091a\u093e \u092e\u093f\u0924\u094d\u0930",
-        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940",
-        "\u0909\u0928\u094d\u0928\u0924\u093f \u0936\u0930\u094d\u092e\u093e"
+        "Janata Ki Awaaz",
+        "Jasprit Bumrah",
+        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940"
       ],
       "hashtags": [
         "#FriendshipDay",
         "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#JusticeForBapuji",
-        "#PingaliVenkayya",
-        "#PlaneCrash"
+        "#PlaneCrash",
+        "#NashaMuktYuva",
+        "#NashaMuktBharat"
       ],
       "regular_topics": [
-        "Janata Ki Awaaz",
-        "\u092a\u093f\u0902\u0917\u0932\u0940 \u0935\u0947\u0902\u0915\u0948\u092f\u093e",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0938\u091a\u094d\u091a\u093e \u092e\u093f\u0924\u094d\u0930",
-        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940",
-        "\u0909\u0928\u094d\u0928\u0924\u093f \u0936\u0930\u094d\u092e\u093e",
-        "\u0939\u093e\u0930\u094d\u0926\u093f\u0915 \u092a\u093e\u0902\u0921\u094d\u092f\u093e",
+        "\u0905\u0936\u094b\u0915 \u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925",
         "\u092d\u093e\u0930\u0924 \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928",
+        "\u0938\u091a\u094d\u091a\u093e \u092e\u093f\u0924\u094d\u0930",
+        "Janata Ki Awaaz",
+        "Jasprit Bumrah",
+        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940",
         "Jharkhand",
+        "\u092a\u093f\u0902\u0917\u0932\u0940 \u0935\u0947\u0902\u0915\u0948\u092f\u093e",
+        "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926",
         "Tanvi Sharma",
-        "\u0932\u0932\u093f\u0924 \u0915\u093f\u0936\u094b\u0930 \u091a\u0924\u0941\u0930\u094d\u0935\u0947\u0926\u0940"
+        "\u0939\u093e\u0930\u094d\u0926\u093f\u0915 \u092a\u093e\u0902\u0921\u094d\u092f\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 02 2026 06:56:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 08:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Month",
-        "Jarvis",
         "Blessed Sunday",
-        "#JP2026",
-        "Sunday of August",
-        "May August",
-        "Tottenham",
-        "Amen",
+        "#GovernorBasseyOtu",
         "Saint Janet",
-        "Temi",
-        "#Jarpel2026"
+        "Sunday of August",
+        "Church",
+        "Today is Sunday",
+        "Happy Sunday CT",
+        "Another Sunday",
+        "Dibu",
+        "Happy Sunday Fam",
+        "Mykhaylo Mudryk"
       ],
       "hashtags": [
-        "#JP2026",
-        "#Jarpel2026",
-        "#BBNaija",
-        "#NGAZAM",
-        "#SummerSlam"
+        "#GovernorBasseyOtu",
+        "#spiderman"
       ],
       "regular_topics": [
-        "Happy New Month",
-        "Jarvis",
         "Blessed Sunday",
-        "Sunday of August",
-        "May August",
-        "Tottenham",
-        "Amen",
         "Saint Janet",
-        "Temi",
+        "Sunday of August",
+        "Church",
+        "Today is Sunday",
         "Happy Sunday CT",
-        "Spurs"
+        "Another Sunday",
+        "Dibu",
+        "Happy Sunday Fam",
+        "Mykhaylo Mudryk",
+        "Beautiful Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
