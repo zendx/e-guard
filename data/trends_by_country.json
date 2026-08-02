@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-08-02T17:49:16.092274+00:00",
+  "generated_at_utc": "2026-08-02T18:48:28.218875+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 02 2026 17:06:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 17:57:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Olivia Miles",
         "Dodgers",
         "Dana Bash",
+        "Kelsey Mitchell",
         "Skubal",
         "RFK Jr",
+        "Lynx",
         "Tigers",
-        "Good Sunday",
-        "Brewers",
-        "Jordan Salinas",
-        "Max Miller",
         "Carville",
-        "Sunday Funday"
+        "Rays",
+        "Jordan Salinas"
       ],
       "hashtags": [
         "#SeductiveSunday",
-        "#simplepleasures",
-        "#lifestyle",
         "#SundayVibes",
-        "#realmoments"
+        "#Lioness",
+        "#\u30d0\u30cb\u30fc\u306e\u65e5",
+        "#presentmoment"
       ],
       "regular_topics": [
+        "Olivia Miles",
         "Dodgers",
         "Dana Bash",
+        "Kelsey Mitchell",
         "Skubal",
         "RFK Jr",
+        "Lynx",
         "Tigers",
-        "Good Sunday",
-        "Brewers",
-        "Jordan Salinas",
-        "Max Miller",
         "Carville",
-        "Sunday Funday"
+        "Rays",
+        "Jordan Salinas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 02 2026 17:32:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 18:24:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rupert",
         "#SummerSlam",
-        "Restore",
         "Morocco",
         "Ceuta",
         "#DreaminaSeedance25",
-        "Motherwell",
         "Spain",
+        "Motherwell",
         "Europe",
-        "#MitheringManuscripts",
-        "Moroccan"
+        "Moroccan",
+        "Nick Aldis",
+        "#sts70s"
       ],
       "hashtags": [
         "#SummerSlam",
         "#DreaminaSeedance25",
+        "#sts70s",
         "#MitheringManuscripts",
-        "#haleystevens",
-        "#HIBMOT"
+        "#SAFC"
       ],
       "regular_topics": [
         "Rupert",
-        "Restore",
         "Morocco",
         "Ceuta",
-        "Motherwell",
         "Spain",
+        "Motherwell",
         "Europe",
         "Moroccan",
         "Nick Aldis",
         "Valentin Barco",
-        "Calvin Harris"
+        "Calvin Harris",
+        "Manchester"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 02 2026 17:24:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 18:16:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dodgers",
         "#SummerSlam",
         "Ceuta",
         "Spain",
-        "#haleystevens",
         "Morocco",
         "Gary Busey",
-        "Dana Bash",
-        "Spider-Man",
         "WestJet",
-        "Tigers"
+        "Olivia Miles",
+        "Spider-Man",
+        "Tigers",
+        "Rays"
       ],
       "hashtags": [
         "#SummerSlam",
-        "#haleystevens",
         "#UFCBelgrade",
         "#crowncoins",
-        "#Caturday"
+        "#Caturday",
+        "#PeachAndMeSeriesFinalEP"
       ],
       "regular_topics": [
         "Dodgers",
@@ -109,73 +109,72 @@
         "Spain",
         "Morocco",
         "Gary Busey",
-        "Dana Bash",
-        "Spider-Man",
         "WestJet",
+        "Olivia Miles",
+        "Spider-Man",
         "Tigers",
-        "Spokane",
-        "RFK Jr"
+        "Rays",
+        "Dana Bash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 02 2026 17:21:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 18:15:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WinItShivangi",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
+        "#WinItShivangi",
         "#\u091c\u0938\u094d\u091f\u093f\u0938_\u092b\u0949\u0930_\u092f\u0941\u0935\u093e_\u092e\u093f\u0924\u094d\u0930",
-        "#VishwanathAndSons",
-        "#34YearsOfAjithKumar",
         "#Boycott_HYBE_For_Mistreatment",
+        "#34YearsOfAjithKumar",
+        "#VishwanathAndSons",
         "BELIFT NEGLECT HAS A COST",
-        "PSD MOGULARRIVAL FS26",
-        "\u0939\u0948\u092a\u094d\u092a\u0940 \u0936\u0930\u094d\u092e\u093e",
+        "Harshad",
         "Jharkhand",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u094d\u0925\u093f\u0924 \u0906\u0935\u093e\u0938"
+        "\u0939\u0948\u092a\u094d\u092a\u0940 \u0936\u0930\u094d\u092e\u093e",
+        "PSD MOGULARRIVAL FS26"
       ],
       "hashtags": [
         "#WinItShivangi",
         "#\u091c\u0938\u094d\u091f\u093f\u0938_\u092b\u0949\u0930_\u092f\u0941\u0935\u093e_\u092e\u093f\u0924\u094d\u0930",
-        "#VishwanathAndSons",
+        "#Boycott_HYBE_For_Mistreatment",
         "#34YearsOfAjithKumar",
-        "#Boycott_HYBE_For_Mistreatment"
+        "#VishwanathAndSons"
       ],
       "regular_topics": [
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
         "BELIFT NEGLECT HAS A COST",
-        "PSD MOGULARRIVAL FS26",
-        "\u0939\u0948\u092a\u094d\u092a\u0940 \u0936\u0930\u094d\u092e\u093e",
+        "Harshad",
         "Jharkhand",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u094d\u0925\u093f\u0924 \u0906\u0935\u093e\u0938",
-        "Athens",
-        "KUSHAL RULING HEARTS",
-        "Happy Friendship",
+        "\u0939\u0948\u092a\u094d\u092a\u0940 \u0936\u0930\u094d\u092e\u093e",
+        "PSD MOGULARRIVAL FS26",
         "13 Gold",
-        "VICTORY BELONGS TO SHREYA"
+        "9 Bronze",
+        "17 Silver",
+        "\u0930\u093e\u091c\u0947\u0902\u0926\u094d\u0930 \u092d\u093e\u0930\u0924\u0940",
+        "\u0938\u0941\u092e\u093f\u0924 \u0936\u0930\u094d\u092e\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 02 2026 17:20:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 02 2026 18:12:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Valentin Barco",
         "Tomorrow is Monday",
         "RC Strasbourg",
-        "Juventus",
+        "Olivia Miles",
         "Ivan Toney",
-        "Randal Kolo Muani",
-        "Lucas Herrington",
-        "Osimhen",
-        "Ferran",
         "Peter",
-        "Psquare"
+        "Randal Kolo Muani",
+        "Ferran",
+        "Juventus",
+        "Psquare",
+        "GitHub"
       ],
       "hashtags": [
-        "#BRUNOGRACEABOUND",
         "#BC9\ufe0f\u20e39\ufe0f\u20e3",
         "#BMMBM"
       ],
@@ -183,14 +182,14 @@
         "Valentin Barco",
         "Tomorrow is Monday",
         "RC Strasbourg",
-        "Juventus",
+        "Olivia Miles",
         "Ivan Toney",
-        "Randal Kolo Muani",
-        "Lucas Herrington",
-        "Osimhen",
-        "Ferran",
         "Peter",
-        "Psquare"
+        "Randal Kolo Muani",
+        "Ferran",
+        "Juventus",
+        "Psquare",
+        "GitHub"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
