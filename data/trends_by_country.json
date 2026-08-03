@@ -1,125 +1,124 @@
 {
-  "generated_at_utc": "2026-08-02T23:24:43.988023+00:00",
+  "generated_at_utc": "2026-08-03T01:00:39.598260+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 02 2026 23:08:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 00:00:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kevin Owens",
         "#SummerSlam",
+        "Chelsea",
+        "Kevin Owens",
         "Baron Corbin",
         "Trick",
+        "Gable",
+        "Rhea",
+        "Penta",
         "#weloveyouariana",
-        "Sami",
-        "Finn",
-        "Chad Williams",
-        "Garcia",
-        "Gunther",
-        "Yachty"
+        "Danhausen",
+        "Sami"
       ],
       "hashtags": [
         "#SummerSlam",
         "#weloveyouariana",
-        "#zempu"
+        "#AndNew"
       ],
       "regular_topics": [
+        "Chelsea",
         "Kevin Owens",
         "Baron Corbin",
         "Trick",
+        "Gable",
+        "Rhea",
+        "Penta",
+        "Danhausen",
         "Sami",
-        "Finn",
         "Chad Williams",
-        "Garcia",
-        "Gunther",
-        "Yachty",
-        "Stanton",
-        "Dana Bash"
+        "Finn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 02 2026 22:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 00:27:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kevin Owens",
         "#SummerSlam",
+        "Chelsea Green",
+        "Chad Gable",
+        "Kevin Owens",
         "Jones",
-        "Gravenberch",
-        "Nyoni",
-        "#lufc",
-        "Frimpong",
-        "Leeds",
+        "Baron Corbin",
+        "Penta",
+        "Seth",
         "#weloveyouariana",
-        "Gunther",
-        "Iraola"
+        "Danhausen",
+        "Gravenberch"
       ],
       "hashtags": [
         "#SummerSlam",
-        "#lufc",
         "#weloveyouariana",
-        "#LIVLEE",
-        "#IMSA"
+        "#lufc",
+        "#LIVLEE"
       ],
       "regular_topics": [
+        "Chelsea Green",
+        "Chad Gable",
         "Kevin Owens",
         "Jones",
+        "Baron Corbin",
+        "Penta",
+        "Seth",
+        "Danhausen",
         "Gravenberch",
         "Nyoni",
-        "Frimpong",
-        "Leeds",
-        "Gunther",
-        "Iraola",
-        "Chiesa",
-        "Sami",
-        "Finn Balor"
+        "Rhea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 02 2026 22:33:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 00:18:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kevin Owens",
         "#SummerSlam",
         "Dodgers",
+        "Chad Gable",
+        "Chelsea Green",
+        "Kevin Owens",
         "Skubal",
         "WestJet",
-        "Sami",
-        "#weloveyouariana",
+        "Baron Corbin",
+        "Penta",
         "Gary Busey",
-        "Ceuta",
-        "Spider-Man",
-        "Dana Bash"
+        "#90DayFiance"
       ],
       "hashtags": [
         "#SummerSlam",
+        "#90DayFiance",
+        "#AndNew",
         "#weloveyouariana",
-        "#UFCBelgrade",
-        "#BlueJays",
-        "#crowncoins"
+        "#UfcBelgrade"
       ],
       "regular_topics": [
-        "Kevin Owens",
         "Dodgers",
+        "Chad Gable",
+        "Chelsea Green",
+        "Kevin Owens",
         "Skubal",
         "WestJet",
-        "Sami",
+        "Baron Corbin",
+        "Penta",
         "Gary Busey",
-        "Ceuta",
-        "Spider-Man",
-        "Dana Bash",
         "Spokane",
-        "Tigers"
+        "Spider-Man"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 02 2026 22:30:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 00:13:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#FriendshipDay",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
@@ -127,68 +126,68 @@
         "Jharkhand",
         "#WinItShivangi",
         "#SpiderManStoleTheShow",
-        "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#SummerSlam",
+        "Chelsea Green",
         "Kevin Owens",
-        "Janata Ki Awaaz",
-        "VICTORY BELONGS TO SHREYA",
-        "democracy is notforsale"
+        "Chad Gable",
+        "janata ki awaaz"
       ],
       "hashtags": [
         "#FriendshipDay",
         "#\u0917\u0948\u0930\u093e\u0902_\u0915\u0947_\u0926\u0941\u0916_\u0926\u0942\u0930_\u0915\u0930\u0942\u0902",
         "#WinItShivangi",
         "#SpiderManStoleTheShow",
-        "#\u092e\u093f\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938"
+        "#SummerSlam"
       ],
       "regular_topics": [
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
         "Jharkhand",
+        "Chelsea Green",
         "Kevin Owens",
-        "Janata Ki Awaaz",
-        "VICTORY BELONGS TO SHREYA",
+        "Chad Gable",
+        "janata ki awaaz",
+        "victory belongs to shreya",
         "democracy is notforsale",
         "\u092d\u093e\u0930\u0924 \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928",
-        "ENHYPEN ARE NOT MACHINES",
         "Ruchika",
-        "\u0905\u0930\u0941\u0902\u0927\u0924\u093f \u091a\u094c\u0927\u0930\u0940",
-        "Nyoni"
+        "ENHYPEN ARE NOT MACHINES"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 02 2026 22:30:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 00:12:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Nomy",
         "Leeds",
         "Jones",
         "Gravenberch",
-        "Aikou",
-        "Trey Nyoni",
+        "Chimsom",
         "Iraola",
-        "Ebuka",
-        "Tomorrow is Monday",
+        "Peter",
+        "Trey Nyoni",
+        "Chelsea Green",
         "Kevin Owens",
-        "Wirtz",
-        "Lewin"
+        "Gio Reyna"
       ],
       "hashtags": [
+        "#SummerSlam",
         "#LIVLEE",
-        "#OPULENByDabota",
-        "#SummerSlam"
+        "#Liverpool"
       ],
       "regular_topics": [
+        "Nomy",
         "Leeds",
         "Jones",
         "Gravenberch",
-        "Aikou",
-        "Trey Nyoni",
+        "Chimsom",
         "Iraola",
-        "Ebuka",
-        "Tomorrow is Monday",
+        "Peter",
+        "Trey Nyoni",
+        "Chelsea Green",
         "Kevin Owens",
-        "Wirtz",
-        "Lewin"
+        "Gio Reyna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
