@@ -1,165 +1,165 @@
 {
-  "generated_at_utc": "2026-08-03T22:47:44.390647+00:00",
+  "generated_at_utc": "2026-08-03T23:56:27.764507+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 03 2026 22:24:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 23:15:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cashman",
         "Mayer",
-        "Adley",
         "Ramos",
+        "Adley",
         "Aaron Rodgers",
-        "Yankees",
-        "Cubs",
-        "Rojas",
         "Braves",
         "Red Cross",
-        "Eli White"
+        "Yankees",
+        "Aaron Nola",
+        "Mize",
+        "Cubs"
       ],
       "hashtags": [],
       "regular_topics": [
         "Cashman",
         "Mayer",
-        "Adley",
         "Ramos",
+        "Adley",
         "Aaron Rodgers",
-        "Yankees",
-        "Cubs",
-        "Rojas",
         "Braves",
         "Red Cross",
-        "Eli White"
+        "Yankees",
+        "Aaron Nola",
+        "Mize",
+        "Cubs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 03 2026 21:56:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 23:40:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Socrates",
         "Duran",
-        "#universitychallenge",
         "Rod Liddle",
         "Hogh",
-        "Engels",
-        "Dundee",
-        "#celebrityhunted",
         "The French",
+        "Andrew Harper",
         "Nygren",
-        "#ycfc",
-        "Kratos"
+        "Dundee",
+        "Kratos",
+        "#celebrityhunted",
+        "#ycfc"
       ],
       "hashtags": [
-        "#universitychallenge",
         "#celebrityhunted",
         "#ycfc",
-        "#Mastermind",
         "#cafc",
+        "#arsd",
         "#CELDUN",
-        "#onlyconnect",
+        "#Mastermind",
         "#CelticFC",
+        "#HOTD",
         "#NoValkoNoMoney",
         "#HouseOfTheDragon"
       ],
       "regular_topics": [
+        "Socrates",
         "Duran",
         "Rod Liddle",
         "Hogh",
-        "Engels",
-        "Dundee",
         "The French",
+        "Andrew Harper",
         "Nygren",
+        "Dundee",
         "Kratos",
         "Lassie",
-        "Dunkirk",
-        "Lindsey"
+        "Dunkirk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 03 2026 21:48:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 23:32:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Varsho",
         "Hoffman",
         "Gausman",
         "Soriano",
         "Jays",
         "#SummerSlam",
+        "Dasan Hill",
         "Nimmala",
-        "Arrighetti",
-        "Astros",
+        "Ross",
         "Dodgers",
-        "Ross"
+        "Bieber",
+        "Jojo Parker"
       ],
       "hashtags": [
         "#SummerSlam",
-        "#HouseOfTheDragon",
+        "#NoValkoNoMoney",
         "#HOTD",
-        "#omegle",
-        "#NoValkoNoMoney"
+        "#HouseOfTheDragon",
+        "#BBNaija"
       ],
       "regular_topics": [
-        "Varsho",
         "Hoffman",
         "Gausman",
         "Soriano",
         "Jays",
+        "Dasan Hill",
         "Nimmala",
-        "Arrighetti",
-        "Astros",
-        "Dodgers",
         "Ross",
-        "Houston"
+        "Dodgers",
+        "Bieber",
+        "Jojo Parker",
+        "Astros"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 03 2026 21:45:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 23:30:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
         "#Bankipur",
         "#PrashantKishor",
-        "#MichelinPrimacy5",
+        "#michelinprimacy5",
         "#DareDevil",
-        "#BeaconforSpace",
+        "#gurupurnimainusa",
         "Jharkhand",
-        "Bihar",
-        "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
         "seemax resources",
+        "Bihar",
+        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
         "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939"
       ],
       "hashtags": [
         "#Bankipur",
         "#PrashantKishor",
-        "#MichelinPrimacy5",
+        "#michelinprimacy5",
         "#DareDevil",
-        "#BeaconforSpace"
+        "#gurupurnimainusa"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
         "Jharkhand",
-        "Bihar",
-        "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
         "seemax resources",
-        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939",
+        "Bihar",
         "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
+        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939",
+        "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
         "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "HARSHAD WINNING HEARTS",
-        "spacetech"
+        "spacetech",
+        "\u090f\u0935\u0947\u0928\u094d\u092f\u0942 \u0915\u094b\u0930\u094d\u091f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 03 2026 22:36:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 23:28:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gerard",
         "Yusuf",
@@ -167,15 +167,14 @@
         "Ave Maria",
         "#OPayisOkay",
         "Senegal",
-        "Gonzalo Garc\u00eda",
         "RATEL",
-        "$Doom",
+        "Gonzalo Garc\u00eda",
+        "Biggie",
         "Ferran Torres",
-        "Biggie"
+        "$Doom"
       ],
       "hashtags": [
-        "#OPayisOkay",
-        "#M\u00e9xico"
+        "#OPayisOkay"
       ],
       "regular_topics": [
         "Gerard",
@@ -183,11 +182,11 @@
         "Sheba",
         "Ave Maria",
         "Senegal",
-        "Gonzalo Garc\u00eda",
         "RATEL",
-        "$Doom",
-        "Ferran Torres",
+        "Gonzalo Garc\u00eda",
         "Biggie",
+        "Ferran Torres",
+        "$Doom",
         "Rangers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
