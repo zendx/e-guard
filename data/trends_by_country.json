@@ -1,38 +1,38 @@
 {
-  "generated_at_utc": "2026-08-03T18:29:38.864175+00:00",
+  "generated_at_utc": "2026-08-03T20:10:25.029969+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 03 2026 18:04:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 19:48:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Adley",
-        "Cashman",
-        "Jo Adell",
-        "Mike Elias",
-        "Taylor Ward",
-        "Bohm",
-        "Brenton Doyle",
-        "Arraez",
-        "DeGrom",
         "Orioles",
+        "Cashman",
+        "Mike Elias",
+        "Red Sox",
+        "Eyanson",
+        "Luke Weaver",
+        "Detmers",
+        "Aaron Rodgers",
+        "Braxton Garrett",
         "Lassie"
       ],
       "hashtags": [
         "#PapergamesRuinsCNgaming",
-        "#MondayMotivation"
+        "#Birdland"
       ],
       "regular_topics": [
         "Adley",
-        "Cashman",
-        "Jo Adell",
-        "Mike Elias",
-        "Taylor Ward",
-        "Bohm",
-        "Brenton Doyle",
-        "Arraez",
-        "DeGrom",
         "Orioles",
+        "Cashman",
+        "Mike Elias",
+        "Red Sox",
+        "Eyanson",
+        "Luke Weaver",
+        "Detmers",
+        "Aaron Rodgers",
+        "Braxton Garrett",
         "Lassie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -40,150 +40,155 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 03 2026 17:39:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 19:21:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rod Liddle",
-        "Jimmy Cricket",
         "The French",
+        "#Mastermind",
+        "Jimmy Cricket",
+        "Duran",
+        "Engels",
+        "Dundee",
+        "Hogh",
         "#thechase",
         "Royal Navy",
-        "Chalobah",
-        "The Spectator",
-        "Trev",
-        "Alex Eala",
-        "HMS Ocean",
-        "Clarkson"
+        "$CATE"
       ],
       "hashtags": [
+        "#Mastermind",
         "#thechase",
-        "#bbcpm",
+        "#PapergamesRuinsCNgaming",
         "#magiceye",
         "#NoValkoNoMoney",
-        "#MondayMotivation"
+        "#BBNaijaS11",
+        "#HouseOfTheDragon"
       ],
       "regular_topics": [
         "Rod Liddle",
-        "Jimmy Cricket",
         "The French",
+        "Jimmy Cricket",
+        "Duran",
+        "Engels",
+        "Dundee",
+        "Hogh",
         "Royal Navy",
-        "Chalobah",
-        "The Spectator",
-        "Trev",
-        "Alex Eala",
-        "HMS Ocean",
-        "Clarkson",
-        "Nick Brown"
+        "$CATE",
+        "Harry Clarke",
+        "French Government"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 03 2026 17:30:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 19:15:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SummerSlam",
-        "Gausman",
         "Soriano",
+        "Gausman",
+        "#SummerSlam",
         "Nimmala",
+        "Macko",
         "Dodgers",
         "Jays",
+        "Josh Smith",
         "WestJet",
         "Jojo Parker",
-        "Cubs",
-        "Spokane",
-        "#HOTD"
+        "Cubs"
       ],
       "hashtags": [
         "#SummerSlam",
         "#HOTD",
         "#HouseOfTheDragon",
-        "#weloveyouariana",
-        "#MondayMotivation"
+        "#NoValkoNoMoney",
+        "#weloveyouariana"
       ],
       "regular_topics": [
-        "Gausman",
         "Soriano",
+        "Gausman",
         "Nimmala",
+        "Macko",
         "Dodgers",
         "Jays",
+        "Josh Smith",
         "WestJet",
         "Jojo Parker",
         "Cubs",
-        "Spokane",
-        "Skubal",
-        "Dana Bash"
+        "Ross"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 03 2026 18:18:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 20:01:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Askfarrhana",
-        "#JConGenzModiDelivers",
+        "HARSHAD WINNING HEARTS",
         "#Fated_To_Be_SevEN",
         "#MonetaryBoycottHYBE",
         "HYBE PUT ARTISTS FIRST",
-        "#MichelinPrimacy5",
-        "HARSHAD WINNING HEARTS",
-        "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "#ShreyaKalra",
+        "#JConGenzModiDelivers",
         "JANTA KA WINNER YOGACE",
-        "Bihar",
-        "Shivangi"
+        "\u092a\u0941\u0932\u093f\u0938 \u091c\u0940\u092a",
+        "Anok Yai",
+        "Bihar"
       ],
       "hashtags": [
         "#Askfarrhana",
-        "#JConGenzModiDelivers",
         "#Fated_To_Be_SevEN",
         "#MonetaryBoycottHYBE",
-        "#MichelinPrimacy5"
+        "#ShreyaKalra",
+        "#JConGenzModiDelivers"
       ],
       "regular_topics": [
-        "HYBE PUT ARTISTS FIRST",
         "HARSHAD WINNING HEARTS",
-        "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "HYBE PUT ARTISTS FIRST",
         "JANTA KA WINNER YOGACE",
+        "\u092a\u0941\u0932\u093f\u0938 \u091c\u0940\u092a",
+        "Anok Yai",
         "Bihar",
         "Shivangi",
-        "B. HDR Selfie",
+        "Bankipur",
         "B. 6 Gen of OS",
-        "A. 6000mAh",
-        "Trisha",
-        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928"
+        "B. HDR Selfie",
+        "Prashant Kishor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 03 2026 18:18:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 03 2026 19:09:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Congratulations Sheba",
+        "Sheba",
         "Jordan Henderson",
+        "#BigFearless",
         "Chalobah",
-        "Queen Sheba",
-        "Hendo",
-        "London Stadium",
+        "Angelo",
+        "Chimsom",
         "Nomy",
         "Al Ittihad",
-        "Misha",
-        "Bluethopia",
-        "$CATE"
+        "Hendo",
+        "$CATE",
+        "London Stadium"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#BigFearless",
+        "#M\u00e9xico"
+      ],
       "regular_topics": [
-        "Congratulations Sheba",
+        "Sheba",
         "Jordan Henderson",
         "Chalobah",
-        "Queen Sheba",
-        "Hendo",
-        "London Stadium",
+        "Angelo",
+        "Chimsom",
         "Nomy",
         "Al Ittihad",
-        "Misha",
-        "Bluethopia",
-        "$CATE"
+        "Hendo",
+        "$CATE",
+        "London Stadium",
+        "Cassi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
