@@ -1,32 +1,32 @@
 {
-  "generated_at_utc": "2026-08-04T10:07:34.775613+00:00",
+  "generated_at_utc": "2026-08-04T12:22:25.436927+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 04 2026 09:39:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 11:24:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Adley",
+        "Good Tuesday",
         "Dodgers",
         "#WWERaw",
         "Cashman",
         "Yankees",
         "WNBA",
         "Roman",
-        "#SummerSlam",
         "Spokane",
         "Dana Bash",
-        "Red Sox"
+        "#NoValkoNoMoney"
       ],
       "hashtags": [
         "#WWERaw",
-        "#SummerSlam",
         "#NoValkoNoMoney",
-        "#weloveyouariana",
+        "#SummerSlam",
         "#Mondaymotivation"
       ],
       "regular_topics": [
         "Adley",
+        "Good Tuesday",
         "Dodgers",
         "Cashman",
         "Yankees",
@@ -34,165 +34,164 @@
         "Roman",
         "Spokane",
         "Dana Bash",
-        "Red Sox",
         "Lassie",
-        "Cubs"
+        "Red Sox"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 04 2026 09:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 11:48:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rod Liddle",
         "Rupert",
-        "Adam Faith",
         "Reform",
         "Royal Navy",
-        "#thicktrunktuesday",
-        "Farage",
-        "#SummerSlam",
         "The French",
-        "#NSPPD",
-        "#WWERaw"
+        "Farage",
+        "Nigel",
+        "#SummerSlam",
+        "Nicolas Jackson",
+        "Adam Faith",
+        "#PUSB"
       ],
       "hashtags": [
-        "#thicktrunktuesday",
         "#SummerSlam",
-        "#NSPPD",
-        "#WWERaw",
-        "#TongueOutTuesday"
+        "#PUSB",
+        "#avfc",
+        "#thismorning",
+        "#WWERaw"
       ],
       "regular_topics": [
         "Rod Liddle",
         "Rupert",
-        "Adam Faith",
         "Reform",
         "Royal Navy",
-        "Farage",
         "The French",
-        "Budgie",
-        "Andrew Harper",
-        "Jimmy Cricket",
-        "Operation Fortress"
+        "Farage",
+        "Nigel",
+        "Nicolas Jackson",
+        "Adam Faith",
+        "Madjo",
+        "Andrew Harper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 04 2026 09:04:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 11:42:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Varsho",
         "Soriano",
-        "Gausman",
+        "Varsho",
         "Jays",
+        "Gausman",
+        "Good Tuesday",
         "Hoffman",
         "Nimmala",
         "Ross",
         "Astros",
         "#WWERaw",
-        "Dodgers",
-        "#SummerSlam"
+        "brendon little"
       ],
       "hashtags": [
         "#WWERaw",
-        "#SummerSlam",
         "#NoValkoNoMoney",
+        "#SummerSlam",
         "#HlinkaGretzkyCup",
-        "#aewredemption"
+        "#AEWRedemption"
       ],
       "regular_topics": [
-        "Varsho",
         "Soriano",
-        "Gausman",
+        "Varsho",
         "Jays",
+        "Gausman",
+        "Good Tuesday",
         "Hoffman",
         "Nimmala",
         "Ross",
         "Astros",
-        "Dodgers",
-        "Brendon Little",
-        "Spokane"
+        "brendon little",
+        "Dodgers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 04 2026 09:54:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 11:39:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GitautsavinUSA",
-        "#POCOM8Power",
-        "#50LakhPMSuryaGhar",
+        "#GalaxyF70ProAt23999",
+        "#KejriwalKisanVirodhi",
+        "#MMTCPAMPVirasatCoin",
         "#UdhayanidhiStalin",
-        "DC Telugu",
-        "#YouthPowerJharkhand",
-        "Trisha",
+        "#GitautsavinUSA",
+        "LPDDR5X RAM",
+        "Snapdragon Processor",
+        "Anant Ambani",
+        "Notify Me",
         "Phuket",
-        "A. 7000mAh",
-        "B. Power for Days",
-        "A. Up to 2.5"
+        "Trisha"
       ],
       "hashtags": [
-        "#GitautsavinUSA",
-        "#POCOM8Power",
-        "#50LakhPMSuryaGhar",
+        "#GalaxyF70ProAt23999",
+        "#KejriwalKisanVirodhi",
+        "#MMTCPAMPVirasatCoin",
         "#UdhayanidhiStalin",
-        "#YouthPowerJharkhand"
+        "#GitautsavinUSA"
       ],
       "regular_topics": [
-        "DC Telugu",
-        "Trisha",
+        "LPDDR5X RAM",
+        "Snapdragon Processor",
+        "Anant Ambani",
+        "Notify Me",
         "Phuket",
-        "A. 7000mAh",
-        "B. Power for Days",
-        "A. Up to 2.5",
-        "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939",
-        "Vijay",
-        "B. Burgundy Red",
-        "\u090f\u092f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e",
-        "\u092c\u093f\u091c\u0932\u0940 \u092f\u094b\u091c\u0928\u093e"
+        "Trisha",
+        "DC Telugu",
+        "\u0938\u091a\u093f\u0928 \u092f\u093e\u0926\u0935",
+        "Dallas",
+        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
+        "13 IAS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 04 2026 09:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 11:39:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#FirstSelfServiceStation",
+        "Betway",
+        "Alberich Token",
         "#MargeSALT",
         "#BBNaija2026",
+        "AirPod",
+        "Mama Deola",
         "Taco Tuesday",
-        "Stegen",
-        "Alberich Token",
         "Robert",
-        "#NSPPD",
-        "Chuks",
-        "400 Naira",
-        "Marc",
-        "Happy 9th"
+        "#BASIS",
+        "400 Naira"
       ],
       "hashtags": [
+        "#FirstSelfServiceStation",
         "#MargeSALT",
         "#BBNaija2026",
-        "#NSPPD",
-        "#BMMBM",
-        "#BRUNOGRACEABOUND"
+        "#BASIS",
+        "#alt\u0131n"
       ],
       "regular_topics": [
-        "Taco Tuesday",
-        "Stegen",
+        "Betway",
         "Alberich Token",
-        "Robert",
-        "Chuks",
-        "400 Naira",
-        "Marc",
-        "Happy 9th",
         "AirPod",
-        "WWE Raw",
-        "Rulli"
+        "Mama Deola",
+        "Taco Tuesday",
+        "Robert",
+        "400 Naira",
+        "Public Sale",
+        "Osun",
+        "Stegen",
+        "Bode George"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
