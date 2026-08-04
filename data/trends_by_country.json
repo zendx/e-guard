@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-08-04T18:20:07.509160+00:00",
+  "generated_at_utc": "2026-08-04T20:04:40.164001+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 04 2026 17:31:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 19:15:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zay Flowers",
         "Thanksgiving",
-        "Coaches Poll",
-        "The Hood",
+        "Zay Flowers",
+        "Carson Beck",
+        "Peni",
+        "#RepublicanMedicareCuts",
         "Fire Emblem",
-        "#GalaxyWatchUltra2",
-        "Cleveland Sirens",
-        "#gachiakuta173",
-        "Seteth",
         "Todd Blanche",
-        "Gun Devil"
+        "Reuters",
+        "The Hood",
+        "#GalaxyWatchUltra2",
+        "Ravens"
       ],
       "hashtags": [
+        "#RepublicanMedicareCuts",
         "#GalaxyWatchUltra2",
         "#gachiakuta173",
-        "#HearTheCall",
-        "#RHUGT",
-        "#RavensFlock"
+        "#UnidosSaldremosAdelante",
+        "#teenager"
       ],
       "regular_topics": [
-        "Zay Flowers",
         "Thanksgiving",
-        "Coaches Poll",
-        "The Hood",
+        "Zay Flowers",
+        "Carson Beck",
+        "Peni",
         "Fire Emblem",
-        "Cleveland Sirens",
-        "Seteth",
         "Todd Blanche",
-        "Gun Devil",
         "Reuters",
-        "Taco Tuesday"
+        "The Hood",
+        "Ravens",
+        "Coaches Poll",
+        "Beni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 04 2026 17:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 19:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Neto",
         "Rod Liddle",
+        "Neto",
         "Rupert",
         "Reform",
         "Restore",
         "Royal Navy",
-        "Savinho",
         "The French",
-        "Maresca",
         "Andrew Harper",
-        "Adam Faith"
+        "Adam Faith",
+        "Farage",
+        "HALF TIME"
       ],
       "hashtags": [
+        "#SewingBee",
+        "#NoValkoNoMoney",
         "#ThickTrunkTuesday",
         "#WWERaw",
-        "#thechase",
-        "#NoValkoNoMoney",
-        "#KhanIllegallyJailed3Years"
+        "#scanny"
       ],
       "regular_topics": [
-        "Neto",
         "Rod Liddle",
+        "Neto",
         "Rupert",
         "Reform",
         "Restore",
         "Royal Navy",
-        "Savinho",
         "The French",
-        "Maresca",
         "Andrew Harper",
-        "Adam Faith"
+        "Adam Faith",
+        "Farage",
+        "HALF TIME"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 04 2026 17:48:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 19:32:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "BUY THE DIP",
-        "Varsho",
         "#omegle",
-        "#teenagee",
-        "Soriano",
-        "Wilmac",
+        "#teenager",
+        "Varsho",
         "NRED",
+        "Wilmac",
+        "Nanos",
+        "Soriano",
         "Hoffman",
         "Jays",
-        "Nanos",
-        "Gausman"
+        "#NoValkoNoMoney"
       ],
       "hashtags": [
         "#omegle",
-        "#teenagee",
+        "#teenager",
         "#NoValkoNoMoney",
         "#WWERaw",
-        "#jonita"
+        "#TejRan"
       ],
       "regular_topics": [
         "BUY THE DIP",
         "Varsho",
-        "Soriano",
-        "Wilmac",
         "NRED",
+        "Wilmac",
+        "Nanos",
+        "Soriano",
         "Hoffman",
         "Jays",
-        "Nanos",
         "Gausman",
         "Spokane",
-        "Ross"
+        "Nimmala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 04 2026 17:45:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 19:30:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Anakapalli",
         "#PradeepRawat",
+        "#Anakapalli",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
-        "#UPKaKanwadMahotsav",
-        "#BamBamUP",
         "\u092a\u094d\u0930\u0926\u0940\u092a \u0930\u093e\u0935\u0924",
-        "Sonu Sood",
-        "Board Game",
+        "#BamBamUP",
+        "#UPKaKanwadMahotsav",
+        "Om Shanti",
         "BELIFT STOP EXPLOITING ENHYPEN",
+        "Board Game",
         "Rama Pyramid",
-        "HBD BHAVIKA"
+        "Sonu Sood"
       ],
       "hashtags": [
-        "#Anakapalli",
         "#PradeepRawat",
+        "#Anakapalli",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
-        "#UPKaKanwadMahotsav",
-        "#BamBamUP"
+        "#BamBamUP",
+        "#UPKaKanwadMahotsav"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u0926\u0940\u092a \u0930\u093e\u0935\u0924",
-        "Sonu Sood",
-        "Board Game",
-        "BELIFT STOP EXPLOITING ENHYPEN",
-        "Rama Pyramid",
-        "HBD BHAVIKA",
         "Om Shanti",
+        "BELIFT STOP EXPLOITING ENHYPEN",
+        "Board Game",
+        "Rama Pyramid",
+        "Sonu Sood",
         "MSV Faize Noore Oliya",
-        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
-        "Himmat Singh",
-        "Neto"
+        "Lagaan",
+        "Yemen",
+        "Neto",
+        "HBD BHAVIKA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 04 2026 17:44:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 19:28:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Neto",
-        "Maresca",
-        "#BabaSegisWives",
-        "Carter",
-        "#ForwardWithAMBO",
-        "Savinho",
         "CYON",
-        "Tijjani Reijnders",
-        "Kolu",
-        "#DTNAt100",
-        "Wike"
+        "#ForwardWithAMBO",
+        "#BabaSegisWives",
+        "#RealWarriPikin",
+        "Savinho",
+        "Maresca",
+        "#WhoDoNigeriansTrustFor2027",
+        "Carter",
+        "Ange Postecoglou",
+        "Through Christ"
       ],
       "hashtags": [
-        "#BabaSegisWives",
         "#ForwardWithAMBO",
-        "#DTNAt100",
-        "#OPayisOkay",
-        "#AugustBlessings"
+        "#BabaSegisWives",
+        "#RealWarriPikin",
+        "#WhoDoNigeriansTrustFor2027",
+        "#OPayisOkay"
       ],
       "regular_topics": [
         "Neto",
+        "CYON",
+        "Savinho",
         "Maresca",
         "Carter",
-        "Savinho",
-        "CYON",
-        "Tijjani Reijnders",
+        "Ange Postecoglou",
+        "Through Christ",
+        "CYAN",
+        "Al Nassr",
         "Kolu",
-        "Wike",
-        "Ange",
-        "Ipswich",
-        "Lati"
+        "Eko Atlantic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
