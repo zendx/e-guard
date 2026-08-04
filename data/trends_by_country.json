@@ -1,193 +1,194 @@
 {
-  "generated_at_utc": "2026-08-03T23:56:27.764507+00:00",
+  "generated_at_utc": "2026-08-04T01:41:49.602261+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 03 2026 23:15:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 00:57:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#WWERaw",
+        "Big Cass",
+        "Derek Hill",
+        "LA Knight",
+        "Red Cross",
+        "Aaron Rodgers",
         "Cashman",
+        "Je'Von Evans",
         "Mayer",
         "Ramos",
-        "Adley",
-        "Aaron Rodgers",
-        "Braves",
-        "Red Cross",
-        "Yankees",
-        "Aaron Nola",
-        "Mize",
-        "Cubs"
+        "Braves"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#WWERaw",
+        "#AniyaxBarbieGame",
+        "#DWTSNextPro",
+        "#AllAmerican",
+        "#RawOnNetflix"
+      ],
       "regular_topics": [
+        "Big Cass",
+        "Derek Hill",
+        "LA Knight",
+        "Red Cross",
+        "Aaron Rodgers",
         "Cashman",
+        "Je'Von Evans",
         "Mayer",
         "Ramos",
-        "Adley",
-        "Aaron Rodgers",
         "Braves",
-        "Red Cross",
-        "Yankees",
-        "Aaron Nola",
-        "Mize",
-        "Cubs"
+        "Sproat"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 03 2026 23:40:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 01:24:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Socrates",
-        "Duran",
+        "#WWERaw",
+        "Rupert",
         "Rod Liddle",
-        "Hogh",
-        "The French",
-        "Andrew Harper",
-        "Nygren",
-        "Dundee",
-        "Kratos",
-        "#celebrityhunted",
-        "#ycfc"
+        "Reform",
+        "#SummerSlam",
+        "Royal Navy",
+        "Nigel",
+        "Big Cass",
+        "LA Knight",
+        "Jimmy Cricket",
+        "The French"
       ],
       "hashtags": [
-        "#celebrityhunted",
-        "#ycfc",
-        "#cafc",
-        "#arsd",
-        "#CELDUN",
-        "#Mastermind",
-        "#CelticFC",
-        "#HOTD",
+        "#WWERaw",
+        "#SummerSlam",
+        "#universitychallenge",
         "#NoValkoNoMoney",
-        "#HouseOfTheDragon"
+        "#DreaminaSeedance25"
       ],
       "regular_topics": [
-        "Socrates",
-        "Duran",
+        "Rupert",
         "Rod Liddle",
-        "Hogh",
+        "Reform",
+        "Royal Navy",
+        "Nigel",
+        "Big Cass",
+        "LA Knight",
+        "Jimmy Cricket",
         "The French",
-        "Andrew Harper",
-        "Nygren",
-        "Dundee",
-        "Kratos",
-        "Lassie",
-        "Dunkirk"
+        "Operation Fortress",
+        "ariana"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 03 2026 23:32:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 01:16:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Hoffman",
+        "#WWERaw",
+        "Varsho",
         "Gausman",
-        "Soriano",
         "Jays",
+        "Soriano",
         "#SummerSlam",
-        "Dasan Hill",
         "Nimmala",
         "Ross",
-        "Dodgers",
-        "Bieber",
-        "Jojo Parker"
+        "Big Cass",
+        "Straw",
+        "Becky"
       ],
       "hashtags": [
+        "#WWERaw",
         "#SummerSlam",
         "#NoValkoNoMoney",
         "#HOTD",
-        "#HouseOfTheDragon",
-        "#BBNaija"
+        "#LaCasaDeLosFamososMx"
       ],
       "regular_topics": [
-        "Hoffman",
+        "Varsho",
         "Gausman",
-        "Soriano",
         "Jays",
-        "Dasan Hill",
+        "Soriano",
         "Nimmala",
         "Ross",
+        "Big Cass",
+        "Straw",
+        "Becky",
         "Dodgers",
-        "Bieber",
-        "Jojo Parker",
-        "Astros"
+        "Dasan Hill"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 03 2026 23:30:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 01:12:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
         "#Bankipur",
+        "#GodMorningTuesday",
         "#PrashantKishor",
         "#michelinprimacy5",
-        "#DareDevil",
-        "#gurupurnimainusa",
+        "#brijbhushansharansingh",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Jharkhand",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
         "seemax resources",
-        "Bihar",
-        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939"
+        "Bihar"
       ],
       "hashtags": [
         "#Bankipur",
+        "#GodMorningTuesday",
         "#PrashantKishor",
         "#michelinprimacy5",
-        "#DareDevil",
-        "#gurupurnimainusa"
+        "#brijbhushansharansingh"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Jharkhand",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
         "seemax resources",
         "Bihar",
-        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939",
         "\u0936\u0930\u0923 \u0938\u093f\u0902\u0939",
+        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0938\u093f\u0902\u0939",
+        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
         "\u092a\u092a\u094d\u092a\u0942 \u092f\u093e\u0926\u0935",
-        "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "spacetech",
-        "\u090f\u0935\u0947\u0928\u094d\u092f\u0942 \u0915\u094b\u0930\u094d\u091f"
+        "\u0928\u0930\u094b\u0924\u094d\u0924\u092e \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 03 2026 23:28:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 01:12:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$BEER",
+        "Sheba",
         "Gerard",
         "Yusuf",
-        "Sheba",
+        "Flora",
         "Ave Maria",
-        "#OPayisOkay",
-        "Senegal",
         "RATEL",
+        "#OPayisOkay",
         "Gonzalo Garc\u00eda",
-        "Biggie",
-        "Ferran Torres",
-        "$Doom"
+        "Senegal",
+        "Ferran Torres"
       ],
       "hashtags": [
         "#OPayisOkay"
       ],
       "regular_topics": [
+        "$BEER",
+        "Sheba",
         "Gerard",
         "Yusuf",
-        "Sheba",
+        "Flora",
         "Ave Maria",
-        "Senegal",
         "RATEL",
         "Gonzalo Garc\u00eda",
-        "Biggie",
+        "Senegal",
         "Ferran Torres",
-        "$Doom",
-        "Rangers"
+        "Santi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
