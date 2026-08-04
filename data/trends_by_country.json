@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-04T14:55:35.634597+00:00",
+  "generated_at_utc": "2026-08-04T16:44:30.680615+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 04 2026 14:04:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 15:48:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Tuesday",
         "Thanksgiving",
-        "Gibbs",
+        "Cleveland Sirens",
+        "Fortune's Weave",
         "Taco Tuesday",
-        "Bijan Robinson",
-        "Climate Change",
-        "Airtable",
-        "Bessent",
-        "Happy Taco",
-        "Bending Spoons",
-        "#UnidosSaldremosAdelante"
+        "Capitalism",
+        "Seteth",
+        "#gachiakuta173",
+        "Good Tuesday",
+        "#GalaxyWatchUltra2",
+        "#HearTheCall",
+        "Gibbs"
       ],
       "hashtags": [
-        "#UnidosSaldremosAdelante",
+        "#gachiakuta173",
+        "#GalaxyWatchUltra2",
+        "#HearTheCall",
         "#RHUGT",
-        "#TuesdayVibes",
-        "#fruit",
-        "#TuesdayMotivation"
+        "#UnidosSaldremosAdelante"
       ],
       "regular_topics": [
-        "Good Tuesday",
         "Thanksgiving",
-        "Gibbs",
+        "Cleveland Sirens",
+        "Fortune's Weave",
         "Taco Tuesday",
-        "Bijan Robinson",
-        "Climate Change",
+        "Capitalism",
+        "Seteth",
+        "Good Tuesday",
+        "Gibbs",
+        "Eshmel",
         "Airtable",
-        "Bessent",
-        "Happy Taco",
-        "Bending Spoons",
-        "Coast Guard"
+        "Climate Change"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 04 2026 14:30:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 16:12:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rod Liddle",
         "Rupert",
@@ -51,18 +51,18 @@
         "Restore",
         "Royal Navy",
         "The French",
-        "Alysson",
-        "Farage",
+        "Reijnders",
         "Andrew Harper",
         "Adam Faith",
-        "Nicolas Jackson"
+        "Farage",
+        "McGinn"
       ],
       "hashtags": [
-        "#avfc",
         "#thicktrunktuesday",
+        "#aplaceinthesun",
         "#WWERaw",
         "#NoValkoNoMoney",
-        "#aplaceinthesun"
+        "#KhanIllegallyJailed3Years"
       ],
       "regular_topics": [
         "Rod Liddle",
@@ -71,128 +71,127 @@
         "Restore",
         "Royal Navy",
         "The French",
-        "Alysson",
-        "Farage",
+        "Reijnders",
         "Andrew Harper",
         "Adam Faith",
-        "Nicolas Jackson"
+        "Farage",
+        "McGinn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 04 2026 14:20:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 16:06:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#betya",
-        "Claim Link",
-        "Varsho",
+        "NRED",
         "Wilmac",
-        "Soriano",
+        "Varsho",
         "#omegle",
+        "Soriano",
+        "#teenagee",
+        "C$3.25",
         "Jays",
         "Gausman",
-        "#teenagee",
         "Hoffman",
-        "#TejRan"
+        "#NoValkoNoMoney"
       ],
       "hashtags": [
-        "#betya",
         "#omegle",
         "#teenagee",
-        "#TejRan",
-        "#WWERaw"
+        "#NoValkoNoMoney",
+        "#WWERaw",
+        "#jonita"
       ],
       "regular_topics": [
-        "Claim Link",
-        "Varsho",
+        "NRED",
         "Wilmac",
+        "Varsho",
         "Soriano",
+        "C$3.25",
         "Jays",
         "Gausman",
         "Hoffman",
-        "Brendon Little",
         "Astros",
-        "Ross",
-        "Nimmala"
+        "Nimmala",
+        "Ross"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 04 2026 14:18:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 16:03:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#IndiGoTurns20",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
         "#SalmanOnAlliance",
-        "#\u0917\u094c\u092e\u093e\u0924\u093e_\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092e\u093e\u0924\u093e",
+        "#UPKaKanwadMahotsav",
         "#300MillionJourneys",
+        "#BamBamUP",
+        "BELIFT STOP EXPLOITING ENHYPEN",
+        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
         "Gau Mata",
         "Protect Cows",
-        "Happy 20",
-        "Better HDR",
-        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
-        "\u0938\u091a\u093f\u0928 \u092f\u093e\u0926\u0935"
+        "Jupiter",
+        "Vaiko in Parliament"
       ],
       "hashtags": [
-        "#IndiGoTurns20",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
         "#SalmanOnAlliance",
-        "#\u0917\u094c\u092e\u093e\u0924\u093e_\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092e\u093e\u0924\u093e",
-        "#300MillionJourneys"
+        "#UPKaKanwadMahotsav",
+        "#300MillionJourneys",
+        "#BamBamUP"
       ],
       "regular_topics": [
+        "BELIFT STOP EXPLOITING ENHYPEN",
+        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
         "Gau Mata",
         "Protect Cows",
-        "Happy 20",
-        "Better HDR",
-        "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939",
-        "\u0938\u091a\u093f\u0928 \u092f\u093e\u0926\u0935",
-        "Anant Ambani",
-        "Your Voice",
+        "Jupiter",
+        "Vaiko in Parliament",
+        "Happy 20th",
+        "\u0930\u0935\u093f \u0915\u093f\u0936\u0928",
         "Phuket",
-        "MMRDA",
-        "Vaiko in Parliament"
+        "\u090f\u092f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e",
+        "Luffy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 04 2026 14:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 16:00:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Carter Efe",
         "#DTNAt100",
+        "Tijjani Reijnders",
+        "Lati",
         "Wike",
-        "Moises Caicedo",
-        "#FirstSelfServiceStation",
-        "Nicolas Jackson",
-        "Betway",
-        "Jesse Bisiwu",
+        "Kolu",
+        "The Don",
         "Rivers",
-        "Mama Deola",
-        "Trabzonspor",
-        "Wenger"
+        "Moment Davido",
+        "Moises Caicedo",
+        "Fireboy"
       ],
       "hashtags": [
         "#DTNAt100",
-        "#FirstSelfServiceStation",
         "#alt\u0131n",
-        "#BBNaija2026",
-        "#MargeSalt"
+        "#FirstSelfServiceStation",
+        "#BBNaija2026"
       ],
       "regular_topics": [
+        "Carter Efe",
+        "Tijjani Reijnders",
+        "Lati",
         "Wike",
-        "Moises Caicedo",
-        "Nicolas Jackson",
-        "Betway",
-        "Jesse Bisiwu",
+        "Kolu",
+        "The Don",
         "Rivers",
-        "Mama Deola",
-        "Trabzonspor",
-        "Wenger",
-        "Jorgensen",
-        "MEGUSTA"
+        "Moment Davido",
+        "Moises Caicedo",
+        "Fireboy",
+        "Don Baba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
