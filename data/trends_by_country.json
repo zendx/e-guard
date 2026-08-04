@@ -1,120 +1,114 @@
 {
-  "generated_at_utc": "2026-08-04T22:49:43.069160+00:00",
+  "generated_at_utc": "2026-08-04T23:50:58.122285+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 04 2026 22:42:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 23:33:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Davis Martin",
+        "Merrick Garland",
         "SpaceX",
+        "Caleb Durbin",
+        "Luis Arraez",
+        "Rublev",
+        "Gabriel Arias",
         "$AMD",
         "Thanksgiving",
-        "Darnell Wright",
         "Jalon Walker",
-        "Mbaye",
-        "Dory Funk Jr.",
-        "Bianca",
-        "Falcons",
-        "Clara",
-        "Trabzonspor"
+        "Mbaye"
       ],
       "hashtags": [
-        "#NationalNightOut",
-        "#teenager",
-        "#RepublicanMedicareCuts",
-        "#iufb",
-        "#TheFive"
+        "#NationalNightOut"
       ],
       "regular_topics": [
+        "Davis Martin",
+        "Merrick Garland",
         "SpaceX",
+        "Caleb Durbin",
+        "Luis Arraez",
+        "Rublev",
+        "Gabriel Arias",
         "$AMD",
         "Thanksgiving",
-        "Darnell Wright",
         "Jalon Walker",
-        "Mbaye",
-        "Dory Funk Jr.",
-        "Bianca",
-        "Falcons",
-        "Clara",
-        "Trabzonspor"
+        "Mbaye"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 04 2026 22:20:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 23:12:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mbaye",
-        "Trabzonspor",
+        "Rod Liddle",
         "Neto",
-        "Munoz",
-        "Mo Salah",
-        "Piers Morgan",
-        "Signed",
-        "Bernardo",
-        "Disney",
-        "#SewingBee",
-        "Harry Brook"
+        "Reform",
+        "Trabzonspor",
+        "Rupert",
+        "Andrew Harper",
+        "Royal Navy",
+        "Restore",
+        "The French",
+        "Farage"
       ],
       "hashtags": [
-        "#SewingBee",
-        "#BristolCity",
-        "#rufc",
-        "#celebrityhunted",
-        "#lofc",
-        "#Boro",
-        "#FC27"
+        "#NoValkoNoMoney",
+        "#Sams80s",
+        "#ThickTrunkTuesday",
+        "#WWERaw",
+        "#thechase"
       ],
       "regular_topics": [
         "Mbaye",
-        "Trabzonspor",
+        "Rod Liddle",
         "Neto",
-        "Munoz",
-        "Mo Salah",
-        "Piers Morgan",
-        "Signed",
-        "Bernardo",
-        "Disney",
-        "Harry Brook",
-        "Onana"
+        "Reform",
+        "Trabzonspor",
+        "Rupert",
+        "Andrew Harper",
+        "Royal Navy",
+        "Restore",
+        "The French",
+        "Farage"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 04 2026 22:09:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 23:00:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#omegle",
         "#teenagee",
         "Wilmac",
         "NRED",
         "Varsho",
-        "SpaceX",
+        "Nanos",
+        "BUY THE DIP",
         "Soriano",
         "#NoValkoNoMoney",
-        "BUY THE DIP",
-        "Nanos",
-        "Hoffman"
+        "Hoffman",
+        "Wealthsimple"
       ],
       "hashtags": [
         "#omegle",
         "#teenagee",
         "#NoValkoNoMoney",
         "#TejRan",
-        "#jonita"
+        "#GranHermano"
       ],
       "regular_topics": [
         "Wilmac",
         "NRED",
         "Varsho",
-        "SpaceX",
-        "Soriano",
-        "BUY THE DIP",
         "Nanos",
+        "BUY THE DIP",
+        "Soriano",
         "Hoffman",
         "Wealthsimple",
+        "SpaceX",
         "Jays",
         "Spokane"
       ],
@@ -123,38 +117,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 04 2026 22:06:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 22:57:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UdhayanidhiStalin",
         "#GalaxyF70ProAt23999",
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
-        "#300MillionJourneys",
+        "#300millionjourneys",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
         "#indigoturns20",
         "Trisha",
-        "Jharkhand",
         "lpddr5x ram",
-        "FCRA",
-        "snapdragon processor"
+        "Jharkhand",
+        "snapdragon processor",
+        "FCRA"
       ],
       "hashtags": [
         "#UdhayanidhiStalin",
         "#GalaxyF70ProAt23999",
-        "#300MillionJourneys",
+        "#300millionjourneys",
         "#\u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924_\u0906\u0938\u094d\u0925\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
         "#indigoturns20"
       ],
       "regular_topics": [
         "\u092a\u094d\u0930\u0936\u093e\u0902\u0924 \u0915\u093f\u0936\u094b\u0930",
         "Trisha",
-        "Jharkhand",
         "lpddr5x ram",
-        "FCRA",
+        "Jharkhand",
         "snapdragon processor",
+        "FCRA",
         "protect cows",
         "gau mata",
-        "BIGOD",
         "right to health",
+        "notify me",
         "\u0926\u0947\u0935\u0930\u093e\u091c \u0938\u093f\u0902\u0939"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -162,39 +156,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 04 2026 22:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 04 2026 22:54:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trabzonspor",
         "Mbaye",
         "CYON",
         "Neto",
-        "Turkish",
         "Through Christ",
-        "The Egyptian",
+        "Turkish",
         "Turkey",
+        "The Egyptian",
         "Mohamed Salah",
-        "#WhoDoNigeriansTrustFor2027",
-        "#ForwardWithAMBO"
+        "Onana",
+        "CYAN"
       ],
       "hashtags": [
         "#WhoDoNigeriansTrustFor2027",
+        "#teenager",
         "#ForwardWithAMBO",
         "#RealWarriPikin",
-        "#BabaSegisWives",
-        "#teenager"
+        "#BabaSegisWives"
       ],
       "regular_topics": [
         "Trabzonspor",
         "Mbaye",
         "CYON",
         "Neto",
-        "Turkish",
         "Through Christ",
-        "The Egyptian",
+        "Turkish",
         "Turkey",
+        "The Egyptian",
         "Mohamed Salah",
-        "CYAN",
-        "Amaechi"
+        "Onana",
+        "CYAN"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
