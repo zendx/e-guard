@@ -1,104 +1,105 @@
 {
-  "generated_at_utc": "2026-08-05T07:29:03.402799+00:00",
+  "generated_at_utc": "2026-08-05T10:05:28.698317+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 06:30:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 09:06:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
-        "Introducing",
         "Stevens",
         "Abdul",
         "Michigan",
-        "DevOps",
+        "Introducing",
         "McMorrow",
-        "Wayne County",
-        "Cori Bush",
-        "Kornacki",
-        "AIPAC"
+        "Morning Dew",
+        "AIPAC",
+        "#TheChallenge42",
+        "Cerundolo",
+        "Cori Bush"
       ],
       "hashtags": [
+        "#TheChallenge42",
+        "#TedLasso",
         "#WWENXT",
-        "#MISen",
-        "#Cubs"
+        "#MISen"
       ],
       "regular_topics": [
         "Perez Hilton",
-        "Introducing",
         "Stevens",
         "Abdul",
         "Michigan",
-        "DevOps",
+        "Introducing",
         "McMorrow",
-        "Wayne County",
+        "Morning Dew",
+        "AIPAC",
+        "Cerundolo",
         "Cori Bush",
-        "Kornacki",
-        "AIPAC"
+        "Wayne County"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 06:56:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 09:31:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Lyon",
+        "#NUFC",
+        "Newcastle",
         "Perez Hilton",
         "Rod Liddle",
-        "#RoseWednesday",
         "Reform",
+        "Arsenal",
         "Neto",
         "Mbaye",
         "Andrew Harper",
-        "Farage",
-        "Lowe",
-        "The French",
-        "Royal Navy"
+        "#ASongOrMovieForAllUnderwear"
       ],
       "hashtags": [
+        "#NUFC",
+        "#ASongOrMovieForAllUnderwear",
         "#RoseWednesday",
-        "#r4today",
-        "#Wordle1873",
-        "#WindowsOnWednesday",
-        "#bbcbreakfast"
+        "#Spiral",
+        "#r4today"
       ],
       "regular_topics": [
+        "Lyon",
+        "Newcastle",
         "Perez Hilton",
         "Rod Liddle",
         "Reform",
+        "Arsenal",
         "Neto",
         "Mbaye",
         "Andrew Harper",
-        "Farage",
-        "Lowe",
-        "The French",
-        "Royal Navy",
-        "Lee Anderson"
+        "Isak",
+        "Tonali"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 06:48:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 09:24:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
         "Lloyd Robertson",
         "Nanos",
         "wilmac",
-        "#teenager",
         "nred",
-        "#omegle",
-        "buy the dip",
-        "#TejRan",
+        "BUY THE DIP",
         "#NoValkoNoMoney",
-        "Telesat"
+        "#Tejran",
+        "Telesat",
+        "#omegle",
+        "#teenagee"
       ],
       "hashtags": [
-        "#teenager",
-        "#omegle",
-        "#TejRan",
         "#NoValkoNoMoney",
+        "#Tejran",
+        "#omegle",
+        "#teenagee",
         "#GranHermano"
       ],
       "regular_topics": [
@@ -107,90 +108,86 @@
         "Nanos",
         "wilmac",
         "nred",
-        "buy the dip",
+        "BUY THE DIP",
         "Telesat",
-        "Soriano",
-        "Abdul El-Sayed",
         "Varsho",
-        "AIPAC"
+        "chad dallas",
+        "Soriano",
+        "SpaceX"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 06:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 09:20:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#KashmirRejectsPak",
-        "#StockOnMarketRadar",
-        "#Article370",
-        "#GreenFuel",
-        "#EthanolFuel",
-        "Jammu & Kashmir",
+        "#GalaxyWatch9",
+        "#TransformingKashmir",
+        "#YoumEIstehsal",
+        "#Ganapathysachchidananda",
+        "#PK420",
+        "Pre-order",
+        "Dallas",
         "FCRA",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "VVS Laxman",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u090f\u0915\u0924\u093e"
+        "Daily Cardio Load",
+        "Bhagavad Gita",
+        "Heart Health Score"
       ],
       "hashtags": [
-        "#KashmirRejectsPak",
-        "#StockOnMarketRadar",
-        "#Article370",
-        "#GreenFuel",
-        "#EthanolFuel"
+        "#GalaxyWatch9",
+        "#TransformingKashmir",
+        "#YoumEIstehsal",
+        "#Ganapathysachchidananda",
+        "#PK420"
       ],
       "regular_topics": [
-        "Jammu & Kashmir",
+        "Pre-order",
+        "Dallas",
         "FCRA",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "VVS Laxman",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u090f\u0915\u0924\u093e",
-        "\u0936\u094d\u0930\u0947\u0937\u094d\u0920 \u092d\u093e\u0930\u0924",
-        "One Constitution",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "269% YoY",
-        "77.55 Cr"
+        "Daily Cardio Load",
+        "Bhagavad Gita",
+        "Heart Health Score",
+        "\u091c\u0928\u0947\u0936\u094d\u0935\u0930 \u092e\u093f\u0936\u094d\u0930",
+        "Omega",
+        "Mulder",
+        "Fitness Index",
+        "\u0926\u0947\u0935\u0947\u0902\u0926\u094d\u0930 \u0928\u093e\u0925 \u092e\u0939\u0924\u094b"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 06:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 09:18:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Rihanna",
+        "Bruno G",
         "Perez Hilton",
-        "Amen",
-        "Neto",
-        "Peter",
-        "CYON",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Newcastle",
+        "Rice",
+        "Celta Vigo",
+        "Rocky",
         "Trabzonspor",
-        "GM CT",
-        "Psquare",
-        "Catholic",
-        "Through Christ",
-        "Happy Midweek"
+        "Barbados",
+        "Tielemans"
       ],
       "hashtags": [
-        "#ForwardWithAMBO",
-        "#babasegiswives",
-        "#dtnat100",
-        "#margesalt",
-        "#WhoDoNigeriansTrustFor2027"
+        "#NSPPD"
       ],
       "regular_topics": [
+        "Rihanna",
+        "Bruno G",
         "Perez Hilton",
-        "Amen",
-        "Neto",
-        "Peter",
-        "CYON",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Newcastle",
+        "Rice",
+        "Celta Vigo",
+        "Rocky",
         "Trabzonspor",
-        "GM CT",
-        "Psquare",
-        "Catholic",
-        "Through Christ",
-        "Happy Midweek"
+        "Barbados",
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
