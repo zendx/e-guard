@@ -1,195 +1,199 @@
 {
-  "generated_at_utc": "2026-08-05T16:24:07.227600+00:00",
+  "generated_at_utc": "2026-08-05T17:58:44.187613+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 16:00:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 17:42:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Michigan",
         "Mike Rogers",
         "El-Sayed",
         "AIPAC",
-        "Stevens",
-        "Perez Hilton",
-        "Hump Day",
-        "Good Wednesday",
-        "#BlitzMOVE1",
+        "Jeff Dean",
+        "#BlueWaveIn90Days",
         "Bradshaw",
-        "Shri Thanedar"
+        "Stevens",
+        "Demis",
+        "Perez Hilton",
+        "Penta"
       ],
       "hashtags": [
+        "#BlueWaveIn90Days",
+        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
+        "#TheChallenge42",
         "#BlitzMOVE1",
-        "#YEONJUNonGMA",
-        "#Megal\u00f3manaMachado",
-        "#MoonshadowSeriesSpecial",
-        "#WednesdayMotivation"
+        "#NationalUnderwearDay"
       ],
       "regular_topics": [
         "Michigan",
         "Mike Rogers",
         "El-Sayed",
         "AIPAC",
-        "Stevens",
-        "Perez Hilton",
-        "Hump Day",
-        "Good Wednesday",
+        "Jeff Dean",
         "Bradshaw",
-        "Shri Thanedar",
-        "Happy Hump"
+        "Stevens",
+        "Demis",
+        "Perez Hilton",
+        "Penta",
+        "Piker"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 15:33:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 17:18:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Covent Garden",
+        "Solly",
+        "Gary Cotterill",
+        "Sky Sports",
+        "Nusa",
         "Chris Kaba",
-        "Blackheath",
+        "#thechase",
+        "Jayden",
         "Nuns",
-        "Martin O'Neill",
-        "INEOS",
-        "Juventus",
-        "Ryanair",
-        "Palestra",
-        "#aplaceinthesun",
-        "Tielemans"
+        "#pointless",
+        "Nadia"
       ],
       "hashtags": [
-        "#aplaceinthesun",
-        "#Strictly",
-        "#pompey",
-        "#gtfc"
+        "#thechase",
+        "#pointless",
+        "#bbcpm",
+        "#FC27",
+        "#Pompey",
+        "#GTFC"
       ],
       "regular_topics": [
         "Covent Garden",
+        "Solly",
+        "Gary Cotterill",
+        "Sky Sports",
+        "Nusa",
         "Chris Kaba",
-        "Blackheath",
+        "Jayden",
         "Nuns",
-        "Martin O'Neill",
-        "INEOS",
-        "Juventus",
-        "Ryanair",
-        "Palestra",
-        "Tielemans",
-        "Quenda"
+        "Nadia",
+        "Penta",
+        "Benidorm"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 15:24:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 17:08:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
         "Telesat",
-        "Buy the Dip",
         "#teenagee",
+        "Lee Caplin",
         "Abdul El-Sayed",
-        "Good Wednesday",
+        "Buy the Dip",
         "NRED",
-        "SpaceX",
-        "Michigan"
+        "Michigan",
+        "AIPAC"
       ],
       "hashtags": [
         "#teenagee",
         "#tommavi",
+        "#GranHermano",
         "#NoValkoNoMoney",
-        "#omegle",
-        "#GranHermano"
+        "#omegle"
       ],
       "regular_topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
         "Telesat",
-        "Buy the Dip",
+        "Lee Caplin",
         "Abdul El-Sayed",
-        "Good Wednesday",
+        "Buy the Dip",
         "NRED",
-        "SpaceX",
         "Michigan",
-        "Experts"
+        "AIPAC",
+        "SpaceX"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 15:21:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 17:06:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
         "#SmartSwitch",
-        "#Fold8InANewShape",
         "#\u090f\u0925\u0947\u0928\u0949\u0932",
         "#\u0915\u093f\u0938\u093e\u0928",
         "#\u092a\u0902\u091c\u093e\u092c",
+        "#Fold8InANewShape",
+        "MVP YOGESH RAWAT",
         "Raja Singh",
         "Meta",
-        "Rahul Bharti",
-        "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930",
-        "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940",
-        "AKKUU HITS 4M ON IG"
+        "Paid Previews",
+        "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930"
       ],
       "hashtags": [
         "#SmartSwitch",
-        "#Fold8InANewShape",
         "#\u090f\u0925\u0947\u0928\u0949\u0932",
         "#\u0915\u093f\u0938\u093e\u0928",
-        "#\u092a\u0902\u091c\u093e\u092c"
+        "#\u092a\u0902\u091c\u093e\u092c",
+        "#Fold8InANewShape"
       ],
       "regular_topics": [
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
+        "MVP YOGESH RAWAT",
         "Raja Singh",
         "Meta",
-        "Rahul Bharti",
+        "Paid Previews",
         "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930",
-        "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940",
-        "AKKUU HITS 4M ON IG",
-        "Upgrading",
         "SHIVANGIANS LOVE SHIVANGI",
-        "SLAYKANKSHA ERA",
-        "\u0936\u0947\u0916 \u0939\u0938\u0940\u0928\u093e",
-        "JGG FAM SPIDER MAN"
+        "India's E20",
+        "Jeff Dean",
+        "Vedanta",
+        "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 16:12:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 17:04:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Alonso",
-        "Juventus",
+        "#22betXAmokachi",
         "Sentence",
-        "#AboveAndBelowNG",
-        "Rihanna",
+        "Juventus",
         "EFCC",
-        "Palestra",
-        "#CHEJUV",
+        "Rihanna",
+        "#AboveAndBelowNG",
         "Osun",
-        "Tomiyasu",
-        "Above & Below"
+        "Takehiro Tomiyasu",
+        "Palestra",
+        "Adeleke"
       ],
       "hashtags": [
+        "#22betXAmokachi",
         "#AboveAndBelowNG",
         "#CHEJUV",
-        "#CPFC"
+        "#CPFC",
+        "#STARRGIRL"
       ],
       "regular_topics": [
         "Alonso",
-        "Juventus",
         "Sentence",
-        "Rihanna",
+        "Juventus",
         "EFCC",
-        "Palestra",
+        "Rihanna",
         "Osun",
-        "Tomiyasu",
+        "Takehiro Tomiyasu",
+        "Palestra",
+        "Adeleke",
         "Above & Below",
-        "Perez Hilton",
-        "2026 WASSCE"
+        "Perez Hilton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
