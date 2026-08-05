@@ -1,97 +1,97 @@
 {
-  "generated_at_utc": "2026-08-05T20:41:39.038827+00:00",
+  "generated_at_utc": "2026-08-05T22:02:32.109315+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 20:19:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 21:09:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Diggs",
-        "Michigan",
-        "Brandon Aiyuk",
-        "Commanders",
-        "Kepa",
-        "#Davido",
         "Billy the Kid",
+        "Thielbar",
+        "Michigan",
+        "Wash",
+        "#Davido",
+        "Brandon Aiyuk",
+        "Muslim Brotherhood",
         "Pete Crow",
-        "AIPAC",
-        "El-Sayed",
-        "Terry"
+        "Kepa",
+        "El-Sayed"
       ],
       "hashtags": [
         "#Davido",
-        "#RaiseHail",
         "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
+        "#RaiseHail",
         "#BlueWaveIn90Days",
         "#MVPete"
       ],
       "regular_topics": [
         "Diggs",
-        "Michigan",
-        "Brandon Aiyuk",
-        "Commanders",
-        "Kepa",
         "Billy the Kid",
+        "Thielbar",
+        "Michigan",
+        "Wash",
+        "Brandon Aiyuk",
+        "Muslim Brotherhood",
         "Pete Crow",
-        "AIPAC",
+        "Kepa",
         "El-Sayed",
-        "Terry",
-        "NL MVP"
+        "$SNDK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 19:51:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 21:33:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kepa",
-        "Vini",
+        "Spence",
         "Betis",
-        "Tzolis",
-        "Havertz",
-        "Meslier",
-        "Gyokeres",
-        "Matthias",
-        "Covent Garden",
+        "Vini",
         "Chip",
-        "Nwaneri"
+        "Billy the Kid",
+        "Nelson",
+        "#dlxp",
+        "Meslier",
+        "Havertz",
+        "Bellerin"
       ],
       "hashtags": [
-        "#thechase",
-        "#pvfc"
+        "#dlxp",
+        "#TedLasso"
       ],
       "regular_topics": [
         "Kepa",
-        "Vini",
+        "Spence",
         "Betis",
-        "Tzolis",
-        "Havertz",
-        "Meslier",
-        "Gyokeres",
-        "Matthias",
-        "Covent Garden",
+        "Vini",
         "Chip",
-        "Nwaneri"
+        "Billy the Kid",
+        "Nelson",
+        "Meslier",
+        "Havertz",
+        "Bellerin",
+        "Tzolis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 19:43:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 21:27:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lloyd Robertson",
         "Perez Hilton",
+        "Chase Lee",
         "Nanos",
-        "Kepa",
+        "Ernie Clement",
         "Telesat",
-        "Abdul El-Sayed",
-        "#teenagee",
-        "NRED",
         "Michigan",
+        "#teenagee",
+        "Kepa",
         "AIPAC",
-        "Vini"
+        "Abdul El-Sayed"
       ],
       "hashtags": [
         "#teenagee",
@@ -103,92 +103,98 @@
       "regular_topics": [
         "Lloyd Robertson",
         "Perez Hilton",
+        "Chase Lee",
         "Nanos",
-        "Kepa",
+        "Ernie Clement",
         "Telesat",
-        "Abdul El-Sayed",
-        "NRED",
         "Michigan",
+        "Kepa",
         "AIPAC",
-        "Vini",
-        "SpaceX"
+        "Abdul El-Sayed",
+        "NRED"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 19:40:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 21:24:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
         "#OhhMyDog",
-        "#E20Fuel",
-        "Paid Previews",
         "#ShreyaKalra",
-        "#FutureOfMobility",
+        "#E20Fuel",
+        "Muse Code",
+        "Paid Previews",
         "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c \u092a\u093e\u0930\u094d\u091f\u0940",
-        "#EnergySecurity",
-        "India's E20",
-        "Jeff Dean",
-        "MVP YOGESH RAWAT"
+        "#UmashankarSingh",
+        "#FarmerFirst",
+        "Arsenal",
+        "Meta"
       ],
       "hashtags": [
         "#OhhMyDog",
-        "#E20Fuel",
         "#ShreyaKalra",
-        "#FutureOfMobility",
-        "#EnergySecurity"
+        "#E20Fuel",
+        "#UmashankarSingh",
+        "#FarmerFirst",
+        "#GreenIndia",
+        "#EnergySecurity",
+        "#IndiaFirst",
+        "#SmartSwitch",
+        "#\u090f\u0925\u0947\u0928\u0949\u0932",
+        "#NeerajMadhav"
       ],
       "regular_topics": [
         "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
+        "Muse Code",
         "Paid Previews",
         "\u092c\u0939\u0941\u091c\u0928 \u0938\u092e\u093e\u091c \u092a\u093e\u0930\u094d\u091f\u0940",
-        "India's E20",
-        "Jeff Dean",
-        "MVP YOGESH RAWAT",
-        "Meta",
-        "KHAIRATI WINNER KARELA",
         "Arsenal",
-        "Jos Buttler",
-        "Discovery Loop"
+        "Meta",
+        "India's E20",
+        "Vini",
+        "MVP YOGESH RAWAT",
+        "Jeff Dean",
+        "KHAIRATI WINNER KARELA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 19:39:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 21:21:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Betis",
         "Kepa",
         "Perez Hilton",
-        "Mustard",
-        "Osun",
-        "#VoteOyebamiji",
-        "Nwaneri",
-        "Havertz",
-        "Affiliate Programme",
-        "Corner FC",
-        "7 Savings Festival"
+        "Oyin",
+        "Gift Monday",
+        "Mallorca",
+        "Alozie",
+        "Nelson",
+        "EFCC",
+        "#EGYNGA",
+        "Champions of England"
       ],
       "hashtags": [
+        "#EGYNGA",
+        "#ARSBET",
         "#VoteOyebamiji",
-        "#22betXAmokachi",
-        "#AboveAndBelowNG",
-        "#RMFC"
+        "#22betXAmokachi"
       ],
       "regular_topics": [
         "Betis",
         "Kepa",
         "Perez Hilton",
-        "Mustard",
-        "Osun",
-        "Nwaneri",
-        "Havertz",
-        "Affiliate Programme",
-        "Corner FC",
-        "7 Savings Festival",
-        "Extract"
+        "Oyin",
+        "Gift Monday",
+        "Mallorca",
+        "Alozie",
+        "Nelson",
+        "EFCC",
+        "Champions of England",
+        "Nwaneri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
