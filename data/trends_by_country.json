@@ -1,127 +1,126 @@
 {
-  "generated_at_utc": "2026-08-05T14:41:25.411112+00:00",
+  "generated_at_utc": "2026-08-05T16:24:07.227600+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 14:16:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 16:00:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Michigan",
+        "Mike Rogers",
+        "El-Sayed",
         "AIPAC",
-        "Good Wednesday",
         "Stevens",
-        "Abdul El-Sayed",
         "Perez Hilton",
         "Hump Day",
-        "#YEONJUNonGMA",
-        "Mike Rogers",
-        "Happy Hump",
-        "#HyperLuckyMove1"
+        "Good Wednesday",
+        "#BlitzMOVE1",
+        "Bradshaw",
+        "Shri Thanedar"
       ],
       "hashtags": [
-        "#YEONJUNonGMA",
-        "#HyperLuckyMove1",
         "#BlitzMOVE1",
-        "#WednesdayMotivation",
-        "#Megal\u00f3manaMachado"
+        "#YEONJUNonGMA",
+        "#Megal\u00f3manaMachado",
+        "#MoonshadowSeriesSpecial",
+        "#WednesdayMotivation"
       ],
       "regular_topics": [
         "Michigan",
+        "Mike Rogers",
+        "El-Sayed",
         "AIPAC",
-        "Good Wednesday",
         "Stevens",
-        "Abdul El-Sayed",
         "Perez Hilton",
         "Hump Day",
-        "Mike Rogers",
-        "Happy Hump",
-        "SparX",
-        "Revis"
+        "Good Wednesday",
+        "Bradshaw",
+        "Shri Thanedar",
+        "Happy Hump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 13:48:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 15:33:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Covent Garden",
-        "Juventus",
-        "Quenda",
-        "Palestra",
-        "Newcastle",
-        "Romero",
-        "Caicedo",
+        "Chris Kaba",
+        "Blackheath",
         "Nuns",
-        "Perez Hilton",
-        "Tielemans",
-        "Blackheath"
+        "Martin O'Neill",
+        "INEOS",
+        "Juventus",
+        "Ryanair",
+        "Palestra",
+        "#aplaceinthesun",
+        "Tielemans"
       ],
       "hashtags": [
-        "#thismorning",
-        "#XMen97",
+        "#aplaceinthesun",
+        "#Strictly",
         "#pompey",
-        "#PUSB",
-        "#ASongOrMovieForAllUnderwear"
+        "#gtfc"
       ],
       "regular_topics": [
         "Covent Garden",
-        "Juventus",
-        "Quenda",
-        "Palestra",
-        "Newcastle",
-        "Romero",
-        "Caicedo",
+        "Chris Kaba",
+        "Blackheath",
         "Nuns",
-        "Perez Hilton",
+        "Martin O'Neill",
+        "INEOS",
+        "Juventus",
+        "Ryanair",
+        "Palestra",
         "Tielemans",
-        "Blackheath"
+        "Quenda"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 13:40:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 15:24:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
-        "Buy the Dip",
-        "#tommavi",
-        "Experts",
-        "#teenagee",
         "Telesat",
+        "Buy the Dip",
+        "#teenagee",
+        "Abdul El-Sayed",
         "Good Wednesday",
-        "Hump Day",
-        "SpaceX"
+        "NRED",
+        "SpaceX",
+        "Michigan"
       ],
       "hashtags": [
-        "#tommavi",
         "#teenagee",
+        "#tommavi",
         "#NoValkoNoMoney",
         "#omegle",
-        "#marchtoottawa"
+        "#GranHermano"
       ],
       "regular_topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
-        "Buy the Dip",
-        "Experts",
         "Telesat",
+        "Buy the Dip",
+        "Abdul El-Sayed",
         "Good Wednesday",
-        "Hump Day",
+        "NRED",
         "SpaceX",
-        "Wilmac",
-        "Happy Hump"
+        "Michigan",
+        "Experts"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 14:30:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 15:21:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmartSwitch",
         "#Fold8InANewShape",
@@ -129,8 +128,8 @@
         "#\u0915\u093f\u0938\u093e\u0928",
         "#\u092a\u0902\u091c\u093e\u092c",
         "Raja Singh",
-        "Rahul Bharti",
         "Meta",
+        "Rahul Bharti",
         "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930",
         "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940",
         "AKKUU HITS 4M ON IG"
@@ -144,52 +143,53 @@
       ],
       "regular_topics": [
         "Raja Singh",
-        "Rahul Bharti",
         "Meta",
+        "Rahul Bharti",
         "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930",
         "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940",
         "AKKUU HITS 4M ON IG",
-        "Switching",
-        "LOCK UPP KA PACK UP",
         "Upgrading",
-        "AK OVER RIGGED WIN",
-        "FOREVER FAN FAV AK"
+        "SHIVANGIANS LOVE SHIVANGI",
+        "SLAYKANKSHA ERA",
+        "\u0936\u0947\u0916 \u0939\u0938\u0940\u0928\u093e",
+        "JGG FAM SPIDER MAN"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 14:28:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 16:12:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Alonso",
         "Juventus",
-        "#CHEJUV",
-        "Quenda",
-        "Rihanna",
-        "Fresh VDM",
-        "Estevao",
-        "Caicedo",
+        "Sentence",
         "#AboveAndBelowNG",
+        "Rihanna",
         "EFCC",
-        "Zhegrova"
+        "Palestra",
+        "#CHEJUV",
+        "Osun",
+        "Tomiyasu",
+        "Above & Below"
       ],
       "hashtags": [
+        "#AboveAndBelowNG",
         "#CHEJUV",
-        "#AboveAndBelowNG"
+        "#CPFC"
       ],
       "regular_topics": [
         "Alonso",
         "Juventus",
-        "Quenda",
+        "Sentence",
         "Rihanna",
-        "Fresh VDM",
-        "Estevao",
-        "Caicedo",
         "EFCC",
-        "Zhegrova",
-        "Tope Osoba",
-        "Osun State Government"
+        "Palestra",
+        "Osun",
+        "Tomiyasu",
+        "Above & Below",
+        "Perez Hilton",
+        "2026 WASSCE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
