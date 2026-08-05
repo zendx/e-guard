@@ -1,88 +1,86 @@
 {
-  "generated_at_utc": "2026-08-05T04:34:57.080868+00:00",
+  "generated_at_utc": "2026-08-05T07:29:03.402799+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 03:54:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 06:30:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
+        "Introducing",
         "Stevens",
-        "#WWENXT",
-        "Cori Bush",
+        "Abdul",
         "Michigan",
+        "DevOps",
+        "McMorrow",
         "Wayne County",
-        "Van Jones",
-        "El-Sayed",
-        "Troy Melton",
-        "Wesley Bell",
-        "Javier Assad"
+        "Cori Bush",
+        "Kornacki",
+        "AIPAC"
       ],
       "hashtags": [
         "#WWENXT",
-        "#FlyTheW",
-        "#TedLasso",
-        "#CMLL",
-        "#JustinStrong"
+        "#MISen",
+        "#Cubs"
       ],
       "regular_topics": [
         "Perez Hilton",
+        "Introducing",
         "Stevens",
-        "Cori Bush",
+        "Abdul",
         "Michigan",
+        "DevOps",
+        "McMorrow",
         "Wayne County",
-        "Van Jones",
-        "El-Sayed",
-        "Troy Melton",
-        "Wesley Bell",
-        "Javier Assad",
-        "Merrick Garland"
+        "Cori Bush",
+        "Kornacki",
+        "AIPAC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 04:21:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 06:56:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
         "Rod Liddle",
-        "Neto",
+        "#RoseWednesday",
         "Reform",
+        "Neto",
         "Mbaye",
-        "#WWENXT",
-        "Kendal Grey",
         "Andrew Harper",
-        "Lowe",
         "Farage",
+        "Lowe",
+        "The French",
         "Royal Navy"
       ],
       "hashtags": [
-        "#WWENXT",
-        "#NoValkoNoMoney",
-        "#ThickTrunkTuesday",
-        "#thechase",
-        "#celebrityhunted"
+        "#RoseWednesday",
+        "#r4today",
+        "#Wordle1873",
+        "#WindowsOnWednesday",
+        "#bbcbreakfast"
       ],
       "regular_topics": [
         "Perez Hilton",
         "Rod Liddle",
-        "Neto",
         "Reform",
+        "Neto",
         "Mbaye",
-        "Kendal Grey",
         "Andrew Harper",
-        "Lowe",
         "Farage",
+        "Lowe",
+        "The French",
         "Royal Navy",
-        "The French"
+        "Lee Anderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 04:15:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 06:48:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
         "Lloyd Robertson",
@@ -90,18 +88,18 @@
         "wilmac",
         "#teenager",
         "nred",
-        "#ExtendTS2023",
-        "#MarchToOttawa",
         "#omegle",
-        "Coyne",
-        "buy the dip"
+        "buy the dip",
+        "#TejRan",
+        "#NoValkoNoMoney",
+        "Telesat"
       ],
       "hashtags": [
         "#teenager",
-        "#ExtendTS2023",
-        "#MarchToOttawa",
         "#omegle",
-        "#NoValkoNoMoney"
+        "#TejRan",
+        "#NoValkoNoMoney",
+        "#GranHermano"
       ],
       "regular_topics": [
         "Perez Hilton",
@@ -109,95 +107,90 @@
         "Nanos",
         "wilmac",
         "nred",
-        "Coyne",
         "buy the dip",
-        "Chad Dallas",
         "Telesat",
+        "Soriano",
+        "Abdul El-Sayed",
         "Varsho",
-        "Soriano"
+        "AIPAC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 04:09:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 06:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AI_stock_Omega",
-        "#GodMorningWednesday",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "FCRA",
-        "#\u0935\u094d\u092f\u0938\u0928_\u092e\u0941\u0915\u094d\u0924_\u092d\u093e\u0930\u0924",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "#KashmirRejectsPak",
+        "#StockOnMarketRadar",
         "#Article370",
+        "#GreenFuel",
+        "#EthanolFuel",
+        "Jammu & Kashmir",
+        "FCRA",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
         "VVS Laxman",
-        "\u0938\u0947\u0935\u093e \u0938\u0902\u0918",
-        "77.55 Cr",
-        "\u0936\u093f\u0935\u092e\u0902\u0917\u0932 \u0938\u093f\u0902\u0939"
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u090f\u0915\u0924\u093e"
       ],
       "hashtags": [
-        "#AI_stock_Omega",
-        "#GodMorningWednesday",
-        "#\u0935\u094d\u092f\u0938\u0928_\u092e\u0941\u0915\u094d\u0924_\u092d\u093e\u0930\u0924",
+        "#KashmirRejectsPak",
+        "#StockOnMarketRadar",
         "#Article370",
-        "#AsharamBapuQuotes",
-        "#TNBudget",
-        "#RedSea",
-        "#\u092e\u093e\u0928\u0917\u0922\u093c_\u0936\u0939\u0940\u0926\u094b\u0902_\u0915\u093e_\u0905\u092a\u092e\u093e\u0928",
-        "#PradeepRawat",
-        "#rollbackCAS"
+        "#GreenFuel",
+        "#EthanolFuel"
       ],
       "regular_topics": [
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Jammu & Kashmir",
         "FCRA",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "VVS Laxman",
-        "\u0938\u0947\u0935\u093e \u0938\u0902\u0918",
-        "77.55 Cr",
-        "\u0936\u093f\u0935\u092e\u0902\u0917\u0932 \u0938\u093f\u0902\u0939",
-        "4.36 Cr",
-        "269% YoY",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0936\u094d\u092f\u093e\u092e\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "\u0936\u094d\u0930\u0947\u0937\u094d\u0920 \u092d\u093e\u0930\u0924"
+        "VVS Laxman",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u090f\u0915\u0924\u093e",
+        "\u0936\u094d\u0930\u0947\u0937\u094d\u0920 \u092d\u093e\u0930\u0924",
+        "One Constitution",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "269% YoY",
+        "77.55 Cr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 04:09:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 06:42:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Perez Hilton",
+        "Amen",
         "Neto",
         "Peter",
         "CYON",
-        "#BBNaija",
         "Trabzonspor",
+        "GM CT",
         "Psquare",
-        "Davido",
         "Catholic",
-        "Perez Hilton",
-        "Mbaye",
-        "#BabaSegisWives"
+        "Through Christ",
+        "Happy Midweek"
       ],
       "hashtags": [
-        "#BBNaija",
-        "#BabaSegisWives",
         "#ForwardWithAMBO",
-        "#buyingcontent",
-        "#dtnat100"
+        "#babasegiswives",
+        "#dtnat100",
+        "#margesalt",
+        "#WhoDoNigeriansTrustFor2027"
       ],
       "regular_topics": [
+        "Perez Hilton",
+        "Amen",
         "Neto",
         "Peter",
         "CYON",
         "Trabzonspor",
+        "GM CT",
         "Psquare",
-        "Davido",
         "Catholic",
-        "Perez Hilton",
-        "Mbaye",
-        "Carter",
-        "Through Christ"
+        "Through Christ",
+        "Happy Midweek"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
