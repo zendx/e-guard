@@ -1,67 +1,68 @@
 {
-  "generated_at_utc": "2026-08-06T03:55:38.346572+00:00",
+  "generated_at_utc": "2026-08-06T06:20:22.334520+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 06 2026 03:12:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 05:45:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDynamite",
-        "#GrandSlamM\u00e9xico",
         "OLANDRIA VARIETY",
-        "Billy the Kid",
-        "Mark Davis",
+        "#AEWDynamite",
+        "Toby",
+        "#AniyaxVariety",
+        "Chivas",
+        "#TrinityxVarietyYH",
         "Weights",
-        "NO MORE DREAM",
-        "Alvarado",
-        "Miles Mikolas",
-        "Arena Mexico",
-        "Jefry Yan"
+        "Billy the Kid",
+        "#GrandSlamM\u00e9xico",
+        "Paradise",
+        "Mitch Bratt"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#GrandSlamM\u00e9xico",
+        "#AniyaxVariety",
         "#TrinityxVarietyYH",
-        "#GuardsBall",
-        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39"
+        "#GrandSlamM\u00e9xico",
+        "#ONEPIECE1190"
       ],
       "regular_topics": [
         "OLANDRIA VARIETY",
-        "Billy the Kid",
-        "Mark Davis",
+        "Toby",
+        "Chivas",
         "Weights",
-        "NO MORE DREAM",
-        "Alvarado",
+        "Billy the Kid",
+        "Paradise",
+        "Mitch Bratt",
         "Miles Mikolas",
-        "Arena Mexico",
-        "Jefry Yan",
-        "Kyle Fletcher",
-        "Speedball"
+        "LAFC",
+        "Dan Crenshaw",
+        "Jesus is King"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 06 2026 03:36:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 06:12:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AEWDynamite",
         "Kepa",
         "Arsenal",
         "Perez Hilton",
-        "#GrandSlamM\u00e9xico",
         "Covent Garden",
         "Jason Arday",
+        "OLANDRIA VARIETY",
+        "#AdoorableThursday",
         "Mbaye",
+        "Cambridge",
         "Vini",
-        "Mark Davis",
-        "Betis"
+        "#AEWDynamite"
       ],
       "hashtags": [
+        "#AdoorableThursday",
         "#AEWDynamite",
-        "#GrandSlamM\u00e9xico",
+        "#Wordle1874",
         "#NUFC",
-        "#RoseWednesday"
+        "#GrandSlamM\u00e9xico"
       ],
       "regular_topics": [
         "Kepa",
@@ -69,11 +70,11 @@
         "Perez Hilton",
         "Covent Garden",
         "Jason Arday",
+        "OLANDRIA VARIETY",
         "Mbaye",
-        "Vini",
-        "Mark Davis",
-        "Betis",
         "Cambridge",
+        "Vini",
+        "Betis",
         "Andrew Harper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -81,120 +82,115 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 06 2026 03:28:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 06:03:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kelly",
-        "#AEWDynamite",
         "Lloyd Robertson",
         "Perez Hilton",
-        "Nanos",
         "OLANDRIA VARIETY",
-        "AIPAC",
-        "#CanM20",
+        "Nanos",
+        "#TrinityxVarietyYH",
         "#teenagee",
+        "AIPAC",
         "Michigan",
-        "Toby"
+        "Abdul El-Sayed",
+        "Telesat"
       ],
       "hashtags": [
-        "#AEWDynamite",
-        "#CanM20",
+        "#TrinityxVarietyYH",
         "#teenagee",
-        "#GrandSlamM\u00e9xico",
-        "#TrinityxVarietyYH"
+        "#GranHermano",
+        "#AEWDynamite",
+        "#tommavi"
       ],
       "regular_topics": [
         "Kelly",
         "Lloyd Robertson",
         "Perez Hilton",
-        "Nanos",
         "OLANDRIA VARIETY",
+        "Nanos",
         "AIPAC",
         "Michigan",
-        "Toby",
         "Abdul El-Sayed",
         "Telesat",
-        "nred"
+        "nred",
+        "Toby"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 06 2026 03:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 06:00:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ReleaseInnocent",
-        "Sant Samaj",
+        "#Fii_Favorite_Stock",
+        "#Ai_Growth_Stock",
         "\u0938\u0941\u0937\u092e\u093e \u0938\u094d\u0935\u0930\u093e\u091c",
-        "#GodMorningThursday",
-        "\u092a\u0942\u0930\u094d\u0935 \u0935\u093f\u0926\u0947\u0936 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "#ReleaseInnocent",
         "#SushmaSwaraj",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
+        "\u092a\u0942\u0930\u094d\u0935 \u0935\u093f\u0926\u0947\u0936 \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Sant Samaj",
+        "#GodMorningThursday",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
+        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939"
       ],
       "hashtags": [
+        "#Fii_Favorite_Stock",
+        "#Ai_Growth_Stock",
         "#ReleaseInnocent",
-        "#GodMorningThursday",
         "#SushmaSwaraj",
-        "#HiroshimaDay",
-        "#\u0950_\u0928\u092e\u094b_\u092d\u0917\u0935\u0924\u0947_\u0935\u093e\u0938\u0941\u0926\u0947\u0935\u093e\u092f_\u0928\u092e\u0903",
-        "#ThursdayMotivation",
-        "#Jharkhand_Students_Protest",
-        "#Pratapgarh",
-        "#UmaShankarSingh",
-        "#SheikhHasina",
-        "#Nani"
+        "#GodMorningThursday"
       ],
       "regular_topics": [
-        "Sant Samaj",
         "\u0938\u0941\u0937\u092e\u093e \u0938\u094d\u0935\u0930\u093e\u091c",
         "\u092a\u0942\u0930\u094d\u0935 \u0935\u093f\u0926\u0947\u0936 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Sant Samaj",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
-        "Nikita Bier",
-        "Head of Product"
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
+        "Tarun Tejpal",
+        "Tehelka",
+        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 06 2026 03:24:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 06:00:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Perez Hilton",
         "Arsenal",
         "Rihanna",
         "Peter",
-        "Kepa",
-        "Osun",
-        "#EGYNGA",
         "Nikita",
-        "Zambia",
+        "Osun",
+        "Kepa",
+        "#EGYNGA",
         "EFCC",
-        "Juventus"
+        "#AniyaxVariety",
+        "GM CT"
       ],
       "hashtags": [
         "#EGYNGA",
-        "#WAFCON",
+        "#AniyaxVariety",
         "#chejuv",
-        "#aboveandbelowng"
+        "#aboveandbelowng",
+        "#TrinityxVarietyYH"
       ],
       "regular_topics": [
         "Perez Hilton",
         "Arsenal",
         "Rihanna",
         "Peter",
-        "Kepa",
-        "Osun",
         "Nikita",
-        "Zambia",
+        "Osun",
+        "Kepa",
         "EFCC",
+        "GM CT",
         "Juventus",
         "Trabzonspor"
       ],
