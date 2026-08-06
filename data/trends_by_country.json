@@ -1,131 +1,133 @@
 {
-  "generated_at_utc": "2026-08-05T23:26:40.942264+00:00",
+  "generated_at_utc": "2026-08-06T00:48:43.918543+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 05 2026 22:52:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 23:44:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Billy the Kid",
-        "Aaron Donald",
         "Nikita",
-        "Diggs",
+        "Arman",
+        "Ruffy",
+        "Aaron Donald",
         "Wash",
-        "Thielbar",
         "William Bonney",
-        "Leslie Marshall",
+        "Diggs",
         "Muslim Brotherhood",
-        "Henry McCarty",
-        "#Davido"
+        "Leslie Marshall",
+        "Henry McCarty"
       ],
       "hashtags": [
-        "#Davido",
         "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
+        "#UFC331",
+        "#Davido",
         "#NationalUnderwearDay",
-        "#Cubs",
         "#RHOBH"
       ],
       "regular_topics": [
         "Billy the Kid",
-        "Aaron Donald",
         "Nikita",
-        "Diggs",
+        "Arman",
+        "Ruffy",
+        "Aaron Donald",
         "Wash",
-        "Thielbar",
         "William Bonney",
-        "Leslie Marshall",
+        "Diggs",
         "Muslim Brotherhood",
-        "Henry McCarty",
-        "Brennan"
+        "Leslie Marshall",
+        "Henry McCarty"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 05 2026 22:27:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 00:09:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Arsenal",
         "Kepa",
+        "Perez Hilton",
+        "Covent Garden",
         "Spence",
-        "Betis",
-        "Malawi",
-        "Super Falcons",
+        "Jason Arday",
+        "Mbaye",
         "Vini",
-        "Chip",
-        "Zambia",
-        "Nikita",
-        "Billy the Kid",
-        "Tunisia"
+        "Andrew Harper",
+        "Cambridge",
+        "Newcastle"
       ],
       "hashtags": [
+        "#NUFC",
+        "#AEWDynamite",
+        "#LoveIslandDebrief",
         "#WAFCON",
-        "#dlxp",
-        "#TedLasso"
+        "#whowantstobeamillionaire"
       ],
       "regular_topics": [
+        "Arsenal",
         "Kepa",
+        "Perez Hilton",
+        "Covent Garden",
         "Spence",
-        "Betis",
-        "Malawi",
-        "Super Falcons",
+        "Jason Arday",
+        "Mbaye",
         "Vini",
-        "Chip",
-        "Zambia",
-        "Nikita",
-        "Billy the Kid",
-        "Tunisia"
+        "Andrew Harper",
+        "Cambridge",
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 05 2026 23:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 00:03:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
-        "Ernie Clement",
         "AIPAC",
         "Telesat",
+        "Kelly",
         "Abdul El-Sayed",
-        "Chase Lee",
         "#teenagee",
         "Michigan",
-        "Zambia"
+        "Nasty",
+        "Nikita"
       ],
       "hashtags": [
         "#teenagee",
         "#GranHermano",
         "#tommavi",
-        "#omegle",
-        "#NoValkoNoMoney"
+        "#CanM20",
+        "#omegle"
       ],
       "regular_topics": [
         "Lloyd Robertson",
         "Perez Hilton",
         "Nanos",
-        "Ernie Clement",
         "AIPAC",
         "Telesat",
+        "Kelly",
         "Abdul El-Sayed",
-        "Chase Lee",
         "Michigan",
-        "Zambia",
-        "Nikita"
+        "Nasty",
+        "Nikita",
+        "Chase Lee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 05 2026 23:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 06 2026 00:00:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmartSwitch",
         "#Fold8InANewShape",
         "#GalaxyWatch9",
         "#\u090f\u0925\u0947\u0928\u0949\u0932",
-        "#\u0915\u093f\u0938\u093e\u0928",
+        "#TransformingKashmir",
         "FCRA",
         "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
         "Raja Singh",
@@ -138,7 +140,7 @@
         "#Fold8InANewShape",
         "#GalaxyWatch9",
         "#\u090f\u0925\u0947\u0928\u0949\u0932",
-        "#\u0915\u093f\u0938\u093e\u0928"
+        "#TransformingKashmir"
       ],
       "regular_topics": [
         "FCRA",
@@ -149,16 +151,16 @@
         "Jharkhand",
         "rahul bharti",
         "\u091c\u0928\u0947\u0936\u094d\u0935\u0930 \u092e\u093f\u0936\u094d\u0930",
-        "\u0924\u0943\u0924\u0940\u092f \u0936\u094d\u0930\u0947\u0923\u0940",
+        "Nikita Bier",
         "\u0930\u093f\u092f\u093e \u0905\u0939\u0940\u0930",
-        "Paid Previews"
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 05 2026 23:06:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 05 2026 23:58:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zambia",
         "Nikita",
@@ -168,9 +170,9 @@
         "#WAFCON",
         "Betis",
         "Gift Monday",
-        "Kepa",
         "Rinsola Babajide",
-        "Oyin and Mercedes"
+        "Kepa",
+        "EFCC"
       ],
       "hashtags": [
         "#EGYNGA",
@@ -185,11 +187,11 @@
         "Perez Hilton",
         "Betis",
         "Gift Monday",
-        "Kepa",
         "Rinsola Babajide",
-        "Oyin and Mercedes",
+        "Kepa",
         "EFCC",
-        "Mallorca"
+        "Oyin",
+        "Cameroon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
