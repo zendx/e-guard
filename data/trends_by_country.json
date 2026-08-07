@@ -1,146 +1,149 @@
 {
-  "generated_at_utc": "2026-08-07T14:42:40.805632+00:00",
+  "generated_at_utc": "2026-08-07T15:40:47.284707+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 14:33:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 15:24:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Friday",
+        "#LALALALUNE",
+        "Cassidy",
+        "Alaska",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
+        "Good Friday",
+        "Murkowski",
         "LINGORM ILF EP8",
         "#LastFourWatched",
-        "Murkowski",
-        "RED Friday",
-        "Neen",
-        "KARINA NEW SOLO MUSIC",
-        "#\uce74\ub9ac\ub098_\uc2e0\uace1_\uacf5\uac1c",
-        "Happy Friyay",
-        "#Mar\u00edaDesquiciadaMachado"
+        "Purple Heart",
+        "#Mar\u00edaDesquiciadaMachado",
+        "RED Friday"
       ],
       "hashtags": [
+        "#LALALALUNE",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
         "#LastFourWatched",
-        "#\uce74\ub9ac\ub098_\uc2e0\uace1_\uacf5\uac1c",
         "#Mar\u00edaDesquiciadaMachado",
-        "#LetterboxdFriday"
+        "#FursuitFriday"
       ],
       "regular_topics": [
+        "Cassidy",
+        "Alaska",
         "Good Friday",
-        "LINGORM ILF EP8",
         "Murkowski",
+        "LINGORM ILF EP8",
+        "Purple Heart",
         "RED Friday",
         "Neen",
-        "KARINA NEW SOLO MUSIC",
         "Happy Friyay",
-        "Purple Heart",
-        "Cassidy",
-        "WINTER NEW SOLO STAGE",
-        "Runch"
+        "May and June",
+        "T-Rac"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 07 2026 14:06:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 14:57:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Rodri",
-        "Arday",
-        "Cambridge",
         "William Orbit",
-        "Thetford",
+        "Simon Levy",
         "Guessand",
-        "Arsenal",
-        "Alvarez",
-        "Madrid",
         "Endrick",
-        "Kemi"
+        "Ricky Gervais",
+        "Carl Beech",
+        "Gomes",
+        "Thetford",
+        "#WINTERxSYNK_COMPLaeXITY",
+        "#gtfc",
+        "Alley Cats"
       ],
       "hashtags": [
-        "#NINGNING",
-        "#avfc",
         "#WINTERxSYNK_COMPLaeXITY",
+        "#gtfc",
         "#\uc708\ud130\uc194\ub85c\ucda4\ucd98\ub2e4",
-        "#LastFourWatched"
+        "#BandcampFriday",
+        "#FridayFeeling",
+        "#colu",
+        "#wafc",
+        "#twitterblades"
       ],
       "regular_topics": [
-        "Rodri",
-        "Arday",
-        "Cambridge",
         "William Orbit",
-        "Thetford",
+        "Simon Levy",
         "Guessand",
-        "Arsenal",
-        "Alvarez",
-        "Madrid",
         "Endrick",
-        "Kemi"
+        "Ricky Gervais",
+        "Carl Beech",
+        "Gomes",
+        "Thetford",
+        "Alley Cats",
+        "James O'Brien",
+        "Jaze"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 07 2026 14:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 14:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
-        "Good Friday",
-        "#bb28",
-        "#KarinaNewMusic",
-        "#\uce74\ub9ac\ub098_\uc2e0\uace1_\uacf5\uac1c",
-        "Larry Brock",
         "Spec",
-        "Turkey",
+        "#KarinaNewMusic",
+        "Larry Brock",
+        "#\uce74\ub9ac\ub098_\uc2e0\uace1_\uacf5\uac1c",
+        "#bb28",
+        "Good Friday",
         "Evander",
+        "Turkey",
         "Carson Beck",
         "Kelly"
       ],
       "hashtags": [
-        "#bb28",
         "#KarinaNewMusic",
         "#\uce74\ub9ac\ub098_\uc2e0\uace1_\uacf5\uac1c",
-        "#teenageer",
-        "#THIS_AND_THAT"
+        "#bb28",
+        "#THIS_AND_THAT",
+        "#teenageer"
       ],
       "regular_topics": [
         "Rodri",
-        "Good Friday",
-        "Larry Brock",
         "Spec",
-        "Turkey",
+        "Larry Brock",
+        "Good Friday",
         "Evander",
+        "Turkey",
         "Carson Beck",
         "Kelly",
         "Nasty",
         "Chelsea Gray",
-        "Josh Smith"
+        "Bloomberg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 13:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 14:48:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
         "Gudda Guddi",
         "Khel Band Karo",
         "ToxicTRAILER TOMORROW",
         "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
+        "#GalaxyF70Pro5G",
         "Turkey",
-        "#Vanrang2026Mumbai",
-        "#VishwanathAndSons",
-        "#Fold8InANewShape",
         "Neha Bora",
-        "#BlockbusterDC"
+        "#VishwanathAndSons",
+        "#TAEHYUNGxCHAMPION",
+        "#MaheshBabuSDP"
       ],
       "hashtags": [
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
-        "#Vanrang2026Mumbai",
+        "#GalaxyF70Pro5G",
         "#VishwanathAndSons",
-        "#Fold8InANewShape",
-        "#BlockbusterDC"
+        "#TAEHYUNGxCHAMPION",
+        "#MaheshBabuSDP"
       ],
       "regular_topics": [
         "Gudda Guddi",
@@ -149,50 +152,50 @@
         "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "Turkey",
         "Neha Bora",
+        "Saudi",
         "YOGESH INDIA TOUR BEGINS",
-        "Galaxy Z Fold8",
-        "Saudi Arabia",
-        "EST x MAGNUM PISTACHIO",
-        "\u092a\u0924\u094d\u0928\u0940 \u0938\u0902\u0917\u0940\u0924\u093e"
+        "\u092a\u0924\u094d\u0928\u0940 \u0938\u0902\u0917\u0940\u0924\u093e",
+        "\u0917\u0902\u0917\u093e \u091c\u092e\u0928\u093e",
+        "EST x MAGNUM PISTACHIO"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 07 2026 13:54:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 14:46:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Peter",
+        "Lola",
         "#WinpesaSport",
-        "#DailytimeAt100",
         "LA Galaxy",
-        "#LagosFather",
+        "Ayyoub Bouaddi",
         "Phyno",
-        "#NPFL27",
-        "Bouaddi",
-        "Oba Orin",
-        "#YellowTakeOver",
-        "\u20ac45m for Rodri"
+        "Manchester City",
+        "Sergi Roberto",
+        "#LagosFather",
+        "Roony",
+        "#KalakutaFrequency",
+        "#dailytimeat100"
       ],
       "hashtags": [
         "#WinpesaSport",
-        "#DailytimeAt100",
         "#LagosFather",
-        "#NPFL27",
-        "#YellowTakeOver"
+        "#KalakutaFrequency",
+        "#dailytimeat100",
+        "#NPFL27"
       ],
       "regular_topics": [
-        "Peter",
+        "Lola",
         "LA Galaxy",
+        "Ayyoub Bouaddi",
         "Phyno",
-        "Bouaddi",
-        "Oba Orin",
-        "\u20ac45m for Rodri",
-        "Judas",
-        "Rema",
-        "Lille",
-        "JPXXQR",
-        "Register Now"
+        "Manchester City",
+        "Sergi Roberto",
+        "Roony",
+        "Kamsy",
+        "Keivo",
+        "YUSUF THE SHOW",
+        "Oba Orin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
