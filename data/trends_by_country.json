@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-07T20:25:29.101288+00:00",
+  "generated_at_utc": "2026-08-07T21:05:17.085404+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 19:48:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 20:39:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enes",
-        "Mackinac Island",
+        "Mackinac",
         "Cassidy",
         "Justice Smith",
-        "Charlie Gillespie",
         "Troy",
         "Sophia",
+        "Charlie Gillespie",
+        "Manny Franco",
+        "2027 WNBA Draft",
         "#FursuitFriday",
-        "#DMDinUSAxTMKTTP",
-        "Blanche",
-        "Lisa Cook"
+        "#DMDinUSAxTMKTTP"
       ],
       "hashtags": [
         "#FursuitFriday",
@@ -27,16 +27,16 @@
       ],
       "regular_topics": [
         "Enes",
-        "Mackinac Island",
+        "Mackinac",
         "Cassidy",
         "Justice Smith",
-        "Charlie Gillespie",
         "Troy",
         "Sophia",
-        "Blanche",
+        "Charlie Gillespie",
+        "Manny Franco",
+        "2027 WNBA Draft",
         "Lisa Cook",
-        "Alaska",
-        "Former NBA"
+        "Lala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,7 +121,7 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 20:00:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 20:52:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#ShivThakreMeetupTomorrow",
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
@@ -133,14 +133,20 @@
         "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "#E20SahiHai",
         "Sophia",
-        "#BLACKPINK10thAnniversary"
+        "Neha Bora"
       ],
       "hashtags": [
         "#ShivThakreMeetupTomorrow",
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
         "#BlockbusterDC",
         "#E20SahiHai",
-        "#BLACKPINK10thAnniversary"
+        "#BLACKPINK10thAnniversary",
+        "#GalaxyF70Pro5G",
+        "#ToxicTheMovie",
+        "#CampusDominate",
+        "#Its_BOSS_SCOUPS_Day",
+        "#\ub09c_\uc5b8\uc81c\ub098_\uc2b9\ucca0\uc774\ud3b8_\uc0dd\uc77c\ucd95\ud558\ud574",
+        "#EminG\u00fcnen\u00e7"
       ],
       "regular_topics": [
         "Gudda Guddi",
@@ -151,8 +157,8 @@
         "Sophia",
         "Neha Bora",
         "Saudi Arabia",
-        "Jisoo",
         "Astra",
+        "Jisoo",
         "\u0938\u093e\u0935\u093f\u0924\u094d\u0930\u0940\u092c\u093e\u0908 \u092b\u0941\u0932\u0947"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
