@@ -1,127 +1,127 @@
 {
-  "generated_at_utc": "2026-08-07T23:00:31.085871+00:00",
+  "generated_at_utc": "2026-08-07T23:53:15.821962+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 22:24:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 23:15:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enes",
         "Araujo",
         "Mackinac",
+        "Liverpool",
         "Original Content Rewards",
         "Crosby",
-        "Rey Fenix",
-        "Deco",
+        "Chuk",
         "Kirk Cousins",
         "Bigot",
-        "#DMDinUSAxTMKTTP",
-        "Jemele"
+        "Deco",
+        "Lala"
       ],
       "hashtags": [
+        "#OlaDollGame",
         "#DMDinUSAxTMKTTP",
-        "#FursuitFriday",
-        "#RepublicansCutMedicare",
-        "#Martha",
-        "#XERJ"
+        "#PFLCharlotte",
+        "#NationalBeachPartyDay",
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "Enes",
         "Araujo",
         "Mackinac",
+        "Liverpool",
         "Original Content Rewards",
         "Crosby",
-        "Rey Fenix",
-        "Deco",
+        "Chuk",
         "Kirk Cousins",
         "Bigot",
-        "Jemele",
-        "Dragon Lee"
+        "Deco",
+        "Lala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 07 2026 21:56:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 22:49:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
         "#TOTP",
-        "Steve Perryman",
-        "Lankshear",
         "Jacquet",
-        "Leoni",
+        "Konate",
+        "Steve Perryman",
+        "Arthur Melo",
+        "Barca",
+        "Lankshear",
+        "Uruguayan",
         "Hojbjerg",
-        "#Boro",
-        "#wwfc",
-        "#AlleyCats",
-        "#pvfc"
+        "Deco"
       ],
       "hashtags": [
         "#TOTP",
         "#Boro",
-        "#wwfc",
+        "#pvfc",
         "#AlleyCats",
-        "#pvfc"
+        "#wwfc"
       ],
       "regular_topics": [
         "Araujo",
-        "Steve Perryman",
-        "Lankshear",
         "Jacquet",
-        "Leoni",
-        "Hojbjerg",
-        "Wrexham",
-        "Kim Wilde",
         "Konate",
-        "Wakefield",
-        "Middlesbrough"
+        "Steve Perryman",
+        "Arthur Melo",
+        "Barca",
+        "Lankshear",
+        "Uruguayan",
+        "Hojbjerg",
+        "Deco",
+        "CB and RB"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 07 2026 22:42:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 23:33:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
-        "Liverpool",
-        "Rodri",
         "WNBA",
+        "Rodri",
+        "Liverpool",
+        "Enes",
         "Spec",
-        "Enes Kanter",
-        "Larry Brock",
         "#gamblorballing",
         "#betya",
+        "Larry Brock",
         "Atlanta",
         "Evander"
       ],
       "hashtags": [
         "#gamblorballing",
         "#betya",
-        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
         "#momsonn",
+        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
         "#bb28"
       ],
       "regular_topics": [
         "Araujo",
-        "Liverpool",
-        "Rodri",
         "WNBA",
+        "Rodri",
+        "Liverpool",
+        "Enes",
         "Spec",
-        "Enes Kanter",
         "Larry Brock",
         "Atlanta",
         "Evander",
         "Kawhi",
-        "Good Friday"
+        "Scott Reid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 22:36:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 23:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NationalHandloomDay",
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
@@ -151,8 +151,8 @@
         "Turkey",
         "Rodri",
         "\u0928\u094b\u092c\u0947\u0932 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
+        "Liverpool",
         "Neha Bora",
-        "GRWM",
         "ToxicTRAILER TOMORROW"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 07 2026 22:36:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 23:27:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
         "Original Content Rewards",
         "Konate",
-        "Deco",
         "Revenue Sharing",
-        "Van Dijk",
+        "Deco",
         "Home Timeline",
-        "Skel",
+        "Van Dijk",
+        "Henry Okoye",
         "Nikita",
-        "Nomy and Tram",
-        "Sony"
+        "Jacquet",
+        "Skel"
       ],
       "hashtags": [
-        "#alt\u0131n",
-        "#momsonn",
-        "#RCCG",
+        "#SecretStory",
         "#teenageer",
-        "#Barcelona"
+        "#alt\u0131n",
+        "#momsonn"
       ],
       "regular_topics": [
         "Araujo",
         "Original Content Rewards",
         "Konate",
-        "Deco",
         "Revenue Sharing",
-        "Van Dijk",
+        "Deco",
         "Home Timeline",
-        "Skel",
+        "Van Dijk",
+        "Henry Okoye",
         "Nikita",
-        "Nomy and Tram",
-        "Sony"
+        "Jacquet",
+        "Skel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
