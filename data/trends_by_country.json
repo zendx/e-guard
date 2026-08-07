@@ -1,66 +1,68 @@
 {
-  "generated_at_utc": "2026-08-07T03:41:18.063087+00:00",
+  "generated_at_utc": "2026-08-07T05:25:53.247668+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 03:18:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 05:00:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Haynes King",
+        "Red Sox",
+        "#This_And_That",
         "Panthers",
         "Chelsea Gray",
+        "#DirtyWater",
         "#KeepPounding",
-        "Cardinals",
-        "Haley",
         "Ogles",
-        "Hall of Fame",
-        "A'ja",
-        "Aces",
-        "Melody"
+        "#THIS\ub3c4_THAT\ub3c4_\uc2a4\ud0a4\uc988",
+        "Kawhi",
+        "SKZ THIS AND THAT DAY"
       ],
       "hashtags": [
+        "#This_And_That",
+        "#DirtyWater",
         "#KeepPounding",
-        "#NIKKExP30th",
-        "#TNAiMPACT",
-        "#HOFGame",
-        "#badboy20"
+        "#THIS\ub3c4_THAT\ub3c4_\uc2a4\ud0a4\uc988",
+        "#StrayKids"
       ],
       "regular_topics": [
         "Haynes King",
+        "Red Sox",
         "Panthers",
         "Chelsea Gray",
-        "Cardinals",
-        "Haley",
         "Ogles",
-        "Hall of Fame",
-        "A'ja",
-        "Aces",
-        "Melody",
-        "Chase Meidroth"
+        "Kawhi",
+        "SKZ THIS AND THAT DAY",
+        "Caleb Durbin",
+        "Way Out",
+        "Cardinals",
+        "After You"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 07 2026 02:51:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 04:34:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
         "Vini",
         "Madrid",
         "Arsenal",
+        "#This_And_That",
         "Jason Arday",
+        "#THIS\ub3c4_THAT\ub3c4_\uc2a4\ud0a4\uc988",
         "Cambridge",
         "Alvarez",
         "Spence",
-        "Dan Neil",
-        "McCrorie",
-        "Fernandez"
+        "Dan Neil"
       ],
       "hashtags": [
+        "#This_And_That",
+        "#THIS\ub3c4_THAT\ub3c4_\uc2a4\ud0a4\uc988",
         "#bb28",
-        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
-        "#ITV7InItToWinIt"
+        "#Wordle1875",
+        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39"
       ],
       "regular_topics": [
         "Rodri",
@@ -73,121 +75,130 @@
         "Spence",
         "Dan Neil",
         "McCrorie",
-        "Fernandez"
+        "Thetford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 07 2026 02:44:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 04:28:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bb28",
+        "Haynes King",
         "Rodri",
-        "Carson Beck",
-        "Chelsea Gray",
-        "Chad Kelly",
-        "Larry Brock",
         "Kawhi",
+        "#bb28",
+        "Kelly",
+        "Chelsea Gray",
+        "Carson Beck",
         "Josh Smith",
-        "Nanos",
+        "Mr. Brock",
         "Nasty",
-        "Stamps"
+        "Red Sox"
       ],
       "hashtags": [
         "#bb28",
-        "#Argos",
-        "#NIKKExP30th",
         "#GranHermano",
-        "#teenageer"
+        "#teenageer",
+        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
+        "#This_And_That"
       ],
       "regular_topics": [
+        "Haynes King",
         "Rodri",
-        "Carson Beck",
-        "Chelsea Gray",
-        "Chad Kelly",
-        "Larry Brock",
         "Kawhi",
+        "Kelly",
+        "Chelsea Gray",
+        "Carson Beck",
         "Josh Smith",
-        "Nanos",
+        "Mr. Brock",
         "Nasty",
-        "Stamps",
-        "Telesat"
+        "Red Sox",
+        "Madrid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 02:40:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 04:24:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GodMorningFriday",
-        "\u0928\u094b\u092c\u0947\u0932 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
         "#NationalHandloomDay",
         "#RabindranathTagore",
+        "\u0928\u094b\u092c\u0947\u0932 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
+        "#GodMorningFriday",
         "#KalaignarForever",
-        "#LoveForGalaxyF70Pro",
         "\u0917\u0941\u0930\u0941\u0926\u0947\u0935 \u0930\u0935\u0940\u0928\u094d\u0926\u094d\u0930\u0928\u093e\u0925 \u091f\u0948\u0917\u094b\u0930",
         "\u092e\u0939\u093e\u0928 \u0915\u0935\u093f",
-        "Rodri",
-        "MAKE IT RIGHT",
-        "omega interactive technologies"
+        "#VocalForLocal",
+        "\u092a\u093e\u0935\u0928 \u092a\u094d\u0930\u0915\u093e\u0936",
+        "\u0936\u094d\u0930\u0940 \u0917\u0941\u0930\u0941 \u0939\u0930\u0915\u093f\u0936\u0928 \u0938\u093e\u0939\u093f\u092c",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u093e\u0939\u093f\u0924\u094d\u092f"
       ],
       "hashtags": [
-        "#GodMorningFriday",
         "#NationalHandloomDay",
         "#RabindranathTagore",
+        "#GodMorningFriday",
         "#KalaignarForever",
-        "#LoveForGalaxyF70Pro"
+        "#VocalForLocal",
+        "#ConversionExposed",
+        "#\u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd",
+        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0939\u0925\u0915\u0930\u0918\u093e_\u0926\u093f\u0935\u0938",
+        "#FridayMotivation",
+        "#\u091c\u092f_\u092e\u093e\u0924\u093e_\u0926\u0940",
+        "#Pallaburusu"
       ],
       "regular_topics": [
         "\u0928\u094b\u092c\u0947\u0932 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
         "\u0917\u0941\u0930\u0941\u0926\u0947\u0935 \u0930\u0935\u0940\u0928\u094d\u0926\u094d\u0930\u0928\u093e\u0925 \u091f\u0948\u0917\u094b\u0930",
         "\u092e\u0939\u093e\u0928 \u0915\u0935\u093f",
-        "Rodri",
-        "MAKE IT RIGHT",
-        "omega interactive technologies",
-        "samsung galaxy f70 pro 5g",
+        "\u092a\u093e\u0935\u0928 \u092a\u094d\u0930\u0915\u093e\u0936",
+        "\u0936\u094d\u0930\u0940 \u0917\u0941\u0930\u0941 \u0939\u0930\u0915\u093f\u0936\u0928 \u0938\u093e\u0939\u093f\u092c",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u093e\u0939\u093f\u0924\u094d\u092f",
-        "FCRA",
-        "\u0909\u092e\u093e\u0936\u0902\u0915\u0930 \u0938\u093f\u0902\u0939",
-        "GRWM"
+        "\u0938\u093f\u0916 \u0927\u0930\u094d\u092e",
+        "MAKE IT RIGHT",
+        "\u0935\u0948\u0937\u094d\u0923\u094b \u0926\u0947\u0935\u0940",
+        "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u092e\u094b",
+        "\u092e\u0939\u093e\u0928 \u0915\u0943\u0937\u093f \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 07 2026 02:40:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 05:15:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ricky",
-        "Rema",
-        "Lola",
-        "Llona",
-        "#CLAAT",
-        "Chelsea Gray",
-        "On The Road",
-        "Kamsy",
-        "OUT NOW",
-        "Fireboy",
-        "Part 8"
+        "Rodri",
+        "Madrid",
+        "EFCC",
+        "Osun",
+        "Peter",
+        "Arsenal",
+        "Bashir",
+        "Perez Hilton",
+        "Jumu'ah Mubarak",
+        "Adeleke",
+        "Psquare"
       ],
       "hashtags": [
-        "#CLAAT",
-        "#CORTIS"
+        "#YellowTakeOver",
+        "#lagosondisplay",
+        "#gooner",
+        "#timaya20yrso2indigo",
+        "#drmartinsabhulimhen"
       ],
       "regular_topics": [
-        "Ricky",
-        "Rema",
-        "Lola",
-        "Llona",
-        "Chelsea Gray",
-        "On The Road",
-        "Kamsy",
-        "OUT NOW",
-        "Fireboy",
-        "Part 8",
-        "Bashir"
+        "Rodri",
+        "Madrid",
+        "EFCC",
+        "Osun",
+        "Peter",
+        "Arsenal",
+        "Bashir",
+        "Perez Hilton",
+        "Jumu'ah Mubarak",
+        "Adeleke",
+        "Psquare"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
