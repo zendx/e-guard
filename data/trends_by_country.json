@@ -1,119 +1,122 @@
 {
-  "generated_at_utc": "2026-08-07T16:38:01.865891+00:00",
+  "generated_at_utc": "2026-08-07T17:37:26.273048+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 16:16:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 17:08:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cassidy",
+        "Blanche",
+        "Mackinac",
         "#LALALALUNE",
         "Alaska",
         "Murkowski",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
         "#LastFourWatched",
-        "Good Friday",
-        "LINGORM ILF EP8",
         "#FursuitFriday",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
         "Purple Heart",
-        "Turkey"
+        "LINGORM ILF EP8"
       ],
       "hashtags": [
         "#LALALALUNE",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
         "#LastFourWatched",
         "#FursuitFriday",
-        "#Mar\u00edaDesquiciadaMachado"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP8",
+        "#LetterboxdFriday"
       ],
       "regular_topics": [
         "Cassidy",
+        "Blanche",
+        "Mackinac",
         "Alaska",
         "Murkowski",
-        "Good Friday",
-        "LINGORM ILF EP8",
         "Purple Heart",
+        "LINGORM ILF EP8",
+        "Good Friday",
         "Turkey",
-        "Runch",
-        "RED Friday",
-        "Happy Friyay",
-        "May and June"
+        "Rapinoe",
+        "East Wing"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 07 2026 15:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 16:44:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Rodri",
-        "Jason Arday",
-        "Cambridge",
-        "Thetford",
         "William Orbit",
         "Simon Levy",
-        "Arsenal",
-        "Alvarez",
-        "Kemi",
-        "Madrid",
-        "Guessand"
+        "Ray of Light",
+        "Endrick",
+        "Guessand",
+        "Tomi",
+        "sophia",
+        "Ricky Gervais",
+        "#LastFourWatched",
+        "Carl Beech",
+        "James O'Brien"
       ],
       "hashtags": [
         "#LastFourWatched",
-        "#NINGNING",
+        "#colu",
+        "#thechase",
+        "#BritishGP",
+        "#gtfc",
+        "#aplaceinthesun",
         "#BandcampFriday",
-        "#FlowersOnFriday",
-        "#THIS_AND_THAT"
+        "#twitterblades"
       ],
       "regular_topics": [
-        "Rodri",
-        "Jason Arday",
-        "Cambridge",
-        "Thetford",
         "William Orbit",
         "Simon Levy",
-        "Arsenal",
-        "Alvarez",
-        "Kemi",
-        "Madrid",
-        "Guessand"
+        "Ray of Light",
+        "Endrick",
+        "Guessand",
+        "Tomi",
+        "sophia",
+        "Ricky Gervais",
+        "Carl Beech",
+        "James O'Brien",
+        "Alley Cats"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 07 2026 15:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 16:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
-        "Cassidy",
         "Larry Brock",
-        "Spec",
+        "Cassidy",
         "Evander",
-        "#bb28",
-        "Turkey",
+        "sophia",
+        "Spector",
         "Salsa",
-        "Carson Beck",
+        "#bb28",
         "Good Friday",
-        "Chelsea Gray"
+        "Chelsea Gray",
+        "Carson Beck"
       ],
       "hashtags": [
         "#bb28",
         "#THIS_AND_THAT",
-        "#teenageer",
         "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
-        "#RaisingKanan"
+        "#teenageer",
+        "#stocks"
       ],
       "regular_topics": [
         "Rodri",
-        "Cassidy",
         "Larry Brock",
-        "Spec",
+        "Cassidy",
         "Evander",
-        "Turkey",
+        "sophia",
+        "Spector",
         "Salsa",
-        "Carson Beck",
         "Good Friday",
         "Chelsea Gray",
+        "Carson Beck",
         "Kelly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,39 +124,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 15:39:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 17:24:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
         "Gudda Guddi",
         "Khel Band Karo",
+        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "#GalaxyF70Pro5G",
+        "Turkey",
         "Ohh My Dog",
         "ToxicTRAILER TOMORROW",
-        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
-        "Turkey",
-        "Neha Bora",
-        "Saudi Arabia",
-        "#BLACKPINK10thAnniversary"
+        "#BlockbusterDC",
+        "#BLACKPINK10thAnniversary",
+        "Neha Bora"
       ],
       "hashtags": [
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
         "#GalaxyF70Pro5G",
+        "#BlockbusterDC",
         "#BLACKPINK10thAnniversary",
-        "#TAEHYUNGxCHAMPION",
-        "#ToxicTheMovie"
+        "#SecondCaseOfSeetharam"
       ],
       "regular_topics": [
         "Gudda Guddi",
         "Khel Band Karo",
-        "Ohh My Dog",
-        "ToxicTRAILER TOMORROW",
         "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "Turkey",
+        "Ohh My Dog",
+        "ToxicTRAILER TOMORROW",
         "Neha Bora",
-        "Saudi Arabia",
-        "NATO",
-        "YOGESH INDIA TOUR BEGINS",
-        "\u0917\u0902\u0917\u093e \u091c\u092e\u0928\u093e"
+        "Jisoo",
+        "E 20",
+        "Saudi",
+        "\u0938\u093e\u0935\u093f\u0924\u094d\u0930\u0940\u092c\u093e\u0908 \u092b\u0941\u0932\u0947"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
