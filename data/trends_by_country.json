@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-08T17:22:58.312699+00:00",
+  "generated_at_utc": "2026-08-08T17:53:15.105789+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 16:40:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 17:32:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalCatDay",
+        "Adam Vinatieri",
         "WNBA",
         "#Caturday",
         "Jorge Messi",
-        "Good Saturday",
-        "Mason Mount",
-        "#BornToShineMingi",
-        "#StarRailGC2026",
-        "Amad",
         "Cartoons",
-        "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558"
+        "#BornToShineMingi",
+        "Royce White",
+        "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558",
+        "Kayla McBride",
+        "#voreday"
       ],
       "hashtags": [
         "#InternationalCatDay",
         "#Caturday",
         "#BornToShineMingi",
-        "#StarRailGC2026",
-        "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558"
+        "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558",
+        "#voreday"
       ],
       "regular_topics": [
+        "Adam Vinatieri",
         "WNBA",
         "Jorge Messi",
-        "Good Saturday",
-        "Mason Mount",
-        "Amad",
         "Cartoons",
         "Royce White",
-        "Todd Blanche",
+        "Kayla McBride",
+        "Good Saturday",
         "Larry Fitzgerald",
-        "Dorgu",
-        "Mike Lee"
+        "Mason Mount",
+        "Todd Blanche",
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
