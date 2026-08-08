@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T09:59:13.422329+00:00",
+  "generated_at_utc": "2026-08-08T10:30:15.080583+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,53 +43,53 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 09:15:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 10:08:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
-        "MATCH DAY",
         "#InternationalCatDay",
         "#Caturday",
         "Barca",
-        "Arday",
-        "Cambridge",
-        "#PostboxSaturday",
-        "#totp",
-        "Thetford",
-        "Arsenal"
-      ],
-      "hashtags": [
-        "#InternationalCatDay",
-        "#Caturday",
-        "#PostboxSaturday",
-        "#totp",
-        "#Violet"
-      ],
-      "regular_topics": [
-        "Araujo",
         "MATCH DAY",
-        "Barca",
         "Arday",
         "Cambridge",
         "Thetford",
         "Arsenal",
-        "Rodri",
-        "William Orbit",
+        "#AlleyCats",
+        "Steve Perryman"
+      ],
+      "hashtags": [
+        "#InternationalCatDay",
+        "#Caturday",
+        "#AlleyCats",
+        "#SmackDown",
+        "#PostboxSaturday"
+      ],
+      "regular_topics": [
+        "Araujo",
+        "Barca",
+        "MATCH DAY",
+        "Arday",
+        "Cambridge",
+        "Thetford",
+        "Arsenal",
         "Steve Perryman",
-        "Lord Charles"
+        "Jacquet",
+        "Rodri",
+        "William Orbit"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 09:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 10:00:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
-        "Josh Smith",
+        "JOSH SMITH",
         "#SmackDown",
-        "Brett Bateman",
         "Araujo",
         "Enes",
+        "Brett Bateman",
         "WNBA",
         "Spec",
         "Atlanta",
@@ -105,10 +105,10 @@
       ],
       "regular_topics": [
         "Summerland",
-        "Josh Smith",
-        "Brett Bateman",
+        "JOSH SMITH",
         "Araujo",
         "Enes",
+        "Brett Bateman",
         "WNBA",
         "Spec",
         "Atlanta",
@@ -121,79 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 09:03:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 09:54:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#300GWCleanEnergy",
         "#IITDelhi",
-        "#UnfoldANewShape",
-        "#VinodTawdeForSkinDonation",
-        "#StraightDriveByTenXYou",
+        "#BlockBusterKoreanKanakaraju",
         "Devdutt Padikkal",
-        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "#UnfoldANewShape",
+        "#GMMTVFanfestInMacau2026",
         "Sai Sudharsan",
-        "Department Skip",
+        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Sarfaraz Khan",
         "Jisoo",
-        "PONDPHUWIN FANFEST MACAU"
+        "Department Skip"
       ],
       "hashtags": [
         "#300GWCleanEnergy",
         "#IITDelhi",
+        "#BlockBusterKoreanKanakaraju",
         "#UnfoldANewShape",
-        "#VinodTawdeForSkinDonation",
-        "#StraightDriveByTenXYou"
+        "#GMMTVFanfestInMacau2026"
       ],
       "regular_topics": [
         "Devdutt Padikkal",
-        "\u090b\u0937\u092d \u092a\u0902\u0924",
         "Sai Sudharsan",
-        "Department Skip",
+        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Sarfaraz Khan",
         "Jisoo",
+        "Department Skip",
         "PONDPHUWIN FANFEST MACAU",
         "Araujo",
+        "\u092a\u0941\u0937\u094d\u092a \u0935\u0930\u094d\u0937\u093e",
         "PERTHSANTA STARLIT JOURNEY",
-        "\u090a\u0930\u094d\u091c\u093e \u092f\u093e\u0924\u094d\u0930\u093e",
-        "\u0905\u0935\u0927 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
-        "Bhandara Sewa"
+        "\u090a\u0930\u094d\u091c\u093e \u092f\u093e\u0924\u094d\u0930\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 09:01:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 09:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
         "25gb",
-        "Elon",
-        "Original",
+        "#SackFaroukNow",
         "#MTNat25",
-        "#GMMTVFanfestInMacau2026",
-        "AC Milan",
-        "Another Saturday",
-        "Touching",
-        "Today is Saturday",
-        "Home Timeline"
+        "Elon",
+        "Marc Casad\u00f3",
+        "Middlesbrough",
+        "Radek Vitek",
+        "Chelsea vs AC Milan",
+        "Original",
+        "Henry Okoye"
       ],
       "hashtags": [
+        "#SackFaroukNow",
         "#MTNat25",
         "#GMMTVFanfestInMacau2026",
         "#BuildingKatsinaBeyond2027",
-        "#teenageer",
-        "#momsonn",
-        "#nolimits"
+        "#teenageer"
       ],
       "regular_topics": [
         "Araujo",
         "25gb",
         "Elon",
+        "Marc Casad\u00f3",
+        "Middlesbrough",
+        "Radek Vitek",
+        "Chelsea vs AC Milan",
         "Original",
-        "AC Milan",
-        "Another Saturday",
-        "Touching",
-        "Today is Saturday",
-        "Home Timeline",
         "Henry Okoye",
-        "Van Dijk"
+        "Happy 9th",
+        "Ruggeri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
