@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T22:14:19.247065+00:00",
+  "generated_at_utc": "2026-08-08T22:52:27.486570+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 21:24:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 22:16:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Toure",
+        "Paul Heaton",
         "Steur",
         "Elanga",
-        "Paul Heaton",
         "Wissa",
+        "Simpson",
         "Murphy",
+        "#UFCVegas120",
         "Woltemade",
         "Bamba",
-        "#ARGvRSA",
-        "Kellie",
-        "#WilliamsonSimpson2"
+        "Kellie"
       ],
       "hashtags": [
+        "#UFCVegas120",
         "#ARGvRSA",
-        "#WilliamsonSimpson2",
-        "#pictureslam",
         "#ZuffaBoxing10",
-        "#NFFC"
+        "#nffc",
+        "#saintsfc"
       ],
       "regular_topics": [
         "Toure",
+        "Paul Heaton",
         "Steur",
         "Elanga",
-        "Paul Heaton",
         "Wissa",
+        "Simpson",
         "Murphy",
         "Woltemade",
         "Bamba",
         "Kellie",
-        "Botman",
-        "Gaya"
+        "Jacqui Abbott"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 21:16:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 22:08:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
         "Italy",
         "#InternationalCatDay",
-        "#onstorm",
         "Enes",
+        "Tyson Philpot",
+        "#Alouettes",
+        "DiJonai Carrington",
         "FNAF WORLD 2",
         "#Caturday",
-        "Araujo",
-        "DiJonai Carrington",
-        "#Alouettes"
+        "Elks"
       ],
       "hashtags": [
         "#InternationalCatDay",
-        "#onstorm",
-        "#Caturday",
         "#Alouettes",
-        "#SmackDown"
+        "#Caturday",
+        "#UFCVegas120",
+        "#onstorm"
       ],
       "regular_topics": [
         "Summerland",
         "WNBA",
         "Italy",
         "Enes",
-        "FNAF WORLD 2",
-        "Araujo",
+        "Tyson Philpot",
         "DiJonai Carrington",
+        "FNAF WORLD 2",
+        "Elks",
+        "Araujo",
         "Josh Smith",
-        "Brett Bateman",
-        "Peachland",
-        "Jorge Messi"
+        "Bald Range"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
