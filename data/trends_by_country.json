@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T07:25:32.267811+00:00",
+  "generated_at_utc": "2026-08-08T08:04:21.470455+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,156 +43,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 06:39:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 07:30:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Caturday",
         "Araujo",
         "#PostboxSaturday",
+        "MATCH DAY",
+        "#Violet",
         "Barca",
-        "#Caturday",
         "Arday",
-        "Rodri",
-        "#TOTP",
         "Cambridge",
-        "Thetford",
-        "Arsenal",
-        "William Orbit"
+        "#TOTP",
+        "Rodri",
+        "Thetford"
       ],
       "hashtags": [
-        "#PostboxSaturday",
         "#Caturday",
+        "#PostboxSaturday",
+        "#Violet",
         "#TOTP",
-        "#MLBS6Spoilers",
-        "#SmackDown"
+        "#SteepleSaturday"
       ],
       "regular_topics": [
         "Araujo",
+        "MATCH DAY",
         "Barca",
         "Arday",
-        "Rodri",
         "Cambridge",
+        "Rodri",
         "Thetford",
         "Arsenal",
+        "Lord Charles",
         "William Orbit",
-        "Steve Perryman",
-        "Barcelona",
-        "Tatum"
+        "Steve Perryman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 06:30:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 07:21:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "Josh Smith",
-        "#SmackDown",
         "Peachland",
         "Tyler Rogers",
-        "#PFLCharlotte",
-        "CONCACAF",
+        "#SmackDown",
         "Brett Bateman",
         "#CanM20",
         "#BlueJays",
-        "#MLBS6Spoilers"
+        "Enes",
+        "Araujo",
+        "WNBA"
       ],
       "hashtags": [
         "#SmackDown",
-        "#PFLCharlotte",
         "#CanM20",
         "#BlueJays",
-        "#MLBS6Spoilers"
+        "#VWFC",
+        "#PFLCharlotte"
       ],
       "regular_topics": [
         "Summerland",
         "Josh Smith",
         "Peachland",
         "Tyler Rogers",
-        "CONCACAF",
         "Brett Bateman",
         "Enes",
         "Araujo",
         "WNBA",
         "Atlanta",
-        "Spec"
+        "Spec",
+        "CONCACAF"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 06:24:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 07:18:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#StraightDriveByTenXYou",
         "#UnfoldANewShape",
+        "#IITDelhi",
         "#SaveAshram",
         "Department Skip",
-        "Shiv Thakare",
+        "#GMMTVFanfestInMacau2026",
         "Bhandara Sewa",
-        "#TeamBabuForMahesh",
         "\u090b\u0937\u092d \u092a\u0902\u0924",
-        "#ToxicTrailer",
-        "Yashwantrao Chavan Centre",
-        "\u0936\u0928\u093f \u0926\u0947\u0935"
+        "Araujo",
+        "Home Timeline",
+        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940"
       ],
       "hashtags": [
         "#StraightDriveByTenXYou",
         "#UnfoldANewShape",
+        "#IITDelhi",
         "#SaveAshram",
-        "#TeamBabuForMahesh",
-        "#ToxicTrailer"
+        "#GMMTVFanfestInMacau2026"
       ],
       "regular_topics": [
         "Department Skip",
-        "Shiv Thakare",
         "Bhandara Sewa",
         "\u090b\u0937\u092d \u092a\u0902\u0924",
-        "Yashwantrao Chavan Centre",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "Original Content Rewards",
         "Araujo",
-        "Revenue Sharing",
+        "Home Timeline",
         "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940",
-        "Home Timeline"
+        "Original Content Rewards",
+        "Do or Die",
+        "PERTHSANTA STARLIT JOURNEY",
+        "Ashish Yadav",
+        "Galaxy Z Fold8 Powerful"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 06:24:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 07:18:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
-        "Peter",
         "Araujo",
-        "Psquare",
+        "Peter",
         "Arsenal",
+        "Psquare",
         "Barca",
         "GM CT",
+        "Amen",
         "Madrid",
         "Osun",
-        "Original Content Rewards",
-        "Rema"
+        "Original Content Rewards"
       ],
       "hashtags": [
         "#teenageer",
+        "#GMMTVFanfestInMacau2026",
         "#momsonn",
         "#MTNat25",
-        "#CFCW",
-        "#alt\u0131n"
+        "#edrtwt"
       ],
       "regular_topics": [
         "Rodri",
-        "Peter",
         "Araujo",
-        "Psquare",
+        "Peter",
         "Arsenal",
+        "Psquare",
         "Barca",
         "GM CT",
+        "Amen",
         "Madrid",
         "Osun",
-        "Original Content Rewards",
-        "Rema"
+        "Original Content Rewards"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
