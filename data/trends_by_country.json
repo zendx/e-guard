@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-08T19:48:44.627604+00:00",
+  "generated_at_utc": "2026-08-08T20:14:04.929521+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 19:16:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 20:07:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Olivia Miles",
+        "Dijonai",
         "Gronk",
-        "Phee",
+        "WNBA",
+        "Olivia Miles",
         "Drew Brees",
+        "Phee",
         "#InternationalCatDay",
         "Lynx",
-        "Roger Craig",
-        "Freddy Fazbear",
-        "Royce",
-        "Cam Newton",
-        "FNAF"
+        "Opie",
+        "Flagrant 2",
+        "Angela"
       ],
       "hashtags": [
         "#InternationalCatDay",
         "#Caturday",
+        "#ZuffaBoxing10",
         "#voreday",
-        "#HBDSuperstarMahesh",
-        "#BornToShineMingi"
+        "#HBDSuperstarMahesh"
       ],
       "regular_topics": [
-        "Olivia Miles",
+        "Dijonai",
         "Gronk",
-        "Phee",
+        "WNBA",
+        "Olivia Miles",
         "Drew Brees",
+        "Phee",
         "Lynx",
-        "Roger Craig",
-        "Freddy Fazbear",
-        "Royce",
-        "Cam Newton",
-        "FNAF",
-        "Opie"
+        "Opie",
+        "Flagrant 2",
+        "Angela",
+        "Vanny"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 18:46:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 19:39:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Mount",
         "#pictureslam",
         "Tielemans",
-        "FULL TIME",
         "#saintsfc",
         "#rufc",
+        "FULL TIME",
         "Amad",
         "Fletcher",
+        "#soundsofthe80s",
         "Beto",
-        "#dcfc",
-        "#thehitlist"
+        "#NFFC"
       ],
       "hashtags": [
         "#pictureslam",
         "#saintsfc",
         "#rufc",
-        "#dcfc",
-        "#thehitlist"
+        "#soundsofthe80s",
+        "#NFFC"
       ],
       "regular_topics": [
         "Mount",
@@ -71,11 +71,11 @@
         "Amad",
         "Fletcher",
         "Beto",
-        "Shaw",
-        "Taty",
-        "Mbeumo",
+        "Whitwell",
+        "Dundee",
+        "Man of the Match",
         "Mykolenko",
-        "Lacey"
+        "HALF TIME"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
