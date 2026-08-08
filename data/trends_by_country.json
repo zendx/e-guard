@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T21:16:41.239325+00:00",
+  "generated_at_utc": "2026-08-08T21:51:20.571706+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,97 +43,97 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 20:32:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 21:24:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Toure",
+        "Steur",
         "Elanga",
         "Paul Heaton",
-        "#NFFC",
+        "Wissa",
+        "Murphy",
         "Woltemade",
-        "#pictureslam",
-        "Sean Steur",
         "Bamba",
-        "#SaintsFC",
-        "#rufc",
-        "Mount",
-        "Tielemans"
+        "#ARGvRSA",
+        "Kellie",
+        "#WilliamsonSimpson2"
       ],
       "hashtags": [
-        "#NFFC",
+        "#ARGvRSA",
+        "#WilliamsonSimpson2",
         "#pictureslam",
-        "#SaintsFC",
-        "#rufc",
-        "#soundsofthe80s"
+        "#ZuffaBoxing10",
+        "#NFFC"
       ],
       "regular_topics": [
+        "Toure",
+        "Steur",
         "Elanga",
         "Paul Heaton",
+        "Wissa",
+        "Murphy",
         "Woltemade",
-        "Sean Steur",
         "Bamba",
-        "Mount",
-        "Tielemans",
-        "Toure",
-        "Valencia",
-        "FULL TIME",
-        "Whitwell"
+        "Kellie",
+        "Botman",
+        "Gaya"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 20:24:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 21:16:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
         "Italy",
         "#InternationalCatDay",
-        "Enes",
         "#onstorm",
+        "Enes",
+        "FNAF WORLD 2",
         "#Caturday",
         "Araujo",
-        "#SmackDown",
-        "Josh Smith",
-        "Brett Bateman"
+        "DiJonai Carrington",
+        "#Alouettes"
       ],
       "hashtags": [
         "#InternationalCatDay",
         "#onstorm",
         "#Caturday",
-        "#SmackDown",
-        "#RoomNumberFreen"
+        "#Alouettes",
+        "#SmackDown"
       ],
       "regular_topics": [
         "Summerland",
         "WNBA",
         "Italy",
         "Enes",
+        "FNAF WORLD 2",
         "Araujo",
+        "DiJonai Carrington",
         "Josh Smith",
         "Brett Bateman",
-        "Atlanta",
         "Peachland",
-        "Jorge Messi",
-        "Spec"
+        "Jorge Messi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 20:21:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 21:15:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDSuperstarMahesh",
         "#Varanasi",
         "Gayatri Mantra",
         "#RaGaFlopShow",
         "#KKK15",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "Stubbs",
+        "#Yash",
         "\u092e\u0923\u093f\u092a\u0941\u0930 \u091c\u093e\u0928\u093e",
         "Happy Birthday My Hero",
-        "Happy 51",
-        "JD Vance"
+        "JD Vance",
+        "Happy 51"
       ],
       "hashtags": [
         "#HBDSuperstarMahesh",
@@ -141,62 +141,61 @@
         "#RaGaFlopShow",
         "#KKK15",
         "#Yash",
-        "#ToxicTrailer",
         "#\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0915\u0941\u092e\u093e\u0930\u0940\u092a\u0902\u0925_\u0915\u093e_\u092a\u0930\u094d\u0926\u093e\u092b\u093e\u0936",
         "#ChhatronKiGoonj",
-        "#ToxicOn26August",
-        "#GOBARdhan",
+        "#ToxicTrailer",
+        "#ToxicTheMovie",
+        "#BcmForXMarketing",
         "#KiaraAdvani"
       ],
       "regular_topics": [
         "Gayatri Mantra",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "Stubbs",
         "\u092e\u0923\u093f\u092a\u0941\u0930 \u091c\u093e\u0928\u093e",
         "Happy Birthday My Hero",
-        "Happy 51",
         "JD Vance",
-        "Om Shanti Panth Exposed",
+        "Happy 51",
         "Jorge Messi",
+        "Om Shanti Panth Exposed",
         "FARHANA BEYOND FEAR",
-        "Brahma Kumaris Panth Exposed"
+        "Mount",
+        "Happiest Birthday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 20:20:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 21:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "25gb",
-        "Tielemans",
-        "Carrick",
-        "Nomy",
-        "Mount",
-        "Jorge Messi",
-        "$TOAD",
-        "Fletcher",
-        "Amorim",
         "DJ Big N",
-        "2baba"
+        "Nomy",
+        "#BbNaijaxPepsi",
+        "Carrick",
+        "Tielemans",
+        "2baba",
+        "Mount",
+        "$TOAD",
+        "Jorge Messi",
+        "Udinese"
       ],
       "hashtags": [
-        "#MTNat25",
-        "#PSGMUN",
-        "#MUNPSG"
+        "#BbNaijaxPepsi",
+        "#MTNat25"
       ],
       "regular_topics": [
         "25gb",
-        "Tielemans",
-        "Carrick",
-        "Nomy",
-        "Mount",
-        "Jorge Messi",
-        "$TOAD",
-        "Fletcher",
-        "Amorim",
         "DJ Big N",
-        "2baba"
+        "Nomy",
+        "Carrick",
+        "Tielemans",
+        "2baba",
+        "Mount",
+        "$TOAD",
+        "Jorge Messi",
+        "Udinese",
+        "Fletcher"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
