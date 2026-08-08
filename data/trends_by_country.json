@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-08T20:53:16.760882+00:00",
+  "generated_at_utc": "2026-08-08T21:16:41.239325+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 20:07:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 20:58:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dijonai",
-        "Gronk",
         "WNBA",
-        "Olivia Miles",
-        "Drew Brees",
-        "Phee",
-        "#InternationalCatDay",
-        "Lynx",
-        "Opie",
+        "Gronk",
+        "FNAF WORLD 2",
+        "Chris Sale",
         "Flagrant 2",
-        "Angela"
+        "Olivia Miles",
+        "Security Breach 2",
+        "#InternationalCatDay",
+        "Opie",
+        "Freddy Fazbear"
       ],
       "hashtags": [
         "#InternationalCatDay",
-        "#Caturday",
         "#ZuffaBoxing10",
-        "#voreday",
-        "#HBDSuperstarMahesh"
+        "#Caturday",
+        "#HBDSuperstarMahesh",
+        "#UFCVegas120"
       ],
       "regular_topics": [
         "Dijonai",
-        "Gronk",
         "WNBA",
-        "Olivia Miles",
-        "Drew Brees",
-        "Phee",
-        "Lynx",
-        "Opie",
+        "Gronk",
+        "FNAF WORLD 2",
+        "Chris Sale",
         "Flagrant 2",
-        "Angela",
-        "Vanny"
+        "Olivia Miles",
+        "Security Breach 2",
+        "Opie",
+        "Freddy Fazbear",
+        "Drew Brees"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
