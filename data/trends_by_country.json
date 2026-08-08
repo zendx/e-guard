@@ -1,80 +1,81 @@
 {
-  "generated_at_utc": "2026-08-08T23:15:37.547266+00:00",
+  "generated_at_utc": "2026-08-08T23:49:33.514558+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 22:42:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 23:33:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "WNBA",
         "Dijonai",
         "#UFCVegas120",
         "White Privilege",
         "Sousa",
-        "Flagrant 2",
         "Cunningham",
-        "Miles Johns",
-        "FNAF WORLD 2",
+        "Opie",
         "Aaron Nola",
-        "Gronk"
+        "Flagrant 2",
+        "FNAF WORLD 2",
+        "#tomatojay"
       ],
       "hashtags": [
         "#UFCVegas120",
+        "#tomatojay",
+        "#MostRequestedLive",
         "#GreenWall",
-        "#InternationalCatDay",
-        "#ZuffaBoxing10"
+        "#InternationalCatDay"
       ],
       "regular_topics": [
         "WNBA",
         "Dijonai",
         "White Privilege",
         "Sousa",
-        "Flagrant 2",
         "Cunningham",
-        "Miles Johns",
-        "FNAF WORLD 2",
+        "Opie",
         "Aaron Nola",
-        "Gronk",
-        "Faze"
+        "Flagrant 2",
+        "FNAF WORLD 2",
+        "Faze",
+        "Miles Johns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 22:16:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 23:08:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Toure",
         "Paul Heaton",
+        "Toure",
         "Steur",
+        "#UFCVegas120",
         "Elanga",
         "Wissa",
         "Simpson",
         "Murphy",
-        "#UFCVegas120",
         "Woltemade",
-        "Bamba",
-        "Kellie"
+        "Kellie",
+        "Bamba"
       ],
       "hashtags": [
         "#UFCVegas120",
-        "#ARGvRSA",
         "#ZuffaBoxing10",
-        "#nffc",
+        "#ARGvRSA",
+        "#NFFC",
         "#saintsfc"
       ],
       "regular_topics": [
-        "Toure",
         "Paul Heaton",
+        "Toure",
         "Steur",
         "Elanga",
         "Wissa",
         "Simpson",
         "Murphy",
         "Woltemade",
-        "Bamba",
         "Kellie",
-        "Jacqui Abbott"
+        "Bamba",
+        "Aaron McKenna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
