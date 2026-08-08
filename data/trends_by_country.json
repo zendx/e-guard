@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T11:49:26.791843+00:00",
+  "generated_at_utc": "2026-08-08T12:20:02.638960+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,155 +49,160 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 11:00:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 11:52:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Araujo",
-        "#InternationalCatDay",
         "Romero",
-        "Barca",
+        "#InternationalCatDay",
         "#Caturday",
-        "Cambridge",
-        "Arday",
-        "Thetford",
+        "Welcome to the Arsenal",
+        "Michael Owen",
         "MATCH DAY",
-        "#AlleyCats",
-        "Jacquet"
+        "#GMMTVFanfestInMacau2026",
+        "#f1twtselfieday",
+        "Araujo",
+        "Steve McManaman",
+        "Woodgate"
       ],
       "hashtags": [
         "#InternationalCatDay",
         "#Caturday",
+        "#GMMTVFanfestInMacau2026",
+        "#f1twtselfieday",
+        "#PostboxSaturday",
+        "#Violet",
+        "#MotoGP",
         "#AlleyCats",
-        "#SmackDown",
-        "#f1twtselfieday"
+        "#BritishGP"
       ],
       "regular_topics": [
-        "Araujo",
         "Romero",
-        "Barca",
-        "Cambridge",
-        "Arday",
-        "Thetford",
-        "MATCH DAY",
-        "Jacquet",
+        "Welcome to the Arsenal",
         "Michael Owen",
-        "Konate",
-        "William Orbit"
+        "MATCH DAY",
+        "Araujo",
+        "Steve McManaman",
+        "Woodgate",
+        "Maps",
+        "Sol Campbell",
+        "Arron Banks",
+        "Hart"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 10:54:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 11:45:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Summerland",
-        "#CrownCoins",
-        "JOSH SMITH",
         "#RoomNumberFreen",
+        "Summerland",
+        "KNOCK KNOCK ROOM NO. FREEN",
+        "#CrownCoins",
+        "Good Saturday",
+        "JOSH SMITH",
         "#SmackDown",
-        "Araujo",
-        "Enes",
+        "#InternationalCatDay",
         "WNBA",
-        "Brett Bateman",
-        "Spec",
-        "Atlanta"
+        "Araujo",
+        "Enes"
       ],
       "hashtags": [
-        "#CrownCoins",
         "#RoomNumberFreen",
+        "#CrownCoins",
         "#SmackDown",
-        "#PFLCharlotte",
-        "#CanM20"
+        "#InternationalCatDay",
+        "#PFLCharlotte"
       ],
       "regular_topics": [
         "Summerland",
+        "KNOCK KNOCK ROOM NO. FREEN",
+        "Good Saturday",
         "JOSH SMITH",
+        "WNBA",
         "Araujo",
         "Enes",
-        "WNBA",
         "Brett Bateman",
-        "Spec",
         "Atlanta",
-        "brendon little",
-        "Evander",
-        "Rodri"
+        "Spec",
+        "brendon little"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 10:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 11:42:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#300GWCleanEnergy",
+        "#BrandsCareMedia",
+        "#BcmForORM",
+        "#BcmForXMarketing",
+        "AFFORDABLE MARKETING BY BCM",
         "#IITDelhi",
-        "#UnfoldANewShape",
-        "#GMMTVFanfestInMacau2026",
+        "#300GWCleanEnergy",
         "Devdutt Padikkal",
-        "#BlockBusterKoreanKanakaraju",
-        "Sai Sudharsan",
-        "Sarfaraz Khan",
-        "\u090b\u0937\u092d \u092a\u0902\u0924",
         "KNOCK KNOCK ROOM NO. FREEN",
-        "PONDPHUWIN FANFEST MACAU"
+        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Sarfaraz Khan",
+        "\u092a\u0941\u0937\u094d\u092a \u0935\u0930\u094d\u0937\u093e"
       ],
       "hashtags": [
-        "#300GWCleanEnergy",
+        "#BrandsCareMedia",
+        "#BcmForORM",
+        "#BcmForXMarketing",
         "#IITDelhi",
-        "#UnfoldANewShape",
-        "#GMMTVFanfestInMacau2026",
-        "#BlockBusterKoreanKanakaraju"
+        "#300GWCleanEnergy"
       ],
       "regular_topics": [
+        "AFFORDABLE MARKETING BY BCM",
         "Devdutt Padikkal",
-        "Sai Sudharsan",
-        "Sarfaraz Khan",
-        "\u090b\u0937\u092d \u092a\u0902\u0924",
         "KNOCK KNOCK ROOM NO. FREEN",
-        "PONDPHUWIN FANFEST MACAU",
-        "Jisoo",
-        "\u0905\u0935\u0927 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Sarfaraz Khan",
         "\u092a\u0941\u0937\u094d\u092a \u0935\u0930\u094d\u0937\u093e",
-        "PERTHSANTA STARLIT JOURNEY",
-        "POOHPAVEL STAR WEIBOGALA"
+        "POOHPAVEL STAR WEIBOGALA",
+        "JUNIORMARK ALONG SUNNYMOON",
+        "\u0905\u0935\u0927 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "Jisoo",
+        "PERTHSANTA STARLIT JOURNEY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 10:45:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 11:42:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Jorge Messi",
+        "Welcome to the Arsenal",
         "#SackFaroukNow",
+        "#POCACOVosunwalk",
         "Araujo",
         "25gb",
-        "Elon",
-        "Romero",
-        "Chelsea vs AC Milan",
-        "#MTNat25",
-        "Middlesbrough",
-        "Marc Casad\u00f3",
-        "#GMMTVFanfestInMacau2026",
-        "Radek Vitek"
+        "AC Milan",
+        "Liverpool",
+        "Welcome Bruno",
+        "#SprayTheLoveWithGalafy",
+        "Romero"
       ],
       "hashtags": [
         "#SackFaroukNow",
-        "#MTNat25",
+        "#POCACOVosunwalk",
+        "#SprayTheLoveWithGalafy",
         "#GMMTVFanfestInMacau2026",
-        "#BuildingKatsinaBeyond2027"
+        "#MTNat25"
       ],
       "regular_topics": [
+        "Jorge Messi",
+        "Welcome to the Arsenal",
         "Araujo",
         "25gb",
-        "Elon",
+        "AC Milan",
+        "Liverpool",
+        "Welcome Bruno",
         "Romero",
-        "Chelsea vs AC Milan",
-        "Middlesbrough",
+        "Elon",
         "Marc Casad\u00f3",
-        "Radek Vitek",
-        "Original",
-        "Happy 9th",
-        "Ruggeri"
+        "NAMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
