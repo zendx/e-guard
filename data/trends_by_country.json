@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T17:53:15.105789+00:00",
+  "generated_at_utc": "2026-08-08T18:18:15.961377+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,159 +43,162 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 17:03:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 17:55:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FULL TIME",
         "Mount",
         "Tielemans",
+        "FULL TIME",
         "Amad",
         "Fletcher",
-        "HALF TIME",
-        "#bcfc",
-        "Beto",
+        "#rufc",
         "#dcfc",
+        "Beto",
+        "Shaw",
         "Mbeumo",
-        "#bwfc"
+        "#thehitlist"
       ],
       "hashtags": [
-        "#bcfc",
+        "#rufc",
         "#dcfc",
-        "#bwfc",
-        "#htafc",
-        "#swfc"
+        "#thehitlist",
+        "#bcfc",
+        "#saintsfc"
       ],
       "regular_topics": [
-        "FULL TIME",
         "Mount",
         "Tielemans",
+        "FULL TIME",
         "Amad",
         "Fletcher",
-        "HALF TIME",
         "Beto",
+        "Shaw",
         "Mbeumo",
+        "HALF TIME",
         "Taty",
-        "Dibling",
-        "Shaw"
+        "Lacey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 16:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 17:48:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
-        "WNBA",
-        "Mason Mount",
-        "#InternationalCatDay",
         "Tielemans",
-        "Amad",
+        "WNBA",
+        "#InternationalCatDay",
         "Enes",
         "Fletcher",
-        "Dorgu",
         "Araujo",
-        "Jorge Messi"
+        "Amad",
+        "Mason Mount",
+        "#Caturday",
+        "Josh Smith"
       ],
       "hashtags": [
         "#InternationalCatDay",
-        "#SmackDown",
         "#Caturday",
-        "#DustBiaLoveActually",
-        "#RoomNumberFreen"
+        "#SmackDown",
+        "#RoomNumberFreen",
+        "#MUFC"
       ],
       "regular_topics": [
         "Summerland",
-        "WNBA",
-        "Mason Mount",
         "Tielemans",
-        "Amad",
+        "WNBA",
         "Enes",
         "Fletcher",
-        "Dorgu",
         "Araujo",
-        "Jorge Messi",
-        "Lavia"
+        "Amad",
+        "Mason Mount",
+        "Josh Smith",
+        "Italy",
+        "Brett Bateman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 16:52:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 17:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RaGaFlopShow",
         "#HBDSuperstarMahesh",
-        "#BcmForORM",
+        "#RaGaFlopShow",
         "#BrandsCareMedia",
-        "#BcmForXMarketing",
+        "#Yash",
+        "#ToxicTrailer",
         "Om Shanti Panth Exposed",
-        "Brahma Kumaris Panth Exposed",
-        "AFFORDABLE MARKETING BY BCM",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "FARHANA BEYOND FEAR",
-        "Jorge Messi",
-        "UPSSSC JE"
+        "AFFORDABLE MARKETING BY BCM",
+        "\u092e\u0923\u093f\u092a\u0941\u0930 \u091c\u093e\u0928\u093e",
+        "Jorge Messi"
       ],
       "hashtags": [
-        "#RaGaFlopShow",
         "#HBDSuperstarMahesh",
-        "#BcmForORM",
+        "#RaGaFlopShow",
         "#BrandsCareMedia",
+        "#Yash",
+        "#ToxicTrailer",
+        "#BcmForORM",
         "#BcmForXMarketing",
         "#GOBARdhan",
         "#CompressedBiogas",
-        "#ToxicTrailer"
+        "#\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0915\u0941\u092e\u093e\u0930\u0940\u092a\u0902\u0925_\u0915\u093e_\u092a\u0930\u094d\u0926\u093e\u092b\u093e\u0936",
+        "#CircularEconomy"
       ],
       "regular_topics": [
         "Om Shanti Panth Exposed",
-        "Brahma Kumaris Panth Exposed",
-        "AFFORDABLE MARKETING BY BCM",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "FARHANA BEYOND FEAR",
-        "Jorge Messi",
-        "UPSSSC JE",
+        "AFFORDABLE MARKETING BY BCM",
         "\u092e\u0923\u093f\u092a\u0941\u0930 \u091c\u093e\u0928\u093e",
+        "Jorge Messi",
+        "Brahma Kumaris Panth Exposed",
         "Mason Mount",
-        "Lionel Messi",
+        "Tielemans",
         "Fletcher",
-        "Factful Debates"
+        "\u091f\u093e\u091f\u093e \u092c\u093e\u092f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 16:52:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 17:44:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Tielemans",
         "Mason Mount",
         "Jorge Messi",
-        "Amorim",
-        "AC Milan",
-        "Amad",
         "Fletcher",
-        "Mbeumo",
+        "Carrick",
+        "Amorim",
+        "Amad",
         "25gb",
-        "Joao Pedro",
-        "Lavia",
-        "Lionel Messi"
+        "AC Milan",
+        "Mbeumo",
+        "Dorgu"
       ],
       "hashtags": [
         "#PSGMUN",
-        "#CHEACM",
         "#MUNPSG",
+        "#CHEACM",
         "#MTNat25",
-        "#SprayTheLoveWithGalafy"
+        "#NFFC"
       ],
       "regular_topics": [
+        "Tielemans",
         "Mason Mount",
         "Jorge Messi",
-        "Amorim",
-        "AC Milan",
-        "Amad",
         "Fletcher",
-        "Mbeumo",
+        "Carrick",
+        "Amorim",
+        "Amad",
         "25gb",
-        "Joao Pedro",
-        "Lavia",
-        "Lionel Messi"
+        "AC Milan",
+        "Mbeumo",
+        "Dorgu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
