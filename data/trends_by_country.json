@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-08-07T23:53:15.821962+00:00",
+  "generated_at_utc": "2026-08-08T00:40:16.111088+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 07 2026 23:15:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 00:06:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enes",
         "Araujo",
         "Mackinac",
+        "Noah Schultz",
+        "Kamu",
         "Liverpool",
         "Original Content Rewards",
-        "Crosby",
-        "Chuk",
-        "Kirk Cousins",
         "Bigot",
-        "Deco",
+        "Barrett",
+        "Chuk",
         "Lala"
       ],
       "hashtags": [
         "#OlaDollGame",
-        "#DMDinUSAxTMKTTP",
         "#PFLCharlotte",
-        "#NationalBeachPartyDay",
-        "#FursuitFriday"
+        "#DMDinUSAxTMKTTP",
+        "#NationalBeachPartyDay"
       ],
       "regular_topics": [
         "Enes",
         "Araujo",
         "Mackinac",
+        "Noah Schultz",
+        "Kamu",
         "Liverpool",
         "Original Content Rewards",
-        "Crosby",
-        "Chuk",
-        "Kirk Cousins",
         "Bigot",
-        "Deco",
+        "Barrett",
+        "Chuk",
         "Lala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,24 +42,24 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 07 2026 22:49:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 07 2026 23:40:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
-        "#TOTP",
         "Jacquet",
         "Konate",
-        "Steve Perryman",
-        "Arthur Melo",
+        "#TOTP",
         "Barca",
+        "Arthur Melo",
+        "Steve Perryman",
         "Lankshear",
         "Uruguayan",
-        "Hojbjerg",
-        "Deco"
+        "Virgil",
+        "#pvfc"
       ],
       "hashtags": [
         "#TOTP",
-        "#Boro",
         "#pvfc",
+        "#Boro",
         "#AlleyCats",
         "#wwfc"
       ],
@@ -68,60 +67,60 @@
         "Araujo",
         "Jacquet",
         "Konate",
-        "Steve Perryman",
-        "Arthur Melo",
         "Barca",
+        "Arthur Melo",
+        "Steve Perryman",
         "Lankshear",
         "Uruguayan",
-        "Hojbjerg",
-        "Deco",
-        "CB and RB"
+        "Virgil",
+        "Quansah",
+        "Hojbjerg"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 07 2026 23:33:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 00:24:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SmackDown",
         "Araujo",
-        "WNBA",
         "Rodri",
-        "Liverpool",
-        "Enes",
         "Spec",
-        "#gamblorballing",
-        "#betya",
-        "Larry Brock",
+        "WNBA",
         "Atlanta",
-        "Evander"
+        "Enes",
+        "Liverpool",
+        "Larry Brock",
+        "Evander",
+        "Kawhi"
       ],
       "hashtags": [
-        "#gamblorballing",
-        "#betya",
-        "#momsonn",
+        "#SmackDown",
+        "#PFLCharlotte",
         "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
+        "#momsonn",
         "#bb28"
       ],
       "regular_topics": [
         "Araujo",
-        "WNBA",
         "Rodri",
-        "Liverpool",
-        "Enes",
         "Spec",
-        "Larry Brock",
+        "WNBA",
         "Atlanta",
+        "Enes",
+        "Liverpool",
+        "Larry Brock",
         "Evander",
         "Kawhi",
-        "Scott Reid"
+        "Yusuf"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 07 2026 23:28:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 00:20:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NationalHandloomDay",
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
@@ -129,69 +128,70 @@
         "Gudda Guddi",
         "Khel Band Karo",
         "#GalaxyWatchUltra2",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Araujo",
-        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
-        "#KoreanKanakaraju",
         "Original Content Rewards",
-        "Turkey"
+        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
+        "#alliancefinale"
       ],
       "hashtags": [
         "#NationalHandloomDay",
         "#\u0936\u093f\u0935\u091c\u0940_\u0915\u0940_\u0938\u0924_\u0938\u093e\u0927\u0928\u093e_\u0915\u0930\u094b",
         "#Fold8InANewShape",
         "#GalaxyWatchUltra2",
-        "#KoreanKanakaraju"
+        "#alliancefinale"
       ],
       "regular_topics": [
         "Gudda Guddi",
         "Khel Band Karo",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Araujo",
-        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "Original Content Rewards",
+        "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
+        "Revenue Sharing",
         "Turkey",
         "Rodri",
         "\u0928\u094b\u092c\u0947\u0932 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
-        "Liverpool",
-        "Neha Bora",
-        "ToxicTRAILER TOMORROW"
+        "Neha Bora"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 07 2026 23:27:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 00:18:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Araujo",
+        "Tram",
         "Original Content Rewards",
         "Konate",
         "Revenue Sharing",
         "Deco",
+        "Henry Okoye",
         "Home Timeline",
         "Van Dijk",
-        "Henry Okoye",
         "Nikita",
-        "Jacquet",
-        "Skel"
+        "Jacquet"
       ],
       "hashtags": [
         "#SecretStory",
         "#teenageer",
+        "#RCCG",
         "#alt\u0131n",
-        "#momsonn"
+        "#MountainMovers"
       ],
       "regular_topics": [
         "Araujo",
+        "Tram",
         "Original Content Rewards",
         "Konate",
         "Revenue Sharing",
         "Deco",
+        "Henry Okoye",
         "Home Timeline",
         "Van Dijk",
-        "Henry Okoye",
         "Nikita",
-        "Jacquet",
-        "Skel"
+        "Jacquet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
