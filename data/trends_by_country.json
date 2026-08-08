@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-08-08T16:16:35.480491+00:00",
+  "generated_at_utc": "2026-08-08T16:57:44.377805+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 15:48:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 16:40:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalCatDay",
         "WNBA",
         "#Caturday",
-        "Good Saturday",
         "Jorge Messi",
+        "Good Saturday",
         "Mason Mount",
-        "Amad",
-        "#StarRailGC2026",
         "#BornToShineMingi",
-        "Todd Blanche",
+        "#StarRailGC2026",
+        "Amad",
+        "Cartoons",
         "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558"
       ],
       "hashtags": [
         "#InternationalCatDay",
         "#Caturday",
-        "#StarRailGC2026",
         "#BornToShineMingi",
+        "#StarRailGC2026",
         "#\ubbfc\uae30\uacf5\uc8fc_\uc0dd\uc77c\ucd95\ud558"
       ],
       "regular_topics": [
         "WNBA",
-        "Good Saturday",
         "Jorge Messi",
+        "Good Saturday",
         "Mason Mount",
         "Amad",
-        "Todd Blanche",
-        "Royce",
         "Cartoons",
-        "Lavia",
-        "Amorim",
-        "Opie"
+        "Royce White",
+        "Todd Blanche",
+        "Larry Fitzgerald",
+        "Dorgu",
+        "Mike Lee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 15:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 16:12:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "FULL TIME",
+        "Mount",
+        "Amad",
         "HALF TIME",
-        "Taty",
-        "Lavia",
-        "Bowen",
-        "KICK OFF",
-        "#bcfc",
-        "#YorkshireInMoviesOrSongs",
-        "Amorim",
+        "Beto",
         "#dcfc",
-        "Kante",
-        "#InternationalCatDay"
+        "#bcfc",
+        "Mbeumo",
+        "#bwfc",
+        "Taty",
+        "Dibling"
       ],
       "hashtags": [
-        "#bcfc",
-        "#YorkshireInMoviesOrSongs",
         "#dcfc",
-        "#InternationalCatDay",
-        "#mysteryhammer"
+        "#bcfc",
+        "#bwfc",
+        "#swfc",
+        "#oafc"
       ],
       "regular_topics": [
+        "FULL TIME",
+        "Mount",
+        "Amad",
         "HALF TIME",
+        "Beto",
+        "Mbeumo",
         "Taty",
-        "Lavia",
-        "Bowen",
-        "KICK OFF",
-        "Amorim",
-        "Kante",
-        "Romero",
-        "Quenda",
-        "Palestra",
-        "Caicedo"
+        "Dibling",
+        "Andrey Santos",
+        "Dorgu",
+        "Bowen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
