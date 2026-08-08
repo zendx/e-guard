@@ -1,46 +1,48 @@
 {
-  "generated_at_utc": "2026-08-08T11:17:13.811097+00:00",
+  "generated_at_utc": "2026-08-08T11:49:26.791843+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 10:33:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 11:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#ILoveYouButIGottaLetYouGo",
+        "NINGNING GRAND SOLO",
+        "Good Saturday",
+        "#evolabsresearch",
         "#BrideOfChristAgenda",
         "#GMMTVFanfestInMacau2026",
-        "#evolabsresearch",
-        "Good Saturday",
-        "KNOCK KNOCK ROOM NO. FREEN",
-        "#labverified",
+        "#StarRailGC2026",
         "International Cat Day",
-        "#RoomNumberFreen",
-        "Royce White",
-        "PERTHSANTA STARLIT JOURNEY",
-        "Jisoo"
+        "KNOCK KNOCK ROOM NO. FREEN",
+        "Caturday",
+        "PERTHSANTA STARLIT JOURNEY"
       ],
       "hashtags": [
+        "#ILoveYouButIGottaLetYouGo",
+        "#evolabsresearch",
         "#BrideOfChristAgenda",
         "#GMMTVFanfestInMacau2026",
-        "#evolabsresearch",
-        "#labverified",
+        "#StarRailGC2026",
+        "#OrmKornxWeiboGalaNight",
         "#RoomNumberFreen",
-        "#independenceweek",
-        "#coaverified",
-        "#buy2get1",
-        "#MLBS6Spoilers"
+        "#labverified",
+        "#\u0e2d\u0e2d\u0e21\u0e01\u0e23\u0e13\u0e4c\u0e19\u0e20\u0e31\u0e2a",
+        "#OrmKornnaphat",
+        "#independenceweek"
       ],
       "regular_topics": [
+        "NINGNING GRAND SOLO",
         "Good Saturday",
-        "KNOCK KNOCK ROOM NO. FREEN",
         "International Cat Day",
-        "Royce White",
+        "KNOCK KNOCK ROOM NO. FREEN",
+        "Caturday",
         "PERTHSANTA STARLIT JOURNEY",
+        "Royce White",
         "Jisoo",
         "Enes",
-        "Edwin Diaz",
-        "Senator Lee",
-        "Alya",
-        "Yash"
+        "Maps",
+        "Romero"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
