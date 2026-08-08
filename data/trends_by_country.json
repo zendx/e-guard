@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-08-08T05:11:53.574355+00:00",
+  "generated_at_utc": "2026-08-08T06:01:41.733139+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 08 2026 04:27:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 05:18:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
+        "Edwin Diaz",
         "WNBA",
-        "Iglesias",
         "Iggy",
-        "#OPLive",
+        "Iglesias",
         "Alec Bohm",
         "Enes",
-        "Edwin Diaz",
-        "Kinley",
-        "#PFLCharlotte",
-        "Ben Rice"
+        "#MLBS6Spoilers",
+        "#OPLive",
+        "Royce White",
+        "#PFLCharlotte"
       ],
       "hashtags": [
         "#SmackDown",
+        "#MLBS6Spoilers",
         "#OPLive",
         "#PFLCharlotte",
-        "#OPNation",
-        "#OnPatrolLive"
+        "#OPNation"
       ],
       "regular_topics": [
+        "Edwin Diaz",
         "WNBA",
-        "Iglesias",
         "Iggy",
+        "Iglesias",
         "Alec Bohm",
         "Enes",
-        "Edwin Diaz",
+        "Royce White",
         "Kinley",
         "Ben Rice",
         "Tatum Paxley",
-        "Royce White",
         "Tanner Scott"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,38 +43,38 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 04:52:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 05:44:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SmackDown",
         "Araujo",
-        "Tatum",
+        "#SmackDown",
         "Barca",
-        "Rodri",
+        "Tatum Paxley",
+        "#MLBS6Spoilers",
         "Jason Arday",
-        "William Orbit",
+        "Rodri",
         "#TOTP",
         "Cambridge",
         "Thetford",
-        "Arsenal"
+        "William Orbit"
       ],
       "hashtags": [
         "#SmackDown",
+        "#MLBS6Spoilers",
         "#TOTP",
         "#PFLCharlotte",
-        "#AlleyCats",
-        "#MLBS6Spoilers"
+        "#Caturday"
       ],
       "regular_topics": [
         "Araujo",
-        "Tatum",
         "Barca",
-        "Rodri",
+        "Tatum Paxley",
         "Jason Arday",
-        "William Orbit",
+        "Rodri",
         "Cambridge",
         "Thetford",
+        "William Orbit",
         "Arsenal",
-        "Alexa Bliss",
+        "ZEE PRUK MOEV FAN EVENT",
         "Steve Perryman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,123 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 04:44:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 05:39:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Josh Smith",
-        "Tyler Rogers",
         "Summerland",
         "Brendon Little",
-        "#SmackDown",
-        "#BlueJays",
-        "Nathan Lukes",
         "#CanM20",
-        "Bateman",
         "Tommy Stevens",
-        "Tatum Paxley"
+        "CONCACAF",
+        "Tyler Rogers",
+        "#SmackDown",
+        "#PFLCharlotte",
+        "#VWFC",
+        "Brett Bateman"
       ],
       "hashtags": [
-        "#SmackDown",
-        "#BlueJays",
         "#CanM20",
+        "#SmackDown",
+        "#PFLCharlotte",
         "#VWFC",
-        "#PFLCharlotte"
+        "#BlueJays"
       ],
       "regular_topics": [
         "Josh Smith",
-        "Tyler Rogers",
         "Summerland",
         "Brendon Little",
-        "Nathan Lukes",
-        "Bateman",
         "Tommy Stevens",
-        "Tatum Paxley",
+        "CONCACAF",
+        "Tyler Rogers",
+        "Brett Bateman",
         "Araujo",
+        "Enes",
         "Atlanta",
-        "Enes"
+        "Whitecaps"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 04:40:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 05:32:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ShivThakareMeetUp",
         "#SaveAshram",
-        "Bhandara Sewa",
-        "Yashwantrao Chavan Centre",
         "#UnfoldANewShape",
-        "#GodMorningSaturday",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "#ShivThakareMeetUp",
+        "Bhandara Sewa",
         "#TeamBabuForMahesh",
-        "Original Content Rewards",
+        "#GodMorningSaturday",
         "Department Skip",
-        "Revenue Sharing"
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "Yashwantrao Chavan Centre",
+        "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Original Content Rewards"
       ],
       "hashtags": [
-        "#ShivThakareMeetUp",
         "#SaveAshram",
         "#UnfoldANewShape",
-        "#GodMorningSaturday",
+        "#ShivThakareMeetUp",
         "#TeamBabuForMahesh",
-        "#QuitIndiaMovement",
-        "#ToxicTrailer",
-        "#\u0950_\u0936\u0902_\u0936\u0928\u0948\u0936\u094d\u091a\u0930\u093e\u092f_\u0928\u092e\u0903",
-        "#\u091c\u092f_\u091c\u092f_\u0936\u094d\u0930\u0940_\u0930\u093e\u092e",
-        "#ToxicTheMovie",
-        "#momsonn"
+        "#GodMorningSaturday"
       ],
       "regular_topics": [
         "Bhandara Sewa",
-        "Yashwantrao Chavan Centre",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "Original Content Rewards",
         "Department Skip",
-        "Revenue Sharing",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "Yashwantrao Chavan Centre",
         "\u090b\u0937\u092d \u092a\u0902\u0924",
+        "Original Content Rewards",
+        "Revenue Sharing",
         "Araujo",
         "Home Timeline",
-        "Hisense UR8S",
-        "Jai Shani Dev"
+        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Rishabh Pant"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 04:40:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 05:32:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
         "Peter",
         "Araujo",
-        "Barca",
         "Psquare",
+        "Barca",
         "Arsenal",
         "Madrid",
         "Osun",
-        "Emission",
         "Rema",
-        "Yusuf"
+        "EFCC",
+        "Original Content Rewards"
       ],
       "hashtags": [
-        "#latina",
         "#teenageer",
-        "#buyingcontent",
-        "#yellowtakeover",
-        "#momsonn"
+        "#momsonn",
+        "#latina",
+        "#alt\u0131n",
+        "#meetups"
       ],
       "regular_topics": [
         "Rodri",
         "Peter",
         "Araujo",
-        "Barca",
         "Psquare",
+        "Barca",
         "Arsenal",
         "Madrid",
         "Osun",
-        "Emission",
         "Rema",
-        "Yusuf"
+        "EFCC",
+        "Original Content Rewards"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
