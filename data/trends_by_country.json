@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-09T22:55:13.636751+00:00",
+  "generated_at_utc": "2026-08-09T23:17:31.561128+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 22:03:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 22:54:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kayla McBride",
+        "Ty Gibbs",
+        "Christopher Bell",
         "#GreenWall",
+        "#NASCAR",
         "Kmac",
         "Don Nelson",
-        "Derek Hill",
-        "Hagen Smith",
-        "Luis Lara",
-        "Woke 1",
         "Michael Brennan",
-        "Kerkering",
-        "#NASCAR"
+        "Woke 1",
+        "Derek Hill",
+        "Dylan Smith"
       ],
       "hashtags": [
         "#GreenWall",
         "#NASCAR",
         "#IowaCorn350",
-        "#BrickByBrick",
+        "#IndyCar",
         "#NationalBookLoversDay"
       ],
       "regular_topics": [
         "Kayla McBride",
+        "Ty Gibbs",
+        "Christopher Bell",
         "Kmac",
         "Don Nelson",
-        "Derek Hill",
-        "Hagen Smith",
-        "Luis Lara",
-        "Woke 1",
         "Michael Brennan",
-        "Kerkering",
-        "Yoho",
-        "Nellie"
+        "Woke 1",
+        "Derek Hill",
+        "Dylan Smith",
+        "Hagen Smith",
+        "Luis Lara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
