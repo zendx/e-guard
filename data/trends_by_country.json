@@ -1,198 +1,204 @@
 {
-  "generated_at_utc": "2026-08-09T06:05:17.207056+00:00",
+  "generated_at_utc": "2026-08-09T07:28:05.156142+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 05:36:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 06:28:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sophie",
         "#AdventBoundbyFate",
-        "Edwin Diaz",
         "Chloe",
-        "#UFCVegas120",
-        "Carrington",
+        "Edwin Diaz",
         "Jordyn",
+        "#UFCVegas120",
+        "Monta",
+        "#Toonami",
+        "Carrington",
         "Salkilld",
-        "Gamrot",
-        "#AEWCollision",
-        "Stake"
+        "Gamrot"
       ],
       "hashtags": [
         "#AdventBoundbyFate",
         "#UFCVegas120",
-        "#AEWCollision",
+        "#Toonami",
         "#OPLive",
-        "#Toonami"
+        "#AEWCollision"
       ],
       "regular_topics": [
         "Sophie",
-        "Edwin Diaz",
         "Chloe",
-        "Carrington",
+        "Edwin Diaz",
         "Jordyn",
+        "Monta",
+        "Carrington",
         "Salkilld",
         "Gamrot",
-        "Stake",
         "White Privilege",
-        "Chivas",
-        "The WNBA"
+        "Stake",
+        "Stephanie White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 05:09:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 06:54:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCVegas120",
         "#InternationalCatDay",
         "Araujo",
-        "Paul Heaton",
         "Romero",
-        "Salkilld",
-        "Gamrot",
+        "#SundayYellow",
+        "Paul Heaton",
         "#Caturday",
-        "#AlleyCats",
+        "#ShakespeareSunday",
+        "Cambridge",
         "Toure",
-        "Cambridge"
+        "WNBA"
       ],
       "hashtags": [
         "#UFCVegas120",
         "#InternationalCatDay",
+        "#SundayYellow",
         "#Caturday",
-        "#AlleyCats",
-        "#CarabaoCup"
+        "#ShakespeareSunday"
       ],
       "regular_topics": [
         "Araujo",
-        "Paul Heaton",
         "Romero",
-        "Salkilld",
-        "Gamrot",
-        "Toure",
+        "Paul Heaton",
         "Cambridge",
+        "Toure",
+        "WNBA",
         "Steur",
         "FA Cup",
-        "FULL TIME",
-        "WNBA"
+        "Arday",
+        "Elanga",
+        "Mason Mount"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 05:54:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 06:48:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
         "#UFCVegas120",
-        "Stake",
-        "Drake",
         "Italy",
+        "Stake",
         "#InternationalCatDay",
+        "Drake",
         "NATHAN LUKES",
-        "Enes",
         "#Caturday",
-        "Quillan Salkilld"
+        "Enes",
+        "#MarchToOttawa"
       ],
       "hashtags": [
         "#UFCVegas120",
         "#InternationalCatDay",
         "#Caturday",
         "#MarchToOttawa",
-        "#AdventBoundbyFate"
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "Summerland",
         "WNBA",
+        "Italy",
         "Stake",
         "Drake",
-        "Italy",
         "NATHAN LUKES",
         "Enes",
-        "Quillan Salkilld",
-        "Happy 9th",
         "Okanagan",
-        "Gamrot"
+        "Bald Range",
+        "Salkilld",
+        "Phillies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 04:58:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 06:44:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SpiritualSunday",
+        "#TirangayatraWithPankaj",
         "#WorldTribalDay",
+        "#\u092d\u0902\u0935\u0930\u0940_\u0915\u094b_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
         "#Varanasi",
-        "Saint Gurmeet Ram Rahim Ji",
-        "MSG Bhandara",
-        "Salabatpura",
-        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
-        "#HBDSuperstarMahesh",
         "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e"
-      ],
-      "hashtags": [
-        "#SpiritualSunday",
-        "#WorldTribalDay",
-        "#Varanasi",
-        "#HBDSuperstarMahesh",
-        "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938"
-      ],
-      "regular_topics": [
-        "Saint Gurmeet Ram Rahim Ji",
-        "MSG Bhandara",
-        "Salabatpura",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
+        "Salabatpura",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "Gayatri Mantra",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935"
+      ],
+      "hashtags": [
+        "#TirangayatraWithPankaj",
+        "#WorldTribalDay",
+        "#\u092d\u0902\u0935\u0930\u0940_\u0915\u094b_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
+        "#Varanasi",
+        "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938",
+        "#SpiritualSunday",
+        "#HBDSuperstarMahesh",
+        "#IYCFoundationDay",
+        "#KakoriTrainAction",
+        "#latina",
+        "#AugustKrantiDiwas"
+      ],
+      "regular_topics": [
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
         "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
-        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940",
-        "\u092f\u094b\u0917\u0940 \u0906\u0926\u093f\u0924\u094d\u092f\u0928\u093e\u0925",
-        "Stake"
+        "Salabatpura",
+        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
+        "Gayatri Mantra",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "MSG Bhandara",
+        "Saint Gurmeet Ram Rahim Ji",
+        "\u0936\u094d\u0930\u0940 \u092a\u0902\u0915\u091c \u091a\u094c\u0927\u0930\u0940",
+        "Pankaj Chaudhary",
+        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 05:49:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 06:44:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Stake",
+        "Blessed Sunday",
         "Jorge Messi",
         "25gb",
         "Araujo",
-        "Blessed Sunday",
         "AC Milan",
-        "Market Neutral Strategy",
-        "Peter",
-        "Amorim",
+        "Amen",
         "2baba",
-        "Beautiful Sunday"
+        "Amorim",
+        "Happy Sunday CT",
+        "Peter"
       ],
       "hashtags": [
         "#MTNat25",
         "#cheacm",
-        "#latina",
         "#teenageer",
-        "#BbNaijaxPepsi"
+        "#BbNaijaxPepsi",
+        "#sackfarouknow"
       ],
       "regular_topics": [
         "Stake",
+        "Blessed Sunday",
         "Jorge Messi",
         "25gb",
         "Araujo",
-        "Blessed Sunday",
         "AC Milan",
-        "Market Neutral Strategy",
-        "Peter",
-        "Amorim",
+        "Amen",
         "2baba",
-        "Beautiful Sunday"
+        "Amorim",
+        "Happy Sunday CT",
+        "Peter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
