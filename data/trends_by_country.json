@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-09T21:54:37.631280+00:00",
+  "generated_at_utc": "2026-08-09T22:15:56.916165+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 21:12:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 22:03:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Don Nelson",
-        "Kerkering",
         "Kayla McBride",
+        "#GreenWall",
+        "Kmac",
+        "Don Nelson",
+        "Derek Hill",
         "Hagen Smith",
-        "Reddick",
+        "Luis Lara",
         "Woke 1",
-        "Nellie",
-        "Wrobleski",
-        "#NASCAR",
-        "Drake",
-        "Wrobo"
+        "Michael Brennan",
+        "Kerkering",
+        "#NASCAR"
       ],
       "hashtags": [
+        "#GreenWall",
         "#NASCAR",
-        "#OlandriaxNigeriaVlog",
-        "#SeductiveSunday",
-        "#Trev",
+        "#IowaCorn350",
+        "#BrickByBrick",
         "#NationalBookLoversDay"
       ],
       "regular_topics": [
-        "Don Nelson",
-        "Kerkering",
         "Kayla McBride",
+        "Kmac",
+        "Don Nelson",
+        "Derek Hill",
         "Hagen Smith",
-        "Reddick",
+        "Luis Lara",
         "Woke 1",
-        "Nellie",
-        "Wrobleski",
-        "Drake",
-        "Wrobo",
-        "Bohm"
+        "Michael Brennan",
+        "Kerkering",
+        "Yoho",
+        "Nellie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
