@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T16:17:54.578640+00:00",
+  "generated_at_utc": "2026-08-09T17:01:01.624532+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,154 +43,152 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 15:33:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:27:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
+        "Hibs",
+        "Chermiti",
         "Wirtz",
-        "Gyokeres",
-        "Ndukwe",
-        "Koumas",
         "Endo",
-        "Dortmund",
-        "Kepa",
+        "Gyokeres",
         "McNeil",
-        "Tosin",
-        "Havertz"
+        "Koumas",
+        "Michael Stewart",
+        "Ndukwe",
+        "Chiesa"
       ],
       "hashtags": [
-        "#ARSBVB",
-        "#KILCEL",
-        "#LIVMON"
+        "#ARSBVB"
       ],
       "regular_topics": [
         "Tzolis",
+        "Hibs",
+        "Chermiti",
         "Wirtz",
-        "Gyokeres",
-        "Ndukwe",
-        "Koumas",
         "Endo",
-        "Dortmund",
-        "Kepa",
+        "Gyokeres",
         "McNeil",
-        "Tosin",
-        "Havertz"
+        "Koumas",
+        "Michael Stewart",
+        "Ndukwe",
+        "Chiesa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 15:27:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "WNBA",
-        "Summerland",
         "Italy",
-        "Tzolis",
+        "Summerland",
         "#UFCVegas120",
-        "Tosin",
+        "Tzolis",
         "Nathan Lukes",
-        "Delap",
-        "Good Sunday",
         "International Cat Day",
-        "Stake"
+        "Stake",
+        "Nwaneri",
+        "DiJonai",
+        "Drake"
       ],
       "hashtags": [
         "#UFCVegas120",
-        "#SeductiveSunday",
         "#Caturday",
         "#MarchToOttawa",
-        "#ExtendTS2023"
+        "#ExtendTS2023",
+        "#AEWCollision"
       ],
       "regular_topics": [
         "WNBA",
-        "Summerland",
         "Italy",
+        "Summerland",
         "Tzolis",
-        "Tosin",
         "Nathan Lukes",
-        "Delap",
-        "Good Sunday",
         "International Cat Day",
         "Stake",
-        "Havertz"
+        "Nwaneri",
+        "DiJonai",
+        "Drake",
+        "Tosin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 15:24:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:16:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NamakSatyagraha",
         "#YogiKaYouthFirst",
-        "UP Unlocks Youth Potential",
         "#30YearsOfSLB",
-        "#YogiKiYuvaNiti",
-        "#MegaHitKokaForVarunTej",
+        "#Cheer4Bharat",
+        "UP Unlocks Youth Potential",
         "Z Fold8",
+        "#YogiKiYuvaNiti",
         "Love & War",
-        "CWJ2 WINNER THANUJA",
         "Sarfaraz Khan",
+        "CWJ2 WINNER THANUJA",
         "YOGANKSHA MUTUAL ERA"
       ],
       "hashtags": [
         "#NamakSatyagraha",
         "#YogiKaYouthFirst",
         "#30YearsOfSLB",
-        "#YogiKiYuvaNiti",
-        "#MegaHitKokaForVarunTej"
+        "#Cheer4Bharat",
+        "#YogiKiYuvaNiti"
       ],
       "regular_topics": [
         "UP Unlocks Youth Potential",
         "Z Fold8",
         "Love & War",
-        "CWJ2 WINNER THANUJA",
         "Sarfaraz Khan",
+        "CWJ2 WINNER THANUJA",
         "YOGANKSHA MUTUAL ERA",
         "Celebrating 30",
+        "BELIFT PROTECT SUNOO AND NI-KI",
         "Siraj",
         "Sanjay Leela Bhansali",
-        "dig srr",
-        "Sai Sudharsan"
+        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 15:24:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:15:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dortmund",
         "Delap",
+        "Rashford",
+        "Monaco",
         "Kepa",
         "Tzolis",
-        "Essugo",
         "Gyokeres",
-        "Monaco",
         "Havertz",
-        "Isak",
-        "Rashford",
-        "#JKGadzama"
+        "Essugo",
+        "#JKGadzama",
+        "Isak"
       ],
       "hashtags": [
         "#JKGadzama",
-        "#ARSBVB",
         "#TrabayebyKinsxn",
         "#RICKYX160M",
+        "#ARSBVB",
         "#PatrickJumbo"
       ],
       "regular_topics": [
         "Dortmund",
         "Delap",
+        "Rashford",
+        "Monaco",
         "Kepa",
         "Tzolis",
-        "Essugo",
         "Gyokeres",
-        "Monaco",
         "Havertz",
+        "Essugo",
         "Isak",
-        "Rashford",
-        "Emirates"
+        "Endo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
