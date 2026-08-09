@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T23:17:31.561128+00:00",
+  "generated_at_utc": "2026-08-09T23:53:25.584403+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,85 +43,85 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 22:28:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 23:20:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Salvador",
-        "Trev",
-        "Rangers",
-        "Malawi",
-        "Charlie Downes",
         "Hibs",
-        "#GreenWall",
+        "McNeil",
+        "Rangers",
+        "Trev",
         "McInnes",
-        "#sts70s",
-        "#VanDerValk",
-        "#wildflowerhour"
+        "Lord Ashcroft",
+        "Charlie Downes",
+        "Ndukwe",
+        "Gyokeres",
+        "Tzolis"
       ],
       "hashtags": [
         "#GreenWall",
-        "#sts70s",
-        "#VanDerValk",
-        "#wildflowerhour",
-        "#IndyCar"
+        "#InternationalCatDay",
+        "#AlleyCats",
+        "#UFCVegas120",
+        "#thepiano"
       ],
       "regular_topics": [
         "El Salvador",
-        "Trev",
-        "Rangers",
-        "Malawi",
-        "Charlie Downes",
         "Hibs",
+        "McNeil",
+        "Rangers",
+        "Trev",
         "McInnes",
-        "Lucas",
-        "WAFCON",
-        "Nunez",
-        "OpTic"
+        "Lord Ashcroft",
+        "Charlie Downes",
+        "Ndukwe",
+        "Gyokeres",
+        "Tzolis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 22:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 23:12:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Nathan Lukes",
         "Italy",
         "WNBA",
         "#betya",
         "Summerland",
-        "Estrada",
         "Kayla McBride",
-        "#BlueJays",
         "Drake",
+        "Estrada",
+        "DiJonai",
         "Phillies",
         "#UFCVegas120"
       ],
       "hashtags": [
         "#betya",
-        "#BlueJays",
         "#UFCVegas120",
         "#OlandriaxNigeriaVlog",
-        "#Caturday"
+        "#Caturday",
+        "#InternationalCatDay"
       ],
       "regular_topics": [
         "Nathan Lukes",
         "Italy",
         "WNBA",
         "Summerland",
-        "Estrada",
         "Kayla McBride",
         "Drake",
-        "Phillies",
+        "Estrada",
         "DiJonai",
-        "Fisher",
-        "Sophie"
+        "Phillies",
+        "Sophie",
+        "Tuscany"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 22:16:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 23:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDSuperstarMahesh",
         "#JharkhandseJohar",
@@ -159,39 +159,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 22:16:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 23:08:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
-        "Super Falcons",
         "WAFCON",
-        "#CMRNGA",
-        "Martins",
+        "Super Falcons",
+        "Olamide",
         "Tomorrow is Monday",
         "Oshoala",
-        "Olamide",
+        "Martins",
+        "#CMRNGA",
         "Esther Okoronkwo",
-        "Nomy",
-        "Super Eagles"
+        "Super Eagles",
+        "Nomy"
       ],
       "hashtags": [
         "#CMRNGA",
-        "#EndOsunIRTindimidation",
-        "#BBNaijaXChowdeck",
         "#bbnaijas1",
+        "#EndOsunIRTindimidation",
+        "#PatrickJumbo",
         "#RICKYX160M"
       ],
       "regular_topics": [
         "Trev",
-        "Super Falcons",
         "WAFCON",
-        "Martins",
+        "Super Falcons",
+        "Olamide",
         "Tomorrow is Monday",
         "Oshoala",
-        "Olamide",
+        "Martins",
         "Esther Okoronkwo",
-        "Nomy",
         "Super Eagles",
-        "Jehovah"
+        "Nomy",
+        "Zacch Adedeji"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
