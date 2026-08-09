@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T19:52:43.531212+00:00",
+  "generated_at_utc": "2026-08-09T20:16:46.978374+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,35 +43,36 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 19:00:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
         "Rangers",
-        "McInnes",
         "Hibs",
-        "Lucas",
-        "Ibrox",
-        "Devlin",
-        "Shankland",
+        "McInnes",
+        "#sts70s",
         "Super Falcons",
+        "Lucas",
         "Cameroon",
-        "Martins"
+        "#wildflowerhour",
+        "Devlin",
+        "Ibrox"
       ],
       "hashtags": [
         "#sts70s",
+        "#wildflowerhour",
         "#FamouslyFurry"
       ],
       "regular_topics": [
         "Trev",
         "Rangers",
-        "McInnes",
         "Hibs",
-        "Lucas",
-        "Ibrox",
-        "Devlin",
-        "Shankland",
+        "McInnes",
         "Super Falcons",
+        "Lucas",
         "Cameroon",
+        "Devlin",
+        "Ibrox",
+        "WAFCON",
         "Martins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -79,46 +80,46 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 18:54:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:45:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "WNBA",
         "Summerland",
-        "#UFCVegas120",
-        "#OlandriaxNigeriaVlog",
-        "Drake",
-        "#InternationalCatDay",
-        "Trev",
-        "Dijonai",
         "Shane Bieber",
-        "Luzardo"
+        "#UFCVegas120",
+        "Drake",
+        "Cameroon",
+        "#InternationalCatDay",
+        "DiJonai",
+        "#OlandriaxNigeriaVlog",
+        "Trev"
       ],
       "hashtags": [
         "#UFCVegas120",
-        "#OlandriaxNigeriaVlog",
         "#InternationalCatDay",
+        "#OlandriaxNigeriaVlog",
         "#Caturday",
-        "#MarchToOttawa"
+        "#BBNaija"
       ],
       "regular_topics": [
         "Italy",
         "WNBA",
         "Summerland",
-        "Drake",
-        "Trev",
-        "Dijonai",
         "Shane Bieber",
-        "Luzardo",
-        "Stake",
+        "Drake",
+        "Cameroon",
+        "DiJonai",
+        "Trev",
         "Martins",
-        "Good Sunday"
+        "Schwarber",
+        "Stake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 18:51:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:42:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NamakSatyagraha",
         "#TirangaYatraWithYogiJi",
@@ -126,10 +127,10 @@
         "#YogiKaYouthFirst",
         "\u0928\u092e\u0915 \u0938\u0924\u094d\u092f\u093e\u0917\u094d\u0930\u0939",
         "#KKK15",
-        "Z Fold8",
         "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "CWJ2 WINNER THANUJA",
         "BELIFT PROTECT SUNOO AND NI-KI",
+        "CWJ2 WINNER THANUJA",
+        "Trev",
         "\u0930\u093e\u0939\u0941\u0932 \u0928\u0935\u0940\u0928"
       ],
       "hashtags": [
@@ -140,17 +141,20 @@
         "#KKK15",
         "#30YearsOfSLB",
         "#YogiKiYuvaNiti",
-        "#KA15"
+        "#GodNightSunday",
+        "#POVAAIBudsPro",
+        "#AvinashMishra",
+        "#KhatronKeKhiladi15"
       ],
       "regular_topics": [
         "\u0928\u092e\u0915 \u0938\u0924\u094d\u092f\u093e\u0917\u094d\u0930\u0939",
-        "Z Fold8",
         "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "CWJ2 WINNER THANUJA",
         "BELIFT PROTECT SUNOO AND NI-KI",
+        "CWJ2 WINNER THANUJA",
+        "Trev",
         "\u0930\u093e\u0939\u0941\u0932 \u0928\u0935\u0940\u0928",
-        "Sarfaraz Khan",
         "UP Unlocks Youth Potential",
+        "Sarfaraz Khan",
         "Andy Bichel",
         "Laser",
         "Carmen"
