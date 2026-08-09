@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-08-09T20:16:46.978374+00:00",
+  "generated_at_utc": "2026-08-09T20:57:31.985017+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 19:28:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 20:20:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Kerkering",
         "Don Nelson",
-        "Nellie",
+        "Reddick",
         "#OlandriaxNigeriaVlog",
-        "Drake",
-        "Jared Jones",
-        "Letterboxd",
-        "#SeductiveSunday",
+        "Nellie",
         "Woke 1",
+        "Drake",
+        "#SeductiveSunday",
+        "Kayla McBride",
         "Tim Walz",
-        "Grant Holmes",
-        "Schlittler"
+        "#NationalBookLoversDay"
       ],
       "hashtags": [
         "#OlandriaxNigeriaVlog",
         "#SeductiveSunday",
         "#NationalBookLoversDay",
-        "#SundayVibes",
-        "#Timothy"
+        "#Jared",
+        "#Trev"
       ],
       "regular_topics": [
+        "Kerkering",
         "Don Nelson",
+        "Reddick",
         "Nellie",
-        "Drake",
-        "Jared Jones",
-        "Letterboxd",
         "Woke 1",
+        "Drake",
+        "Kayla McBride",
         "Tim Walz",
-        "Grant Holmes",
         "Schlittler",
-        "OLANDRIA YOUTUBE",
-        "Davis Martin"
+        "Tyler Kinley",
+        "Grant Holmes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 19:52:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 20:44:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
         "Rangers",
         "Hibs",
         "McInnes",
         "#sts70s",
-        "Super Falcons",
         "Lucas",
-        "Cameroon",
+        "Super Falcons",
+        "Ibrox",
         "#wildflowerhour",
-        "Devlin",
-        "Ibrox"
+        "Cameroon",
+        "Devlin"
       ],
       "hashtags": [
         "#sts70s",
@@ -67,11 +67,11 @@
         "Rangers",
         "Hibs",
         "McInnes",
-        "Super Falcons",
         "Lucas",
+        "Super Falcons",
+        "Ibrox",
         "Cameroon",
         "Devlin",
-        "Ibrox",
         "WAFCON",
         "Martins"
       ],
@@ -80,26 +80,26 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 19:45:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 20:36:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "WNBA",
         "Summerland",
         "Shane Bieber",
-        "#UFCVegas120",
+        "#betya",
         "Drake",
-        "Cameroon",
+        "Gimenez",
+        "#UFCVegas120",
         "#InternationalCatDay",
-        "DiJonai",
-        "#OlandriaxNigeriaVlog",
-        "Trev"
+        "Vladdy",
+        "Cameroon"
       ],
       "hashtags": [
+        "#betya",
         "#UFCVegas120",
         "#InternationalCatDay",
         "#OlandriaxNigeriaVlog",
-        "#Caturday",
-        "#BBNaija"
+        "#BlueJays"
       ],
       "regular_topics": [
         "Italy",
@@ -107,95 +107,89 @@
         "Summerland",
         "Shane Bieber",
         "Drake",
+        "Gimenez",
+        "Vladdy",
         "Cameroon",
         "DiJonai",
-        "Trev",
-        "Martins",
-        "Schwarber",
-        "Stake"
+        "Stake",
+        "Tuscany"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 19:42:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 20:33:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HBDSuperstarMahesh",
+        "#JharkhandseJohar",
+        "#AdivasiMahotsav2026",
         "#NamakSatyagraha",
-        "#TirangaYatraWithYogiJi",
-        "#Cheer4Bharat",
-        "#YogiKaYouthFirst",
-        "\u0928\u092e\u0915 \u0938\u0924\u094d\u092f\u093e\u0917\u094d\u0930\u0939",
-        "#KKK15",
-        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "BELIFT PROTECT SUNOO AND NI-KI",
+        "UP Unlocks Youth Potential",
+        "Z Fold8",
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
         "CWJ2 WINNER THANUJA",
-        "Trev",
-        "\u0930\u093e\u0939\u0941\u0932 \u0928\u0935\u0940\u0928"
+        "Gayatri Mantra",
+        "Om Shanti Panth Exposed",
+        "MSG Bhandara"
       ],
       "hashtags": [
-        "#NamakSatyagraha",
-        "#TirangaYatraWithYogiJi",
-        "#Cheer4Bharat",
-        "#YogiKaYouthFirst",
-        "#KKK15",
-        "#30YearsOfSLB",
-        "#YogiKiYuvaNiti",
-        "#GodNightSunday",
-        "#POVAAIBudsPro",
-        "#AvinashMishra",
-        "#KhatronKeKhiladi15"
+        "#HBDSuperstarMahesh",
+        "#JharkhandseJohar",
+        "#AdivasiMahotsav2026",
+        "#NamakSatyagraha"
       ],
       "regular_topics": [
-        "\u0928\u092e\u0915 \u0938\u0924\u094d\u092f\u093e\u0917\u094d\u0930\u0939",
-        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "BELIFT PROTECT SUNOO AND NI-KI",
-        "CWJ2 WINNER THANUJA",
-        "Trev",
-        "\u0930\u093e\u0939\u0941\u0932 \u0928\u0935\u0940\u0928",
         "UP Unlocks Youth Potential",
+        "Z Fold8",
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "CWJ2 WINNER THANUJA",
+        "Gayatri Mantra",
+        "Om Shanti Panth Exposed",
+        "MSG Bhandara",
         "Sarfaraz Khan",
-        "Andy Bichel",
-        "Laser",
-        "Carmen"
+        "Salabatpura",
+        "Brahma Kumaris Panth Exposed",
+        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 19:40:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 20:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
+        "Super Falcons",
         "Martins",
         "#CMRNGA",
-        "Super Falcons",
         "WAFCON",
         "Oshoala",
         "Nomy",
-        "Ebuka",
         "Esther Okoronkwo",
+        "Madugu",
         "Jehovah",
-        "Madugu"
+        "Tomorrow is Monday"
       ],
       "hashtags": [
         "#CMRNGA",
         "#EndOsunIRTindimidation",
         "#BBNaijaXChowdeck",
+        "#bbnaijas1",
         "#RICKYX160M"
       ],
       "regular_topics": [
         "Trev",
-        "Martins",
         "Super Falcons",
+        "Martins",
         "WAFCON",
         "Oshoala",
         "Nomy",
-        "Ebuka",
         "Esther Okoronkwo",
-        "Jehovah",
         "Madugu",
-        "Tomorrow is Monday"
+        "Jehovah",
+        "Tomorrow is Monday",
+        "Ebuka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
