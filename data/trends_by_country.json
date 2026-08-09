@@ -1,77 +1,78 @@
 {
-  "generated_at_utc": "2026-08-09T19:08:08.978027+00:00",
+  "generated_at_utc": "2026-08-09T19:52:43.531212+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 18:36:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:28:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Don Nelson",
-        "#OlandriaxNigeriaVlog",
         "Nellie",
-        "OLANDRIA YOUTUBE",
+        "#OlandriaxNigeriaVlog",
         "Drake",
-        "Davis Martin",
-        "Tim Walz",
         "Jared Jones",
         "Letterboxd",
+        "#SeductiveSunday",
         "Woke 1",
-        "#SeductiveSunday"
+        "Tim Walz",
+        "Grant Holmes",
+        "Schlittler"
       ],
       "hashtags": [
         "#OlandriaxNigeriaVlog",
         "#SeductiveSunday",
-        "#SundayVibes",
         "#NationalBookLoversDay",
-        "#pepes"
+        "#SundayVibes",
+        "#Timothy"
       ],
       "regular_topics": [
         "Don Nelson",
         "Nellie",
-        "OLANDRIA YOUTUBE",
         "Drake",
-        "Davis Martin",
-        "Tim Walz",
         "Jared Jones",
         "Letterboxd",
         "Woke 1",
-        "Marine Johannes",
-        "Teddy Bridgewater"
+        "Tim Walz",
+        "Grant Holmes",
+        "Schlittler",
+        "OLANDRIA YOUTUBE",
+        "Davis Martin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 18:09:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:00:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Trev",
         "Rangers",
         "McInnes",
         "Hibs",
-        "Trev",
         "Lucas",
-        "Shankland",
-        "Devlin",
         "Ibrox",
-        "Russell Martin",
-        "Chermiti",
-        "#FamouslyFurry"
+        "Devlin",
+        "Shankland",
+        "Super Falcons",
+        "Cameroon",
+        "Martins"
       ],
       "hashtags": [
+        "#sts70s",
         "#FamouslyFurry"
       ],
       "regular_topics": [
+        "Trev",
         "Rangers",
         "McInnes",
         "Hibs",
-        "Trev",
         "Lucas",
-        "Shankland",
-        "Devlin",
         "Ibrox",
-        "Russell Martin",
-        "Chermiti",
-        "McNeil"
+        "Devlin",
+        "Shankland",
+        "Super Falcons",
+        "Cameroon",
+        "Martins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -159,35 +160,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 18:48:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 19:40:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Martins",
         "Trev",
+        "Martins",
         "#CMRNGA",
+        "Super Falcons",
+        "WAFCON",
+        "Oshoala",
         "Nomy",
-        "Cameroon",
         "Ebuka",
+        "Esther Okoronkwo",
         "Jehovah",
-        "Rashford",
-        "Lucas Digne",
-        "#EndOsunIRTindimidation",
-        "Chimsom Chuka"
+        "Madugu"
       ],
       "hashtags": [
         "#CMRNGA",
-        "#EndOsunIRTindimidation"
+        "#EndOsunIRTindimidation",
+        "#BBNaijaXChowdeck",
+        "#RICKYX160M"
       ],
       "regular_topics": [
-        "Martins",
         "Trev",
+        "Martins",
+        "Super Falcons",
+        "WAFCON",
+        "Oshoala",
         "Nomy",
-        "Cameroon",
         "Ebuka",
+        "Esther Okoronkwo",
         "Jehovah",
-        "Rashford",
-        "Lucas Digne",
-        "Chimsom Chuka",
-        "Nnadozie",
+        "Madugu",
         "Tomorrow is Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
