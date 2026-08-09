@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T23:49:33.514558+00:00",
+  "generated_at_utc": "2026-08-09T00:42:34.063417+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,25 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 08 2026 23:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 00:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Paul Heaton",
+        "#UFCVegas120",
         "Toure",
         "Steur",
-        "#UFCVegas120",
         "Elanga",
         "Wissa",
-        "Simpson",
+        "#WilliamsonSimpson2",
         "Murphy",
+        "Aaron McKenna",
         "Woltemade",
-        "Kellie",
-        "Bamba"
+        "Kellie"
       ],
       "hashtags": [
         "#UFCVegas120",
+        "#WilliamsonSimpson2",
         "#ZuffaBoxing10",
-        "#ARGvRSA",
-        "#NFFC",
-        "#saintsfc"
+        "#ARGvRSA"
       ],
       "regular_topics": [
         "Paul Heaton",
@@ -70,77 +69,77 @@
         "Steur",
         "Elanga",
         "Wissa",
-        "Simpson",
         "Murphy",
+        "Aaron McKenna",
         "Woltemade",
         "Kellie",
-        "Bamba",
-        "Aaron McKenna"
+        "Bramall Lane",
+        "Bamba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 08 2026 23:00:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 23:52:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
-        "#InternationalCatDay",
-        "Italy",
         "#UFCVegas120",
+        "#InternationalCatDay",
+        "Brock England",
+        "Italy",
         "Sousa",
         "Enes",
-        "#Alouettes",
+        "Max Scherzer",
         "#Caturday",
-        "Philpot",
         "Miranda"
       ],
       "hashtags": [
-        "#InternationalCatDay",
         "#UFCVegas120",
-        "#Alouettes",
+        "#InternationalCatDay",
         "#Caturday",
+        "#RoomNumberFreen",
         "#SmackDown"
       ],
       "regular_topics": [
         "Summerland",
         "WNBA",
+        "Brock England",
         "Italy",
         "Sousa",
         "Enes",
-        "Philpot",
+        "Max Scherzer",
         "Miranda",
-        "DiJonai Carrington",
-        "Araujo",
-        "FNAF WORLD 2",
-        "Meatloaf"
+        "Vladdy",
+        "Maddox Schultz",
+        "Bald Range"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 08 2026 22:57:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 23:48:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDSuperstarMahesh",
-        "#BcmForXMarketing",
-        "#BcmForORM",
-        "#ToxicTrailer",
         "#BrandsCareMedia",
+        "#ToxicTrailer",
+        "#BcmForORM",
+        "#BcmForXMarketing",
         "Om Shanti Panth Exposed",
         "affordable marketing by bcm",
         "Gudda Guddi",
         "Khel Band Karo",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "mega dsc-2025"
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935"
       ],
       "hashtags": [
         "#HBDSuperstarMahesh",
-        "#BcmForXMarketing",
-        "#BcmForORM",
+        "#BrandsCareMedia",
         "#ToxicTrailer",
-        "#BrandsCareMedia"
+        "#BcmForORM",
+        "#BcmForXMarketing"
       ],
       "regular_topics": [
         "Om Shanti Panth Exposed",
@@ -148,8 +147,8 @@
         "Gudda Guddi",
         "Khel Band Karo",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "mega dsc-2025",
-        "Gayatri Mantra",
         "Jorge Messi",
         "\u0928\u0947\u0939\u093e \u092c\u094b\u0930\u093e",
         "Turkey",
@@ -160,19 +159,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 08 2026 22:56:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 08 2026 23:48:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "25gb",
         "DJ Big N",
-        "Ricky and Sheba",
         "#BbNaijaxPepsi",
-        "Sheba and Ricky",
+        "Ricky and Sheba",
         "Goddessa",
         "Balde",
-        "Nomy",
-        "Udinese",
+        "Sheba and Ricky",
         "2baba",
-        "2face"
+        "2face",
+        "Udinese",
+        "Nomy"
       ],
       "hashtags": [
         "#BbNaijaxPepsi",
@@ -183,14 +182,14 @@
         "25gb",
         "DJ Big N",
         "Ricky and Sheba",
-        "Sheba and Ricky",
         "Goddessa",
         "Balde",
-        "Nomy",
-        "Udinese",
+        "Sheba and Ricky",
         "2baba",
         "2face",
-        "Xavi Espart"
+        "Udinese",
+        "Nomy",
+        "Quincy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
