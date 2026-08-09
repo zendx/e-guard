@@ -1,88 +1,94 @@
 {
-  "generated_at_utc": "2026-08-09T10:00:51.777290+00:00",
+  "generated_at_utc": "2026-08-09T10:57:52.892555+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 09:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BlitzMOVE1",
+        "Drake",
+        "Good Sunday",
+        "#Chuk",
+        "#Tunsil",
         "Monta",
         "Sophie",
-        "Chloe",
+        "#Thune",
+        "#Chloe",
         "Jordyn",
-        "#encojoin",
-        "SB19 FANMEET IN CALIFORNIA",
-        "#AdventBoundbyFate",
-        "#SB19IWaSThereUSA_Day1",
-        "Carrington",
-        "#Toonami"
+        "SB19 FANMEET IN CALIFORNIA"
       ],
       "hashtags": [
         "#BlitzMOVE1",
+        "#Chuk",
+        "#Tunsil",
+        "#Thune",
+        "#Chloe",
+        "#Suspend",
+        "#Angela",
         "#encojoin",
-        "#AdventBoundbyFate",
+        "#Kamu",
         "#SB19IWaSThereUSA_Day1",
         "#Toonami"
       ],
       "regular_topics": [
+        "Drake",
+        "Good Sunday",
         "Monta",
         "Sophie",
-        "Chloe",
         "Jordyn",
         "SB19 FANMEET IN CALIFORNIA",
         "Carrington",
-        "Edwin Diaz",
-        "White Privilege",
+        "Lila",
         "Cunningham",
         "Stephanie White",
-        "Ed Case"
+        "White Privilege"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 09:31:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:24:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCVegas120",
         "#InternationalCatDay",
-        "#WalledGarden",
         "Araujo",
         "Romero",
         "Paul Heaton",
         "Cambridge",
-        "#SundayYellow",
+        "Lord Ashcroft",
         "New IRA",
         "WNBA",
+        "#AlleyCats",
         "Toure"
       ],
       "hashtags": [
         "#UFCVegas120",
         "#InternationalCatDay",
-        "#WalledGarden",
+        "#AlleyCats",
         "#SundayYellow",
-        "#AlleyCats"
+        "#Caturday"
       ],
       "regular_topics": [
         "Araujo",
         "Romero",
         "Paul Heaton",
         "Cambridge",
+        "Lord Ashcroft",
         "New IRA",
         "WNBA",
         "Toure",
         "Arday",
         "Steur",
-        "FA Cup",
-        "Elanga"
+        "FA Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 09:24:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:15:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
@@ -91,10 +97,10 @@
         "#InternationalCatDay",
         "Stake",
         "nathan lukes",
-        "#Caturday",
         "Enes",
-        "Drake",
-        "Bald Range"
+        "#Caturday",
+        "Bald Range",
+        "Okanagan"
       ],
       "hashtags": [
         "#UFCVegas120",
@@ -110,87 +116,86 @@
         "Stake",
         "nathan lukes",
         "Enes",
-        "Drake",
         "Bald Range",
         "Okanagan",
         "Phillies",
-        "Max Scherzer"
+        "Max Scherzer",
+        "Drake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 09:20:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UPKiTirangaYatra",
         "#JharkhandseJohar",
+        "#UPKiTirangaYatra",
         "#AdivasiMahotsav2026",
         "#BlockbusterDC",
         "#be10x",
-        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
+        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u0936\u093f\u092c\u0942 \u0938\u094b\u0930\u0947\u0928",
-        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "FUR FRIENDS X EST AND PB",
         "Birsa Munda",
-        "The Tricolour",
-        "Lucknow"
+        "Students Goonj Parks",
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928"
       ],
       "hashtags": [
-        "#UPKiTirangaYatra",
         "#JharkhandseJohar",
+        "#UPKiTirangaYatra",
         "#AdivasiMahotsav2026",
         "#BlockbusterDC",
         "#be10x"
       ],
       "regular_topics": [
-        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
+        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u0936\u093f\u092c\u0942 \u0938\u094b\u0930\u0947\u0928",
-        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "FUR FRIENDS X EST AND PB",
         "Birsa Munda",
+        "Students Goonj Parks",
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "Shibu Soren",
+        "Sai University",
         "The Tricolour",
         "Lucknow",
-        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
-        "Shibu Soren",
-        "Gayatri Mantra",
-        "\u092e\u0939\u0947\u0936 \u092c\u093e\u092c\u0942",
-        "Indian Youth Congress"
+        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 09:19:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Blessed Sunday",
+        "Church",
         "Drake",
-        "Happy Sunday X",
-        "Another Sunday",
-        "Today is Sunday",
+        "Happy Sunday CT",
         "Quincy",
-        "Stake",
+        "Today is Sunday",
         "Rodrigo De Paul",
+        "Another Sunday",
+        "Stake",
         "Beautiful Sunday",
-        "Bijan",
-        "Happy Sunday Mutuals"
+        "Lungu Boy"
       ],
       "hashtags": [
         "#SundayService",
-        "#teenageer",
-        "#sandiego"
+        "#teenageer"
       ],
       "regular_topics": [
         "Blessed Sunday",
+        "Church",
         "Drake",
-        "Happy Sunday X",
-        "Another Sunday",
-        "Today is Sunday",
+        "Happy Sunday CT",
         "Quincy",
-        "Stake",
+        "Today is Sunday",
         "Rodrigo De Paul",
+        "Another Sunday",
+        "Stake",
         "Beautiful Sunday",
-        "Bijan",
-        "Happy Sunday Mutuals"
+        "Lungu Boy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
