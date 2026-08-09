@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-09T21:24:26.205369+00:00",
+  "generated_at_utc": "2026-08-09T21:54:37.631280+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 20:20:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 21:12:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kerkering",
         "Don Nelson",
-        "Reddick",
-        "#OlandriaxNigeriaVlog",
-        "Nellie",
-        "Woke 1",
-        "Drake",
-        "#SeductiveSunday",
+        "Kerkering",
         "Kayla McBride",
-        "Tim Walz",
-        "#NationalBookLoversDay"
+        "Hagen Smith",
+        "Reddick",
+        "Woke 1",
+        "Nellie",
+        "Wrobleski",
+        "#NASCAR",
+        "Drake",
+        "Wrobo"
       ],
       "hashtags": [
+        "#NASCAR",
         "#OlandriaxNigeriaVlog",
         "#SeductiveSunday",
-        "#NationalBookLoversDay",
-        "#Jared",
-        "#Trev"
+        "#Trev",
+        "#NationalBookLoversDay"
       ],
       "regular_topics": [
-        "Kerkering",
         "Don Nelson",
-        "Reddick",
-        "Nellie",
-        "Woke 1",
-        "Drake",
+        "Kerkering",
         "Kayla McBride",
-        "Tim Walz",
-        "Schlittler",
-        "Tyler Kinley",
-        "Grant Holmes"
+        "Hagen Smith",
+        "Reddick",
+        "Woke 1",
+        "Nellie",
+        "Wrobleski",
+        "Drake",
+        "Wrobo",
+        "Bohm"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 20:44:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 21:36:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
         "Rangers",
@@ -51,16 +51,16 @@
         "McInnes",
         "#sts70s",
         "Lucas",
-        "Super Falcons",
-        "Ibrox",
         "#wildflowerhour",
-        "Cameroon",
-        "Devlin"
+        "Ibrox",
+        "Lord Ashcroft",
+        "Super Falcons",
+        "Daniel Kinahan"
       ],
       "hashtags": [
         "#sts70s",
         "#wildflowerhour",
-        "#FamouslyFurry"
+        "#IndyCar"
       ],
       "regular_topics": [
         "Trev",
@@ -68,65 +68,65 @@
         "Hibs",
         "McInnes",
         "Lucas",
-        "Super Falcons",
         "Ibrox",
-        "Cameroon",
-        "Devlin",
-        "WAFCON",
-        "Martins"
+        "Lord Ashcroft",
+        "Super Falcons",
+        "Daniel Kinahan",
+        "Squeeze",
+        "Devlin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 20:36:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 21:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Nathan Lukes",
         "Italy",
         "WNBA",
         "Summerland",
-        "Shane Bieber",
-        "#betya",
+        "#BlueJays",
+        "Estrada",
         "Drake",
-        "Gimenez",
         "#UFCVegas120",
+        "#betya",
         "#InternationalCatDay",
-        "Vladdy",
-        "Cameroon"
+        "Phillies"
       ],
       "hashtags": [
-        "#betya",
+        "#BlueJays",
         "#UFCVegas120",
+        "#betya",
         "#InternationalCatDay",
-        "#OlandriaxNigeriaVlog",
-        "#BlueJays"
+        "#OlandriaxNigeriaVlog"
       ],
       "regular_topics": [
+        "Nathan Lukes",
         "Italy",
         "WNBA",
         "Summerland",
-        "Shane Bieber",
+        "Estrada",
         "Drake",
-        "Gimenez",
-        "Vladdy",
+        "Phillies",
         "Cameroon",
         "DiJonai",
         "Stake",
-        "Tuscany"
+        "Andres Gimenez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 20:33:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 21:24:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDSuperstarMahesh",
         "#JharkhandseJohar",
         "#AdivasiMahotsav2026",
         "#NamakSatyagraha",
-        "UP Unlocks Youth Potential",
         "Z Fold8",
+        "UP Unlocks Youth Potential",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
         "CWJ2 WINNER THANUJA",
         "Gayatri Mantra",
@@ -140,8 +140,8 @@
         "#NamakSatyagraha"
       ],
       "regular_topics": [
-        "UP Unlocks Youth Potential",
         "Z Fold8",
+        "UP Unlocks Youth Potential",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
         "CWJ2 WINNER THANUJA",
         "Gayatri Mantra",
@@ -149,15 +149,15 @@
         "MSG Bhandara",
         "Sarfaraz Khan",
         "Salabatpura",
-        "Brahma Kumaris Panth Exposed",
-        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940"
+        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
+        "Brahma Kumaris Panth Exposed"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 20:32:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 21:24:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
         "Super Falcons",
@@ -165,17 +165,17 @@
         "#CMRNGA",
         "WAFCON",
         "Oshoala",
-        "Nomy",
+        "Tomorrow is Monday",
         "Esther Okoronkwo",
-        "Madugu",
-        "Jehovah",
-        "Tomorrow is Monday"
+        "Nomy",
+        "Olamide",
+        "Jehovah"
       ],
       "hashtags": [
         "#CMRNGA",
         "#EndOsunIRTindimidation",
-        "#BBNaijaXChowdeck",
         "#bbnaijas1",
+        "#BBNaijaXChowdeck",
         "#RICKYX160M"
       ],
       "regular_topics": [
@@ -184,12 +184,12 @@
         "Martins",
         "WAFCON",
         "Oshoala",
-        "Nomy",
-        "Esther Okoronkwo",
-        "Madugu",
-        "Jehovah",
         "Tomorrow is Monday",
-        "Ebuka"
+        "Esther Okoronkwo",
+        "Nomy",
+        "Olamide",
+        "Jehovah",
+        "Madugu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
