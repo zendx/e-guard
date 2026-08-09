@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-08-09T15:23:48.094359+00:00",
+  "generated_at_utc": "2026-08-09T15:53:54.283757+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 14:18:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 15:09:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DreaminaSeedance25",
         "Good Sunday",
         "#SundayVibes",
-        "Sunday Funday",
         "Sophie",
-        "Delap",
-        "Tosin",
+        "Sunday Funday",
+        "Suspend",
         "Tzolis",
         "Drake",
+        "Renkor",
         "Wirtz",
-        "Suspend"
+        "Tosin"
       ],
       "hashtags": [
         "#DreaminaSeedance25",
         "#SundayVibes",
         "#SeductiveSunday",
-        "#SundayMotivation",
+        "#NationalBookLoversDay",
         "#JuniorMarkConcertD3"
       ],
       "regular_topics": [
         "Good Sunday",
-        "Sunday Funday",
         "Sophie",
-        "Delap",
-        "Tosin",
+        "Sunday Funday",
+        "Suspend",
         "Tzolis",
         "Drake",
+        "Renkor",
         "Wirtz",
-        "Suspend",
-        "Isak",
+        "Tosin",
+        "Blessed Sunday",
         "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,35 +43,36 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 14:42:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 15:33:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
-        "Gyokeres",
         "Wirtz",
+        "Gyokeres",
         "Ndukwe",
-        "Tosin",
         "Koumas",
-        "Hogh",
-        "Delap",
+        "Endo",
+        "Dortmund",
         "Kepa",
-        "Kilmarnock",
+        "McNeil",
+        "Tosin",
         "Havertz"
       ],
       "hashtags": [
         "#ARSBVB",
-        "#KILCEL"
+        "#KILCEL",
+        "#LIVMON"
       ],
       "regular_topics": [
         "Tzolis",
-        "Gyokeres",
         "Wirtz",
+        "Gyokeres",
         "Ndukwe",
-        "Tosin",
         "Koumas",
-        "Hogh",
-        "Delap",
+        "Endo",
+        "Dortmund",
         "Kepa",
-        "Kilmarnock",
+        "McNeil",
+        "Tosin",
         "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -79,117 +80,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 14:36:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 15:27:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "WNBA",
         "Summerland",
-        "Tzolis",
         "Italy",
+        "Tzolis",
         "#UFCVegas120",
-        "#InternationalCatDay",
         "Tosin",
-        "Delap",
         "Nathan Lukes",
+        "Delap",
         "Good Sunday",
-        "Kepa"
+        "International Cat Day",
+        "Stake"
       ],
       "hashtags": [
         "#UFCVegas120",
-        "#InternationalCatDay",
-        "#Caturday",
         "#SeductiveSunday",
-        "#MarchToOttawa"
+        "#Caturday",
+        "#MarchToOttawa",
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "WNBA",
         "Summerland",
-        "Tzolis",
         "Italy",
+        "Tzolis",
         "Tosin",
-        "Delap",
         "Nathan Lukes",
+        "Delap",
         "Good Sunday",
-        "Kepa",
-        "Nwaneri",
-        "Stake"
+        "International Cat Day",
+        "Stake",
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 14:32:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 15:24:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NamakSatyagraha",
+        "#YogiKaYouthFirst",
+        "UP Unlocks Youth Potential",
         "#30YearsOfSLB",
         "#YogiKiYuvaNiti",
         "#MegaHitKokaForVarunTej",
-        "UP Unlocks Youth Potential",
-        "#ThankYouMuzaffarnagarPolice",
         "Z Fold8",
-        "#KBC18StartsTomorrow",
         "Love & War",
-        "YOGANKSHA MUTUAL ERA",
         "CWJ2 WINNER THANUJA",
-        "Sanjay Leela Bhansali"
+        "Sarfaraz Khan",
+        "YOGANKSHA MUTUAL ERA"
       ],
       "hashtags": [
+        "#NamakSatyagraha",
+        "#YogiKaYouthFirst",
         "#30YearsOfSLB",
         "#YogiKiYuvaNiti",
-        "#MegaHitKokaForVarunTej",
-        "#ThankYouMuzaffarnagarPolice",
-        "#KBC18StartsTomorrow"
+        "#MegaHitKokaForVarunTej"
       ],
       "regular_topics": [
         "UP Unlocks Youth Potential",
         "Z Fold8",
         "Love & War",
-        "YOGANKSHA MUTUAL ERA",
         "CWJ2 WINNER THANUJA",
-        "Sanjay Leela Bhansali",
+        "Sarfaraz Khan",
+        "YOGANKSHA MUTUAL ERA",
         "Celebrating 30",
         "Siraj",
+        "Sanjay Leela Bhansali",
         "dig srr",
-        "Sarfaraz Khan",
-        "Tzolis"
+        "Sai Sudharsan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 14:31:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 15:24:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Delap",
         "Dortmund",
+        "Delap",
         "Kepa",
-        "Essugo",
         "Tzolis",
-        "Isak",
+        "Essugo",
         "Gyokeres",
-        "Wirtz",
+        "Monaco",
         "Havertz",
-        "Semenyo",
-        "Mosquera"
+        "Isak",
+        "Rashford",
+        "#JKGadzama"
       ],
       "hashtags": [
         "#JKGadzama",
-        "#TrabayebyKinsxn",
         "#ARSBVB",
+        "#TrabayebyKinsxn",
         "#RICKYX160M",
         "#PatrickJumbo"
       ],
       "regular_topics": [
-        "Delap",
         "Dortmund",
+        "Delap",
         "Kepa",
-        "Essugo",
         "Tzolis",
-        "Isak",
+        "Essugo",
         "Gyokeres",
-        "Wirtz",
+        "Monaco",
         "Havertz",
-        "Semenyo",
-        "Mosquera"
+        "Isak",
+        "Rashford",
+        "Emirates"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
