@@ -1,174 +1,172 @@
 {
-  "generated_at_utc": "2026-08-09T17:01:01.624532+00:00",
+  "generated_at_utc": "2026-08-09T17:53:37.361231+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 16:00:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#OlandriaxNigeriaVlog",
+        "Tim Walz",
         "Good Sunday",
-        "#DreaminaSeedance25",
+        "OLANDRIA YOUTUBE",
         "Drake",
         "Sunday Funday",
+        "Ratings",
         "Sophie",
-        "#SundayVibes",
-        "Suspend",
+        "#DreaminaSeedance25",
         "#SeductiveSunday",
-        "Tzolis",
-        "Renkor",
-        "Stephanie White"
+        "#SundayVibes"
       ],
       "hashtags": [
+        "#OlandriaxNigeriaVlog",
         "#DreaminaSeedance25",
-        "#SundayVibes",
         "#SeductiveSunday",
-        "#NationalBookLoversDay",
-        "#JuniorMarkConcertD3"
+        "#SundayVibes",
+        "#NationalBookLoversDay"
       ],
       "regular_topics": [
+        "Tim Walz",
         "Good Sunday",
+        "OLANDRIA YOUTUBE",
         "Drake",
         "Sunday Funday",
+        "Ratings",
         "Sophie",
-        "Suspend",
-        "Tzolis",
-        "Renkor",
         "Stephanie White",
-        "Gyokeres",
-        "Wirtz",
-        "Carrington"
+        "Letterboxd",
+        "Timothy Eugene",
+        "Suspend"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 16:27:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 17:18:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tzolis",
+        "Rangers",
+        "McInnes",
         "Hibs",
+        "Shankland",
+        "Devlin",
+        "Tzolis",
+        "Ibrox",
         "Chermiti",
-        "Wirtz",
-        "Endo",
         "Gyokeres",
-        "McNeil",
-        "Koumas",
-        "Michael Stewart",
-        "Ndukwe",
-        "Chiesa"
+        "Russell Martin",
+        "Lucas"
       ],
-      "hashtags": [
-        "#ARSBVB"
-      ],
+      "hashtags": [],
       "regular_topics": [
-        "Tzolis",
+        "Rangers",
+        "McInnes",
         "Hibs",
+        "Shankland",
+        "Devlin",
+        "Tzolis",
+        "Ibrox",
         "Chermiti",
-        "Wirtz",
-        "Endo",
         "Gyokeres",
-        "McNeil",
-        "Koumas",
-        "Michael Stewart",
-        "Ndukwe",
-        "Chiesa"
+        "Russell Martin",
+        "Lucas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 16:20:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 17:12:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "WNBA",
         "Italy",
         "Summerland",
+        "#OlandriaxNigeriaVlog",
         "#UFCVegas120",
-        "Tzolis",
         "Nathan Lukes",
+        "Tzolis",
         "International Cat Day",
+        "Drake",
         "Stake",
-        "Nwaneri",
-        "DiJonai",
-        "Drake"
+        "DiJonai"
       ],
       "hashtags": [
+        "#OlandriaxNigeriaVlog",
         "#UFCVegas120",
         "#Caturday",
         "#MarchToOttawa",
-        "#ExtendTS2023",
-        "#AEWCollision"
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "WNBA",
         "Italy",
         "Summerland",
-        "Tzolis",
         "Nathan Lukes",
+        "Tzolis",
         "International Cat Day",
-        "Stake",
-        "Nwaneri",
-        "DiJonai",
         "Drake",
-        "Tosin"
+        "Stake",
+        "DiJonai",
+        "International Day of the World",
+        "Good Sunday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 16:16:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 17:08:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TirangaYatraWithYogiJi",
         "#NamakSatyagraha",
         "#YogiKaYouthFirst",
-        "#30YearsOfSLB",
         "#Cheer4Bharat",
-        "UP Unlocks Youth Potential",
+        "#30YearsOfSLB",
         "Z Fold8",
-        "#YogiKiYuvaNiti",
-        "Love & War",
-        "Sarfaraz Khan",
+        "UP Unlocks Youth Potential",
         "CWJ2 WINNER THANUJA",
-        "YOGANKSHA MUTUAL ERA"
+        "Sarfaraz Khan",
+        "BELIFT PROTECT SUNOO AND NI-KI",
+        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "hashtags": [
+        "#TirangaYatraWithYogiJi",
         "#NamakSatyagraha",
         "#YogiKaYouthFirst",
-        "#30YearsOfSLB",
         "#Cheer4Bharat",
-        "#YogiKiYuvaNiti"
+        "#30YearsOfSLB"
       ],
       "regular_topics": [
-        "UP Unlocks Youth Potential",
         "Z Fold8",
-        "Love & War",
-        "Sarfaraz Khan",
+        "UP Unlocks Youth Potential",
         "CWJ2 WINNER THANUJA",
-        "YOGANKSHA MUTUAL ERA",
-        "Celebrating 30",
+        "Sarfaraz Khan",
         "BELIFT PROTECT SUNOO AND NI-KI",
-        "Siraj",
-        "Sanjay Leela Bhansali",
-        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e"
+        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "\u0930\u093e\u0939\u0941\u0932 \u0928\u0935\u0940\u0928",
+        "YOGANKSHA MUTUAL ERA",
+        "\u0928\u092e\u0915 \u0938\u0924\u094d\u092f\u093e\u0917\u094d\u0930\u0939",
+        "Carmen",
+        "Laser"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 16:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 17:06:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dortmund",
-        "Delap",
         "Rashford",
+        "Delap",
         "Monaco",
+        "Havertz",
+        "Gyokeres",
         "Kepa",
         "Tzolis",
-        "Gyokeres",
-        "Havertz",
-        "Essugo",
         "#JKGadzama",
-        "Isak"
+        "Iraola",
+        "$HORACE"
       ],
       "hashtags": [
         "#JKGadzama",
@@ -179,16 +177,16 @@
       ],
       "regular_topics": [
         "Dortmund",
-        "Delap",
         "Rashford",
+        "Delap",
         "Monaco",
+        "Havertz",
+        "Gyokeres",
         "Kepa",
         "Tzolis",
-        "Gyokeres",
-        "Havertz",
-        "Essugo",
-        "Isak",
-        "Endo"
+        "Iraola",
+        "$HORACE",
+        "Isak"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
