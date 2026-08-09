@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-09T15:53:54.283757+00:00",
+  "generated_at_utc": "2026-08-09T16:17:54.578640+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 15:09:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 16:00:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DreaminaSeedance25",
         "Good Sunday",
-        "#SundayVibes",
-        "Sophie",
-        "Sunday Funday",
-        "Suspend",
-        "Tzolis",
+        "#DreaminaSeedance25",
         "Drake",
+        "Sunday Funday",
+        "Sophie",
+        "#SundayVibes",
+        "Suspend",
+        "#SeductiveSunday",
+        "Tzolis",
         "Renkor",
-        "Wirtz",
-        "Tosin"
+        "Stephanie White"
       ],
       "hashtags": [
         "#DreaminaSeedance25",
@@ -27,16 +27,16 @@
       ],
       "regular_topics": [
         "Good Sunday",
-        "Sophie",
+        "Drake",
         "Sunday Funday",
+        "Sophie",
         "Suspend",
         "Tzolis",
-        "Drake",
         "Renkor",
+        "Stephanie White",
+        "Gyokeres",
         "Wirtz",
-        "Tosin",
-        "Blessed Sunday",
-        "Gyokeres"
+        "Carrington"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
