@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-08-09T10:57:52.892555+00:00",
+  "generated_at_utc": "2026-08-09T11:22:58.581104+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 10:00:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 10:52:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BlitzMOVE1",
-        "Drake",
         "Good Sunday",
+        "Drake",
+        "#BlitzMOVE1",
         "#Chuk",
-        "#Tunsil",
-        "Monta",
-        "Sophie",
-        "#Thune",
+        "#Edwin",
+        "Blessed Sunday",
+        "#Drew",
         "#Chloe",
+        "Monta",
         "Jordyn",
-        "SB19 FANMEET IN CALIFORNIA"
+        "Fazbear"
       ],
       "hashtags": [
         "#BlitzMOVE1",
         "#Chuk",
-        "#Tunsil",
-        "#Thune",
+        "#Edwin",
+        "#Drew",
         "#Chloe",
-        "#Suspend",
         "#Angela",
-        "#encojoin",
-        "#Kamu",
-        "#SB19IWaSThereUSA_Day1",
-        "#Toonami"
+        "#Gamrot",
+        "#Gronk",
+        "#Freddy",
+        "#Suspend",
+        "#Tunsil"
       ],
       "regular_topics": [
-        "Drake",
         "Good Sunday",
+        "Drake",
+        "Blessed Sunday",
         "Monta",
-        "Sophie",
         "Jordyn",
-        "SB19 FANMEET IN CALIFORNIA",
+        "Fazbear",
         "Carrington",
-        "Lila",
+        "SB19 FANMEET IN CALIFORNIA",
         "Cunningham",
-        "Stephanie White",
-        "White Privilege"
+        "White Privilege",
+        "Stephanie White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -88,19 +88,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 10:15:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 11:08:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
         "#UFCVegas120",
         "Italy",
         "#InternationalCatDay",
-        "Stake",
         "nathan lukes",
+        "Stake",
         "Enes",
         "#Caturday",
-        "Bald Range",
-        "Okanagan"
+        "Okanagan",
+        "Bald Range"
       ],
       "hashtags": [
         "#UFCVegas120",
@@ -113,89 +113,91 @@
         "Summerland",
         "WNBA",
         "Italy",
-        "Stake",
         "nathan lukes",
+        "Stake",
         "Enes",
-        "Bald Range",
         "Okanagan",
-        "Phillies",
+        "Bald Range",
         "Max Scherzer",
-        "Drake"
+        "Dijonai",
+        "\u00d6zlem"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 10:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 11:04:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AdivasiMahotsav2026",
         "#JharkhandseJohar",
         "#UPKiTirangaYatra",
-        "#AdivasiMahotsav2026",
-        "#BlockbusterDC",
         "#be10x",
-        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
+        "#BlockbusterDC",
         "\u0936\u093f\u092c\u0942 \u0938\u094b\u0930\u0947\u0928",
+        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "FUR FRIENDS X EST AND PB",
+        "Sai University",
         "Birsa Munda",
-        "Students Goonj Parks",
-        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928"
+        "Students Goonj Parks"
       ],
       "hashtags": [
+        "#AdivasiMahotsav2026",
         "#JharkhandseJohar",
         "#UPKiTirangaYatra",
-        "#AdivasiMahotsav2026",
+        "#be10x",
         "#BlockbusterDC",
-        "#be10x"
+        "#\u0e42\u0e15\u0e21\u0e32\u0e01\u0e31\u0e1a\u0e27\u0e34\u0e1fxEst",
+        "#MamataBanerjee",
+        "#WorldTribalDay"
       ],
       "regular_topics": [
-        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u0936\u093f\u092c\u0942 \u0938\u094b\u0930\u0947\u0928",
+        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "FUR FRIENDS X EST AND PB",
+        "Sai University",
         "Birsa Munda",
         "Students Goonj Parks",
-        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
         "Shibu Soren",
-        "Sai University",
-        "The Tricolour",
-        "Lucknow",
-        "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940"
+        "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "Tricolour",
+        "Houthis",
+        "\u0938\u093e\u0902\u0938\u094d\u0915\u0943\u0924\u093f\u0915 \u0935\u093f\u0935\u093f\u0927\u0924\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 10:12:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 11:04:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Blessed Sunday",
         "Church",
-        "Drake",
-        "Happy Sunday CT",
+        "Blessed Sunday",
         "Quincy",
+        "Drake",
+        "Happy Sunday X",
         "Today is Sunday",
+        "Emirates Cup",
+        "Sevilla",
         "Rodrigo De Paul",
-        "Another Sunday",
-        "Stake",
         "Beautiful Sunday",
-        "Lungu Boy"
+        "Deji Adeyanju"
       ],
       "hashtags": [
-        "#SundayService",
-        "#teenageer"
+        "#SundayService"
       ],
       "regular_topics": [
-        "Blessed Sunday",
         "Church",
-        "Drake",
-        "Happy Sunday CT",
+        "Blessed Sunday",
         "Quincy",
+        "Drake",
+        "Happy Sunday X",
         "Today is Sunday",
+        "Emirates Cup",
+        "Sevilla",
         "Rodrigo De Paul",
-        "Another Sunday",
-        "Stake",
         "Beautiful Sunday",
-        "Lungu Boy"
+        "Deji Adeyanju"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
