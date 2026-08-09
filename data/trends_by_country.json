@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-08-09T07:28:05.156142+00:00",
+  "generated_at_utc": "2026-08-09T08:06:17.999049+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 06:28:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 07:21:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sophie",
-        "#AdventBoundbyFate",
-        "Chloe",
-        "Edwin Diaz",
-        "Jordyn",
-        "#UFCVegas120",
+        "#BlitzMOVE1",
         "Monta",
-        "#Toonami",
+        "Jordyn",
+        "Chloe",
+        "#AdventBoundbyFate",
         "Carrington",
-        "Salkilld",
-        "Gamrot"
+        "Edwin Diaz",
+        "#Toonami",
+        "SB19 FANMEET IN CALIFORNIA",
+        "#SB19IWaSThereUSA_Day1"
       ],
       "hashtags": [
+        "#BlitzMOVE1",
         "#AdventBoundbyFate",
-        "#UFCVegas120",
         "#Toonami",
-        "#OPLive",
-        "#AEWCollision"
+        "#SB19IWaSThereUSA_Day1",
+        "#UFCVegas120"
       ],
       "regular_topics": [
         "Sophie",
-        "Chloe",
-        "Edwin Diaz",
-        "Jordyn",
         "Monta",
+        "Jordyn",
+        "Chloe",
         "Carrington",
+        "Edwin Diaz",
+        "SB19 FANMEET IN CALIFORNIA",
         "Salkilld",
-        "Gamrot",
         "White Privilege",
-        "Stake",
+        "Ed Case",
         "Stephanie White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 06:54:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 07:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCVegas120",
+        "#WalledGarden",
+        "#SundayYellow",
         "#InternationalCatDay",
         "Araujo",
         "Romero",
-        "#SundayYellow",
+        "#StainedGlassSunday",
         "Paul Heaton",
-        "#Caturday",
-        "#ShakespeareSunday",
         "Cambridge",
         "Toure",
         "WNBA"
       ],
       "hashtags": [
         "#UFCVegas120",
-        "#InternationalCatDay",
+        "#WalledGarden",
         "#SundayYellow",
-        "#Caturday",
-        "#ShakespeareSunday"
+        "#InternationalCatDay",
+        "#StainedGlassSunday"
       ],
       "regular_topics": [
         "Araujo",
@@ -71,9 +71,9 @@
         "Cambridge",
         "Toure",
         "WNBA",
+        "Arday",
         "Steur",
         "FA Cup",
-        "Arday",
         "Elanga",
         "Mason Mount"
       ],
@@ -82,109 +82,106 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 06:48:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 07:40:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Summerland",
         "WNBA",
         "#UFCVegas120",
         "Italy",
-        "Stake",
         "#InternationalCatDay",
-        "Drake",
+        "Stake",
         "NATHAN LUKES",
+        "Drake",
         "#Caturday",
         "Enes",
-        "#MarchToOttawa"
+        "Bald Range"
       ],
       "hashtags": [
         "#UFCVegas120",
         "#InternationalCatDay",
         "#Caturday",
-        "#MarchToOttawa",
-        "#ExtendTS2023"
+        "#ExtendTS2023",
+        "#MarchToOttawa"
       ],
       "regular_topics": [
         "Summerland",
         "WNBA",
         "Italy",
         "Stake",
-        "Drake",
         "NATHAN LUKES",
+        "Drake",
         "Enes",
-        "Okanagan",
         "Bald Range",
-        "Salkilld",
-        "Phillies"
+        "Okanagan",
+        "Phillies",
+        "Max Scherzer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 06:44:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 07:36:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TirangayatraWithPankaj",
+        "#JharkhandseJohar",
         "#WorldTribalDay",
+        "#TirangayatraWithPankaj",
         "#\u092d\u0902\u0935\u0930\u0940_\u0915\u094b_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
-        "#Varanasi",
         "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
-        "Salabatpura",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "Gayatri Mantra",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935"
+        "Birsa Munda"
       ],
       "hashtags": [
-        "#TirangayatraWithPankaj",
+        "#JharkhandseJohar",
         "#WorldTribalDay",
+        "#TirangayatraWithPankaj",
         "#\u092d\u0902\u0935\u0930\u0940_\u0915\u094b_\u0928\u094d\u092f\u093e\u092f_\u0926\u094b",
-        "#Varanasi",
         "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938",
-        "#SpiritualSunday",
-        "#HBDSuperstarMahesh",
-        "#IYCFoundationDay",
-        "#KakoriTrainAction",
-        "#latina",
-        "#AugustKrantiDiwas"
+        "#BlockbusterDC",
+        "#Varanasi",
+        "#SpiritualSunday"
       ],
       "regular_topics": [
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
+        "\u092d\u0917\u0935\u093e\u0928 \u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e",
         "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
-        "Salabatpura",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "Gayatri Mantra",
+        "Birsa Munda",
+        "Pankaj Chaudhary",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "MSG Bhandara",
         "Saint Gurmeet Ram Rahim Ji",
-        "\u0936\u094d\u0930\u0940 \u092a\u0902\u0915\u091c \u091a\u094c\u0927\u0930\u0940",
-        "Pankaj Chaudhary",
-        "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940"
+        "Indian Youth Congress"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 06:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 07:36:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Stake",
         "Blessed Sunday",
         "Jorge Messi",
         "25gb",
         "Araujo",
-        "AC Milan",
         "Amen",
+        "Drake",
+        "AC Milan",
         "2baba",
-        "Amorim",
         "Happy Sunday CT",
-        "Peter"
+        "2face"
       ],
       "hashtags": [
         "#MTNat25",
-        "#cheacm",
+        "#Aylio",
         "#teenageer",
-        "#BbNaijaxPepsi",
+        "#cheacm",
         "#sackfarouknow"
       ],
       "regular_topics": [
@@ -193,12 +190,12 @@
         "Jorge Messi",
         "25gb",
         "Araujo",
-        "AC Milan",
         "Amen",
+        "Drake",
+        "AC Milan",
         "2baba",
-        "Amorim",
         "Happy Sunday CT",
-        "Peter"
+        "2face"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
