@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T11:22:58.581104+00:00",
+  "generated_at_utc": "2026-08-09T11:51:08.846745+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,7 +49,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 10:24:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 11:16:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCVegas120",
         "#InternationalCatDay",
@@ -57,10 +57,10 @@
         "Romero",
         "Paul Heaton",
         "Cambridge",
-        "Lord Ashcroft",
-        "New IRA",
         "WNBA",
         "#AlleyCats",
+        "Lord Ashcroft",
+        "Arday",
         "Toure"
       ],
       "hashtags": [
@@ -75,13 +75,13 @@
         "Romero",
         "Paul Heaton",
         "Cambridge",
-        "Lord Ashcroft",
-        "New IRA",
         "WNBA",
-        "Toure",
+        "Lord Ashcroft",
         "Arday",
+        "Toure",
+        "FA Cup",
         "Steur",
-        "FA Cup"
+        "Alex"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
