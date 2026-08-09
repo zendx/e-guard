@@ -1,173 +1,174 @@
 {
-  "generated_at_utc": "2026-08-09T02:54:18.704941+00:00",
+  "generated_at_utc": "2026-08-09T04:07:16.169345+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 02:09:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 03:52:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Sophie",
         "#UFCVegas120",
-        "#AEWCollision",
+        "Sophie",
+        "Edwin Diaz",
+        "Salkilld",
+        "#AdventBoundbyFate",
         "WNBA",
         "Carrington",
-        "White Privilege",
-        "Alvarado",
-        "Darren Elkins",
-        "#NicVansxDasEnergi",
-        "#Svengoolie",
-        "Billy Q"
+        "Gamrot",
+        "#AEWCollision",
+        "#OPLive",
+        "Stake"
       ],
       "hashtags": [
         "#UFCVegas120",
+        "#AdventBoundbyFate",
         "#AEWCollision",
-        "#NicVansxDasEnergi",
-        "#Svengoolie",
-        "#MostRequestedLive"
+        "#OPLive",
+        "#LironLockheart3D"
       ],
       "regular_topics": [
         "Sophie",
+        "Edwin Diaz",
+        "Salkilld",
         "WNBA",
         "Carrington",
+        "Gamrot",
+        "Stake",
         "White Privilege",
-        "Alvarado",
-        "Darren Elkins",
         "Billy Q",
-        "Ty Miller",
-        "Tunsil",
-        "Taylor Decker",
-        "Sports Illustrated"
+        "Chloe",
+        "Chivas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 02:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 03:27:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCVegas120",
+        "Salkilld",
         "#InternationalCatDay",
         "Araujo",
+        "Gamrot",
         "Romero",
         "Paul Heaton",
-        "#AEWCollision",
         "#Caturday",
+        "#AEWCollision",
         "Elkins",
-        "Toure",
-        "#AlleyCats",
-        "Cambridge"
+        "#AlleyCats"
       ],
       "hashtags": [
         "#UFCVegas120",
         "#InternationalCatDay",
-        "#AEWCollision",
         "#Caturday",
+        "#AEWCollision",
         "#AlleyCats"
       ],
       "regular_topics": [
+        "Salkilld",
         "Araujo",
+        "Gamrot",
         "Romero",
         "Paul Heaton",
         "Elkins",
         "Toure",
         "Cambridge",
-        "Goff",
-        "Steur",
         "Elanga",
         "FA Cup",
-        "Mason Mount"
+        "Konate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 02:28:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 03:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Stake",
-        "Nathan Lukes",
         "Summerland",
         "WNBA",
-        "#ExtendTS2023",
-        "#MarchToOttawa",
+        "NATHAN LUKES",
         "#UFCVegas120",
-        "#BlueJays50",
-        "Ty Miller",
+        "#MarchToOttawa",
+        "#ExtendTS2023",
         "#InternationalCatDay",
-        "Italy"
+        "Italy",
+        "Quillan Salkilld",
+        "Estrada"
       ],
       "hashtags": [
-        "#ExtendTS2023",
-        "#MarchToOttawa",
         "#UFCVegas120",
-        "#BlueJays50",
-        "#InternationalCatDay"
+        "#MarchToOttawa",
+        "#ExtendTS2023",
+        "#InternationalCatDay",
+        "#BlueJays50"
       ],
       "regular_topics": [
         "Stake",
-        "Nathan Lukes",
         "Summerland",
         "WNBA",
-        "Ty Miller",
+        "NATHAN LUKES",
         "Italy",
+        "Quillan Salkilld",
         "Estrada",
-        "\u00d6zlem",
-        "Enes",
+        "Drake",
         "Gimenez",
-        "Phillies"
+        "Enes",
+        "Gamrot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 02:24:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 03:15:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SpiritualSunday",
         "Saint Gurmeet Ram Rahim Ji",
-        "Salabatpura",
         "MSG Bhandara",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "#GodMorningSunday",
+        "Salabatpura",
         "#Varanasi",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "#HBDSuperstarMahesh",
+        "#GodMorningSunday",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u092a\u093e\u0935\u0928 \u092d\u0902\u0921\u093e\u0930\u093e"
+        "#ConversionConspiracy",
+        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e"
       ],
       "hashtags": [
         "#SpiritualSunday",
-        "#GodMorningSunday",
         "#Varanasi",
         "#HBDSuperstarMahesh",
+        "#GodMorningSunday",
+        "#ConversionConspiracy",
         "#WorldTribalDay",
         "#\u0935\u093f\u0936\u094d\u0935_\u0906\u0926\u093f\u0935\u093e\u0938\u0940_\u0926\u093f\u0935\u0938",
-        "#QuitIndiaMovement",
-        "#\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0915\u0941\u092e\u093e\u0930\u0940\u092a\u0902\u0925_\u0915\u093e_\u092a\u0930\u094d\u0926\u093e\u092b\u093e\u0936",
-        "#RaGaFlopShow"
+        "#IYCFoundationDay",
+        "#WorldIndigenousDay",
+        "#\u0950_\u0938\u0942\u0930\u094d\u092f_\u0926\u0947\u0935\u093e\u092f_\u0928\u092e\u0903",
+        "#SundayVibes"
       ],
       "regular_topics": [
         "Saint Gurmeet Ram Rahim Ji",
-        "Salabatpura",
         "MSG Bhandara",
+        "Salabatpura",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "\u0915\u093e\u0915\u094b\u0930\u0940 \u091f\u094d\u0930\u0947\u0928",
-        "\u0938\u0942\u0930\u094d\u092f \u0928\u093e\u0930\u093e\u092f\u0923",
+        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "\u092a\u093e\u0935\u0928 \u092d\u0902\u0921\u093e\u0930\u093e",
-        "Rudhra",
+        "Gayatri Mantra",
+        "Happy Birthday Rudhra",
         "\u0938\u0942\u0930\u094d\u092f \u092d\u0917\u0935\u093e\u0928",
-        "Drake",
-        "Gayatri Mantra"
+        "\u0921\u0947\u0930\u093e \u0938\u091a\u094d\u091a\u093e \u0938\u094c\u0926\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 02:24:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 03:15:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Stake",
-        "Drake",
         "Jorge Messi",
         "25gb",
         "Araujo",
@@ -176,18 +177,18 @@
         "Amorim",
         "2baba",
         "2face",
-        "Madrid"
+        "Madrid",
+        "Psquare"
       ],
       "hashtags": [
-        "#BBNaija",
-        "#MTNAt25",
-        "#cheacm",
+        "#MTNat25",
         "#latina",
-        "#teenageer"
+        "#cheacm",
+        "#buyingcontent",
+        "#BbNaijaxPepsi"
       ],
       "regular_topics": [
         "Stake",
-        "Drake",
         "Jorge Messi",
         "25gb",
         "Araujo",
@@ -196,7 +197,8 @@
         "Amorim",
         "2baba",
         "2face",
-        "Madrid"
+        "Madrid",
+        "Psquare"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
