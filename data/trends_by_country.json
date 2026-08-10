@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-09T23:53:25.584403+00:00",
+  "generated_at_utc": "2026-08-10T00:43:59.985688+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 09 2026 22:54:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 09 2026 23:45:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kayla McBride",
         "Ty Gibbs",
+        "Kayla McBride",
         "Christopher Bell",
-        "#GreenWall",
         "#NASCAR",
-        "Kmac",
-        "Don Nelson",
-        "Michael Brennan",
+        "#GreenWall",
+        "Haiti",
         "Woke 1",
-        "Derek Hill",
+        "Don Nelson",
+        "Kmac",
+        "Michael Brennan",
         "Dylan Smith"
       ],
       "hashtags": [
-        "#GreenWall",
         "#NASCAR",
+        "#GreenWall",
+        "#BaddiesUSAChapterTwo",
         "#IowaCorn350",
-        "#IndyCar",
         "#NationalBookLoversDay"
       ],
       "regular_topics": [
-        "Kayla McBride",
         "Ty Gibbs",
+        "Kayla McBride",
         "Christopher Bell",
-        "Kmac",
-        "Don Nelson",
-        "Michael Brennan",
+        "Haiti",
         "Woke 1",
-        "Derek Hill",
+        "Don Nelson",
+        "Kmac",
+        "Michael Brennan",
         "Dylan Smith",
-        "Hagen Smith",
-        "Luis Lara"
+        "Trevor Richards",
+        "Janelle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 09 2026 23:20:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 00:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Salvador",
         "Hibs",
@@ -51,18 +51,18 @@
         "Rangers",
         "Trev",
         "McInnes",
-        "Lord Ashcroft",
         "Charlie Downes",
-        "Ndukwe",
+        "Lord Ashcroft",
         "Gyokeres",
-        "Tzolis"
+        "Tzolis",
+        "Ndukwe"
       ],
       "hashtags": [
-        "#GreenWall",
         "#InternationalCatDay",
         "#AlleyCats",
-        "#UFCVegas120",
-        "#thepiano"
+        "#sts70s",
+        "#VanDerValk",
+        "#BritishGP"
       ],
       "regular_topics": [
         "El Salvador",
@@ -71,29 +71,29 @@
         "Rangers",
         "Trev",
         "McInnes",
-        "Lord Ashcroft",
         "Charlie Downes",
-        "Ndukwe",
+        "Lord Ashcroft",
         "Gyokeres",
-        "Tzolis"
+        "Tzolis",
+        "Ndukwe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 09 2026 23:12:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 00:03:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Nathan Lukes",
         "Italy",
         "WNBA",
         "#betya",
+        "Nathan Lukes",
         "Summerland",
-        "Kayla McBride",
         "Drake",
         "Estrada",
         "DiJonai",
         "Phillies",
+        "Sophie",
         "#UFCVegas120"
       ],
       "hashtags": [
@@ -104,24 +104,24 @@
         "#InternationalCatDay"
       ],
       "regular_topics": [
-        "Nathan Lukes",
         "Italy",
         "WNBA",
+        "Nathan Lukes",
         "Summerland",
-        "Kayla McBride",
         "Drake",
         "Estrada",
         "DiJonai",
         "Phillies",
         "Sophie",
-        "Tuscany"
+        "Tuscany",
+        "Kayla McBride"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 09 2026 23:08:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 00:00:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDSuperstarMahesh",
         "#JharkhandseJohar",
@@ -133,7 +133,7 @@
         "CWJ2 WINNER THANUJA",
         "Gayatri Mantra",
         "msg bhandara",
-        "Om Shanti Panth Exposed"
+        "Sarfaraz Khan"
       ],
       "hashtags": [
         "#HBDSuperstarMahesh",
@@ -148,8 +148,8 @@
         "CWJ2 WINNER THANUJA",
         "Gayatri Mantra",
         "msg bhandara",
-        "Om Shanti Panth Exposed",
         "Sarfaraz Khan",
+        "Om Shanti Panth Exposed",
         "salabatpura",
         "\u092d\u0902\u0935\u0930\u0940 \u0926\u0947\u0935\u0940",
         "Brahma Kumaris Panth Exposed"
@@ -159,39 +159,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 09 2026 23:08:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 00:00:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trev",
+        "Olamide",
         "WAFCON",
         "Super Falcons",
-        "Olamide",
         "Tomorrow is Monday",
         "Oshoala",
-        "Martins",
         "#CMRNGA",
+        "Martins",
         "Esther Okoronkwo",
-        "Super Eagles",
-        "Nomy"
+        "Waggy",
+        "Super Eagles"
       ],
       "hashtags": [
         "#CMRNGA",
         "#bbnaijas1",
         "#EndOsunIRTindimidation",
-        "#PatrickJumbo",
-        "#RICKYX160M"
+        "#teenageer",
+        "#PatrickJumbo"
       ],
       "regular_topics": [
         "Trev",
+        "Olamide",
         "WAFCON",
         "Super Falcons",
-        "Olamide",
         "Tomorrow is Monday",
         "Oshoala",
         "Martins",
         "Esther Okoronkwo",
+        "Waggy",
         "Super Eagles",
-        "Nomy",
-        "Zacch Adedeji"
+        "Nomy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
