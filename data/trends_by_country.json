@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-08-10T23:01:33.859324+00:00",
+  "generated_at_utc": "2026-08-10T23:55:53.081566+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 10 2026 22:09:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:00:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Madden27",
         "Colombia",
+        "#MCS27",
         "Introducing",
         "RIP Jackie",
         "Quinnen Williams",
-        "#MCS27",
-        "DevOps",
-        "Huke",
-        "Fort Knox",
         "Autism",
-        "#OlandriaxRobertoCavalli"
+        "Fort Knox",
+        "Huke",
+        "Stanford",
+        "Vaccines"
       ],
       "hashtags": [
         "#Madden27",
         "#MCS27",
         "#OlandriaxRobertoCavalli",
         "#NationalSpoilYourDogDay",
-        "#RTXPowersPlay"
+        "#5rt5as"
       ],
       "regular_topics": [
         "Colombia",
         "Introducing",
         "RIP Jackie",
         "Quinnen Williams",
-        "DevOps",
-        "Huke",
-        "Fort Knox",
         "Autism",
+        "Fort Knox",
+        "Huke",
+        "Stanford",
+        "Vaccines",
         "Hep B",
-        "Hydra",
         "Lauren Boebert"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,39 +43,43 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 10 2026 22:33:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:25:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#pafc",
         "Amy Hunt",
         "#Birmingham2026",
         "#UniversityChallenge",
-        "Exeter",
-        "#EuropeanAthletics",
         "Kay Burley",
-        "#onlyconnect",
+        "Exeter",
+        "Micky",
+        "Colombia",
         "Plymouth",
         "Ben Wallace",
-        "Micky"
+        "#ecfc"
       ],
       "hashtags": [
         "#pafc",
         "#Birmingham2026",
         "#UniversityChallenge",
+        "#ecfc",
         "#EuropeanAthletics",
+        "#TheEndOfOakStreet",
         "#onlyconnect",
-        "#ECFC",
-        "#PARKIFY"
+        "#HOTD",
+        "#dcfc",
+        "#RHOA",
+        "#TheArchers"
       ],
       "regular_topics": [
         "Amy Hunt",
-        "Exeter",
         "Kay Burley",
-        "Plymouth",
-        "Ben Wallace",
+        "Exeter",
         "Micky",
         "Colombia",
+        "Plymouth",
+        "Ben Wallace",
+        "Afghans",
         "Isle",
-        "The End of Oak Street",
         "Huke",
         "Devon"
       ],
@@ -84,53 +88,53 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 10 2026 22:27:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:18:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "#CFMTL",
-        "Colombia",
         "Alexis Sanchez",
-        "#teenageer",
+        "Colombia",
         "#momsonn",
-        "WNBA",
-        "Summerland",
+        "#teenageer",
         "Woke 1",
+        "Summerland",
+        "WNBA",
         "Tuscany",
-        "Nathan Lukes"
+        "Greenland"
       ],
       "hashtags": [
         "#CFMTL",
-        "#teenageer",
         "#momsonn",
+        "#teenageer",
         "#HOTD",
         "#HouseOfTheDragon"
       ],
       "regular_topics": [
         "Italy",
-        "Colombia",
         "Alexis Sanchez",
-        "WNBA",
-        "Summerland",
+        "Colombia",
         "Woke 1",
+        "Summerland",
+        "WNBA",
         "Tuscany",
-        "Nathan Lukes",
-        "McAdoo",
+        "Greenland",
         "Drake",
-        "Puerto Rico"
+        "Snoopy",
+        "Haiti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 10 2026 22:21:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:15:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u0941\u0921\u094d\u0921\u093e_\u0917\u0941\u0921\u094d\u0921\u0940_\u0915\u093e_\u0916\u0947\u0932_\u092c\u0902\u0926_\u0915\u0930\u094b",
         "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
         "#\u0922\u0902\u0917_\u0915\u0940_\u092a\u0942\u091c\u093e_\u0915\u0930\u094b",
         "Jharkhand",
         "#HarGharTiranga",
-        "#KBC18_StartsTonight",
+        "#kbc18_startstonight",
         "ashnisha industries",
         "\u091d\u093e\u0930\u0916\u0902\u0921 \u092a\u0941\u0932\u093f\u0938",
         "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926",
@@ -142,7 +146,7 @@
         "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
         "#\u0922\u0902\u0917_\u0915\u0940_\u092a\u0942\u091c\u093e_\u0915\u0930\u094b",
         "#HarGharTiranga",
-        "#KBC18_StartsTonight"
+        "#kbc18_startstonight"
       ],
       "regular_topics": [
         "Jharkhand",
@@ -162,38 +166,37 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 10 2026 22:21:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:12:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Olamide",
-        "$BULLWHALE",
         "Mama G",
+        "Olamide",
+        "$Giveaway",
+        "$BULLWHALE",
+        "$BKN",
         "Baddo",
-        "#AnewOsunWithAMBO",
         "Micky van de Ven",
         "Luton",
-        "#OPay7SavingsFestival",
-        "Colombia",
         "Yahooze",
-        "Endrick"
+        "Colombia",
+        "$TOAD"
       ],
       "hashtags": [
-        "#AnewOsunWithAMBO",
-        "#OPay7SavingsFestival",
+        "#OPayIsOkay",
         "#23yrsofGloNigeria",
-        "#OPayIsOkay"
+        "#WeAreTheFirst10MLinkers"
       ],
       "regular_topics": [
-        "Olamide",
-        "$BULLWHALE",
         "Mama G",
+        "Olamide",
+        "$Giveaway",
+        "$BULLWHALE",
+        "$BKN",
         "Baddo",
         "Micky van de Ven",
         "Luton",
-        "Colombia",
         "Yahooze",
-        "Endrick",
-        "Funke Akindele",
-        "Head of House"
+        "Colombia",
+        "$TOAD"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
