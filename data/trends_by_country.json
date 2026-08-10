@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-10T05:00:24.134560+00:00",
+  "generated_at_utc": "2026-08-10T06:47:01.455699+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 10 2026 04:04:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 05:48:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HOTD",
         "#HouseOfTheDragon",
         "Haiti",
+        "Jeongyeon",
         "Rhaenyra",
-        "#DemDragons",
-        "#RHUGT",
         "Daemon",
-        "#RHOA",
-        "Aegon",
-        "Helaena",
-        "Roddy"
+        "#LaCasaDeLosFamososM\u00e9xico",
+        "Mariana",
+        "#RHUGT",
+        "#DemDragons",
+        "Ximena"
       ],
       "hashtags": [
         "#HOTD",
         "#HouseOfTheDragon",
-        "#DemDragons",
+        "#LaCasaDeLosFamososM\u00e9xico",
         "#RHUGT",
-        "#RHOA"
+        "#DemDragons"
       ],
       "regular_topics": [
         "Haiti",
+        "Jeongyeon",
         "Rhaenyra",
         "Daemon",
+        "Mariana",
+        "Ximena",
         "Aegon",
         "Helaena",
-        "Roddy",
         "Donell",
-        "Ormund",
-        "Austin Hays",
-        "Tumbleton",
-        "Mysaria"
+        "Roddy",
+        "Ormund"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 10 2026 04:28:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 06:12:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HOTD",
-        "#HouseOfTheDragon",
         "Hibs",
         "McNeil",
+        "#HOTD",
+        "#MondayMotivation",
         "Trev",
         "Rangers",
         "McInnes",
         "Lord Ashcroft",
-        "Rhaenyra",
-        "Ndukwe",
-        "Gyokeres"
+        "Gyokeres",
+        "#Wordle1878",
+        "El Salvador"
       ],
       "hashtags": [
         "#HOTD",
+        "#MondayMotivation",
+        "#Wordle1878",
         "#HouseOfTheDragon",
-        "#InternationalCatDay",
-        "#mcrnyc",
-        "#AlleyCats"
+        "#InternationalCatDay"
       ],
       "regular_topics": [
         "Hibs",
@@ -71,27 +71,27 @@
         "Rangers",
         "McInnes",
         "Lord Ashcroft",
-        "Rhaenyra",
-        "Ndukwe",
         "Gyokeres",
+        "El Salvador",
+        "Ndukwe",
         "Tzolis",
-        "Aegon"
+        "Drake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 10 2026 04:21:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 06:04:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
-        "#HOTD",
         "NATHAN LUKES",
-        "#HouseOfTheDragon",
-        "WNBA",
+        "#HOTD",
         "Summerland",
+        "WNBA",
+        "#HouseOfTheDragon",
         "Drake",
-        "#90DayFiance",
+        "Jeongyeon",
         "Rhaenyra",
         "#betya",
         "Dijonai"
@@ -99,21 +99,21 @@
       "hashtags": [
         "#HOTD",
         "#HouseOfTheDragon",
-        "#90DayFiance",
         "#betya",
-        "#MarchToOttawa"
+        "#MarchToOttawa",
+        "#ExtendTS2023"
       ],
       "regular_topics": [
         "Italy",
         "NATHAN LUKES",
-        "WNBA",
         "Summerland",
+        "WNBA",
         "Drake",
+        "Jeongyeon",
         "Rhaenyra",
         "Dijonai",
         "Tuscany",
         "Haiti",
-        "Phillies",
         "Estrada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,84 +121,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 10 2026 04:18:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 06:03:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SolarStockRadar",
-        "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
-        "#JagoHindu",
-        "Dharma Ki Raksha",
+        "#SolarStockonRadar",
         "Ashnisha Industries",
-        "#GodMorningMonday",
+        "#JagoHindu",
+        "#\u092c\u0939\u0928_\u091c\u0940_\u0915\u093e_\u0938\u0902\u0926\u0947\u0936",
+        "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
         "#WorldLionDay",
+        "Dharma Ki Raksha",
         "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
+        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
         "250 Cr",
-        "\u0938\u0928\u093e\u0924\u0928 \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f",
-        "Sant Shri Asharamji Bapu"
+        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "hashtags": [
-        "#SolarStockRadar",
-        "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
+        "#SolarStockonRadar",
         "#JagoHindu",
-        "#GodMorningMonday",
-        "#WorldLionDay",
-        "#SawanSomwar",
-        "#\u0939\u0930_\u0939\u0930_\u092e\u0939\u093e\u0926\u0947\u0935",
-        "#MondayMotivation",
-        "#Jharkhand_exam",
-        "#HOTD",
-        "#VVGiri"
+        "#\u092c\u0939\u0928_\u091c\u0940_\u0915\u093e_\u0938\u0902\u0926\u0947\u0936",
+        "#\u092e\u0939\u093f\u0932\u093e_\u0935\u093f\u0930\u094b\u0927\u0940_\u0915\u0947\u091c\u0930\u0940\u0935\u093e\u0932",
+        "#WorldLionDay"
       ],
       "regular_topics": [
-        "Dharma Ki Raksha",
         "Ashnisha Industries",
+        "Dharma Ki Raksha",
         "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
+        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
         "250 Cr",
-        "\u0938\u0928\u093e\u0924\u0928 \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f",
-        "Sant Shri Asharamji Bapu",
+        "\u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Puducherry Police",
         "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
         "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "\u0936\u093f\u0935 \u0936\u0902\u0915\u0930",
-        "\u091c\u0948\u0935 \u0908\u0902\u0927\u0928",
-        "\u092a\u093e\u0935\u0928 \u0926\u094d\u0935\u093f\u0924\u0940\u092f"
+        "\u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u092e\u093e\u0930\u094d\u091a",
+        "\u091c\u0948\u0935 \u0908\u0902\u0927\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 10 2026 04:18:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 06:00:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Happy New Week",
+        "Amen",
         "Trev",
+        "GM CT",
         "Drake",
         "Stake",
+        "Olamide",
         "#CMRNGA",
         "Dortmund",
-        "Cameroon",
-        "2face",
         "2baba",
-        "Olamide",
-        "Rashford",
-        "Happy New Week"
+        "2face"
       ],
       "hashtags": [
         "#CMRNGA",
-        "#HOTD",
         "#jkgadzama",
-        "#teenageer",
-        "#latina"
+        "#teenageer"
       ],
       "regular_topics": [
+        "Happy New Week",
+        "Amen",
         "Trev",
+        "GM CT",
         "Drake",
         "Stake",
-        "Dortmund",
-        "Cameroon",
-        "2face",
-        "2baba",
         "Olamide",
-        "Rashford",
-        "Happy New Week",
-        "Martins"
+        "Dortmund",
+        "2baba",
+        "2face",
+        "Cameroon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
