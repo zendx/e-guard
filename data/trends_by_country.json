@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-10T09:53:14.919316+00:00",
+  "generated_at_utc": "2026-08-10T10:53:54.821099+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 10 2026 09:15:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 10:06:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Monday",
+        "#5rt5as",
         "#HOTD",
         "Haiti",
+        "#MondayMotivation",
         "Jeongyeon",
         "#HouseOfTheDragon",
-        "Good Monday",
+        "#Donell",
         "Rhaenyra",
         "Daemon",
-        "#ChristopherNolan",
-        "Aegon",
-        "#LaCasaDeLosFamososM\u00e9xico",
-        "Mariana"
+        "Calamity"
       ],
       "hashtags": [
+        "#5rt5as",
         "#HOTD",
+        "#MondayMotivation",
         "#HouseOfTheDragon",
-        "#ChristopherNolan",
-        "#LaCasaDeLosFamososM\u00e9xico",
-        "#BaddiesUSA"
+        "#Donell"
       ],
       "regular_topics": [
+        "Good Monday",
         "Haiti",
         "Jeongyeon",
-        "Good Monday",
         "Rhaenyra",
         "Daemon",
+        "Calamity",
         "Aegon",
         "Mariana",
         "Helaena",
         "Ximena",
-        "Woke 1",
-        "Ormund"
+        "Chris Chan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 10 2026 08:48:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 10:31:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Salvador",
         "McNeil",
-        "Hank Marvin",
+        "#thismorning",
         "Hibs",
-        "#MondayMotivation",
-        "#NSPPD",
-        "Rangers",
+        "#popmaster",
         "Johnson",
+        "Hank Marvin",
+        "Rangers",
         "Trev",
-        "#Mancrushmonday",
-        "#MagentaMonday"
+        "Charlie Downes",
+        "CONCACAF"
       ],
       "hashtags": [
+        "#thismorning",
+        "#popmaster",
         "#MondayMotivation",
-        "#NSPPD",
-        "#Mancrushmonday",
-        "#MagentaMonday",
-        "#bbcbreakfast"
+        "#bbcbreakfast",
+        "#Mancrushmonday"
       ],
       "regular_topics": [
         "El Salvador",
         "McNeil",
-        "Hank Marvin",
         "Hibs",
-        "Rangers",
         "Johnson",
+        "Hank Marvin",
+        "Rangers",
         "Trev",
+        "Charlie Downes",
+        "CONCACAF",
         "Lord Ashcroft",
-        "Charlie",
-        "McInnes",
-        "Gyokeres"
+        "McInnes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 10 2026 09:32:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 10:24:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "nathan lukes",
@@ -91,17 +91,17 @@
         "Drake",
         "#HOTD",
         "#betya",
-        "Dijonai",
         "#marchtoottawa",
         "#extendts2023",
-        "#HouseOfTheDragon"
+        "#UFCVegas120",
+        "Phillies"
       ],
       "hashtags": [
         "#HOTD",
         "#betya",
         "#marchtoottawa",
         "#extendts2023",
-        "#HouseOfTheDragon"
+        "#UFCVegas120"
       ],
       "regular_topics": [
         "Italy",
@@ -109,11 +109,11 @@
         "Summerland",
         "WNBA",
         "Drake",
-        "Dijonai",
-        "Bald Range",
-        "Tuscany",
-        "Sophie",
         "Phillies",
+        "Tuscany",
+        "Bald Range",
+        "mingyu",
+        "Estrada",
         "Haiti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,80 +121,82 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 10 2026 09:28:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 10:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
+        "#\u0938\u093e\u0935\u0928_\u0938\u094b\u092e\u0935\u093e\u0930_\u0915\u0948\u0932\u093e\u0936\u093e\u0928\u0902\u0926\u091c\u0940",
+        "Shiv Bhakt KailashanandJi",
+        "#Jharkhand",
+        "\u091d\u093e\u0930\u0916\u0902\u0921 \u092a\u0941\u0932\u093f\u0938",
         "#HaryanaMSMEAndExportPolicy",
         "#\u092c\u0939\u0928_\u091c\u0940_\u0915\u093e_\u0938\u0902\u0926\u0947\u0936",
-        "\u091d\u093e\u0930\u0916\u0902\u0921 \u092a\u0941\u0932\u093f\u0938",
-        "#Jharkhand",
-        "#SolarStockonRadar",
-        "#KilleR",
         "\u0935\u0949\u091f\u0930 \u0915\u0948\u0928\u0928",
-        "Ashnisha Industries",
         "\u0905\u092e\u0928 \u091a\u094b\u092a\u0921\u093c\u093e",
-        "Vidhan Sabha Gherao",
+        "Sawan Monday",
         "\u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928"
       ],
       "hashtags": [
+        "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
+        "#\u0938\u093e\u0935\u0928_\u0938\u094b\u092e\u0935\u093e\u0930_\u0915\u0948\u0932\u093e\u0936\u093e\u0928\u0902\u0926\u091c\u0940",
+        "#Jharkhand",
         "#HaryanaMSMEAndExportPolicy",
         "#\u092c\u0939\u0928_\u091c\u0940_\u0915\u093e_\u0938\u0902\u0926\u0947\u0936",
-        "#Jharkhand",
+        "#Ranchi",
         "#SolarStockonRadar",
         "#KilleR",
-        "#Ranchi",
-        "#OMGPictures"
+        "#JPSC"
       ],
       "regular_topics": [
+        "Shiv Bhakt KailashanandJi",
         "\u091d\u093e\u0930\u0916\u0902\u0921 \u092a\u0941\u0932\u093f\u0938",
         "\u0935\u0949\u091f\u0930 \u0915\u0948\u0928\u0928",
-        "Ashnisha Industries",
         "\u0905\u092e\u0928 \u091a\u094b\u092a\u0921\u093c\u093e",
-        "Vidhan Sabha Gherao",
+        "Sawan Monday",
         "\u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928",
-        "Aman Chopra",
-        "\u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u092e\u093e\u0930\u094d\u091a",
+        "Ashnisha Industries",
+        "Vidhan Sabha Gherao",
         "Naveen Jindal",
-        "\u092b\u0942\u0932\u0928 \u0926\u0947\u0935\u0940",
-        "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926"
+        "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926",
+        "Aman Chopra"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 10 2026 09:27:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 10:19:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Week",
-        "#MondayMotivation",
         "#EbonyLifePlaceLondon",
-        "Today is Monday",
-        "FIRE HAS CLEARED THE WAY",
+        "#MondayMotivation",
+        "#NNPCMustExplain",
         "Tonto Dikeh",
-        "On a Monday",
-        "Another Monday",
-        "BLUETHOPIA THE WINNER",
         "New Wine Prophetic Tabernacle",
-        "#HOTD"
+        "#OsunRemember",
+        "CONCACAF",
+        "FIRE HAS CLEARED THE WAY",
+        "On a Monday",
+        "Today is Monday"
       ],
       "hashtags": [
-        "#MondayMotivation",
         "#EbonyLifePlaceLondon",
-        "#HOTD",
-        "#AniyaHarvey",
-        "#HouseOfTheDragon"
+        "#MondayMotivation",
+        "#NNPCMustExplain",
+        "#OsunRemember",
+        "#HOTD"
       ],
       "regular_topics": [
         "Happy New Week",
-        "Today is Monday",
-        "FIRE HAS CLEARED THE WAY",
         "Tonto Dikeh",
-        "On a Monday",
-        "Another Monday",
-        "BLUETHOPIA THE WINNER",
         "New Wine Prophetic Tabernacle",
+        "CONCACAF",
+        "FIRE HAS CLEARED THE WAY",
+        "On a Monday",
+        "Today is Monday",
         "Brennan Johnson",
-        "Olamide",
-        "Productive"
+        "BLUETHOPIA THE WINNER",
+        "Another Monday",
+        "Ayyoub Bouaddi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
