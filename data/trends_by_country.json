@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-11T06:41:36.166106+00:00",
+  "generated_at_utc": "2026-08-11T07:59:59.564880+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 11 2026 05:52:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 07:36:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Max Muncy",
-        "Bloodline",
-        "Massachusetts",
+        "#RIZIN54",
         "Timms",
         "ICE ELATION",
-        "Maura Healey",
-        "Solo Sikoa",
+        "Bloodline",
+        "Massachusetts",
         "Air Force One",
-        "Cam Smith",
+        "Maura Healey",
+        "Bruce Lee",
         "Congratulations Kennedy"
       ],
       "hashtags": [
         "#WWERaw",
+        "#RIZIN54",
         "#Madden27",
-        "#gooner",
-        "#calliolive",
-        "#BelowDeckMed"
+        "#5rt5as",
+        "#gooner"
       ],
       "regular_topics": [
         "Max Muncy",
-        "Bloodline",
-        "Massachusetts",
         "Timms",
         "ICE ELATION",
-        "Maura Healey",
-        "Solo Sikoa",
+        "Bloodline",
+        "Massachusetts",
         "Air Force One",
-        "Cam Smith",
+        "Maura Healey",
+        "Bruce Lee",
         "Congratulations Kennedy",
-        "Drew Gilbert"
+        "Chuck Norris",
+        "Cam Smith"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 11 2026 06:18:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 07:09:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Salvador",
         "#thicktrunktuesday",
-        "#WWERaw",
         "#PARKIFY",
+        "#bbcbreakfast",
+        "#Pano",
         "McNeil",
-        "Bezos",
         "Ben Wallace",
+        "Bezos",
         "#Wordle1879",
         "Colombia",
-        "#birmingham2026",
         "Charlie Downes"
       ],
       "hashtags": [
         "#thicktrunktuesday",
-        "#WWERaw",
         "#PARKIFY",
-        "#Wordle1879",
-        "#birmingham2026"
+        "#bbcbreakfast",
+        "#Pano",
+        "#Wordle1879"
       ],
       "regular_topics": [
         "El Salvador",
         "McNeil",
-        "Bezos",
         "Ben Wallace",
+        "Bezos",
         "Colombia",
         "Charlie Downes",
+        "Tory",
         "Johnson",
-        "Bron",
-        "Mohammad Hassan",
         "Amy Hunt",
-        "Hank Marvin"
+        "Hank Marvin",
+        "Exeter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 11 2026 06:12:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 07:03:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
         "#teenageer",
@@ -92,7 +92,7 @@
         "Jays",
         "McAdoo",
         "#WWERaw",
-        "Tuscany",
+        "#RIZIN54",
         "Taillon",
         "Greenland"
       ],
@@ -100,8 +100,8 @@
         "#teenageer",
         "#momsonn",
         "#WWERaw",
-        "#Madden27",
-        "#jonita"
+        "#RIZIN54",
+        "#Madden27"
       ],
       "regular_topics": [
         "Italy",
@@ -109,91 +109,90 @@
         "Colombia",
         "Jays",
         "McAdoo",
-        "Tuscany",
         "Taillon",
         "Greenland",
-        "Bloodline",
+        "Tuscany",
+        "Alexis Sanchez",
         "Woke 1",
-        "Alexis Sanchez"
+        "Terry Fox"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 11 2026 06:06:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 06:57:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#UPCMYogiOnNews18",
         "#AdaniCaseDismissed",
+        "#SolarPickStock",
         "#BalochistanIndependence",
-        "#HydrogenMultiBagger",
-        "#KhudiramBose",
+        "CM Yogi Adityanath",
+        "#winvivoS2",
         "\u092e\u0902\u0917\u0932 \u092e\u093f\u0932\u0928",
-        "#SawanShivratri",
-        "\u0916\u0941\u0926\u0940\u0930\u093e\u092e \u092c\u094b\u0938",
+        "Uttar Pradesh",
+        "News18 India",
         "Ashnisha Industries",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "250 Cr",
-        "\u0917\u094c\u0924\u092e \u0905\u0926\u093e\u0923\u0940"
+        "Diamond States Summit"
       ],
       "hashtags": [
+        "#UPCMYogiOnNews18",
         "#AdaniCaseDismissed",
+        "#SolarPickStock",
         "#BalochistanIndependence",
-        "#HydrogenMultiBagger",
-        "#KhudiramBose",
-        "#SawanShivratri",
-        "#GodMorningTuesday",
-        "#DrugFreeTamilNadu"
+        "#winvivoS2",
+        "#vivoSseries"
       ],
       "regular_topics": [
+        "CM Yogi Adityanath",
         "\u092e\u0902\u0917\u0932 \u092e\u093f\u0932\u0928",
-        "\u0916\u0941\u0926\u0940\u0930\u093e\u092e \u092c\u094b\u0938",
+        "Uttar Pradesh",
+        "News18 India",
         "Ashnisha Industries",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "250 Cr",
-        "\u0917\u094c\u0924\u092e \u0905\u0926\u093e\u0923\u0940",
-        "\u092e\u0928\u092e\u094b\u0939\u0928 \u0938\u093f\u0902\u0939",
-        "The US",
-        "\u092a\u094d\u0930\u0925\u092e \u092e\u0939\u093f\u0932\u093e",
-        "Sonia Gandhi",
-        "Dr. Manmohan Singh"
+        "Diamond States Summit",
+        "\u0916\u0941\u0926\u0940\u0930\u093e\u092e \u092c\u094b\u0938",
+        "A. 7050mAh",
+        "B. 44W FlashCharge",
+        "A. 50MP",
+        "NDA MPs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 11 2026 06:06:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 06:57:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Olamide",
         "Taco Tuesday",
-        "Happy New Week",
-        "GM CT",
-        "$BULLWHALE",
         "Amen",
-        "Funke Akindele",
+        "GM CT",
+        "Happy New Week",
+        "$BULLWHALE",
         "$TOAD",
-        "Rashford",
+        "Funke Akindele",
         "MEXC",
+        "Rashford",
         "Baddo"
       ],
       "hashtags": [
-        "#anewosunwithambo",
         "#MondayMotivation",
         "#SmokeyJollofOnGlovo",
         "#23yrsofGloNigeria",
-        "#opay7savingsfestival"
+        "#teenageer",
+        "#cmrnga"
       ],
       "regular_topics": [
         "Olamide",
         "Taco Tuesday",
-        "Happy New Week",
-        "GM CT",
-        "$BULLWHALE",
         "Amen",
-        "Funke Akindele",
+        "GM CT",
+        "Happy New Week",
+        "$BULLWHALE",
         "$TOAD",
-        "Rashford",
+        "Funke Akindele",
         "MEXC",
+        "Rashford",
         "Baddo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
