@@ -1,141 +1,134 @@
 {
-  "generated_at_utc": "2026-08-10T23:55:53.081566+00:00",
+  "generated_at_utc": "2026-08-11T00:53:11.666706+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 10 2026 23:00:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 10 2026 23:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bryce Elder",
         "#Madden27",
-        "Colombia",
         "#MCS27",
+        "Brett Baty",
+        "Colombia",
+        "Stanford",
+        "Sean Murphy",
         "Introducing",
         "RIP Jackie",
-        "Quinnen Williams",
-        "Autism",
-        "Fort Knox",
-        "Huke",
-        "Stanford",
-        "Vaccines"
+        "Pharma",
+        "Fort Knox"
       ],
       "hashtags": [
         "#Madden27",
         "#MCS27",
         "#OlandriaxRobertoCavalli",
-        "#NationalSpoilYourDogDay",
-        "#5rt5as"
+        "#NationalSpoilYourDogDay"
       ],
       "regular_topics": [
+        "Bryce Elder",
+        "Brett Baty",
         "Colombia",
+        "Stanford",
+        "Sean Murphy",
         "Introducing",
         "RIP Jackie",
-        "Quinnen Williams",
-        "Autism",
+        "Pharma",
         "Fort Knox",
-        "Huke",
-        "Stanford",
         "Vaccines",
-        "Hep B",
-        "Lauren Boebert"
+        "Autism"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 10 2026 23:25:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 00:16:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#pafc",
+        "El Salvador",
+        "#WWERaw",
+        "#PARKIFY",
+        "Solo Sikoa",
+        "McNeil",
+        "Bezos",
         "Amy Hunt",
+        "Charlie Downes",
         "#Birmingham2026",
-        "#UniversityChallenge",
-        "Kay Burley",
-        "Exeter",
-        "Micky",
-        "Colombia",
-        "Plymouth",
-        "Ben Wallace",
-        "#ecfc"
+        "#pafc",
+        "Colombia"
       ],
       "hashtags": [
-        "#pafc",
+        "#WWERaw",
+        "#PARKIFY",
         "#Birmingham2026",
-        "#UniversityChallenge",
-        "#ecfc",
-        "#EuropeanAthletics",
-        "#TheEndOfOakStreet",
-        "#onlyconnect",
-        "#HOTD",
-        "#dcfc",
-        "#RHOA",
-        "#TheArchers"
+        "#pafc",
+        "#HOTD"
       ],
       "regular_topics": [
+        "El Salvador",
+        "Solo Sikoa",
+        "McNeil",
+        "Bezos",
         "Amy Hunt",
-        "Kay Burley",
-        "Exeter",
-        "Micky",
+        "Charlie Downes",
         "Colombia",
-        "Plymouth",
         "Ben Wallace",
-        "Afghans",
-        "Isle",
-        "Huke",
-        "Devon"
+        "Johnson",
+        "Exeter",
+        "Hibs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 10 2026 23:18:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 00:09:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Italy",
+        "Whipsaw Creek",
         "#CFMTL",
-        "Alexis Sanchez",
-        "Colombia",
-        "#momsonn",
         "#teenageer",
-        "Woke 1",
-        "Summerland",
-        "WNBA",
+        "#momsonn",
+        "Colombia",
+        "Alexis Sanchez",
+        "Taillon",
+        "#WWERaw",
         "Tuscany",
-        "Greenland"
+        "Summerland"
       ],
       "hashtags": [
         "#CFMTL",
-        "#momsonn",
         "#teenageer",
-        "#HOTD",
+        "#momsonn",
+        "#WWERaw",
         "#HouseOfTheDragon"
       ],
       "regular_topics": [
         "Italy",
-        "Alexis Sanchez",
+        "Whipsaw Creek",
         "Colombia",
-        "Woke 1",
-        "Summerland",
-        "WNBA",
+        "Alexis Sanchez",
+        "Taillon",
         "Tuscany",
+        "Summerland",
+        "Woke 1",
         "Greenland",
-        "Drake",
-        "Snoopy",
-        "Haiti"
+        "WNBA",
+        "Drake"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 10 2026 23:15:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 00:06:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u0941\u0921\u094d\u0921\u093e_\u0917\u0941\u0921\u094d\u0921\u0940_\u0915\u093e_\u0916\u0947\u0932_\u092c\u0902\u0926_\u0915\u0930\u094b",
         "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
         "#\u0922\u0902\u0917_\u0915\u0940_\u092a\u0942\u091c\u093e_\u0915\u0930\u094b",
         "Jharkhand",
         "#HarGharTiranga",
-        "#kbc18_startstonight",
         "ashnisha industries",
+        "#indraputra",
         "\u091d\u093e\u0930\u0916\u0902\u0921 \u092a\u0941\u0932\u093f\u0938",
         "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926",
         "\u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928",
@@ -146,7 +139,7 @@
         "#\u0930\u093e\u0939\u0941\u0932_\u092d\u093e\u0917\u0928\u093e_\u0928\u0939\u0940\u0902",
         "#\u0922\u0902\u0917_\u0915\u0940_\u092a\u0942\u091c\u093e_\u0915\u0930\u094b",
         "#HarGharTiranga",
-        "#kbc18_startstonight"
+        "#indraputra"
       ],
       "regular_topics": [
         "Jharkhand",
@@ -166,19 +159,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 10 2026 23:12:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 00:04:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$Giveaway",
         "Mama G",
         "Olamide",
-        "$Giveaway",
         "$BULLWHALE",
         "$BKN",
+        "APC in Nigeria",
         "Baddo",
-        "Micky van de Ven",
-        "Luton",
+        "$TOAD",
         "Yahooze",
         "Colombia",
-        "$TOAD"
+        "Micky van de Ven"
       ],
       "hashtags": [
         "#OPayIsOkay",
@@ -186,17 +179,17 @@
         "#WeAreTheFirst10MLinkers"
       ],
       "regular_topics": [
+        "$Giveaway",
         "Mama G",
         "Olamide",
-        "$Giveaway",
         "$BULLWHALE",
         "$BKN",
+        "APC in Nigeria",
         "Baddo",
-        "Micky van de Ven",
-        "Luton",
+        "$TOAD",
         "Yahooze",
         "Colombia",
-        "$TOAD"
+        "Micky van de Ven"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
