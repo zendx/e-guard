@@ -1,98 +1,99 @@
 {
-  "generated_at_utc": "2026-08-11T20:30:37.049096+00:00",
+  "generated_at_utc": "2026-08-11T21:32:25.304956+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 11 2026 19:45:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 20:39:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kyler",
         "Grok Bot",
         "JJ McCarthy",
+        "Coby Bryant",
         "Vikings",
         "Secret Service",
         "USSS",
-        "Mike Maddux",
-        "Roblox",
+        "Rams",
         "Massachusetts",
-        "Christmas",
-        "Robert Gilman"
+        "$CRWV",
+        "Mike Maddux"
       ],
       "hashtags": [
-        "#Skol",
-        "#TrumpsJobsCrisis",
         "#omegle",
+        "#nolimits",
         "#teenageer",
-        "#momsonn"
+        "#Skol",
+        "#Madden27"
       ],
       "regular_topics": [
         "Kyler",
         "Grok Bot",
         "JJ McCarthy",
+        "Coby Bryant",
         "Vikings",
         "Secret Service",
         "USSS",
-        "Mike Maddux",
-        "Roblox",
+        "Rams",
         "Massachusetts",
-        "Christmas",
-        "Robert Gilman"
+        "$CRWV",
+        "Mike Maddux"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 11 2026 20:09:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 21:00:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "HALF TIME",
-        "Lucy Davis",
-        "Balogun",
-        "#scanny",
-        "Meghoma",
         "Enzo",
-        "The Office",
-        "Bow Echo",
-        "Grok Bot",
+        "Lucy Davis",
+        "#scanny",
+        "Balogun",
         "Charlene",
-        "Fluffy"
+        "Meghoma",
+        "#celebrityhunted",
+        "The Office",
+        "Watkins",
+        "Grok Bot"
       ],
       "hashtags": [
         "#scanny",
-        "#thechase",
-        "#eclipse",
-        "#DragRaceUK"
+        "#celebrityhunted",
+        "#Birmingham2026",
+        "#EuropeanAthletics",
+        "#eclipse"
       ],
       "regular_topics": [
         "HALF TIME",
+        "Enzo",
         "Lucy Davis",
         "Balogun",
-        "Meghoma",
-        "Enzo",
-        "The Office",
-        "Bow Echo",
-        "Grok Bot",
         "Charlene",
-        "Fluffy",
-        "Patto"
+        "Meghoma",
+        "The Office",
+        "Watkins",
+        "Grok Bot",
+        "Bow Echo",
+        "Jodie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 11 2026 20:03:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 20:54:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#teenageer",
         "#momsonn",
-        "#nolimits",
-        "#omegle",
         "Wilmac",
+        "#nolimits",
         "Italy",
+        "#omegle",
         "1.67% Cu",
-        "#Investor",
+        "#Wealth",
         "Copper Mountain",
-        "Grok Bot",
+        "Tuscany",
         "Colombia"
       ],
       "hashtags": [
@@ -100,52 +101,52 @@
         "#momsonn",
         "#nolimits",
         "#omegle",
-        "#Investor"
+        "#Wealth"
       ],
       "regular_topics": [
         "Wilmac",
         "Italy",
         "1.67% Cu",
         "Copper Mountain",
-        "Grok Bot",
-        "Colombia",
         "Tuscany",
+        "Colombia",
         "Greenland",
+        "Grok Bot",
         "Red Sox",
-        "Christmas Day",
-        "Woke 1"
+        "Woke 1",
+        "$CRWV"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 11 2026 20:00:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 20:51:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#neetpg",
         "#nbems",
+        "#IndiansKaBreakout",
         "#TirangaYatraWithRJMedia",
         "#August15RJMCampaigns",
         "Grok Bot",
-        "#\u0936\u093f\u0935\u092e\u092f_UP",
         "ENGENES DEMAND HEESEUNG BACK",
         "HeyGen for Real Estate",
         "CELEBRATING PRIYANKA'S DAY",
         "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
-        "Noida International Airport"
+        "Enzo"
       ],
       "hashtags": [
         "#neetpg",
         "#nbems",
+        "#IndiansKaBreakout",
         "#TirangaYatraWithRJMedia",
         "#August15RJMCampaigns",
-        "#\u0936\u093f\u0935\u092e\u092f_UP",
         "#Boycott_HYBE_Over_Neglect",
         "#BELIFT_Ensure_Artist_Welfare",
+        "#\u0936\u093f\u0935\u092e\u092f_UP",
         "#VishwanathAndSons",
-        "#RambaOorvasiMenaka",
-        "#Khalifa",
-        "#HusharPittaluOnAugust15"
+        "#HusharPittaluOnAugust15",
+        "#Khalifa"
       ],
       "regular_topics": [
         "Grok Bot",
@@ -153,48 +154,48 @@
         "HeyGen for Real Estate",
         "CELEBRATING PRIYANKA'S DAY",
         "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
+        "Enzo",
         "Noida International Airport",
         "The One",
+        "Umar",
         "Waqf",
-        "Venky",
-        "\u0936\u093f\u0935\u0915\u0941\u092e\u093e\u0930 \u0924\u093f\u0935\u093e\u0930\u0940",
-        "\u0936\u093f\u0935\u0915\u0941\u092e\u093e\u0930 \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940"
+        "\u0936\u093f\u0935\u0915\u0941\u092e\u093e\u0930 \u0924\u093f\u0935\u093e\u0930\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 11 2026 20:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 20:51:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Enzo",
         "Georgina",
+        "Enzo",
+        "Pogba",
+        "Team Gold",
         "Davido",
-        "#AjagaOnCircuitsTV",
-        "Paul Pogba",
-        "Huncho",
-        "Osun",
+        "Guinness",
         "AS Monaco",
-        "Trump",
-        "Skelly",
-        "Senator Fadahunsi"
+        "#AjagaOnCircuitsTV",
+        "Anderson",
+        "Osun",
+        "Huncho"
       ],
       "hashtags": [
         "#AjagaOnCircuitsTV",
         "#23YrsPoweredByGlo"
       ],
       "regular_topics": [
-        "Enzo",
         "Georgina",
+        "Enzo",
+        "Pogba",
+        "Team Gold",
         "Davido",
-        "Paul Pogba",
-        "Huncho",
-        "Osun",
+        "Guinness",
         "AS Monaco",
-        "Trump",
-        "Skelly",
-        "Senator Fadahunsi",
-        "Memecoin Madness"
+        "Anderson",
+        "Osun",
+        "Huncho",
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
