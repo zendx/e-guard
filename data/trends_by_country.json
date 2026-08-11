@@ -1,117 +1,117 @@
 {
-  "generated_at_utc": "2026-08-11T15:26:29.843243+00:00",
+  "generated_at_utc": "2026-08-11T16:14:53.288094+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 11 2026 14:31:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 15:24:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Christmas Day",
+        "Christmas",
         "Celtics",
+        "Lakers",
         "Sixers",
         "Knicks",
-        "Lakers",
-        "Good Tuesday",
         "Massachusetts",
-        "Pistons",
+        "Good Tuesday",
         "Taco Tuesday",
-        "Spurs",
-        "Adam Silver"
+        "Pistons",
+        "Warriors",
+        "Spurs"
       ],
       "hashtags": [
         "#StockMarket",
         "#Cybertruck",
-        "#OrgulloVenezolano",
-        "#TuesdayVibes",
-        "#TuesdayMotivation"
+        "#omegle",
+        "#teenageer",
+        "#OrgulloVenezolano"
       ],
       "regular_topics": [
-        "Christmas Day",
+        "Christmas",
         "Celtics",
+        "Lakers",
         "Sixers",
         "Knicks",
-        "Lakers",
-        "Good Tuesday",
         "Massachusetts",
-        "Pistons",
+        "Good Tuesday",
         "Taco Tuesday",
-        "Spurs",
-        "Adam Silver"
+        "Pistons",
+        "Warriors",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 11 2026 14:54:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 15:48:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bow Echo",
         "Skelly",
-        "#DragRaceUK",
-        "Diouf",
         "Greggs",
-        "Osun",
+        "Patto",
+        "Diouf",
+        "4 Liverpool",
+        "Roblox",
+        "#DragRaceUK",
+        "DJed",
         "Betting",
-        "Ben Wallace",
-        "Turkish",
-        "#aplaceinthesun",
-        "Barco",
-        "Vape"
+        "Osun"
       ],
       "hashtags": [
         "#DragRaceUK",
         "#aplaceinthesun",
-        "#thicktrunktuesday"
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
+        "Bow Echo",
         "Skelly",
-        "Diouf",
         "Greggs",
-        "Osun",
+        "Patto",
+        "Diouf",
+        "4 Liverpool",
+        "Roblox",
+        "DJed",
         "Betting",
-        "Ben Wallace",
-        "Turkish",
-        "Barco",
-        "Vape",
-        "Hardie",
-        "Yusuf"
+        "Osun",
+        "Vape"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 11 2026 14:48:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 15:40:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#momsonn",
         "#teenageer",
-        "1.67% Cu",
-        "#omegle",
-        "#tommavi",
         "Italy",
+        "#tommavi",
         "Copper Mountain",
-        "#nolimits",
+        "#omegle",
+        "#TejRan",
+        "Wilmac",
         "Red Sox",
         "Colombia",
-        "Wilmac"
+        "Tuscany"
       ],
       "hashtags": [
         "#momsonn",
         "#teenageer",
-        "#omegle",
         "#tommavi",
-        "#nolimits"
+        "#omegle",
+        "#TejRan"
       ],
       "regular_topics": [
-        "1.67% Cu",
         "Italy",
         "Copper Mountain",
+        "Wilmac",
         "Red Sox",
         "Colombia",
-        "Wilmac",
-        "McAdoo",
-        "Good Tuesday",
-        "Greenland",
         "Tuscany",
+        "Mcadoo",
+        "1.67% Cu",
+        "Greenland",
+        "Celtics",
         "Taillon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -119,60 +119,63 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 11 2026 14:44:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 15:36:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0936\u093f\u0935\u092e\u092f_UP",
         "#AmazonGreatFreedomSale",
         "#HitlerHemant",
-        "#BcmForORM",
+        "#NewShapeofGalaxy",
         "#BcmForXMarketing",
-        "#BrandsCareMedia",
-        "AFFORDABLE MARKETING BY BCM",
+        "ENGENES DEMAND HEESEUNG BACK",
+        "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
         "Shaun Pollock",
         "Bookings Open Now",
-        "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
-        "Brian Lara",
-        "\u092a\u0935\u0928 \u0916\u0947\u0921\u093c\u093e"
+        "AFFORDABLE MARKETING BY BCM",
+        "Allari Naresh"
       ],
       "hashtags": [
+        "#\u0936\u093f\u0935\u092e\u092f_UP",
         "#AmazonGreatFreedomSale",
         "#HitlerHemant",
-        "#BcmForORM",
-        "#BcmForXMarketing",
-        "#BrandsCareMedia",
         "#NewShapeofGalaxy",
-        "#RambaOorvasiMenaka"
+        "#BcmForXMarketing",
+        "#BcmForORM",
+        "#RambaOorvasiMenaka",
+        "#BrandsCareMedia",
+        "#VishwanathAndSons",
+        "#GMMTVLiveHouse"
       ],
       "regular_topics": [
-        "AFFORDABLE MARKETING BY BCM",
+        "ENGENES DEMAND HEESEUNG BACK",
+        "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
         "Shaun Pollock",
         "Bookings Open Now",
-        "\u0928\u094b\u090f\u0921\u093e \u0907\u0902\u091f\u0930\u0928\u0947\u0936\u0928\u0932",
+        "AFFORDABLE MARKETING BY BCM",
+        "Allari Naresh",
+        "Waqf",
         "Brian Lara",
         "\u092a\u0935\u0928 \u0916\u0947\u0921\u093c\u093e",
         "Umar Khalid",
-        "\u0939\u093f\u091f\u0932\u0930 \u0939\u0947\u092e\u0902\u0924",
-        "Azad Balochistan",
-        "Waqf",
-        "Bashar al-Assad"
+        "Ethereum"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 11 2026 14:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 15:36:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Trump",
         "Osun",
         "Skelly",
         "#BlockAndChillNairobi",
-        "Kalvin Phillips",
-        "#WeStandWithKimSooHyun",
-        "$LOBO",
+        "Matrix",
+        "David",
+        "Adeleke",
         "Iliman Ndiaye",
         "Barco",
-        "Adeleke",
-        "$COBY"
+        "#WeStandWithKimSooHyun",
+        "Kalvin Phillips"
       ],
       "hashtags": [
         "#BlockAndChillNairobi",
@@ -182,14 +185,14 @@
         "Trump",
         "Osun",
         "Skelly",
-        "Kalvin Phillips",
-        "$LOBO",
+        "Matrix",
+        "David",
+        "Adeleke",
         "Iliman Ndiaye",
         "Barco",
-        "Adeleke",
-        "$COBY",
-        "Lakers",
-        "Uncle"
+        "Kalvin Phillips",
+        "$LOBO",
+        "Sheffield United"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
