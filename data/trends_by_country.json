@@ -1,81 +1,82 @@
 {
-  "generated_at_utc": "2026-08-11T08:55:52.672097+00:00",
+  "generated_at_utc": "2026-08-11T09:49:09.058346+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 11 2026 08:28:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 09:20:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RIZIN54",
         "#WWERaw",
         "#BlitzMOVE1",
-        "#RIZIN54",
         "Massachusetts",
         "Timms",
-        "ICE ELATION",
+        "#5rt5as",
         "Maura Healey",
+        "ICE ELATION",
         "Bruce Lee",
         "Air Force One",
-        "Chuck Norris",
-        "Bloodline"
+        "Murder"
       ],
       "hashtags": [
+        "#RIZIN54",
         "#WWERaw",
         "#BlitzMOVE1",
-        "#RIZIN54",
         "#5rt5as",
-        "#BelowDeckMed"
+        "#momsonn",
+        "#teenageer"
       ],
       "regular_topics": [
         "Massachusetts",
         "Timms",
-        "ICE ELATION",
         "Maura Healey",
+        "ICE ELATION",
         "Bruce Lee",
         "Air Force One",
-        "Chuck Norris",
+        "Murder",
         "Bloodline",
-        "Cam Smith",
-        "Congratulations Kennedy",
-        "Muncy"
+        "Chuck Norris",
+        "Demonic",
+        "Congratulations Kennedy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 11 2026 08:00:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 08:52:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "El Salvador",
+        "Reliable IPTV",
         "#thicktrunktuesday",
-        "#Pano",
-        "#bbcbreakfast",
         "#PARKIFY",
+        "DM Me",
         "Ben Wallace",
-        "McNeil",
+        "#ASongOrMovieForThePlayground",
+        "#bbcbreakfast",
+        "Infantino",
         "Bezos",
-        "#WWERaw",
-        "Colombia",
-        "Tory"
+        "McNeil"
       ],
       "hashtags": [
         "#thicktrunktuesday",
-        "#Pano",
-        "#bbcbreakfast",
         "#PARKIFY",
+        "#ASongOrMovieForThePlayground",
+        "#bbcbreakfast",
         "#WWERaw"
       ],
       "regular_topics": [
         "El Salvador",
+        "Reliable IPTV",
+        "DM Me",
         "Ben Wallace",
-        "McNeil",
-        "Bezos",
-        "Colombia",
-        "Tory",
         "Infantino",
-        "Charlie Downes",
-        "Amy Hunt",
-        "Mohammad Hassan",
-        "Percy"
+        "Bezos",
+        "McNeil",
+        "Betting",
+        "Colombia",
+        "Vape",
+        "Tory"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -165,37 +166,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 11 2026 08:42:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 09:33:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Taco Tuesday",
-        "AND THE LORD REVERSED IT",
-        "Coventry",
         "Kudiwave Vs Palmpay",
+        "Taco Tuesday",
+        "Lukaku",
+        "Coventry",
+        "Napoli",
+        "AND THE LORD REVERSED IT",
         "$MOMO",
+        "Air Peace",
         "Judy Austin",
         "RC Strasbourg",
-        "Orenji",
-        "Filip Jorgensen",
-        "Today is Tuesday",
-        "Blessed Tuesday"
+        "Shea Charles"
       ],
       "hashtags": [
-        "#momsonn",
-        "#teenageer",
-        "#FloridaMeets"
+        "#momsonn"
       ],
       "regular_topics": [
-        "Taco Tuesday",
-        "AND THE LORD REVERSED IT",
-        "Coventry",
         "Kudiwave Vs Palmpay",
+        "Taco Tuesday",
+        "Lukaku",
+        "Coventry",
+        "Napoli",
+        "AND THE LORD REVERSED IT",
         "$MOMO",
+        "Air Peace",
         "Judy Austin",
         "RC Strasbourg",
-        "Orenji",
-        "Filip Jorgensen",
-        "Today is Tuesday",
-        "Blessed Tuesday"
+        "Shea Charles"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
