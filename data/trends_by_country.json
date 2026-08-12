@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-12T06:49:04.381136+00:00",
+  "generated_at_utc": "2026-08-12T08:07:01.891359+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 06:08:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 07:00:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hong",
         "Milwaukee",
-        "taekook",
         "Wisconsin",
+        "taekook",
         "jungkook",
-        "Mike Lindell",
-        "#WWENXT",
+        "Lindell",
         "Kornacki",
-        "Flanagan",
         "Evan Phillips",
-        "Mookie"
+        "Flanagan",
+        "Dan Heng",
+        "#WWENXT"
       ],
       "hashtags": [
         "#WWENXT",
@@ -26,166 +26,168 @@
       "regular_topics": [
         "Hong",
         "Milwaukee",
-        "taekook",
         "Wisconsin",
+        "taekook",
         "jungkook",
-        "Mike Lindell",
+        "Lindell",
         "Kornacki",
-        "Flanagan",
         "Evan Phillips",
-        "Mookie",
-        "Zilla Fatu"
+        "Flanagan",
+        "Dan Heng",
+        "Tony Evers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 06:33:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 07:27:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cobra",
-        "taekook",
+        "#RoseWednesday",
+        "#bbcbreakfast",
         "Ben Wallace",
         "Skelly",
-        "#RoseWednesday",
+        "Tony Christie",
+        "Baby Dog",
+        "#WindowsOnWednesday",
         "#InternationalYouthDay",
         "Stadlen",
-        "El Salvador",
-        "Betting",
-        "John Cleese",
-        "#bbcbreakfast"
+        "taekook"
       ],
       "hashtags": [
         "#RoseWednesday",
-        "#InternationalYouthDay",
         "#bbcbreakfast",
-        "#Wordle1880",
-        "#Birmingham2026"
+        "#WindowsOnWednesday",
+        "#InternationalYouthDay",
+        "#Woodensday"
       ],
       "regular_topics": [
         "Cobra",
-        "taekook",
         "Ben Wallace",
         "Skelly",
+        "Tony Christie",
+        "Baby Dog",
         "Stadlen",
-        "El Salvador",
-        "Betting",
+        "taekook",
         "John Cleese",
+        "El Salvador",
         "Lucy Davis",
-        "Afghans",
-        "Zilla Fatu"
+        "Betting"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 06:28:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 07:20:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#momsonn",
         "wilmac",
         "taekook",
         "#teenageer",
         "#DWCS",
-        "#VWFC",
         "1.67% cu",
-        "jungkook",
+        "copper mountain",
         "#WWENXT",
-        "Crowley",
-        "copper mountain"
+        "Hong",
+        "jungkook",
+        "Italy"
       ],
       "hashtags": [
         "#momsonn",
         "#teenageer",
         "#DWCS",
-        "#VWFC",
-        "#WWENXT"
+        "#WWENXT",
+        "#tommavi"
       ],
       "regular_topics": [
         "wilmac",
         "taekook",
         "1.67% cu",
-        "jungkook",
-        "Crowley",
         "copper mountain",
         "Hong",
+        "jungkook",
         "Italy",
         "Tuscany",
+        "Wisconsin",
         "Air Force One",
-        "Tigres"
+        "Crowley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 06:24:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 07:15:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#realme16x",
         "#InternationalYouthDay",
         "#MadhuriDixitOnKHC",
-        "#\u0936\u093f\u0935\u092e\u092f_UP_",
-        "#HydrogenStockOnRadar",
-        "Tata Sons",
-        "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
-        "#WorldElephantDay",
-        "taekook",
-        "Spiritual Wisdom",
-        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936"
+        "#winRedmiNote17",
+        "#TataSons",
+        "A. 8000mAh",
+        "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "50MP AI Camera",
+        "A. The mAhster Edition",
+        "B. 45W",
+        "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908"
       ],
       "hashtags": [
+        "#realme16x",
         "#InternationalYouthDay",
         "#MadhuriDixitOnKHC",
+        "#winRedmiNote17",
+        "#TataSons",
         "#\u0936\u093f\u0935\u092e\u092f_UP_",
-        "#HydrogenStockOnRadar",
-        "#WorldElephantDay"
+        "#NChandrasekaran",
+        "#Baththa"
       ],
       "regular_topics": [
-        "Tata Sons",
+        "A. 8000mAh",
+        "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "50MP AI Camera",
+        "A. The mAhster Edition",
+        "B. 45W",
         "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
+        "A. Android 16",
         "taekook",
-        "Spiritual Wisdom",
-        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "Saint Gurmeet Ram Rahim Ji",
-        "Gujarat Titans",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923"
+        "VC Cooling",
+        "B. Starlight Purple",
+        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 06:24:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 07:15:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Amen",
         "Osun",
         "Olamide",
         "Trump",
-        "Amen",
         "Davido",
         "Enzo",
-        "Skelly",
         "Georgina",
+        "Skelly",
         "GM CT",
         "$TOAD",
         "Blessed Wednesday"
       ],
       "hashtags": [
-        "#23yrspoweredbyglo",
         "#ajagaoncircuitstv",
         "#blockandchillnairobi"
       ],
       "regular_topics": [
+        "Amen",
         "Osun",
         "Olamide",
         "Trump",
-        "Amen",
         "Davido",
         "Enzo",
-        "Skelly",
         "Georgina",
+        "Skelly",
         "GM CT",
         "$TOAD",
         "Blessed Wednesday"
