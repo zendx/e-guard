@@ -1,165 +1,170 @@
 {
-  "generated_at_utc": "2026-08-12T03:00:49.833666+00:00",
+  "generated_at_utc": "2026-08-12T05:10:15.323610+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 02:42:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 04:24:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWENXT",
         "Crowley",
         "Hong",
-        "#DWCS",
+        "taekook",
+        "#WWENXT",
         "Zilla Fatu",
-        "JUST ONE DAY",
-        "Rucker",
-        "Jacob Webb",
-        "Luis Rengifo",
-        "Dane",
-        "Blake Snell"
+        "Evan Phillips",
+        "Flanagan",
+        "Wisconsin",
+        "Blake Snell",
+        "Lindell",
+        "Alex Call"
       ],
       "hashtags": [
         "#WWENXT",
         "#DWCS",
-        "#TopChefVIP5",
-        "#AGT"
+        "#WIGov"
       ],
       "regular_topics": [
         "Crowley",
         "Hong",
+        "taekook",
         "Zilla Fatu",
-        "JUST ONE DAY",
-        "Rucker",
-        "Jacob Webb",
-        "Luis Rengifo",
-        "Dane",
+        "Evan Phillips",
+        "Flanagan",
+        "Wisconsin",
         "Blake Snell",
-        "Sean Burke",
-        "Matt Olson"
+        "Lindell",
+        "Alex Call",
+        "JUST ONE DAY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 02:15:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 04:51:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWENXT",
-        "#DWCS",
-        "Skelly",
+        "taekook",
         "Ben Wallace",
+        "Skelly",
+        "#WWENXT",
         "Zilla Fatu",
         "El Salvador",
-        "#PARKIFY",
         "Betting",
+        "jungkook",
         "Lucy Davis",
         "Afghans",
-        "John Cleese"
+        "Vape"
       ],
       "hashtags": [
         "#WWENXT",
-        "#DWCS",
-        "#PARKIFY",
         "#Birmingham2026",
-        "#thicktrunktuesday"
+        "#Wordle1880",
+        "#DWCS",
+        "#Thicktrunktuesday"
       ],
       "regular_topics": [
-        "Skelly",
+        "taekook",
         "Ben Wallace",
+        "Skelly",
         "Zilla Fatu",
         "El Salvador",
         "Betting",
+        "jungkook",
         "Lucy Davis",
         "Afghans",
-        "John Cleese",
         "Vape",
-        "Enzo",
-        "Fluffy"
+        "John Cleese"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 02:04:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 04:44:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#momsonn",
+        "taekook",
+        "wilmac",
         "#teenageer",
         "#DWCS",
-        "wilmac",
+        "#VWFC",
+        "Hong",
+        "jungkook",
+        "1.67% cu",
         "#WWENXT",
-        "Brett Bateman",
-        "#BlueJays50",
-        "Spencer Miles",
-        "Myles Straw",
-        "Vladdy",
         "Italy"
       ],
       "hashtags": [
         "#momsonn",
         "#teenageer",
         "#DWCS",
-        "#WWENXT",
-        "#BlueJays50"
+        "#VWFC",
+        "#WWENXT"
       ],
       "regular_topics": [
+        "taekook",
         "wilmac",
-        "Brett Bateman",
-        "Spencer Miles",
-        "Myles Straw",
-        "Vladdy",
-        "Italy",
+        "Hong",
+        "jungkook",
         "1.67% cu",
-        "Brendon Little",
+        "Italy",
         "copper mountain",
+        "Crowley",
+        "Brett Bateman",
         "Tuscany",
-        "Air Force One"
+        "Tigres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 02:01:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 04:40:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#InternationalYouthDay",
-        "Saint Gurmeet Ram Rahim Ji",
-        "#GodMorningWednesday",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "#\u0936\u093f\u0935\u092e\u092f_UP_",
+        "#HydrogenStockOnRadar",
+        "Spiritual Wisdom",
         "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "#AdaniCaseDismissed",
-        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "#bcmfororm",
-        "#bcmforxmarketing"
+        "Saint Gurmeet Ram Rahim Ji",
+        "#AsharamjiBapuQuotes",
+        "taekook",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "#GodMorningWednesday",
+        "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915"
       ],
       "hashtags": [
         "#InternationalYouthDay",
+        "#\u0936\u093f\u0935\u092e\u092f_UP_",
+        "#HydrogenStockOnRadar",
+        "#AsharamjiBapuQuotes",
         "#GodMorningWednesday",
-        "#AdaniCaseDismissed",
-        "#bcmfororm",
-        "#bcmforxmarketing"
+        "#VikramSarabhai",
+        "#WorldElephantDay",
+        "#HariyaliAmavasya",
+        "#\u0939\u0930\u093f\u092f\u093e\u0932\u0940_\u0905\u092e\u093e\u0935\u0938\u094d\u092f\u093e",
+        "#YouthPower",
+        "#HBDayJagdishVishwakarma"
       ],
       "regular_topics": [
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Spiritual Wisdom",
         "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "Saint Gurmeet Ram Rahim Ji",
+        "taekook",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u092e\u0939\u093e\u0928 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
-        "DEPTH",
-        "ashnisha industries",
-        "Jharkhand",
-        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928",
-        "Colombia"
+        "Anmol Vachan",
+        "250 Cr",
+        "DEPTH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 02:00:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 04:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Osun",
         "Olamide",
@@ -167,18 +172,18 @@
         "Davido",
         "Skelly",
         "Enzo",
+        "Graveth",
         "Georgina",
         "$TOAD",
-        "Baltimore, MD",
         "Baddo",
-        "$BULLWHALE"
+        "$bullwhale"
       ],
       "hashtags": [
-        "#23yrspoweredbyglo",
         "#buyingcontent",
-        "#ajagaoncircuitstv",
+        "#23yrspoweredbyglo",
+        "#nsfwtwt\u064b\u064b",
         "#latina",
-        "#blockandchillnairobi"
+        "#ajagaoncircuitstv"
       ],
       "regular_topics": [
         "Osun",
@@ -187,11 +192,11 @@
         "Davido",
         "Skelly",
         "Enzo",
+        "Graveth",
         "Georgina",
         "$TOAD",
-        "Baltimore, MD",
         "Baddo",
-        "$BULLWHALE"
+        "$bullwhale"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
