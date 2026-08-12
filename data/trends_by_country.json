@@ -1,198 +1,196 @@
 {
-  "generated_at_utc": "2026-08-12T17:23:28.250673+00:00",
+  "generated_at_utc": "2026-08-12T18:12:12.995597+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 16:37:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 17:30:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lakers",
         "Mark Walter",
-        "Bob Iger",
-        "Hong",
         "Grok 4.6",
+        "Kushner",
+        "Hong",
         "Crowley",
         "Wisconsin",
+        "Paradise Lost",
         "#XMen97",
-        "Polls",
-        "Thanksgiving",
-        "#Cybertruck"
+        "#Cybertruck",
+        "Thanksgiving"
       ],
       "hashtags": [
         "#XMen97",
         "#Cybertruck",
         "#ElonMusk",
         "#MoonshadowSeriesEP1",
-        "#MakeAWishForJaemin"
+        "#LakeShow"
       ],
       "regular_topics": [
         "Lakers",
         "Mark Walter",
-        "Bob Iger",
-        "Hong",
         "Grok 4.6",
+        "Kushner",
+        "Hong",
         "Crowley",
         "Wisconsin",
-        "Polls",
+        "Paradise Lost",
         "Thanksgiving",
         "Minnesota",
-        "NBA Cup"
+        "Polls"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 17:01:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 17:52:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#eclipse",
         "Botman",
-        "#thechase",
+        "Tyrique George",
+        "Thierno Barry",
         "Rory Jennings",
-        "Spence",
-        "BBQs",
+        "Armstrong",
         "Mykolenko",
-        "Brunt",
-        "Jonathan David",
-        "Murrayfield",
-        "COBRA"
+        "Bonnie Tyler",
+        "Osula",
+        "Everton",
+        "#thechase"
       ],
       "hashtags": [
         "#eclipse",
         "#thechase",
-        "#MoonshadowSeriesEP1",
-        "#BBUK",
-        "#VoteBinface"
+        "#MoonshadowSeriesEP1"
       ],
       "regular_topics": [
         "Botman",
+        "Tyrique George",
+        "Thierno Barry",
         "Rory Jennings",
-        "Spence",
-        "BBQs",
+        "Armstrong",
         "Mykolenko",
-        "Brunt",
-        "Jonathan David",
-        "Murrayfield",
-        "COBRA",
-        "Grok 4.6",
-        "Konsa"
+        "Bonnie Tyler",
+        "Osula",
+        "Everton",
+        "BBQs",
+        "Spence"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 16:54:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 17:45:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Grok 4.6",
-        "Lakers",
         "NREDF",
+        "#SmallCaps",
+        "#StockAnalysis",
+        "#GrowthStocks",
+        "#MarketNews",
+        "Grok 4.6",
         "#teenageer",
-        "Kristi Noem",
-        "#momsonn",
-        "Bob Iger",
+        "Lakers",
         "Hong",
-        "Air Force One",
-        "#DWCS",
-        "Tuscany"
+        "Kristi Noem",
+        "Air Force One"
       ],
       "hashtags": [
-        "#teenageer",
-        "#momsonn",
-        "#DWCS",
-        "#WWENXT",
-        "#SmallCaps"
+        "#SmallCaps",
+        "#StockAnalysis",
+        "#GrowthStocks",
+        "#MarketNews",
+        "#teenageer"
       ],
       "regular_topics": [
+        "NREDF",
         "Grok 4.6",
         "Lakers",
-        "NREDF",
-        "Kristi Noem",
-        "Bob Iger",
         "Hong",
+        "Kristi Noem",
         "Air Force One",
+        "Wilmac",
         "Tuscany",
-        "Mark Walter",
+        "Crowley",
         "Kushner",
-        "Crowley"
+        "taekook"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 16:51:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 17:42:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "FUKRA FEVER IN TRAITORS",
         "#VantaraCelebratesElephantDay",
         "#AdaniSatyamevJayate",
-        "TRP KING MUNAWAR IN TRAITORS",
         "Grok 4.6",
         "#GodNightWednesday",
-        "#RaviTeja",
         "East Bengal",
         "#ENconnected_As_SevEN",
-        "BELIFT PUT ARTISTS OVER PROFIT",
         "Bank of America",
-        "$MOTION"
+        "#No_Funds_For_HYBE",
+        "BELIFT PUT ARTISTS OVER PROFIT",
+        "Jio Credit"
       ],
       "hashtags": [
         "#VantaraCelebratesElephantDay",
         "#AdaniSatyamevJayate",
         "#GodNightWednesday",
-        "#RaviTeja",
-        "#ENconnected_As_SevEN"
+        "#ENconnected_As_SevEN",
+        "#No_Funds_For_HYBE"
       ],
       "regular_topics": [
-        "TRP KING MUNAWAR IN TRAITORS",
+        "FUKRA FEVER IN TRAITORS",
         "Grok 4.6",
         "East Bengal",
-        "BELIFT PUT ARTISTS OVER PROFIT",
         "Bank of America",
+        "BELIFT PUT ARTISTS OVER PROFIT",
+        "Jio Credit",
         "$MOTION",
         "MAHER OUR SUKOON",
-        "Gautam Adani",
+        "Jio Financial Services",
         "\u092c\u093f\u091c\u0932\u0940 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Eoin Morgan",
-        "Season 2"
+        "BofA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 16:48:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 17:40:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$MOTION",
-        "#Panpangolo",
+        "Yolly Social",
         "#VoteOyebamiji",
+        "#AjagaonCircuits",
+        "#Panpangolo",
+        "Grok 4.6",
+        "#BBNaijaxSupaKomando",
         "International Youth Day",
         "Senne Lammens",
-        "Grok 4.6",
-        "#AjagaonCircuits",
-        "Garnacho",
-        "Aston Villa",
-        "Happy 9th",
-        "Brain Jotter"
+        "#LockInFireOn",
+        "Aston Villa"
       ],
       "hashtags": [
-        "#Panpangolo",
         "#VoteOyebamiji",
         "#AjagaonCircuits",
-        "#DTNAt100",
-        "#OsunDecides"
+        "#Panpangolo",
+        "#BBNaijaxSupaKomando",
+        "#LockInFireOn"
       ],
       "regular_topics": [
         "$MOTION",
+        "Yolly Social",
+        "Grok 4.6",
         "International Youth Day",
         "Senne Lammens",
-        "Grok 4.6",
-        "Garnacho",
         "Aston Villa",
-        "Happy 9th",
         "Brain Jotter",
-        "Spence",
-        "Cristiano Ronaldo",
-        "TipFi"
+        "Konsa",
+        "Galatasaray",
+        "$GTA",
+        "Lamine Camara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
