@@ -1,123 +1,120 @@
 {
-  "generated_at_utc": "2026-08-12T15:25:14.051517+00:00",
+  "generated_at_utc": "2026-08-12T16:14:18.991771+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 14:54:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 15:45:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mark Walter",
         "Lakers",
+        "Mark Walter",
         "Bob Iger",
         "Hong",
-        "Wisconsin",
         "Crowley",
+        "Wisconsin",
         "Good Wednesday",
         "Thanksgiving",
-        "Hump Day",
+        "#XMen97",
         "Minnesota",
-        "#XMen97"
+        "Polls"
       ],
       "hashtags": [
         "#XMen97",
-        "#WednesdayMotivation",
         "#MoonshadowSeriesEP1",
+        "#WednesdayMotivation",
         "#Mar\u00edaCorinaAcabada",
         "#WednesdayWisdom"
       ],
       "regular_topics": [
-        "Mark Walter",
         "Lakers",
+        "Mark Walter",
         "Bob Iger",
         "Hong",
-        "Wisconsin",
         "Crowley",
+        "Wisconsin",
         "Good Wednesday",
         "Thanksgiving",
-        "Hump Day",
         "Minnesota",
-        "Polls"
+        "Polls",
+        "Mike Lindell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 14:28:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 15:19:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#eclipse",
-        "BBQs",
-        "Cobra",
         "Spence",
+        "BBQs",
+        "COBRA",
         "HMOs",
-        "GERS",
-        "Engels",
         "Baur",
-        "RIP Ann",
-        "Stadlen",
-        "Simon Levy"
+        "GERS",
+        "Quest For Stars",
+        "Moyes",
+        "Engels",
+        "Porro"
       ],
       "hashtags": [
         "#eclipse",
+        "#MoonshadowSeriesEP1",
         "#BBUK",
-        "#XMen97",
-        "#InternationalYouthDay",
-        "#VoteBinface",
-        "#RoseWednesday",
-        "#heatwave",
-        "#jeremyvine"
+        "#aplaceinthesun",
+        "#XMen97"
       ],
       "regular_topics": [
-        "BBQs",
-        "Cobra",
         "Spence",
+        "BBQs",
+        "COBRA",
         "HMOs",
-        "GERS",
-        "Engels",
         "Baur",
-        "RIP Ann",
-        "Stadlen",
-        "Simon Levy",
-        "Hatate"
+        "GERS",
+        "Quest For Stars",
+        "Moyes",
+        "Engels",
+        "Porro",
+        "RIP Ann"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 15:12:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 16:03:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lakers",
-        "Mark Walter",
         "Josh Kushner",
         "#teenageer",
-        "Bob Iger",
         "1.67% Cu",
+        "Grok 4.6",
         "#momsonn",
-        "Copper Mountain",
+        "copper mountain",
+        "Bob Iger",
         "NRED",
-        "Air Force One",
-        "#DWCS"
+        "Hong",
+        "Air Force One"
       ],
       "hashtags": [
         "#teenageer",
         "#momsonn",
         "#DWCS",
-        "#InternationalYouthDay",
-        "#WWENXT"
+        "#WWENXT",
+        "#nolimits"
       ],
       "regular_topics": [
         "Lakers",
-        "Mark Walter",
         "Josh Kushner",
-        "Bob Iger",
         "1.67% Cu",
-        "Copper Mountain",
+        "Grok 4.6",
+        "copper mountain",
+        "Bob Iger",
         "NRED",
-        "Air Force One",
         "Hong",
-        "Tuscany",
-        "Hump Day"
+        "Air Force One",
+        "Mark Walter",
+        "Tuscany"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -163,25 +160,25 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 15:06:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 15:57:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$MOTION",
+        "#Panpangolo",
         "International Youth Day",
         "Happy 9th",
         "Garnacho",
+        "Senne Lammens",
         "#DTNAt100",
         "Spence",
-        "Cristiano Ronaldo",
-        "RIP Jorge Messi",
         "Aston Villa",
-        "#IYD2026",
-        "Rivalry"
+        "Cristiano Ronaldo",
+        "RIP Jorge Messi"
       ],
       "hashtags": [
+        "#Panpangolo",
         "#DTNAt100",
         "#IYD2026",
-        "#NoPresidentialAssent",
-        "#RecallTobaccoBill",
+        "#BBNaijaFans",
         "#\u00c9clipse"
       ],
       "regular_topics": [
@@ -189,13 +186,13 @@
         "International Youth Day",
         "Happy 9th",
         "Garnacho",
+        "Senne Lammens",
         "Spence",
+        "Aston Villa",
         "Cristiano Ronaldo",
         "RIP Jorge Messi",
-        "Aston Villa",
-        "Rivalry",
-        "THE BLUETHOPIA ERA",
-        "BLUETHOPIA WINS IT"
+        "Grok 4.6",
+        "Lakers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
