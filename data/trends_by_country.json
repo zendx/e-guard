@@ -1,24 +1,25 @@
 {
-  "generated_at_utc": "2026-08-12T09:34:54.413066+00:00",
+  "generated_at_utc": "2026-08-12T10:47:44.482255+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 08:45:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 09:39:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hong",
         "Crowley",
         "Wisconsin",
+        "Good Wednesday",
         "Milwaukee",
         "Xtoken",
-        "taekook",
+        "#BlitzMOVE1",
+        "Mike Lindell",
         "Tiffany",
         "Dan Heng",
-        "Tony Evers",
-        "Mike Lindell",
-        "jungkook"
+        "taekook"
       ],
       "hashtags": [
+        "#BlitzMOVE1",
         "#WWENXT",
         "#WIGov"
       ],
@@ -26,38 +27,38 @@
         "Hong",
         "Crowley",
         "Wisconsin",
+        "Good Wednesday",
         "Milwaukee",
         "Xtoken",
-        "taekook",
+        "Mike Lindell",
         "Tiffany",
         "Dan Heng",
-        "Tony Evers",
-        "Mike Lindell",
-        "jungkook"
+        "taekook",
+        "Tony Evers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 09:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 10:03:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "COBRA",
         "HMOs",
         "#eclipse",
         "Ben Wallace",
-        "#RoseWednesday",
-        "Skelly",
-        "#bbcbreakfast",
-        "#ASongOrMovieForAllDrivers",
         "John Cleese",
-        "Stadlen",
-        "Tony Christie"
+        "Skelly",
+        "Boycott",
+        "RIP Ann",
+        "Welcome to Chelsea",
+        "#popmaster",
+        "Stadlen"
       ],
       "hashtags": [
         "#eclipse",
+        "#popmaster",
         "#RoseWednesday",
-        "#bbcbreakfast",
         "#ASongOrMovieForAllDrivers",
         "#InternationalYouthDay"
       ],
@@ -65,13 +66,13 @@
         "COBRA",
         "HMOs",
         "Ben Wallace",
-        "Skelly",
         "John Cleese",
-        "Stadlen",
-        "Tony Christie",
-        "Welcome to Chelsea",
+        "Skelly",
         "Boycott",
-        "Burnham",
+        "RIP Ann",
+        "Welcome to Chelsea",
+        "Stadlen",
+        "Gateshead",
         "Lucy Davis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -79,120 +80,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 09:03:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 09:56:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#momsonn",
         "wilmac",
         "#teenageer",
-        "#DWCS",
         "1.67% cu",
+        "#DWCS",
         "copper mountain",
         "#WWENXT",
         "taekook",
-        "Tuscany",
-        "#tommavi",
-        "Italy"
+        "#Tommavi",
+        "Italy",
+        "Air Force One"
       ],
       "hashtags": [
         "#momsonn",
         "#teenageer",
         "#DWCS",
         "#WWENXT",
-        "#tommavi"
+        "#Tommavi"
       ],
       "regular_topics": [
         "wilmac",
         "1.67% cu",
         "copper mountain",
         "taekook",
-        "Tuscany",
         "Italy",
         "Air Force One",
-        "Hong",
-        "XAUUSD",
-        "Which Crypto",
-        "Red Sox"
+        "Tuscany",
+        "Red Sox",
+        "Metrolinx",
+        "jungkook",
+        "Christmas Day"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 08:57:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 09:52:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SuryaWithJharkhandYouth",
         "#MadhuriDixitOnKHC",
-        "#realme16x",
         "#winRedmiNote17",
-        "#InternationalYouthDay",
-        "#TataSons",
+        "#realme16x",
+        "\u0938\u0942\u0930\u094d\u092f\u093e \u0938\u094b\u0928\u0932 \u0938\u093f\u0902\u0939",
+        "#Baththa",
+        "\u092f\u094b\u0917\u0940 \u0906\u0926\u093f\u0924\u094d\u092f\u0928\u093e\u0925",
         "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "A. 8000mAh",
         "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
-        "A. Android 16",
-        "A. The mAhster Edition",
-        "B. 45W"
+        "Medininagar",
+        "A. 8000mAh"
       ],
       "hashtags": [
+        "#SuryaWithJharkhandYouth",
         "#MadhuriDixitOnKHC",
-        "#realme16x",
         "#winRedmiNote17",
-        "#InternationalYouthDay",
-        "#TataSons",
-        "#Baththa",
-        "#NChandrasekaran",
-        "#Haiwaan",
-        "#VJSxBalajiCombo",
-        "#AmitShah",
-        "#WorldElephantDay"
+        "#realme16x",
+        "#Baththa"
       ],
       "regular_topics": [
-        "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
-        "A. 8000mAh",
-        "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
-        "A. Android 16",
-        "A. The mAhster Edition",
-        "B. 45W",
-        "50MP AI Camera",
-        "B. 50MP High-resolution",
-        "B. Starlight Purple",
+        "\u0938\u0942\u0930\u094d\u092f\u093e \u0938\u094b\u0928\u0932 \u0938\u093f\u0902\u0939",
         "\u092f\u094b\u0917\u0940 \u0906\u0926\u093f\u0924\u094d\u092f\u0928\u093e\u0925",
-        "$MOTION"
+        "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
+        "Medininagar",
+        "A. 8000mAh",
+        "A. Android 16",
+        "B. 45W",
+        "A. The mAhster Edition",
+        "$MOTION",
+        "UPESSC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 08:57:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 09:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Pep Chavarria",
         "Welcome to Chelsea",
-        "Uniswap",
-        "International Youth Day",
         "$MOTION",
-        "Alberich Token",
+        "International Youth Day",
+        "Uniswap",
         "$ALBRH",
-        "INSTANT MERCY TURNAROUND",
+        "Policy Conference 2026",
+        "Alberich Token",
+        "Team B",
         "Welcome Pep",
-        "Rayo Vallecano",
-        "#\u00c9clipse"
+        "Rayo Vallecano"
       ],
       "hashtags": [
         "#\u00c9clipse",
-        "#ErenB\u00fclb\u00fcl"
+        "#IYD2026",
+        "#SuperCup",
+        "#ErenB\u00fclb\u00fcl",
+        "#avfc"
       ],
       "regular_topics": [
         "Pep Chavarria",
         "Welcome to Chelsea",
-        "Uniswap",
-        "International Youth Day",
         "$MOTION",
-        "Alberich Token",
+        "International Youth Day",
+        "Uniswap",
         "$ALBRH",
-        "INSTANT MERCY TURNAROUND",
+        "Policy Conference 2026",
+        "Alberich Token",
+        "Team B",
         "Welcome Pep",
-        "Rayo Vallecano",
-        "Sam Loco"
+        "Rayo Vallecano"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
