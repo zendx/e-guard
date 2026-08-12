@@ -1,45 +1,46 @@
 {
-  "generated_at_utc": "2026-08-11T23:10:37.214421+00:00",
+  "generated_at_utc": "2026-08-12T00:03:58.839771+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 11 2026 22:21:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 23:12:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Grok Bot",
-        "$CRWV",
-        "Secret Service",
         "Nicholas Hoult",
-        "Kyler",
+        "Riley Roberts",
+        "Honduras",
+        "Grok Bot",
+        "Secret Service",
         "Massachusetts",
+        "$CRWV",
+        "Temporary",
+        "#DWCS",
         "The Elder Scrolls VI",
-        "USSS",
-        "Coby Bryant",
-        "JJ McCarthy",
-        "Vikings"
+        "Appalachian State"
       ],
       "hashtags": [
-        "#Madden27"
+        "#DWCS",
+        "#NationalRaspberryTartDay"
       ],
       "regular_topics": [
-        "Grok Bot",
-        "$CRWV",
-        "Secret Service",
         "Nicholas Hoult",
-        "Kyler",
+        "Riley Roberts",
+        "Honduras",
+        "Grok Bot",
+        "Secret Service",
         "Massachusetts",
+        "$CRWV",
+        "Temporary",
         "The Elder Scrolls VI",
-        "USSS",
-        "Coby Bryant",
-        "JJ McCarthy",
-        "Vikings"
+        "Appalachian State",
+        "Kyler"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 11 2026 22:44:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 23:39:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Skelly",
         "Ben Wallace",
@@ -47,18 +48,18 @@
         "FULL TIME",
         "#PARKIFY",
         "Betting",
-        "#PUSB",
+        "Nicholas Hoult",
         "Lucy Davis",
         "Afghans",
         "Vape",
-        "Nicholas Hoult"
+        "John Cleese"
       ],
       "hashtags": [
         "#PARKIFY",
         "#PUSB",
         "#Birmingham2026",
-        "#MondayMotivation",
-        "#Sams80s"
+        "#Sams80s",
+        "#DWCS"
       ],
       "regular_topics": [
         "Skelly",
@@ -66,19 +67,19 @@
         "El Salvador",
         "FULL TIME",
         "Betting",
+        "Nicholas Hoult",
         "Lucy Davis",
         "Afghans",
         "Vape",
-        "Nicholas Hoult",
-        "Fluffy",
-        "John Cleese"
+        "John Cleese",
+        "Fluffy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 11 2026 22:37:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 23:30:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#teenageer",
         "#momsonn",
@@ -89,8 +90,8 @@
         "1.67% Cu",
         "Copper Mountain",
         "Tuscany",
-        "#tommavi",
-        "Air Force One"
+        "Dylan Cease",
+        "#tommavi"
       ],
       "hashtags": [
         "#teenageer",
@@ -105,10 +106,10 @@
         "1.67% Cu",
         "Copper Mountain",
         "Tuscany",
-        "Air Force One",
-        "Woke 1",
+        "Dylan Cease",
         "Colombia",
         "Greenland",
+        "Woke 1",
         "Shaun Chen",
         "Red Sox"
       ],
@@ -117,11 +118,11 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 11 2026 22:33:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 23:27:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AdaniCaseDismissed",
-        "#bcmfororm",
         "#bcmforxmarketing",
+        "#bcmfororm",
         "#HarGharTiranga",
         "#AmazonGreatFreedomSale",
         "ashnisha industries",
@@ -133,8 +134,8 @@
       ],
       "hashtags": [
         "#AdaniCaseDismissed",
-        "#bcmfororm",
         "#bcmforxmarketing",
+        "#bcmfororm",
         "#HarGharTiranga",
         "#AmazonGreatFreedomSale"
       ],
@@ -145,30 +146,30 @@
         "\u0906\u0915\u093e\u0936 \u0906\u0928\u0902\u0926",
         "affordable marketing by bcm",
         "Vande Mataram",
-        "\u0916\u0941\u0926\u0940\u0930\u093e\u092e \u092c\u094b\u0938",
         "\u092e\u0902\u0917\u0932 \u092e\u093f\u0932\u0928",
+        "\u0916\u0941\u0926\u0940\u0930\u093e\u092e \u092c\u094b\u0938",
         "\u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928",
         "A. 7050mAh",
-        "B. 44W FlashCharge"
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 11 2026 22:33:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 11 2026 23:27:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Georgina",
         "Enzo",
         "Congratulations to the GOAT",
         "Pogba",
         "Sultex",
-        "Guinness",
-        "Cascais",
         "Congratulations CR7",
-        "AS Monaco",
+        "Cascais",
+        "KRAVEN DEALS",
+        "Guinness",
         "Team Gold",
-        "Anderson"
+        "AS Monaco"
       ],
       "hashtags": [
         "#OLAMIDE"
@@ -179,12 +180,12 @@
         "Congratulations to the GOAT",
         "Pogba",
         "Sultex",
-        "Guinness",
-        "Cascais",
         "Congratulations CR7",
-        "AS Monaco",
+        "Cascais",
+        "KRAVEN DEALS",
+        "Guinness",
         "Team Gold",
-        "Anderson"
+        "AS Monaco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
