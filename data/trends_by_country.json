@@ -1,99 +1,100 @@
 {
-  "generated_at_utc": "2026-08-12T21:12:17.439990+00:00",
+  "generated_at_utc": "2026-08-12T22:07:06.741459+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 20:55:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 21:46:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Russ",
-        "Karoline Leavitt",
-        "Brodie",
+        "Karoline",
         "Press Secretary",
+        "Brodie",
         "#WhyNot",
         "Lakers",
         "SPLC",
         "Madjo",
         "Grok 4.6",
         "Jimmy Olsen",
-        "Heidi Beirich"
+        "Bowling"
       ],
       "hashtags": [
         "#WhyNot",
+        "#JarvixOS",
         "#eclipse",
-        "#YGOMD100MDL",
-        "#UEFASuperCup"
+        "#UEFASuperCup",
+        "#NationalVinylRecordDay"
       ],
       "regular_topics": [
         "Russ",
-        "Karoline Leavitt",
-        "Brodie",
+        "Karoline",
         "Press Secretary",
+        "Brodie",
         "Lakers",
         "SPLC",
         "Madjo",
         "Grok 4.6",
         "Jimmy Olsen",
-        "Heidi Beirich",
-        "Aston Villa"
+        "Bowling",
+        "Heidi Beirich"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 20:28:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 21:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#eclipse",
         "Madjo",
+        "#avfc",
         "Fletcher",
-        "Marli Salmon",
-        "#AVFC",
         "Villa",
+        "Marli Salmon",
+        "#lufc",
         "#PSGAVL",
-        "Lukaku",
-        "#SuperCup",
-        "Pacho",
-        "Kepa"
+        "Buendia",
+        "Maatsen",
+        "Gnonto"
       ],
       "hashtags": [
         "#eclipse",
-        "#AVFC",
+        "#avfc",
+        "#lufc",
         "#PSGAVL",
-        "#SuperCup",
-        "#MUNLEE"
+        "#SuperCup"
       ],
       "regular_topics": [
         "Madjo",
         "Fletcher",
-        "Marli Salmon",
         "Villa",
-        "Lukaku",
-        "Pacho",
-        "Kepa",
+        "Marli Salmon",
+        "Buendia",
+        "Maatsen",
         "Gnonto",
+        "Alysson",
         "Matty Cash",
-        "Collyer",
-        "Zirkzee"
+        "Cairns",
+        "Lukaku"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 20:20:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 21:12:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Russ",
         "Hockey Canada",
-        "Madjo",
         "#MarketNews",
         "#SmallCaps",
         "#StockAnalysis",
+        "Press Secretary",
         "#GrowthStocks",
-        "Fletcher",
-        "#teenageer",
         "Karoline Leavitt",
-        "Lakers"
+        "#teenageer",
+        "Lakers",
+        "Fletcher"
       ],
       "hashtags": [
         "#MarketNews",
@@ -105,12 +106,12 @@
       "regular_topics": [
         "Russ",
         "Hockey Canada",
-        "Madjo",
-        "Fletcher",
+        "Press Secretary",
         "Karoline Leavitt",
         "Lakers",
+        "Fletcher",
+        "Brian Madjo",
         "Grok 4.6",
-        "Brodie",
         "Hong",
         "$NRED",
         "Air Force One"
@@ -120,78 +121,84 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 20:16:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 21:08:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "FUKRA FEVER IN TRAITORS",
         "Grok 4.6",
         "Xavi",
         "#VantaraCelebratesElephantDay",
+        "Fletcher",
+        "Villa",
         "#No_Funds_For_HYBE",
         "#ENconnected_As_SevEN",
         "#AdaniSatyamevJayate",
         "BELIFT PUT ARTISTS OVER PROFIT",
-        "Fletcher",
-        "#GodNightWednesday",
-        "Aston Villa"
+        "#GodNightWednesday"
       ],
       "hashtags": [
         "#VantaraCelebratesElephantDay",
         "#No_Funds_For_HYBE",
         "#ENconnected_As_SevEN",
         "#AdaniSatyamevJayate",
-        "#GodNightWednesday"
+        "#GodNightWednesday",
+        "#\u00c9clipse",
+        "#AbhishekMalhan",
+        "#MoonshadowSeriesEP1",
+        "#RaviTeja",
+        "#Sarbiya",
+        "#SchoolThikKaro"
       ],
       "regular_topics": [
         "FUKRA FEVER IN TRAITORS",
         "Grok 4.6",
         "Xavi",
-        "BELIFT PUT ARTISTS OVER PROFIT",
         "Fletcher",
-        "Aston Villa",
+        "Villa",
+        "BELIFT PUT ARTISTS OVER PROFIT",
         "$MOTION",
-        "East Bengal",
-        "Bank of America",
         "Dutch",
-        "Iceland"
+        "Iceland",
+        "East Bengal",
+        "Bank of America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 20:16:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 21:08:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Aston Villa",
         "Madjo",
         "Fletcher",
-        "Aston Villa",
+        "Barry",
         "Xavi",
-        "Zirkzee",
         "#PSGAVL",
-        "#MUNLEE",
-        "Netherlands",
-        "$MOTION",
-        "Kvaratskhelia",
-        "Leeds"
+        "Leeds",
+        "Marli Salmon",
+        "Kepa",
+        "Congratulations Sheba",
+        "Netherlands"
       ],
       "hashtags": [
         "#PSGAVL",
         "#MUNLEE",
         "#BBNaijaxSupaKomando",
-        "#SuperCup",
-        "#ARSCOM"
+        "#Hedera",
+        "#bbnaijas1"
       ],
       "regular_topics": [
+        "Aston Villa",
         "Madjo",
         "Fletcher",
-        "Aston Villa",
+        "Barry",
         "Xavi",
-        "Zirkzee",
-        "Netherlands",
-        "$MOTION",
-        "Kvaratskhelia",
         "Leeds",
+        "Marli Salmon",
         "Kepa",
-        "Mbeumo"
+        "Congratulations Sheba",
+        "Netherlands",
+        "Zirkzee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
