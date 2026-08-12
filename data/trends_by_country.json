@@ -1,28 +1,27 @@
 {
-  "generated_at_utc": "2026-08-12T22:07:06.741459+00:00",
+  "generated_at_utc": "2026-08-12T23:06:36.577112+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 12 2026 21:46:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 22:39:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Russ",
         "Karoline",
+        "#JarvixOS",
         "Press Secretary",
         "Brodie",
+        "SPLC",
+        "Golf",
         "#WhyNot",
         "Lakers",
-        "SPLC",
-        "Madjo",
-        "Grok 4.6",
-        "Jimmy Olsen",
-        "Bowling"
+        "Agent Team Mode",
+        "Grok 4.6"
       ],
       "hashtags": [
-        "#WhyNot",
         "#JarvixOS",
+        "#WhyNot",
         "#eclipse",
-        "#UEFASuperCup",
         "#NationalVinylRecordDay"
       ],
       "regular_topics": [
@@ -30,32 +29,32 @@
         "Karoline",
         "Press Secretary",
         "Brodie",
-        "Lakers",
         "SPLC",
-        "Madjo",
+        "Golf",
+        "Lakers",
+        "Agent Team Mode",
         "Grok 4.6",
-        "Jimmy Olsen",
-        "Bowling",
-        "Heidi Beirich"
+        "Fort Hood",
+        "Swimming"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 12 2026 21:20:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 22:12:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#eclipse",
         "Madjo",
         "#avfc",
-        "Fletcher",
         "Villa",
         "Marli Salmon",
+        "Fletcher",
+        "Alysson",
         "#lufc",
-        "#PSGAVL",
         "Buendia",
-        "Maatsen",
-        "Gnonto"
+        "#PSGAVL",
+        "Maatsen"
       ],
       "hashtags": [
         "#eclipse",
@@ -66,54 +65,54 @@
       ],
       "regular_topics": [
         "Madjo",
-        "Fletcher",
         "Villa",
         "Marli Salmon",
+        "Fletcher",
+        "Alysson",
         "Buendia",
         "Maatsen",
         "Gnonto",
-        "Alysson",
-        "Matty Cash",
         "Cairns",
-        "Lukaku"
+        "Lukaku",
+        "Emery"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 12 2026 21:12:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 22:54:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Russ",
-        "Hockey Canada",
-        "#MarketNews",
-        "#SmallCaps",
-        "#StockAnalysis",
-        "Press Secretary",
-        "#GrowthStocks",
         "Karoline Leavitt",
+        "Hockey Canada",
         "#teenageer",
+        "Grok 4.6",
         "Lakers",
-        "Fletcher"
+        "#SmallCaps",
+        "Sharan",
+        "#GrowthStocks",
+        "Shaun Chen",
+        "Hong"
       ],
       "hashtags": [
-        "#MarketNews",
+        "#teenageer",
         "#SmallCaps",
-        "#StockAnalysis",
         "#GrowthStocks",
-        "#teenageer"
+        "#MarketNews",
+        "#StockAnalysis"
       ],
       "regular_topics": [
         "Russ",
-        "Hockey Canada",
-        "Press Secretary",
         "Karoline Leavitt",
-        "Lakers",
-        "Fletcher",
-        "Brian Madjo",
+        "Hockey Canada",
         "Grok 4.6",
+        "Lakers",
+        "Sharan",
+        "Shaun Chen",
         "Hong",
-        "$NRED",
+        "Tuscany",
+        "Aston Villa",
         "Air Force One"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,64 +120,58 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 12 2026 21:08:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 22:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FUKRA FEVER IN TRAITORS",
-        "Grok 4.6",
-        "Xavi",
-        "#VantaraCelebratesElephantDay",
-        "Fletcher",
-        "Villa",
-        "#No_Funds_For_HYBE",
-        "#ENconnected_As_SevEN",
         "#AdaniSatyamevJayate",
-        "BELIFT PUT ARTISTS OVER PROFIT",
-        "#GodNightWednesday"
+        "#InternationalYouthDay",
+        "#VantaraCelebratesElephantDay",
+        "#Irumudi",
+        "#HarGharTiranga",
+        "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
+        "$MOTION",
+        "ashnisha industries",
+        "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
+        "FUKRA FEVER IN TRAITORS",
+        "Madjo"
       ],
       "hashtags": [
-        "#VantaraCelebratesElephantDay",
-        "#No_Funds_For_HYBE",
-        "#ENconnected_As_SevEN",
         "#AdaniSatyamevJayate",
-        "#GodNightWednesday",
-        "#\u00c9clipse",
-        "#AbhishekMalhan",
-        "#MoonshadowSeriesEP1",
-        "#RaviTeja",
-        "#Sarbiya",
-        "#SchoolThikKaro"
+        "#InternationalYouthDay",
+        "#VantaraCelebratesElephantDay",
+        "#Irumudi",
+        "#HarGharTiranga"
       ],
       "regular_topics": [
-        "FUKRA FEVER IN TRAITORS",
-        "Grok 4.6",
-        "Xavi",
-        "Fletcher",
-        "Villa",
-        "BELIFT PUT ARTISTS OVER PROFIT",
+        "\u0905\u092e\u093f\u0924 \u0936\u093e\u0939",
         "$MOTION",
-        "Dutch",
-        "Iceland",
-        "East Bengal",
-        "Bank of America"
+        "ashnisha industries",
+        "\u0935\u093f\u0915\u094d\u0930\u092e \u0938\u093e\u0930\u093e\u092d\u093e\u0908",
+        "FUKRA FEVER IN TRAITORS",
+        "Madjo",
+        "\u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+        "Grok 4.6",
+        "Gautam Adani",
+        "Furrl",
+        "Spiritual Wisdom"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 12 2026 21:08:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 12 2026 22:00:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Aston Villa",
-        "Madjo",
-        "Fletcher",
         "Barry",
-        "Xavi",
+        "Fletcher",
+        "Brian Madjo",
         "#PSGAVL",
-        "Leeds",
+        "Xavi",
+        "Congratulations to PSG",
+        "Luis Enrique",
         "Marli Salmon",
-        "Kepa",
         "Congratulations Sheba",
-        "Netherlands"
+        "Leeds"
       ],
       "hashtags": [
         "#PSGAVL",
@@ -189,16 +182,16 @@
       ],
       "regular_topics": [
         "Aston Villa",
-        "Madjo",
-        "Fletcher",
         "Barry",
+        "Fletcher",
+        "Brian Madjo",
         "Xavi",
-        "Leeds",
+        "Congratulations to PSG",
+        "Luis Enrique",
         "Marli Salmon",
-        "Kepa",
         "Congratulations Sheba",
-        "Netherlands",
-        "Zirkzee"
+        "Leeds",
+        "UEFA Super Cup"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
