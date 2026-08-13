@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13T20:26:33.187278+00:00",
+  "generated_at_utc": "2026-08-13T21:10:26.872858+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,57 +43,56 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 19:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 20:33:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CodyBus",
+        "Shankland",
+        "Russell Martin",
+        "Naderi",
         "Stourbridge",
-        "Lewes",
+        "#BBUK",
+        "Motherwell",
         "Osimhen",
         "Edwina",
-        "Gassama",
-        "John Major",
-        "Naderi",
-        "Yokota",
-        "Brake",
-        "Kew Gardens"
+        "Lewes",
+        "Gassama"
       ],
       "hashtags": [
         "#CodyBus",
-        "#\u062c\u0646\u0627\u062d_\u06a9\u0627_\u062c\u0627\u0646\u0634\u06cc\u0646_\u0639\u0645\u0631\u0627\u0646_\u062e\u0627\u0646",
         "#BBUK",
-        "#pufc"
+        "#\u062c\u0646\u0627\u062d_\u06a9\u0627_\u062c\u0627\u0646\u0634\u06cc\u0646_\u0639\u0645\u0631\u0627\u0646_\u062e\u0627\u0646"
       ],
       "regular_topics": [
+        "Shankland",
+        "Russell Martin",
+        "Naderi",
         "Stourbridge",
-        "Lewes",
+        "Motherwell",
         "Osimhen",
         "Edwina",
+        "Lewes",
         "Gassama",
         "John Major",
-        "Naderi",
-        "Yokota",
-        "Brake",
-        "Kew Gardens",
-        "West Midlands"
+        "Conference League"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 19:36:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 20:28:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#CodyBus",
         "Peter Maher",
         "chris brown",
         "Valenzuela",
-        "#CodyBus",
-        "Ford",
         "Russ",
         "Hockey Canada",
         "$NRED",
+        "Ford",
         "Usher",
         "Karoline Leavitt",
-        "Flames"
+        "Sharan"
       ],
       "hashtags": [
         "#CodyBus",
@@ -106,92 +105,92 @@
         "Peter Maher",
         "chris brown",
         "Valenzuela",
-        "Ford",
         "Russ",
         "Hockey Canada",
         "$NRED",
+        "Ford",
         "Usher",
         "Karoline Leavitt",
-        "Flames",
-        "hobi"
+        "Sharan",
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 19:32:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 20:24:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DontMisleadOnMidDayMeal",
         "#RangDeBasantiUP",
         "Meloni",
-        "#RDBMovement",
+        "NALSAR",
         "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
-        "#NALSAR",
+        "#RDBMovement",
         "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
         "Gemini 3.7 Flash",
-        "#Agadha",
         "Fidel Castro",
-        "BELIFT RESPECT YOUR ARTISTS"
+        "#VishwanathAndSons",
+        "#Agadha"
       ],
       "hashtags": [
         "#DontMisleadOnMidDayMeal",
         "#RangDeBasantiUP",
         "#RDBMovement",
-        "#NALSAR",
+        "#VishwanathAndSons",
         "#Agadha"
       ],
       "regular_topics": [
         "Meloni",
+        "NALSAR",
         "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
         "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
         "Gemini 3.7 Flash",
         "Fidel Castro",
-        "BELIFT RESPECT YOUR ARTISTS",
-        "Manan Mishra",
         "\u091c\u0930\u094d\u0938\u0940 \u0917\u093e\u092f",
-        "VOICE FOR CERVICAL CANCER",
-        "MUNAWAR KA KHAUF IN TRAITORS",
-        "Bar Council of India"
+        "Manan Mishra",
+        "For You",
+        "BELIFT RESPECT YOUR ARTISTS",
+        "YOU MANIAC TRAILER"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 19:32:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 20:24:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ferran Torres",
-        "Enzo",
         "Dabota",
+        "Ferran Torres",
+        "Osimhen",
         "BUNKER",
+        "Enzo",
         "Congratulations Neche",
+        "Diiadem",
+        "Alemany",
         "#WatchAjagaOnCircuits",
-        "#SaveNigerianFilmmakers",
-        "Sultex",
-        "Napoli",
         "Al Nassr",
-        "Braga"
+        "Sultex"
       ],
       "hashtags": [
         "#WatchAjagaOnCircuits",
         "#SaveNigerianFilmmakers",
         "#KuCoin",
-        "#Tekno",
-        "#starrgirl"
+        "#starrgirl",
+        "#Tekno"
       ],
       "regular_topics": [
-        "Ferran Torres",
-        "Enzo",
         "Dabota",
+        "Ferran Torres",
+        "Osimhen",
         "BUNKER",
+        "Enzo",
         "Congratulations Neche",
-        "Sultex",
-        "Napoli",
+        "Diiadem",
+        "Alemany",
         "Al Nassr",
-        "Braga",
-        "WL GRANTED",
-        "Tijjani Reijnders"
+        "Sultex",
+        "Napoli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
