@@ -1,76 +1,75 @@
 {
-  "generated_at_utc": "2026-08-13T10:49:01.443176+00:00",
+  "generated_at_utc": "2026-08-13T11:36:02.081288+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 09:48:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 10:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "chris brown",
-        "#YouManiacSeries",
-        "jype",
+        "#BABYSHIB",
         "Good Thursday",
+        "#YouManiacSeries",
+        "chris brown",
+        "Happy Friday Eve",
+        "YOU MANIAC TRAILER",
+        "jype",
+        "ORM SWU LEGACY FASHION",
+        "#OrmXLegacyOfThaiTextiles",
         "#XDINARYHEROESIS6",
-        "#LETGUNILSTAY",
-        "Heisman",
-        "hobi",
-        "namjoon",
-        "Jayden",
-        "Usher"
+        "Heisman"
       ],
       "hashtags": [
+        "#BABYSHIB",
         "#YouManiacSeries",
+        "#OrmXLegacyOfThaiTextiles",
         "#XDINARYHEROESIS6",
         "#LETGUNILSTAY",
         "#5rt5as",
-        "#SnezhnayaCareerTest",
-        "#AEWDynamite",
         "#\u00c9clipse",
         "#NIKKE"
       ],
       "regular_topics": [
-        "chris brown",
-        "jype",
         "Good Thursday",
+        "chris brown",
+        "Happy Friday Eve",
+        "YOU MANIAC TRAILER",
+        "jype",
+        "ORM SWU LEGACY FASHION",
         "Heisman",
-        "hobi",
-        "namjoon",
         "Jayden",
+        "$NRED",
         "Usher",
-        "Chaeyoung",
-        "Freddie",
-        "jhope"
+        "Chaeyoung"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 10:13:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 11:04:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BABYSHIB",
         "Webby",
+        "#BABYSHIB",
         "Clacton",
         "A-level",
         "Goldbridge",
         "chris brown",
-        "Lee Dixon",
-        "phoebe",
         "Rooney",
-        "Dimi",
-        "#LeftHandersDay"
+        "Lee Dixon",
+        "Enzo",
+        "phoebe",
+        "Burgas"
       ],
       "hashtags": [
         "#BABYSHIB",
-        "#LeftHandersDay",
         "#YouManiacSeries",
+        "#LeftHandersDay",
         "#Baking",
         "#popmaster",
         "#AdoorableThursday",
         "#Eurovision",
-        "#NSPPD",
-        "#jeremyvine",
-        "#heatwave"
+        "#heatwave",
+        "#jeremyvine"
       ],
       "regular_topics": [
         "Webby",
@@ -78,36 +77,36 @@
         "A-level",
         "Goldbridge",
         "chris brown",
-        "Lee Dixon",
-        "phoebe",
         "Rooney",
-        "Dimi",
+        "Lee Dixon",
+        "Enzo",
+        "phoebe",
         "Burgas",
-        "Enzo"
+        "Count Binface"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 10:06:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 10:57:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "chris brown",
         "Russ",
-        "#YouManiacSeries",
         "USDCAD",
         "hobi",
         "#teenageer",
         "#AEWDynamite",
+        "#YouManiacSeries",
         "Karoline Leavitt",
         "Hockey Canada",
-        "jype",
-        "#SmallCaps"
+        "#SmallCaps",
+        "IC Markets"
       ],
       "hashtags": [
-        "#YouManiacSeries",
         "#teenageer",
         "#AEWDynamite",
+        "#YouManiacSeries",
         "#SmallCaps",
         "#GrowthStocks"
       ],
@@ -118,93 +117,92 @@
         "hobi",
         "Karoline Leavitt",
         "Hockey Canada",
-        "jype",
-        "Waldron",
-        "Sharan",
+        "IC Markets",
         "Grok 4.6",
-        "Usher"
+        "Usher",
+        "Sharan",
+        "Waldron"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 10:00:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 10:52:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HotelBanaHaveli",
         "#YouManiacSeries",
-        "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u0926\u0932",
         "#SukhbirSinghBadal",
-        "chris brown",
+        "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u0926\u0932",
         "#Nanded",
+        "chris brown",
         "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0905\u0915\u093e\u0932\u0940",
-        "Jawab Do",
-        "#MallikarjunKharge",
-        "Dean",
+        "#HarGharTiranga",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u092c\u093e\u0926\u0932",
-        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928"
+        "Dean",
+        "Jawab Do"
       ],
       "hashtags": [
+        "#HotelBanaHaveli",
         "#YouManiacSeries",
         "#SukhbirSinghBadal",
         "#Nanded",
-        "#MallikarjunKharge",
-        "#AkhileshAhilyaJiSeKyunDvesh"
+        "#HarGharTiranga"
       ],
       "regular_topics": [
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u0926\u0932",
         "chris brown",
         "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0905\u0915\u093e\u0932\u0940",
-        "Jawab Do",
-        "Dean",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u092c\u093e\u0926\u0932",
+        "Dean",
+        "Jawab Do",
         "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
         "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
         "Usher",
-        "Australia",
-        "\u092e\u0932\u094d\u0932\u093f\u0915\u093e\u0930\u094d\u091c\u0941\u0928 \u0916\u0921\u093c\u0917\u0947"
+        "Moth",
+        "Australia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 10:00:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 10:52:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#PCY26",
         "Enzo",
-        "Al Qadsiah",
-        "Reijnders",
-        "AND THE LORD BLOCKED IT",
+        "#PCY26",
         "#YouManiacSeries",
+        "Al Qadsiah",
+        "Jeremy Doku",
+        "Tijjani Reijnders",
+        "YOU MANIAC TRAILER",
         "Ethan Williams",
-        "New Beginnings",
+        "Phoebe Bridgers",
         "Hendrix",
-        "Lee Dixon",
-        "$MOTION"
+        "New Beginnings"
       ],
       "hashtags": [
         "#PCY26",
         "#YouManiacSeries",
-        "#NSPPD",
         "#Sandok\u00e1n",
-        "#triumph30",
         "#ThrowbackWithBTO",
-        "#\u00c9clipse",
-        "#\u30a4\u30fc\u30d5\u30c8",
-        "#RenewedHope"
+        "#Triumph30",
+        "#NSPPD",
+        "#OsunDecides2026",
+        "#\u00c9clipse"
       ],
       "regular_topics": [
         "Enzo",
         "Al Qadsiah",
-        "Reijnders",
-        "AND THE LORD BLOCKED IT",
+        "Jeremy Doku",
+        "Tijjani Reijnders",
+        "YOU MANIAC TRAILER",
         "Ethan Williams",
-        "New Beginnings",
+        "Phoebe Bridgers",
         "Hendrix",
-        "Lee Dixon",
-        "$MOTION",
-        "Tijani",
-        "eFootball 2027"
+        "New Beginnings",
+        "AND THE LORD BLOCKED IT",
+        "Lee Dixon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
