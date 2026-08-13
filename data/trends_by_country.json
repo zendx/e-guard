@@ -1,120 +1,120 @@
 {
-  "generated_at_utc": "2026-08-13T15:26:36.902818+00:00",
+  "generated_at_utc": "2026-08-13T16:14:10.247768+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 15:00:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 15:52:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jayden Daniels",
         "Heisman",
-        "#SwiftDay",
         "Burrow",
+        "#SwiftDay",
         "#TSTheLifeofaShowgirl",
+        "Trezor",
         "Good Thursday",
-        "Who Dey",
         "chris brown",
         "#SkylineSweeps",
-        "Trezor",
-        "Pokemon Bank"
+        "Who Dey",
+        "San Leandro"
       ],
       "hashtags": [
         "#SwiftDay",
         "#TSTheLifeofaShowgirl",
         "#SkylineSweeps",
-        "#ThursdayVibes",
-        "#VocerosDelPueblo"
+        "#StickWithHue",
+        "#\ud55c\uc5ec\ub984\uc758\ub2e4\uc815\ud55c\uc120\ubb3c\uc6b8\ub2dd\uce74\uc774"
       ],
       "regular_topics": [
         "Jayden Daniels",
         "Heisman",
         "Burrow",
-        "Good Thursday",
-        "Who Dey",
-        "chris brown",
         "Trezor",
+        "Good Thursday",
+        "chris brown",
+        "Who Dey",
+        "San Leandro",
+        "DJ Pickett",
         "Pokemon Bank",
-        "Brian Kelly",
-        "Natty",
-        "Pickett"
+        "Brian Kelly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 14:32:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 15:24:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
+        "Edwina",
+        "John Major",
+        "Enzo",
+        "Tomori",
         "Webby",
         "Werro",
-        "Edwina",
         "A-level",
         "#SwiftDay",
         "Harvey Nichols",
-        "Tomori",
-        "John Major",
-        "chris brown",
-        "Goldbridge"
+        "Brake"
       ],
       "hashtags": [
         "#SwiftDay",
-        "#ResultsDay",
-        "#MCFC",
+        "#aplaceinthesun",
         "#heatwave",
-        "#YouManiacSeries"
+        "#ResultsDay",
+        "#MCFC"
       ],
       "regular_topics": [
         "Clacton",
+        "Edwina",
+        "John Major",
+        "Enzo",
+        "Tomori",
         "Webby",
         "Werro",
-        "Edwina",
         "A-level",
         "Harvey Nichols",
-        "Tomori",
-        "John Major",
-        "chris brown",
-        "Goldbridge",
-        "Enzo"
+        "Brake",
+        "chris brown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 14:24:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 15:16:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "chris brown",
         "#SwiftDay",
-        "Bonnie Crombie",
-        "Russ",
         "$NRED",
-        "Happy Anniversary",
+        "Russ",
         "Karoline Leavitt",
-        "Hockey Canada",
         "hobi",
+        "Hockey Canada",
+        "Usher",
         "Sharan",
-        "Usher"
+        "Bonnie Crombie",
+        "Waldron"
       ],
       "hashtags": [
         "#SwiftDay",
-        "#GrowthStocks",
         "#AEWDynamite",
-        "#MarketNews",
+        "#TSTheLifeofaShowgirl",
+        "#Copper",
         "#MarketUpdate"
       ],
       "regular_topics": [
         "chris brown",
-        "Bonnie Crombie",
-        "Russ",
         "$NRED",
-        "Happy Anniversary",
+        "Russ",
         "Karoline Leavitt",
-        "Hockey Canada",
         "hobi",
-        "Sharan",
+        "Hockey Canada",
         "Usher",
-        "Jamaica"
+        "Sharan",
+        "Bonnie Crombie",
+        "Waldron",
+        "Happy Anniversary"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
