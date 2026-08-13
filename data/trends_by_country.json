@@ -1,28 +1,27 @@
 {
-  "generated_at_utc": "2026-08-13T18:13:14.026981+00:00",
+  "generated_at_utc": "2026-08-13T19:30:46.811983+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 17:36:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 19:18:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jayden Daniels",
+        "#CodyBus",
         "Davis Martin",
         "Heisman",
         "Fabian",
-        "Kevin Warren",
-        "Burrow",
-        "LUCA HAAS",
-        "tarek",
-        "Gemini 3.7 Flash",
+        "Sal Stewart",
         "#RTXPowersPlay",
-        "Priyanka"
+        "Kevin Warren",
+        "Gemini 3.7 Flash",
+        "Burrow",
+        "Brake"
       ],
       "hashtags": [
+        "#CodyBus",
         "#RTXPowersPlay",
-        "#SwiftDay",
         "#StickWithHue",
-        "#Cybertruck",
         "#\ud55c\uc5ec\ub984\uc758\ub2e4\uc815\ud55c\uc120\ubb3c\uc6b8\ub2dd\uce74\uc774"
       ],
       "regular_topics": [
@@ -30,109 +29,106 @@
         "Davis Martin",
         "Heisman",
         "Fabian",
+        "Sal Stewart",
         "Kevin Warren",
-        "Burrow",
-        "LUCA HAAS",
-        "tarek",
         "Gemini 3.7 Flash",
-        "Priyanka",
-        "Trezor"
+        "Burrow",
+        "Brake",
+        "$WDAY",
+        "Hammond"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 18:00:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 18:51:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lewes",
         "Stourbridge",
+        "Lewes",
         "Edwina",
-        "John Major",
-        "East Sussex",
-        "Kew Gardens",
         "Osimhen",
+        "John Major",
+        "Kew Gardens",
+        "Brake",
         "Enzo",
         "LUCA HAAS",
-        "Brake",
-        "#thechase"
+        "#thechase",
+        "West Midlands"
       ],
       "hashtags": [
         "#thechase",
         "#heatwave",
-        "#pufc",
-        "#SwiftDay",
-        "#MCFC"
+        "#pufc"
       ],
       "regular_topics": [
-        "Lewes",
         "Stourbridge",
+        "Lewes",
         "Edwina",
-        "John Major",
-        "East Sussex",
-        "Kew Gardens",
         "Osimhen",
+        "John Major",
+        "Kew Gardens",
+        "Brake",
         "Enzo",
         "LUCA HAAS",
-        "Brake",
-        "Eastbourne"
+        "West Midlands",
+        "Benfica"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 17:51:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 18:44:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Peter Maher",
         "chris brown",
-        "Priyanka",
         "Russ",
-        "Usher",
         "Hockey Canada",
-        "Karoline Leavitt",
         "$NRED",
+        "Usher",
         "Doug Ford",
-        "hobi",
+        "Karoline Leavitt",
         "Sharan",
-        "Waldron"
+        "hobi",
+        "Enzo"
       ],
       "hashtags": [
         "#AEWDynamite",
         "#SwiftDay",
         "#YouManiacSeries",
-        "#momsonn",
-        "#InternationalYouthDay"
+        "#momsonn"
       ],
       "regular_topics": [
+        "Peter Maher",
         "chris brown",
-        "Priyanka",
         "Russ",
-        "Usher",
         "Hockey Canada",
-        "Karoline Leavitt",
         "$NRED",
+        "Usher",
         "Doug Ford",
-        "hobi",
+        "Karoline Leavitt",
         "Sharan",
-        "Waldron"
+        "hobi",
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 17:48:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 18:40:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DontMisleadOnMidDayMeal",
         "#RangDeBasantiUP",
         "#RDBMovement",
-        "#\u0915\u094d\u092f\u093e_\u092c\u094b\u0938_\u0938\u0939\u0940_\u0925\u0947",
         "Meloni",
         "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
-        "#BoseTheRealHero",
-        "NALSAR",
-        "MUNAWAR KA KHAUF IN TRAITORS",
         "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
+        "#\u0915\u094d\u092f\u093e_\u092c\u094b\u0938_\u0938\u0939\u0940_\u0925\u0947",
+        "#NALSAR",
+        "Gemini 3.7 Flash",
+        "MUNAWAR KA KHAUF IN TRAITORS",
         "VOICE FOR CERVICAL CANCER"
       ],
       "hashtags": [
@@ -140,19 +136,19 @@
         "#RangDeBasantiUP",
         "#RDBMovement",
         "#\u0915\u094d\u092f\u093e_\u092c\u094b\u0938_\u0938\u0939\u0940_\u0925\u0947",
-        "#BoseTheRealHero"
+        "#NALSAR"
       ],
       "regular_topics": [
         "Meloni",
         "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
-        "NALSAR",
-        "MUNAWAR KA KHAUF IN TRAITORS",
         "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
+        "Gemini 3.7 Flash",
+        "MUNAWAR KA KHAUF IN TRAITORS",
         "VOICE FOR CERVICAL CANCER",
+        "\u091c\u0930\u094d\u0938\u0940 \u0917\u093e\u092f",
+        "Sandeep Dixit",
         "THDC",
         "Manan Mishra",
-        "NAZAR LAGI FT AKANKSHA SOON",
-        "Sandeep Dixit",
         "BELIFT RESPECT YOUR ARTISTS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +156,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 17:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 18:40:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enzo",
-        "#WatchAjagaOnCircuits",
         "#SaveNigerianFilmmakers",
-        "#Tekno",
+        "#WatchAjagaOnCircuits",
         "BUNKER",
+        "Napoli",
+        "Ferran Torres to PSG",
         "Tijjani Reijnders",
-        "Manchester City",
         "Uche Ogbodo",
-        "Man City",
-        "#TheEndOfOakStreetNG",
-        "Al Qadsiah"
+        "#Tekno",
+        "Saudi",
+        "Man City"
       ],
       "hashtags": [
-        "#WatchAjagaOnCircuits",
         "#SaveNigerianFilmmakers",
+        "#WatchAjagaOnCircuits",
         "#Tekno",
-        "#TheEndOfOakStreetNG",
+        "#KuCoin",
         "#starrgirl"
       ],
       "regular_topics": [
         "Enzo",
         "BUNKER",
+        "Napoli",
+        "Ferran Torres to PSG",
         "Tijjani Reijnders",
-        "Manchester City",
         "Uche Ogbodo",
+        "Saudi",
         "Man City",
+        "Manchester City",
         "Al Qadsiah",
-        "Detty December",
-        "Nkunku",
-        "Barry and Goddessa",
-        "AMBO"
+        "HEAVEN BABY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
