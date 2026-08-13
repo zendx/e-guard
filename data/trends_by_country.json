@@ -1,98 +1,100 @@
 {
-  "generated_at_utc": "2026-08-13T06:51:41.447669+00:00",
+  "generated_at_utc": "2026-08-13T08:08:31.216190+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 06:21:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 07:12:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "chris brown",
-        "Freddie",
         "Jayden Daniels",
+        "JYPE",
+        "Freddie",
         "hobi",
         "Chaeyoung",
-        "#AEWDynamite",
-        "Karoline",
-        "chivas",
         "namjoon",
         "Heisman",
-        "#YouManiacSeries"
+        "#YouManiacSeries",
+        "Karoline",
+        "Gunil"
       ],
       "hashtags": [
-        "#AEWDynamite",
         "#YouManiacSeries",
-        "#SnezhnayaCareerTest"
+        "#AEWDynamite",
+        "#SnezhnayaCareerTest",
+        "#BlitzMOVE1",
+        "#YEONJUN"
       ],
       "regular_topics": [
         "chris brown",
-        "Freddie",
         "Jayden Daniels",
+        "JYPE",
+        "Freddie",
         "hobi",
         "Chaeyoung",
-        "Karoline",
-        "chivas",
         "namjoon",
         "Heisman",
-        "Russ",
-        "Eric Lauer"
+        "Karoline",
+        "Gunil",
+        "chivas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 05:56:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 07:39:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#eclipse",
         "Madjo",
         "Cobra",
-        "#AVFC",
+        "A-Level",
+        "Clacton",
         "chris brown",
-        "HMOs",
+        "#AVFC",
         "BBQs",
-        "Villa",
-        "Fletcher",
-        "John Cleese",
-        "GERS"
+        "#AdoorableThursday",
+        "HMOs",
+        "#Baking"
       ],
       "hashtags": [
         "#eclipse",
         "#AVFC",
-        "#PSGAVL",
-        "#YouManiacSeries",
-        "#AEWDynamite"
+        "#AdoorableThursday",
+        "#Baking",
+        "#Thursgate"
       ],
       "regular_topics": [
         "Madjo",
         "Cobra",
+        "A-Level",
+        "Clacton",
         "chris brown",
-        "HMOs",
         "BBQs",
+        "HMOs",
         "Villa",
-        "Fletcher",
-        "John Cleese",
         "GERS",
-        "Marli Salmon",
-        "Stadlen"
+        "John Cleese",
+        "Marli Salmon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 05:48:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 07:32:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "chris brown",
-        "hobi",
         "Russ",
-        "Waldron",
+        "hobi",
         "Karoline Leavitt",
-        "Hockey Canada",
         "#teenageer",
+        "Hockey Canada",
         "#AEWDynamite",
-        "joon",
         "#SmallCaps",
-        "Grok 4.6"
+        "Waldron",
+        "Grok 4.6",
+        "Sharan"
       ],
       "hashtags": [
         "#teenageer",
@@ -103,94 +105,94 @@
       ],
       "regular_topics": [
         "chris brown",
-        "hobi",
         "Russ",
-        "Waldron",
+        "hobi",
         "Karoline Leavitt",
         "Hockey Canada",
-        "joon",
+        "Waldron",
         "Grok 4.6",
         "Sharan",
-        "usher",
-        "Air Force One"
+        "Usher",
+        "Air Force One",
+        "wilmac"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 06:36:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 07:27:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AkhileshAhilyaJiSeKyunDvesh",
+        "Jawab Do",
         "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
-        "#WorldOrganDonationDay",
+        "#AkhileshAhilyaJiSeKyunDvesh",
         "#YouManiacSeries",
-        "#AhilyabaiHolkar",
+        "#WorldOrganDonationDay",
         "chris brown",
+        "HBD JAYDEEP",
+        "#AhilyabaiHolkar",
         "Hasan Mahmud",
         "#Dharman",
-        "Steve Smith",
-        "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
-        "Australia"
+        "Steve Smith"
       ],
       "hashtags": [
         "#AkhileshAhilyaJiSeKyunDvesh",
-        "#WorldOrganDonationDay",
         "#YouManiacSeries",
+        "#WorldOrganDonationDay",
         "#AhilyabaiHolkar",
         "#Dharman"
       ],
       "regular_topics": [
+        "Jawab Do",
         "\u0905\u0939\u093f\u0932\u094d\u092f\u093e\u092c\u093e\u0908 \u0939\u094b\u0932\u094d\u0915\u0930",
         "chris brown",
+        "HBD JAYDEEP",
         "Hasan Mahmud",
         "Steve Smith",
-        "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
-        "Australia",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
-        "Dera Sacha Sauda",
         "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
-        "\u0935\u0940\u0930 \u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0926\u0941\u0930\u094d\u0917\u093e\u0926\u093e\u0938 \u0930\u093e\u0920\u094c\u0921\u093c",
-        "AQIS"
+        "Australia",
+        "\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f",
+        "Usher",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 06:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 07:27:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$MOTION",
-        "Aston Villa",
         "Amen",
+        "Aston Villa",
         "Enzo",
-        "New Beginnings",
-        "International Youth Day",
         "GM CT",
+        "International Youth Day",
+        "New Beginnings",
         "#ThrowbackWithBTO",
-        "Leeds",
         "Super Cup",
+        "Leeds",
         "Olamide"
       ],
       "hashtags": [
         "#ThrowbackWithBTO",
         "#triumph30",
-        "#PSGAVL",
         "#\u00c9clipse",
+        "#PSGAVL",
         "#MUNLEE"
       ],
       "regular_topics": [
         "$MOTION",
-        "Aston Villa",
         "Amen",
+        "Aston Villa",
         "Enzo",
-        "New Beginnings",
-        "International Youth Day",
         "GM CT",
-        "Leeds",
+        "International Youth Day",
+        "New Beginnings",
         "Super Cup",
+        "Leeds",
         "Olamide",
-        "Fletcher"
+        "Al Qadsiah"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
