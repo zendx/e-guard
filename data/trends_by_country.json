@@ -1,69 +1,68 @@
 {
-  "generated_at_utc": "2026-08-13T12:38:26.131245+00:00",
+  "generated_at_utc": "2026-08-13T14:11:47.486224+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 12:24:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 13:16:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Thursday",
-        "Heisman",
         "Jayden Daniels",
+        "Heisman",
+        "Good Thursday",
         "Burrow",
-        "#BABYSHIB",
         "Happy Friday Eve",
+        "Who Dey",
         "chris brown",
-        "#YouManiacSeries",
         "NovaRed Mining",
-        "#OrmXLegacyOfThaiTextiles",
-        "ORM SWU LEGACY FASHION"
+        "#BABYSHIB",
+        "#SwiftDay",
+        "Natty"
       ],
       "hashtags": [
         "#BABYSHIB",
-        "#YouManiacSeries",
+        "#SwiftDay",
         "#OrmXLegacyOfThaiTextiles",
-        "#ThursdayVibes",
-        "#ThursdayMotivation"
+        "#YouManiacSeries",
+        "#ThursdayVibes"
       ],
       "regular_topics": [
-        "Good Thursday",
-        "Heisman",
         "Jayden Daniels",
+        "Heisman",
+        "Good Thursday",
         "Burrow",
         "Happy Friday Eve",
+        "Who Dey",
         "chris brown",
         "NovaRed Mining",
+        "Natty",
         "ORM SWU LEGACY FASHION",
-        "Thankful Thursday",
-        "YOU MANIAC TRAILER",
-        "Who Dey"
+        "Brian Kelly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 11:56:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 13:40:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Webby",
-        "#BABYSHIB",
         "Clacton",
+        "Werro",
         "A-level",
         "chris brown",
+        "#SwiftDay",
         "Goldbridge",
-        "Werro",
-        "Rooney",
-        "#ResultsDay",
-        "Lee Dixon",
-        "Enzo"
+        "John Major",
+        "Shadow Home Secretary",
+        "Edwina",
+        "Rooney"
       ],
       "hashtags": [
-        "#BABYSHIB",
+        "#SwiftDay",
         "#ResultsDay",
-        "#LeftHandersDay",
         "#YouManiacSeries",
+        "#MCFC",
         "#Eurovision",
-        "#popmaster",
         "#heatwave",
         "#Farage",
         "#jeremyvine"
@@ -71,132 +70,132 @@
       "regular_topics": [
         "Webby",
         "Clacton",
+        "Werro",
         "A-level",
         "chris brown",
         "Goldbridge",
-        "Werro",
+        "John Major",
+        "Shadow Home Secretary",
+        "Edwina",
         "Rooney",
-        "Lee Dixon",
-        "Enzo",
-        "Count Binface",
-        "Shadow Home Secretary"
+        "Binface"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 11:48:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 13:32:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "chris brown",
-        "Happy Anniversary",
         "Russ",
-        "USDCAD",
-        "#teenageer",
-        "hobi",
-        "#AEWDynamite",
+        "Good Thursday",
+        "Happy Anniversary",
         "Karoline Leavitt",
         "Hockey Canada",
+        "hobi",
         "#SmallCaps",
-        "#YouManiacSeries"
+        "Sharan",
+        "Usher",
+        "#GrowthStocks"
       ],
       "hashtags": [
-        "#teenageer",
-        "#AEWDynamite",
         "#SmallCaps",
-        "#YouManiacSeries",
-        "#GrowthStocks"
+        "#GrowthStocks",
+        "#AEWDynamite",
+        "#MarketNews",
+        "#XMen97"
       ],
       "regular_topics": [
         "chris brown",
-        "Happy Anniversary",
         "Russ",
-        "USDCAD",
-        "hobi",
+        "Good Thursday",
+        "Happy Anniversary",
         "Karoline Leavitt",
         "Hockey Canada",
-        "Grok 4.6",
-        "Lori",
+        "hobi",
+        "Sharan",
         "Usher",
-        "Sharan"
+        "Bonnie Crombie",
+        "Waldron"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 11:44:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 13:28:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#IsBoseAHero",
         "#SelfieWithYourFreedomHero",
         "#HotelBanaHaveli",
-        "#YouManiacSeries",
+        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
         "#SukhbirSinghBadal",
+        "#YouManiacSeries",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u0926\u0932",
-        "#Nanded",
+        "\u092d\u0930\u0924 \u0924\u093f\u0935\u093e\u0930\u0940",
         "chris brown",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u092c\u093e\u0926\u0932",
-        "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0905\u0915\u093e\u0932\u0940",
-        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
-        "Shiromani Akali"
+        "PHUWIN BLACK CARD MV"
       ],
       "hashtags": [
+        "#IsBoseAHero",
         "#SelfieWithYourFreedomHero",
         "#HotelBanaHaveli",
-        "#YouManiacSeries",
         "#SukhbirSinghBadal",
-        "#Nanded"
+        "#YouManiacSeries"
       ],
       "regular_topics": [
+        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u0926\u0932",
+        "\u092d\u0930\u0924 \u0924\u093f\u0935\u093e\u0930\u0940",
         "chris brown",
         "\u0938\u0941\u0916\u092c\u0940\u0930 \u092c\u093e\u0926\u0932",
-        "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0905\u0915\u093e\u0932\u0940",
-        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
-        "Shiromani Akali",
+        "PHUWIN BLACK CARD MV",
+        "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
         "\u091c\u093f\u0932\u093e \u092a\u094d\u0930\u092e\u0941\u0916",
-        "Dean",
-        "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u092e\u0948\u0926\u093e\u0928",
-        "Nihang",
-        "Moth"
+        "\u0936\u093f\u0930\u094b\u092e\u0923\u093f \u0905\u0915\u093e\u0932\u0940",
+        "US PPI",
+        "Meloni"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 11:44:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 13:28:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enzo",
-        "#PCY26",
+        "Reijnders",
+        "Black Market",
         "#YouManiacSeries",
         "Jeremy Doku",
         "YOU MANIAC TRAILER",
+        "$PHYS",
         "Al Qadsiah",
-        "Remilekun",
-        "Ethan Williams",
-        "Phoebe Bridgers",
-        "Reijnders",
-        "Man City"
+        "Don Jarvis",
+        "Man City",
+        "$NYX"
       ],
       "hashtags": [
-        "#PCY26",
         "#YouManiacSeries",
-        "#Sandok\u00e1n",
-        "#Triumph30",
-        "#OsunDecides2026"
+        "#PCY26",
+        "#Bybit",
+        "#OsunDecides2026",
+        "#STARRGIRL"
       ],
       "regular_topics": [
         "Enzo",
+        "Reijnders",
+        "Black Market",
         "Jeremy Doku",
         "YOU MANIAC TRAILER",
+        "$PHYS",
         "Al Qadsiah",
-        "Remilekun",
-        "Ethan Williams",
-        "Phoebe Bridgers",
-        "Reijnders",
+        "Don Jarvis",
         "Man City",
-        "Hendrix",
-        "Young Jonn"
+        "$NYX",
+        "Stocks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
