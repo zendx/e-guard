@@ -1,201 +1,203 @@
 {
-  "generated_at_utc": "2026-08-13T22:07:21.383161+00:00",
+  "generated_at_utc": "2026-08-13T23:08:08.851202+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 13 2026 21:54:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 22:45:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#CodyBus",
-        "Jayden Daniels",
         "Kennedy Center",
-        "Payton Tolle",
-        "Caleb Durbin",
-        "Piers",
+        "#Madden27Sweepstakes",
+        "Jayden Daniels",
         "Cade Cavalli",
-        "Davis Martin",
-        "#RepublicansStarveUS",
-        "Heisman",
-        "#RTXPowersPlay"
+        "Payton Tolle",
+        "Piers",
+        "Caleb Durbin",
+        "Field of Dreams",
+        "SLIME RANCHER",
+        "#UNOSocialClubMX"
       ],
       "hashtags": [
         "#CodyBus",
+        "#Madden27Sweepstakes",
+        "#UNOSocialClubMX",
         "#RepublicansStarveUS",
-        "#RTXPowersPlay",
-        "#NationalProseccoDay",
-        "#RaiseIt"
+        "#NationalProseccoDay"
       ],
       "regular_topics": [
-        "Jayden Daniels",
         "Kennedy Center",
-        "Payton Tolle",
-        "Caleb Durbin",
-        "Piers",
+        "Jayden Daniels",
         "Cade Cavalli",
-        "Davis Martin",
-        "Heisman",
+        "Payton Tolle",
+        "Piers",
+        "Caleb Durbin",
+        "Field of Dreams",
+        "SLIME RANCHER",
+        "AARON JUEGA UNO MATTEL",
         "Click Clack",
-        "No One Ever Knows",
-        "Blue Collar Symphony"
+        "EMALS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 13 2026 21:28:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 22:20:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "McInnes",
-        "#CodyBus",
-        "Amy Hunt",
+        "Rangers",
         "Shankland",
-        "Motherwell",
+        "Amy Hunt",
         "Russell Martin",
+        "#CodyBus",
+        "Motherwell",
         "Stourbridge",
         "Naderi",
-        "Leigh",
-        "Mark English",
-        "#BBUK"
+        "Osimhen",
+        "Leigh"
       ],
       "hashtags": [
         "#CodyBus",
+        "#Newsnight",
         "#BBUK",
-        "#Rangers",
-        "#Birmingham2026",
-        "#SuperLeague"
+        "#SuperLeague",
+        "#Birmingham2026"
       ],
       "regular_topics": [
         "McInnes",
-        "Amy Hunt",
+        "Rangers",
         "Shankland",
-        "Motherwell",
+        "Amy Hunt",
         "Russell Martin",
+        "Motherwell",
         "Stourbridge",
         "Naderi",
+        "Osimhen",
         "Leigh",
-        "Mark English",
-        "Conference League",
-        "Osimhen"
+        "Mark English"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 13 2026 21:20:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 22:12:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chase Lee",
-        "#CodyBus",
         "chris brown",
         "Peter Maher",
-        "Valenzuela",
+        "#CodyBus",
         "Russ",
         "Hockey Canada",
-        "$nred",
+        "$NRED",
         "Tolle",
+        "Doug Ford",
         "Usher",
-        "Sharan"
+        "Karoline Leavitt"
       ],
       "hashtags": [
         "#CodyBus",
+        "#secretstory",
         "#AEWDynamite",
         "#SwiftDay",
-        "#secretstory",
-        "#YouManiacSeries"
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
         "Chase Lee",
         "chris brown",
         "Peter Maher",
-        "Valenzuela",
         "Russ",
         "Hockey Canada",
-        "$nred",
+        "$NRED",
         "Tolle",
+        "Doug Ford",
         "Usher",
-        "Sharan",
-        "Karoline Leavitt"
+        "Karoline Leavitt",
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 13 2026 21:16:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 22:08:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DontMisleadOnMidDayMeal",
+        "3.7 Flash",
         "Meloni",
         "#RangDeBasantiUP",
-        "3.7 Flash",
-        "NALSAR",
-        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
-        "#RDBMovement",
+        "Lake",
+        "#NALSAR",
+        "For You",
         "Fidel Castro",
-        "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
-        "Manan Mishra",
-        "#VishwanathAndSons"
+        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
+        "YOU MANIAC TRAILER",
+        "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924"
       ],
       "hashtags": [
         "#DontMisleadOnMidDayMeal",
         "#RangDeBasantiUP",
+        "#NALSAR",
         "#RDBMovement",
-        "#VishwanathAndSons",
+        "#MonetaryBoycott_HYBE",
+        "#YouManiacSeries",
+        "#ENGENEs_With_SevEN",
         "#Agadha",
         "#\u0915\u094d\u092f\u093e_\u092c\u094b\u0938_\u0938\u0939\u0940_\u0925\u0947",
-        "#MonetaryBoycott_HYBE",
-        "#ENGENEs_With_SevEN",
-        "#Awarapan2"
+        "#Awarapan2",
+        "#BoseTheRealHero"
       ],
       "regular_topics": [
-        "Meloni",
         "3.7 Flash",
-        "NALSAR",
-        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
+        "Meloni",
+        "Lake",
+        "For You",
         "Fidel Castro",
+        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
+        "YOU MANIAC TRAILER",
         "\u0938\u0902\u0926\u0940\u092a \u0926\u0940\u0915\u094d\u0937\u093f\u0924",
         "Manan Mishra",
-        "YOU MANIAC TRAILER",
-        "For You",
-        "\u091c\u0930\u094d\u0938\u0940 \u0917\u093e\u092f",
-        "BELIFT RESPECT YOUR ARTISTS"
+        "Indira Gandhi",
+        "\u091c\u0930\u094d\u0938\u0940 \u0917\u093e\u092f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 13 2026 21:16:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 13 2026 23:00:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RSANGA",
         "Dabota",
-        "Ferran",
+        "Madugu",
+        "Falcons",
+        "Churchill",
+        "Clipur",
         "Osimhen",
         "Diiadem",
-        "Churchill",
-        "BUNKER",
-        "Alemany",
-        "Ricky and Neche",
-        "Sultex",
+        "Super Eagles",
         "Ordega",
-        "Al Nassr"
+        "South Africa"
       ],
       "hashtags": [
-        "#SaveNigerianFilmmakers",
-        "#STARRGIRL",
+        "#RSANGA",
+        "#starrgirl",
         "#KuCoin",
-        "#Tekno"
+        "#TotalEnergiesWAFCON2026"
       ],
       "regular_topics": [
         "Dabota",
-        "Ferran",
+        "Madugu",
+        "Falcons",
+        "Churchill",
+        "Clipur",
         "Osimhen",
         "Diiadem",
-        "Churchill",
-        "BUNKER",
-        "Alemany",
-        "Ricky and Neche",
-        "Sultex",
+        "Super Eagles",
         "Ordega",
-        "Al Nassr"
+        "South Africa",
+        "RHOL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
