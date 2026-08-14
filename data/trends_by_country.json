@@ -1,98 +1,96 @@
 {
-  "generated_at_utc": "2026-08-14T15:11:25.591797+00:00",
+  "generated_at_utc": "2026-08-14T16:10:03.236319+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 14:20:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 15:12:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NameCheapDown",
-        "Good Friday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
         "LINGORM ILF EP9",
-        "RED Friday",
-        "Skip Bertman",
-        "#FridayVibes",
-        "Happy Friyay",
+        "Good Friday",
         "#LastFourWatched",
         "#LetterboxdFriday",
-        "Go Max"
+        "#FursuitFriday",
+        "RED Friday",
+        "Skip Bertman",
+        "Happy Friyay",
+        "Melissa L. Farris"
       ],
       "hashtags": [
         "#NameCheapDown",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
-        "#FridayVibes",
         "#LastFourWatched",
-        "#LetterboxdFriday"
+        "#LetterboxdFriday",
+        "#FursuitFriday"
       ],
       "regular_topics": [
-        "Good Friday",
         "LINGORM ILF EP9",
+        "Good Friday",
         "RED Friday",
         "Skip Bertman",
         "Happy Friyay",
-        "Go Max",
-        "Valentine's Day",
-        "Quansah",
-        "Yash",
+        "Melissa L. Farris",
         "Runch",
-        "Neen"
+        "go max",
+        "Neen",
+        "Cursor",
+        "World War II Memorial"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 14:43:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 15:34:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Farage",
         "Quansah",
-        "Clacton",
+        "Wickford",
         "PlayStation 5",
+        "Gakpo",
         "Essex",
+        "BBQs",
+        "Mundle",
         "Oisin Murphy",
         "Saliba",
-        "Binface",
-        "BBQs",
-        "Mosquera",
-        "Konsa"
+        "Mosquera"
       ],
       "hashtags": [
-        "#aplaceinthesun",
-        "#ctfc",
-        "#starrgirl"
+        "#aplaceinthesun"
       ],
       "regular_topics": [
         "Farage",
         "Quansah",
-        "Clacton",
+        "Wickford",
         "PlayStation 5",
+        "Gakpo",
         "Essex",
+        "BBQs",
+        "Mundle",
         "Oisin Murphy",
         "Saliba",
-        "Binface",
-        "BBQs",
-        "Mosquera",
-        "Konsa"
+        "Mosquera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 14 2026 14:36:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 15:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Friday",
-        "$NRED",
         "Doug Ford",
-        "Happy Friyay",
-        "Chris Brown",
-        "Conservative MPs",
-        "Phoebe Bridgers",
+        "Pierre",
+        "chris brown",
         "#starrgirl",
-        "Quansah",
-        "Peter Maher",
-        "Bonnie Crombie"
+        "Conservative MPs",
+        "phoebe bridgers",
+        "Good Friday",
+        "bonnie crombie",
+        "#betya",
+        "#SB19\u65e5\u672c\u30ed\u30b02026",
+        "Happy Friyay"
       ],
       "hashtags": [
         "#starrgirl",
@@ -102,95 +100,95 @@
         "#money"
       ],
       "regular_topics": [
-        "Good Friday",
-        "$NRED",
         "Doug Ford",
-        "Happy Friyay",
-        "Chris Brown",
+        "Pierre",
+        "chris brown",
         "Conservative MPs",
-        "Phoebe Bridgers",
-        "Quansah",
+        "phoebe bridgers",
+        "Good Friday",
+        "bonnie crombie",
+        "Happy Friyay",
         "Peter Maher",
-        "Bonnie Crombie",
-        "Field of Dreams"
+        "Field of Dreams",
+        "Staples"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 14:32:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 15:24:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#KhakiKaSitara",
+        "#CitizenCentricYogi",
+        "#WORLDRECORDTIRANGAYATRA",
         "#SPKaKhaufEAzam",
+        "#KhakiKaSitara",
         "#IndependenceDay",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "#ToolkitAgainstGadkari",
-        "#GreenIndia",
-        "HCIANS LOVE HARSHAD",
-        "UPPolice",
         "AMCA",
-        "PONDPHUWIN COKE ZERO",
-        "Mega Tree Plantation Drive"
+        "\u0936\u094d\u0930\u0940 \u0917\u094c\u0930\u0935 \u0917\u094c\u0924\u092e",
+        "Mega Tree Plantation Drive",
+        "HCIANS LOVE HARSHAD",
+        "UPPolice"
       ],
       "hashtags": [
-        "#KhakiKaSitara",
+        "#CitizenCentricYogi",
+        "#WORLDRECORDTIRANGAYATRA",
         "#SPKaKhaufEAzam",
-        "#IndependenceDay",
-        "#ToolkitAgainstGadkari",
-        "#GreenIndia"
+        "#KhakiKaSitara",
+        "#IndependenceDay"
       ],
       "regular_topics": [
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
+        "AMCA",
+        "\u0936\u094d\u0930\u0940 \u0917\u094c\u0930\u0935 \u0917\u094c\u0924\u092e",
+        "Mega Tree Plantation Drive",
         "HCIANS LOVE HARSHAD",
         "UPPolice",
-        "AMCA",
         "PONDPHUWIN COKE ZERO",
-        "Mega Tree Plantation Drive",
-        "Shankar Mahadevan",
+        "Pratika Rawal",
         "Jemimah Rodrigues",
-        "Anjali Kulthe",
-        "Big B",
-        "Cama Hospital"
+        "Shankar Mahadevan",
+        "Azam Khan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 14 2026 14:32:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 15:24:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
         "Hilda",
         "Seyi",
-        "#23YearsConnectedWithGlo",
-        "#WinpesaJackpot",
-        "Quansah",
-        "#TwiceAsTallAt6",
         "#VoteOyebamiji",
-        "#RefuelMoreOnGlovo",
-        "Liam Delap",
-        "Fabregas"
+        "#TwiceAsTallAt6",
+        "#23YearsConnectedWithGlo",
+        "#LiveMeetApp4Movies",
+        "Quansah",
+        "#WinpesaJackpot",
+        "Fabregas",
+        "Liam Delap"
       ],
       "hashtags": [
-        "#23YearsConnectedWithGlo",
-        "#WinpesaJackpot",
-        "#TwiceAsTallAt6",
         "#VoteOyebamiji",
-        "#RefuelMoreOnGlovo"
+        "#TwiceAsTallAt6",
+        "#23YearsConnectedWithGlo",
+        "#LiveMeetApp4Movies",
+        "#WinpesaJackpot"
       ],
       "regular_topics": [
         "Dapper",
         "Hilda",
         "Seyi",
         "Quansah",
-        "Liam Delap",
         "Fabregas",
+        "Liam Delap",
         "Luis Suarez",
         "Shalli",
-        "Mosquera",
         "Osimhen",
-        "Portsmouth"
+        "Mosquera",
+        "Ryan Kavuma-McQueen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
