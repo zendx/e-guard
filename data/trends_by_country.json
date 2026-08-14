@@ -1,131 +1,130 @@
 {
-  "generated_at_utc": "2026-08-14T08:05:01.619605+00:00",
+  "generated_at_utc": "2026-08-14T09:30:57.350680+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 07:24:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 09:06:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Edwin Diaz",
+        "Yash",
         "phoebe",
+        "Edwin Diaz",
         "#NoValkoNoMoney",
-        "Tanner Scott",
-        "Rafayel",
+        "DPOV",
+        "#SB19\u65e5\u672c\u30ed\u30b02026",
         "GLM-5.3",
-        "Drew Allar",
-        "Yash HOH",
-        "gerard",
-        "Power Rangers",
-        "troye"
+        "Tanner Scott",
+        "SB19 LAWLESS SUMMERSONIC",
+        "Rafayel",
+        "Gerard"
       ],
       "hashtags": [
         "#NoValkoNoMoney",
-        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
         "#SB19\u65e5\u672c\u30ed\u30b02026",
+        "#\u5168\u4e16\u754c\u90fd\u7231\u6556\u5c39",
         "#\u30b5\u30de\u30bd\u30cb",
-        "#mcrnashville"
+        "#starrgirl"
       ],
       "regular_topics": [
-        "Edwin Diaz",
+        "Yash",
         "phoebe",
-        "Tanner Scott",
-        "Rafayel",
+        "Edwin Diaz",
+        "DPOV",
         "GLM-5.3",
-        "Drew Allar",
-        "Yash HOH",
-        "gerard",
-        "Power Rangers",
-        "troye",
-        "Max Muncy"
+        "Tanner Scott",
+        "SB19 LAWLESS SUMMERSONIC",
+        "Rafayel",
+        "Gerard",
+        "Blitz",
+        "Power Rangers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 07:48:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 08:40:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
         "Farage",
         "Essex Police",
-        "Count Binface",
+        "Binface",
         "Sandy",
+        "RIP Jimmy",
+        "Makerfield",
         "#r4today",
-        "#eclipse",
-        "Enzo",
+        "Jimmy Rimmer",
         "Lee Anderson",
-        "Stourbridge",
-        "A-level"
+        "Uniparty"
       ],
       "hashtags": [
         "#r4today",
-        "#eclipse",
-        "#CodyBus",
-        "#babyshib",
-        "#FingerpostFriday"
+        "#FlowersOnFriday",
+        "#FingerpostFriday",
+        "#starrgirl"
       ],
       "regular_topics": [
         "Clacton",
         "Farage",
         "Essex Police",
-        "Count Binface",
+        "Binface",
         "Sandy",
-        "Enzo",
-        "Lee Anderson",
-        "Stourbridge",
-        "A-level",
+        "RIP Jimmy",
         "Makerfield",
-        "Edwina"
+        "Jimmy Rimmer",
+        "Lee Anderson",
+        "Uniparty",
+        "Laurence Fox"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 14 2026 07:42:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 08:33:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chris Brown",
-        "phoebe",
         "SB19 LAWLESS SUMMERSONIC",
-        "#\u30b5\u30de\u30bd\u30cb",
         "Peter Maher",
+        "#\u30b5\u30de\u30bd\u30cb",
         "$nred",
-        "Edwin Diaz",
         "Valko",
+        "phoebe bridgers",
         "Doug Ford",
+        "Chase Lee",
         "#BINI_SummerSonic_Osaka",
-        "Chase Lee"
+        "#BINIxSummerSonic2026"
       ],
       "hashtags": [
         "#\u30b5\u30de\u30bd\u30cb",
         "#BINI_SummerSonic_Osaka",
         "#BINIxSummerSonic2026",
-        "#bb28",
-        "#starrgirl"
+        "#starrgirl",
+        "#CodyBus"
       ],
       "regular_topics": [
         "Chris Brown",
-        "phoebe",
         "SB19 LAWLESS SUMMERSONIC",
         "Peter Maher",
         "$nred",
-        "Edwin Diaz",
         "Valko",
+        "phoebe bridgers",
         "Doug Ford",
         "Chase Lee",
-        "Team 2",
-        "Russ"
+        "Russ",
+        "Bonnie Crombie",
+        "Field of Dreams"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 07:36:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 08:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BharatBhhagyaViddhaataOnZee5",
-        "#NHCFoodsQ1StrongResults",
         "#ProfitKaRocket",
+        "#Batwara1947Review",
         "#NoidaAuthority",
         "#EndEnforcedDisappearance",
         "NHC Business Momentum",
@@ -137,11 +136,12 @@
       ],
       "hashtags": [
         "#BharatBhhagyaViddhaataOnZee5",
-        "#NHCFoodsQ1StrongResults",
         "#ProfitKaRocket",
+        "#Batwara1947Review",
         "#NoidaAuthority",
         "#EndEnforcedDisappearance",
-        "#Batwara1947Review",
+        "#NHCFoodsQ1StrongResults",
+        "#\u092c\u0938\u094d\u0924\u0940_\u0924\u093f\u0930\u0902\u0917\u093e_\u092f\u093e\u0924\u094d\u0930\u093e",
         "#BiharRoadScam"
       ],
       "regular_topics": [
@@ -151,48 +151,48 @@
         "Partition",
         "Anjali Kulthe",
         "Cold Mix",
-        "Sant Rampal Ji Maharaj",
+        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f",
         "Sunny Deol",
+        "\u091c\u0941\u0921\u093c\u0947 \u0938\u0921\u093c\u0915",
         "Strong Q1",
-        "Instagram DP",
-        "\u0935\u093f\u0926\u0947\u0936 \u0928\u0940\u0924\u093f"
+        "Sant Rampal Ji Maharaj"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 14 2026 07:36:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 09:20:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#starrgirl",
+        "Midnight in New York",
+        "Osimhen",
         "Jummah Mubarak",
-        "Blessed Friday",
-        "Today is Friday",
-        "Anan Khalaili",
+        "HONOUR AND FAVOUR",
         "Heaven Baby",
-        "#MuhtemelA\u015fk",
-        "Mrs Agba",
-        "Good Friday",
-        "$PHYS",
-        "Midnight in New York"
+        "Dapper",
+        "Blessed Friday",
+        "Luis Suarez",
+        "Today is Friday",
+        "Zenith"
       ],
       "hashtags": [
         "#starrgirl",
         "#MuhtemelA\u015fk",
-        "#YouManiacSeries"
+        "#EclipseEspa\u00f1a"
       ],
       "regular_topics": [
-        "Jummah Mubarak",
-        "Blessed Friday",
-        "Today is Friday",
-        "Anan Khalaili",
-        "Heaven Baby",
-        "Mrs Agba",
-        "Good Friday",
-        "$PHYS",
         "Midnight in New York",
+        "Osimhen",
+        "Jummah Mubarak",
+        "HONOUR AND FAVOUR",
+        "Heaven Baby",
+        "Dapper",
+        "Blessed Friday",
+        "Luis Suarez",
+        "Today is Friday",
         "Zenith",
-        "Harbor"
+        "Twice As Tall"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
