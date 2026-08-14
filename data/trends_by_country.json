@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14T20:00:02.826323+00:00",
+  "generated_at_utc": "2026-08-14T20:30:48.288881+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 19:03:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 19:54:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#severealert",
         "Welsh",
+        "#TOTP",
         "BBQs",
-        "#wildfires",
-        "#VBSCashQuiz",
         "Blackburn",
-        "Bezos",
-        "Andrew Wilson",
+        "#VBSCashQuiz",
+        "Fer Lopez",
+        "#wildfires",
+        "#WOLBLA",
         "Cuti",
-        "#TheOneShow",
-        "Cheers Andy"
+        "RIP Jason Arday"
       ],
       "hashtags": [
         "#severealert",
-        "#wildfires",
+        "#TOTP",
         "#VBSCashQuiz",
-        "#TheOneShow",
-        "#pnefc"
+        "#wildfires",
+        "#WOLBLA"
       ],
       "regular_topics": [
         "Welsh",
         "BBQs",
         "Blackburn",
-        "Bezos",
-        "Andrew Wilson",
+        "Fer Lopez",
         "Cuti",
-        "Cheers Andy",
-        "England and Wales",
+        "RIP Jason Arday",
         "Candace",
-        "Switched",
-        "Jumped"
+        "iPhone",
+        "Toti",
+        "Dastan Satpayev",
+        "Stourbridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
