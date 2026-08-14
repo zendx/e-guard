@@ -1,79 +1,78 @@
 {
-  "generated_at_utc": "2026-08-14T17:21:50.648200+00:00",
+  "generated_at_utc": "2026-08-14T18:10:45.097264+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 16:54:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 17:46:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Candace",
         "Luigi Mangione",
-        "Andrew Wilson",
         "Brian Thompson",
+        "#Halle60",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
-        "LINGORM ILF EP9",
         "NEXT LEVEL CHARLI",
+        "LINGORM ILF EP9",
         "Melissa L. Farris",
-        "#FursuitFriday",
         "ROLL WITH ME",
-        "#LastFourWatched",
+        "#FursuitFriday",
         "SILVER CROSS"
       ],
       "hashtags": [
+        "#Halle60",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
         "#FursuitFriday",
         "#LastFourWatched",
-        "#NameCheapDown",
-        "#FridayVibes"
+        "#NameCheapDown"
       ],
       "regular_topics": [
+        "Candace",
         "Luigi Mangione",
-        "Andrew Wilson",
         "Brian Thompson",
-        "LINGORM ILF EP9",
         "NEXT LEVEL CHARLI",
+        "LINGORM ILF EP9",
         "Melissa L. Farris",
         "ROLL WITH ME",
         "SILVER CROSS",
-        "Good Friday",
         "CONSTANT REPEAT",
-        "Skip Bertman"
+        "Steve Lacy",
+        "Yash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 16:27:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 17:20:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amit Bhatia",
+        "BBQs",
+        "Andrew Wilson",
+        "#thechase",
+        "Luigi Mangione",
         "PlayStation 5",
         "Wickford",
-        "BBQs",
         "Quansah",
-        "Luigi Mangione",
         "Gakpo",
-        "Andrew Wilson",
-        "Essex",
-        "Mundle",
-        "Oisin Murphy"
+        "#AvengersDoomsday",
+        "Jeff Bezos"
       ],
       "hashtags": [
         "#thechase",
-        "#AvengersDoomsday",
-        "#aplaceinthesun"
+        "#AvengersDoomsday"
       ],
       "regular_topics": [
         "Amit Bhatia",
+        "BBQs",
+        "Andrew Wilson",
+        "Luigi Mangione",
         "PlayStation 5",
         "Wickford",
-        "BBQs",
         "Quansah",
-        "Luigi Mangione",
         "Gakpo",
-        "Andrew Wilson",
-        "Essex",
-        "Mundle",
-        "Oisin Murphy"
+        "Jeff Bezos",
+        "Arson",
+        "Candace"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -119,39 +118,39 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 17:08:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 18:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SwatantrataDiwasOnDD",
-        "#CitizenCentricYogi",
-        "3 YRS OF ELVISH'S BB TRIUMPH",
         "#IndependenceDay",
-        "#SPKaKhaufEAzam",
-        "#WORLDRECORDTIRANGAYATRA",
+        "#MSGBhandaraCelebration",
+        "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
+        "#CitizenCentricYogi",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "BELIFT KEEP ENHYPEN UNITED",
+        "3 YRS OF ELVISH'S BB TRIUMPH",
         "Jai Hind",
-        "\u0936\u094d\u0930\u0940 \u0917\u094c\u0930\u0935 \u0917\u094c\u0924\u092e",
-        "AMCA"
+        "BELIFT KEEP ENHYPEN UNITED",
+        "AMCA",
+        "Mega Tree Plantation Drive"
       ],
       "hashtags": [
         "#SwatantrataDiwasOnDD",
-        "#CitizenCentricYogi",
         "#IndependenceDay",
-        "#SPKaKhaufEAzam",
-        "#WORLDRECORDTIRANGAYATRA"
+        "#MSGBhandaraCelebration",
+        "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
+        "#CitizenCentricYogi"
       ],
       "regular_topics": [
-        "3 YRS OF ELVISH'S BB TRIUMPH",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "BELIFT KEEP ENHYPEN UNITED",
+        "3 YRS OF ELVISH'S BB TRIUMPH",
         "Jai Hind",
-        "\u0936\u094d\u0930\u0940 \u0917\u094c\u0930\u0935 \u0917\u094c\u0924\u092e",
+        "BELIFT KEEP ENHYPEN UNITED",
         "AMCA",
         "Mega Tree Plantation Drive",
-        "LINGORM ILF EP9",
-        "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
-        "Pratika Rawal",
-        "\u0928\u093f\u0936\u093f\u0915\u093e\u0902\u0924 \u0926\u0941\u092c\u0947"
+        "\u0936\u094d\u0930\u0940 \u0917\u094c\u0930\u0935 \u0917\u094c\u0924\u092e",
+        "Nehru",
+        "\u0928\u093f\u0936\u093f\u0915\u093e\u0902\u0924 \u0926\u0941\u092c\u0947",
+        "Rolls-Royce",
+        "LINGORM ILF EP9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
