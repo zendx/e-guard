@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-14T22:44:35.982535+00:00",
+  "generated_at_utc": "2026-08-14T23:09:19.029813+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 22:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 22:54:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "Andrew",
         "Cambridge",
         "Jason Arday",
         "#Halle60",
+        "TPUSA",
         "Tyler Robinson",
-        "Psaki",
         "Pantoja",
         "Yash",
-        "Tre Mann",
-        "Luigi"
+        "Erika",
+        "Psaki"
       ],
       "hashtags": [
         "#Halle60",
@@ -30,13 +30,13 @@
         "Andrew",
         "Cambridge",
         "Jason Arday",
+        "TPUSA",
         "Tyler Robinson",
-        "Psaki",
         "Pantoja",
         "Yash",
-        "Tre Mann",
-        "Luigi",
-        "Clay Holmes"
+        "Erika",
+        "Psaki",
+        "No Senate Republican"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
