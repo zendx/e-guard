@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-08-14T20:30:48.288881+00:00",
+  "generated_at_utc": "2026-08-14T21:12:42.587296+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 19:31:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 20:21:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#Halle60",
-        "Luigi Mangione",
-        "Yash",
+        "Introducing",
         "Tre Mann",
-        "Dennis Schroder",
-        "Brian Thompson",
         "Tyler Robinson",
-        "Strictly Business",
-        "#FursuitFriday",
-        "Devens"
+        "Luigi Mangione",
+        "Dennis Schroder",
+        "Clay Holmes",
+        "Yash",
+        "Brian Thompson",
+        "Strictly Business"
       ],
       "hashtags": [
         "#Halle60",
         "#FursuitFriday",
         "#TheGreatDebate",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
-        "#AllCanTell"
+        "#LastFourWatched"
       ],
       "regular_topics": [
         "Candace",
-        "Luigi Mangione",
-        "Yash",
+        "Introducing",
         "Tre Mann",
-        "Dennis Schroder",
-        "Brian Thompson",
         "Tyler Robinson",
+        "Luigi Mangione",
+        "Dennis Schroder",
+        "Clay Holmes",
+        "Yash",
+        "Brian Thompson",
         "Strictly Business",
-        "Devens",
-        "James Pearce Jr.",
-        "Chelsea Handler"
+        "Jungle Fever"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 19:54:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 20:45:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Jason Arday",
         "#severealert",
         "Welsh",
         "#TOTP",
-        "BBQs",
-        "Blackburn",
+        "Cambridge University",
         "#VBSCashQuiz",
-        "Fer Lopez",
-        "#wildfires",
-        "#WOLBLA",
-        "Cuti",
-        "RIP Jason Arday"
+        "Caroline Flack",
+        "Wolves",
+        "BBQs",
+        "Wales",
+        "#WOLBLA"
       ],
       "hashtags": [
         "#severealert",
         "#TOTP",
         "#VBSCashQuiz",
-        "#wildfires",
-        "#WOLBLA"
+        "#WOLBLA",
+        "#wwfc"
       ],
       "regular_topics": [
+        "Jason Arday",
         "Welsh",
+        "Cambridge University",
+        "Caroline Flack",
+        "Wolves",
         "BBQs",
-        "Blackburn",
+        "Wales",
         "Fer Lopez",
-        "Cuti",
-        "RIP Jason Arday",
-        "Candace",
-        "iPhone",
         "Toti",
-        "Dastan Satpayev",
-        "Stourbridge"
+        "Cuti",
+        "Candace"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 14 2026 19:45:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 20:37:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "Andrew",
         "Doug Ford",
         "#starrgirl",
-        "#Halle60",
+        "Jason Arday",
         "Phoebe Bridgers",
-        "Pierre",
-        "Staples",
         "Greer",
-        "Peter Milobar",
-        "Ayra Starr"
+        "Milobar",
+        "Staples",
+        "Ayra Starr",
+        "Punjabi"
       ],
       "hashtags": [
         "#starrgirl",
@@ -107,28 +107,28 @@
         "Candace",
         "Andrew",
         "Doug Ford",
+        "Jason Arday",
         "Phoebe Bridgers",
-        "Pierre",
-        "Staples",
         "Greer",
-        "Peter Milobar",
+        "Milobar",
+        "Staples",
         "Ayra Starr",
-        "chris brown",
-        "Conservative MPs"
+        "Punjabi",
+        "Pierre"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 19:42:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 20:33:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
-        "#KoinBX",
         "Jai Hind",
+        "#KoinBX",
+        "#15August",
         "#MSGBhandaraCelebration",
         "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
-        "#15August",
         "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
         "3 YRS OF ELVISH'S BB TRIUMPH",
         "Celebrating 80",
@@ -138,12 +138,15 @@
       "hashtags": [
         "#IndependenceDay",
         "#KoinBX",
+        "#15August",
         "#MSGBhandaraCelebration",
         "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
-        "#15August",
         "#SwatantrataDiwasOnDD",
+        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "#CitizenCentricYogi",
-        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938"
+        "#ProudIndian",
+        "#SevEN_Complete_The_Story",
+        "#Freedom"
       ],
       "regular_topics": [
         "Jai Hind",
@@ -153,47 +156,47 @@
         "BELIFT KEEP ENHYPEN UNITED",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "AMCA",
-        "Operation Sindoor",
         "Nehru",
-        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924"
+        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
+        "Operation Sindoor",
+        "AMCA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 14 2026 19:42:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 20:33:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
         "Hilda",
-        "Seyi",
-        "Congratulations Neche",
         "Burnley",
+        "Galatasaray",
+        "Congratulations Neche",
+        "Seyi",
         "Big L",
         "Shallipopi",
-        "UFC 330",
-        "Ciro Immobile",
+        "Grand Finally",
         "Starboy",
-        "#ThreeCrownsMilk"
+        "Big Wiz"
       ],
       "hashtags": [
         "#ThreeCrownsMilk",
-        "#DTN100",
+        "#Halle60",
         "#DbanjSafeSpace",
-        "#TheEndOfOakStreetNGA",
-        "#OsunDecides2026"
+        "#DTN100",
+        "#TheEndOfOakStreetNGA"
       ],
       "regular_topics": [
         "Dapper",
         "Hilda",
-        "Seyi",
-        "Congratulations Neche",
         "Burnley",
+        "Galatasaray",
+        "Congratulations Neche",
+        "Seyi",
         "Big L",
         "Shallipopi",
-        "UFC 330",
-        "Ciro Immobile",
+        "Grand Finally",
         "Starboy",
         "Big Wiz"
       ],
