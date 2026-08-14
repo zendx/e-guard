@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14T21:45:09.805742+00:00",
+  "generated_at_utc": "2026-08-14T22:09:30.869603+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,38 +43,38 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 20:45:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 21:36:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jason Arday",
         "#severealert",
-        "Welsh",
         "#TOTP",
+        "Welsh",
         "Cambridge University",
-        "#VBSCashQuiz",
-        "Caroline Flack",
         "Wolves",
-        "BBQs",
-        "Wales",
-        "#WOLBLA"
+        "Caroline Flack",
+        "#wwfc",
+        "Toti",
+        "#WOLBLA",
+        "#VBSCashQuiz"
       ],
       "hashtags": [
         "#severealert",
         "#TOTP",
-        "#VBSCashQuiz",
+        "#wwfc",
         "#WOLBLA",
-        "#wwfc"
+        "#VBSCashQuiz"
       ],
       "regular_topics": [
         "Jason Arday",
         "Welsh",
         "Cambridge University",
-        "Caroline Flack",
         "Wolves",
+        "Caroline Flack",
+        "Toti",
         "BBQs",
         "Wales",
-        "Fer Lopez",
-        "Toti",
-        "Cuti",
+        "Keely",
+        "Hounded",
         "Candace"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
