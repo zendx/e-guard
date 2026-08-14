@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14T23:09:19.029813+00:00",
+  "generated_at_utc": "2026-08-14T23:42:46.954811+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,63 +43,63 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 14 2026 22:28:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 23:20:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jason Arday",
         "Cambridge",
         "Welsh",
-        "#severealert",
         "#TOTP",
+        "#severealert",
         "Caroline Flack",
-        "Blackburn",
         "Wolves",
-        "#wwfc",
+        "Blackburn",
         "Toti",
-        "#VBSCashQuiz"
+        "#wwfc",
+        "Walter Mitty"
       ],
       "hashtags": [
-        "#severealert",
         "#TOTP",
+        "#severealert",
         "#wwfc",
-        "#VBSCashQuiz",
-        "#WOLBLA"
+        "#WOLBLA",
+        "#HeatUpASongOrBand"
       ],
       "regular_topics": [
         "Jason Arday",
         "Cambridge",
         "Welsh",
         "Caroline Flack",
-        "Blackburn",
         "Wolves",
+        "Blackburn",
         "Toti",
-        "BBQs",
-        "Keely",
+        "Walter Mitty",
         "Hounded",
-        "Wales"
+        "Keely",
+        "BBQs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 14 2026 22:21:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 23:13:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "Andrew",
         "Jason Arday",
+        "Stellantis",
         "Doug Ford",
         "#starrgirl",
-        "Phoebe Bridgers",
         "Cambridge",
+        "Apple TV",
         "Greer",
-        "Stellantis",
-        "Staples",
-        "Ayra Starr"
+        "Milobar",
+        "Phoebe Bridgers"
       ],
       "hashtags": [
         "#starrgirl",
         "#betya",
-        "#codybus",
+        "#Codybus",
         "#FursuitFriday",
         "#Halle60"
       ],
@@ -107,21 +107,21 @@
         "Candace",
         "Andrew",
         "Jason Arday",
-        "Doug Ford",
-        "Phoebe Bridgers",
-        "Cambridge",
-        "Greer",
         "Stellantis",
-        "Staples",
-        "Ayra Starr",
-        "Milobar"
+        "Doug Ford",
+        "Cambridge",
+        "Apple TV",
+        "Greer",
+        "Milobar",
+        "Phoebe Bridgers",
+        "Staples"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 22:18:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 23:09:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "Jai Hind",
@@ -129,10 +129,10 @@
         "#KoinBX",
         "#MSGBhandaraCelebration",
         "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
-        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "3 YRS OF ELVISH'S BB TRIUMPH",
-        "Celebrating 80",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "3 YRS OF ELVISH'S BB TRIUMPH",
+        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
+        "Celebrating 80",
         "BELIFT KEEP ENHYPEN UNITED"
       ],
       "hashtags": [
@@ -144,60 +144,58 @@
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "#SwatantrataDiwasOnDD",
         "#ProudIndian",
+        "#Freedom",
         "#IndiaAt80",
-        "#SevEN_Complete_The_Story",
-        "#Freedom"
+        "#SevEN_Complete_The_Story"
       ],
       "regular_topics": [
         "Jai Hind",
-        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "3 YRS OF ELVISH'S BB TRIUMPH",
-        "Celebrating 80",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "3 YRS OF ELVISH'S BB TRIUMPH",
+        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
+        "Celebrating 80",
         "BELIFT KEEP ENHYPEN UNITED",
-        "Nehru",
-        "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
+        "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "Nehru",
         "Operation Sindoor",
-        "AMCA"
+        "As India"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 14 2026 22:16:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 23:08:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
         "Galatasaray",
         "Hilda",
         "Victor Osimhen",
+        "Jason Arday",
         "Burnley",
+        "Crystal Palace Bowl in London",
         "Seyi",
-        "Congratulations Neche",
         "Big Wiz",
-        "Shallipopi",
-        "Ciro Immobile",
-        "Wolves"
+        "#Starrgirrl",
+        "Congratulations Neche"
       ],
       "hashtags": [
-        "#ThreeCrownsMilk",
-        "#Halle60",
-        "#DTN100",
-        "#OsunDecides2026"
+        "#Starrgirrl",
+        "#ThreeCrownsMilk"
       ],
       "regular_topics": [
         "Dapper",
         "Galatasaray",
         "Hilda",
         "Victor Osimhen",
+        "Jason Arday",
         "Burnley",
+        "Crystal Palace Bowl in London",
         "Seyi",
-        "Congratulations Neche",
         "Big Wiz",
-        "Shallipopi",
-        "Ciro Immobile",
-        "Wolves"
+        "Congratulations Neche",
+        "Dastan Satpayev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
