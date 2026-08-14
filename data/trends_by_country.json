@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-14T21:12:42.587296+00:00",
+  "generated_at_utc": "2026-08-14T21:45:09.805742+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 14 2026 20:21:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 21:12:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#Halle60",
-        "Introducing",
-        "Tre Mann",
+        "Jason Arday",
         "Tyler Robinson",
-        "Luigi Mangione",
+        "Tre Mann",
+        "Luigi",
         "Dennis Schroder",
+        "Psaki",
         "Clay Holmes",
-        "Yash",
-        "Brian Thompson",
-        "Strictly Business"
+        "Introducing",
+        "Yash"
       ],
       "hashtags": [
         "#Halle60",
+        "#HMGxZombiesSweeps",
         "#FursuitFriday",
-        "#TheGreatDebate",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP9",
-        "#LastFourWatched"
+        "#wwfc",
+        "#TheGreatDebate"
       ],
       "regular_topics": [
         "Candace",
-        "Introducing",
-        "Tre Mann",
+        "Jason Arday",
         "Tyler Robinson",
-        "Luigi Mangione",
+        "Tre Mann",
+        "Luigi",
         "Dennis Schroder",
+        "Psaki",
         "Clay Holmes",
+        "Introducing",
         "Yash",
-        "Brian Thompson",
-        "Strictly Business",
-        "Jungle Fever"
+        "Brian Thompson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,46 +82,46 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 14 2026 20:37:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 21:30:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "Andrew",
+        "Jason Arday",
         "Doug Ford",
         "#starrgirl",
-        "Jason Arday",
-        "Phoebe Bridgers",
-        "Greer",
+        "Cambridge",
         "Milobar",
-        "Staples",
-        "Ayra Starr",
-        "Punjabi"
+        "Stellantis",
+        "Phoebe Bridgers",
+        "Punjabi",
+        "Staples"
       ],
       "hashtags": [
         "#starrgirl",
-        "#Halle60",
         "#betya",
         "#codybus",
+        "#FursuitFriday",
         "#SB19\u65e5\u672c\u30ed\u30b02026"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
-        "Doug Ford",
         "Jason Arday",
-        "Phoebe Bridgers",
-        "Greer",
+        "Doug Ford",
+        "Cambridge",
         "Milobar",
-        "Staples",
-        "Ayra Starr",
+        "Stellantis",
+        "Phoebe Bridgers",
         "Punjabi",
-        "Pierre"
+        "Staples",
+        "Greer"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 14 2026 20:33:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 21:27:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "Jai Hind",
@@ -141,12 +141,12 @@
         "#15August",
         "#MSGBhandaraCelebration",
         "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
-        "#SwatantrataDiwasOnDD",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#CitizenCentricYogi",
+        "#SwatantrataDiwasOnDD",
         "#ProudIndian",
         "#SevEN_Complete_The_Story",
-        "#Freedom"
+        "#IndiaAt80",
+        "#VishwanthAndSons"
       ],
       "regular_topics": [
         "Jai Hind",
@@ -155,8 +155,8 @@
         "Celebrating 80",
         "BELIFT KEEP ENHYPEN UNITED",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "Nehru",
+        "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
         "Operation Sindoor",
         "AMCA"
@@ -166,39 +166,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 14 2026 20:33:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 14 2026 21:24:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
+        "Galatasaray",
         "Hilda",
         "Burnley",
-        "Galatasaray",
-        "Congratulations Neche",
         "Seyi",
-        "Big L",
+        "Victor Osimhen",
+        "Congratulations Neche",
         "Shallipopi",
-        "Grand Finally",
-        "Starboy",
-        "Big Wiz"
+        "Big L",
+        "Wolves",
+        "Ciro Immobile"
       ],
       "hashtags": [
         "#ThreeCrownsMilk",
         "#Halle60",
         "#DbanjSafeSpace",
         "#DTN100",
-        "#TheEndOfOakStreetNGA"
+        "#OsunDecides2026"
       ],
       "regular_topics": [
         "Dapper",
+        "Galatasaray",
         "Hilda",
         "Burnley",
-        "Galatasaray",
-        "Congratulations Neche",
         "Seyi",
-        "Big L",
+        "Victor Osimhen",
+        "Congratulations Neche",
         "Shallipopi",
-        "Grand Finally",
-        "Starboy",
-        "Big Wiz"
+        "Big L",
+        "Wolves",
+        "Ciro Immobile"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
