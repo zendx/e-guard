@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T07:48:23.237373+00:00",
+  "generated_at_utc": "2026-08-15T08:12:06.258334+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,115 +41,114 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 07:04:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 08:00:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
         "Farage",
         "#severealert",
         "Jason Arday",
+        "Cambridge",
         "BBQs",
         "Welsh",
-        "Cambridge",
-        "#PostboxSaturday",
         "#Caturday",
-        "#totp",
-        "Binface"
+        "#PostboxSaturday",
+        "MATCH DAY",
+        "#Damp"
       ],
       "hashtags": [
         "#severealert",
-        "#PostboxSaturday",
         "#Caturday",
-        "#totp",
-        "#XMen"
+        "#PostboxSaturday",
+        "#Damp",
+        "#totp"
       ],
       "regular_topics": [
         "Clacton",
         "Farage",
         "Jason Arday",
+        "Cambridge",
         "BBQs",
         "Welsh",
-        "Cambridge",
-        "Binface",
+        "MATCH DAY",
         "Stourbridge",
-        "Rogue",
-        "Essex Police",
-        "Caroline Flack"
+        "Binface",
+        "Caroline Flack",
+        "Essex Police"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 06:57:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 07:51:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
-        "Rogue",
         "Doom",
-        "Inde",
+        "Rogue",
         "Andrew",
-        "X-Men",
-        "Maya Boyd",
+        "Inde",
         "Apple TV",
         "Adam Driver",
         "Cailee Spaeny",
-        "#SmackDown"
+        "X-Men",
+        "Disney",
+        "Maya Boyd"
       ],
       "hashtags": [
         "#SmackDown",
         "#starrgirl",
         "#betya",
         "#VisionQuest",
-        "#Halle60"
+        "#fursuitfriday"
       ],
       "regular_topics": [
         "Candace",
-        "Rogue",
         "Doom",
-        "Inde",
+        "Rogue",
         "Andrew",
-        "X-Men",
-        "Maya Boyd",
+        "Inde",
         "Apple TV",
         "Adam Driver",
         "Cailee Spaeny",
-        "Disney"
+        "X-Men",
+        "Disney",
+        "Maya Boyd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 06:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 07:45:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "Jai Hind",
         "#15August",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
-        "#KoinBX",
         "#15\u0905\u0917\u0938\u094d\u0924",
-        "Shivansh Kushwaha",
+        "#KoinBX",
         "Vande Mataram",
         "Red Fort",
-        "National Flag"
+        "National Flag",
+        "Jaiswal"
       ],
       "hashtags": [
         "#IndependenceDay",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "#15August",
-        "#KoinBX",
         "#15\u0905\u0917\u0938\u094d\u0924",
-        "#PMModi",
+        "#KoinBX",
+        "#HBDShivanshKushwaha",
         "#AvengersDoomsday",
-        "#ProudIndian",
+        "#PMModi",
         "#IndiaAt80",
         "#Trisha",
-        "#Freedom"
+        "#ProudIndian"
       ],
       "regular_topics": [
         "Jai Hind",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
-        "Shivansh Kushwaha",
         "Vande Mataram",
         "Red Fort",
         "National Flag",
@@ -157,32 +156,33 @@
         "Dimagi Naxals",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "KL Rahul",
-        "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924"
+        "Tricolour",
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 06:52:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 07:45:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
         "#starrgirl",
+        "#OsunDecides2026",
         "Enzo",
         "Hilda",
         "Amen",
         "Seyi",
-        "#OsunDecides2026",
         "Osimhen",
         "Heaven Baby",
-        "GM CT",
-        "Galatasaray"
+        "#FreedomWithBybit",
+        "Gamdom"
       ],
       "hashtags": [
         "#starrgirl",
         "#OsunDecides2026",
-        "#threecrownsmilk",
-        "#dbanjsafespace"
+        "#FreedomWithBybit",
+        "#furry"
       ],
       "regular_topics": [
         "Dapper",
@@ -192,10 +192,10 @@
         "Seyi",
         "Osimhen",
         "Heaven Baby",
-        "GM CT",
+        "Gamdom",
         "Galatasaray",
-        "Midnight in New York",
-        "Another Saturday"
+        "GM CT",
+        "Midnight in New York"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
