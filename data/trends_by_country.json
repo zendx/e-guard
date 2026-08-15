@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-15T06:15:52.965304+00:00",
+  "generated_at_utc": "2026-08-15T07:02:55.687441+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 05:48:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 06:42:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rogue",
         "X-Men",
@@ -19,8 +19,8 @@
         "Coco"
       ],
       "hashtags": [
-        "#SmackDown",
         "#VisionQuest",
+        "#SmackDown",
         "#OPLive"
       ],
       "regular_topics": [
@@ -41,7 +41,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 05:21:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 06:13:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
         "#severealert",
@@ -49,18 +49,18 @@
         "Jason Arday",
         "BBQs",
         "Welsh",
-        "#SmackDown",
         "#totp",
         "Cambridge",
-        "Binface",
-        "Essex Police"
+        "Maya Boyd",
+        "Rogue",
+        "Binface"
       ],
       "hashtags": [
         "#severealert",
-        "#SmackDown",
         "#totp",
-        "#vbscashquiz",
-        "#VisionQuest"
+        "#SmackDown",
+        "#XMen",
+        "#PostboxSaturday"
       ],
       "regular_topics": [
         "Clacton",
@@ -69,50 +69,50 @@
         "BBQs",
         "Welsh",
         "Cambridge",
-        "Binface",
-        "Essex Police",
         "Maya Boyd",
-        "Cailee",
-        "Stourbridge"
+        "Rogue",
+        "Binface",
+        "Stourbridge",
+        "Essex Police"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 05:15:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 06:06:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "Rogue",
-        "Cailee Spaeny",
         "Inde",
-        "#SmackDown",
-        "Andrew",
+        "Doom",
         "Maya Boyd",
+        "Andrew",
+        "X-Men",
+        "Cailee Spaeny",
         "Adam Driver",
         "Apple TV",
-        "X-Men",
-        "Kingdom Hearts"
+        "Disney"
       ],
       "hashtags": [
         "#SmackDown",
         "#starrgirl",
-        "#VisionQuest",
         "#betya",
+        "#VisionQuest",
         "#Redblacks"
       ],
       "regular_topics": [
         "Candace",
         "Rogue",
-        "Cailee Spaeny",
         "Inde",
-        "Andrew",
+        "Doom",
         "Maya Boyd",
+        "Andrew",
+        "X-Men",
+        "Cailee Spaeny",
         "Adam Driver",
         "Apple TV",
-        "X-Men",
-        "Kingdom Hearts",
-        "annabeth"
+        "Disney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
