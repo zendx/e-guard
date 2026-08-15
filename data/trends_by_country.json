@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T09:46:13.266231+00:00",
+  "generated_at_utc": "2026-08-15T10:09:27.398998+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,77 +43,79 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 08:51:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 09:42:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arday",
         "Cambridge",
         "MATCH DAY",
         "#Caturday",
-        "#PostboxSaturday",
-        "Doom",
         "FA Vase",
-        "#Damp",
+        "Doom",
+        "#PostboxSaturday",
         "Rogue",
         "GAME DAY",
+        "Dr David Kelly",
         "X-Men"
       ],
       "hashtags": [
         "#Caturday",
         "#PostboxSaturday",
         "#Damp",
+        "#oufc",
+        "#ycfc",
         "#SmackDown"
       ],
       "regular_topics": [
         "Arday",
         "Cambridge",
         "MATCH DAY",
-        "Doom",
         "FA Vase",
+        "Doom",
         "Rogue",
         "GAME DAY",
-        "X-Men",
-        "Maya Boyd",
         "Dr David Kelly",
-        "Caroline Flack"
+        "X-Men",
+        "Inde",
+        "Shahar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 08:44:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 09:36:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#N3onjack",
         "Candace",
         "Andrew",
-        "Rogue",
         "Apple TV",
-        "Inde",
         "Doom",
         "#SmackDown",
-        "Disney",
-        "X-Men",
-        "Yankees"
+        "Inde",
+        "Rogue",
+        "Yankees",
+        "Maya Boyd",
+        "#starrgirl"
       ],
       "hashtags": [
         "#N3onjack",
         "#SmackDown",
         "#starrgirl",
         "#FursuitFriday",
-        "#Halle60"
+        "#betya"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
-        "Rogue",
         "Apple TV",
-        "Inde",
         "Doom",
-        "Disney",
-        "X-Men",
+        "Inde",
+        "Rogue",
         "Yankees",
         "Maya Boyd",
-        "Christopher Abbott"
+        "Jason Arday",
+        "Stellantis",
+        "X-Men"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
