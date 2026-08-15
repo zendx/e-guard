@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T15:40:33.525654+00:00",
+  "generated_at_utc": "2026-08-15T16:09:06.664533+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,162 +43,162 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 15:00:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 15:52:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "HALF TIME",
-        "Joao Pedro",
+        "Half Time",
         "#swfc",
-        "#readingfc",
         "Amorim",
+        "Joao Pedro",
         "Maguire",
-        "Palmer",
-        "#oafc",
-        "#lcfc",
-        "KICK OFF",
-        "#bwfc"
+        "Mikey Moore",
+        "#wafc",
+        "#readingfc",
+        "#ncfc",
+        "Cunha",
+        "Suzuki"
       ],
       "hashtags": [
         "#swfc",
+        "#wafc",
         "#readingfc",
-        "#oafc",
-        "#lcfc",
-        "#bwfc"
+        "#ncfc",
+        "#oafc"
       ],
       "regular_topics": [
-        "HALF TIME",
-        "Joao Pedro",
+        "Half Time",
         "Amorim",
+        "Joao Pedro",
         "Maguire",
+        "Mikey Moore",
+        "Cunha",
+        "Suzuki",
         "Palmer",
-        "KICK OFF",
-        "TEAM NEWS",
-        "Arday",
-        "Starting XI",
+        "AC Milan",
         "MUTV",
-        "Leicester"
+        "KICK OFF"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 14:51:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 15:44:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#N3onjack",
         "Andrew",
-        "Apple TV",
+        "Amorim",
         "Jason Arday",
+        "Apple TV",
         "Rogue",
         "Inde",
-        "Joao Pedro",
         "Cambridge",
-        "#SmackDown",
-        "Yankees"
+        "Yankees",
+        "Stellantis"
       ],
       "hashtags": [
         "#N3onjack",
         "#SmackDown",
-        "#DuangConcertDay1",
+        "#starrgirl",
         "#Caturday",
-        "#starrgirl"
+        "#fursuitfriday"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
-        "Apple TV",
+        "Amorim",
         "Jason Arday",
+        "Apple TV",
         "Rogue",
         "Inde",
-        "Joao Pedro",
         "Cambridge",
         "Yankees",
         "Stellantis",
-        "Reece James"
+        "Joao Pedro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 14:48:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 15:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
+        "#DeclassifiedOperationSindoor",
         "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
-        "#DeclassifiedOperationSindoor",
-        "#Border2OnZeeCinema",
         "Pilot Rakesh Tyagi",
-        "Independence Day",
         "Discovery Channel India",
+        "Dimagi Naxal",
+        "SEVEN CANNOT BE ERASED",
         "Devdutt Padikkal",
-        "Philips",
-        "Uttar Pradesh"
+        "DUANG GO ROUND DAY1"
       ],
       "hashtags": [
+        "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
+        "#DeclassifiedOperationSindoor",
         "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
-        "#DeclassifiedOperationSindoor",
         "#Border2OnZeeCinema",
-        "#hbd_dheerajgurjar",
-        "#boseonstorytv",
-        "#AHMovie",
-        "#SambaraluForSankranthi",
         "#IndependeceDay2026",
-        "#SYGonJan12th"
+        "#astrosumitbajaj",
+        "#AHMovie",
+        "#GodNightSaturday",
+        "#IndepenvdenceDay"
       ],
       "regular_topics": [
         "Pilot Rakesh Tyagi",
-        "Independence Day",
         "Discovery Channel India",
+        "Dimagi Naxal",
+        "SEVEN CANNOT BE ERASED",
         "Devdutt Padikkal",
+        "DUANG GO ROUND DAY1",
         "Philips",
         "Uttar Pradesh",
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
         "AVINASH RISES WITH H2D2",
-        "DUANG GO ROUND DAY1",
-        "Dimagi Naxal",
-        "Wales",
-        "PERTHSANTA LOVE CLASS"
+        "At Home"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 14:46:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 15:39:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joao Pedro",
-        "Morgan Rogers",
+        "Amorim",
         "#OsunDecides2026",
+        "Maguire",
+        "Morgan Rogers",
+        "AC Milan",
+        "#MUNACM",
         "Real Sociedad",
         "Reece James",
-        "Amorim",
-        "BVAS",
-        "AC Milan",
-        "#CHERSO",
-        "INEC",
-        "IREV"
+        "Accord",
+        "Zion Suzuki"
       ],
       "hashtags": [
         "#OsunDecides2026",
+        "#MUNACM",
         "#CHERSO",
-        "#TCAugustMeeting2026",
-        "#WatchAjagaOnCircuits",
-        "#imole"
+        "#Imole",
+        "#TCAugustMeeting2026"
       ],
       "regular_topics": [
         "Joao Pedro",
+        "Amorim",
+        "Maguire",
         "Morgan Rogers",
+        "AC Milan",
         "Real Sociedad",
         "Reece James",
-        "Amorim",
-        "BVAS",
-        "AC Milan",
+        "Accord",
+        "Zion Suzuki",
         "INEC",
-        "IREV",
-        "Stamford Bridge",
-        "Robert Sanchez"
+        "IREV"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
