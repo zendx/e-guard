@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T22:07:29.246039+00:00",
+  "generated_at_utc": "2026-08-15T22:42:54.123459+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 21:06:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 21:57:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arne",
         "Amorim",
         "4x100m",
-        "Shaw",
         "Solis",
+        "Osun",
+        "Falkirk",
+        "Geno",
         "Carrick",
         "#bcfc",
-        "#EuropeanAthletics",
-        "Osun",
-        "Geno",
-        "Taiwo"
+        "IREV",
+        "#EuropeanAthletics"
       ],
       "hashtags": [
         "#bcfc",
         "#EuropeanAthletics",
         "#Birmingham2026",
-        "#ESTLondon",
-        "#EuropeanChampionships"
+        "#UFC330",
+        "#ESTLondon"
       ],
       "regular_topics": [
         "Arne",
         "Amorim",
         "4x100m",
-        "Shaw",
         "Solis",
-        "Carrick",
         "Osun",
+        "Falkirk",
         "Geno",
-        "Taiwo",
-        "Martinez",
-        "Duran"
+        "Carrick",
+        "IREV",
+        "Shaw",
+        "Sevilla"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
