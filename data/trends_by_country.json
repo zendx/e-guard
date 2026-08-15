@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T14:43:33.013153+00:00",
+  "generated_at_utc": "2026-08-15T15:08:06.181971+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -82,25 +82,25 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 13:57:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 14:51:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#N3onjack",
         "Andrew",
-        "#Caturday",
         "Apple TV",
         "Jason Arday",
-        "#DuangConcertDay1",
-        "#SmackDown",
+        "Rogue",
         "Inde",
+        "Joao Pedro",
         "Cambridge",
+        "#SmackDown",
         "Yankees"
       ],
       "hashtags": [
         "#N3onjack",
-        "#Caturday",
-        "#DuangConcertDay1",
         "#SmackDown",
+        "#DuangConcertDay1",
+        "#Caturday",
         "#starrgirl"
       ],
       "regular_topics": [
@@ -108,96 +108,97 @@
         "Andrew",
         "Apple TV",
         "Jason Arday",
+        "Rogue",
         "Inde",
+        "Joao Pedro",
         "Cambridge",
         "Yankees",
-        "Rogue",
-        "DUANG GO ROUND DAY1",
-        "Acadiens",
-        "Stellantis"
+        "Stellantis",
+        "Reece James"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 13:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 14:48:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TrimmersKaBaap",
+        "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
         "#DeclassifiedOperationSindoor",
-        "#BJPSeYariRandhwaAhankari",
         "#Border2OnZeeCinema",
         "Pilot Rakesh Tyagi",
-        "#BoseonStoryTV",
-        "Devdutt Padikkal",
         "Independence Day",
         "Discovery Channel India",
-        "Uttar Pradesh",
-        "Wales"
+        "Devdutt Padikkal",
+        "Philips",
+        "Uttar Pradesh"
       ],
       "hashtags": [
+        "#TrimmersKaBaap",
+        "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
         "#DeclassifiedOperationSindoor",
-        "#BJPSeYariRandhwaAhankari",
         "#Border2OnZeeCinema",
-        "#BoseonStoryTV",
         "#hbd_dheerajgurjar",
+        "#boseonstorytv",
+        "#AHMovie",
         "#SambaraluForSankranthi",
-        "#SYGonJan12th",
-        "#ApniBaatApnoKeSath",
-        "#BanegaSwasthIndia",
-        "#SambaralaYetiGattu"
+        "#IndependeceDay2026",
+        "#SYGonJan12th"
       ],
       "regular_topics": [
         "Pilot Rakesh Tyagi",
-        "Devdutt Padikkal",
         "Independence Day",
         "Discovery Channel India",
+        "Devdutt Padikkal",
+        "Philips",
         "Uttar Pradesh",
-        "Wales",
+        "AVINASH RISES WITH H2D2",
         "DUANG GO ROUND DAY1",
-        "Mega Supreme Hero",
-        "PERTHSANTA LOVE CLASS",
-        "Gautam Adani",
-        "Vande Mataram"
+        "Dimagi Naxal",
+        "Wales",
+        "PERTHSANTA LOVE CLASS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 13:51:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 14:46:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Joao Pedro",
         "Morgan Rogers",
         "#OsunDecides2026",
         "Real Sociedad",
-        "BVAS",
+        "Reece James",
         "Amorim",
-        "#TCAugustMeeting2026",
-        "Stamford Bridge",
-        "Robert Sanchez",
+        "BVAS",
         "AC Milan",
-        "BASIS",
-        "INEC"
+        "#CHERSO",
+        "INEC",
+        "IREV"
       ],
       "hashtags": [
         "#OsunDecides2026",
+        "#CHERSO",
         "#TCAugustMeeting2026",
         "#WatchAjagaOnCircuits",
-        "#furry"
+        "#imole"
       ],
       "regular_topics": [
+        "Joao Pedro",
         "Morgan Rogers",
         "Real Sociedad",
-        "BVAS",
+        "Reece James",
         "Amorim",
-        "Stamford Bridge",
-        "Robert Sanchez",
+        "BVAS",
         "AC Milan",
-        "BASIS",
         "INEC",
-        "Ward 4",
-        "Doom"
+        "IREV",
+        "Stamford Bridge",
+        "Robert Sanchez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
