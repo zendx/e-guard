@@ -1,79 +1,81 @@
 {
-  "generated_at_utc": "2026-08-15T01:56:02.897507+00:00",
+  "generated_at_utc": "2026-08-15T02:43:01.733909+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 01:28:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 02:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
         "Candace",
         "Falcons",
-        "Gunther",
+        "Paige",
+        "#OPLive",
         "Andrew",
-        "Cooper Rush",
-        "Sam Hartman",
-        "Cambridge",
-        "Chelsea Green",
-        "Baron Corbin",
-        "Jason Arday"
+        "Gunther",
+        "Fatal Influence",
+        "Ty Harris",
+        "JAYNE",
+        "Cooper Rush"
       ],
       "hashtags": [
         "#SmackDown",
+        "#OPLive",
         "#OPNation",
-        "#Halle60",
+        "#OnPatrolLive",
         "#RaiseHail"
       ],
       "regular_topics": [
         "Candace",
         "Falcons",
-        "Gunther",
+        "Paige",
         "Andrew",
+        "Gunther",
+        "Fatal Influence",
+        "Ty Harris",
+        "JAYNE",
         "Cooper Rush",
-        "Sam Hartman",
         "Cambridge",
-        "Chelsea Green",
-        "Baron Corbin",
-        "Jason Arday",
-        "Zappe"
+        "Sam Hartman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 01:04:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 01:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jason Arday",
         "#SmackDown",
+        "Jason Arday",
         "Cambridge",
         "Gunther",
+        "Kevin Owens",
         "Welsh",
         "Caroline Flack",
+        "Baron Corbin",
         "#TOTP",
-        "#severealert",
-        "Melo",
-        "Toti",
-        "Blackburn"
+        "Sami",
+        "Melo"
       ],
       "hashtags": [
         "#SmackDown",
         "#TOTP",
         "#severealert",
         "#wwfc",
-        "#HeatUpASongOrBand"
+        "#Rovers",
+        "#UFC330"
       ],
       "regular_topics": [
         "Jason Arday",
         "Cambridge",
         "Gunther",
+        "Kevin Owens",
         "Welsh",
         "Caroline Flack",
+        "Baron Corbin",
+        "Sami",
         "Melo",
         "Toti",
-        "Blackburn",
-        "Wolves",
-        "Walter Mitty",
         "Candace"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,45 +122,45 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 00:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 01:44:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "#15August",
-        "Jai Hind",
+        "#JaiHind",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#ProudIndian",
-        "#Freedom",
+        "\u0915\u0941\u0936\u093e\u092d\u093e\u090a \u0920\u093e\u0915\u0930\u0947",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
-        "As India",
-        "3 YRS OF ELVISH'S BB TRIUMPH"
+        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f",
+        "\u092a\u093e\u0935\u0928 \u0905\u0935\u0924\u093e\u0930"
       ],
       "hashtags": [
         "#IndependenceDay",
         "#15August",
+        "#JaiHind",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#HappyBirthdaySaintMSG",
+        "#MSGBhandara",
         "#ProudIndian",
         "#Freedom",
+        "#IndiaAt80",
         "#GodMorningSaturday",
-        "#Indonesia",
-        "#\u091c\u092f_\u0939\u093f\u0928\u094d\u0926",
-        "#KoinBX",
-        "#59\u0935\u093e\u0902_\u0905\u0935\u0924\u093e\u0930_\u0926\u093f\u0935\u0938",
-        "#ProudToBeIndian"
+        "#VandeMataram"
       ],
       "regular_topics": [
-        "Jai Hind",
+        "\u0915\u0941\u0936\u093e\u092d\u093e\u090a \u0920\u093e\u0915\u0930\u0947",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
+        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f",
+        "\u092a\u093e\u0935\u0928 \u0905\u0935\u0924\u093e\u0930",
         "As India",
-        "3 YRS OF ELVISH'S BB TRIUMPH",
         "Celebrating 80",
-        "\u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e",
-        "Nehru",
-        "BELIFT KEEP ENHYPEN UNITED",
-        "One Nation"
+        "\u0936\u094d\u0930\u0940 \u0936\u0928\u093f \u0926\u0947\u0935",
+        "Red Fort"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
