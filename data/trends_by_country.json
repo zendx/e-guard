@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T16:09:06.664533+00:00",
+  "generated_at_utc": "2026-08-15T16:45:56.147019+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 15:24:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 16:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Introducing",
-        "Good Saturday",
+        "Devon Witherspoon",
         "Happy Birthday Gary",
+        "Good Saturday",
         "Doom",
-        "Virginia State University",
-        "#Caturday",
-        "Rogue",
         "DevOps",
-        "Arday",
-        "#DuangConcertDay1",
-        "#SaturdayVibes"
+        "#Caturday",
+        "Virginia State University",
+        "Gonzo",
+        "Amorim",
+        "Rogue"
       ],
       "hashtags": [
         "#Caturday",
         "#DuangConcertDay1",
         "#SaturdayVibes",
         "#NationalRelaxationDay",
-        "#ashamed"
+        "#screenshotsaturday"
       ],
       "regular_topics": [
         "Introducing",
-        "Good Saturday",
+        "Devon Witherspoon",
         "Happy Birthday Gary",
+        "Good Saturday",
         "Doom",
-        "Virginia State University",
-        "Rogue",
         "DevOps",
-        "Arday",
-        "DUANG GO ROUND DAY1",
-        "X-Men",
-        "Inde"
+        "Virginia State University",
+        "Gonzo",
+        "Amorim",
+        "Rogue",
+        "Arday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -166,39 +166,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 15:39:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 16:32:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Joao Pedro",
         "Amorim",
-        "#OsunDecides2026",
-        "Maguire",
-        "Morgan Rogers",
-        "AC Milan",
+        "Carrick",
+        "Joao Pedro",
+        "Chukwueze",
+        "Bruno Fernandes",
         "#MUNACM",
-        "Real Sociedad",
-        "Reece James",
-        "Accord",
-        "Zion Suzuki"
+        "#OsunDecides2026",
+        "Shaw",
+        "Maguire",
+        "Dorgu",
+        "#Imole"
       ],
       "hashtags": [
-        "#OsunDecides2026",
         "#MUNACM",
-        "#CHERSO",
+        "#OsunDecides2026",
         "#Imole",
-        "#TCAugustMeeting2026"
+        "#CHERSO"
       ],
       "regular_topics": [
-        "Joao Pedro",
         "Amorim",
+        "Carrick",
+        "Joao Pedro",
+        "Chukwueze",
+        "Bruno Fernandes",
+        "Shaw",
         "Maguire",
-        "Morgan Rogers",
-        "AC Milan",
-        "Real Sociedad",
-        "Reece James",
+        "Dorgu",
+        "Loftus",
         "Accord",
-        "Zion Suzuki",
-        "INEC",
-        "IREV"
+        "Adeleke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
