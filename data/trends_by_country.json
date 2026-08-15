@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T17:09:44.116896+00:00",
+  "generated_at_utc": "2026-08-15T17:41:03.398597+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 16:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 17:12:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Introducing",
-        "Devon Witherspoon",
-        "Happy Birthday Gary",
-        "Good Saturday",
-        "Doom",
-        "DevOps",
-        "#Caturday",
-        "Virginia State University",
-        "Gonzo",
         "Amorim",
-        "Rogue"
+        "Introducing",
+        "Luke Shaw",
+        "Doom",
+        "Carrick",
+        "#Caturday",
+        "Devon Witherspoon",
+        "Gonzo",
+        "Happy Birthday Gary",
+        "Jaelan Phillips",
+        "Virginia State University"
       ],
       "hashtags": [
         "#Caturday",
+        "#DawgPound",
         "#DuangConcertDay1",
         "#SaturdayVibes",
-        "#NationalRelaxationDay",
-        "#screenshotsaturday"
+        "#MUFC"
       ],
       "regular_topics": [
-        "Introducing",
-        "Devon Witherspoon",
-        "Happy Birthday Gary",
-        "Good Saturday",
-        "Doom",
-        "DevOps",
-        "Virginia State University",
-        "Gonzo",
         "Amorim",
-        "Rogue",
-        "Arday"
+        "Introducing",
+        "Luke Shaw",
+        "Doom",
+        "Carrick",
+        "Devon Witherspoon",
+        "Gonzo",
+        "Happy Birthday Gary",
+        "Jaelan Phillips",
+        "Virginia State University",
+        "Good Saturday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,121 +82,118 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 16:39:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 17:30:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amorim",
         "Candace",
         "#N3onjack",
-        "Andrew",
         "Carrick",
-        "Jason Arday",
+        "Andrew",
         "Luke Shaw",
-        "Apple TV",
         "AC Milan",
+        "Jason Arday",
         "Rogue",
-        "Yankees"
+        "Apple TV",
+        "#BillsMafia"
       ],
       "hashtags": [
         "#N3onjack",
+        "#BillsMafia",
+        "#MUFC",
         "#Caturday",
-        "#SmackDown",
-        "#fursuitfriday",
-        "#starrgirl"
+        "#SmackDown"
       ],
       "regular_topics": [
         "Amorim",
         "Candace",
-        "Andrew",
         "Carrick",
-        "Jason Arday",
+        "Andrew",
         "Luke Shaw",
-        "Apple TV",
         "AC Milan",
+        "Jason Arday",
         "Rogue",
-        "Yankees",
-        "Cambridge"
+        "Apple TV",
+        "Daz Cameron",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 16:32:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 17:24:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
-        "#DeclassifiedOperationSindoor",
-        "#astrosumitbajaj",
-        "#BJPSeYariRandhwaAhankari",
+        "#AvaadaDeshKiMitti",
         "Amorim",
-        "Pilot Rakesh Tyagi",
+        "#astrosumitbajaj",
         "Dimagi Naxal",
+        "#DeclassifiedOperationSindoor",
         "SEVEN CANNOT BE ERASED",
-        "Discovery Channel India",
-        "Shaw"
+        "#NoFinancialSupportForHYBE",
+        "Carrick",
+        "Shaw",
+        "Milan"
       ],
       "hashtags": [
-        "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
-        "#DeclassifiedOperationSindoor",
+        "#AvaadaDeshKiMitti",
         "#astrosumitbajaj",
-        "#BJPSeYariRandhwaAhankari",
-        "#EducationManofUP",
-        "#IndependeceDay2026",
-        "#GodNightSaturday",
-        "#Border2OnZeeCinema",
-        "#IndepenvdenceDay"
+        "#DeclassifiedOperationSindoor",
+        "#NoFinancialSupportForHYBE",
+        "#BELIFT_Enforce_Artist_Welfare",
+        "#BJPSeYariRandhwaAhankari"
       ],
       "regular_topics": [
         "Amorim",
-        "Pilot Rakesh Tyagi",
         "Dimagi Naxal",
         "SEVEN CANNOT BE ERASED",
-        "Discovery Channel India",
+        "Carrick",
         "Shaw",
         "Milan",
         "At Home",
-        "DUANG GO ROUND DAY1",
+        "Rashford",
+        "Pilot Rakesh Tyagi",
         "Philips",
-        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 16:32:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 17:24:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amorim",
         "Carrick",
-        "Joao Pedro",
+        "Shaw",
+        "Man U",
         "Chukwueze",
+        "#Imole",
+        "#OsunDecides2026",
         "Bruno Fernandes",
         "#MUNACM",
-        "#OsunDecides2026",
-        "Shaw",
-        "Maguire",
-        "Dorgu",
-        "#Imole"
+        "Tielemans",
+        "Joao Pedro"
       ],
       "hashtags": [
-        "#MUNACM",
-        "#OsunDecides2026",
         "#Imole",
-        "#CHERSO"
+        "#OsunDecides2026",
+        "#MUNACM",
+        "#APARTMENT106THEMOVIE"
       ],
       "regular_topics": [
         "Amorim",
         "Carrick",
-        "Joao Pedro",
+        "Shaw",
+        "Man U",
         "Chukwueze",
         "Bruno Fernandes",
-        "Shaw",
+        "Tielemans",
+        "Joao Pedro",
         "Maguire",
-        "Dorgu",
-        "Loftus",
-        "Accord",
-        "Adeleke"
+        "Adeleke",
+        "Accord"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
