@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T18:51:42.281070+00:00",
+  "generated_at_utc": "2026-08-15T19:11:49.385733+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 18:03:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 18:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jaxson Dart",
-        "Malachi Fields",
-        "DJ Moore",
+        "Dart",
+        "Massie",
+        "Browns",
         "Deshaun Watson",
+        "Joshua Baez",
         "Tyrone Tracy",
-        "KC Concepcion",
-        "Amorim",
-        "#BillsMafia",
-        "Jay Ward",
-        "#DawgPound",
-        "#Browns"
+        "DJ Moore",
+        "Geno",
+        "Kaden Davis",
+        "Jamal Adams",
+        "Odell"
       ],
       "hashtags": [
-        "#BillsMafia",
         "#DawgPound",
-        "#Browns",
+        "#BillsMafia",
+        "#Giants",
         "#Skol",
-        "#NYGiants"
+        "#Caturday"
       ],
       "regular_topics": [
-        "Jaxson Dart",
-        "Malachi Fields",
-        "DJ Moore",
+        "Dart",
+        "Massie",
+        "Browns",
         "Deshaun Watson",
+        "Joshua Baez",
         "Tyrone Tracy",
-        "KC Concepcion",
-        "Amorim",
-        "Jay Ward",
-        "Keon Coleman",
-        "Deone Walker",
-        "Ivan Pace"
+        "DJ Moore",
+        "Geno",
+        "Kaden Davis",
+        "Jamal Adams",
+        "Odell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
