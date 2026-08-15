@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-08-15T21:41:02.773028+00:00",
+  "generated_at_utc": "2026-08-15T22:07:29.246039+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 20:40:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 21:32:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joshua Baez",
         "Massie",
-        "Browns",
         "#STLCards",
+        "Browns",
         "Boyd",
         "Nick Shirley",
         "Dart",
-        "Watson",
+        "Rattler",
         "Shedeur",
-        "Bears",
-        "Brandon Allen"
+        "Watson",
+        "Cyrus Allen"
       ],
       "hashtags": [
         "#STLCards",
-        "#DawgPound",
-        "#BlueWaveIn80Days",
-        "#BillsMafia",
-        "#Skol"
+        "#UFC330",
+        "#Saints",
+        "#ChiefsKingdom",
+        "#DawgPound"
       ],
       "regular_topics": [
         "Joshua Baez",
@@ -32,11 +32,11 @@
         "Boyd",
         "Nick Shirley",
         "Dart",
-        "Watson",
+        "Rattler",
         "Shedeur",
-        "Bears",
-        "Brandon Allen",
-        "Keenum"
+        "Watson",
+        "Cyrus Allen",
+        "Emmett Johnson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,122 +82,116 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 21:00:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 21:51:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "McAdoo",
         "Candace",
         "#N3onjack",
+        "Bateman",
         "Andrew",
-        "Joshua Baez",
         "Amorim",
         "Jason Arday",
         "Jesus Sanchez",
+        "Joshua Baez",
         "Rogue",
-        "Inde",
-        "Cambridge",
-        "Yankees"
+        "Lukes"
       ],
       "hashtags": [
         "#N3onjack",
+        "#BlueJays",
         "#Caturday",
-        "#IndyCar",
-        "#fursuitfriday",
+        "#UFC330",
         "#GoElks"
       ],
       "regular_topics": [
+        "McAdoo",
         "Candace",
+        "Bateman",
         "Andrew",
-        "Joshua Baez",
         "Amorim",
         "Jason Arday",
         "Jesus Sanchez",
+        "Joshua Baez",
         "Rogue",
-        "Inde",
-        "Cambridge",
-        "Yankees",
-        "Stellantis"
+        "Lukes",
+        "Yankees"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 20:54:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 21:46:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "KKK15 DARKHORSE FARHANA",
-        "#TrimmersKaBaap",
-        "#AvaadaDeshKiMitti",
-        "Dimagi Naxal",
-        "Amorim",
-        "#BELIFT_Enforce_Artist_Welfare",
-        "#NoFinancialSupportForHYBE",
-        "#astrosumitbajaj",
-        "SEVEN CANNOT BE ERASED",
-        "Carrick",
-        "Shaw"
+        "#IndependenceDay",
+        "Jai Hind",
+        "#15August",
+        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#DeclassifiedOperationSindoor",
+        "#EducationManofUP",
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "Vande Mataram",
+        "pilot rakesh tyagi",
+        "Red Fort",
+        "National Flag"
       ],
       "hashtags": [
-        "#TrimmersKaBaap",
-        "#AvaadaDeshKiMitti",
-        "#BELIFT_Enforce_Artist_Welfare",
-        "#NoFinancialSupportForHYBE",
-        "#astrosumitbajaj",
-        "#DUANG",
-        "#GodNightSaturday",
-        "#15ao\u00fbt",
-        "#RubinaDilaik",
-        "#Doom",
-        "#SayNoToTrisha"
+        "#IndependenceDay",
+        "#15August",
+        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#DeclassifiedOperationSindoor",
+        "#EducationManofUP"
       ],
       "regular_topics": [
-        "KKK15 DARKHORSE FARHANA",
+        "Jai Hind",
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "Vande Mataram",
+        "pilot rakesh tyagi",
+        "Red Fort",
+        "National Flag",
         "Dimagi Naxal",
-        "Amorim",
-        "SEVEN CANNOT BE ERASED",
-        "Carrick",
-        "Shaw",
-        "Milan",
-        "Rashford",
-        "INEOS",
-        "At Home",
-        "Maguire"
+        "KKK15 DARKHORSE FARHANA",
+        "Tricolour",
+        "discovery channel india",
+        "Doom"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 20:54:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 21:45:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Imole",
         "Osun",
-        "Amorim",
         "Adeleke",
         "INEC",
-        "Carrick",
+        "Amorim",
         "Accord",
+        "Carrick",
+        "Divine",
+        "Collation",
         "AC Milan",
-        "Man U",
-        "Shaw",
-        "Collation"
+        "Man U"
       ],
       "hashtags": [
         "#Imole",
         "#APARTMENT106THEMOVIE",
         "#davido",
-        "#MUNACM"
+        "#BBNaijaS111"
       ],
       "regular_topics": [
         "Osun",
-        "Amorim",
         "Adeleke",
         "INEC",
-        "Carrick",
+        "Amorim",
         "Accord",
+        "Carrick",
+        "Divine",
+        "Collation",
         "AC Milan",
         "Man U",
-        "Shaw",
-        "Collation",
-        "Ero Arike"
+        "Sevilla"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
