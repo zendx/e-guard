@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T16:45:56.147019+00:00",
+  "generated_at_utc": "2026-08-15T17:09:44.116896+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,123 +43,122 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 15:52:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 16:45:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Half Time",
-        "#swfc",
         "Amorim",
-        "Joao Pedro",
+        "Shaw",
+        "FULL TIME",
+        "#swfc",
+        "Carrick",
         "Maguire",
-        "Mikey Moore",
-        "#wafc",
-        "#readingfc",
+        "Milan",
+        "Djed",
         "#ncfc",
-        "Cunha",
-        "Suzuki"
+        "Lankshear",
+        "Martinez"
       ],
       "hashtags": [
         "#swfc",
-        "#wafc",
-        "#readingfc",
         "#ncfc",
-        "#oafc"
+        "#rufc",
+        "#pafc",
+        "#dcfc"
       ],
       "regular_topics": [
-        "Half Time",
         "Amorim",
-        "Joao Pedro",
+        "Shaw",
+        "FULL TIME",
+        "Carrick",
         "Maguire",
-        "Mikey Moore",
-        "Cunha",
-        "Suzuki",
-        "Palmer",
-        "AC Milan",
-        "MUTV",
-        "KICK OFF"
+        "Milan",
+        "Djed",
+        "Lankshear",
+        "Martinez",
+        "Taiwo",
+        "HALF TIME"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 15:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 16:39:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Amorim",
         "Candace",
         "#N3onjack",
         "Andrew",
-        "Amorim",
+        "Carrick",
         "Jason Arday",
+        "Luke Shaw",
         "Apple TV",
+        "AC Milan",
         "Rogue",
-        "Inde",
-        "Cambridge",
-        "Yankees",
-        "Stellantis"
+        "Yankees"
       ],
       "hashtags": [
         "#N3onjack",
-        "#SmackDown",
-        "#starrgirl",
         "#Caturday",
-        "#fursuitfriday"
+        "#SmackDown",
+        "#fursuitfriday",
+        "#starrgirl"
       ],
       "regular_topics": [
+        "Amorim",
         "Candace",
         "Andrew",
-        "Amorim",
+        "Carrick",
         "Jason Arday",
+        "Luke Shaw",
         "Apple TV",
+        "AC Milan",
         "Rogue",
-        "Inde",
-        "Cambridge",
         "Yankees",
-        "Stellantis",
-        "Joao Pedro"
+        "Cambridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 15:40:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 16:32:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
         "#DeclassifiedOperationSindoor",
+        "#astrosumitbajaj",
         "#BJPSeYariRandhwaAhankari",
-        "#EducationManofUP",
+        "Amorim",
         "Pilot Rakesh Tyagi",
-        "Discovery Channel India",
         "Dimagi Naxal",
         "SEVEN CANNOT BE ERASED",
-        "Devdutt Padikkal",
-        "DUANG GO ROUND DAY1"
+        "Discovery Channel India",
+        "Shaw"
       ],
       "hashtags": [
         "#AvaadaDeshKiMitti",
         "#TrimmersKaBaap",
         "#DeclassifiedOperationSindoor",
+        "#astrosumitbajaj",
         "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
-        "#Border2OnZeeCinema",
         "#IndependeceDay2026",
-        "#astrosumitbajaj",
-        "#AHMovie",
         "#GodNightSaturday",
+        "#Border2OnZeeCinema",
         "#IndepenvdenceDay"
       ],
       "regular_topics": [
+        "Amorim",
         "Pilot Rakesh Tyagi",
-        "Discovery Channel India",
         "Dimagi Naxal",
         "SEVEN CANNOT BE ERASED",
-        "Devdutt Padikkal",
+        "Discovery Channel India",
+        "Shaw",
+        "Milan",
+        "At Home",
         "DUANG GO ROUND DAY1",
         "Philips",
-        "Uttar Pradesh",
-        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
-        "AVINASH RISES WITH H2D2",
-        "At Home"
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
