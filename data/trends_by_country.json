@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-08-15T14:09:22.852122+00:00",
+  "generated_at_utc": "2026-08-15T14:43:33.013153+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 13:40:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 14:32:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Saturday",
-        "Introducing",
         "Virginia State University",
+        "Happy Birthday Gary",
         "#DuangConcertDay1",
-        "Rogue",
         "Caturday",
         "Doom",
-        "DUANG GO ROUND DAY1",
+        "Rogue",
         "#SaturdayVibes",
-        "DevOps",
-        "Happy Birthday Gary"
+        "DUANG GO ROUND DAY1",
+        "Arday",
+        "devops"
       ],
       "hashtags": [
         "#DuangConcertDay1",
         "#SaturdayVibes",
-        "#TruthBeyondDebate",
         "#VIDALoveLessonxPerthSanta",
-        "#SaturdayMotivation"
+        "#TruthBeyondDebate",
+        "#ashamed"
       ],
       "regular_topics": [
         "Good Saturday",
-        "Introducing",
         "Virginia State University",
-        "Rogue",
+        "Happy Birthday Gary",
         "Caturday",
         "Doom",
+        "Rogue",
         "DUANG GO ROUND DAY1",
-        "DevOps",
-        "Happy Birthday Gary",
         "Arday",
-        "PERTHSANTA LOVE CLASS"
+        "devops",
+        "Introducing",
+        "X-Men"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 13:12:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 14:03:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arday",
-        "#lcfc",
-        "Alves",
         "#readingfc",
-        "Jack Marriott",
-        "Cambridge",
+        "#lcfc",
+        "TEAM NEWS",
         "#oafc",
-        "Luke Thomas",
+        "KICK OFF",
         "Leicester",
         "#pnefc",
-        "Naismith"
+        "Arday",
+        "#bwfc",
+        "Starting XI",
+        "Alves"
       ],
       "hashtags": [
-        "#lcfc",
         "#readingfc",
+        "#lcfc",
         "#oafc",
         "#pnefc",
-        "#pvfc"
+        "#bwfc"
       ],
       "regular_topics": [
-        "Arday",
-        "Alves",
-        "Jack Marriott",
-        "Cambridge",
-        "Luke Thomas",
-        "Leicester",
-        "Naismith",
         "TEAM NEWS",
-        "Joffy",
-        "Preston",
-        "Doom"
+        "KICK OFF",
+        "Leicester",
+        "Arday",
+        "Starting XI",
+        "Alves",
+        "Luke Thomas",
+        "Souttar",
+        "Jack Marriott",
+        "Dorsett",
+        "Cambridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
