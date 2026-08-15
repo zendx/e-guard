@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T05:13:21.133593+00:00",
+  "generated_at_utc": "2026-08-15T05:46:30.608274+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,16 +42,16 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 04:30:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 05:21:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clacton",
         "#severealert",
         "Farage",
-        "#SmackDown",
         "Jason Arday",
         "BBQs",
         "Welsh",
-        "#TOTP",
+        "#SmackDown",
+        "#totp",
         "Cambridge",
         "Binface",
         "Essex Police"
@@ -59,9 +59,9 @@
       "hashtags": [
         "#severealert",
         "#SmackDown",
-        "#TOTP",
+        "#totp",
         "#vbscashquiz",
-        "#WOLBLA"
+        "#VisionQuest"
       ],
       "regular_topics": [
         "Clacton",
@@ -72,55 +72,55 @@
         "Cambridge",
         "Binface",
         "Essex Police",
-        "Stourbridge",
-        "Wolves",
-        "Adam Driver"
+        "Maya Boyd",
+        "Cailee",
+        "Stourbridge"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 04:21:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 05:15:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
+        "Rogue",
+        "Cailee Spaeny",
+        "Inde",
         "#SmackDown",
         "Andrew",
-        "Kingdom Hearts",
+        "Maya Boyd",
+        "Adam Driver",
         "Apple TV",
-        "annabeth",
-        "Yankees",
-        "Disney",
-        "#starrgirl",
-        "Cailee Spaeny",
-        "#Redblacks"
+        "X-Men",
+        "Kingdom Hearts"
       ],
       "hashtags": [
         "#SmackDown",
         "#starrgirl",
-        "#Redblacks",
+        "#VisionQuest",
         "#betya",
-        "#Bombers"
+        "#Redblacks"
       ],
       "regular_topics": [
         "Candace",
-        "Andrew",
-        "Kingdom Hearts",
-        "Apple TV",
-        "annabeth",
-        "Yankees",
-        "Disney",
+        "Rogue",
         "Cailee Spaeny",
-        "Doug Ford",
-        "Stellantis",
-        "Greer"
+        "Inde",
+        "Andrew",
+        "Maya Boyd",
+        "Adam Driver",
+        "Apple TV",
+        "X-Men",
+        "Kingdom Hearts",
+        "annabeth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 04:18:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 05:09:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "#15August",
@@ -132,7 +132,7 @@
         "#ProudIndian",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "\u0915\u0941\u0936\u093e\u092d\u093e\u090a \u0920\u093e\u0915\u0930\u0947"
+        "Dimagi Naxals"
       ],
       "hashtags": [
         "#IndependenceDay",
@@ -140,12 +140,12 @@
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "#KoinBX",
         "#ProudIndian",
+        "#VandeMataram",
+        "#15\u0905\u0917\u0938\u094d\u0924",
         "#MSGBhandara",
         "#HappyBirthdaySaintMSG",
-        "#VandeMataram",
         "#Freedom",
-        "#IndiaAt80",
-        "#15\u0905\u0917\u0938\u094d\u0924"
+        "#IndiaAt80"
       ],
       "regular_topics": [
         "Jai Hind",
@@ -153,19 +153,19 @@
         "Red Fort",
         "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092d\u093e\u0930\u0924",
         "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
+        "Dimagi Naxals",
+        "Celebrating 80",
         "\u0915\u0941\u0936\u093e\u092d\u093e\u090a \u0920\u093e\u0915\u0930\u0947",
         "As India",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "Celebrating 80",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "Dimagi Naxals"
+        "National Flag",
+        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 04:18:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 05:09:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dapper",
         "#starrgirl",
@@ -174,8 +174,8 @@
         "Seyi",
         "Osimhen",
         "Heaven Baby",
-        "Midnight in New York",
         "Galatasaray",
+        "Midnight in New York",
         "Kamsy",
         "Quansah"
       ],
@@ -184,7 +184,7 @@
         "#YouAndEternity",
         "#OsunDecides2026",
         "#refuelmoreonglovo",
-        "#latina"
+        "#winpesajackpot"
       ],
       "regular_topics": [
         "Dapper",
@@ -193,8 +193,8 @@
         "Seyi",
         "Osimhen",
         "Heaven Baby",
-        "Midnight in New York",
         "Galatasaray",
+        "Midnight in New York",
         "Kamsy",
         "Quansah",
         "Shalli"
