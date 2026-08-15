@@ -1,39 +1,40 @@
 {
-  "generated_at_utc": "2026-08-15T09:13:12.845324+00:00",
+  "generated_at_utc": "2026-08-15T09:46:13.266231+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 08:24:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 09:16:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rogue",
         "#N3onjack",
-        "X-Men",
         "Doom",
+        "X-Men",
         "Maya Boyd",
         "Kingdom Hearts",
         "Mystique",
         "Disney",
-        "Adam Driver",
         "Cailee Spaeny",
+        "Adam Driver",
         "Sora"
       ],
       "hashtags": [
         "#N3onjack",
-        "#VisionQuest",
         "#G1CLIMAX36",
+        "#VisionQuest",
+        "#njpw",
         "#SmackDown"
       ],
       "regular_topics": [
         "Rogue",
-        "X-Men",
         "Doom",
+        "X-Men",
         "Maya Boyd",
         "Kingdom Hearts",
         "Mystique",
         "Disney",
-        "Adam Driver",
         "Cailee Spaeny",
+        "Adam Driver",
         "Sora",
         "Coco"
       ],
@@ -119,84 +120,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 08:39:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 09:31:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
+        "#DeclassifiedOperationSindoor",
         "#ApniBaatApnoKeSath",
         "#BanegaSwasthIndia",
-        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#BoseonStoryTV",
         "Jai Hind",
-        "#15\u0905\u0917\u0938\u094d\u0924",
-        "HAPPY BIRTHDAY BINOY",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "HAPPY BIRTHDAY BINOY",
+        "Discovery Channel India",
         "Vande Mataram",
-        "Season 12 Finale",
-        "Red Fort"
+        "Season 12 Finale"
       ],
       "hashtags": [
         "#IndependenceDay",
+        "#DeclassifiedOperationSindoor",
         "#ApniBaatApnoKeSath",
         "#BanegaSwasthIndia",
-        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#15\u0905\u0917\u0938\u094d\u0924",
-        "#AzaadiKaMatlabSwasthBharat",
-        "#KoinBX",
-        "#HBDShivanshKushwaha",
-        "#AvengersDoomsday",
-        "#PMModi",
-        "#Trisha"
+        "#BoseonStoryTV",
+        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
         "Jai Hind",
-        "HAPPY BIRTHDAY BINOY",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "HAPPY BIRTHDAY BINOY",
+        "Discovery Channel India",
         "Vande Mataram",
         "Season 12 Finale",
-        "Red Fort",
         "National Flag",
-        "Dettol",
+        "Red Fort",
+        "Doom",
         "Dimagi Naxals",
-        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
-        "Jaiswal"
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 08:39:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 09:30:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OsunDecides2026",
-        "Doom",
         "#MarchForBasseyOtu",
-        "#FreedomWithBybit",
-        "Al Hilal",
-        "Gamdom",
-        "Another Saturday",
-        "Today is Saturday",
+        "Amorim",
+        "Doom",
         "#furry",
+        "#FreedomWithBybit",
+        "Gamdom",
+        "Al Hilal",
+        "Modakeke",
         "Real Sociedad",
-        "Matchday"
+        "Today is Saturday"
       ],
       "hashtags": [
         "#OsunDecides2026",
         "#MarchForBasseyOtu",
-        "#FreedomWithBybit",
         "#furry",
-        "#KCON"
+        "#FreedomWithBybit"
       ],
       "regular_topics": [
+        "Amorim",
         "Doom",
-        "Al Hilal",
         "Gamdom",
-        "Another Saturday",
-        "Today is Saturday",
+        "Al Hilal",
+        "Modakeke",
         "Real Sociedad",
-        "Matchday",
-        "Ruben Amorim",
+        "Today is Saturday",
+        "Another Saturday",
         "N3on",
-        "Inde Navarrette",
-        "Independence Day"
+        "BVAS",
+        "Abiola Ibrahim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
