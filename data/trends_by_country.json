@@ -1,40 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T23:08:43.368746+00:00",
+  "generated_at_utc": "2026-08-15T23:40:02.410143+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 22:27:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 23:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
+        "Ty Simpson",
         "Massie",
+        "Lucas Fernando",
         "Joshua Baez",
         "Jeremiah Wells",
-        "Orolbai",
         "Neil Magny",
         "Nick Shirley",
+        "Orolbai",
         "Zach Wilson",
-        "#STLCards",
-        "Browns",
-        "Emmett Johnson"
+        "Chiefs"
       ],
       "hashtags": [
         "#UFC330",
         "#STLCards",
-        "#Saints"
+        "#FlyEaglesFly",
+        "#RavensFlock",
+        "#RamsHouse"
       ],
       "regular_topics": [
+        "Ty Simpson",
         "Massie",
+        "Lucas Fernando",
         "Joshua Baez",
         "Jeremiah Wells",
-        "Orolbai",
         "Neil Magny",
         "Nick Shirley",
+        "Orolbai",
         "Zach Wilson",
-        "Browns",
-        "Emmett Johnson",
-        "Rattler",
-        "Boyd"
+        "Chiefs",
+        "Tobias"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
