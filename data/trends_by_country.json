@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T11:07:33.138935+00:00",
+  "generated_at_utc": "2026-08-15T11:40:20.523389+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 10:08:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 11:00:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Saturday",
         "Rogue",
-        "#N3onjack",
         "Doom",
         "X-Men",
-        "Good Saturday",
+        "#N3onjack",
+        "#DuangConcertDay1",
+        "DUANG GO ROUND DAY1",
         "Maya Boyd",
         "Kingdom Hearts",
-        "Mystique",
-        "Cailee",
-        "Disney",
-        "#G1CLIMAX36"
+        "Storm",
+        "Arday"
       ],
       "hashtags": [
         "#N3onjack",
-        "#G1CLIMAX36",
         "#DuangConcertDay1",
+        "#G1CLIMAX36",
         "#njpw",
         "#SB19atSummerSonic_Tokyo"
       ],
       "regular_topics": [
+        "Good Saturday",
         "Rogue",
         "Doom",
         "X-Men",
-        "Good Saturday",
+        "DUANG GO ROUND DAY1",
         "Maya Boyd",
         "Kingdom Hearts",
-        "Mystique",
-        "Cailee",
+        "Storm",
+        "Arday",
         "Disney",
-        "Adam Driver",
-        "Sora"
+        "Mystique"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,119 +82,120 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 10:28:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 11:20:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#N3onjack",
         "Andrew",
         "Apple TV",
-        "#SmackDown",
         "#betya",
-        "Inde",
-        "Yankees",
+        "#SmackDown",
         "Doom",
         "Jason Arday",
-        "#starrgirl"
+        "Yankees",
+        "Rogue",
+        "SB19 TOKYO DRIP"
       ],
       "hashtags": [
         "#N3onjack",
-        "#SmackDown",
         "#betya",
-        "#starrgirl",
-        "#money"
+        "#SmackDown",
+        "#money",
+        "#starrgirl"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
         "Apple TV",
-        "Inde",
-        "Yankees",
         "Doom",
         "Jason Arday",
-        "Stellantis",
+        "Yankees",
         "Rogue",
-        "Doug Ford",
-        "Greer"
+        "SB19 TOKYO DRIP",
+        "Stellantis",
+        "Inde",
+        "Doug Ford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 10:24:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 11:18:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DeclassifiedOperationSindoor",
         "#EducationManofUP",
-        "#BanegaSwasthIndia",
         "#ApniBaatApnoKeSath",
         "#HBD_DheerajGurjar",
+        "#BoseonStoryTV",
         "Pilot Rakesh Tyagi",
         "Discovery Channel India",
-        "Jai Hind",
-        "Season 12 Finale",
         "\u0927\u0940\u0930\u091c \u0917\u0941\u0930\u094d\u091c\u0930",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947"
+        "Gautam Adani",
+        "Devdutt Padikkal",
+        "Jai Hind"
       ],
       "hashtags": [
         "#DeclassifiedOperationSindoor",
         "#EducationManofUP",
-        "#BanegaSwasthIndia",
         "#ApniBaatApnoKeSath",
         "#HBD_DheerajGurjar",
         "#BoseonStoryTV",
+        "#BanegaSwasthIndia",
         "#IndependenceDay",
-        "#AzaadiKaMatlabSwasthBharat"
+        "#AzaadiKaMatlabSwasthBharat",
+        "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
         "Pilot Rakesh Tyagi",
         "Discovery Channel India",
+        "\u0927\u0940\u0930\u091c \u0917\u0941\u0930\u094d\u091c\u0930",
+        "Gautam Adani",
+        "Devdutt Padikkal",
         "Jai Hind",
         "Season 12 Finale",
-        "\u0927\u0940\u0930\u091c \u0917\u0941\u0930\u094d\u091c\u0930",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "Vande Mataram",
-        "HAPPY BIRTHDAY BINOY",
-        "Gautam Adani",
-        "National Flag",
-        "Red Fort"
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "Viksit Uttar Pradesh 2047",
+        "HAPPY BIRTHDAY BINOY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 10:24:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 11:16:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OsunDecides2026",
-        "Amorim",
-        "#WatchAjagaOnCircuits",
         "BVAS",
-        "#MarchForBasseyOtu",
-        "Doom",
+        "#WatchAjagaOnCircuits",
+        "Amorim",
         "Ward 9",
         "#furry",
+        "Doom",
+        "#TCAugustMeeting2026",
         "Modakeke",
-        "Tram and Temi",
-        "Gamdom"
+        "INEC",
+        "Ikire"
       ],
       "hashtags": [
         "#OsunDecides2026",
         "#WatchAjagaOnCircuits",
-        "#MarchForBasseyOtu",
         "#furry",
-        "#FreedomWithBybit"
+        "#TCAugustMeeting2026",
+        "#MarchForBasseyOtu"
       ],
       "regular_topics": [
-        "Amorim",
         "BVAS",
-        "Doom",
+        "Amorim",
         "Ward 9",
+        "Doom",
         "Modakeke",
-        "Tram and Temi",
-        "Gamdom",
-        "Ikire",
         "INEC",
-        "Real Sociedad",
+        "Ikire",
+        "Adeleke",
+        "Ejigbo",
+        "Irewole LGA",
         "Ede North"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
