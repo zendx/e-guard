@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T08:50:19.834792+00:00",
+  "generated_at_utc": "2026-08-15T09:13:12.845324+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,123 +42,122 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 08:00:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 08:51:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Clacton",
-        "Farage",
-        "#severealert",
-        "Jason Arday",
+        "Arday",
         "Cambridge",
-        "BBQs",
-        "Welsh",
+        "MATCH DAY",
         "#Caturday",
         "#PostboxSaturday",
-        "MATCH DAY",
-        "#Damp"
+        "Doom",
+        "FA Vase",
+        "#Damp",
+        "Rogue",
+        "GAME DAY",
+        "X-Men"
       ],
       "hashtags": [
-        "#severealert",
         "#Caturday",
         "#PostboxSaturday",
         "#Damp",
-        "#totp"
+        "#SmackDown"
       ],
       "regular_topics": [
-        "Clacton",
-        "Farage",
-        "Jason Arday",
+        "Arday",
         "Cambridge",
-        "BBQs",
-        "Welsh",
         "MATCH DAY",
-        "Stourbridge",
-        "Binface",
-        "Caroline Flack",
-        "Essex Police"
+        "Doom",
+        "FA Vase",
+        "Rogue",
+        "GAME DAY",
+        "X-Men",
+        "Maya Boyd",
+        "Dr David Kelly",
+        "Caroline Flack"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 07:51:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 08:44:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#N3onjack",
         "Candace",
-        "Doom",
-        "Rogue",
         "Andrew",
-        "Inde",
+        "Rogue",
         "Apple TV",
-        "Adam Driver",
-        "Cailee Spaeny",
-        "X-Men",
+        "Inde",
+        "Doom",
+        "#SmackDown",
         "Disney",
-        "Maya Boyd"
+        "X-Men",
+        "Yankees"
       ],
       "hashtags": [
+        "#N3onjack",
         "#SmackDown",
         "#starrgirl",
-        "#betya",
-        "#VisionQuest",
-        "#fursuitfriday"
+        "#FursuitFriday",
+        "#Halle60"
       ],
       "regular_topics": [
         "Candace",
-        "Doom",
-        "Rogue",
         "Andrew",
-        "Inde",
+        "Rogue",
         "Apple TV",
-        "Adam Driver",
-        "Cailee Spaeny",
-        "X-Men",
+        "Inde",
+        "Doom",
         "Disney",
-        "Maya Boyd"
+        "X-Men",
+        "Yankees",
+        "Maya Boyd",
+        "Christopher Abbott"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 07:45:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 08:39:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
+        "#ApniBaatApnoKeSath",
+        "#BanegaSwasthIndia",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "Jai Hind",
-        "#15August",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "#15\u0905\u0917\u0938\u094d\u0924",
-        "#KoinBX",
+        "HAPPY BIRTHDAY BINOY",
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "Vande Mataram",
-        "Red Fort",
-        "National Flag",
-        "Jaiswal"
+        "Season 12 Finale",
+        "Red Fort"
       ],
       "hashtags": [
         "#IndependenceDay",
+        "#ApniBaatApnoKeSath",
+        "#BanegaSwasthIndia",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#15August",
         "#15\u0905\u0917\u0938\u094d\u0924",
+        "#AzaadiKaMatlabSwasthBharat",
         "#KoinBX",
         "#HBDShivanshKushwaha",
         "#AvengersDoomsday",
         "#PMModi",
-        "#IndiaAt80",
-        "#Trisha",
-        "#ProudIndian"
+        "#Trisha"
       ],
       "regular_topics": [
         "Jai Hind",
+        "HAPPY BIRTHDAY BINOY",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "Vande Mataram",
+        "Season 12 Finale",
         "Red Fort",
         "National Flag",
-        "Jaiswal",
+        "Dettol",
         "Dimagi Naxals",
-        "\u0935\u0940\u0930 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e",
-        "KL Rahul",
-        "Tricolour",
-        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940"
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
+        "Jaiswal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
