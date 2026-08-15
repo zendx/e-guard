@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T20:07:31.088991+00:00",
+  "generated_at_utc": "2026-08-15T20:43:28.998358+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,38 +43,38 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 19:20:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:15:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amorim",
+        "Arne",
         "Shaw",
+        "Carrick",
         "#bcfc",
         "Solis",
-        "Carrick",
         "Geno",
         "Duran",
-        "Maguire",
         "Martinez",
-        "FULL TIME",
-        "Milan"
+        "Taiwo",
+        "Maguire"
       ],
       "hashtags": [
         "#bcfc",
-        "#ncfc",
         "#thehitlist",
         "#soundsofthe80s",
-        "#swfc"
+        "#swfc",
+        "#ESTLondon"
       ],
       "regular_topics": [
         "Amorim",
+        "Arne",
         "Shaw",
-        "Solis",
         "Carrick",
+        "Solis",
         "Geno",
         "Duran",
-        "Maguire",
         "Martinez",
-        "FULL TIME",
-        "Milan",
+        "Taiwo",
+        "Maguire",
         "Paik"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,56 +82,56 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 19:12:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:04:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#N3onjack",
         "Andrew",
         "Amorim",
         "Jason Arday",
+        "Ricky Tiedemann",
         "Rogue",
         "Cambridge",
-        "Inde",
-        "Jaxson Dart",
-        "Stellantis",
-        "Apple TV"
+        "Osun",
+        "Joshua Baez",
+        "Inde"
       ],
       "hashtags": [
         "#N3onjack",
+        "#GoElks",
         "#Caturday",
-        "#BillsMafia",
-        "#MUFC",
-        "#fursuitfriday"
+        "#ExtendTS2023",
+        "#MarchToOttawa"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
         "Amorim",
         "Jason Arday",
+        "Ricky Tiedemann",
         "Rogue",
         "Cambridge",
+        "Osun",
+        "Joshua Baez",
         "Inde",
-        "Jaxson Dart",
-        "Stellantis",
-        "Apple TV",
-        "Yankees"
+        "Jesus Sanchez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 19:08:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:01:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "KKK15 DARKHORSE FARHANA",
         "#TrimmersKaBaap",
         "#AvaadaDeshKiMitti",
         "Amorim",
-        "Dimagi Naxal",
         "#BELIFT_Enforce_Artist_Welfare",
+        "Dimagi Naxal",
         "#NoFinancialSupportForHYBE",
-        "SEVEN CANNOT BE ERASED",
         "#astrosumitbajaj",
+        "SEVEN CANNOT BE ERASED",
         "Carrick",
         "Shaw"
       ],
@@ -141,12 +141,12 @@
         "#BELIFT_Enforce_Artist_Welfare",
         "#NoFinancialSupportForHYBE",
         "#astrosumitbajaj",
+        "#DUANG",
         "#GodNightSaturday",
         "#DeclassifiedOperationSindoor",
-        "#DuangConcertDay1",
-        "#IndependeceDay2026",
-        "#IndepenvdenceDay",
-        "#VishnwanathAndSons"
+        "#Doom",
+        "#NenuReady",
+        "#RubinaDilaik"
       ],
       "regular_topics": [
         "KKK15 DARKHORSE FARHANA",
@@ -158,45 +158,46 @@
         "Milan",
         "At Home",
         "Rashford",
-        "Philips",
-        "Maguire"
+        "Maguire",
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 19:07:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:00:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amorim",
-        "Carrick",
         "#Imole",
         "Osun",
         "Adeleke",
-        "Man U",
-        "Shaw",
+        "Carrick",
         "IREV",
         "Accord",
-        "#APARTMENT106THEMOVIE",
-        "INEOS"
+        "Man U",
+        "Shaw",
+        "INEOS",
+        "#APARTMENT106THEMOVIE"
       ],
       "hashtags": [
         "#Imole",
         "#APARTMENT106THEMOVIE",
-        "#MUNACM"
+        "#MUNACM",
+        "#BBNaijaS111"
       ],
       "regular_topics": [
         "Amorim",
-        "Carrick",
         "Osun",
         "Adeleke",
-        "Man U",
-        "Shaw",
+        "Carrick",
         "IREV",
         "Accord",
+        "Man U",
+        "Shaw",
         "INEOS",
-        "Chukwueze",
-        "Bruno Fernandes"
+        "Ero Arike",
+        "Chukwueze"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
