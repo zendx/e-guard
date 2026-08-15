@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T17:41:03.398597+00:00",
+  "generated_at_utc": "2026-08-15T18:09:59.448510+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 16:45:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 17:36:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amorim",
         "Shaw",
-        "FULL TIME",
-        "#swfc",
         "Carrick",
+        "FULL TIME",
         "Maguire",
         "Milan",
+        "#swfc",
+        "Martinez",
         "Djed",
-        "#ncfc",
-        "Lankshear",
-        "Martinez"
+        "Taiwo",
+        "#thehitlist"
       ],
       "hashtags": [
         "#swfc",
+        "#thehitlist",
         "#ncfc",
-        "#rufc",
         "#pafc",
-        "#dcfc"
+        "#bcafc"
       ],
       "regular_topics": [
         "Amorim",
         "Shaw",
-        "FULL TIME",
         "Carrick",
+        "FULL TIME",
         "Maguire",
         "Milan",
-        "Djed",
-        "Lankshear",
         "Martinez",
+        "Djed",
         "Taiwo",
-        "HALF TIME"
+        "Suzuki",
+        "Galbraith"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
