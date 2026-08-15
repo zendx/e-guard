@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T20:43:28.998358+00:00",
+  "generated_at_utc": "2026-08-15T21:08:49.275480+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 19:48:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Massie",
         "Joshua Baez",
+        "Massie",
         "Browns",
+        "#STLCards",
+        "Boyd",
+        "Nick Shirley",
         "Dart",
-        "Brandon Allen",
-        "Keenum",
         "Watson",
         "Shedeur",
-        "Beanie Bishop",
-        "Nick Shirley",
-        "#STLCards"
+        "Bears",
+        "Brandon Allen"
       ],
       "hashtags": [
         "#STLCards",
         "#DawgPound",
+        "#BlueWaveIn80Days",
         "#BillsMafia",
-        "#Skol",
-        "#BlueWaveIn80Days"
+        "#Skol"
       ],
       "regular_topics": [
-        "Massie",
         "Joshua Baez",
+        "Massie",
         "Browns",
+        "Boyd",
+        "Nick Shirley",
         "Dart",
-        "Brandon Allen",
-        "Keenum",
         "Watson",
         "Shedeur",
-        "Beanie Bishop",
-        "Nick Shirley",
-        "Dillon Gabriel"
+        "Bears",
+        "Brandon Allen",
+        "Keenum"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,14 +121,14 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 20:01:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:54:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "KKK15 DARKHORSE FARHANA",
         "#TrimmersKaBaap",
         "#AvaadaDeshKiMitti",
+        "Dimagi Naxal",
         "Amorim",
         "#BELIFT_Enforce_Artist_Welfare",
-        "Dimagi Naxal",
         "#NoFinancialSupportForHYBE",
         "#astrosumitbajaj",
         "SEVEN CANNOT BE ERASED",
@@ -143,61 +143,61 @@
         "#astrosumitbajaj",
         "#DUANG",
         "#GodNightSaturday",
-        "#DeclassifiedOperationSindoor",
+        "#15ao\u00fbt",
+        "#RubinaDilaik",
         "#Doom",
-        "#NenuReady",
-        "#RubinaDilaik"
+        "#SayNoToTrisha"
       ],
       "regular_topics": [
         "KKK15 DARKHORSE FARHANA",
-        "Amorim",
         "Dimagi Naxal",
+        "Amorim",
         "SEVEN CANNOT BE ERASED",
         "Carrick",
         "Shaw",
         "Milan",
-        "At Home",
         "Rashford",
-        "Maguire",
-        "Tielemans"
+        "INEOS",
+        "At Home",
+        "Maguire"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 20:00:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 20:54:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Amorim",
         "#Imole",
         "Osun",
+        "Amorim",
         "Adeleke",
+        "INEC",
         "Carrick",
-        "IREV",
         "Accord",
+        "AC Milan",
         "Man U",
         "Shaw",
-        "INEOS",
-        "#APARTMENT106THEMOVIE"
+        "Collation"
       ],
       "hashtags": [
         "#Imole",
         "#APARTMENT106THEMOVIE",
-        "#MUNACM",
-        "#BBNaijaS111"
+        "#davido",
+        "#MUNACM"
       ],
       "regular_topics": [
-        "Amorim",
         "Osun",
+        "Amorim",
         "Adeleke",
+        "INEC",
         "Carrick",
-        "IREV",
         "Accord",
+        "AC Milan",
         "Man U",
         "Shaw",
-        "INEOS",
-        "Ero Arike",
-        "Chukwueze"
+        "Collation",
+        "Ero Arike"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
