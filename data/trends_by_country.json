@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-15T13:47:37.609025+00:00",
+  "generated_at_utc": "2026-08-15T14:09:22.852122+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 12:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 13:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Introducing",
         "Good Saturday",
+        "Introducing",
         "Virginia State University",
-        "Rogue",
         "#DuangConcertDay1",
-        "DevOps",
+        "Rogue",
         "Caturday",
-        "#TruthBeyondDebate",
-        "DUANG GO ROUND DAY1",
         "Doom",
-        "#VIDALoveLessonxPerthSanta"
+        "DUANG GO ROUND DAY1",
+        "#SaturdayVibes",
+        "DevOps",
+        "Happy Birthday Gary"
       ],
       "hashtags": [
         "#DuangConcertDay1",
+        "#SaturdayVibes",
         "#TruthBeyondDebate",
         "#VIDALoveLessonxPerthSanta",
-        "#SaturdayVibes",
-        "#N3onjack"
+        "#SaturdayMotivation"
       ],
       "regular_topics": [
-        "Introducing",
         "Good Saturday",
+        "Introducing",
         "Virginia State University",
         "Rogue",
-        "DevOps",
         "Caturday",
-        "DUANG GO ROUND DAY1",
         "Doom",
-        "PERTHSANTA LOVE CLASS",
+        "DUANG GO ROUND DAY1",
+        "DevOps",
+        "Happy Birthday Gary",
         "Arday",
-        "X-Men"
+        "PERTHSANTA LOVE CLASS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,50 +82,50 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 13:04:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 13:57:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Candace",
         "#N3onjack",
         "Andrew",
+        "#Caturday",
         "Apple TV",
-        "Good Saturday",
         "Jason Arday",
         "#DuangConcertDay1",
-        "Acadiens",
         "#SmackDown",
-        "#Caturday",
+        "Inde",
+        "Cambridge",
         "Yankees"
       ],
       "hashtags": [
         "#N3onjack",
+        "#Caturday",
         "#DuangConcertDay1",
         "#SmackDown",
-        "#Caturday",
         "#starrgirl"
       ],
       "regular_topics": [
         "Candace",
         "Andrew",
         "Apple TV",
-        "Good Saturday",
         "Jason Arday",
-        "Acadiens",
-        "Yankees",
-        "Stellantis",
         "Inde",
         "Cambridge",
-        "doug ford"
+        "Yankees",
+        "Rogue",
+        "DUANG GO ROUND DAY1",
+        "Acadiens",
+        "Stellantis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 13:00:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 13:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
         "#DeclassifiedOperationSindoor",
+        "#BJPSeYariRandhwaAhankari",
         "#Border2OnZeeCinema",
         "Pilot Rakesh Tyagi",
         "#BoseonStoryTV",
@@ -133,20 +133,20 @@
         "Independence Day",
         "Discovery Channel India",
         "Uttar Pradesh",
-        "\u0927\u0940\u0930\u091c \u0917\u0941\u0930\u094d\u091c\u0930"
+        "Wales"
       ],
       "hashtags": [
-        "#BJPSeYariRandhwaAhankari",
         "#EducationManofUP",
         "#DeclassifiedOperationSindoor",
+        "#BJPSeYariRandhwaAhankari",
         "#Border2OnZeeCinema",
         "#BoseonStoryTV",
-        "#HBD_DheerajGurjar",
-        "#ApniBaatApnoKeSath",
-        "#KoinBX",
+        "#hbd_dheerajgurjar",
         "#SambaraluForSankranthi",
         "#SYGonJan12th",
-        "#BanegaSwasthIndia"
+        "#ApniBaatApnoKeSath",
+        "#BanegaSwasthIndia",
+        "#SambaralaYetiGattu"
       ],
       "regular_topics": [
         "Pilot Rakesh Tyagi",
@@ -154,51 +154,50 @@
         "Independence Day",
         "Discovery Channel India",
         "Uttar Pradesh",
-        "\u0927\u0940\u0930\u091c \u0917\u0941\u0930\u094d\u091c\u0930",
         "Wales",
+        "DUANG GO ROUND DAY1",
         "Mega Supreme Hero",
+        "PERTHSANTA LOVE CLASS",
         "Gautam Adani",
-        "Vande Mataram",
-        "PERTHSANTA LOVE CLASS"
+        "Vande Mataram"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 13:00:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 13:51:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Morgan Rogers",
         "#OsunDecides2026",
-        "BVAS",
         "Real Sociedad",
-        "#TCAugustMeeting2026",
+        "BVAS",
         "Amorim",
+        "#TCAugustMeeting2026",
+        "Stamford Bridge",
+        "Robert Sanchez",
+        "AC Milan",
         "BASIS",
-        "#WatchAjagaOnCircuits",
-        "Ward 9",
-        "Emegha",
-        "Doom",
-        "Unit 13"
+        "INEC"
       ],
       "hashtags": [
         "#OsunDecides2026",
         "#TCAugustMeeting2026",
         "#WatchAjagaOnCircuits",
-        "#furry",
-        "#MarchForBasseyOtu"
+        "#furry"
       ],
       "regular_topics": [
-        "BVAS",
+        "Morgan Rogers",
         "Real Sociedad",
+        "BVAS",
         "Amorim",
+        "Stamford Bridge",
+        "Robert Sanchez",
+        "AC Milan",
         "BASIS",
-        "Ward 9",
-        "Emegha",
-        "Doom",
-        "Unit 13",
-        "No Jackson",
-        "Ejigbo",
-        "INEC"
+        "INEC",
+        "Ward 4",
+        "Doom"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
