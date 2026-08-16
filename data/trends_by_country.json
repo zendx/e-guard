@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-08-16T03:23:44.257922+00:00",
+  "generated_at_utc": "2026-08-16T04:04:35.834312+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 02:48:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 03:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
+        "Dern",
         "Camden Brown",
+        "Robertson",
         "Jalin Turner",
         "Ray J",
         "Big Lex",
         "Edson Barboza",
         "Tesehki",
-        "#zeus",
         "Massie",
-        "#AEWCollision",
-        "Joey Logano"
+        "Cowboys"
       ],
       "hashtags": [
         "#UFC330",
         "#zeus",
-        "#AEWCollision",
         "#GCWHomecoming",
+        "#AEWCollision",
         "#OPLive"
       ],
       "regular_topics": [
+        "Dern",
         "Camden Brown",
+        "Robertson",
         "Jalin Turner",
         "Ray J",
         "Big Lex",
         "Edson Barboza",
         "Tesehki",
         "Massie",
-        "Joey Logano",
-        "Dustin Stoltzfus",
-        "Lynx",
-        "Orlando Brown"
+        "Cowboys",
+        "Joey Logano"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 02:21:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 03:15:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Jason Arday",
         "Cambridge",
         "Amorim",
+        "Dern",
         "Edson Barboza",
-        "Charles Johnson",
+        "Jalin Turner",
         "Welsh",
         "Farage",
         "Joel Alvarez",
-        "BBQs",
-        "Caroline Flack"
+        "Gillian Robertson"
       ],
       "hashtags": [
         "#UFC330",
         "#severealert",
-        "#zeus",
+        "#AEWCollision",
         "#swfc",
-        "#AEWCollision"
+        "#readingfc"
       ],
       "regular_topics": [
         "Jason Arday",
         "Cambridge",
         "Amorim",
+        "Dern",
         "Edson Barboza",
-        "Charles Johnson",
+        "Jalin Turner",
         "Welsh",
         "Farage",
         "Joel Alvarez",
-        "BBQs",
-        "Caroline Flack",
-        "Clacton"
+        "Gillian Robertson",
+        "BBQs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
