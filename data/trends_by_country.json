@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T11:08:35.942769+00:00",
+  "generated_at_utc": "2026-08-16T11:40:27.869572+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,40 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 10:09:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 11:03:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jason Arday",
-        "#UFC330",
         "Osun",
-        "Cambridge",
-        "Amorim",
         "#ASongOrMovieForAboutSausages",
-        "Farage",
-        "Welsh",
-        "Adeleke",
+        "Community Shield",
+        "Udogie",
+        "Patrick",
         "Bangladesh",
-        "Community Shield"
+        "Adeleke",
+        "Falkirk",
+        "#Elevated",
+        "Tinubu",
+        "John Craven"
       ],
       "hashtags": [
-        "#UFC330",
         "#ASongOrMovieForAboutSausages",
+        "#Elevated",
         "#SundayYellow",
-        "#elevated",
-        "#severealert"
+        "#FormulaE",
+        "#LondonEPrix",
+        "#AUSvBAN"
       ],
       "regular_topics": [
-        "Jason Arday",
         "Osun",
-        "Cambridge",
-        "Amorim",
-        "Farage",
-        "Welsh",
-        "Adeleke",
-        "Bangladesh",
         "Community Shield",
-        "Clacton",
-        "Garry"
+        "Udogie",
+        "Patrick",
+        "Bangladesh",
+        "Adeleke",
+        "Falkirk",
+        "Tinubu",
+        "John Craven",
+        "Kudus",
+        "Ewen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
