@@ -1,198 +1,199 @@
 {
-  "generated_at_utc": "2026-08-16T02:13:00.031775+00:00",
+  "generated_at_utc": "2026-08-16T03:23:44.257922+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 01:03:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 02:48:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
+        "Camden Brown",
+        "Jalin Turner",
         "Ray J",
-        "#zeus",
         "Big Lex",
-        "Charles Johnson",
-        "Joel Alvarez",
+        "Edson Barboza",
+        "Tesehki",
+        "#zeus",
         "Massie",
-        "Ringo",
-        "Riku",
-        "Ty Simpson",
-        "Tesehki"
+        "#AEWCollision",
+        "Joey Logano"
       ],
       "hashtags": [
         "#UFC330",
         "#zeus",
         "#AEWCollision",
-        "#Svengoolie",
-        "#baddies"
+        "#GCWHomecoming",
+        "#OPLive"
       ],
       "regular_topics": [
+        "Camden Brown",
+        "Jalin Turner",
         "Ray J",
         "Big Lex",
-        "Charles Johnson",
-        "Joel Alvarez",
-        "Massie",
-        "Ringo",
-        "Riku",
-        "Ty Simpson",
+        "Edson Barboza",
         "Tesehki",
-        "Donald",
-        "Tyler Loop"
+        "Massie",
+        "Joey Logano",
+        "Dustin Stoltzfus",
+        "Lynx",
+        "Orlando Brown"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 01:30:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 02:21:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Jason Arday",
         "Cambridge",
         "Amorim",
-        "Welsh",
+        "Edson Barboza",
         "Charles Johnson",
-        "Joel Alvarez",
+        "Welsh",
         "Farage",
+        "Joel Alvarez",
         "BBQs",
-        "Caroline Flack",
-        "#severealert"
+        "Caroline Flack"
       ],
       "hashtags": [
         "#UFC330",
         "#severealert",
         "#zeus",
         "#swfc",
-        "#readingfc"
+        "#AEWCollision"
       ],
       "regular_topics": [
         "Jason Arday",
         "Cambridge",
         "Amorim",
-        "Welsh",
+        "Edson Barboza",
         "Charles Johnson",
-        "Joel Alvarez",
+        "Welsh",
         "Farage",
+        "Joel Alvarez",
         "BBQs",
         "Caroline Flack",
-        "Clacton",
-        "FA Vase"
+        "Clacton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 01:21:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 03:08:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
+        "Jalin Turner",
+        "Edson Barboza",
         "Candace",
-        "#N3onjack",
-        "Charles Johnson",
+        "Dustin Stoltzfus",
         "#TFCLive",
+        "Dern",
         "Yankees",
         "Andrew",
-        "Tre Ford",
-        "Amorim",
-        "Jason Arday",
-        "Tresean Gore"
+        "Osun",
+        "Tre Ford"
       ],
       "hashtags": [
         "#UFC330",
-        "#N3onjack",
         "#TFCLive",
-        "#CFMTL",
-        "#Caturday"
+        "#AEWCollision",
+        "#N3onjack",
+        "#CFMTL"
       ],
       "regular_topics": [
+        "Jalin Turner",
+        "Edson Barboza",
         "Candace",
-        "Charles Johnson",
+        "Dustin Stoltzfus",
+        "Dern",
         "Yankees",
         "Andrew",
+        "Osun",
         "Tre Ford",
-        "Amorim",
-        "Jason Arday",
-        "Tresean Gore",
-        "Joel Alvarez",
-        "Orolbai",
-        "Rogue"
+        "Gillian",
+        "Jason Arday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 01:18:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 03:04:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
+        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "#SaveAshram",
+        "#AtalBihariVajpayee",
+        "Gau Raksha",
         "Jai Hind",
-        "#15August",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
+        "#15August",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "#GodMorningSunday",
-        "#DeclassifiedOperationSindoor",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
-        "Vande Mataram",
-        "pilot rakesh tyagi",
-        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940"
+        "\u0938\u094d\u0935\u093e\u092e\u0940 \u0930\u093e\u092e\u0915\u0943\u0937\u094d\u0923 \u092a\u0930\u092e\u0939\u0902\u0938",
+        "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940"
       ],
       "hashtags": [
         "#IndependenceDay",
-        "#15August",
+        "#SaveAshram",
+        "#AtalBihariVajpayee",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
-        "#GodMorningSunday",
-        "#DeclassifiedOperationSindoor"
+        "#15August"
       ],
       "regular_topics": [
+        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "Gau Raksha",
         "Jai Hind",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
-        "Vande Mataram",
-        "pilot rakesh tyagi",
-        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
-        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
         "\u0938\u094d\u0935\u093e\u092e\u0940 \u0930\u093e\u092e\u0915\u0943\u0937\u094d\u0923 \u092a\u0930\u092e\u0939\u0902\u0938",
-        "Red Fort",
-        "\u0938\u0942\u0930\u094d\u092f \u0928\u093e\u0930\u093e\u092f\u0923",
-        "National Flag"
+        "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940",
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
+        "pilot rakesh tyagi",
+        "Vande Mataram",
+        "Red Fort"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 01:16:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 03:03:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Imole",
         "Osun",
         "INEC",
         "Adeleke",
-        "Rema",
+        "Inter Miami",
         "#davido",
+        "Rema",
         "Ekiti",
-        "Accord",
-        "Victory",
-        "Dipo",
-        "Divine"
+        "Nashville",
+        "#UFC330",
+        "Accord"
       ],
       "hashtags": [
         "#Imole",
         "#davido",
         "#UFC330",
-        "#askgnf",
-        "#BBNaijaS111"
+        "#BBNaijaS111",
+        "#Maxbidding",
+        "#KCON"
       ],
       "regular_topics": [
         "Osun",
         "INEC",
         "Adeleke",
+        "Inter Miami",
         "Rema",
         "Ekiti",
+        "Nashville",
         "Accord",
-        "Victory",
         "Dipo",
-        "Divine",
-        "Ero Arike",
-        "Ambo"
+        "Ambo",
+        "Ero Arike"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
