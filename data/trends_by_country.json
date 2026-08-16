@@ -1,48 +1,44 @@
 {
-  "generated_at_utc": "2026-08-16T13:05:49.072616+00:00",
+  "generated_at_utc": "2026-08-16T13:48:47.916800+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 12:21:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 13:15:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
         "#DuangConcertDay2",
-        "Blessed Sunday",
         "#SundayVibes",
+        "Blessed Sunday",
         "DUANG GO ROUND DAY2",
-        "PERTHSANTA BEAUTY CHIANGMAI",
+        "Massie",
         "#SundayFunday",
-        "#G1FINAL",
-        "Islam",
-        "Osun",
-        "Adeleke"
+        "PERTHSANTA BEAUTY CHIANGMAI",
+        "#SundayMotivation",
+        "Mark Cuban",
+        "Elvis Presley"
       ],
       "hashtags": [
         "#DuangConcertDay2",
         "#SundayVibes",
         "#SundayFunday",
+        "#SundayMotivation",
         "#G1FINAL",
-        "#njpw",
-        "#\ud3ed\ub825\ubc18\ub300ARMY",
-        "#BINI_SummerSonic_Tokyo",
-        "#BINIxSummerSonic2026",
         "#ARMYsAgainstAbusers",
-        "#MyAdventuresWithSuperman",
-        "#\u30b5\u30de\u30bd\u30cb"
+        "#ARMYsAgainstViolence"
       ],
       "regular_topics": [
         "Good Sunday",
         "Blessed Sunday",
         "DUANG GO ROUND DAY2",
+        "Massie",
         "PERTHSANTA BEAUTY CHIANGMAI",
-        "Islam",
+        "Mark Cuban",
+        "Elvis Presley",
+        "Nick Shirley",
         "Osun",
         "Adeleke",
-        "Tinubu",
-        "Elvis Presley",
-        "Mark Cuban",
-        "Morales"
+        "Tinubu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -87,11 +83,11 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 12:40:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 13:32:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
-        "Good Sunday",
         "Osun",
+        "Good Sunday",
         "Candace",
         "Garry",
         "Adeleke",
@@ -99,18 +95,18 @@
         "Islam",
         "Andrew",
         "Yankees",
-        "#DuangConcertDay2"
+        "Morales"
       ],
       "hashtags": [
         "#UFC330",
         "#DuangConcertDay2",
         "#n3onjack",
-        "#TFClive",
-        "#Caturday"
+        "#TFCLive",
+        "#SundayYellow"
       ],
       "regular_topics": [
-        "Good Sunday",
         "Osun",
+        "Good Sunday",
         "Candace",
         "Garry",
         "Adeleke",
@@ -119,83 +115,82 @@
         "Andrew",
         "Yankees",
         "Morales",
-        "Dern"
+        "Tinubu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 12:36:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 13:28:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#AyushmanDiwas2026",
         "#TrimmersKaBaap",
-        "#InstamartSale",
+        "#AyushmanDiwas2026",
+        "#Edappadiyar",
         "TEJASSWI OWNS PG",
-        "Ayushman Week",
-        "#PlayingWithPurpose",
+        "#InstamartSale",
         "#RealEPSvsReelTVK",
-        "ELVISH RULING PLAYGROUND S5",
+        "Ayushman Week",
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
-        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
-        "Anant Ambani"
+        "DUANG GO ROUND DAY2",
+        "Dimagi Naxal",
+        "ELVISH RULING PLAYGROUND S5"
       ],
       "hashtags": [
-        "#AyushmanDiwas2026",
         "#TrimmersKaBaap",
+        "#AyushmanDiwas2026",
+        "#Edappadiyar",
         "#InstamartSale",
-        "#PlayingWithPurpose",
         "#RealEPSvsReelTVK"
       ],
       "regular_topics": [
         "TEJASSWI OWNS PG",
         "Ayushman Week",
-        "ELVISH RULING PLAYGROUND S5",
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
-        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
+        "DUANG GO ROUND DAY2",
+        "Dimagi Naxal",
+        "ELVISH RULING PLAYGROUND S5",
         "Anant Ambani",
         "PERTHSANTA BEAUTY CHIANGMAI",
-        "Yash",
-        "DUANG GO ROUND DAY2",
-        "Philips",
-        "Dimagi Naxal"
+        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
+        "Dhruv Jurel",
+        "NPTEL"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 12:36:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 13:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Osun",
         "Tinubu",
-        "Ruth",
-        "Davido",
-        "Politics",
-        "Mr President",
         "Community Shield",
+        "Ruth",
         "Agreement is Agreement",
-        "Ekiti",
-        "Fubara",
-        "Blessed Sunday"
+        "#ARSMCI",
+        "Manchester City",
+        "Davido",
+        "Man City",
+        "Politics",
+        "David Martins"
       ],
       "hashtags": [
         "#ARSMCI",
-        "#sololasm\u00e1s2",
-        "#SundayService"
+        "#sololasm\u00e1s2"
       ],
       "regular_topics": [
         "Osun",
         "Tinubu",
-        "Ruth",
-        "Davido",
-        "Politics",
-        "Mr President",
         "Community Shield",
+        "Ruth",
         "Agreement is Agreement",
-        "Ekiti",
-        "Fubara",
-        "Blessed Sunday"
+        "Manchester City",
+        "Davido",
+        "Man City",
+        "Politics",
+        "David Martins",
+        "Mr President"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
