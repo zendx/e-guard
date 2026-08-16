@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-08-15T23:40:02.410143+00:00",
+  "generated_at_utc": "2026-08-16T00:30:16.386959+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 15 2026 23:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 00:12:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
-        "Ty Simpson",
         "Massie",
+        "Ty Simpson",
+        "#zeus",
+        "Tyler Loop",
+        "Donte Johnson",
+        "Luque",
         "Lucas Fernando",
-        "Joshua Baez",
-        "Jeremiah Wells",
-        "Neil Magny",
-        "Nick Shirley",
-        "Orolbai",
-        "Zach Wilson",
-        "Chiefs"
+        "Grant Holmes",
+        "Tresean Gore",
+        "Riku"
       ],
       "hashtags": [
         "#UFC330",
-        "#STLCards",
-        "#FlyEaglesFly",
+        "#zeus",
         "#RavensFlock",
-        "#RamsHouse"
+        "#Svengoolie",
+        "#FlyEaglesFly"
       ],
       "regular_topics": [
-        "Ty Simpson",
         "Massie",
+        "Ty Simpson",
+        "Tyler Loop",
+        "Donte Johnson",
+        "Luque",
         "Lucas Fernando",
-        "Joshua Baez",
-        "Jeremiah Wells",
-        "Neil Magny",
-        "Nick Shirley",
-        "Orolbai",
-        "Zach Wilson",
-        "Chiefs",
-        "Tobias"
+        "Grant Holmes",
+        "Tresean Gore",
+        "Riku",
+        "Andy Dalton",
+        "Joshua Baez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 15 2026 22:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 23:44:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
-        "Arne",
         "Osun",
+        "Arne",
+        "Fernando",
+        "ariana",
+        "IREV",
         "Amorim",
         "4x100m",
-        "IREV",
+        "Gavin",
         "INEC",
-        "Falkirk",
-        "Phoenix Nights",
-        "Solis",
-        "Carrick"
+        "Falkirk"
       ],
       "hashtags": [
         "#UFC330",
@@ -65,71 +65,71 @@
         "#Birmingham2026"
       ],
       "regular_topics": [
-        "Arne",
         "Osun",
+        "Arne",
+        "Fernando",
+        "ariana",
+        "IREV",
         "Amorim",
         "4x100m",
-        "IREV",
+        "Gavin",
         "INEC",
         "Falkirk",
-        "Phoenix Nights",
-        "Solis",
-        "Carrick",
-        "Adeleke"
+        "Phoenix Nights"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 15 2026 22:42:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 23:39:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Louis Varland",
         "Candace",
-        "McAdoo",
-        "#n3onjack",
-        "#BlueJays50",
-        "Neil Magny",
-        "Yankees",
+        "#N3onjack",
         "#UFC330",
-        "Andrew",
+        "Neil Magny",
+        "McAdoo",
         "Jeremiah Wells",
-        "Bateman"
+        "Yankees",
+        "Louis Varland",
+        "Andrew",
+        "Jays",
+        "Jason Arday"
       ],
       "hashtags": [
-        "#n3onjack",
-        "#BlueJays50",
+        "#N3onjack",
         "#UFC330",
         "#Caturday",
-        "#IndyCar"
+        "#IndyCar",
+        "#fursuitfriday"
       ],
       "regular_topics": [
-        "Louis Varland",
         "Candace",
-        "McAdoo",
         "Neil Magny",
-        "Yankees",
-        "Andrew",
+        "McAdoo",
         "Jeremiah Wells",
-        "Bateman",
-        "Orolbai",
-        "Amorim",
-        "Jason Arday"
+        "Yankees",
+        "Louis Varland",
+        "Andrew",
+        "Jays",
+        "Jason Arday",
+        "Fernando",
+        "Amorim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 15 2026 22:39:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 23:32:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#IndependenceDay",
         "Jai Hind",
         "#15August",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "#DeclassifiedOperationSindoor",
-        "#EducationManofUP",
         "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
+        "#EducationManofUP",
         "Vande Mataram",
         "pilot rakesh tyagi",
         "Red Fort",
@@ -150,7 +150,7 @@
         "Red Fort",
         "National Flag",
         "Dimagi Naxal",
-        "KKK15 DARKHORSE FARHANA",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "discovery channel india",
         "Doom",
         "Tricolour"
@@ -160,37 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 15 2026 22:39:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 15 2026 23:31:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Imole",
         "Osun",
         "INEC",
+        "Rema",
         "Adeleke",
         "Amorim",
         "Accord",
         "Divine",
-        "Carrick",
+        "#davido",
         "Upload",
-        "Collation",
-        "#davido"
+        "Carrick"
       ],
       "hashtags": [
         "#Imole",
         "#davido",
-        "#APARTMENT106THEMOVIE",
-        "#UFC330"
+        "#askgnf",
+        "#UFC330",
+        "#Maxbidding"
       ],
       "regular_topics": [
         "Osun",
         "INEC",
+        "Rema",
         "Adeleke",
         "Amorim",
         "Accord",
         "Divine",
-        "Carrick",
         "Upload",
+        "Carrick",
         "Collation",
-        "Sevilla",
         "Sowore"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
