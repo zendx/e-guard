@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T23:07:37.155733+00:00",
+  "generated_at_utc": "2026-08-16T23:39:41.022843+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,78 +41,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 22:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 23:06:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "cynthia",
         "Rodri",
         "Jacquet",
         "Amy Hunt",
+        "Neche",
+        "Oyin",
         "Janey",
+        "ariana",
+        "Araujo",
         "Lens",
-        "Cameroon",
-        "Nuno",
-        "For Good",
-        "Georgia Hunter Bell",
-        "Juve"
+        "Georgia Hunter Bell"
       ],
       "hashtags": [
-        "#Birmingham2026",
         "#TheHundred",
+        "#Birmingham2026",
         "#WAFCON",
-        "#CommonNames",
-        "#TeamGB"
+        "#TeamGB",
+        "#WildflowerHour"
       ],
       "regular_topics": [
         "cynthia",
         "Rodri",
         "Jacquet",
         "Amy Hunt",
+        "Neche",
+        "Oyin",
         "Janey",
+        "ariana",
+        "Araujo",
         "Lens",
-        "Cameroon",
-        "Nuno",
-        "For Good",
-        "Georgia Hunter Bell",
-        "Juve"
+        "Georgia Hunter Bell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 22:08:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 23:00:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Osun",
-        "Fisher",
-        "Springer",
+        "Ben Rice",
         "Yankees",
+        "South Korea",
         "Maresca",
-        "Dylan Cease",
-        "Rodri",
         "Adeleke",
+        "Dylan Cease",
         "Odegaard",
-        "CYNTHIA"
+        "Candace",
+        "Arsenal"
       ],
       "hashtags": [
         "#UFC330",
-        "#IndyCar",
         "#n3onjack",
+        "#IndyCar",
         "#WAFCON2026",
         "#COYG"
       ],
       "regular_topics": [
         "Osun",
-        "Fisher",
-        "Springer",
+        "Ben Rice",
         "Yankees",
+        "South Korea",
         "Maresca",
-        "Dylan Cease",
-        "Rodri",
         "Adeleke",
+        "Dylan Cease",
         "Odegaard",
-        "CYNTHIA",
-        "Ben Rice"
+        "Candace",
+        "Arsenal",
+        "cynthia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
