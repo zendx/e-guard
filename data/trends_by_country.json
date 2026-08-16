@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-16T08:13:26.767471+00:00",
+  "generated_at_utc": "2026-08-16T08:52:28.598251+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 07:08:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 08:00:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Islam",
@@ -12,18 +12,18 @@
         "Morales",
         "Claressa",
         "Kyle Larson",
-        "Dern",
+        "#G1FINAL",
         "Tomorrowland",
-        "Villains Land",
-        "Khabib",
-        "GWOAT"
+        "#BINI_SummerSonic_Tokyo",
+        "Jeff Cobb",
+        "BINI LIGHTS UP TOKYO"
       ],
       "hashtags": [
         "#UFC330",
-        "#MyAdventuresWithSuperman",
+        "#G1FINAL",
+        "#BINI_SummerSonic_Tokyo",
         "#ARMYsAgainstAbusers",
-        "#ARMYsAgainstViolence",
-        "#\ud3ed\ub825\ubc18\ub300ARMY"
+        "#MyAdventuresWithSuperman"
       ],
       "regular_topics": [
         "Islam",
@@ -31,159 +31,158 @@
         "Morales",
         "Claressa",
         "Kyle Larson",
-        "Dern",
         "Tomorrowland",
+        "Jeff Cobb",
+        "BINI LIGHTS UP TOKYO",
+        "Dern",
         "Villains Land",
-        "Khabib",
-        "GWOAT",
-        "Knoxville Nationals"
+        "Khabib"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 07:33:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 08:27:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UFC330",
-        "Jason Arday",
         "Osun",
+        "Jason Arday",
+        "#UFC330",
         "Cambridge",
         "Amorim",
-        "Makhachev",
-        "Garry",
+        "#ASongOrMovieForAboutSausages",
         "Morales",
         "#SundayYellow",
-        "Prates",
-        "Bangladesh"
+        "#elevated",
+        "Farage",
+        "Welsh"
       ],
       "hashtags": [
         "#UFC330",
+        "#ASongOrMovieForAboutSausages",
         "#SundayYellow",
-        "#ShakespeareSunday",
-        "#AndStill",
-        "#severealert"
+        "#elevated",
+        "#ShakespeareSunday"
       ],
       "regular_topics": [
-        "Jason Arday",
         "Osun",
+        "Jason Arday",
         "Cambridge",
         "Amorim",
-        "Makhachev",
-        "Garry",
         "Morales",
-        "Prates",
-        "Bangladesh",
+        "Farage",
         "Welsh",
-        "Farage"
+        "Bangladesh",
+        "Islam",
+        "Prates",
+        "Adeleke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 07:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 08:18:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
-        "Islam",
         "Garry",
-        "Morales",
+        "Islam",
         "Candace",
-        "Osun",
-        "Prates",
         "#BINI_SummerSonic_Tokyo",
         "BINI LIGHTS UP TOKYO",
+        "Osun",
+        "Morales",
+        "#BINIxSummerSonic2026",
         "Andrew",
         "Yankees"
       ],
       "hashtags": [
         "#UFC330",
         "#BINI_SummerSonic_Tokyo",
-        "#TFCLive",
         "#BINIxSummerSonic2026",
-        "#n3onjack"
+        "#TFCLive",
+        "#\u30b5\u30de\u30bd\u30cb"
       ],
       "regular_topics": [
-        "Islam",
         "Garry",
-        "Morales",
+        "Islam",
         "Candace",
-        "Osun",
-        "Prates",
         "BINI LIGHTS UP TOKYO",
+        "Osun",
+        "Morales",
         "Andrew",
         "Yankees",
         "Jason Arday",
-        "Volk"
+        "Prates",
+        "Rogue"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 07:21:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 08:15:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#100AtalCanteen",
-        "#5\u0930\u0941\u092a\u092f\u0947_\u092e\u0947\u0902_\u092d\u0930\u092a\u0947\u091f_\u0916\u093e\u0928\u093e",
-        "#WarOnWhatsHidden",
-        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
-        "#HBDSandeepKhasa",
+        "#RealEPSvsReelTVK",
+        "#PralayShootBegins",
         "#TrimmersKaBaap",
+        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "#5\u0930\u0941\u092a\u092f\u0947_\u092e\u0947\u0902_\u092d\u0930\u092a\u0947\u091f_\u0916\u093e\u0928\u093e",
+        "#100AtalCanteen",
         "Bangladesh",
         "Australia",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
-        "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940",
-        "\u0938\u094d\u0935\u093e\u092e\u0940 \u0930\u093e\u092e\u0915\u0943\u0937\u094d\u0923 \u092a\u0930\u092e\u0939\u0902\u0938"
+        "Ranveer Singh",
+        "TEJA WITHOUT BHEJA",
+        "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940"
       ],
       "hashtags": [
-        "#100AtalCanteen",
+        "#RealEPSvsReelTVK",
+        "#PralayShootBegins",
+        "#TrimmersKaBaap",
         "#5\u0930\u0941\u092a\u092f\u0947_\u092e\u0947\u0902_\u092d\u0930\u092a\u0947\u091f_\u0916\u093e\u0928\u093e",
+        "#100AtalCanteen",
         "#WarOnWhatsHidden",
         "#HBDSandeepKhasa",
-        "#TrimmersKaBaap",
+        "#AtalBihariVajpayee",
         "#Brahmanandam",
         "#MahendragiriVarahi",
-        "#AUSvBAN",
-        "#Pralay",
-        "#SaveAshram"
+        "#Edappadiyar"
       ],
       "regular_topics": [
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
         "Bangladesh",
         "Australia",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
+        "Ranveer Singh",
+        "TEJA WITHOUT BHEJA",
         "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940",
-        "\u0938\u094d\u0935\u093e\u092e\u0940 \u0930\u093e\u092e\u0915\u0943\u0937\u094d\u0923 \u092a\u0930\u092e\u0939\u0902\u0938",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
         "Dimagi Naxal",
-        "Gau Raksha",
         "\u091f\u093e\u0907\u0917\u0930 \u0936\u094d\u0930\u0949\u092b",
         "\u0905\u091c\u092f \u0926\u0947\u0935\u0917\u0928",
-        "Darwin"
+        "\u0938\u094d\u0935\u093e\u092e\u0940 \u0930\u093e\u092e\u0915\u0943\u0937\u094d\u0923 \u092a\u0930\u092e\u0939\u0902\u0938"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 07:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 08:12:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Osun",
         "Blessed Sunday",
         "Ekiti",
         "INEC",
-        "#davido",
         "Today is Sunday",
-        "Beautiful Sunday",
-        "Another Sunday",
-        "30 LGAs",
+        "Ruth",
         "Happy Sunday X",
+        "Another Sunday",
+        "Democracy",
+        "Beautiful Sunday",
         "Fubara"
       ],
       "hashtags": [
-        "#davido",
         "#\u30b5\u30de\u30bd\u30cb",
-        "#UFC330",
-        "#Maxbidding"
+        "#UFC330"
       ],
       "regular_topics": [
         "Osun",
@@ -191,12 +190,12 @@
         "Ekiti",
         "INEC",
         "Today is Sunday",
-        "Beautiful Sunday",
-        "Another Sunday",
-        "30 LGAs",
+        "Ruth",
         "Happy Sunday X",
-        "Fubara",
-        "Accord"
+        "Another Sunday",
+        "Democracy",
+        "Beautiful Sunday",
+        "Fubara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
