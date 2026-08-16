@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-08-16T21:39:36.790206+00:00",
+  "generated_at_utc": "2026-08-16T22:07:41.600717+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 21:00:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 21:51:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cabrera",
         "Tommy John",
-        "Ben Rice",
-        "Rodri",
         "CYNTHIA",
         "Jordyn",
-        "Matt Olson",
+        "Rodri",
+        "Ben Rice",
+        "John Rocker",
+        "Ozzy Trapilo",
         "Assad",
-        "TPOT 24 SPOILERS",
-        "Ryan Weathers",
-        "Happy Birthday Sophie"
+        "Bibee",
+        "TPOT 24 SPOILERS"
       ],
       "hashtags": [
         "#StrayKids_BB200_HistoryMakers",
         "#SigmaStarSaga21Years",
-        "#IndyCar",
-        "#SeductiveSunday"
+        "#NationalRumDay"
       ],
       "regular_topics": [
         "Cabrera",
         "Tommy John",
-        "Ben Rice",
-        "Rodri",
         "CYNTHIA",
         "Jordyn",
-        "Matt Olson",
+        "Rodri",
+        "Ben Rice",
+        "John Rocker",
+        "Ozzy Trapilo",
         "Assad",
-        "TPOT 24 SPOILERS",
-        "Ryan Weathers",
-        "Happy Birthday Sophie"
+        "Bibee",
+        "TPOT 24 SPOILERS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
