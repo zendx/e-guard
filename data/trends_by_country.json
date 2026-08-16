@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T16:09:19.830989+00:00",
+  "generated_at_utc": "2026-08-16T16:46:23.816973+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,135 +43,135 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 15:24:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 16:16:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tzolis",
+        "Arsenal",
         "Odegaard",
-        "Donnarumma",
+        "Tzolis",
         "Maresca",
-        "#ARSMCI",
-        "Madueke",
         "Man City",
+        "#ARSMCI",
+        "Donnarumma",
         "Anderson",
         "Kovacic",
-        "#CommunityShield",
-        "Grealish"
+        "Raya",
+        "Madueke"
       ],
       "hashtags": [
         "#ARSMCI",
         "#CommunityShield",
-        "#saintsfc",
         "#COYG",
+        "#saintsfc",
         "#BURWHU"
       ],
       "regular_topics": [
-        "Tzolis",
+        "Arsenal",
         "Odegaard",
-        "Donnarumma",
+        "Tzolis",
         "Maresca",
-        "Madueke",
         "Man City",
+        "Donnarumma",
         "Anderson",
         "Kovacic",
-        "Grealish",
-        "Foden",
-        "Skelly"
+        "Raya",
+        "Madueke",
+        "Grealish"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 15:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 16:08:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tzolis",
-        "#UFC330",
         "Arsenal",
-        "Maresca",
         "Odegaard",
+        "#UFC330",
+        "Maresca",
+        "Tzolis",
+        "Man City",
+        "Raya",
+        "Osun",
         "Madueke",
         "Donnarumma",
-        "Osun",
-        "Arteta",
-        "Raya",
-        "Calafiori"
+        "Grealish"
       ],
       "hashtags": [
         "#UFC330",
-        "#CommunityShield",
         "#ARSMCI",
-        "#n3onjack",
-        "#COYG"
+        "#COYG",
+        "#N3onjack",
+        "#TFCLive"
       ],
       "regular_topics": [
-        "Tzolis",
         "Arsenal",
-        "Maresca",
         "Odegaard",
+        "Maresca",
+        "Tzolis",
+        "Man City",
+        "Raya",
+        "Osun",
         "Madueke",
         "Donnarumma",
-        "Osun",
-        "Arteta",
-        "Raya",
-        "Calafiori",
-        "Good Sunday"
+        "Grealish",
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 15:12:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 16:03:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Vantara",
+        "Arsenal",
+        "#Khalifa",
+        "#MallepoolaPallaki",
         "#TrimmersKaBaap",
+        "#Vantara",
         "Banni",
         "#CommunityShield",
+        "Odegaard",
         "Donnarumma",
-        "#AyushmanDiwas2026",
-        "#Edappadiyar",
-        "Tzolis",
-        "Ayushman Week",
-        "Kovacic",
-        "Odegaard"
+        "BELIFT END THE NEGLIGENCE",
+        "Maresca"
       ],
       "hashtags": [
-        "#Vantara",
+        "#Khalifa",
+        "#MallepoolaPallaki",
         "#TrimmersKaBaap",
-        "#CommunityShield",
-        "#AyushmanDiwas2026",
-        "#Edappadiyar"
+        "#Vantara",
+        "#CommunityShield"
       ],
       "regular_topics": [
+        "Arsenal",
         "Banni",
-        "Donnarumma",
-        "Tzolis",
-        "Ayushman Week",
-        "Kovacic",
         "Odegaard",
+        "Donnarumma",
+        "BELIFT END THE NEGLIGENCE",
         "Maresca",
-        "Gordon",
-        "TEJASSWI OWNS PG",
+        "Tzolis",
         "Man City",
-        "Foden"
+        "Hamza",
+        "\u0906\u0936\u0941\u0924\u094b\u0937 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Kovacic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 15:12:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 16:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#ARSMCI",
+        "Arsenal",
         "Maresca",
-        "Tzolis",
-        "Madueke",
-        "Man City",
+        "#ARSMCI",
         "Odegaard",
+        "Tzolis",
         "Raya",
-        "Kai Havertz",
-        "Calafiori",
+        "Arteta",
+        "Madueke",
         "#CommunityShield",
+        "Pep Guardiola",
         "Kovacic"
       ],
       "hashtags": [
@@ -181,17 +181,17 @@
         "#COYG"
       ],
       "regular_topics": [
+        "Arsenal",
         "Maresca",
-        "Tzolis",
-        "Madueke",
-        "Man City",
         "Odegaard",
+        "Tzolis",
         "Raya",
-        "Kai Havertz",
-        "Calafiori",
+        "Arteta",
+        "Madueke",
+        "Pep Guardiola",
         "Kovacic",
-        "Lewis Skelly",
-        "Donnarumma"
+        "Donnarumma",
+        "Grealish"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
