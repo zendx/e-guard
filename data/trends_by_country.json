@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T13:48:47.916800+00:00",
+  "generated_at_utc": "2026-08-16T14:10:45.220298+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -45,38 +45,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 12:48:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 13:40:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SaintsFC",
         "Watford",
-        "Chiesa",
-        "Piroe",
-        "Munoz",
+        "#saintsfc",
+        "Nwaneri",
+        "Madueke",
         "Stephens",
-        "Nyoni",
         "Community Shield",
-        "Elliott",
-        "Parrott",
-        "Osun"
+        "#WATSOU",
+        "Dowman",
+        "No Martinelli",
+        "Piroe",
+        "Chiesa"
       ],
       "hashtags": [
-        "#SaintsFC",
-        "#DuangConcertDay2",
-        "#ASongOrMovieForAboutSausages",
-        "#SundayYellow"
+        "#saintsfc",
+        "#WATSOU",
+        "#ARSMCI",
+        "#COYG",
+        "#DuangConcertDay2"
       ],
       "regular_topics": [
         "Watford",
-        "Chiesa",
-        "Piroe",
-        "Munoz",
+        "Nwaneri",
+        "Madueke",
         "Stephens",
-        "Nyoni",
         "Community Shield",
-        "Elliott",
-        "Parrott",
-        "Osun",
-        "Koumas"
+        "Dowman",
+        "No Martinelli",
+        "Piroe",
+        "Chiesa",
+        "Bragg",
+        "Munoz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
