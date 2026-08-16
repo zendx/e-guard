@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T10:44:31.666906+00:00",
+  "generated_at_utc": "2026-08-16T11:08:35.942769+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -82,115 +82,115 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 10:01:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 10:54:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Osun",
         "Candace",
         "#G1FINAL",
         "Garry",
-        "#BINI_SummerSonic_Tokyo",
-        "BINI LIGHTS UP TOKYO",
         "Islam",
         "Andrew",
+        "Adeleke",
+        "Jason Arday",
         "Yankees",
-        "Jason Arday"
+        "#tfclive"
       ],
       "hashtags": [
         "#UFC330",
         "#G1FINAL",
-        "#BINI_SummerSonic_Tokyo",
-        "#BINIxSummerSonic2026",
-        "#TFCLive"
+        "#tfclive",
+        "#n3onjack",
+        "#Caturday"
       ],
       "regular_topics": [
         "Osun",
         "Candace",
         "Garry",
-        "BINI LIGHTS UP TOKYO",
         "Islam",
         "Andrew",
-        "Yankees",
-        "Jason Arday",
         "Adeleke",
+        "Jason Arday",
+        "Yankees",
         "Morales",
-        "Amorim"
+        "Dern",
+        "louis varland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 09:57:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 10:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#InstamartSale",
         "#PlayingWithPurpose",
-        "#Awarapan2OnDistrict",
         "#TrimmersKaBaap",
+        "#Awarapan2OnDistrict",
         "ELVISH RULING PLAYGROUND S5",
         "#RealEPSvsReelTVK",
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
-        "#PralayShootBegins",
-        "Dimagi Naxal",
-        "TEJA WITHOUT BHEJA",
-        "Bangladesh",
-        "NAZAR LAGI FT AKKU TEASER OUT"
+        "9 Date Bites",
+        "Anant Ambani",
+        "The Big Switch Sale",
+        "19 Masala Rings"
       ],
       "hashtags": [
+        "#InstamartSale",
         "#PlayingWithPurpose",
-        "#Awarapan2OnDistrict",
         "#TrimmersKaBaap",
-        "#RealEPSvsReelTVK",
-        "#PralayShootBegins",
-        "#AtalBihariVajpayee",
-        "#5\u0930\u0941\u092a\u092f\u0947_\u092e\u0947\u0902_\u092d\u0930\u092a\u0947\u091f_\u0916\u093e\u0928\u093e"
+        "#Awarapan2OnDistrict",
+        "#RealEPSvsReelTVK"
       ],
       "regular_topics": [
         "ELVISH RULING PLAYGROUND S5",
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "9 Date Bites",
+        "Anant Ambani",
+        "The Big Switch Sale",
+        "19 Masala Rings",
+        "Yash",
         "Dimagi Naxal",
         "TEJA WITHOUT BHEJA",
-        "Bangladesh",
-        "NAZAR LAGI FT AKKU TEASER OUT",
-        "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940",
-        "Australia",
-        "JOONGDUNK URANUS IN KB",
-        "Bhaichung Bhutia",
-        "Yash"
+        "Philips",
+        "JOONGDUNK URANUS IN KB"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 09:56:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 10:51:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Osun",
-        "Blessed Sunday",
-        "Ekiti",
+        "Davido",
         "Ruth",
+        "Ekiti",
+        "Blessed Sunday",
         "Fubara",
+        "Community Shield",
+        "Church",
         "Democracy",
         "Today is Sunday",
-        "Community Shield",
-        "INEC",
-        "Come 2027",
-        "Happy Sunday X"
+        "INEC"
       ],
       "hashtags": [
-        "#GranHermanoGeneraci\u00f3nDorada"
+        "#GranHermanoGeneraci\u00f3nDorada",
+        "#sololasm\u00e1s2",
+        "#SundayService"
       ],
       "regular_topics": [
         "Osun",
-        "Blessed Sunday",
-        "Ekiti",
+        "Davido",
         "Ruth",
+        "Ekiti",
+        "Blessed Sunday",
         "Fubara",
+        "Community Shield",
+        "Church",
         "Democracy",
         "Today is Sunday",
-        "Community Shield",
-        "INEC",
-        "Come 2027",
-        "Happy Sunday X"
+        "INEC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
