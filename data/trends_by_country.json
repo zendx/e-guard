@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T17:09:18.196767+00:00",
+  "generated_at_utc": "2026-08-16T17:40:17.062072+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 16:16:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 17:08:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Odegaard",
-        "Tzolis",
         "Maresca",
+        "Tzolis",
         "Man City",
+        "Scarles",
         "#ARSMCI",
+        "Fernandez",
         "Donnarumma",
-        "Anderson",
-        "Kovacic",
-        "Raya",
-        "Madueke"
+        "Nuno",
+        "Burnley"
       ],
       "hashtags": [
         "#ARSMCI",
         "#CommunityShield",
         "#COYG",
-        "#saintsfc",
-        "#BURWHU"
+        "#BURWHU",
+        "#twitterclarets"
       ],
       "regular_topics": [
         "Arsenal",
         "Odegaard",
-        "Tzolis",
         "Maresca",
+        "Tzolis",
         "Man City",
+        "Scarles",
+        "Fernandez",
         "Donnarumma",
-        "Anderson",
-        "Kovacic",
-        "Raya",
-        "Madueke",
-        "Grealish"
+        "Nuno",
+        "Burnley",
+        "Anderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 16:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 17:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Odegaard",
         "#UFC330",
         "Maresca",
-        "Tzolis",
-        "Man City",
-        "Raya",
+        "Odegaard",
         "Osun",
-        "Madueke",
+        "Tzolis",
+        "Raya",
+        "Community Shield",
         "Donnarumma",
+        "Man City",
         "Grealish"
       ],
       "hashtags": [
         "#UFC330",
         "#ARSMCI",
-        "#COYG",
         "#N3onjack",
-        "#TFCLive"
+        "#COYG",
+        "#IndyCar"
       ],
       "regular_topics": [
         "Arsenal",
-        "Odegaard",
         "Maresca",
-        "Tzolis",
-        "Man City",
-        "Raya",
+        "Odegaard",
         "Osun",
-        "Madueke",
+        "Tzolis",
+        "Raya",
+        "Community Shield",
         "Donnarumma",
+        "Man City",
         "Grealish",
-        "Arteta"
+        "Madueke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
