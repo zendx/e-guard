@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T20:43:01.237899+00:00",
+  "generated_at_utc": "2026-08-16T21:07:59.213502+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,39 +42,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 19:42:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 20:33:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jacquet",
         "Rodri",
+        "Jacquet",
+        "Amy Hunt",
         "Arsenal",
         "Nuno",
+        "Man City",
         "Scarles",
         "Maresca",
         "Frimpong",
-        "Odegaard",
-        "West Ham",
-        "Konate",
-        "Burnley"
+        "#TheHundred",
+        "Wirtz"
       ],
       "hashtags": [
-        "#IndyCar",
+        "#TheHundred",
         "#sts70s",
+        "#IndyCar",
         "#wildflowerhour",
-        "#BasesCoveredLive",
         "#CommonNames"
       ],
       "regular_topics": [
-        "Jacquet",
         "Rodri",
+        "Jacquet",
+        "Amy Hunt",
         "Arsenal",
         "Nuno",
+        "Man City",
         "Scarles",
         "Maresca",
         "Frimpong",
-        "Odegaard",
-        "West Ham",
-        "Konate",
-        "Burnley"
+        "Wirtz",
+        "Manchester Super Giants"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
