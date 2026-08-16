@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T19:39:47.107727+00:00",
+  "generated_at_utc": "2026-08-16T20:07:01.804896+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -40,58 +40,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 18:51:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 19:42:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jacquet",
+        "Rodri",
         "Arsenal",
         "Nuno",
         "Scarles",
         "Maresca",
-        "Odegaard",
-        "Rodri",
-        "West Ham",
         "Frimpong",
-        "Tzolis",
-        "Fernandez"
+        "Odegaard",
+        "West Ham",
+        "Konate",
+        "Burnley"
       ],
       "hashtags": [
         "#IndyCar",
-        "#ARSMCI",
-        "#twitterclarets",
-        "#COYG",
-        "#ComicalCuisine"
+        "#sts70s",
+        "#wildflowerhour",
+        "#BasesCoveredLive",
+        "#CommonNames"
       ],
       "regular_topics": [
         "Jacquet",
+        "Rodri",
         "Arsenal",
         "Nuno",
         "Scarles",
         "Maresca",
-        "Odegaard",
-        "Rodri",
-        "West Ham",
         "Frimpong",
-        "Tzolis",
-        "Fernandez"
+        "Odegaard",
+        "West Ham",
+        "Konate",
+        "Burnley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 18:42:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 19:33:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
+        "Dylan Cease",
         "Osun",
+        "Rodri",
+        "Daz Cameron",
         "Jacquet",
-        "Arsenal",
-        "Tzolis",
         "Maresca",
         "Odegaard",
         "Adeleke",
-        "Candace",
-        "Garry",
-        "Tommy John"
+        "Arsenal",
+        "Candace"
       ],
       "hashtags": [
         "#UFC330",
@@ -101,94 +101,94 @@
         "#ARSMCI"
       ],
       "regular_topics": [
+        "Dylan Cease",
         "Osun",
+        "Rodri",
+        "Daz Cameron",
         "Jacquet",
-        "Arsenal",
-        "Tzolis",
         "Maresca",
         "Odegaard",
         "Adeleke",
+        "Arsenal",
         "Candace",
-        "Garry",
-        "Tommy John",
-        "Arday"
+        "Tommy John"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 18:36:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 19:28:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Rodri",
         "#Irumudi",
-        "#MallepoolaPallaki",
-        "Arsenal",
-        "Jacquet",
+        "Cancelo",
         "#SevEN_Stay_Entwined",
         "#Boycott_HYBE_Demand_Respect",
-        "#Khalifa",
         "BELIFT END THE NEGLIGENCE",
-        "\u0906\u0936\u0941\u0924\u094b\u0937 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Hamza",
-        "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940"
+        "Arsenal",
+        "#MallepoolaPallaki",
+        "Jacquet",
+        "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
+        "#Khalifa"
       ],
       "hashtags": [
         "#Irumudi",
-        "#MallepoolaPallaki",
         "#SevEN_Stay_Entwined",
         "#Boycott_HYBE_Demand_Respect",
+        "#MallepoolaPallaki",
         "#Khalifa"
       ],
       "regular_topics": [
+        "Rodri",
+        "Cancelo",
+        "BELIFT END THE NEGLIGENCE",
         "Arsenal",
         "Jacquet",
-        "BELIFT END THE NEGLIGENCE",
-        "\u0906\u0936\u0941\u0924\u094b\u0937 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Hamza",
         "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
+        "\u0906\u0936\u0941\u0924\u094b\u0937 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Barcelona",
+        "Man City",
         "FAME DIGGER HIMANSHI KHURANA",
-        "Cancelo",
-        "\u0936\u0939\u0940\u0926 \u0915\u0948\u092a\u094d\u091f\u0928 \u0938\u092e\u0940\u0930 \u092d\u093e\u0928",
-        "Maresca",
-        "Donnarumma"
+        "Hamza"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 18:36:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 19:28:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Maresca",
         "Ebuka",
+        "Maresca",
+        "Rodri to Barcelona",
+        "Kamsy",
+        "Cancelo",
         "Jacquet",
+        "#MojoyinLoveInTheSlum",
         "#ARSMCI",
         "Tzolis",
-        "Odegaard",
-        "Arteta",
-        "Community Shield",
-        "#MojoyinLoveInTheSlum",
-        "Pep Guardiola"
+        "Odegaard"
       ],
       "hashtags": [
-        "#ARSMCI",
         "#MojoyinLoveInTheSlum",
+        "#ARSMCI",
         "#COYG",
         "#ARSMNC"
       ],
       "regular_topics": [
         "Arsenal",
-        "Maresca",
         "Ebuka",
+        "Maresca",
+        "Rodri to Barcelona",
+        "Kamsy",
+        "Cancelo",
         "Jacquet",
         "Tzolis",
         "Odegaard",
         "Arteta",
-        "Community Shield",
-        "Pep Guardiola",
-        "Raya",
-        "Cancelo"
+        "Sultex"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
