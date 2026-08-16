@@ -1,44 +1,42 @@
 {
-  "generated_at_utc": "2026-08-16T14:10:45.220298+00:00",
+  "generated_at_utc": "2026-08-16T14:44:00.811959+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 13:15:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 14:06:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
-        "#DuangConcertDay2",
+        "#STARSHIP_DO_YOUR_JOB",
+        "YUJIN HEALTH COMES FIRST",
         "#SundayVibes",
+        "#DuangConcertDay2",
+        "Happy Birthday Sophie",
         "Blessed Sunday",
         "DUANG GO ROUND DAY2",
         "Massie",
         "#SundayFunday",
-        "PERTHSANTA BEAUTY CHIANGMAI",
-        "#SundayMotivation",
-        "Mark Cuban",
-        "Elvis Presley"
+        "Community Shield"
       ],
       "hashtags": [
-        "#DuangConcertDay2",
+        "#STARSHIP_DO_YOUR_JOB",
         "#SundayVibes",
+        "#DuangConcertDay2",
         "#SundayFunday",
-        "#SundayMotivation",
-        "#G1FINAL",
-        "#ARMYsAgainstAbusers",
-        "#ARMYsAgainstViolence"
+        "#TheeWave"
       ],
       "regular_topics": [
         "Good Sunday",
+        "YUJIN HEALTH COMES FIRST",
+        "Happy Birthday Sophie",
         "Blessed Sunday",
         "DUANG GO ROUND DAY2",
         "Massie",
+        "Community Shield",
         "PERTHSANTA BEAUTY CHIANGMAI",
-        "Mark Cuban",
-        "Elvis Presley",
         "Nick Shirley",
-        "Osun",
-        "Adeleke",
-        "Tinubu"
+        "Nwaneri",
+        "Elvis Presley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -84,114 +82,116 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 16 2026 13:32:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 14:24:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFC330",
         "Osun",
         "Good Sunday",
         "Candace",
-        "Garry",
+        "Madueke",
         "Adeleke",
+        "Arsenal",
+        "Garry",
         "Arday",
-        "Islam",
-        "Andrew",
-        "Yankees",
-        "Morales"
+        "#CommunityShield",
+        "Andrew"
       ],
       "hashtags": [
         "#UFC330",
-        "#DuangConcertDay2",
+        "#CommunityShield",
+        "#COYG",
         "#n3onjack",
-        "#TFCLive",
-        "#SundayYellow"
+        "#TFCLive"
       ],
       "regular_topics": [
         "Osun",
         "Good Sunday",
         "Candace",
-        "Garry",
+        "Madueke",
         "Adeleke",
+        "Arsenal",
+        "Garry",
         "Arday",
-        "Islam",
         "Andrew",
-        "Yankees",
-        "Morales",
-        "Tinubu"
+        "Islam",
+        "Yankees"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 13:28:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 14:20:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TrimmersKaBaap",
         "#AyushmanDiwas2026",
+        "#TrimmersKaBaap",
         "#Edappadiyar",
-        "TEJASSWI OWNS PG",
+        "#Vantara",
         "#InstamartSale",
-        "#RealEPSvsReelTVK",
+        "TEJASSWI OWNS PG",
         "Ayushman Week",
-        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "Banni",
         "DUANG GO ROUND DAY2",
-        "Dimagi Naxal",
-        "ELVISH RULING PLAYGROUND S5"
+        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "Dimagi Naxal"
       ],
       "hashtags": [
-        "#TrimmersKaBaap",
         "#AyushmanDiwas2026",
+        "#TrimmersKaBaap",
         "#Edappadiyar",
-        "#InstamartSale",
-        "#RealEPSvsReelTVK"
+        "#Vantara",
+        "#InstamartSale"
       ],
       "regular_topics": [
         "TEJASSWI OWNS PG",
         "Ayushman Week",
-        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
+        "Banni",
         "DUANG GO ROUND DAY2",
+        "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
         "Dimagi Naxal",
-        "ELVISH RULING PLAYGROUND S5",
         "Anant Ambani",
         "PERTHSANTA BEAUTY CHIANGMAI",
-        "\u092d\u093e\u0930\u0924 \u0930\u0924\u094d\u0928",
+        "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
         "Dhruv Jurel",
-        "NPTEL"
+        "TUI BLOOM SOLO X JJ"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 13:28:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 14:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Osun",
-        "Tinubu",
-        "Community Shield",
-        "Ruth",
-        "Agreement is Agreement",
         "#ARSMCI",
+        "Tinubu",
+        "Osun",
+        "Lewis Skelly",
         "Manchester City",
-        "Davido",
+        "Calafiori",
+        "Community Shield",
+        "Madueke",
+        "Maresca",
         "Man City",
-        "Politics",
-        "David Martins"
+        "Agreement is Agreement"
       ],
       "hashtags": [
         "#ARSMCI",
+        "#COYG",
+        "#ARSMNC",
         "#sololasm\u00e1s2"
       ],
       "regular_topics": [
-        "Osun",
         "Tinubu",
-        "Community Shield",
-        "Ruth",
-        "Agreement is Agreement",
+        "Osun",
+        "Lewis Skelly",
         "Manchester City",
-        "Davido",
+        "Calafiori",
+        "Community Shield",
+        "Madueke",
+        "Maresca",
         "Man City",
-        "Politics",
-        "David Martins",
-        "Mr President"
+        "Agreement is Agreement",
+        "Ruth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
