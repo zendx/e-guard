@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-16T10:10:22.258317+00:00",
+  "generated_at_utc": "2026-08-16T10:44:31.666906+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 09:44:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 10:36:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Sunday",
         "#G1FINAL",
-        "Islam",
-        "#UFC330",
         "#DuangConcertDay2",
+        "Islam",
+        "DUANG GO ROUND DAY2",
+        "#UFC330",
         "Morales",
         "Garry",
+        "Blessed Sunday",
         "Prates",
-        "DUANG GO ROUND DAY2",
-        "Good Sunday",
-        "Ryohei Oiwa",
-        "Yuya"
+        "Osun"
       ],
       "hashtags": [
         "#G1FINAL",
-        "#UFC330",
         "#DuangConcertDay2",
+        "#UFC330",
         "#ARMYsAgainstAbusers",
         "#BINI_SummerSonic_Tokyo"
       ],
       "regular_topics": [
+        "Good Sunday",
         "Islam",
+        "DUANG GO ROUND DAY2",
         "Morales",
         "Garry",
+        "Blessed Sunday",
         "Prates",
-        "DUANG GO ROUND DAY2",
-        "Good Sunday",
-        "Ryohei Oiwa",
+        "Osun",
         "Yuya",
-        "Claressa",
-        "Kyle Larson",
-        "BINI LIGHTS UP TOKYO"
+        "Ryohei Oiwa",
+        "Claressa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 16 2026 09:18:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 10:09:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jason Arday",
         "#UFC330",
         "Osun",
         "Cambridge",
-        "#ASongOrMovieForAboutSausages",
         "Amorim",
+        "#ASongOrMovieForAboutSausages",
         "Farage",
         "Welsh",
+        "Adeleke",
         "Bangladesh",
-        "#SundayYellow",
-        "Adeleke"
+        "Community Shield"
       ],
       "hashtags": [
         "#UFC330",
         "#ASongOrMovieForAboutSausages",
         "#SundayYellow",
         "#elevated",
-        "#bbcbh"
+        "#severealert"
       ],
       "regular_topics": [
         "Jason Arday",
@@ -71,10 +71,10 @@
         "Amorim",
         "Farage",
         "Welsh",
-        "Bangladesh",
         "Adeleke",
+        "Bangladesh",
+        "Community Shield",
         "Clacton",
-        "Tinubu",
         "Garry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
