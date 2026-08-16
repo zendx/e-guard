@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-16T22:42:21.540103+00:00",
+  "generated_at_utc": "2026-08-16T23:07:37.155733+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 16 2026 21:51:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 22:42:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Cabrera",
+        "South Korea",
+        "Noah Cameron",
         "Tommy John",
-        "CYNTHIA",
+        "Logan Henderson",
+        "Cabrera",
         "Jordyn",
-        "Rodri",
-        "Ben Rice",
         "John Rocker",
-        "Ozzy Trapilo",
-        "Assad",
-        "Bibee",
-        "TPOT 24 SPOILERS"
+        "cynthia",
+        "Ben Rice",
+        "Rodri",
+        "Allisha Gray"
       ],
       "hashtags": [
         "#StrayKids_BB200_HistoryMakers",
@@ -24,17 +24,17 @@
         "#NationalRumDay"
       ],
       "regular_topics": [
-        "Cabrera",
+        "South Korea",
+        "Noah Cameron",
         "Tommy John",
-        "CYNTHIA",
+        "Logan Henderson",
+        "Cabrera",
         "Jordyn",
-        "Rodri",
-        "Ben Rice",
         "John Rocker",
-        "Ozzy Trapilo",
-        "Assad",
-        "Bibee",
-        "TPOT 24 SPOILERS"
+        "cynthia",
+        "Ben Rice",
+        "Rodri",
+        "Allisha Gray"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -119,16 +119,16 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 16 2026 22:04:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 22:55:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TrimmersKaBaap",
         "\u0905\u091f\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u0935\u093e\u091c\u092a\u0947\u092f\u0940",
         "#IndependenceDay",
         "Dimagi Naxal",
-        "Rodri",
         "#AtalBihariVajpayee",
+        "Rodri",
+        "#RealEPSvsReelTVK",
         "Vande Mataram",
-        "#realepsvsreeltvk",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938",
         "Jai Hind",
         "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940"
@@ -137,7 +137,7 @@
         "#TrimmersKaBaap",
         "#IndependenceDay",
         "#AtalBihariVajpayee",
-        "#realepsvsreeltvk",
+        "#RealEPSvsReelTVK",
         "#\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
@@ -147,49 +147,48 @@
         "Vande Mataram",
         "Jai Hind",
         "\u0905\u0935\u0902\u0924\u0940\u092c\u093e\u0908 \u0932\u094b\u0927\u0940",
-        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "\u0938\u094b\u0928\u093f\u092f\u093e \u0917\u093e\u0902\u0927\u0940",
+        "\u0932\u093e\u0932 \u0915\u093f\u0932\u0947",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f",
         "Bangladesh",
-        "TEJASSWI OWNS PG"
+        "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 16 2026 22:03:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 16 2026 22:54:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rodri",
-        "Lens",
+        "Neche",
+        "Oyin",
         "Cameroon",
-        "Arsenal",
+        "Lens",
         "Deco",
-        "Ebuka",
         "Tomorrow is Monday",
-        "Maresca",
-        "Kamsy",
-        "Oyin and Flora",
-        "Manchester City"
+        "Ebuka",
+        "Sheba and Goddessa",
+        "Goddessa and Sheba",
+        "Maresca"
       ],
       "hashtags": [
-        "#MojoyinLoveInTheSlum",
         "#TotalEnergiesWAFCON2026",
         "#ARSMCI",
         "#COYG"
       ],
       "regular_topics": [
         "Rodri",
-        "Lens",
+        "Neche",
+        "Oyin",
         "Cameroon",
-        "Arsenal",
+        "Lens",
         "Deco",
-        "Ebuka",
         "Tomorrow is Monday",
-        "Maresca",
-        "Kamsy",
-        "Oyin and Flora",
-        "Manchester City"
+        "Ebuka",
+        "Sheba and Goddessa",
+        "Goddessa and Sheba",
+        "Maresca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
