@@ -1,47 +1,49 @@
 {
-  "generated_at_utc": "2026-08-17T13:57:00.140127+00:00",
+  "generated_at_utc": "2026-08-17T14:19:04.497248+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 13:18:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 14:09:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden",
         "Good Monday",
+        "Oman",
         "#MondayMotivation",
         "Remember the Titans",
         "Heroes",
         "Fang Fang",
-        "Reese",
         "South Korea",
-        "#MondayVibes",
-        "Chris Boswell",
-        "Today is Monday"
+        "Reese",
+        "Breece Hall",
+        "Ian Whiffin"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#MondayVibes",
-        "#Lanterns"
+        "#EnjambreDePalangristas",
+        "#NationalNonprofitDay",
+        "#matchbox"
       ],
       "regular_topics": [
         "Hayden",
         "Good Monday",
+        "Oman",
         "Remember the Titans",
         "Heroes",
         "Fang Fang",
-        "Reese",
         "South Korea",
-        "Chris Boswell",
-        "Today is Monday",
-        "Bring It On",
-        "Happy New Week"
+        "Reese",
+        "Breece Hall",
+        "Ian Whiffin",
+        "Chris Boswell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 12:52:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 13:44:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
         "Arday",
@@ -52,8 +54,8 @@
         "Community Shield",
         "Man City",
         "Arsenal",
-        "Donnarumma",
-        "Cynthia"
+        "#ARSMCI",
+        "Donnarumma"
       ],
       "hashtags": [
         "#ARSMCI",
