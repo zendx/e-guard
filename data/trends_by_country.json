@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T11:46:01.064540+00:00",
+  "generated_at_utc": "2026-08-17T12:16:13.002852+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,58 +42,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 11:09:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:01:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
-        "Heroes",
         "Arday",
         "Maresca",
+        "Heroes",
         "Odegaard",
         "Jacquet",
         "Community Shield",
-        "Neto",
-        "#ARSMCI",
         "Man City",
+        "#popmaster",
+        "Donnarumma",
         "Arsenal"
       ],
       "hashtags": [
-        "#ARSMCI",
         "#popmaster",
+        "#arsmci",
         "#thismorning",
-        "#MondayMotivation",
-        "#burwhu"
+        "#burwhu",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Hayden Panettiere",
-        "Heroes",
         "Arday",
         "Maresca",
+        "Heroes",
         "Odegaard",
         "Jacquet",
         "Community Shield",
-        "Neto",
         "Man City",
+        "Donnarumma",
         "Arsenal",
-        "Donnarumma"
+        "Rodri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 11:03:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 11:54:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
+        "Good Monday",
         "North Korea",
-        "#Lanterns",
         "XAUUSD",
-        "Heroes",
+        "#Lanterns",
         "#UFC330",
+        "Heroes",
         "Osun",
-        "dylan cease",
-        "Odegaard",
+        "Dylan Cease",
         "Tzolis",
-        "Adeleke"
+        "Mike Layton"
       ],
       "hashtags": [
         "#Lanterns",
@@ -104,94 +104,93 @@
       ],
       "regular_topics": [
         "Hayden Panettiere",
+        "Good Monday",
         "North Korea",
         "XAUUSD",
         "Heroes",
         "Osun",
-        "dylan cease",
-        "Odegaard",
+        "Dylan Cease",
         "Tzolis",
-        "Adeleke",
-        "Maresca",
-        "Kairi"
+        "Mike Layton",
+        "Kim Jong Un",
+        "Maresca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 10:57:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 11:48:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BigSwitchSale",
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
-        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
         "Amit Malviya",
         "#NitinNabin",
-        "\u0930\u093e\u092e \u092e\u093e\u0927\u0935"
+        "#BigSwitchSale",
+        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
+        "#SmritiIrani"
       ],
       "hashtags": [
-        "#BigSwitchSale",
         "#NitinNabin",
+        "#BigSwitchSale",
         "#SmritiIrani",
-        "#VasundharaRaje",
-        "#KikuChiranjeevi"
+        "#BJPNewTeam",
+        "#VasundharaRaje"
       ],
       "regular_topics": [
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
-        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
         "Amit Malviya",
+        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
         "\u0930\u093e\u092e \u092e\u093e\u0927\u0935",
-        "Apple Features Galgotias",
-        "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940"
+        "Sonal Dinusha",
+        "apple features galgotias"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 10:57:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 11:48:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Week",
+        "Neto",
         "#MoreplexTvAngle",
         "#MondayMotivation",
-        "Pedro Neto",
-        "Hayden",
-        "Odin's Vault",
-        "Julio Enciso",
+        "Hayden Panettiere",
         "Blessing Agbebaku",
+        "Sergio Busquets",
+        "Odin's Vault",
         "Heroes",
-        "Today is Monday",
-        "Claire Bennet"
+        "$BKN",
+        "Julio Enciso"
       ],
       "hashtags": [
         "#MoreplexTvAngle",
         "#MondayMotivation",
         "#\u0131sparta",
-        "#LaCasaDeLosFamososM\u00e9xico",
         "#Lanterns"
       ],
       "regular_topics": [
         "Happy New Week",
-        "Pedro Neto",
-        "Hayden",
-        "Odin's Vault",
-        "Julio Enciso",
+        "Neto",
+        "Hayden Panettiere",
         "Blessing Agbebaku",
+        "Sergio Busquets",
+        "Odin's Vault",
         "Heroes",
+        "$BKN",
+        "Julio Enciso",
         "Today is Monday",
-        "Claire Bennet",
-        "Vicario",
-        "Another Monday"
+        "Jorge Mendes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
