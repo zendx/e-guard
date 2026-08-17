@@ -1,68 +1,69 @@
 {
-  "generated_at_utc": "2026-08-17T20:12:16.414402+00:00",
+  "generated_at_utc": "2026-08-17T20:48:42.236913+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 19:20:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 20:12:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "#monarch",
+        "Buss",
         "Pablo",
         "Kawhi",
-        "Adam Silver",
         "Ballmer",
+        "Clippers",
+        "Adam Silver",
         "GitHub",
-        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
-        "#DSYLM1BSpotify",
-        "Ryder Williams",
-        "Jean Carroll"
+        "Ossoff",
+        "Pee Wee Herman"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#monarch",
-        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
         "#DSYLM1BSpotify",
-        "#TheWorldMetKeonho"
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
+        "#User628\u0417692"
       ],
       "regular_topics": [
+        "Buss",
         "Pablo",
         "Kawhi",
-        "Adam Silver",
         "Ballmer",
+        "Clippers",
+        "Adam Silver",
         "GitHub",
-        "Ryder Williams",
-        "Jean Carroll",
         "Ossoff",
-        "Oman",
-        "Trackhouse",
-        "Matt Walsh"
+        "Pee Wee Herman",
+        "DIANNA AGRON",
+        "Rob Pelinka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 19:44:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 20:36:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "#UniversityChallenge",
         "Wrexham",
+        "#EastEnders",
         "Kieffer Moore",
-        "#onlyconnect",
         "#mastermind",
-        "Oman",
+        "#onlyconnect",
         "Nomy",
-        "Boehly",
-        "Clearlake",
-        "GitHub"
+        "Oman",
+        "Match",
+        "Boehly"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#UniversityChallenge",
-        "#onlyconnect",
+        "#EastEnders",
         "#mastermind",
-        "#thechase",
+        "#onlyconnect",
+        "#CARWRE",
         "#WxmAFC",
         "#BlackCatAppreciationDay",
         "#RHOA"
@@ -70,112 +71,112 @@
       "regular_topics": [
         "Wrexham",
         "Kieffer Moore",
-        "Oman",
         "Nomy",
-        "Boehly",
-        "Clearlake",
-        "GitHub",
+        "Oman",
         "Match",
-        "Ibrahim Mbaye",
+        "Boehly",
         "Trafalgar Square",
-        "Twine"
+        "Mbaye",
+        "GitHub",
+        "Clearlake",
+        "Stacey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 19:36:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 20:28:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
         "#RTXPowersPlay",
         "Hayden Panettiere",
         "Kawhi",
-        "IDEA BANK",
         "JAMES TURNS A YEAR TIMELESS",
-        "#365DaysWithJAMES",
-        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
         "North Korea",
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
         "Owner of Duel",
-        "Ballmer"
+        "Ballmer",
+        "Churchill Falls",
+        "Clippers"
       ],
       "hashtags": [
         "#monarch",
         "#RTXPowersPlay",
-        "#365DaysWithJAMES",
         "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
-        "#Lanterns"
+        "#Lanterns",
+        "#365DaysWithJAMES"
       ],
       "regular_topics": [
         "Hayden Panettiere",
         "Kawhi",
-        "IDEA BANK",
         "JAMES TURNS A YEAR TIMELESS",
         "North Korea",
         "Owner of Duel",
         "Ballmer",
         "Churchill Falls",
         "Clippers",
-        "Raptors",
-        "Heroes"
+        "Heroes",
+        "Kim Jong Un",
+        "Raptors"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 19:32:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 20:24:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "TDPL",
-        "#SeamXVIIIisBack",
         "JSSC-CGL",
         "GitHub",
+        "#SeamXVIIIisBack",
         "#APWelcomesNitinNabinJi",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "CONGRATULATIONS JIN",
-        "#DSYLM1BSpotify",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "#JIN1BILLION",
-        "\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928"
+        "#DSYLM1BSpotify",
+        "Origin"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#SeamXVIIIisBack",
         "#APWelcomesNitinNabinJi",
-        "#DSYLM1BSpotify",
-        "#JIN1BILLION"
+        "#JIN1BILLION",
+        "#DSYLM1BSpotify"
       ],
       "regular_topics": [
         "TDPL",
         "JSSC-CGL",
         "GitHub",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "CONGRATULATIONS JIN",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "Origin",
         "\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928",
         "DONT SAY YOU LOVE ME 1B",
-        "Origin",
         "HYBE CAN'T SEPARATE ENHYPEN",
-        "OUR STAR AKANKSHA",
-        "SPIRIT HAVOC IN 200 DAYS"
+        "Gujarat",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 19:32:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 20:24:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Nomy",
         "#RTXPowersPlay",
+        "Biggie",
+        "Aubameyang",
         "#comecorrectbytemkeyz",
-        "Mark Walter",
-        "Clearlake",
+        "Todd Boehly",
+        "Code",
         "Congratulations Abi",
+        "Clearlake",
         "Araga and Aikou",
-        "Makoko",
-        "Nigeria Football Federation",
-        "The NFF",
-        "Ryder Williams",
-        "Ibrahim Mbaye"
+        "Okocha"
       ],
       "hashtags": [
         "#RTXPowersPlay",
@@ -185,17 +186,17 @@
         "#\u0131spArta"
       ],
       "regular_topics": [
-        "Mark Walter",
-        "Clearlake",
+        "Nomy",
+        "Biggie",
+        "Aubameyang",
+        "Todd Boehly",
+        "Code",
         "Congratulations Abi",
+        "Clearlake",
         "Araga and Aikou",
-        "Makoko",
-        "Nigeria Football Federation",
+        "Okocha",
         "The NFF",
-        "Ryder Williams",
-        "Ibrahim Mbaye",
-        "GitHub",
-        "Okocha"
+        "Nigeria Football Federation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
