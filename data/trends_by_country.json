@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-17T03:23:58.149915+00:00",
+  "generated_at_utc": "2026-08-17T04:07:48.411009+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 03:00:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 03:51:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Hayden Panettiere",
         "#Lanterns",
+        "Heroes",
+        "Remember the Titans",
         "South Korea",
         "Von Miller",
         "#RHOA",
+        "Ice Princess",
         "Angel Reese",
-        "#BaddiesGoneWild",
-        "#90DayFiance",
         "Hal Jordan",
-        "Shamea",
-        "Kelli",
-        "Kyle Chandler"
+        "Beth Cooper"
       ],
       "hashtags": [
         "#Lanterns",
@@ -26,95 +26,95 @@
         "#BadBoysDR"
       ],
       "regular_topics": [
+        "Hayden Panettiere",
+        "Heroes",
+        "Remember the Titans",
         "South Korea",
         "Von Miller",
+        "Ice Princess",
         "Angel Reese",
         "Hal Jordan",
-        "Shamea",
-        "Kelli",
-        "Kyle Chandler",
-        "Tokido",
-        "John Stewart",
-        "Kim Jong Un",
-        "Ossoff"
+        "Beth Cooper",
+        "Until Dawn",
+        "Save the Cheerleader"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 02:33:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 03:24:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Odegaard",
-        "Jacquet",
         "Maresca",
+        "Jacquet",
         "#ARSMCI",
         "Tzolis",
         "Donnarumma",
+        "Hayden Panettiere",
+        "Arsenal",
+        "Jason Arday",
+        "Community Shield",
+        "Man City"
+      ],
+      "hashtags": [
+        "#ARSMCI",
+        "#Lanterns",
+        "#SaintsFC",
+        "#UFC330",
+        "#COYG"
+      ],
+      "regular_topics": [
+        "Odegaard",
+        "Maresca",
+        "Jacquet",
+        "Tzolis",
+        "Donnarumma",
+        "Hayden Panettiere",
         "Arsenal",
         "Jason Arday",
         "Community Shield",
         "Man City",
         "Cynthia"
       ],
-      "hashtags": [
-        "#ARSMCI",
-        "#SaintsFC",
-        "#UFC330",
-        "#Lanterns",
-        "#COYG"
-      ],
-      "regular_topics": [
-        "Odegaard",
-        "Jacquet",
-        "Maresca",
-        "Tzolis",
-        "Donnarumma",
-        "Arsenal",
-        "Jason Arday",
-        "Community Shield",
-        "Man City",
-        "Cynthia",
-        "Osun"
-      ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 02:27:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 03:18:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Lanterns",
+        "Hayden Panettiere",
         "North Korea",
         "#UFC330",
-        "#Lanterns",
         "#90DayFiance",
         "Osun",
+        "#VWFC",
+        "Hal Jordan",
         "Adeleke",
         "Dylan Cease",
-        "Yankees",
-        "Maresca",
-        "Donnarumma",
-        "Odegaard"
+        "Yankees"
       ],
       "hashtags": [
-        "#UFC330",
         "#Lanterns",
+        "#UFC330",
         "#90DayFiance",
-        "#IndyCar",
+        "#VWFC",
         "#RHOA"
       ],
       "regular_topics": [
+        "Hayden Panettiere",
         "North Korea",
         "Osun",
+        "Hal Jordan",
         "Adeleke",
         "Dylan Cease",
         "Yankees",
         "Maresca",
-        "Donnarumma",
-        "Odegaard",
-        "Brendon Little",
         "Candace",
-        "Garry"
+        "Odegaard",
+        "Tzolis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
