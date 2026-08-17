@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-17T15:45:24.073136+00:00",
+  "generated_at_utc": "2026-08-17T16:12:09.604967+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 15:00:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 15:52:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#User628\u0417692",
         "Hayden",
-        "Good Monday",
         "Oman",
-        "#MondayMotivation",
         "E. Jean Carroll",
-        "Breece Hall",
+        "Good Monday",
+        "#TheWorldMetKeonho",
+        "#MondayMotivation",
+        "GitHub",
         "#JUHOONOneYearToBeyond",
-        "Fang Fang",
-        "Remember the Titans",
-        "North Korea",
-        "Cavuto"
+        "Swalwell",
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574"
       ],
       "hashtags": [
+        "#User628\u0417692",
+        "#TheWorldMetKeonho",
         "#MondayMotivation",
         "#JUHOONOneYearToBeyond",
-        "#MondayVibes",
-        "#NationalNonprofitDay",
-        "#EnjambreDePalangristas"
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574"
       ],
       "regular_topics": [
         "Hayden",
-        "Good Monday",
         "Oman",
         "E. Jean Carroll",
+        "Good Monday",
+        "GitHub",
+        "Swalwell",
         "Breece Hall",
         "Fang Fang",
-        "Remember the Titans",
-        "North Korea",
         "Cavuto",
-        "JJUST THE BEGINNING",
-        "Swalwell"
+        "Teens",
+        "JJUST THE BEGINNING"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
