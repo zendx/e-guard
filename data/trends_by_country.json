@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-17T21:45:19.708468+00:00",
+  "generated_at_utc": "2026-08-17T22:10:44.792951+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 21:04:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 21:56:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Buss",
+        "Ossoff",
         "#monarch",
         "Pablo",
-        "Kawhi",
-        "Ballmer",
         "Clippers",
-        "Ossoff",
-        "GitHub",
+        "Ballmer",
+        "Kawhi",
         "Pee Wee Herman",
-        "The NBA"
+        "Narcan",
+        "Matt Walsh"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#monarch",
+        "#Wrexham",
         "#DSYLM1BSpotify",
-        "#User628\u0417692",
-        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574"
+        "#HISA"
       ],
       "regular_topics": [
         "Buss",
-        "Pablo",
-        "Kawhi",
-        "Ballmer",
-        "Clippers",
         "Ossoff",
-        "GitHub",
+        "Pablo",
+        "Clippers",
+        "Ballmer",
+        "Kawhi",
         "Pee Wee Herman",
-        "The NBA",
-        "Adam Silver",
-        "Narcan"
+        "Narcan",
+        "Matt Walsh",
+        "Ryder Williams",
+        "GitHub"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
