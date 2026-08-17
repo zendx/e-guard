@@ -1,48 +1,47 @@
 {
-  "generated_at_utc": "2026-08-17T12:16:13.002852+00:00",
+  "generated_at_utc": "2026-08-17T13:11:45.389156+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 11:33:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:27:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden",
         "Good Monday",
         "#MondayMotivation",
         "Remember the Titans",
         "Heroes",
-        "South Korea",
         "Reese",
-        "Kairi",
-        "Zebec",
-        "Until Dawn",
-        "Ice Princess"
+        "South Korea",
+        "#MondayVibes",
+        "Chris Boswell",
+        "Today is Monday",
+        "Kairi"
       ],
       "hashtags": [
         "#MondayMotivation",
-        "#Lanterns",
-        "#Avengers",
-        "#BaddiesGoneWild"
+        "#MondayVibes",
+        "#Lanterns"
       ],
       "regular_topics": [
         "Hayden",
         "Good Monday",
         "Remember the Titans",
         "Heroes",
-        "South Korea",
         "Reese",
+        "South Korea",
+        "Chris Boswell",
+        "Today is Monday",
         "Kairi",
-        "Zebec",
-        "Until Dawn",
-        "Ice Princess",
-        "Beth Cooper"
+        "Fang Fang",
+        "Bring It On"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 12:01:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:52:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
         "Arday",
@@ -52,16 +51,16 @@
         "Jacquet",
         "Community Shield",
         "Man City",
-        "#popmaster",
+        "Arsenal",
         "Donnarumma",
-        "Arsenal"
+        "Cynthia"
       ],
       "hashtags": [
-        "#popmaster",
-        "#arsmci",
+        "#ARSMCI",
         "#thismorning",
         "#burwhu",
-        "#MondayMotivation"
+        "#MondayMotivation",
+        "#EnoughIsEnoughFreeKhan"
       ],
       "regular_topics": [
         "Hayden Panettiere",
@@ -72,47 +71,47 @@
         "Jacquet",
         "Community Shield",
         "Man City",
-        "Donnarumma",
         "Arsenal",
-        "Rodri"
+        "Donnarumma",
+        "Cynthia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 11:54:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:45:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
-        "Good Monday",
         "North Korea",
-        "XAUUSD",
+        "Good Monday",
         "#Lanterns",
-        "#UFC330",
         "Heroes",
+        "#UFC330",
         "Osun",
         "Dylan Cease",
-        "Tzolis",
-        "Mike Layton"
+        "Oman",
+        "Kim Jong Un",
+        "Tzolis"
       ],
       "hashtags": [
         "#Lanterns",
         "#UFC330",
-        "#IndyCar",
         "#90DayFiance",
-        "#VWFC"
+        "#vwfc",
+        "#SeductiveSunday"
       ],
       "regular_topics": [
         "Hayden Panettiere",
-        "Good Monday",
         "North Korea",
-        "XAUUSD",
+        "Good Monday",
         "Heroes",
         "Osun",
         "Dylan Cease",
-        "Tzolis",
-        "Mike Layton",
+        "Oman",
         "Kim Jong Un",
+        "Tzolis",
+        "Hollywood",
         "Maresca"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,77 +119,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 11:48:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
+        "#SeamXVIIIisBack",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
-        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
         "Amit Malviya",
         "#NitinNabin",
-        "#BigSwitchSale",
-        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
         "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "#SmritiIrani"
+        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "Virat"
       ],
       "hashtags": [
+        "#SeamXVIIIisBack",
         "#NitinNabin",
-        "#BigSwitchSale",
-        "#SmritiIrani",
         "#BJPNewTeam",
-        "#VasundharaRaje"
+        "#SmritiIrani",
+        "#BigSwitchSale"
       ],
       "regular_topics": [
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
-        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
         "Amit Malviya",
-        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
         "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
+        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
+        "Virat",
         "\u0930\u093e\u092e \u092e\u093e\u0927\u0935",
-        "Sonal Dinusha",
-        "apple features galgotias"
+        "Sonal Dinusha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 11:48:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 12:39:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Week",
         "Neto",
+        "Happy New Week",
         "#MoreplexTvAngle",
         "#MondayMotivation",
+        "Sergio Busquets",
         "Hayden Panettiere",
         "Blessing Agbebaku",
-        "Sergio Busquets",
+        "Jorge Mendes",
         "Odin's Vault",
-        "Heroes",
         "$BKN",
-        "Julio Enciso"
+        "Heroes"
       ],
       "hashtags": [
         "#MoreplexTvAngle",
         "#MondayMotivation",
-        "#\u0131sparta",
-        "#Lanterns"
+        "#Lanterns",
+        "#\u0131sparta"
       ],
       "regular_topics": [
-        "Happy New Week",
         "Neto",
+        "Happy New Week",
+        "Sergio Busquets",
         "Hayden Panettiere",
         "Blessing Agbebaku",
-        "Sergio Busquets",
+        "Jorge Mendes",
         "Odin's Vault",
-        "Heroes",
         "$BKN",
+        "Heroes",
         "Julio Enciso",
-        "Today is Monday",
-        "Jorge Mendes"
+        "Claire Bennet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
