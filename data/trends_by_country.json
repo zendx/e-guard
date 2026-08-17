@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-17T22:45:29.942042+00:00",
+  "generated_at_utc": "2026-08-17T23:09:55.118643+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 21:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 22:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
-        "Buss",
+        "Jeanie",
         "Ossoff",
         "#monarch",
         "Pablo",
+        "Coby Mayo",
         "Clippers",
-        "Ballmer",
-        "Kawhi",
         "Pee Wee Herman",
-        "Narcan",
-        "Matt Walsh"
+        "Ballmer",
+        "Kushner",
+        "Fang Fang"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#monarch",
         "#Wrexham",
         "#DSYLM1BSpotify",
-        "#HISA"
+        "#Repent"
       ],
       "regular_topics": [
-        "Buss",
+        "Jeanie",
         "Ossoff",
         "Pablo",
+        "Coby Mayo",
         "Clippers",
-        "Ballmer",
-        "Kawhi",
         "Pee Wee Herman",
-        "Narcan",
+        "Ballmer",
+        "Kushner",
+        "Fang Fang",
         "Matt Walsh",
-        "Ryder Williams",
-        "GitHub"
+        "Kristen Holmes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -126,23 +126,23 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 22:08:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:00:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
-        "#RTXPowersPlay",
         "#SeamXVIIIisBack",
+        "#RTXPowersPlay",
         "#NagPanchami",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "#APWelcomesNitinNabinJi",
         "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "Dimagi Naxal",
-        "TDPL",
-        "apple features galgotias"
+        "apple features galgotias",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
       ],
       "hashtags": [
-        "#RTXPowersPlay",
         "#SeamXVIIIisBack",
+        "#RTXPowersPlay",
         "#NagPanchami",
         "#APWelcomesNitinNabinJi",
         "#trimmerskabaap"
@@ -153,53 +153,53 @@
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "Dimagi Naxal",
-        "TDPL",
         "apple features galgotias",
-        "Amit Malviya",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Amit Malviya",
         "banni",
-        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940"
+        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
+        "vantara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 22:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Nomy",
-        "#LeaveDiiademAlone",
         "Stage 4",
         "Ogogo",
+        "Taiwo Hassan",
+        "Nomy",
+        "#LeaveDiiademAlone",
+        "$BKN",
         "#RTXPowersPlay",
-        "#challengethemachine",
-        "#prophetmarket",
         "Aubameyang",
-        "Biggie",
         "#wearethenew",
-        "Mark Walter"
+        "#challengethemachine",
+        "Okocha"
       ],
       "hashtags": [
         "#LeaveDiiademAlone",
         "#RTXPowersPlay",
-        "#challengethemachine",
-        "#prophetmarket",
         "#wearethenew",
+        "#challengethemachine",
         "#21daysofpower",
+        "#prophetmarket",
         "#comecorrectbytemkeyz"
       ],
       "regular_topics": [
-        "Nomy",
         "Stage 4",
         "Ogogo",
+        "Taiwo Hassan",
+        "Nomy",
+        "$BKN",
         "Aubameyang",
+        "Okocha",
         "Biggie",
-        "Mark Walter",
-        "$EYE",
-        "San Diego, CA",
         "Code",
-        "Voltix",
-        "Wrexham"
+        "Mark Walter",
+        "$EYE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
