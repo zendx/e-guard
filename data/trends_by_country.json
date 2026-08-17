@@ -1,81 +1,80 @@
 {
-  "generated_at_utc": "2026-08-17T11:13:34.379129+00:00",
+  "generated_at_utc": "2026-08-17T11:46:01.064540+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 10:43:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 11:33:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden",
         "Good Monday",
-        "Heroes",
-        "Remember the Titans",
         "#MondayMotivation",
-        "Kairi",
+        "Remember the Titans",
+        "Heroes",
         "South Korea",
+        "Reese",
+        "Kairi",
+        "Zebec",
         "Until Dawn",
-        "#Lanterns",
-        "Beth Cooper",
         "Ice Princess"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#Lanterns",
-        "#RHOA",
         "#Avengers",
-        "#LYKNDuskAndDawnxSanFrancisco"
+        "#BaddiesGoneWild"
       ],
       "regular_topics": [
         "Hayden",
         "Good Monday",
-        "Heroes",
         "Remember the Titans",
-        "Kairi",
+        "Heroes",
         "South Korea",
+        "Reese",
+        "Kairi",
+        "Zebec",
         "Until Dawn",
-        "Beth Cooper",
         "Ice Princess",
-        "Hal Jordan",
-        "Scream"
+        "Beth Cooper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 10:18:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 11:09:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
         "Heroes",
-        "#popmaster",
-        "Maresca",
-        "Jacquet",
         "Arday",
+        "Maresca",
         "Odegaard",
+        "Jacquet",
         "Community Shield",
+        "Neto",
         "#ARSMCI",
-        "Donnarumma",
+        "Man City",
         "Arsenal"
       ],
       "hashtags": [
-        "#popmaster",
         "#ARSMCI",
-        "#jeremyvine",
-        "#UFC330",
-        "#thismorning"
+        "#popmaster",
+        "#thismorning",
+        "#MondayMotivation",
+        "#burwhu"
       ],
       "regular_topics": [
         "Hayden Panettiere",
         "Heroes",
-        "Maresca",
-        "Jacquet",
         "Arday",
+        "Maresca",
         "Odegaard",
+        "Jacquet",
         "Community Shield",
-        "Donnarumma",
-        "Arsenal",
+        "Neto",
         "Man City",
-        "Neto"
+        "Arsenal",
+        "Donnarumma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
