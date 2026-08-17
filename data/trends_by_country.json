@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T16:12:09.604967+00:00",
+  "generated_at_utc": "2026-08-17T16:50:41.688964+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 15:27:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 16:18:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#User628\u0417692",
         "Hayden Panettiere",
+        "#RTXPowersPlay",
         "Arday",
         "Heroes",
         "Maresca",
         "Jacquet",
         "Community Shield",
         "Odegaard",
-        "Man City",
         "Arsenal",
-        "Cynthia",
-        "Donnarumma"
+        "Man City"
       ],
       "hashtags": [
-        "#aplaceinthesun",
+        "#User628\u0417692",
+        "#RTXPowersPlay",
         "#ARSMCI",
-        "#burwhu",
-        "#MondayMotivation",
-        "#Lanterns"
+        "#thechase",
+        "#burwhu"
       ],
       "regular_topics": [
         "Hayden Panettiere",
@@ -72,36 +72,36 @@
         "Jacquet",
         "Community Shield",
         "Odegaard",
-        "Man City",
         "Arsenal",
-        "Cynthia",
-        "Donnarumma"
+        "Man City",
+        "Donnarumma",
+        "Cynthia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 15:19:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 16:10:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
+        "#RTXPowersPlay",
         "North Korea",
         "Heroes",
         "Oman",
         "#Lanterns",
         "Kim Jong Un",
-        "XAUUSD",
+        "#MondayMotivation",
         "Osun",
-        "3% in July",
         "Kairi",
-        "#UFC330"
+        "Good Monday"
       ],
       "hashtags": [
+        "#RTXPowersPlay",
         "#Lanterns",
+        "#MondayMotivation",
         "#UFC330",
-        "#90DayFiance",
-        "#AMO2026",
-        "#seductivesunday"
+        "#90DayFiance"
       ],
       "regular_topics": [
         "Hayden Panettiere",
@@ -109,70 +109,70 @@
         "Heroes",
         "Oman",
         "Kim Jong Un",
-        "XAUUSD",
         "Osun",
-        "3% in July",
         "Kairi",
-        "Good Monday Morning",
-        "Remember the Titans"
+        "Good Monday",
+        "Hal Jordan",
+        "3% in July",
+        "Until Dawn"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 15:15:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 16:06:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#APWelcomesNitinNabinJi",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "#SeamXVIIIisBack",
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "SPIRIT HAVOC IN 200 DAYS",
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
+        "#GodNightMonday",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
-        "Ayush Shetty",
-        "Andhra Pradesh",
         "Amit Malviya",
+        "Ayush Shetty",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "#GodNightMonday"
+        "Andhra Pradesh"
       ],
       "hashtags": [
         "#APWelcomesNitinNabinJi",
         "#SeamXVIIIisBack",
         "#GodNightMonday",
-        "#BJPNewTeam",
-        "#SmritiIrani"
+        "#FirstYearOutsideTheLines",
+        "#BoycottBELIFT_DemandAnswers"
       ],
       "regular_topics": [
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "SPIRIT HAVOC IN 200 DAYS",
+        "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
-        "Ayush Shetty",
-        "Andhra Pradesh",
         "Amit Malviya",
+        "Ayush Shetty",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Andhra Pradesh",
+        "GitHub",
         "Vantara",
-        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
-        "Banni"
+        "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 15:13:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 16:04:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#YouHaveDoneMeWell",
         "Strasbourg",
+        "#YouHaveDoneMeWell",
         "Diego Moreira",
         "Fermin",
-        "Up to 500x",
-        "Cashmere",
         "Hayden Panettiere",
-        "1-Step Boost",
         "No. 7",
-        "Jorge Mendes",
-        "Majors and Minors"
+        "Oman",
+        "Cashmere",
+        "Up to 500x",
+        "No. 16",
+        "1-Step Boost"
       ],
       "hashtags": [
         "#YouHaveDoneMeWell",
@@ -185,14 +185,14 @@
         "Strasbourg",
         "Diego Moreira",
         "Fermin",
-        "Up to 500x",
-        "Cashmere",
         "Hayden Panettiere",
-        "1-Step Boost",
         "No. 7",
-        "Jorge Mendes",
-        "Majors and Minors",
-        "Neto"
+        "Oman",
+        "Cashmere",
+        "Up to 500x",
+        "No. 16",
+        "1-Step Boost",
+        "Jorge Mendes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
