@@ -1,81 +1,83 @@
 {
-  "generated_at_utc": "2026-08-17T17:14:59.085815+00:00",
+  "generated_at_utc": "2026-08-17T17:49:51.500082+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 16:44:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 17:36:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
+        "Adam Silver",
+        "Pablo Torre",
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
+        "Ballmer",
         "#User628\u0417692",
+        "JAMES TURNS A YEAR TIMELESS",
+        "#365DaysWithJAMES",
         "AP Poll",
         "E. Jean Carroll",
-        "Hayden",
-        "GitHub",
-        "Oman",
-        "AP Top 25",
-        "#MondayMotivation",
-        "#TheWorldMetKeonho",
-        "Trackhouse"
+        "GitHub"
       ],
       "hashtags": [
         "#RTXPowersPlay",
+        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
         "#User628\u0417692",
-        "#MondayMotivation",
-        "#TheWorldMetKeonho",
-        "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574"
+        "#365DaysWithJAMES",
+        "#TheWorldMetKeonho"
       ],
       "regular_topics": [
+        "Adam Silver",
+        "Pablo Torre",
+        "Ballmer",
+        "JAMES TURNS A YEAR TIMELESS",
         "AP Poll",
         "E. Jean Carroll",
-        "Hayden",
         "GitHub",
         "Oman",
-        "AP Top 25",
         "Trackhouse",
-        "Connor Zilisch",
-        "Swalwell",
-        "Good Monday",
-        "FIRST TO FOREVER WITH JUHOON"
+        "Hayden",
+        "AP Top 25"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 16:18:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 17:09:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#User628\u0417692",
-        "Hayden Panettiere",
         "#RTXPowersPlay",
-        "Arday",
-        "Heroes",
-        "Maresca",
-        "Jacquet",
-        "Community Shield",
-        "Odegaard",
-        "Arsenal",
-        "Man City"
+        "#User628\u0417692",
+        "#thechase",
+        "Boehly",
+        "Oman",
+        "Clearlake",
+        "Taiwo",
+        "Big T",
+        "GitHub",
+        "Richarlison",
+        "Post Office"
       ],
       "hashtags": [
-        "#User628\u0417692",
         "#RTXPowersPlay",
-        "#ARSMCI",
+        "#User628\u0417692",
         "#thechase",
-        "#burwhu"
+        "#BlackCatAppreciationDay",
+        "#RHOA",
+        "#Lanterns",
+        "#MondayMotivation"
       ],
       "regular_topics": [
-        "Hayden Panettiere",
-        "Arday",
-        "Heroes",
-        "Maresca",
-        "Jacquet",
-        "Community Shield",
-        "Odegaard",
-        "Arsenal",
-        "Man City",
-        "Donnarumma",
-        "Cynthia"
+        "Boehly",
+        "Oman",
+        "Clearlake",
+        "Taiwo",
+        "Big T",
+        "GitHub",
+        "Richarlison",
+        "Post Office",
+        "Mrs Brown",
+        "Eritrean",
+        "Bruno Fernandes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
