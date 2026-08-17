@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-17T14:49:59.852708+00:00",
+  "generated_at_utc": "2026-08-17T15:13:12.792084+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 14:09:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 15:00:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden",
         "Good Monday",
         "Oman",
         "#MondayMotivation",
-        "Remember the Titans",
-        "Heroes",
-        "Fang Fang",
-        "South Korea",
-        "Reese",
+        "E. Jean Carroll",
         "Breece Hall",
-        "Ian Whiffin"
+        "#JUHOONOneYearToBeyond",
+        "Fang Fang",
+        "Remember the Titans",
+        "North Korea",
+        "Cavuto"
       ],
       "hashtags": [
         "#MondayMotivation",
+        "#JUHOONOneYearToBeyond",
         "#MondayVibes",
-        "#EnjambreDePalangristas",
         "#NationalNonprofitDay",
-        "#matchbox"
+        "#EnjambreDePalangristas"
       ],
       "regular_topics": [
         "Hayden",
         "Good Monday",
         "Oman",
-        "Remember the Titans",
-        "Heroes",
-        "Fang Fang",
-        "South Korea",
-        "Reese",
+        "E. Jean Carroll",
         "Breece Hall",
-        "Ian Whiffin",
-        "Chris Boswell"
+        "Fang Fang",
+        "Remember the Titans",
+        "North Korea",
+        "Cavuto",
+        "JJUST THE BEGINNING",
+        "Swalwell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
