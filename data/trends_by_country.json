@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-17T13:11:45.389156+00:00",
+  "generated_at_utc": "2026-08-17T13:57:00.140127+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 12:27:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 13:18:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden",
         "Good Monday",
         "#MondayMotivation",
         "Remember the Titans",
         "Heroes",
+        "Fang Fang",
         "Reese",
         "South Korea",
         "#MondayVibes",
         "Chris Boswell",
-        "Today is Monday",
-        "Kairi"
+        "Today is Monday"
       ],
       "hashtags": [
         "#MondayMotivation",
@@ -28,13 +28,13 @@
         "Good Monday",
         "Remember the Titans",
         "Heroes",
+        "Fang Fang",
         "Reese",
         "South Korea",
         "Chris Boswell",
         "Today is Monday",
-        "Kairi",
-        "Fang Fang",
-        "Bring It On"
+        "Bring It On",
+        "Happy New Week"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -80,19 +80,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 12:45:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 13:36:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hayden Panettiere",
         "North Korea",
-        "Good Monday",
-        "#Lanterns",
         "Heroes",
-        "#UFC330",
-        "Osun",
-        "Dylan Cease",
+        "#Lanterns",
+        "Good Monday",
         "Oman",
+        "Osun",
+        "XAUUSD",
         "Kim Jong Un",
-        "Tzolis"
+        "#UFC330",
+        "La Maison de Radio-Canada"
       ],
       "hashtags": [
         "#Lanterns",
@@ -104,22 +104,22 @@
       "regular_topics": [
         "Hayden Panettiere",
         "North Korea",
-        "Good Monday",
         "Heroes",
-        "Osun",
-        "Dylan Cease",
+        "Good Monday",
         "Oman",
+        "Osun",
+        "XAUUSD",
         "Kim Jong Un",
-        "Tzolis",
-        "Hollywood",
-        "Maresca"
+        "La Maison de Radio-Canada",
+        "Nashville",
+        "Kairi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 12:39:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 13:31:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SeamXVIIIisBack",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
@@ -129,16 +129,16 @@
         "#NitinNabin",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
         "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
+        "#BJPNewTeam",
         "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
-        "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
-        "Virat"
+        "#SmritiIrani"
       ],
       "hashtags": [
         "#SeamXVIIIisBack",
         "#NitinNabin",
         "#BJPNewTeam",
         "#SmritiIrani",
-        "#BigSwitchSale"
+        "#RavindraJadeja"
       ],
       "regular_topics": [
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
@@ -148,48 +148,49 @@
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
         "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
         "\u0928\u093f\u0924\u093f\u0928 \u0928\u0935\u0940\u0928",
+        "SPIRIT HAVOC IN 200 DAYS",
         "\u0935\u0938\u0941\u0902\u0927\u0930\u093e \u0930\u093e\u091c\u0947",
-        "Virat",
         "\u0930\u093e\u092e \u092e\u093e\u0927\u0935",
-        "Sonal Dinusha"
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u0902\u0917\u0920\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 12:39:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 13:30:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#YouHaveDoneMeWell",
+        "Diego Moreira",
         "Neto",
+        "Hayden Panettiere",
+        "Jorge Mendes",
+        "Up to 500x",
         "Happy New Week",
+        "1-Step Boost",
         "#MoreplexTvAngle",
         "#MondayMotivation",
-        "Sergio Busquets",
-        "Hayden Panettiere",
-        "Blessing Agbebaku",
-        "Jorge Mendes",
-        "Odin's Vault",
-        "$BKN",
-        "Heroes"
+        "Majors and Minors"
       ],
       "hashtags": [
+        "#YouHaveDoneMeWell",
         "#MoreplexTvAngle",
         "#MondayMotivation",
         "#Lanterns",
         "#\u0131sparta"
       ],
       "regular_topics": [
+        "Diego Moreira",
         "Neto",
-        "Happy New Week",
-        "Sergio Busquets",
         "Hayden Panettiere",
-        "Blessing Agbebaku",
         "Jorge Mendes",
+        "Up to 500x",
+        "Happy New Week",
+        "1-Step Boost",
+        "Majors and Minors",
+        "Sergio Busquets",
         "Odin's Vault",
-        "$BKN",
-        "Heroes",
-        "Julio Enciso",
-        "Claire Bennet"
+        "Juliano Belletti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
