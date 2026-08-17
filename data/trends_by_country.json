@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T19:47:07.352590+00:00",
+  "generated_at_utc": "2026-08-17T20:12:16.414402+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,42 +43,42 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 18:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 19:44:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
-        "#User628\u0417692",
-        "Oman",
-        "Boehly",
-        "Nomy",
+        "#UniversityChallenge",
         "Wrexham",
+        "Kieffer Moore",
+        "#onlyconnect",
+        "#mastermind",
+        "Oman",
+        "Nomy",
+        "Boehly",
         "Clearlake",
-        "GitHub",
-        "#thechase",
-        "Cardiff",
-        "Ibrahim Mbaye"
+        "GitHub"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#User628\u0417692",
+        "#UniversityChallenge",
+        "#onlyconnect",
+        "#mastermind",
         "#thechase",
         "#WxmAFC",
         "#BlackCatAppreciationDay",
-        "#Lanterns",
-        "#RHOA",
-        "#MondayMotivation"
+        "#RHOA"
       ],
       "regular_topics": [
-        "Oman",
-        "Boehly",
-        "Nomy",
         "Wrexham",
+        "Kieffer Moore",
+        "Oman",
+        "Nomy",
+        "Boehly",
         "Clearlake",
         "GitHub",
-        "Cardiff",
+        "Match",
         "Ibrahim Mbaye",
-        "Taiwo",
-        "Biggie",
-        "Big T"
+        "Trafalgar Square",
+        "Twine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -163,39 +163,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 18:40:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 19:32:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#comecorrectbytemkeyz",
-        "Todd Boehly",
-        "Congratulations Abi",
         "#RTXPowersPlay",
+        "#comecorrectbytemkeyz",
+        "Mark Walter",
         "Clearlake",
+        "Congratulations Abi",
+        "Araga and Aikou",
         "Makoko",
-        "GitHub",
-        "Moise Kean",
-        "Ibrahim Mbaye",
-        "Fiorentina",
-        "Wilcox"
+        "Nigeria Football Federation",
+        "The NFF",
+        "Ryder Williams",
+        "Ibrahim Mbaye"
       ],
       "hashtags": [
-        "#comecorrectbytemkeyz",
         "#RTXPowersPlay",
-        "#KuCoin",
+        "#comecorrectbytemkeyz",
         "#YouHaveDoneMeWell",
-        "#\u0131sparta"
+        "#KuCoin",
+        "#\u0131spArta"
       ],
       "regular_topics": [
-        "Todd Boehly",
-        "Congratulations Abi",
+        "Mark Walter",
         "Clearlake",
+        "Congratulations Abi",
+        "Araga and Aikou",
         "Makoko",
-        "GitHub",
-        "Moise Kean",
+        "Nigeria Football Federation",
+        "The NFF",
+        "Ryder Williams",
         "Ibrahim Mbaye",
-        "Fiorentina",
-        "Wilcox",
-        "$SOLCAT",
-        "Diego Moreira"
+        "GitHub",
+        "Okocha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
