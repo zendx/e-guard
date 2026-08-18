@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-18T07:10:33.663085+00:00",
+  "generated_at_utc": "2026-08-18T07:58:29.397094+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 06:30:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 07:21:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Cubs",
         "#MVPete",
         "#MVPCA",
         "#FlyTheW",
-        "Pete Crow",
         "Venable",
+        "Pete Crow",
         "Keenan Allen",
-        "Kyle Tucker",
         "#Valkyries",
-        "Ossoff"
+        "Ossoff",
+        "Kyle Tucker"
       ],
       "hashtags": [
         "#WWERaw",
@@ -27,16 +27,16 @@
       ],
       "regular_topics": [
         "Cubs",
-        "Pete Crow",
         "Venable",
+        "Pete Crow",
         "Keenan Allen",
-        "Kyle Tucker",
         "Ossoff",
+        "Kyle Tucker",
         "Jacob Webb",
-        "Ketel",
-        "Shohei",
+        "Adobe",
         "Gable",
-        "NL MVP"
+        "NL MVP",
+        "Shohei"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,14 +82,14 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 06:48:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 07:40:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
         "#RTXPowersPlay",
         "Hayden",
-        "#WWERaw",
         "South Korea",
         "Churchill Falls",
+        "#WWERaw",
         "#MonthlyMillionaire",
         "Kim Jong Un",
         "Quebec",
@@ -114,44 +114,44 @@
         "Kawhi",
         "IDEA BANK",
         "JAMES TURNS A YEAR TIMELESS",
-        "Ossoff"
+        "Lanterns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 06:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 07:36:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AIMultibaggerStock",
         "#DrMohitBhandariCreatesHistory",
         "#BHUDEVI_INFRA_PROJECTS_LTD",
-        "#AIMultibaggerStock",
         "Robotic Bariatric Surgeries",
-        "#AISectorStock",
-        "#NHC_52Week_Breakout",
         "Bhudevi Infra Projects",
-        "NHC Foods",
+        "Oracle",
+        "#NHC_52Week_Breakout",
+        "#TrueWorship_EndsSuffering",
         "Hyderabad Residential Project",
-        "Sa True Story YtChannel",
+        "Omega",
         "Bhudevi Aurum Phase1"
       ],
       "hashtags": [
+        "#AIMultibaggerStock",
         "#DrMohitBhandariCreatesHistory",
         "#BHUDEVI_INFRA_PROJECTS_LTD",
-        "#AIMultibaggerStock",
-        "#AISectorStock",
-        "#NHC_52Week_Breakout"
+        "#NHC_52Week_Breakout",
+        "#TrueWorship_EndsSuffering"
       ],
       "regular_topics": [
         "Robotic Bariatric Surgeries",
         "Bhudevi Infra Projects",
-        "NHC Foods",
-        "Hyderabad Residential Project",
-        "Sa True Story YtChannel",
-        "Bhudevi Aurum Phase1",
         "Oracle",
-        "Telangana Real Estate",
+        "Hyderabad Residential Project",
         "Omega",
+        "Bhudevi Aurum Phase1",
+        "NHC FOOD PE Opportunity",
+        "Sa True Story YtChannel",
+        "Telangana Real Estate",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
@@ -160,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 06:43:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 07:34:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Amen",
         "Taco Tuesday",
@@ -177,9 +177,8 @@
       "hashtags": [
         "#RTXPowersPlay",
         "#MondayMotivation",
-        "#moreplextvangle",
         "#arsmci",
-        "#youhavedonemewell"
+        "#YouHaveDoneMeWell"
       ],
       "regular_topics": [
         "Amen",
