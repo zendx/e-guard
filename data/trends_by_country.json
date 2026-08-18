@@ -1,111 +1,107 @@
 {
-  "generated_at_utc": "2026-08-17T23:42:14.204951+00:00",
+  "generated_at_utc": "2026-08-18T00:28:08.345023+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 17 2026 22:48:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:39:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#RTXPowersPlay",
         "Jeanie",
+        "#RTXPowersPlay",
+        "Carson Benge",
         "Ossoff",
+        "Jordyn Tyson",
+        "Ketel Marte",
+        "Jorge Mateo",
         "#monarch",
-        "Pablo",
         "Coby Mayo",
-        "Clippers",
-        "Pee Wee Herman",
-        "Ballmer",
-        "Kushner",
-        "Fang Fang"
+        "Kristen Holmes",
+        "Brandon Young"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#monarch",
-        "#Wrexham",
-        "#DSYLM1BSpotify",
-        "#Repent"
+        "#CODNext",
+        "#Repent",
+        "#Wrexham"
       ],
       "regular_topics": [
         "Jeanie",
+        "Carson Benge",
         "Ossoff",
-        "Pablo",
+        "Jordyn Tyson",
+        "Ketel Marte",
+        "Jorge Mateo",
         "Coby Mayo",
-        "Clippers",
-        "Pee Wee Herman",
-        "Ballmer",
-        "Kushner",
-        "Fang Fang",
-        "Matt Walsh",
-        "Kristen Holmes"
+        "Kristen Holmes",
+        "Brandon Young",
+        "Natalie",
+        "Pee Wee Herman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 17 2026 23:12:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 00:03:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RTXPowersPlay",
+        "Hayden Panettiere",
+        "Arday",
         "Wrexham",
         "Rubin Colwill",
-        "#RTXPowersPlay",
-        "#CARWRE",
-        "Dobson",
-        "Patterson",
+        "#User628\u0417692",
+        "Heroes",
+        "Arsenal",
+        "Oman",
         "#universitychallenge",
-        "#EastEnders",
-        "Kieffer Moore",
-        "Moylan",
-        "#celebrityhunted"
+        "Maresca"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#CARWRE",
+        "#User628\u0417692",
         "#universitychallenge",
-        "#EastEnders",
-        "#celebrityhunted",
-        "#WxmAFC",
-        "#mastermind",
-        "#onlyconnect",
-        "#CCFC"
+        "#Lanterns",
+        "#CARWRE"
       ],
       "regular_topics": [
+        "Hayden Panettiere",
+        "Arday",
         "Wrexham",
         "Rubin Colwill",
-        "Dobson",
-        "Patterson",
-        "Kieffer Moore",
-        "Moylan",
+        "Heroes",
+        "Arsenal",
         "Oman",
-        "Will Self",
-        "Trafalgar Square",
-        "Diane Abbott",
-        "Match"
+        "Maresca",
+        "Cynthia",
+        "Eritrean",
+        "George Floyd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 17 2026 23:04:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:56:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "#monarch",
         "Hayden Panettiere",
         "North Korea",
         "Churchill Falls",
-        "#MonthlyMillionaire",
         "Kim Jong Un",
-        "Heroes",
         "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
+        "Heroes",
+        "JAMES TURNS A YEAR TIMELESS",
         "#AMO2026",
-        "JAMES TURNS A YEAR TIMELESS"
+        "#MonthlyMillionaire"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#monarch",
-        "#MonthlyMillionaire",
         "#\ucf54\ub974\ud2f0\uc2a4\ucf54\uc5b4_\uc77c\uc8fc\ub144\uc744_\ucd95\ud558\ud574",
-        "#AMO2026"
+        "#AMO2026",
+        "#MonthlyMillionaire"
       ],
       "regular_topics": [
         "Hayden Panettiere",
@@ -115,34 +111,34 @@
         "Heroes",
         "JAMES TURNS A YEAR TIMELESS",
         "Kawhi",
-        "Ballmer",
         "Quebec",
+        "Ballmer",
         "Oman",
-        "Pablo Torre"
+        "Adam Silver"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 17 2026 23:00:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:52:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
         "#SeamXVIIIisBack",
-        "#RTXPowersPlay",
         "#NagPanchami",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
+        "#RTXPowersPlay",
         "#APWelcomesNitinNabinJi",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
-        "Dimagi Naxal",
         "apple features galgotias",
+        "Dimagi Naxal",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
       ],
       "hashtags": [
         "#SeamXVIIIisBack",
-        "#RTXPowersPlay",
         "#NagPanchami",
+        "#RTXPowersPlay",
         "#APWelcomesNitinNabinJi",
         "#trimmerskabaap"
       ],
@@ -151,11 +147,11 @@
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0940\u092e",
         "\u0905\u092e\u093f\u0924 \u092e\u093e\u0932\u0935\u0940\u092f",
-        "Dimagi Naxal",
         "apple features galgotias",
+        "Dimagi Naxal",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Amit Malviya",
         "banni",
+        "Amit Malviya",
         "\u0938\u094d\u092e\u0943\u0924\u093f \u0908\u0930\u093e\u0928\u0940",
         "vantara"
       ],
@@ -164,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 17 2026 23:00:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 17 2026 23:51:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Stage 4",
         "Ogogo",
@@ -173,15 +169,14 @@
         "#LeaveDiiademAlone",
         "$BKN",
         "#RTXPowersPlay",
-        "Aubameyang",
-        "#wearethenew",
-        "#challengethemachine",
-        "Okocha"
+        "MLLE",
+        "Cancer",
+        "Okocha",
+        "$EYE"
       ],
       "hashtags": [
         "#LeaveDiiademAlone",
         "#RTXPowersPlay",
-        "#wearethenew",
         "#challengethemachine",
         "#21daysofpower",
         "#prophetmarket",
@@ -193,12 +188,12 @@
         "Taiwo Hassan",
         "Nomy",
         "$BKN",
-        "Aubameyang",
+        "MLLE",
+        "Cancer",
         "Okocha",
-        "Biggie",
-        "Code",
-        "Mark Walter",
-        "$EYE"
+        "$EYE",
+        "Aubameyang",
+        "Rodrigo Mora"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
