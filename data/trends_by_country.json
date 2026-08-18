@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T20:44:23.820132+00:00",
+  "generated_at_utc": "2026-08-18T21:10:57.003999+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,77 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 19:48:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 20:40:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#TheGreatADHDMyth",
         "GTA 6",
-        "Nico Gonzalez",
-        "Musiala",
+        "Promise David",
+        "#CelebrityMasterChef",
+        "Frank Beard",
+        "ZZ Top",
+        "Gonzalez",
+        "Jamal Musiala",
+        "Rockstar",
         "Dusty Springfield",
-        "Viana",
-        "#theoneshow",
-        "Wande",
-        "Lyon",
-        "Ponting",
-        "Aaron Wan-Bissaka",
-        "Bouaddi"
+        "Wande"
       ],
       "hashtags": [
-        "#theoneshow",
+        "#TheGreatADHDMyth",
+        "#CelebrityMasterChef",
         "#EastEnders",
         "#VMAs",
-        "#magiceye"
+        "#thechase"
       ],
       "regular_topics": [
         "GTA 6",
-        "Nico Gonzalez",
-        "Musiala",
+        "Promise David",
+        "Frank Beard",
+        "ZZ Top",
+        "Gonzalez",
+        "Jamal Musiala",
+        "Rockstar",
         "Dusty Springfield",
-        "Viana",
         "Wande",
         "Lyon",
-        "Ponting",
-        "Aaron Wan-Bissaka",
-        "Bouaddi",
-        "Kovacic"
+        "GTA VI"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 19:40:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 20:32:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
         "#RTXPowersPlay",
         "Quebec",
+        "Promise David",
+        "Frank Beard",
+        "Brighton",
+        "#CanMNT",
         "Hayden",
-        "Churchill Falls",
         "Natalie",
-        "South Korea",
-        "Ossoff",
-        "Jessica Davis",
-        "GTA 6",
-        "Trump"
+        "Churchill Falls",
+        "Ossoff"
       ],
       "hashtags": [
         "#RTXPowersPlay",
+        "#CanMNT",
         "#AMO2026",
         "#MonthlyMillionaire",
-        "#Monarch",
-        "#365dayswithjames"
+        "#Monarch"
       ],
       "regular_topics": [
         "PSPP",
         "Quebec",
+        "Promise David",
+        "Frank Beard",
+        "Brighton",
         "Hayden",
-        "Churchill Falls",
         "Natalie",
-        "South Korea",
+        "Churchill Falls",
         "Ossoff",
-        "Jessica Davis",
         "GTA 6",
-        "Trump",
-        "Cineplex"
+        "Trump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
