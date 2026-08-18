@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T04:22:08.714216+00:00",
+  "generated_at_utc": "2026-08-18T04:57:36.865642+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,19 +43,19 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 03:30:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 04:21:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "#RTXPowersPlay",
         "Hayden Panettiere",
         "Rey Mysterio",
-        "Bron",
         "Oba Femi",
         "Chad Gable",
         "Arday",
         "Wrexham",
-        "Roman",
-        "#User628\u0417692"
+        "#User628\u0417692",
+        "Bron Breakker",
+        "Arsenal"
       ],
       "hashtags": [
         "#WWERaw",
@@ -67,22 +67,22 @@
       "regular_topics": [
         "Hayden Panettiere",
         "Rey Mysterio",
-        "Bron",
         "Oba Femi",
         "Chad Gable",
         "Arday",
         "Wrexham",
-        "Roman",
-        "Heroes",
+        "Bron Breakker",
         "Arsenal",
-        "Paul Heyman"
+        "Heroes",
+        "Big Cass",
+        "Lyra"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 03:24:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 04:15:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "#monarch",
@@ -91,10 +91,10 @@
         "North Korea",
         "Churchill Falls",
         "Rey Mysterio",
+        "#MonthlyMillionaire",
         "Kim Jong Un",
         "Lyra",
-        "#MonthlyMillionaire",
-        "Quebec"
+        "LA Knight"
       ],
       "hashtags": [
         "#WWERaw",
@@ -110,11 +110,11 @@
         "Rey Mysterio",
         "Kim Jong Un",
         "Lyra",
-        "Quebec",
         "LA Knight",
-        "Ballmer",
+        "Quebec",
         "Heroes",
-        "Big Cass"
+        "Ballmer",
+        "Kawhi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
