@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T15:23:28.282269+00:00",
+  "generated_at_utc": "2026-08-18T15:52:45.941123+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,19 +43,19 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 14:39:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 15:31:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Arday",
         "Hayden Panettiere",
-        "Arsenal",
         "#VMAs",
         "Glasgow",
         "Tim Montgomerie",
-        "Wrexham",
         "George Floyd",
-        "#ThickTrunkTuesday",
-        "Russia"
+        "Wrexham",
+        "Russia",
+        "Cofnas",
+        "#ThickTrunkTuesday"
       ],
       "hashtags": [
         "#RTXPowersPlay",
@@ -67,13 +67,13 @@
       "regular_topics": [
         "Arday",
         "Hayden Panettiere",
-        "Arsenal",
         "Glasgow",
         "Tim Montgomerie",
-        "Wrexham",
         "George Floyd",
+        "Wrexham",
         "Russia",
         "Cofnas",
+        "Senegal",
         "Patrick Vieira",
         "Oman"
       ],
@@ -82,18 +82,18 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 14:31:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 15:24:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
         "#monarch",
-        "Trump",
         "#RTXPowersPlay",
+        "Trump",
         "Hayden",
-        "South Korea",
         "Churchill Falls",
+        "South Korea",
         "Quebec",
-        "Vance",
         "#MonthlyMillionaire",
+        "Le PQ",
         "#WWERaw"
       ],
       "hashtags": [
@@ -107,92 +107,92 @@
         "PSPP",
         "Trump",
         "Hayden",
-        "South Korea",
         "Churchill Falls",
+        "South Korea",
         "Quebec",
-        "Vance",
         "Le PQ",
         "Kim Jong Un",
         "Natalie",
-        "Carney"
+        "Ossoff",
+        "IDEA BANK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 14:28:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 15:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#VarinderChawla",
         "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
-        "Pilot Rakesh Tyagi",
-        "#PunjabSchoolsTransforming",
         "#Vantara",
+        "rakesh tyagi",
         "Kartick Satyanarayan",
-        "#Jailer2",
-        "SEAM XVIII",
-        "Banni",
+        "#PunjabSchoolsTransforming",
         "TJJD BELONGS TO HEEWAB",
+        "#Jailer2",
+        "Banni",
         "VMAs",
-        "First Single"
+        "Wildlife SOS"
       ],
       "hashtags": [
+        "#VarinderChawla",
         "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
-        "#PunjabSchoolsTransforming",
         "#Vantara",
-        "#Jailer2",
-        "#THENEWXPENGL03"
+        "#PunjabSchoolsTransforming",
+        "#Jailer2"
       ],
       "regular_topics": [
-        "Pilot Rakesh Tyagi",
+        "rakesh tyagi",
         "Kartick Satyanarayan",
-        "SEAM XVIII",
-        "Banni",
         "TJJD BELONGS TO HEEWAB",
+        "Banni",
         "VMAs",
-        "First Single",
         "Wildlife SOS",
         "ASHNOOR MADE PRACHI ICONIC",
-        "TRE-4",
-        "PERTHSANTA UNVEILING XPENG"
+        "PM CARES",
+        "First Single",
+        "Heer",
+        "PowerPoint"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 14:27:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 15:18:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
+        "Senegal",
+        "Patrick Vieira",
         "MLLE",
         "#KudiwaveVsPalmpay",
         "Morayo",
-        "Senegal",
-        "Patrick Vieira",
+        "Come My Way",
+        "#VMAs",
         "#PowerOilxBBNaija",
-        "#23yrsofGloNigeria",
-        "Madridista",
-        "Ola of Lagos",
-        "$ASH"
+        "KC Luxury",
+        "#23yrsofGloNigeria"
       ],
       "hashtags": [
         "#KudiwaveVsPalmpay",
+        "#VMAs",
         "#PowerOilxBBNaija",
         "#23yrsofGloNigeria",
-        "#EYIF2026",
-        "#REBELS"
+        "#EYIF2026"
       ],
       "regular_topics": [
         "Wande",
-        "MLLE",
-        "Morayo",
         "Senegal",
         "Patrick Vieira",
-        "Madridista",
-        "Ola of Lagos",
-        "$ASH",
-        "Frames",
+        "MLLE",
+        "Morayo",
+        "Come My Way",
         "KC Luxury",
-        "Come My Way"
+        "Madridista",
+        "A-list",
+        "Ola of Lagos",
+        "$ASH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
