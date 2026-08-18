@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-08-18T16:53:32.061439+00:00",
+  "generated_at_utc": "2026-08-18T17:15:28.607489+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 15:57:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 16:48:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#VMAs",
+        "Dune 3",
         "#ForeverRowdy",
+        "VMAs",
+        "Bill Rasmussen",
         "Newt",
-        "Taco Tuesday",
-        "WHAT HE SAY",
-        "Good Tuesday",
-        "Clooney",
-        "Ossoff",
+        "Najee Harris",
         "Natalie",
-        "National Anthem",
-        "Outstanding Refugee"
+        "Rublev",
+        "Ossoff",
+        "Taco Tuesday",
+        "WHAT HE SAY"
       ],
       "hashtags": [
-        "#VMAs",
         "#ForeverRowdy",
         "#TuesdayVibes",
-        "#RTXPowersPlays",
+        "#NBA2K27",
         "#RenacerJuntos"
       ],
       "regular_topics": [
+        "Dune 3",
+        "VMAs",
+        "Bill Rasmussen",
         "Newt",
+        "Najee Harris",
+        "Natalie",
+        "Rublev",
+        "Ossoff",
         "Taco Tuesday",
         "WHAT HE SAY",
-        "Good Tuesday",
-        "Clooney",
-        "Ossoff",
-        "Natalie",
-        "National Anthem",
-        "Outstanding Refugee",
-        "Goosby",
-        "Rublev"
+        "Clooney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,19 +81,19 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 16:15:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:06:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
-        "PSPP",
         "#RTXPowersPlay",
+        "PSPP",
         "Trump",
         "Hayden",
         "Quebec",
         "Churchill Falls",
+        "Cineplex",
         "South Korea",
-        "Wande",
         "#MonthlyMillionaire",
-        "Natalie"
+        "Wande"
       ],
       "hashtags": [
         "#monarch",
@@ -109,12 +108,12 @@
         "Hayden",
         "Quebec",
         "Churchill Falls",
+        "Cineplex",
         "South Korea",
         "Wande",
         "Natalie",
         "Ossoff",
-        "Kim Jong Un",
-        "Cineplex"
+        "Jessica Davis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,39 +159,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 16:09:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:00:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
-        "DJ Etee",
         "Toto",
+        "DJ Etee",
+        "#Sweet16Movie",
+        "Come My Way",
         "Senegal",
         "Patrick Vieira",
-        "Come My Way",
-        "MLLE",
-        "Morayo",
-        "#KudiwaveVsPalmpay",
-        "#VMAs",
-        "Mr Little"
+        "Kaito",
+        "Mr Little",
+        "Wike",
+        "Peace Accord"
       ],
       "hashtags": [
-        "#KudiwaveVsPalmpay",
+        "#Sweet16Movie",
         "#VMAs",
+        "#KudiwaveVsPalmpay",
         "#PowerOilxBBNaija",
-        "#23yrsofGloNigeria",
-        "#EYIF2026"
+        "#23yrsofGloNigeria"
       ],
       "regular_topics": [
         "Wande",
-        "DJ Etee",
         "Toto",
+        "DJ Etee",
+        "Come My Way",
         "Senegal",
         "Patrick Vieira",
-        "Come My Way",
-        "MLLE",
-        "Morayo",
+        "Kaito",
         "Mr Little",
         "Wike",
-        "Wetin Davido"
+        "Peace Accord",
+        "MLLE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
