@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-18T20:09:10.929598+00:00",
+  "generated_at_utc": "2026-08-18T20:44:23.820132+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 19:24:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 20:16:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Frank Beard",
+        "ZZ Top",
         "GTA 6",
+        "Pablo Pledgescobar",
         "Dune",
-        "#NBA2K27",
         "Natalie",
         "Happy Anniversary",
-        "Pablo Pledgescobar",
+        "Chargers",
         "Ossoff",
-        "#VMAs",
-        "JuJu Smith",
-        "Newt",
-        "Bill Rasmussen"
+        "#NBA2K27",
+        "Regulation Crypto Assets"
       ],
       "hashtags": [
         "#NBA2K27",
         "#VMAs",
-        "#ForeverRowdy",
         "#ValkosPawPrints",
+        "#ForeverRowdy",
         "#ValkoWorldwide"
       ],
       "regular_topics": [
+        "Frank Beard",
+        "ZZ Top",
         "GTA 6",
+        "Pablo Pledgescobar",
         "Dune",
         "Natalie",
         "Happy Anniversary",
-        "Pablo Pledgescobar",
-        "Ossoff",
-        "JuJu Smith",
-        "Newt",
-        "Bill Rasmussen",
         "Chargers",
-        "Megyn"
+        "Ossoff",
+        "Regulation Crypto Assets",
+        "Newt"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -120,61 +120,64 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 19:36:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 20:28:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BoycottBELIFT_StopTheFunds",
-        "Satyendar Jain",
         "#SevenMembersBoundForever",
+        "Satyendar Jain",
         "ENHYPEN OVER BLIND PROFIT",
-        "Pilot Rakesh Tyagi",
         "Delhi Jal Board",
-        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
+        "GTA 6",
         "Musiala",
-        "#VarinderChawla",
-        "Kartick Satyanarayan",
-        "PM CARES"
+        "PM CARES",
+        "Niva",
+        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
+        "VMAs"
       ],
       "hashtags": [
         "#BoycottBELIFT_StopTheFunds",
         "#SevenMembersBoundForever",
         "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
-        "#VarinderChawla",
-        "#Vantara",
-        "#Pietrasanta",
         "#MrKillSeriesEP7",
-        "#aikmohabbataur"
+        "#aikmohabbataur",
+        "#GodNightTuesday",
+        "#Rodri",
+        "#RamAndLeela",
+        "#Jailer2",
+        "#BBK13",
+        "#br\u00f8ndby"
       ],
       "regular_topics": [
         "Satyendar Jain",
         "ENHYPEN OVER BLIND PROFIT",
-        "Pilot Rakesh Tyagi",
         "Delhi Jal Board",
+        "GTA 6",
         "Musiala",
-        "Kartick Satyanarayan",
         "PM CARES",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940",
+        "Niva",
         "VMAs",
         "TJJD BELONGS TO HEEWAB",
-        "Niva"
+        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u092a\u0902\u091c\u093e\u092c \u091a\u0941\u0928\u093e\u0935"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 19:36:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 20:28:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
         "Jamal Musiala",
         "Wizkid",
+        "Talentless",
         "Toto",
         "Wike",
-        "#Sweet16Movie",
-        "Peace Accord",
-        "Heidenheim",
-        "KC Luxury",
+        "Mason Greenwood",
         "Yolly",
-        "Kaito"
+        "KC Luxury",
+        "Peace Accord",
+        "#Sweet16Movie"
       ],
       "hashtags": [
         "#Sweet16Movie",
@@ -184,14 +187,14 @@
         "Wande",
         "Jamal Musiala",
         "Wizkid",
+        "Talentless",
         "Toto",
         "Wike",
-        "Peace Accord",
-        "Heidenheim",
-        "KC Luxury",
+        "Mason Greenwood",
         "Yolly",
-        "Kaito",
-        "Nico Gonzalez"
+        "KC Luxury",
+        "Peace Accord",
+        "Heidenheim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
