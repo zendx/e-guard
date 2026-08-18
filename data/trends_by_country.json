@@ -1,100 +1,99 @@
 {
-  "generated_at_utc": "2026-08-18T22:09:00.566902+00:00",
+  "generated_at_utc": "2026-08-18T22:45:32.825084+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 21:07:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 21:57:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Frank Beard",
         "ZZ Top",
+        "Frank Beard",
+        "Senate Republicans",
         "GTA 6",
         "Pablo Pledgescobar",
-        "Senate Republicans",
+        "Rockstar",
         "Natalie",
+        "David Morens",
+        "Medvedev",
         "Ossoff",
-        "Happy Anniversary",
-        "Dustin Rhodes",
-        "Dune",
-        "Regulation Crypto Assets"
+        "Treasure Planet"
       ],
       "hashtags": [
         "#NBA2K27",
+        "#wallowstwt",
         "#ValkoWorldwide",
-        "#VMAs",
-        "#ValkosPawPrints",
-        "#wallowstwt"
+        "#ValkosPawPrints"
       ],
       "regular_topics": [
-        "Frank Beard",
         "ZZ Top",
+        "Frank Beard",
+        "Senate Republicans",
         "GTA 6",
         "Pablo Pledgescobar",
-        "Senate Republicans",
+        "Rockstar",
         "Natalie",
+        "David Morens",
+        "Medvedev",
         "Ossoff",
-        "Happy Anniversary",
-        "Dustin Rhodes",
-        "Dune",
-        "Regulation Crypto Assets"
+        "Treasure Planet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 21:32:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 22:24:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Watkins",
-        "#CelebrityMasterChef",
+        "Mike Nesbitt",
+        "ZZ Top",
         "Mikey Lewis",
         "#TheGreatADHDMyth",
-        "Mike Nesbitt",
-        "Promise David",
         "GTA 6",
-        "Frank Beard",
-        "ZZ Top",
+        "Promise David",
+        "#CelebrityMasterChef",
         "RIP Frank",
-        "Gonzalez"
+        "Frank Beard",
+        "Burrows"
       ],
       "hashtags": [
-        "#CelebrityMasterChef",
         "#TheGreatADHDMyth",
+        "#CelebrityMasterChef",
         "#celebrityhunted",
         "#SuperLeague",
-        "#EastEnders"
+        "#thechase"
       ],
       "regular_topics": [
         "Watkins",
-        "Mikey Lewis",
         "Mike Nesbitt",
-        "Promise David",
-        "GTA 6",
-        "Frank Beard",
         "ZZ Top",
+        "Mikey Lewis",
+        "GTA 6",
+        "Promise David",
         "RIP Frank",
-        "Gonzalez",
-        "Musiala",
-        "Liam Moore"
+        "Frank Beard",
+        "Burrows",
+        "Rockstar",
+        "Gonzalez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 21:24:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 22:16:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
         "#RTXPowersPlay",
         "Promise David",
-        "Frank Beard",
         "Quebec",
+        "Frank Beard",
         "ZZ Top",
-        "#CanMNT",
-        "Brighton",
         "Natalie",
-        "Churchill Falls",
-        "Ossoff"
+        "Ossoff",
+        "Brighton",
+        "Trump",
+        "Churchill Falls"
       ],
       "hashtags": [
         "#RTXPowersPlay",
@@ -106,30 +105,30 @@
       "regular_topics": [
         "PSPP",
         "Promise David",
-        "Frank Beard",
         "Quebec",
+        "Frank Beard",
         "ZZ Top",
-        "Brighton",
         "Natalie",
-        "Churchill Falls",
         "Ossoff",
-        "Hayden",
-        "Trump"
+        "Brighton",
+        "Trump",
+        "Churchill Falls",
+        "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 21:20:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 22:12:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TrueWorship_EndsSuffering",
         "Sa True Story YtChannel",
-        "#aimultibaggerstock",
-        "#SeamXVIIIisBack",
         "#VarinderChawla",
         "#Vantara",
-        "Banni",
+        "#SeamXVIIIisBack",
+        "banni",
+        "#aisectorstock",
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
@@ -137,14 +136,14 @@
       ],
       "hashtags": [
         "#TrueWorship_EndsSuffering",
-        "#aimultibaggerstock",
-        "#SeamXVIIIisBack",
         "#VarinderChawla",
-        "#Vantara"
+        "#Vantara",
+        "#SeamXVIIIisBack",
+        "#aisectorstock"
       ],
       "regular_topics": [
         "Sa True Story YtChannel",
-        "Banni",
+        "banni",
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
@@ -160,19 +159,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 21:20:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 22:12:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Davido",
         "Jamal Musiala",
         "Wizkid",
-        "Talentless",
         "#lazyfunds",
         "Mason Greenwood",
-        "Team Green",
-        "Toto",
+        "Talentless",
         "Watkins",
-        "Wike",
-        "KC Luxury"
+        "KC Luxury",
+        "Toto",
+        "Team Green",
+        "Poco Lee"
       ],
       "hashtags": [
         "#lazyfunds",
@@ -184,13 +183,13 @@
         "Davido",
         "Jamal Musiala",
         "Wizkid",
-        "Talentless",
         "Mason Greenwood",
-        "Team Green",
-        "Toto",
+        "Talentless",
         "Watkins",
-        "Wike",
         "KC Luxury",
+        "Toto",
+        "Team Green",
+        "Poco Lee",
         "Peace Accord"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
