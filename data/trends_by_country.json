@@ -1,29 +1,29 @@
 {
-  "generated_at_utc": "2026-08-18T05:50:52.119553+00:00",
+  "generated_at_utc": "2026-08-18T06:20:19.017004+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 04:45:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 05:39:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Cubs",
         "#MVPete",
         "Pete Crow",
         "Venable",
-        "Keenan Allen",
-        "Jacob Webb",
         "#FlyTheW",
         "#MVPCA",
+        "Keenan Allen",
+        "Jacob Webb",
         "Kyle Tucker",
-        "Rey Mysterio"
+        "Ossoff"
       ],
       "hashtags": [
         "#WWERaw",
         "#MVPete",
         "#FlyTheW",
         "#MVPCA",
-        "#WhiteSox"
+        "#Zeferjahn"
       ],
       "regular_topics": [
         "Cubs",
@@ -32,57 +32,57 @@
         "Keenan Allen",
         "Jacob Webb",
         "Kyle Tucker",
-        "Rey Mysterio",
         "Ossoff",
+        "Rey Mysterio",
+        "Shohei",
         "Gable",
-        "Valkyries",
-        "Bloodline"
+        "Ketel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 05:12:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 06:04:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
         "#RTXPowersPlay",
+        "#thicktrunktuesday",
         "Hayden Panettiere",
-        "Chad Gable",
+        "#WWERaw",
         "Arday",
+        "#Wordle1886",
         "Wrexham",
         "#User628\u0417692",
-        "Rey Mysterio",
         "Arsenal",
         "Heroes",
-        "Bron"
+        "Oman"
       ],
       "hashtags": [
-        "#WWERaw",
         "#RTXPowersPlay",
-        "#User628\u0417692",
-        "#UniversityChallenge",
-        "#Lanterns"
+        "#thicktrunktuesday",
+        "#WWERaw",
+        "#Wordle1886",
+        "#User628\u0417692"
       ],
       "regular_topics": [
         "Hayden Panettiere",
-        "Chad Gable",
         "Arday",
         "Wrexham",
-        "Rey Mysterio",
         "Arsenal",
         "Heroes",
-        "Bron",
-        "Lyra",
         "Oman",
-        "Jacob Fatu"
+        "Jacob Fatu",
+        "George Floyd",
+        "Cynthia",
+        "Rubin Colwill",
+        "Eritrean"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 05:06:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 05:57:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
         "#RTXPowersPlay",
@@ -91,8 +91,8 @@
         "North Korea",
         "Churchill Falls",
         "#MonthlyMillionaire",
-        "Kim Jong Un",
         "Paige",
+        "Kim Jong Un",
         "Quebec",
         "#AMO2026"
       ],
@@ -107,52 +107,52 @@
         "Hayden Panettiere",
         "North Korea",
         "Churchill Falls",
-        "Kim Jong Un",
         "Paige",
+        "Kim Jong Un",
         "Quebec",
         "Heroes",
         "Ballmer",
-        "Gable",
         "Kawhi",
-        "Oman"
+        "Oman",
+        "Newfoundland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 05:00:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 05:52:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NHC_52Week_Breakout",
+        "NHC FOOD PE Opportunity",
         "#TrueWorship_EndsSuffering",
-        "Sa True Story YtChannel",
         "#AISectorStock",
+        "Sa True Story YtChannel",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
-        "Selfless Services",
-        "#SaveAshram",
         "#SubhashChandraBose",
         "Omega",
+        "Selfless Services",
         "Oracle",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "\u0906\u091c\u093e\u0926 \u0939\u093f\u0902\u0926"
+        "#SaveAshram"
       ],
       "hashtags": [
+        "#NHC_52Week_Breakout",
         "#TrueWorship_EndsSuffering",
         "#AISectorStock",
-        "#SaveAshram",
         "#SubhashChandraBose",
-        "#OnceMore"
+        "#SaveAshram"
       ],
       "regular_topics": [
+        "NHC FOOD PE Opportunity",
         "Sa True Story YtChannel",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
-        "Selfless Services",
         "Omega",
+        "Selfless Services",
         "Oracle",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "\u0906\u091c\u093e\u0926 \u0939\u093f\u0902\u0926",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "\u0936\u094d\u0930\u0940\u092e\u0924\u0940 \u0928\u093f\u0930\u094d\u092e\u0932\u093e",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 05:00:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 05:51:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Taco Tuesday",
         "Arsenal",
         "Happy New Week",
+        "Amen",
         "Osun",
-        "Beautiful Tuesday",
-        "Rodri",
         "Hayden Panettiere",
+        "Rodri",
+        "Stage 4",
         "Odin's Vault",
-        "Maresca",
-        "Tinubu",
-        "Ruth",
-        "Adeleke"
+        "Beautiful Tuesday",
+        "Tinubu"
       ],
       "hashtags": [
-        "#nsfwtwt\u064b\u064b",
-        "#MondayMotivation",
         "#RTXPowersPlay",
+        "#MondayMotivation",
+        "#nsfwtwt\u064b\u064b",
         "#moreplextvangle",
-        "#latina"
+        "#arsmci"
       ],
       "regular_topics": [
+        "Taco Tuesday",
         "Arsenal",
         "Happy New Week",
+        "Amen",
         "Osun",
-        "Beautiful Tuesday",
-        "Rodri",
         "Hayden Panettiere",
+        "Rodri",
+        "Stage 4",
         "Odin's Vault",
-        "Maresca",
-        "Tinubu",
-        "Ruth",
-        "Adeleke"
+        "Beautiful Tuesday",
+        "Tinubu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
