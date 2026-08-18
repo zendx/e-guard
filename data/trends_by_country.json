@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-18T07:58:29.397094+00:00",
+  "generated_at_utc": "2026-08-18T08:30:58.479179+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 07:21:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 08:12:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
-        "Cubs",
+        "WHAT HE SAY",
         "#MVPete",
+        "Cubs",
         "#MVPCA",
-        "#FlyTheW",
-        "Venable",
-        "Pete Crow",
-        "Keenan Allen",
+        "#Torey",
         "#Valkyries",
+        "Pete Crow",
+        "Venable",
         "Ossoff",
-        "Kyle Tucker"
+        "Jacob Webb"
       ],
       "hashtags": [
         "#WWERaw",
         "#MVPete",
         "#MVPCA",
-        "#FlyTheW",
+        "#Torey",
         "#Valkyries"
       ],
       "regular_topics": [
+        "WHAT HE SAY",
         "Cubs",
-        "Venable",
         "Pete Crow",
-        "Keenan Allen",
+        "Venable",
         "Ossoff",
-        "Kyle Tucker",
         "Jacob Webb",
-        "Adobe",
+        "Alex Jones",
         "Gable",
         "NL MVP",
-        "Shohei"
+        "Shohei",
+        "Yanet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 06:56:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 07:48:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#thicktrunktuesday",
         "#RTXPowersPlay",
+        "#Glow",
         "Hayden Panettiere",
         "Arday",
-        "#User628\u0417692",
-        "Wrexham",
-        "#WWERaw",
         "#TongueOutTuesday",
+        "#user628\u0437692",
+        "Wrexham",
         "Arsenal",
         "Heroes",
-        "Oman"
+        "George Floyd"
       ],
       "hashtags": [
         "#thicktrunktuesday",
         "#RTXPowersPlay",
-        "#User628\u0417692",
-        "#WWERaw",
-        "#TongueOutTuesday"
+        "#Glow",
+        "#TongueOutTuesday",
+        "#user628\u0437692"
       ],
       "regular_topics": [
         "Hayden Panettiere",
@@ -70,12 +70,12 @@
         "Wrexham",
         "Arsenal",
         "Heroes",
-        "Oman",
         "George Floyd",
-        "Rubin Colwill",
+        "Oman",
         "Cynthia",
+        "Rubin Colwill",
         "Eritrean",
-        "Cambridge"
+        "Ukraine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
