@@ -1,45 +1,48 @@
 {
-  "generated_at_utc": "2026-08-18T09:54:17.294141+00:00",
+  "generated_at_utc": "2026-08-18T10:14:54.688423+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 09:04:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 09:56:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
-        "#MVPete",
-        "#Torey",
+        "Good Tuesday",
         "WHAT HE SAY",
+        "#Torey",
+        "#MVPete",
+        "#WWERaw",
+        "#Kairi",
         "Cubs",
         "#Usos",
-        "#MVPCA",
         "Ossoff",
-        "Venable",
-        "Pete Crow",
-        "Alex Jones"
+        "Adobe",
+        "Keenan Allen"
       ],
       "hashtags": [
-        "#WWERaw",
-        "#MVPete",
         "#Torey",
+        "#MVPete",
+        "#WWERaw",
+        "#Kairi",
         "#Usos",
         "#MVPCA",
+        "#Fang",
         "#FlyTheW",
         "#Grant",
+        "#Kyle",
         "#Femi"
       ],
       "regular_topics": [
+        "Good Tuesday",
         "WHAT HE SAY",
         "Cubs",
         "Ossoff",
-        "Venable",
-        "Pete Crow",
+        "Adobe",
+        "Keenan Allen",
         "Alex Jones",
-        "Shohei",
-        "Yanet",
-        "Ketel",
-        "NL MVP",
-        "Rey Mysterio"
+        "Pete Crow",
+        "Venable",
+        "Dean",
+        "Yanet"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
