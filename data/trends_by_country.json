@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T23:09:54.189213+00:00",
+  "generated_at_utc": "2026-08-18T23:42:06.056221+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,85 +41,84 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 22:24:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:16:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Watkins",
         "Mike Nesbitt",
         "ZZ Top",
-        "Mikey Lewis",
-        "#TheGreatADHDMyth",
         "GTA 6",
+        "Jon Burrows",
         "Promise David",
-        "#CelebrityMasterChef",
-        "RIP Frank",
         "Frank Beard",
-        "Burrows"
+        "Mikey Lewis",
+        "#CelebrityMasterChef",
+        "#TheGreatADHDMyth",
+        "Rockstar"
       ],
       "hashtags": [
-        "#TheGreatADHDMyth",
         "#CelebrityMasterChef",
+        "#TheGreatADHDMyth",
         "#celebrityhunted",
-        "#SuperLeague",
-        "#thechase"
+        "#SuperLeague"
       ],
       "regular_topics": [
         "Watkins",
         "Mike Nesbitt",
         "ZZ Top",
-        "Mikey Lewis",
         "GTA 6",
+        "Jon Burrows",
         "Promise David",
-        "RIP Frank",
         "Frank Beard",
-        "Burrows",
+        "Mikey Lewis",
         "Rockstar",
-        "Gonzalez"
+        "Health Minister",
+        "Jamal Musiala"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 22:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:08:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
         "#RTXPowersPlay",
-        "Promise David",
         "Quebec",
-        "Frank Beard",
-        "ZZ Top",
         "Natalie",
         "Ossoff",
-        "Brighton",
+        "Frank Beard",
         "Trump",
-        "Churchill Falls"
+        "Buck",
+        "Promise David",
+        "Brighton",
+        "Taco Tuesday"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#CanMNT",
         "#AMO2026",
+        "#CanMNT",
         "#Monarch",
         "#365DaysWithJAMES"
       ],
       "regular_topics": [
         "PSPP",
-        "Promise David",
         "Quebec",
-        "Frank Beard",
-        "ZZ Top",
         "Natalie",
         "Ossoff",
-        "Brighton",
+        "Frank Beard",
         "Trump",
-        "Churchill Falls",
-        "Taco Tuesday"
+        "Buck",
+        "Promise David",
+        "Brighton",
+        "Taco Tuesday",
+        "Churchill Falls"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 22:12:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:03:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TrueWorship_EndsSuffering",
         "Sa True Story YtChannel",
@@ -131,7 +130,7 @@
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938"
+        "Omega"
       ],
       "hashtags": [
         "#TrueWorship_EndsSuffering",
@@ -146,10 +145,10 @@
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "Omega",
+        "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "robotic bariatric surgeries",
-        "Rakesh Tyagi",
+        "rakesh tyagi",
         "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
         "nhc foods"
       ],
@@ -158,38 +157,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 22:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:03:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Davido",
-        "Jamal Musiala",
         "Wizkid",
-        "#lazyfunds",
+        "Jamal Musiala",
         "Mason Greenwood",
+        "#lazyfunds",
         "Talentless",
         "Watkins",
         "KC Luxury",
+        "Poco Lee",
         "Toto",
-        "Team Green",
-        "Poco Lee"
+        "Blaqbonez"
       ],
       "hashtags": [
         "#lazyfunds",
+        "#bbnajia11",
         "#PowerOilxBBNaija",
-        "#Sweet16Movie",
-        "#VMAs"
+        "#Sweet16Movie"
       ],
       "regular_topics": [
         "Davido",
-        "Jamal Musiala",
         "Wizkid",
+        "Jamal Musiala",
         "Mason Greenwood",
         "Talentless",
         "Watkins",
         "KC Luxury",
-        "Toto",
-        "Team Green",
         "Poco Lee",
-        "Peace Accord"
+        "Toto",
+        "Blaqbonez",
+        "NDLEA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
