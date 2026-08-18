@@ -1,41 +1,40 @@
 {
-  "generated_at_utc": "2026-08-18T22:45:32.825084+00:00",
+  "generated_at_utc": "2026-08-18T23:09:54.189213+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 21:57:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 22:48:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "ZZ Top",
         "Frank Beard",
         "Senate Republicans",
-        "GTA 6",
         "Pablo Pledgescobar",
+        "GTA 6",
         "Rockstar",
-        "Natalie",
         "David Morens",
-        "Medvedev",
+        "Natalie",
         "Ossoff",
-        "Treasure Planet"
+        "Happy Anniversary",
+        "Medvedev"
       ],
       "hashtags": [
         "#NBA2K27",
-        "#wallowstwt",
-        "#ValkoWorldwide",
-        "#ValkosPawPrints"
+        "#NationalFajitaDay",
+        "#wallowstwt"
       ],
       "regular_topics": [
         "ZZ Top",
         "Frank Beard",
         "Senate Republicans",
-        "GTA 6",
         "Pablo Pledgescobar",
+        "GTA 6",
         "Rockstar",
-        "Natalie",
         "David Morens",
-        "Medvedev",
+        "Natalie",
         "Ossoff",
-        "Treasure Planet"
+        "Happy Anniversary",
+        "Medvedev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
