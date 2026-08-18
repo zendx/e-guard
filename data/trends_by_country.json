@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T11:13:45.781092+00:00",
+  "generated_at_utc": "2026-08-18T11:46:02.678105+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,46 +49,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 10:21:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 11:15:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Arday",
         "Hayden Panettiere",
-        "Wrexham",
         "Arsenal",
-        "Buses",
-        "George Floyd",
-        "Tim Montgomerie",
-        "#WWERaw",
+        "Wrexham",
         "#SorareWheel",
-        "#Glow"
+        "Tim Montgomerie",
+        "George Floyd",
+        "Buses",
+        "#WWERaw",
+        "#thicktrunktuesday"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#WWERaw",
         "#SorareWheel",
-        "#Glow",
-        "#thicktrunktuesday"
+        "#WWERaw",
+        "#thicktrunktuesday",
+        "#thismorning"
       ],
       "regular_topics": [
         "Arday",
         "Hayden Panettiere",
-        "Wrexham",
         "Arsenal",
-        "Buses",
-        "George Floyd",
+        "Wrexham",
         "Tim Montgomerie",
-        "Oman",
+        "George Floyd",
+        "Buses",
         "Currys",
         "Heroes",
-        "Cynthia"
+        "Oman",
+        "Glasgow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 10:15:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 11:06:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
         "#RTXPowersPlay",
@@ -98,9 +98,9 @@
         "#WWERaw",
         "#MonthlyMillionaire",
         "Kim Jong Un",
+        "Quebec",
         "#amo2026",
-        "Ballmer",
-        "Quebec"
+        "Ballmer"
       ],
       "hashtags": [
         "#monarch",
@@ -114,13 +114,13 @@
         "South Korea",
         "Churchill Falls",
         "Kim Jong Un",
-        "Ballmer",
         "Quebec",
+        "Ballmer",
+        "Taco Tuesday",
         "Kawhi",
-        "IDEA BANK",
+        "idea bank",
         "JAMES TURNS A YEAR TIMELESS",
-        "Heroes",
-        "Lanterns"
+        "Heroes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
