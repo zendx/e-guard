@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T10:14:54.688423+00:00",
+  "generated_at_utc": "2026-08-18T10:51:42.570854+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,58 +49,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 09:31:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 10:21:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Arday",
         "Hayden Panettiere",
-        "#thicktrunktuesday",
-        "#user628\u0437692",
         "Wrexham",
         "Arsenal",
-        "#Glow",
+        "Buses",
+        "George Floyd",
+        "Tim Montgomerie",
         "#WWERaw",
-        "Immigration",
-        "Currys"
+        "#SorareWheel",
+        "#Glow"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#thicktrunktuesday",
-        "#user628\u0437692",
+        "#WWERaw",
+        "#SorareWheel",
         "#Glow",
-        "#WWERaw"
+        "#thicktrunktuesday"
       ],
       "regular_topics": [
         "Arday",
         "Hayden Panettiere",
         "Wrexham",
         "Arsenal",
-        "Immigration",
-        "Currys",
+        "Buses",
         "George Floyd",
         "Tim Montgomerie",
-        "Hisense",
         "Oman",
-        "Heroes"
+        "Currys",
+        "Heroes",
+        "Cynthia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 09:24:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 10:15:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
         "#RTXPowersPlay",
         "Hayden Panettiere",
-        "North Korea",
+        "South Korea",
         "Churchill Falls",
         "#WWERaw",
         "#MonthlyMillionaire",
         "Kim Jong Un",
         "#amo2026",
-        "Quebec",
-        "Heroes"
+        "Ballmer",
+        "Quebec"
       ],
       "hashtags": [
         "#monarch",
@@ -111,15 +111,15 @@
       ],
       "regular_topics": [
         "Hayden Panettiere",
-        "North Korea",
+        "South Korea",
         "Churchill Falls",
         "Kim Jong Un",
-        "Quebec",
-        "Heroes",
         "Ballmer",
+        "Quebec",
         "Kawhi",
         "IDEA BANK",
         "JAMES TURNS A YEAR TIMELESS",
+        "Heroes",
         "Lanterns"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -127,75 +127,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 09:18:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 10:09:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#VarinderChawla",
+        "#SaptDharaSankalp",
         "#AIMultibaggerStock",
         "Rishabh Pant",
+        "55 MILLION",
+        "#Jailer2",
         "#DrMohitBhandariCreatesHistory",
-        "Oracle",
         "Omega",
-        "#BHUDEVI_INFRA_PROJECTS_LTD",
-        "Robotic Bariatric Surgeries",
-        "#TrueWorship_EndsSuffering",
-        "Bhudevi Infra Projects",
-        "Sa True Story YtChannel",
-        "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e"
+        "Oracle",
+        "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "77.55 Cr"
       ],
       "hashtags": [
+        "#VarinderChawla",
+        "#SaptDharaSankalp",
         "#AIMultibaggerStock",
-        "#DrMohitBhandariCreatesHistory",
-        "#BHUDEVI_INFRA_PROJECTS_LTD",
-        "#TrueWorship_EndsSuffering",
-        "#AISectorStock"
+        "#Jailer2",
+        "#DrMohitBhandariCreatesHistory"
       ],
       "regular_topics": [
         "Rishabh Pant",
-        "Oracle",
+        "55 MILLION",
         "Omega",
-        "Robotic Bariatric Surgeries",
-        "Bhudevi Infra Projects",
-        "Sa True Story YtChannel",
+        "Oracle",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
-        "Hyderabad Residential Project",
-        "Vantara",
-        "Department Skip"
+        "77.55 Cr",
+        "Sa True Story YtChannel",
+        "Robotic Bariatric Surgeries",
+        "4.36 Cr",
+        "200 Cr",
+        "TRE-4"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 09:18:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 10:09:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MorePlexTv",
+        "#NestoilDeniesRecovery",
+        "$ASH",
         "Taco Tuesday",
-        "Golden Boy",
-        "NO MORE STUBBORN CHALLENGE",
-        "Ogogo",
+        "MLLE",
         "Okocha",
-        "Cancer",
-        "Taiwo Hassan",
-        "Pau Cubars\u00ed",
-        "Stage 4",
-        "Emmanuel Emegha"
+        "Ogogo",
+        "Golden Boy",
+        "$PROPS",
+        "Emmanuel Emegha",
+        "LASU"
       ],
       "hashtags": [
         "#MorePlexTv",
-        "#lasuconvocation"
+        "#NestoilDeniesRecovery",
+        "#sal\u0131",
+        "#NSPPD",
+        "#LaCasaDeLosFamososM\u00e9xico"
       ],
       "regular_topics": [
+        "$ASH",
         "Taco Tuesday",
-        "Golden Boy",
-        "NO MORE STUBBORN CHALLENGE",
-        "Ogogo",
+        "MLLE",
         "Okocha",
-        "Cancer",
-        "Taiwo Hassan",
-        "Pau Cubars\u00ed",
-        "Stage 4",
+        "Ogogo",
+        "Golden Boy",
+        "$PROPS",
         "Emmanuel Emegha",
-        "Mbaka"
+        "LASU",
+        "NO MORE STUBBORN CHALLENGE",
+        "Morayo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
