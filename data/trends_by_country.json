@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-18T10:51:42.570854+00:00",
+  "generated_at_utc": "2026-08-18T11:13:45.781092+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 09:56:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 10:48:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Tuesday",
         "WHAT HE SAY",
@@ -12,10 +12,10 @@
         "#MVPete",
         "#WWERaw",
         "#Kairi",
-        "Cubs",
-        "#Usos",
-        "Ossoff",
-        "Adobe",
+        "#Fang",
+        "Dean",
+        "Alex Jones",
+        "Jong Un",
         "Keenan Allen"
       ],
       "hashtags": [
@@ -23,26 +23,26 @@
         "#MVPete",
         "#WWERaw",
         "#Kairi",
-        "#Usos",
-        "#MVPCA",
         "#Fang",
-        "#FlyTheW",
-        "#Grant",
         "#Kyle",
-        "#Femi"
+        "#Cubs",
+        "#Jeanie",
+        "#MVPCA",
+        "#Ossoff",
+        "#GitHub"
       ],
       "regular_topics": [
         "Good Tuesday",
         "WHAT HE SAY",
-        "Cubs",
-        "Ossoff",
-        "Adobe",
-        "Keenan Allen",
-        "Alex Jones",
-        "Pete Crow",
-        "Venable",
         "Dean",
-        "Yanet"
+        "Alex Jones",
+        "Jong Un",
+        "Keenan Allen",
+        "Adobe",
+        "Yanet",
+        "Harp",
+        "Venable",
+        "Pete Crow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -127,78 +127,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 10:09:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 11:00:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#VarinderChawla",
         "#SaptDharaSankalp",
         "#AIMultibaggerStock",
         "Rishabh Pant",
-        "55 MILLION",
         "#Jailer2",
-        "#DrMohitBhandariCreatesHistory",
+        "55 MILLION",
+        "#ImranKhan",
         "Omega",
-        "Oracle",
-        "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "77.55 Cr"
+        "TRE-4",
+        "Mania Begins",
+        "National Sports Awards 2025"
       ],
       "hashtags": [
         "#VarinderChawla",
         "#SaptDharaSankalp",
         "#AIMultibaggerStock",
         "#Jailer2",
-        "#DrMohitBhandariCreatesHistory"
+        "#ImranKhan"
       ],
       "regular_topics": [
         "Rishabh Pant",
         "55 MILLION",
         "Omega",
-        "Oracle",
+        "TRE-4",
+        "Mania Begins",
+        "National Sports Awards 2025",
         "\u0905\u0928\u093f\u0932 \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Pasindu Sooriyabandara",
         "77.55 Cr",
         "Sa True Story YtChannel",
-        "Robotic Bariatric Surgeries",
-        "4.36 Cr",
-        "200 Cr",
-        "TRE-4"
+        "Kartick Satyanarayan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 10:09:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 11:00:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#MorePlexTv",
+        "#EYIF2026",
         "#NestoilDeniesRecovery",
-        "$ASH",
-        "Taco Tuesday",
         "MLLE",
+        "Ola of Lagos",
+        "#MorePlexTv",
+        "$ASH",
+        "Morayo",
         "Okocha",
-        "Ogogo",
-        "Golden Boy",
-        "$PROPS",
-        "Emmanuel Emegha",
-        "LASU"
+        "Taco Tuesday",
+        "LASU",
+        "Ogogo"
       ],
       "hashtags": [
-        "#MorePlexTv",
+        "#EYIF2026",
         "#NestoilDeniesRecovery",
+        "#MorePlexTv",
         "#sal\u0131",
-        "#NSPPD",
-        "#LaCasaDeLosFamososM\u00e9xico"
+        "#NSPPD"
       ],
       "regular_topics": [
-        "$ASH",
-        "Taco Tuesday",
         "MLLE",
+        "Ola of Lagos",
+        "$ASH",
+        "Morayo",
         "Okocha",
+        "Taco Tuesday",
+        "LASU",
         "Ogogo",
         "Golden Boy",
-        "$PROPS",
         "Emmanuel Emegha",
-        "LASU",
-        "NO MORE STUBBORN CHALLENGE",
-        "Morayo"
+        "$PROPS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
