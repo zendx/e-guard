@@ -1,80 +1,81 @@
 {
-  "generated_at_utc": "2026-08-18T03:33:25.141892+00:00",
+  "generated_at_utc": "2026-08-18T04:22:08.714216+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 03:03:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 03:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
-        "Rey Mysterio",
-        "Bloodline",
-        "LA Knight",
-        "Zeferjahn",
-        "Lyra",
-        "Ossoff",
+        "#Cubs",
+        "Pete Crow",
+        "#MVPete",
+        "Jacob Webb",
+        "Venable",
+        "#FlyTheW",
+        "Gable",
+        "Keenan Allen",
         "Kyle Tucker",
-        "Ketel Marte",
-        "Solo Sikoa",
-        "Keenan Allen"
+        "Rey Mysterio"
       ],
       "hashtags": [
         "#WWERaw",
-        "#RawOnNetflix",
-        "#THIS_AND_THAT_38OnHot100",
-        "#StrayKids_6thHot100"
+        "#Cubs",
+        "#MVPete",
+        "#FlyTheW",
+        "#WhiteSox"
       ],
       "regular_topics": [
+        "Pete Crow",
+        "Jacob Webb",
+        "Venable",
+        "Gable",
+        "Keenan Allen",
+        "Kyle Tucker",
         "Rey Mysterio",
+        "Amaya",
         "Bloodline",
         "LA Knight",
-        "Zeferjahn",
-        "Lyra",
-        "Ossoff",
-        "Kyle Tucker",
-        "Ketel Marte",
-        "Solo Sikoa",
-        "Keenan Allen",
-        "Dragon Lee"
+        "Ossoff"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 02:39:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 03:30:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "#RTXPowersPlay",
         "Hayden Panettiere",
-        "Chad Gable",
-        "Oba Femi",
         "Rey Mysterio",
         "Bron",
+        "Oba Femi",
+        "Chad Gable",
         "Arday",
         "Wrexham",
-        "Big Cass",
-        "#user628\u0437692"
+        "Roman",
+        "#User628\u0417692"
       ],
       "hashtags": [
         "#WWERaw",
         "#RTXPowersPlay",
-        "#user628\u0437692",
-        "#universitychallenge",
+        "#User628\u0417692",
+        "#UniversityChallenge",
         "#Lanterns"
       ],
       "regular_topics": [
         "Hayden Panettiere",
-        "Chad Gable",
-        "Oba Femi",
         "Rey Mysterio",
         "Bron",
+        "Oba Femi",
+        "Chad Gable",
         "Arday",
         "Wrexham",
-        "Big Cass",
         "Roman",
         "Heroes",
-        "Arsenal"
+        "Arsenal",
+        "Paul Heyman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -120,83 +121,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 03:18:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 04:09:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TrueWorship_EndsSuffering",
         "Sa True Story YtChannel",
+        "#AISectorStock",
         "Selfless Services",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "#SaveAshram",
-        "#GodMorningTuesday",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "\u0906\u091c\u093e\u0926 \u0939\u093f\u0902\u0926",
         "#SubhashChandraBose",
-        "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
-        "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940"
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Oracle",
+        "Omega",
+        "\u0906\u091c\u093e\u0926 \u0939\u093f\u0902\u0926"
       ],
       "hashtags": [
         "#TrueWorship_EndsSuffering",
+        "#AISectorStock",
         "#SaveAshram",
-        "#GodMorningTuesday",
         "#SubhashChandraBose",
-        "#\u091c\u092f_\u0936\u094d\u0930\u0940_\u0930\u093e\u092e",
-        "#KalkiJayanti",
-        "#WWERaw",
-        "#RTXPowersPlay",
-        "#NirmalaSitharaman",
-        "#\u091c\u092f_\u092c\u091c\u0930\u0902\u0917\u092c\u0932\u0940",
-        "#Connected_As_SevEN"
+        "#GodMorningTuesday"
       ],
       "regular_topics": [
         "Sa True Story YtChannel",
         "Selfless Services",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Oracle",
+        "Omega",
         "\u0906\u091c\u093e\u0926 \u0939\u093f\u0902\u0926",
         "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
         "\u092e\u0939\u093e\u0928 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0947\u0928\u093e\u0928\u0940",
-        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "\u092e\u0930\u093e\u0920\u093e \u0938\u093e\u092e\u094d\u0930\u093e\u091c\u094d\u092f",
-        "Motera Ashram",
-        "Gyanesh Kumar"
+        "\u0936\u094d\u0930\u0940\u092e\u0924\u0940 \u0928\u093f\u0930\u094d\u092e\u0932\u093e",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u093e\u092e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 03:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 04:09:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Week",
         "Arsenal",
+        "Happy New Week",
         "Osun",
         "Rodri",
         "Hayden Panettiere",
-        "Stage 4",
-        "Adeleke",
-        "Maresca",
         "Odin's Vault",
+        "Maresca",
+        "Adeleke",
         "Ruth",
+        "Tinubu",
         "Ogogo"
       ],
       "hashtags": [
-        "#nsfwtwt\u064b\u064b",
         "#MondayMotivation",
-        "#ARSMCI",
-        "#WWERaw",
-        "#RTXPowersPlay"
+        "#arsmci",
+        "#nsfwtwt\u064b\u064b",
+        "#RTXPowersPlay",
+        "#latina"
       ],
       "regular_topics": [
-        "Happy New Week",
         "Arsenal",
+        "Happy New Week",
         "Osun",
         "Rodri",
         "Hayden Panettiere",
-        "Stage 4",
-        "Adeleke",
-        "Maresca",
         "Odin's Vault",
+        "Maresca",
+        "Adeleke",
         "Ruth",
+        "Tinubu",
         "Ogogo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
