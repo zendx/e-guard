@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T19:45:20.482877+00:00",
+  "generated_at_utc": "2026-08-18T20:09:10.929598+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,24 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 18:57:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 19:48:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "GTA 6",
         "Nico Gonzalez",
         "Musiala",
-        "#thechase",
         "Dusty Springfield",
         "Viana",
         "#theoneshow",
         "Wande",
-        "Reijnders",
+        "Lyon",
         "Ponting",
-        "Kovacic"
+        "Aaron Wan-Bissaka",
+        "Bouaddi"
       ],
       "hashtags": [
-        "#thechase",
         "#theoneshow",
         "#EastEnders",
         "#VMAs",
-        "#RTXPowersPlay",
         "#magiceye"
       ],
       "regular_topics": [
@@ -72,88 +70,91 @@
         "Dusty Springfield",
         "Viana",
         "Wande",
-        "Reijnders",
+        "Lyon",
         "Ponting",
-        "Kovacic",
-        "Wizkid",
-        "Phyllida Law"
+        "Aaron Wan-Bissaka",
+        "Bouaddi",
+        "Kovacic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 18:48:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 19:40:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
         "#RTXPowersPlay",
         "Quebec",
         "Hayden",
         "Churchill Falls",
-        "Jessica Davis",
-        "South Korea",
-        "Cineplex",
-        "Trump",
         "Natalie",
-        "Dune 3"
+        "South Korea",
+        "Ossoff",
+        "Jessica Davis",
+        "GTA 6",
+        "Trump"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#MonthlyMillionaire",
-        "#NBA2K27",
         "#AMO2026",
-        "#Monarch"
+        "#MonthlyMillionaire",
+        "#Monarch",
+        "#365dayswithjames"
       ],
       "regular_topics": [
         "PSPP",
         "Quebec",
         "Hayden",
         "Churchill Falls",
-        "Jessica Davis",
-        "South Korea",
-        "Cineplex",
-        "Trump",
         "Natalie",
-        "Dune 3",
-        "IMAX 70mm"
+        "South Korea",
+        "Ossoff",
+        "Jessica Davis",
+        "GTA 6",
+        "Trump",
+        "Cineplex"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 18:45:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 19:36:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BoycottBELIFT_StopTheFunds",
-        "#SevenMembersBoundForever",
         "Satyendar Jain",
+        "#SevenMembersBoundForever",
         "ENHYPEN OVER BLIND PROFIT",
         "Pilot Rakesh Tyagi",
-        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
         "Delhi Jal Board",
+        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
+        "Musiala",
         "#VarinderChawla",
-        "#CuidadoMexicanos",
         "Kartick Satyanarayan",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940"
+        "PM CARES"
       ],
       "hashtags": [
         "#BoycottBELIFT_StopTheFunds",
         "#SevenMembersBoundForever",
         "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
         "#VarinderChawla",
-        "#CuidadoMexicanos"
+        "#Vantara",
+        "#Pietrasanta",
+        "#MrKillSeriesEP7",
+        "#aikmohabbataur"
       ],
       "regular_topics": [
         "Satyendar Jain",
         "ENHYPEN OVER BLIND PROFIT",
         "Pilot Rakesh Tyagi",
         "Delhi Jal Board",
-        "Kartick Satyanarayan",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "PM CARES",
-        "TJJD BELONGS TO HEEWAB",
-        "VMAs",
         "Musiala",
+        "Kartick Satyanarayan",
+        "PM CARES",
+        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940",
+        "VMAs",
+        "TJJD BELONGS TO HEEWAB",
         "Niva"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
