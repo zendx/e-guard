@@ -1,99 +1,98 @@
 {
-  "generated_at_utc": "2026-08-18T17:49:16.141662+00:00",
+  "generated_at_utc": "2026-08-18T18:17:48.424354+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 16:48:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:39:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dune 3",
-        "#ForeverRowdy",
-        "VMAs",
-        "Bill Rasmussen",
-        "Newt",
-        "Najee Harris",
+        "Dune",
         "Natalie",
-        "Rublev",
+        "Newt",
+        "Bill Rasmussen",
+        "VMAs",
+        "#NBA2K27",
         "Ossoff",
-        "Taco Tuesday",
-        "WHAT HE SAY"
+        "#ForeverRowdy",
+        "Najee Harris",
+        "IMAX 70mm",
+        "Megyn"
       ],
       "hashtags": [
-        "#ForeverRowdy",
-        "#TuesdayVibes",
         "#NBA2K27",
-        "#RenacerJuntos"
+        "#ForeverRowdy",
+        "#TuesdayVibes"
       ],
       "regular_topics": [
-        "Dune 3",
-        "VMAs",
-        "Bill Rasmussen",
-        "Newt",
-        "Najee Harris",
+        "Dune",
         "Natalie",
-        "Rublev",
+        "Newt",
+        "Bill Rasmussen",
+        "VMAs",
         "Ossoff",
-        "Taco Tuesday",
-        "WHAT HE SAY",
-        "Clooney"
+        "Najee Harris",
+        "IMAX 70mm",
+        "Megyn",
+        "Rublev",
+        "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 17:15:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 18:06:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Arday",
+        "Nico Gonzalez",
         "#thechase",
         "Glasgow",
         "Russia",
-        "Hayden Panettiere",
-        "Wande",
         "Tim Montgomerie",
-        "George Floyd",
+        "Hayden Panettiere",
+        "Dusty Springfield",
         "Cofnas",
-        "Ponting"
+        "Viana"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#thechase",
-        "#ThickTrunkTuesday",
         "#carwre",
-        "#WWERaw"
+        "#ThickTrunkTuesday",
+        "#universitychallenge"
       ],
       "regular_topics": [
         "Arday",
+        "Nico Gonzalez",
         "Glasgow",
         "Russia",
-        "Hayden Panettiere",
-        "Wande",
         "Tim Montgomerie",
-        "George Floyd",
+        "Hayden Panettiere",
+        "Dusty Springfield",
         "Cofnas",
-        "Ponting",
-        "Wrexham",
-        "Dusty Springfield"
+        "Viana",
+        "George Floyd",
+        "Wande"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 17:06:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:57:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#monarch",
-        "#RTXPowersPlay",
         "PSPP",
-        "Trump",
-        "Hayden",
+        "#RTXPowersPlay",
+        "Hayden Panettiere",
         "Quebec",
-        "Churchill Falls",
         "Cineplex",
+        "Trump",
+        "Churchill Falls",
         "South Korea",
-        "#MonthlyMillionaire",
-        "Wande"
+        "Jessica Davis",
+        "Dune"
       ],
       "hashtags": [
         "#monarch",
@@ -104,94 +103,93 @@
       ],
       "regular_topics": [
         "PSPP",
-        "Trump",
-        "Hayden",
+        "Hayden Panettiere",
         "Quebec",
-        "Churchill Falls",
         "Cineplex",
+        "Trump",
+        "Churchill Falls",
         "South Korea",
-        "Wande",
-        "Natalie",
-        "Ossoff",
-        "Jessica Davis"
+        "Jessica Davis",
+        "Dune",
+        "Mulroney",
+        "Natalie"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 17:03:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:54:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Pilot Rakesh Tyagi",
-        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
-        "#VarinderChawla",
         "#BoycottBELIFT_StopTheFunds",
         "#SevenMembersBoundForever",
-        "#Vantara",
-        "ENHYPEN OVER BLIND PROFIT",
         "Satyendar Jain",
+        "Rakesh Tyagi",
+        "ENHYPEN OVER BLIND PROFIT",
+        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
+        "#VarinderChawla",
+        "Delhi Jal Board",
         "TJJD BELONGS TO HEEWAB",
-        "Kartick Satyanarayan",
-        "Delhi Jal"
+        "#Vantara",
+        "Kartick Satyanarayan"
       ],
       "hashtags": [
-        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
-        "#VarinderChawla",
         "#BoycottBELIFT_StopTheFunds",
         "#SevenMembersBoundForever",
+        "#SP_\u0915\u094b_\u0936\u093f\u0915\u094d\u0937\u093e",
+        "#VarinderChawla",
         "#Vantara"
       ],
       "regular_topics": [
-        "Pilot Rakesh Tyagi",
-        "ENHYPEN OVER BLIND PROFIT",
         "Satyendar Jain",
+        "Rakesh Tyagi",
+        "ENHYPEN OVER BLIND PROFIT",
+        "Delhi Jal Board",
         "TJJD BELONGS TO HEEWAB",
         "Kartick Satyanarayan",
-        "Delhi Jal",
         "\u092a\u0942\u0930\u094d\u0935 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "VMAs",
         "PM CARES",
-        "Wildlife SOS",
-        "Best K-Pop"
+        "VMAs",
+        "\u0938\u0924\u094d\u092f\u0947\u0928\u094d\u0926\u094d\u0930 \u091c\u0948\u0928",
+        "Niva"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 17:00:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 17:52:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
         "Toto",
-        "DJ Etee",
         "#Sweet16Movie",
-        "Come My Way",
-        "Senegal",
-        "Patrick Vieira",
-        "Kaito",
-        "Mr Little",
         "Wike",
-        "Peace Accord"
+        "DJ Etee",
+        "Kaito",
+        "Come My Way",
+        "Mr Little",
+        "Senegal",
+        "Peace Accord",
+        "Patrick Vieira"
       ],
       "hashtags": [
         "#Sweet16Movie",
         "#VMAs",
         "#KudiwaveVsPalmpay",
-        "#PowerOilxBBNaija",
-        "#23yrsofGloNigeria"
+        "#PowerOilxBBNaija"
       ],
       "regular_topics": [
         "Wande",
         "Toto",
-        "DJ Etee",
-        "Come My Way",
-        "Senegal",
-        "Patrick Vieira",
-        "Kaito",
-        "Mr Little",
         "Wike",
+        "DJ Etee",
+        "Kaito",
+        "Come My Way",
+        "Mr Little",
+        "Senegal",
         "Peace Accord",
-        "MLLE"
+        "Patrick Vieira",
+        "KC Luxury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
