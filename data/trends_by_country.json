@@ -1,163 +1,164 @@
 {
-  "generated_at_utc": "2026-08-18T23:42:06.056221+00:00",
+  "generated_at_utc": "2026-08-19T00:28:24.684490+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 18 2026 22:48:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:40:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#DWCS",
         "ZZ Top",
         "Frank Beard",
+        "Puga",
+        "Trembley",
+        "Jo Adell",
         "Senate Republicans",
-        "Pablo Pledgescobar",
+        "Vindman",
         "GTA 6",
-        "Rockstar",
-        "David Morens",
-        "Natalie",
-        "Ossoff",
-        "Happy Anniversary",
-        "Medvedev"
+        "Fishback",
+        "Pablo Pledgescobar"
       ],
       "hashtags": [
-        "#NBA2K27",
-        "#NationalFajitaDay",
-        "#wallowstwt"
+        "#DWCS",
+        "#KingJesus",
+        "#NBA2K27"
       ],
       "regular_topics": [
         "ZZ Top",
         "Frank Beard",
+        "Puga",
+        "Trembley",
+        "Jo Adell",
         "Senate Republicans",
-        "Pablo Pledgescobar",
+        "Vindman",
         "GTA 6",
-        "Rockstar",
-        "David Morens",
-        "Natalie",
-        "Ossoff",
-        "Happy Anniversary",
-        "Medvedev"
+        "Fishback",
+        "Pablo Pledgescobar",
+        "Angie Nixon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 18 2026 23:16:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 00:07:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RTXPowersPlay",
+        "#DWCS",
+        "Arday",
         "Watkins",
-        "Mike Nesbitt",
-        "ZZ Top",
+        "Russia",
+        "Tim Montgomerie",
+        "Glasgow",
+        "FULL TIME",
+        "Dusty Springfield",
         "GTA 6",
-        "Jon Burrows",
-        "Promise David",
-        "Frank Beard",
-        "Mikey Lewis",
-        "#CelebrityMasterChef",
-        "#TheGreatADHDMyth",
-        "Rockstar"
+        "Mike Nesbitt"
       ],
       "hashtags": [
-        "#CelebrityMasterChef",
+        "#RTXPowersPlay",
+        "#DWCS",
         "#TheGreatADHDMyth",
-        "#celebrityhunted",
-        "#SuperLeague"
+        "#thechase",
+        "#user628\u0437692"
       ],
       "regular_topics": [
+        "Arday",
         "Watkins",
-        "Mike Nesbitt",
-        "ZZ Top",
+        "Russia",
+        "Tim Montgomerie",
+        "Glasgow",
+        "FULL TIME",
+        "Dusty Springfield",
         "GTA 6",
-        "Jon Burrows",
-        "Promise David",
-        "Frank Beard",
-        "Mikey Lewis",
-        "Rockstar",
-        "Health Minister",
-        "Jamal Musiala"
+        "Mike Nesbitt",
+        "Wande",
+        "Jon Burrows"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 18 2026 23:08:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 00:00:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
+        "Alejandro Kirk",
         "#RTXPowersPlay",
+        "#DWCS",
         "Quebec",
         "Natalie",
-        "Ossoff",
-        "Frank Beard",
-        "Trump",
+        "Puga",
         "Buck",
-        "Promise David",
-        "Brighton",
-        "Taco Tuesday"
+        "Ossoff",
+        "Trump",
+        "Soriano"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#AMO2026",
+        "#DWCS",
+        "#BlueJays",
         "#CanMNT",
-        "#Monarch",
-        "#365DaysWithJAMES"
+        "#AMO2026"
       ],
       "regular_topics": [
         "PSPP",
+        "Alejandro Kirk",
         "Quebec",
         "Natalie",
-        "Ossoff",
-        "Frank Beard",
-        "Trump",
+        "Puga",
         "Buck",
-        "Promise David",
-        "Brighton",
-        "Taco Tuesday",
-        "Churchill Falls"
+        "Ossoff",
+        "Trump",
+        "Soriano",
+        "Kirky",
+        "Promise David"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 18 2026 23:03:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:54:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TrueWorship_EndsSuffering",
         "Sa True Story YtChannel",
-        "#VarinderChawla",
-        "#Vantara",
         "#SeamXVIIIisBack",
         "banni",
-        "#aisectorstock",
+        "#VarinderChawla",
+        "#Vantara",
+        "#aimultibaggerstock",
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
-        "Omega"
+        "Omega",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940"
       ],
       "hashtags": [
         "#TrueWorship_EndsSuffering",
+        "#SeamXVIIIisBack",
         "#VarinderChawla",
         "#Vantara",
-        "#SeamXVIIIisBack",
-        "#aisectorstock"
+        "#aimultibaggerstock"
       ],
       "regular_topics": [
         "Sa True Story YtChannel",
         "banni",
         "Kartick Satyanarayan",
         "nhc food pe opportunity",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "Omega",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
         "\u0928\u0947\u0924\u093e\u091c\u0940 \u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0926\u094d\u0930 \u092c\u094b\u0938",
         "robotic bariatric surgeries",
         "rakesh tyagi",
         "\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940",
-        "nhc foods"
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 18 2026 23:03:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 18 2026 23:54:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Davido",
         "Wizkid",
@@ -165,17 +166,16 @@
         "Mason Greenwood",
         "#lazyfunds",
         "Talentless",
-        "Watkins",
-        "KC Luxury",
         "Poco Lee",
-        "Toto",
-        "Blaqbonez"
+        "Blaqbonez",
+        "KC Luxury",
+        "Odumodu",
+        "Watkins"
       ],
       "hashtags": [
         "#lazyfunds",
         "#bbnajia11",
-        "#PowerOilxBBNaija",
-        "#Sweet16Movie"
+        "#PowerOilxBBNaija"
       ],
       "regular_topics": [
         "Davido",
@@ -183,12 +183,12 @@
         "Jamal Musiala",
         "Mason Greenwood",
         "Talentless",
-        "Watkins",
-        "KC Luxury",
         "Poco Lee",
-        "Toto",
         "Blaqbonez",
-        "NDLEA"
+        "KC Luxury",
+        "Odumodu",
+        "Watkins",
+        "Sheggz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
