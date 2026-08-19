@@ -1,58 +1,61 @@
 {
-  "generated_at_utc": "2026-08-19T22:11:21.058632+00:00",
+  "generated_at_utc": "2026-08-19T22:46:20.352693+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 21:12:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:03:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chauvin",
         "#OlandriaxCharlotteTilbury",
+        "Chauvin",
+        "Greg Weissert",
         "Heat 2",
-        "Jose Urquidy",
         "Azzi",
-        "$MRNA",
-        "Kenley Jansen",
+        "Urquidy",
+        "Rory",
         "Yair",
-        "Hyperliquid",
-        "CHICKEN SALAD",
-        "Braden Montgomery"
+        "$MRNA",
+        "#LLWS",
+        "$40 Trillion"
       ],
       "hashtags": [
         "#OlandriaxCharlotteTilbury",
-        "#LLWS"
+        "#LLWS",
+        "#Jeudy",
+        "#Scott",
+        "#NationalAviationDay"
       ],
       "regular_topics": [
         "Chauvin",
+        "Greg Weissert",
         "Heat 2",
-        "Jose Urquidy",
         "Azzi",
-        "$MRNA",
-        "Kenley Jansen",
+        "Urquidy",
+        "Rory",
         "Yair",
-        "Hyperliquid",
+        "$MRNA",
+        "$40 Trillion",
         "CHICKEN SALAD",
-        "Braden Montgomery",
-        "Nick Sogard"
+        "Moderna"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 21:36:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:27:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Meghan",
         "Duran",
         "Donovan",
         "Marmoush",
-        "Meghan",
-        "Baur",
         "Nygren",
-        "LASK",
+        "Baur",
+        "Spurs",
+        "Prince Harry",
         "#loveisblinduk",
-        "Sinisalo",
         "Home Office",
-        "Bruiser"
+        "Sinisalo"
       ],
       "hashtags": [
         "#loveisblinduk",
@@ -60,35 +63,35 @@
         "#CelticFC"
       ],
       "regular_topics": [
+        "Meghan",
         "Duran",
         "Donovan",
         "Marmoush",
-        "Meghan",
-        "Baur",
         "Nygren",
-        "LASK",
-        "Sinisalo",
+        "Baur",
+        "Spurs",
+        "Prince Harry",
         "Home Office",
-        "Bruiser",
-        "Konsa"
+        "Sinisalo",
+        "Bruiser"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 21:28:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone",
         "Carney",
         "PSPP",
         "Quebec",
         "Taco Tuesday",
+        "Kory",
         "Baleba",
         "#RTXPowersPlay",
         "Konsa",
         "$MRNA",
-        "Kory",
         "GTA 6"
       ],
       "hashtags": [
@@ -102,89 +105,90 @@
         "PSPP",
         "Quebec",
         "Taco Tuesday",
+        "Kory",
         "Baleba",
         "Konsa",
         "$MRNA",
-        "Kory",
         "GTA 6",
-        "Loblaws"
+        "Heat 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 21:24:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:16:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "FUKRA MADE TRAITORS ICONIC",
-        "Hamza",
-        "#INDvsPAK",
-        "#cortisdisband",
-        "Gordon",
-        "Hyperliquid",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "#Always_With_ENHYPEN_7",
-        "#JapanTrustsYogi",
-        "BELIFT CEASE THE IGNORANCE",
-        "$HYPE"
+        "banni",
+        "#WorldPhotographyDay",
+        "#Vantara",
+        "#bhudevi_infra_stock_news",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "real estate expansion",
+        "#aistockinlimelight",
+        "#WorldHumanitarianDay",
+        "kartick satyanarayan",
+        "bhudevi infra projects",
+        "nhc food pe infocus"
       ],
       "hashtags": [
-        "#INDvsPAK",
-        "#cortisdisband",
-        "#Always_With_ENHYPEN_7",
-        "#JapanTrustsYogi",
-        "#GodNightWednesday"
+        "#WorldPhotographyDay",
+        "#Vantara",
+        "#bhudevi_infra_stock_news",
+        "#aistockinlimelight",
+        "#WorldHumanitarianDay"
       ],
       "regular_topics": [
-        "FUKRA MADE TRAITORS ICONIC",
-        "Hamza",
-        "Gordon",
-        "Hyperliquid",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "BELIFT CEASE THE IGNORANCE",
-        "$HYPE",
-        "Lautaro",
-        "Army",
-        "Pakistan",
-        "Jains"
+        "banni",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "real estate expansion",
+        "kartick satyanarayan",
+        "bhudevi infra projects",
+        "nhc food pe infocus",
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
+        "PM CARES",
+        "Sergio Gor",
+        "Sa True Story YtChannel",
+        "FUKRA MADE TRAITORS ICONIC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 21:24:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:16:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Kang-in Lee",
         "Hamza",
         "Joao Pedro",
-        "Atletico Madrid",
-        "Kang-in Lee",
         "Alex Baena",
-        "#ColgateXBBNaija",
+        "Atletico Madrid",
         "NELFUND",
+        "#ColgateXBBNaija",
         "Tottenham",
-        "Spurs",
+        "Lookman",
         "$HYPE",
-        "Lookman"
+        "Okocha"
       ],
       "hashtags": [
         "#ColgateXBBNaija",
         "#GloNeverSettle4Less",
         "#67MAXXING",
-        "#SultanaXGlo"
+        "#SultanaXGlo",
+        "#SultanaAuduson"
       ],
       "regular_topics": [
+        "Kang-in Lee",
         "Hamza",
         "Joao Pedro",
-        "Atletico Madrid",
-        "Kang-in Lee",
         "Alex Baena",
+        "Atletico Madrid",
         "NELFUND",
         "Tottenham",
-        "Spurs",
-        "$HYPE",
         "Lookman",
-        "Malaga"
+        "$HYPE",
+        "Okocha",
+        "Al Ahly"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
