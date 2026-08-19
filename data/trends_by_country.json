@@ -1,29 +1,28 @@
 {
-  "generated_at_utc": "2026-08-19T03:35:22.561079+00:00",
+  "generated_at_utc": "2026-08-19T04:23:48.530031+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 03:09:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Florida",
         "Vindman",
         "Jolly",
-        "#WWENXT",
-        "#DWCS",
         "Angie Nixon",
         "Fishback",
+        "#WWENXT",
         "Donalds",
-        "Becky",
+        "#DWCS",
         "Dan Wilson",
-        "DeSantis"
+        "Becky",
+        "#mcrdc"
       ],
       "hashtags": [
         "#WWENXT",
         "#DWCS",
         "#mcrdc",
-        "#AGT",
-        "#Cubs"
+        "#AGT"
       ],
       "regular_topics": [
         "Florida",
@@ -32,35 +31,35 @@
         "Angie Nixon",
         "Fishback",
         "Donalds",
-        "Becky",
         "Dan Wilson",
+        "Becky",
         "DeSantis",
         "Cory Mills",
-        "Brito"
+        "Grant Taylor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 02:40:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 03:32:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DWCS",
-        "#WWENXT",
         "#RTXPowersPlay",
+        "#WWENXT",
         "Arday",
         "#mcrdc",
         "Brito",
         "Fazil",
-        "Russia",
         "Tim Montgomerie",
+        "Russia",
         "Glasgow",
-        "Dusty Springfield"
+        "frank iero"
       ],
       "hashtags": [
         "#DWCS",
-        "#WWENXT",
         "#RTXPowersPlay",
+        "#WWENXT",
         "#mcrdc",
         "#thechase"
       ],
@@ -68,118 +67,124 @@
         "Arday",
         "Brito",
         "Fazil",
-        "Russia",
         "Tim Montgomerie",
+        "Russia",
         "Glasgow",
+        "frank iero",
         "Dusty Springfield",
         "Watkins",
         "Wande",
-        "GTA 6",
-        "Cofnas"
+        "GTA 6"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 02:33:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 03:27:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Keystone XL",
         "PSPP",
-        "#DWCS",
+        "Taco Tuesday",
         "Waldron",
-        "Alejandro Kirk",
-        "#WWENXT",
         "#RTXPowersPlay",
-        "Jays",
-        "Josh Smith",
         "Quebec",
+        "#DWCS",
+        "#WWENXT",
         "Natalie",
-        "Soriano"
+        "Soriano",
+        "Ossoff"
       ],
       "hashtags": [
+        "#RTXPowersPlay",
         "#DWCS",
         "#WWENXT",
-        "#RTXPowersPlay",
         "#monarch",
         "#AMO2026"
       ],
       "regular_topics": [
+        "Keystone XL",
         "PSPP",
+        "Taco Tuesday",
         "Waldron",
-        "Alejandro Kirk",
-        "Jays",
-        "Josh Smith",
         "Quebec",
         "Natalie",
         "Soriano",
         "Ossoff",
+        "Jays",
         "Trump",
-        "Taco Tuesday"
+        "Mariners"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 03:21:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 04:12:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NHC_52WeekBreakout",
+        "NHC FOOD PE InFocus",
+        "#AiStockInLimelight",
         "#WorldHumanitarianDay",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "Dera Sacha Sauda",
-        "Saint Gurmeet Ram Rahim Ji",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Saint Gurmeet Ram Rahim Ji",
+        "#WorldPhotographyDay",
         "#GodMorningWednesday",
-        "#TrueWorship_EndsSuffering",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "#PublicWithBapuji",
-        "Sa True Story YtChannel",
-        "#WorldPhotographyDay"
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e"
       ],
       "hashtags": [
+        "#NHC_52WeekBreakout",
+        "#AiStockInLimelight",
         "#WorldHumanitarianDay",
+        "#WorldPhotographyDay",
         "#GodMorningWednesday",
-        "#TrueWorship_EndsSuffering",
         "#PublicWithBapuji",
-        "#WorldPhotographyDay"
+        "#TulsidasJayanti",
+        "#KolkataFire",
+        "#HotelFire",
+        "#\u0930\u093e\u092e\u091a\u0930\u093f\u0924\u092e\u093e\u0928\u0938",
+        "#Ramcharitmanas"
       ],
       "regular_topics": [
+        "NHC FOOD PE InFocus",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "Dera Sacha Sauda",
-        "Saint Gurmeet Ram Rahim Ji",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "Saint Gurmeet Ram Rahim Ji",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "Sa True Story YtChannel",
-        "Banni",
-        "seam xviii",
+        "200 Cr",
         "\u0936\u0902\u0915\u0930 \u0926\u092f\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
         "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f"
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 03:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 04:12:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
         "Jamal Musiala",
         "Wizkid",
         "Osun",
         "MLLE",
-        "Toto",
-        "Wike",
         "Ogogo",
+        "Wike",
+        "Toto",
         "Blaq",
-        "Kai Cenat",
-        "Morayo"
+        "Morayo",
+        "KC Luxury"
       ],
       "hashtags": [
         "#sweet16movie",
         "#buyingcontent",
-        "#lazyfunds",
         "#PowerOilXBBNaija",
-        "#nsfwtwt\u064b\u064b"
+        "#nsfwtwt\u064b\u064b",
+        "#Lazyfunds"
       ],
       "regular_topics": [
         "Wande",
@@ -187,12 +192,12 @@
         "Wizkid",
         "Osun",
         "MLLE",
-        "Toto",
-        "Wike",
         "Ogogo",
+        "Wike",
+        "Toto",
         "Blaq",
-        "Kai Cenat",
-        "Morayo"
+        "Morayo",
+        "KC Luxury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
