@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-08-19T10:50:30.582207+00:00",
+  "generated_at_utc": "2026-08-19T11:12:49.581386+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 10:00:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 10:51:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Mabrey",
-        "#Berkeley",
-        "#Vindman",
-        "#Kandi",
-        "#\u6620\u753b\u30b7\u30fc\u30f3",
         "Good Wednesday",
         "Baleba",
-        "Angie Nixon",
-        "Hump Day",
-        "Dan Wilson",
-        "Jake Lang"
-      ],
-      "hashtags": [
+        "#\u6620\u753b\u30b7\u30fc\u30f3",
         "#Mabrey",
         "#Berkeley",
-        "#Vindman",
         "#Kandi",
-        "#\u6620\u753b\u30b7\u30fc\u30f3",
-        "#Durk",
-        "#Sephiroth",
-        "#Crunchyroll",
-        "#Lillian",
         "#Darline",
-        "#Mallory"
+        "Hump Day",
+        "Happy Hump",
+        "Zuby",
+        "Angie Nixon"
+      ],
+      "hashtags": [
+        "#\u6620\u753b\u30b7\u30fc\u30f3",
+        "#Mabrey",
+        "#Berkeley",
+        "#Kandi",
+        "#Darline",
+        "#Crunchyroll",
+        "#Keystone",
+        "#Vindman",
+        "#Mallory",
+        "#Durk",
+        "#Sephiroth"
       ],
       "regular_topics": [
         "Good Wednesday",
         "Baleba",
-        "Angie Nixon",
         "Hump Day",
-        "Dan Wilson",
-        "Jake Lang",
-        "Mills",
+        "Happy Hump",
+        "Zuby",
+        "Angie Nixon",
+        "Rockstar",
         "GTA 5",
-        "Curb",
+        "Qixi",
         "Itachi",
-        "GTA V"
+        "Cory Mills"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
