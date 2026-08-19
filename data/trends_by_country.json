@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T11:12:49.581386+00:00",
+  "generated_at_utc": "2026-08-19T11:45:35.928303+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,58 +49,57 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 10:24:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 11:16:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
+        "Konsa",
+        "Tielemans",
         "Brighton",
-        "#ENGvPAK",
-        "Mainoo",
+        "Mosquera",
         "Lewis Hall",
-        "Nick Kyrgios",
-        "#WorldPhotographyDay",
+        "#ENGvPAK",
+        "Ollie Robinson",
+        "Mainoo",
         "ULEZ",
-        "2 English",
-        "Fernandes",
-        "INEOS"
+        "Fernandes"
       ],
       "hashtags": [
         "#ENGvPAK",
+        "#ITV7EborFestivalNap",
         "#WorldPhotographyDay",
         "#ASongOrMovieForBeingStylish",
-        "#popmaster",
-        "#RoseWednesday",
-        "#Hues"
+        "#popmaster"
       ],
       "regular_topics": [
         "Baleba",
+        "Konsa",
+        "Tielemans",
         "Brighton",
-        "Mainoo",
+        "Mosquera",
         "Lewis Hall",
-        "Nick Kyrgios",
+        "Ollie Robinson",
+        "Mainoo",
         "ULEZ",
-        "2 English",
         "Fernandes",
-        "INEOS",
-        "Gene Pitney",
-        "Ornstein"
+        "Nick Kyrgios"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 10:18:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 11:09:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Baleba",
         "PSPP",
         "#betya",
         "Taco Tuesday",
-        "Baleba",
         "Keystone XL",
         "#RTXPowersPlay",
         "Natalie",
         "Quebec",
         "#DWCS",
-        "#BINI_SIGNALS_VANCOUVER",
+        "Trump",
         "Ossoff"
       ],
       "hashtags": [
@@ -111,92 +110,91 @@
         "#monarch"
       ],
       "regular_topics": [
+        "Baleba",
         "PSPP",
         "Taco Tuesday",
-        "Baleba",
         "Keystone XL",
         "Natalie",
         "Quebec",
-        "Ossoff",
-        "IC Markets",
         "Trump",
-        "Waldron",
-        "Alejandro Kirk"
+        "Ossoff",
+        "waldron",
+        "Alejandro Kirk",
+        "Frank Beard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 10:12:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 11:04:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AnantHelpsIqbal",
         "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
-        "#NewAiMultibagger",
-        "Manav Suthar",
         "Baleba",
-        "#GATECH_NEAR_52W_BREAKOUT",
         "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
+        "Anant Ambani",
+        "Manav Suthar",
+        "#NewAiMultibagger",
+        "#TejashwiYadav",
         "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
-        "#BHUDEVI_INFRA_STOCK_NEWS",
         "\u0930\u093e\u091c\u092d\u0935\u0928 \u092e\u093e\u0930\u094d\u091a",
-        "Raksha Bandhan",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
+        "Ollie Robinson"
       ],
       "hashtags": [
+        "#AnantHelpsIqbal",
         "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
         "#NewAiMultibagger",
-        "#GATECH_NEAR_52W_BREAKOUT",
-        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
-        "#BHUDEVI_INFRA_STOCK_NEWS"
+        "#TejashwiYadav",
+        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932"
       ],
       "regular_topics": [
-        "Manav Suthar",
         "Baleba",
         "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
+        "Anant Ambani",
+        "Manav Suthar",
         "\u0930\u093e\u091c\u092d\u0935\u0928 \u092e\u093e\u0930\u094d\u091a",
-        "Raksha Bandhan",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "\u0906\u091c\u092e \u0916\u093e\u0928",
-        "Sri Lanka by 165",
-        "Ladli Behna",
-        "200 Cr"
+        "Ollie Robinson",
+        "Sergio Gor",
+        "\u091a\u0941\u0928\u093e\u0935 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "\u0930\u093e\u091c\u094d\u092f \u0928\u093f\u0930\u094d\u0935\u093e\u091a\u0928 \u0906\u092f\u094b\u0917",
+        "PM CARES",
+        "congress working committee"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 10:12:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 11:03:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
         "Brighton",
         "Poco Lee",
         "Blaq",
+        "Konsa",
         "Odumodu",
         "INEOS",
-        "Indy",
-        "Jo\u00e3o Pedro",
+        "Lewis Hall",
         "Ornstein",
-        "THE MERCY OF GOD HAS PREVAILED",
-        "AS Monaco"
+        "Indy",
+        "Jo\u00e3o Pedro"
       ],
       "hashtags": [
-        "#WorldHumanitarianDay",
-        "#NSPPD"
+        "#WorldHumanitarianDay"
       ],
       "regular_topics": [
         "Baleba",
         "Brighton",
         "Poco Lee",
         "Blaq",
+        "Konsa",
         "Odumodu",
         "INEOS",
-        "Indy",
-        "Jo\u00e3o Pedro",
+        "Lewis Hall",
         "Ornstein",
-        "THE MERCY OF GOD HAS PREVAILED",
-        "AS Monaco"
+        "Indy",
+        "Jo\u00e3o Pedro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
