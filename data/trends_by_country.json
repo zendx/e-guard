@@ -1,38 +1,38 @@
 {
-  "generated_at_utc": "2026-08-19T06:21:02.369417+00:00",
+  "generated_at_utc": "2026-08-19T07:11:28.256789+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 05:42:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:33:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Florida",
         "Vindman",
         "Mariners",
         "Bregman",
-        "Cubs",
         "Jolly",
         "Angie Nixon",
+        "Cubs",
         "Fishback",
         "#mcrdc",
         "Donalds",
-        "#WWENXT"
+        "Dan Wilson"
       ],
       "hashtags": [
         "#mcrdc",
         "#WWENXT",
-        "#DWCS",
         "#Cory",
-        "#FlyTheW"
+        "#FlyTheW",
+        "#DWCS"
       ],
       "regular_topics": [
         "Florida",
         "Vindman",
         "Mariners",
         "Bregman",
-        "Cubs",
         "Jolly",
         "Angie Nixon",
+        "Cubs",
         "Fishback",
         "Donalds",
         "Dan Wilson",
@@ -43,58 +43,58 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 06:08:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RoseWednesday",
+        "Gene Pitney",
         "#RTXPowersPlay",
         "Arday",
-        "#WWENXT",
-        "#Wordle1887",
+        "#WallsOnWednesday",
+        "#WindowsOnWednesday",
+        "#bbcbreakfast",
         "Russia",
         "Tim Montgomerie",
-        "#DWCS",
         "Glasgow",
-        "Dusty Springfield",
-        "ULEZ",
-        "Wande"
+        "Dusty Springfield"
       ],
       "hashtags": [
+        "#RoseWednesday",
         "#RTXPowersPlay",
-        "#WWENXT",
-        "#Wordle1887",
-        "#DWCS",
-        "#thechase"
+        "#WallsOnWednesday",
+        "#WindowsOnWednesday",
+        "#bbcbreakfast"
       ],
       "regular_topics": [
+        "Gene Pitney",
         "Arday",
         "Russia",
         "Tim Montgomerie",
         "Glasgow",
         "Dusty Springfield",
+        "Watkins",
+        "ADHD",
         "ULEZ",
         "Wande",
-        "Watkins",
-        "GTA 6",
-        "Cofnas",
-        "ADHD"
+        "GTA 6"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 06:00:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:51:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Keystone XL",
         "PSPP",
+        "Keystone XL",
         "Taco Tuesday",
         "#RTXPowersPlay",
         "Quebec",
         "Natalie",
         "#DWCS",
         "Ossoff",
+        "Trump",
         "Waldron",
-        "Frank Beard",
-        "ZZ Top"
+        "Frank Beard"
       ],
       "hashtags": [
         "#RTXPowersPlay",
@@ -104,55 +104,55 @@
         "#AMO2026"
       ],
       "regular_topics": [
-        "Keystone XL",
         "PSPP",
+        "Keystone XL",
         "Taco Tuesday",
         "Quebec",
         "Natalie",
         "Ossoff",
+        "Trump",
         "Waldron",
         "Frank Beard",
         "ZZ Top",
-        "Alejandro Kirk",
-        "Mariners"
+        "Alejandro Kirk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 05:56:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:48:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BHUDEVI_INFRA_STOCK_NEWS",
-        "#AiStockInLimelight",
-        "#WorldPhotographyDay",
+        "#NewAiMultibagger",
+        "#VandeMataram150",
         "Real Estate Expansion",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "#WorldHumanitarianDay",
-        "#NHC_52WeekBreakout",
-        "NHC FOOD PE InFocus",
+        "#WorldPhotographyDay",
         "Bhudevi Infra Projects",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936"
+        "#AiStockInLimelight",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "NHC FOOD PE InFocus",
+        "Bhudevi Aurum Phase-1",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
       ],
       "hashtags": [
         "#BHUDEVI_INFRA_STOCK_NEWS",
-        "#AiStockInLimelight",
+        "#NewAiMultibagger",
+        "#VandeMataram150",
         "#WorldPhotographyDay",
-        "#WorldHumanitarianDay",
-        "#NHC_52WeekBreakout"
+        "#AiStockInLimelight"
       ],
       "regular_topics": [
         "Real Estate Expansion",
+        "Bhudevi Infra Projects",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "NHC FOOD PE InFocus",
-        "Bhudevi Infra Projects",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "Dera Sacha Sauda",
         "Bhudevi Aurum Phase-1",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
         "\u0906\u091c\u092e \u0916\u093e\u0928",
-        "149.25 Cr",
+        "200 Cr",
+        "Himayat Nagar",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Q1 FY27 PAT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,37 +160,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 05:54:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:45:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
+        "Amen",
         "Jamal Musiala",
-        "$AXO",
         "Wizkid",
-        "MLLE",
-        "Kodiak",
-        "Wike",
-        "Toto",
+        "Poco Lee",
+        "Kai Cenat",
         "$1.57 MILLION",
-        "Golden Hours",
-        "KC Luxury"
+        "GM CT",
+        "Wike",
+        "Blaq",
+        "MLLE"
       ],
       "hashtags": [
-        "#sweet16movie",
-        "#PowerOilxBBNaija",
-        "#Lazyfunds"
+        "#sweet16movie"
       ],
       "regular_topics": [
         "Wande",
+        "Amen",
         "Jamal Musiala",
-        "$AXO",
         "Wizkid",
-        "MLLE",
-        "Kodiak",
-        "Wike",
-        "Toto",
+        "Poco Lee",
+        "Kai Cenat",
         "$1.57 MILLION",
-        "Golden Hours",
-        "KC Luxury"
+        "GM CT",
+        "Wike",
+        "Blaq",
+        "MLLE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
