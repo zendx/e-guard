@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T17:14:41.156502+00:00",
+  "generated_at_utc": "2026-08-19T17:45:56.294232+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,155 +43,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 16:27:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:18:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Konsa",
+        "Marmoush",
         "Saliba",
+        "Villa",
         "Mosquera",
         "Baleba",
-        "Villa",
         "Jones",
-        "Item",
-        "Nyoni",
+        "Duckett",
         "Tosin",
-        "Ombudsman",
-        "Buick"
+        "Nyoni",
+        "#avfc"
       ],
       "hashtags": [
         "#avfc",
         "#ENGvPAK",
         "#loveisblinduk",
         "#WorldPhotographyDay",
-        "#WishJASPERmv"
+        "#thechase"
       ],
       "regular_topics": [
         "Konsa",
+        "Marmoush",
         "Saliba",
+        "Villa",
         "Mosquera",
         "Baleba",
-        "Villa",
         "Jones",
-        "Item",
-        "Nyoni",
+        "Duckett",
         "Tosin",
-        "Ombudsman",
-        "Buick"
+        "Nyoni",
+        "The Dancing Pirate"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 16:20:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:12:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone",
         "PSPP",
         "Carney",
         "Taco Tuesday",
+        "#RTXPowersPlay",
+        "Baleba",
+        "Quebec",
         "Konsa",
         "Saliba",
-        "Baleba",
-        "#RTXPowersPlay",
-        "Quebec",
-        "Loblaws",
-        "#TrinityxVerizon"
+        "Hedman",
+        "$MRNA"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#TrinityxVerizon",
+        "#WorldPhotographyDay",
         "#BINI_SIGNALS_VANCOUVER",
         "#DWCS",
-        "#WorldPhotographyDay"
+        "#TrinityxVerizon"
       ],
       "regular_topics": [
         "Keystone",
         "PSPP",
         "Carney",
         "Taco Tuesday",
-        "Konsa",
-        "Saliba",
         "Baleba",
         "Quebec",
-        "Loblaws",
-        "Ossoff",
-        "Mosquera"
+        "Konsa",
+        "Saliba",
+        "Hedman",
+        "$MRNA",
+        "Ossoff"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 16:15:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:06:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#JapanTrustsYogi",
         "#INDvsPAK",
         "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
         "#GodNightWednesday",
-        "#MagnovaPLFbyUFO",
-        "Pakistan",
-        "Ornith-1.5",
+        "#Always_With_ENHYPEN_7",
         "BELIFT CEASE THE IGNORANCE",
+        "Pakistan",
         "Army",
-        "Banni",
-        "JASPER TELL ME YOUR WISH"
+        "Lautaro",
+        "Ollie Robinson",
+        "Josh Tongue"
       ],
       "hashtags": [
         "#JapanTrustsYogi",
         "#INDvsPAK",
         "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
         "#GodNightWednesday",
-        "#MagnovaPLFbyUFO"
+        "#Always_With_ENHYPEN_7"
       ],
       "regular_topics": [
-        "Pakistan",
-        "Ornith-1.5",
         "BELIFT CEASE THE IGNORANCE",
+        "Pakistan",
         "Army",
-        "Banni",
-        "JASPER TELL ME YOUR WISH",
-        "\u0939\u0949\u0915\u0940 \u0935\u0930\u094d\u0932\u094d\u0921",
-        "YEIDA",
+        "Lautaro",
+        "Ollie Robinson",
+        "Josh Tongue",
+        "Ornith-1.5",
         "Sergio Gor",
-        "NH-22",
-        "Konsa"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
+        "\u0939\u0949\u0915\u0940 \u0935\u0930\u094d\u0932\u094d\u0921",
+        "JASPER TELL ME YOUR WISH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 16:12:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:03:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Joao Pedro",
         "Konsa",
         "Saliba",
+        "#ProphetJeremiahFufeyin",
+        "#GloNeverSettle4Less",
         "Baleba",
         "Mosquera",
         "#OsunUnityOverDivision",
-        "Blaq",
         "#67MAXXING",
-        "Odumodu",
-        "Certificate of Return",
-        "Curtis Jones",
-        "Aston Villa"
+        "Blaq",
+        "No 9"
       ],
       "hashtags": [
+        "#ProphetJeremiahFufeyin",
+        "#GloNeverSettle4Less",
         "#OsunUnityOverDivision",
         "#67MAXXING",
-        "#WorldHumanitarianDay",
-        "#ActForHumanity"
+        "#OruMbahNaEgosi"
       ],
       "regular_topics": [
+        "Joao Pedro",
         "Konsa",
         "Saliba",
         "Baleba",
         "Mosquera",
         "Blaq",
+        "No 9",
+        "Lautaro",
         "Odumodu",
         "Certificate of Return",
-        "Curtis Jones",
-        "Aston Villa",
-        "Welcome to Arsenal",
-        "Salmon"
+        "Number 9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
