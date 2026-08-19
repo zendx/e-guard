@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T10:15:16.100889+00:00",
+  "generated_at_utc": "2026-08-19T10:50:30.582207+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,76 +49,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 09:33:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 10:24:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
+        "Brighton",
+        "#ENGvPAK",
+        "Mainoo",
+        "Lewis Hall",
         "Nick Kyrgios",
         "#WorldPhotographyDay",
-        "Arday",
-        "#RTXPowersPlay",
-        "Manchester",
         "ULEZ",
-        "Brighton",
-        "Tielemans",
-        "Lewis Hall",
-        "Russia"
+        "2 English",
+        "Fernandes",
+        "INEOS"
       ],
       "hashtags": [
+        "#ENGvPAK",
         "#WorldPhotographyDay",
-        "#RTXPowersPlay",
         "#ASongOrMovieForBeingStylish",
+        "#popmaster",
         "#RoseWednesday",
-        "#MUFC"
+        "#Hues"
       ],
       "regular_topics": [
         "Baleba",
-        "Nick Kyrgios",
-        "Arday",
-        "Manchester",
-        "ULEZ",
         "Brighton",
-        "Tielemans",
+        "Mainoo",
         "Lewis Hall",
-        "Russia",
+        "Nick Kyrgios",
+        "ULEZ",
+        "2 English",
+        "Fernandes",
+        "INEOS",
         "Gene Pitney",
-        "ADHD"
+        "Ornstein"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 09:27:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 10:18:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
+        "#betya",
         "Taco Tuesday",
+        "Baleba",
         "Keystone XL",
         "#RTXPowersPlay",
         "Natalie",
         "Quebec",
         "#DWCS",
-        "Ossoff",
-        "IC Markets",
-        "Trump",
-        "VANCOUVER GETS BINI SIGNALS"
+        "#BINI_SIGNALS_VANCOUVER",
+        "Ossoff"
       ],
       "hashtags": [
+        "#betya",
         "#RTXPowersPlay",
         "#DWCS",
-        "#monarch",
-        "#AMO2026",
-        "#WWENXT"
+        "#BINI_SIGNALS_VANCOUVER",
+        "#monarch"
       ],
       "regular_topics": [
         "PSPP",
         "Taco Tuesday",
+        "Baleba",
         "Keystone XL",
         "Natalie",
         "Quebec",
         "Ossoff",
         "IC Markets",
         "Trump",
-        "VANCOUVER GETS BINI SIGNALS",
         "Waldron",
         "Alejandro Kirk"
       ],
@@ -127,19 +128,19 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 09:21:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 10:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
         "#NewAiMultibagger",
         "Manav Suthar",
+        "Baleba",
         "#GATECH_NEAR_52W_BREAKOUT",
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
         "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
         "#BHUDEVI_INFRA_STOCK_NEWS",
-        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
-        "GACM TECH",
-        "Bhudevi Infra Projects",
+        "\u0930\u093e\u091c\u092d\u0935\u0928 \u092e\u093e\u0930\u094d\u091a",
         "Raksha Bandhan",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938"
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
       ],
       "hashtags": [
         "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
@@ -150,52 +151,52 @@
       ],
       "regular_topics": [
         "Manav Suthar",
-        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
-        "GACM TECH",
-        "Bhudevi Infra Projects",
-        "Raksha Bandhan",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "Baleba",
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
         "\u0930\u093e\u091c\u092d\u0935\u0928 \u092e\u093e\u0930\u094d\u091a",
+        "Raksha Bandhan",
         "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "\u0906\u091c\u092e \u0916\u093e\u0928",
+        "Sri Lanka by 165",
         "Ladli Behna",
-        "\u0906\u091c\u092e \u0916\u093e\u0928"
+        "200 Cr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 09:20:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 10:12:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
+        "Brighton",
         "Poco Lee",
         "Blaq",
         "Odumodu",
+        "INEOS",
+        "Indy",
         "Jo\u00e3o Pedro",
+        "Ornstein",
         "THE MERCY OF GOD HAS PREVAILED",
-        "Brighton",
-        "Bella",
-        "INEOS ARE YOU MAD",
-        "$PROPS",
-        "Kai Cenat"
+        "AS Monaco"
       ],
       "hashtags": [
-        "#NSPPD",
-        "#WorldHumanitarianDay"
+        "#WorldHumanitarianDay",
+        "#NSPPD"
       ],
       "regular_topics": [
         "Baleba",
+        "Brighton",
         "Poco Lee",
         "Blaq",
         "Odumodu",
+        "INEOS",
+        "Indy",
         "Jo\u00e3o Pedro",
+        "Ornstein",
         "THE MERCY OF GOD HAS PREVAILED",
-        "Brighton",
-        "Bella",
-        "INEOS ARE YOU MAD",
-        "$PROPS",
-        "Kai Cenat"
+        "AS Monaco"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
