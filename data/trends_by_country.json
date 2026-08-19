@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-08-19T02:53:10.403142+00:00",
+  "generated_at_utc": "2026-08-19T03:35:22.561079+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 02:18:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 03:09:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Florida",
         "Vindman",
-        "#DWCS",
-        "#WWENXT",
-        "Angie Nixon",
         "Jolly",
+        "#WWENXT",
+        "#DWCS",
+        "Angie Nixon",
         "Fishback",
-        "Becky",
         "Donalds",
-        "Brito",
-        "Gausman"
+        "Becky",
+        "Dan Wilson",
+        "DeSantis"
       ],
       "hashtags": [
-        "#DWCS",
         "#WWENXT",
-        "#AGT",
+        "#DWCS",
         "#mcrdc",
-        "#BaylenOutLoud"
+        "#AGT",
+        "#Cubs"
       ],
       "regular_topics": [
         "Florida",
         "Vindman",
-        "Angie Nixon",
         "Jolly",
+        "Angie Nixon",
         "Fishback",
-        "Becky",
         "Donalds",
-        "Brito",
-        "Gausman",
-        "Stott",
-        "Fedde"
+        "Becky",
+        "Dan Wilson",
+        "DeSantis",
+        "Cory Mills",
+        "Brito"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 01:48:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 02:40:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DWCS",
-        "#RTXPowersPlay",
         "#WWENXT",
+        "#RTXPowersPlay",
         "Arday",
+        "#mcrdc",
         "Brito",
-        "Russia",
         "Fazil",
+        "Russia",
         "Tim Montgomerie",
         "Glasgow",
-        "Dusty Springfield",
-        "Mike Nesbitt"
+        "Dusty Springfield"
       ],
       "hashtags": [
         "#DWCS",
-        "#RTXPowersPlay",
         "#WWENXT",
+        "#RTXPowersPlay",
         "#mcrdc",
         "#thechase"
       ],
       "regular_topics": [
         "Arday",
         "Brito",
-        "Russia",
         "Fazil",
+        "Russia",
         "Tim Montgomerie",
         "Glasgow",
         "Dusty Springfield",
-        "Mike Nesbitt",
         "Watkins",
         "Wande",
-        "EK Prosper"
+        "GTA 6",
+        "Cofnas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,38 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 02:30:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 03:21:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldHumanitarianDay",
-        "Dera Sacha Sauda",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "Dera Sacha Sauda",
         "Saint Gurmeet Ram Rahim Ji",
-        "#GodMorningWednesday",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "#GodMorningWednesday",
         "#TrueWorship_EndsSuffering",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "#PublicWithBapuji",
         "Sa True Story YtChannel",
-        "#WorldPhotographyDay",
-        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940"
+        "#WorldPhotographyDay"
       ],
       "hashtags": [
         "#WorldHumanitarianDay",
         "#GodMorningWednesday",
         "#TrueWorship_EndsSuffering",
-        "#WorldPhotographyDay",
-        "#seamxviiiisback"
+        "#PublicWithBapuji",
+        "#WorldPhotographyDay"
       ],
       "regular_topics": [
-        "Dera Sacha Sauda",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "Dera Sacha Sauda",
         "Saint Gurmeet Ram Rahim Ji",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "Sa True Story YtChannel",
-        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
         "Banni",
+        "seam xviii",
         "\u0936\u0902\u0915\u0930 \u0926\u092f\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
-        "kartick satyanarayan",
+        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
         "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 02:28:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 03:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
         "Jamal Musiala",
@@ -171,15 +171,15 @@
         "Wike",
         "Ogogo",
         "Blaq",
-        "Morayo",
-        "KC Luxury"
+        "Kai Cenat",
+        "Morayo"
       ],
       "hashtags": [
         "#sweet16movie",
+        "#buyingcontent",
         "#lazyfunds",
         "#PowerOilXBBNaija",
-        "#23yrsofGloNigeria",
-        "#eyif2026"
+        "#nsfwtwt\u064b\u064b"
       ],
       "regular_topics": [
         "Wande",
@@ -191,8 +191,8 @@
         "Wike",
         "Ogogo",
         "Blaq",
-        "Morayo",
-        "KC Luxury"
+        "Kai Cenat",
+        "Morayo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
