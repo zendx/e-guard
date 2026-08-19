@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T04:23:48.530031+00:00",
+  "generated_at_utc": "2026-08-19T04:57:41.134262+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,25 +42,25 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 03:32:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 04:24:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DWCS",
         "#RTXPowersPlay",
-        "#WWENXT",
         "Arday",
         "#mcrdc",
         "Brito",
+        "#WWENXT",
         "Fazil",
         "Tim Montgomerie",
         "Russia",
-        "Glasgow",
-        "frank iero"
+        "frank iero",
+        "Glasgow"
       ],
       "hashtags": [
         "#DWCS",
         "#RTXPowersPlay",
-        "#WWENXT",
         "#mcrdc",
+        "#WWENXT",
         "#thechase"
       ],
       "regular_topics": [
@@ -69,51 +69,51 @@
         "Fazil",
         "Tim Montgomerie",
         "Russia",
-        "Glasgow",
         "frank iero",
+        "Glasgow",
         "Dusty Springfield",
-        "Watkins",
         "Wande",
-        "GTA 6"
+        "GTA 6",
+        "Watkins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 03:27:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 04:18:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Keystone XL",
+        "Keystone",
         "PSPP",
         "Taco Tuesday",
         "Waldron",
         "#RTXPowersPlay",
         "Quebec",
-        "#DWCS",
-        "#WWENXT",
         "Natalie",
-        "Soriano",
-        "Ossoff"
+        "#DWCS",
+        "Mariners",
+        "Ossoff",
+        "Trump"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#DWCS",
-        "#WWENXT",
+        "#BINI_SIGNALS_VANCOUVER",
         "#monarch",
         "#AMO2026"
       ],
       "regular_topics": [
-        "Keystone XL",
+        "Keystone",
         "PSPP",
         "Taco Tuesday",
         "Waldron",
         "Quebec",
         "Natalie",
-        "Soriano",
+        "Mariners",
         "Ossoff",
-        "Jays",
         "Trump",
-        "Mariners"
+        "ZZ Top",
+        "Frank Beard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
