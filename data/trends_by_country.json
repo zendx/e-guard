@@ -1,40 +1,42 @@
 {
-  "generated_at_utc": "2026-08-19T01:58:37.719063+00:00",
+  "generated_at_utc": "2026-08-19T02:53:10.403142+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 01:27:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 02:18:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vindman",
         "Florida",
+        "Vindman",
         "#DWCS",
-        "Angie Nixon",
         "#WWENXT",
-        "Brito",
-        "Fishback",
+        "Angie Nixon",
         "Jolly",
-        "Kelsey Mitchell",
-        "Gausman",
-        "Donalds"
+        "Fishback",
+        "Becky",
+        "Donalds",
+        "Brito",
+        "Gausman"
       ],
       "hashtags": [
         "#DWCS",
         "#WWENXT",
-        "#AGT"
+        "#AGT",
+        "#mcrdc",
+        "#BaylenOutLoud"
       ],
       "regular_topics": [
-        "Vindman",
         "Florida",
+        "Vindman",
         "Angie Nixon",
-        "Brito",
-        "Fishback",
         "Jolly",
-        "Kelsey Mitchell",
-        "Gausman",
+        "Fishback",
+        "Becky",
         "Donalds",
-        "Fazil",
-        "Tatis"
+        "Brito",
+        "Gausman",
+        "Stott",
+        "Fedde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -80,115 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 01:42:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 02:33:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DWCS",
         "PSPP",
+        "#DWCS",
         "Waldron",
+        "Alejandro Kirk",
+        "#WWENXT",
+        "#RTXPowersPlay",
         "Jays",
         "Josh Smith",
-        "#RTXPowersPlay",
-        "Alejandro Kirk",
-        "Soriano",
-        "#WWENXT",
         "Quebec",
-        "Natalie"
+        "Natalie",
+        "Soriano"
       ],
       "hashtags": [
         "#DWCS",
-        "#RTXPowersPlay",
         "#WWENXT",
-        "#AMO2026",
-        "#monarch"
+        "#RTXPowersPlay",
+        "#monarch",
+        "#AMO2026"
       ],
       "regular_topics": [
         "PSPP",
         "Waldron",
+        "Alejandro Kirk",
         "Jays",
         "Josh Smith",
-        "Alejandro Kirk",
-        "Soriano",
         "Quebec",
         "Natalie",
-        "Brito",
+        "Soriano",
+        "Ossoff",
         "Trump",
-        "Ossoff"
+        "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 01:39:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 02:30:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WorldHumanitarianDay",
-        "#GodMorningWednesday",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Dera Sacha Sauda",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "Saint Gurmeet Ram Rahim Ji",
+        "#GodMorningWednesday",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "#TrueWorship_EndsSuffering",
         "Sa True Story YtChannel",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
-        "#SeamXVIIIisBack"
+        "#WorldPhotographyDay",
+        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940"
       ],
       "hashtags": [
         "#WorldHumanitarianDay",
         "#GodMorningWednesday",
         "#TrueWorship_EndsSuffering",
-        "#SeamXVIIIisBack",
-        "#VarinderChawla"
+        "#WorldPhotographyDay",
+        "#seamxviiiisback"
       ],
       "regular_topics": [
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Dera Sacha Sauda",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "Saint Gurmeet Ram Rahim Ji",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "Sa True Story YtChannel",
-        "Saint Gurmeet Ram Rahim Ji",
         "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
         "Banni",
-        "kartick satyanarayan",
         "\u0936\u0902\u0915\u0930 \u0926\u092f\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
-        "nhc food pe opportunity"
+        "kartick satyanarayan",
+        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 01:36:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 02:28:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Davido",
-        "Blaq",
-        "Bella",
-        "Odumodu",
-        "Kai Cenat",
+        "Wande",
+        "Jamal Musiala",
         "Wizkid",
-        "$BKN",
-        "Sheggz",
-        "Poco Lee",
-        "Byron Donalds",
-        "Jamal Musiala"
+        "Osun",
+        "MLLE",
+        "Toto",
+        "Wike",
+        "Ogogo",
+        "Blaq",
+        "Morayo",
+        "KC Luxury"
       ],
       "hashtags": [
+        "#sweet16movie",
         "#lazyfunds",
-        "#KoyinSanusi",
-        "#PowerOilXBBNaija"
+        "#PowerOilXBBNaija",
+        "#23yrsofGloNigeria",
+        "#eyif2026"
       ],
       "regular_topics": [
-        "Davido",
-        "Blaq",
-        "Bella",
-        "Odumodu",
-        "Kai Cenat",
+        "Wande",
+        "Jamal Musiala",
         "Wizkid",
-        "$BKN",
-        "Sheggz",
-        "Poco Lee",
-        "Byron Donalds",
-        "Jamal Musiala"
+        "Osun",
+        "MLLE",
+        "Toto",
+        "Wike",
+        "Ogogo",
+        "Blaq",
+        "Morayo",
+        "KC Luxury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
