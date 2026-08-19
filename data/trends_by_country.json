@@ -1,42 +1,40 @@
 {
-  "generated_at_utc": "2026-08-19T17:45:56.294232+00:00",
+  "generated_at_utc": "2026-08-19T18:14:31.978161+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 16:51:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:42:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$MRNA",
         "Heat 2",
         "CHICKEN SALAD",
-        "Nneka",
+        "$MRNA",
         "Jayden Higgins",
+        "Leap",
+        "Nneka",
         "AJ Brown",
         "#TrinityxVerizon",
+        "Moderna",
         "Pat McAfee",
-        "Leap",
-        "Konsa",
         "Treasury"
       ],
       "hashtags": [
         "#TrinityxVerizon",
         "#MoonshadowSeriesEP2",
-        "#WishJASPERmv",
-        "#LaSayonaNocaut",
-        "#WorldPhotographyDay"
+        "#RestoreACATaxCredits"
       ],
       "regular_topics": [
-        "$MRNA",
         "Heat 2",
         "CHICKEN SALAD",
-        "Nneka",
+        "$MRNA",
         "Jayden Higgins",
-        "AJ Brown",
-        "Pat McAfee",
         "Leap",
-        "Konsa",
+        "Nneka",
+        "AJ Brown",
+        "Moderna",
+        "Pat McAfee",
         "Treasury",
-        "Faalele"
+        "Demon Hunter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,38 +119,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 17:06:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "FUKRA MADE TRAITORS ICONIC",
         "#JapanTrustsYogi",
         "#INDvsPAK",
-        "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
-        "#GodNightWednesday",
         "#Always_With_ENHYPEN_7",
         "BELIFT CEASE THE IGNORANCE",
-        "Pakistan",
-        "Army",
+        "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
+        "#GodNightWednesday",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
         "Lautaro",
-        "Ollie Robinson",
-        "Josh Tongue"
+        "Pakistan",
+        "Army"
       ],
       "hashtags": [
         "#JapanTrustsYogi",
         "#INDvsPAK",
+        "#Always_With_ENHYPEN_7",
         "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
-        "#GodNightWednesday",
-        "#Always_With_ENHYPEN_7"
+        "#GodNightWednesday"
       ],
       "regular_topics": [
+        "FUKRA MADE TRAITORS ICONIC",
         "BELIFT CEASE THE IGNORANCE",
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
+        "Lautaro",
         "Pakistan",
         "Army",
-        "Lautaro",
+        "\u0939\u0949\u0915\u0940 \u0935\u0930\u094d\u0932\u094d\u0921",
+        "Sergio Gor",
         "Ollie Robinson",
         "Josh Tongue",
-        "Ornith-1.5",
-        "Sergio Gor",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
-        "\u0939\u0949\u0915\u0940 \u0935\u0930\u094d\u0932\u094d\u0921",
         "JASPER TELL ME YOUR WISH"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,38 +158,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 17:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 17:54:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Joao Pedro",
-        "Konsa",
-        "Saliba",
         "#ProphetJeremiahFufeyin",
+        "Konsa",
+        "#OruMbahNaEgosi",
         "#GloNeverSettle4Less",
-        "Baleba",
-        "Mosquera",
-        "#OsunUnityOverDivision",
+        "Saliba",
+        "No 9",
         "#67MAXXING",
-        "Blaq",
-        "No 9"
+        "Mosquera",
+        "Lautaro",
+        "Baleba"
       ],
       "hashtags": [
         "#ProphetJeremiahFufeyin",
+        "#OruMbahNaEgosi",
         "#GloNeverSettle4Less",
-        "#OsunUnityOverDivision",
         "#67MAXXING",
-        "#OruMbahNaEgosi"
+        "#SultanaXGlo"
       ],
       "regular_topics": [
         "Joao Pedro",
         "Konsa",
         "Saliba",
-        "Baleba",
-        "Mosquera",
-        "Blaq",
         "No 9",
+        "Mosquera",
         "Lautaro",
-        "Odumodu",
-        "Certificate of Return",
+        "Baleba",
+        "Blaq",
+        "Marmoush",
+        "Tammy Abraham",
         "Number 9"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
