@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-08-19T16:52:08.547721+00:00",
+  "generated_at_utc": "2026-08-19T17:14:41.156502+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 16:00:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 16:51:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$MRNA",
-        "Pat McAfee",
+        "Heat 2",
+        "CHICKEN SALAD",
         "Nneka",
-        "#trinityxverizon",
-        "Konsa",
+        "Jayden Higgins",
+        "AJ Brown",
+        "#TrinityxVerizon",
+        "Pat McAfee",
         "Leap",
-        "Vindman",
-        "Harbaugh",
-        "Good Wednesday",
-        "Saliba",
+        "Konsa",
         "Treasury"
       ],
       "hashtags": [
-        "#trinityxverizon",
+        "#TrinityxVerizon",
         "#MoonshadowSeriesEP2",
         "#WishJASPERmv",
         "#LaSayonaNocaut",
@@ -27,16 +27,16 @@
       ],
       "regular_topics": [
         "$MRNA",
-        "Pat McAfee",
+        "Heat 2",
+        "CHICKEN SALAD",
         "Nneka",
-        "Konsa",
+        "Jayden Higgins",
+        "AJ Brown",
+        "Pat McAfee",
         "Leap",
-        "Vindman",
-        "Harbaugh",
-        "Good Wednesday",
-        "Saliba",
+        "Konsa",
         "Treasury",
-        "Mosquera"
+        "Faalele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
