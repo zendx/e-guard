@@ -1,57 +1,59 @@
 {
-  "generated_at_utc": "2026-08-19T18:14:31.978161+00:00",
+  "generated_at_utc": "2026-08-19T18:58:28.041782+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 17:42:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 18:36:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Heat 2",
+        "Paul Skenes",
         "CHICKEN SALAD",
         "$MRNA",
         "Jayden Higgins",
         "Leap",
+        "Moderna",
+        "Michael Mann",
         "Nneka",
         "AJ Brown",
-        "#TrinityxVerizon",
-        "Moderna",
-        "Pat McAfee",
-        "Treasury"
+        "Trevon Diggs"
       ],
       "hashtags": [
         "#TrinityxVerizon",
+        "#RestoreACATaxCredits",
         "#MoonshadowSeriesEP2",
-        "#RestoreACATaxCredits"
+        "#RTXPowerPlays",
+        "#LaSayonaNocaut"
       ],
       "regular_topics": [
         "Heat 2",
+        "Paul Skenes",
         "CHICKEN SALAD",
         "$MRNA",
         "Jayden Higgins",
         "Leap",
+        "Moderna",
+        "Michael Mann",
         "Nneka",
         "AJ Brown",
-        "Moderna",
-        "Pat McAfee",
-        "Treasury",
-        "Demon Hunter"
+        "Trevon Diggs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 17:18:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 18:09:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Konsa",
         "Marmoush",
-        "Saliba",
+        "Konsa",
         "Villa",
+        "Saliba",
         "Mosquera",
-        "Baleba",
         "Jones",
         "Duckett",
         "Tosin",
+        "Baleba",
         "Nyoni",
         "#avfc"
       ],
@@ -60,44 +62,44 @@
         "#ENGvPAK",
         "#loveisblinduk",
         "#WorldPhotographyDay",
-        "#thechase"
+        "#magiceye"
       ],
       "regular_topics": [
-        "Konsa",
         "Marmoush",
-        "Saliba",
+        "Konsa",
         "Villa",
+        "Saliba",
         "Mosquera",
-        "Baleba",
         "Jones",
         "Duckett",
         "Tosin",
+        "Baleba",
         "Nyoni",
-        "The Dancing Pirate"
+        "Hind Rajab"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 17:12:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 18:03:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone",
         "PSPP",
         "Carney",
         "Taco Tuesday",
         "#RTXPowersPlay",
-        "Baleba",
         "Quebec",
+        "Baleba",
         "Konsa",
-        "Saliba",
-        "Hedman",
-        "$MRNA"
+        "Spurs",
+        "Loblaws",
+        "Ossoff"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#WorldPhotographyDay",
         "#BINI_SIGNALS_VANCOUVER",
+        "#WorldPhotographyDay",
         "#DWCS",
         "#TrinityxVerizon"
       ],
@@ -106,13 +108,13 @@
         "PSPP",
         "Carney",
         "Taco Tuesday",
-        "Baleba",
         "Quebec",
+        "Baleba",
         "Konsa",
-        "Saliba",
-        "Hedman",
-        "$MRNA",
-        "Ossoff"
+        "Spurs",
+        "Loblaws",
+        "Ossoff",
+        "GTA 6"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -158,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 17:54:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 18:46:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Hamza",
         "Joao Pedro",
-        "#ProphetJeremiahFufeyin",
-        "Konsa",
-        "#OruMbahNaEgosi",
+        "Tottenham",
         "#GloNeverSettle4Less",
-        "Saliba",
+        "#ProphetJeremiahFufeyin",
+        "#OruMbahNaEgosi",
+        "Konsa",
         "No 9",
-        "#67MAXXING",
-        "Mosquera",
-        "Lautaro",
-        "Baleba"
+        "NELFUND",
+        "#ColgateXBBNaija",
+        "#67MAXXING"
       ],
       "hashtags": [
+        "#GloNeverSettle4Less",
         "#ProphetJeremiahFufeyin",
         "#OruMbahNaEgosi",
-        "#GloNeverSettle4Less",
-        "#67MAXXING",
-        "#SultanaXGlo"
+        "#ColgateXBBNaija",
+        "#67MAXXING"
       ],
       "regular_topics": [
+        "Hamza",
         "Joao Pedro",
+        "Tottenham",
         "Konsa",
-        "Saliba",
         "No 9",
-        "Mosquera",
-        "Lautaro",
-        "Baleba",
-        "Blaq",
+        "NELFUND",
         "Marmoush",
-        "Tammy Abraham",
-        "Number 9"
+        "Lautaro",
+        "Savinho",
+        "Saliba",
+        "Tammy Abraham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
