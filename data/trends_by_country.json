@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-19T15:52:54.039909+00:00",
+  "generated_at_utc": "2026-08-19T16:15:51.595147+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 15:08:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 16:00:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "$MRNA",
+        "Pat McAfee",
+        "Nneka",
+        "#trinityxverizon",
         "Konsa",
-        "Good Wednesday",
-        "Vindman",
         "Leap",
-        "Baleba",
-        "Hump Day",
-        "Saliba",
+        "Vindman",
         "Harbaugh",
-        "McAfee",
-        "Phase 3"
+        "Good Wednesday",
+        "Saliba",
+        "Treasury"
       ],
       "hashtags": [
-        "#WishJASPERmv",
-        "#WorldPhotographyDay",
-        "#WednesdayMotivation",
+        "#trinityxverizon",
         "#MoonshadowSeriesEP2",
-        "#NationalAviationDay"
+        "#WishJASPERmv",
+        "#LaSayonaNocaut",
+        "#WorldPhotographyDay"
       ],
       "regular_topics": [
         "$MRNA",
+        "Pat McAfee",
+        "Nneka",
         "Konsa",
-        "Good Wednesday",
-        "Vindman",
         "Leap",
-        "Baleba",
-        "Hump Day",
-        "Saliba",
+        "Vindman",
         "Harbaugh",
-        "McAfee",
-        "Phase 3"
+        "Good Wednesday",
+        "Saliba",
+        "Treasury",
+        "Mosquera"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
