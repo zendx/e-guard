@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T20:49:51.322030+00:00",
+  "generated_at_utc": "2026-08-19T21:13:33.920831+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,57 +43,57 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 19:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 20:44:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Marmoush",
         "Duran",
-        "Nygren",
-        "Konsa",
+        "Marmoush",
         "Colby Donovan",
+        "Nygren",
         "#loveisblinduk",
         "Home Office",
-        "Hamza",
+        "Konsa",
         "Villa",
+        "LASK",
         "Hind Rajab",
-        "Kone"
+        "Hamza"
       ],
       "hashtags": [
         "#loveisblinduk",
-        "#ENGvPAK",
+        "#CelebrityMasterChef",
         "#WorldPhotographyDay",
-        "#magiceye"
+        "#ENGvPAK"
       ],
       "regular_topics": [
-        "Marmoush",
         "Duran",
-        "Nygren",
-        "Konsa",
+        "Marmoush",
         "Colby Donovan",
+        "Nygren",
         "Home Office",
-        "Hamza",
+        "Konsa",
         "Villa",
+        "LASK",
         "Hind Rajab",
-        "Kone",
-        "LASK"
+        "Hamza",
+        "Trabzonspor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 19:45:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 20:36:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone",
         "Carney",
         "PSPP",
-        "Taco Tuesday",
         "Quebec",
-        "#RTXPowersPlay",
+        "Taco Tuesday",
         "Baleba",
+        "#RTXPowersPlay",
         "Konsa",
+        "$MRNA",
         "Heat 2",
-        "Loblaws",
-        "$MRNA"
+        "GTA 6"
       ],
       "hashtags": [
         "#RTXPowersPlay",
@@ -105,39 +105,39 @@
         "Keystone",
         "Carney",
         "PSPP",
-        "Taco Tuesday",
         "Quebec",
+        "Taco Tuesday",
         "Baleba",
         "Konsa",
-        "Heat 2",
-        "Loblaws",
         "$MRNA",
-        "GTA 6"
+        "Heat 2",
+        "GTA 6",
+        "Loblaws"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 19:40:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 20:32:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "FUKRA MADE TRAITORS ICONIC",
-        "#INDvsPAK",
         "Hamza",
-        "#JapanTrustsYogi",
+        "#INDvsPAK",
+        "#cortisdisband",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
+        "#JapanTrustsYogi",
         "#Always_With_ENHYPEN_7",
         "BELIFT CEASE THE IGNORANCE",
-        "#cortisdisband",
+        "Hyperliquid",
         "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP",
-        "Lautaro",
-        "Pakistan"
+        "Lautaro"
       ],
       "hashtags": [
         "#INDvsPAK",
+        "#cortisdisband",
         "#JapanTrustsYogi",
         "#Always_With_ENHYPEN_7",
-        "#cortisdisband",
         "#\u0936\u093f\u0915\u094d\u0937\u093e\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a_UP"
       ],
       "regular_topics": [
@@ -145,13 +145,13 @@
         "Hamza",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0949\u0915\u0940 \u091f\u0940\u092e",
         "BELIFT CEASE THE IGNORANCE",
+        "Hyperliquid",
         "Lautaro",
-        "Pakistan",
         "Army",
+        "Pakistan",
+        "Jains",
         "\u0939\u0949\u0915\u0940 \u0935\u0930\u094d\u0932\u094d\u0921",
-        "Kounde",
-        "\u0936\u093e\u0928\u0926\u093e\u0930 \u0916\u0947\u0932",
-        "mRNA"
+        "Heat 2"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
