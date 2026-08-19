@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-19T22:46:20.352693+00:00",
+  "generated_at_utc": "2026-08-19T23:11:07.058064+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 22:03:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 22:54:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#OlandriaxCharlotteTilbury",
+        "Mickey Gasper",
         "Chauvin",
-        "Greg Weissert",
-        "Heat 2",
-        "Azzi",
-        "Urquidy",
+        "#OlandriaxCharlotteTilbury",
+        "$40 Trillion",
+        "Prince Harry",
         "Rory",
-        "Yair",
-        "$MRNA",
-        "#LLWS",
-        "$40 Trillion"
+        "Weissert",
+        "Azzi",
+        "Heat 2",
+        "Tommy Paul",
+        "Yair"
       ],
       "hashtags": [
         "#OlandriaxCharlotteTilbury",
         "#LLWS",
         "#Jeudy",
         "#Scott",
-        "#NationalAviationDay"
+        "#Higgins"
       ],
       "regular_topics": [
+        "Mickey Gasper",
         "Chauvin",
-        "Greg Weissert",
-        "Heat 2",
-        "Azzi",
-        "Urquidy",
-        "Rory",
-        "Yair",
-        "$MRNA",
         "$40 Trillion",
-        "CHICKEN SALAD",
-        "Moderna"
+        "Prince Harry",
+        "Rory",
+        "Weissert",
+        "Azzi",
+        "Heat 2",
+        "Tommy Paul",
+        "Yair",
+        "Zverev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
