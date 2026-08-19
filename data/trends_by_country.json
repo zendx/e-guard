@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T23:11:07.058064+00:00",
+  "generated_at_utc": "2026-08-19T23:42:24.868388+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,81 +43,84 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 22:27:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:19:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Meghan",
         "Duran",
         "Donovan",
         "Marmoush",
-        "Nygren",
         "Baur",
         "Spurs",
-        "Prince Harry",
+        "Nygren",
         "#loveisblinduk",
+        "William and Catherine",
         "Home Office",
-        "Sinisalo"
+        "LASK"
       ],
       "hashtags": [
         "#loveisblinduk",
+        "#Newsnight",
         "#celebritymasterchef",
-        "#CelticFC"
+        "#CelticFC",
+        "#WorldPhotographyDay"
       ],
       "regular_topics": [
         "Meghan",
         "Duran",
         "Donovan",
         "Marmoush",
-        "Nygren",
         "Baur",
         "Spurs",
-        "Prince Harry",
+        "Nygren",
+        "William and Catherine",
         "Home Office",
-        "Sinisalo",
-        "Bruiser"
+        "LASK",
+        "Montecito"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 22:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:12:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone",
         "Carney",
+        "Kory",
         "PSPP",
         "Quebec",
+        "Meghan",
         "Taco Tuesday",
-        "Kory",
         "Baleba",
+        "Jesus Sanchez",
         "#RTXPowersPlay",
-        "Konsa",
-        "$MRNA",
-        "GTA 6"
+        "Konsa"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#BINI_SIGNALS_VANCOUVER",
-        "#WorldPhotographyDay"
+        "#WorldPhotographyDay",
+        "#OlandriaxCharlotteTilbury"
       ],
       "regular_topics": [
         "Keystone",
         "Carney",
+        "Kory",
         "PSPP",
         "Quebec",
+        "Meghan",
         "Taco Tuesday",
-        "Kory",
         "Baleba",
+        "Jesus Sanchez",
         "Konsa",
-        "$MRNA",
-        "GTA 6",
-        "Heat 2"
+        "$MRNA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 22:16:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:08:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "banni",
         "#WorldPhotographyDay",
@@ -145,8 +148,8 @@
         "kartick satyanarayan",
         "bhudevi infra projects",
         "nhc food pe infocus",
-        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
         "PM CARES",
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
         "Sergio Gor",
         "Sa True Story YtChannel",
         "FUKRA MADE TRAITORS ICONIC"
@@ -156,39 +159,36 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 22:16:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:07:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kang-in Lee",
+        "NELFUND",
         "Hamza",
         "Joao Pedro",
-        "Alex Baena",
         "Atletico Madrid",
-        "NELFUND",
-        "#ColgateXBBNaija",
+        "Alex Baena",
+        "Okocha",
         "Tottenham",
-        "Lookman",
+        "NSNV",
         "$HYPE",
-        "Okocha"
+        "#ColgateXBBNaija"
       ],
       "hashtags": [
         "#ColgateXBBNaija",
-        "#GloNeverSettle4Less",
-        "#67MAXXING",
-        "#SultanaXGlo",
-        "#SultanaAuduson"
+        "#67MAXXING"
       ],
       "regular_topics": [
         "Kang-in Lee",
+        "NELFUND",
         "Hamza",
         "Joao Pedro",
-        "Alex Baena",
         "Atletico Madrid",
-        "NELFUND",
-        "Tottenham",
-        "Lookman",
-        "$HYPE",
+        "Alex Baena",
         "Okocha",
-        "Al Ahly"
+        "Tottenham",
+        "NSNV",
+        "$HYPE",
+        "Malaga"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
