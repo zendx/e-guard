@@ -1,177 +1,178 @@
 {
-  "generated_at_utc": "2026-08-19T14:02:26.106743+00:00",
+  "generated_at_utc": "2026-08-19T14:57:46.000152+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 13:24:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 14:16:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$MRNA",
         "Good Wednesday",
         "Baleba",
-        "$MRNA",
         "Hump Day",
-        "Vindman",
-        "Happy Hump",
-        "Phase 3",
+        "Moderna",
         "Konsa",
-        "#WishJASPERmv",
-        "#LaSayonaNocaut",
-        "JASPER TELL ME YOUR WISH"
+        "Vindman",
+        "McAfee",
+        "Phase 3",
+        "Saliba",
+        "Harbaugh"
       ],
       "hashtags": [
         "#WishJASPERmv",
-        "#LaSayonaNocaut",
         "#WednesdayMotivation",
         "#WorldPhotographyDay",
+        "#LaSayonaNocaut",
         "#WednesdayVibes"
       ],
       "regular_topics": [
+        "$MRNA",
         "Good Wednesday",
         "Baleba",
-        "$MRNA",
         "Hump Day",
-        "Vindman",
-        "Happy Hump",
-        "Phase 3",
+        "Moderna",
         "Konsa",
-        "JASPER TELL ME YOUR WISH",
+        "Vindman",
+        "McAfee",
+        "Phase 3",
         "Saliba",
-        "Nick Kyrgios"
+        "Harbaugh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 13:52:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 14:43:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Baleba",
         "Konsa",
+        "Baleba",
         "Saliba",
         "Mosquera",
+        "Maltese Cross",
         "Curtis Jones",
         "Nyoni",
-        "Tielemans",
-        "#avfc",
         "Villa",
-        "Emery",
-        "Brighton"
+        "#avfc",
+        "Berta",
+        "Tielemans"
       ],
       "hashtags": [
         "#avfc",
         "#WishJASPERmv",
         "#ENGvPAK",
-        "#ITV7EborFestivalNap",
-        "#loveisblinduk"
+        "#loveisblinduk",
+        "#aplaceinthesun"
       ],
       "regular_topics": [
-        "Baleba",
         "Konsa",
+        "Baleba",
         "Saliba",
         "Mosquera",
+        "Maltese Cross",
         "Curtis Jones",
         "Nyoni",
-        "Tielemans",
         "Villa",
-        "Emery",
-        "Brighton",
-        "Lewis Hall"
+        "Berta",
+        "Tielemans",
+        "Emery"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 13:44:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 14:36:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "PSPP",
         "Keystone",
-        "Taco Tuesday",
+        "PSPP",
         "Konsa",
+        "Taco Tuesday",
         "Baleba",
         "Wilmac",
+        "Mosquera",
+        "Saliba",
         "#RTXPowersPlay",
-        "Good Wednesday",
-        "Quebec",
-        "$MRNA",
-        "Cyrus"
+        "Cyrus",
+        "Quebec"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#DWCS",
         "#BINI_SIGNALS_VANCOUVER",
-        "#monarch"
+        "#monarch",
+        "#WishJASPERmv"
       ],
       "regular_topics": [
-        "PSPP",
         "Keystone",
-        "Taco Tuesday",
+        "PSPP",
         "Konsa",
+        "Taco Tuesday",
         "Baleba",
         "Wilmac",
-        "Good Wednesday",
-        "Quebec",
-        "$MRNA",
+        "Mosquera",
+        "Saliba",
         "Cyrus",
-        "Trump"
+        "Quebec",
+        "$MRNA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 13:40:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 14:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#MagnovaPLFbyUFO",
         "#January12Vidudala",
-        "#AnantHelpsIqbal",
         "#AlaBolelo",
-        "#WishJASPERmv",
-        "Anant Ambani",
+        "#Vantara",
+        "#AnantHelpsIqbal",
         "Banni",
-        "SANKRANTHI",
+        "Anant Ambani",
         "Sergio Gor",
+        "SANKRANTHI",
         "NH-22",
         "Baleba"
       ],
       "hashtags": [
         "#MagnovaPLFbyUFO",
         "#January12Vidudala",
-        "#AnantHelpsIqbal",
         "#AlaBolelo",
-        "#WishJASPERmv"
+        "#Vantara",
+        "#AnantHelpsIqbal"
       ],
       "regular_topics": [
-        "Anant Ambani",
         "Banni",
-        "SANKRANTHI",
+        "Anant Ambani",
         "Sergio Gor",
+        "SANKRANTHI",
         "NH-22",
         "Baleba",
+        "Konsa",
+        "\u0938\u094b\u0928\u092c\u0930\u0938\u093e \u0916\u0902\u0921",
+        "\u092e\u0939\u0941\u0906 \u092e\u094b\u0907\u0924\u094d\u0930\u093e",
         "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
-        "Dolby Atmos",
-        "\u0938\u0930\u094d\u091c\u093f\u092f\u094b \u0917\u094b\u0930",
-        "Anil Ravipudi",
-        "\u0938\u094b\u0928\u092c\u0930\u0938\u093e \u0916\u0902\u0921"
+        "\u0938\u0930\u094d\u091c\u093f\u092f\u094b \u0917\u094b\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 13:40:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 14:31:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Baleba",
         "Konsa",
-        "Brighton",
-        "Blaq",
+        "Baleba",
         "Saliba",
-        "Poco Lee",
         "Mosquera",
+        "Blaq",
+        "Brighton",
         "Odumodu",
-        "#67MAXXING",
         "Curtis Jones",
-        "Reggie Walsh"
+        "#67MAXXING",
+        "Poco Lee",
+        "Welcome to Arsenal"
       ],
       "hashtags": [
         "#67MAXXING",
@@ -179,17 +180,17 @@
         "#ActForHumanity"
       ],
       "regular_topics": [
-        "Baleba",
         "Konsa",
-        "Brighton",
-        "Blaq",
+        "Baleba",
         "Saliba",
-        "Poco Lee",
         "Mosquera",
+        "Blaq",
+        "Brighton",
         "Odumodu",
         "Curtis Jones",
-        "Reggie Walsh",
-        "Lewis Hall"
+        "Poco Lee",
+        "Welcome to Arsenal",
+        "Certificate of Return"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
