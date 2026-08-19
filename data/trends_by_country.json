@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-19T07:11:28.256789+00:00",
+  "generated_at_utc": "2026-08-19T07:58:17.891068+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 06:33:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:24:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Florida",
         "Vindman",
         "Mariners",
         "Bregman",
-        "Jolly",
         "Angie Nixon",
+        "Jolly",
         "Cubs",
-        "Fishback",
         "#mcrdc",
-        "Donalds",
-        "Dan Wilson"
+        "Fishback",
+        "#Curb",
+        "#Tatis"
       ],
       "hashtags": [
         "#mcrdc",
-        "#WWENXT",
-        "#Cory",
-        "#FlyTheW",
-        "#DWCS"
+        "#Curb",
+        "#Tatis",
+        "#Mabrey",
+        "#Cory"
       ],
       "regular_topics": [
         "Florida",
         "Vindman",
         "Mariners",
         "Bregman",
-        "Jolly",
         "Angie Nixon",
+        "Jolly",
         "Cubs",
         "Fishback",
+        "Sasuke",
         "Donalds",
-        "Dan Wilson",
-        "Grant Taylor"
+        "Dan Wilson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,14 +82,14 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 06:51:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:42:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
-        "Keystone XL",
+        "Keystone",
         "Taco Tuesday",
         "#RTXPowersPlay",
-        "Quebec",
         "Natalie",
+        "Quebec",
         "#DWCS",
         "Ossoff",
         "Trump",
@@ -100,15 +100,15 @@
         "#RTXPowersPlay",
         "#DWCS",
         "#monarch",
-        "#BINI_SIGNALS_VANCOUVER",
-        "#AMO2026"
+        "#BINI_SIGNALS_WORLDTOUR_2026",
+        "#monthlymillionaire"
       ],
       "regular_topics": [
         "PSPP",
-        "Keystone XL",
+        "Keystone",
         "Taco Tuesday",
-        "Quebec",
         "Natalie",
+        "Quebec",
         "Ossoff",
         "Trump",
         "Waldron",
@@ -121,74 +121,72 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 06:48:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:39:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BHUDEVI_INFRA_STOCK_NEWS",
+        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
         "#NewAiMultibagger",
+        "#BHUDEVI_INFRA_STOCK_NEWS",
         "#VandeMataram150",
         "Real Estate Expansion",
         "#WorldPhotographyDay",
         "Bhudevi Infra Projects",
-        "#AiStockInLimelight",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "NHC FOOD PE InFocus",
         "Bhudevi Aurum Phase-1",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940"
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
+        "200 Cr"
       ],
       "hashtags": [
-        "#BHUDEVI_INFRA_STOCK_NEWS",
+        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
         "#NewAiMultibagger",
+        "#BHUDEVI_INFRA_STOCK_NEWS",
         "#VandeMataram150",
-        "#WorldPhotographyDay",
-        "#AiStockInLimelight"
+        "#WorldPhotographyDay"
       ],
       "regular_topics": [
         "Real Estate Expansion",
         "Bhudevi Infra Projects",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "NHC FOOD PE InFocus",
         "Bhudevi Aurum Phase-1",
         "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "\u0906\u091c\u092e \u0916\u093e\u0928",
         "200 Cr",
+        "\u0906\u091c\u092e \u0916\u093e\u0928",
         "Himayat Nagar",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "Q1 FY27 PAT"
+        "Dickwella",
+        "\u0907\u092e\u0930\u093e\u0928 \u092e\u0938\u0942\u0926",
+        "TGPA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 06:45:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:37:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
+        "Poco Lee",
         "Amen",
         "Jamal Musiala",
+        "Blaq",
+        "GM CT",
         "Wizkid",
-        "Poco Lee",
         "Kai Cenat",
         "$1.57 MILLION",
-        "GM CT",
         "Wike",
-        "Blaq",
-        "MLLE"
+        "KC Luxury"
       ],
-      "hashtags": [
-        "#sweet16movie"
-      ],
+      "hashtags": [],
       "regular_topics": [
         "Wande",
+        "Poco Lee",
         "Amen",
         "Jamal Musiala",
+        "Blaq",
+        "GM CT",
         "Wizkid",
-        "Poco Lee",
         "Kai Cenat",
         "$1.57 MILLION",
-        "GM CT",
         "Wike",
-        "Blaq",
-        "MLLE"
+        "KC Luxury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
