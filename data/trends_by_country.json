@@ -1,81 +1,87 @@
 {
-  "generated_at_utc": "2026-08-19T07:58:17.891068+00:00",
+  "generated_at_utc": "2026-08-19T08:30:37.533577+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 07:24:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 08:16:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Florida",
-        "Vindman",
+        "#Mabrey",
+        "#Lillian",
+        "#Keystone",
+        "#Bregman",
+        "#Berkeley",
         "Mariners",
-        "Bregman",
+        "Hobert",
         "Angie Nixon",
-        "Jolly",
         "Cubs",
-        "#mcrdc",
-        "Fishback",
-        "#Curb",
-        "#Tatis"
+        "Jolly",
+        "Fishback"
       ],
       "hashtags": [
-        "#mcrdc",
-        "#Curb",
-        "#Tatis",
         "#Mabrey",
-        "#Cory"
+        "#Lillian",
+        "#Keystone",
+        "#Bregman",
+        "#Berkeley",
+        "#Newcomb",
+        "#Vindman",
+        "#Becky",
+        "#Bilzerian",
+        "#mcrdc",
+        "#Yahir"
       ],
       "regular_topics": [
-        "Florida",
-        "Vindman",
         "Mariners",
-        "Bregman",
+        "Hobert",
         "Angie Nixon",
-        "Jolly",
         "Cubs",
+        "Jolly",
         "Fishback",
-        "Sasuke",
         "Donalds",
-        "Dan Wilson"
+        "Dan Wilson",
+        "Paterno",
+        "Moody",
+        "Richards"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 07:00:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 07:51:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Hues",
         "#RoseWednesday",
         "Gene Pitney",
         "#RTXPowersPlay",
         "Arday",
-        "#WallsOnWednesday",
-        "#WindowsOnWednesday",
+        "#WorldPhotographyDay",
         "#bbcbreakfast",
+        "2.9% in July",
         "Russia",
         "Tim Montgomerie",
-        "Glasgow",
-        "Dusty Springfield"
+        "ULEZ"
       ],
       "hashtags": [
+        "#Hues",
         "#RoseWednesday",
         "#RTXPowersPlay",
-        "#WallsOnWednesday",
-        "#WindowsOnWednesday",
+        "#WorldPhotographyDay",
         "#bbcbreakfast"
       ],
       "regular_topics": [
         "Gene Pitney",
         "Arday",
+        "2.9% in July",
         "Russia",
         "Tim Montgomerie",
-        "Glasgow",
-        "Dusty Springfield",
-        "Watkins",
-        "ADHD",
         "ULEZ",
-        "Wande",
-        "GTA 6"
+        "Glasgow",
+        "ADHD",
+        "Watkins",
+        "Blaq",
+        "Wande"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
