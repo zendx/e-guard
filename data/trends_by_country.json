@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T08:30:37.533577+00:00",
+  "generated_at_utc": "2026-08-19T09:19:45.973944+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -49,50 +49,50 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 07:51:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 08:42:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Hues",
-        "#RoseWednesday",
         "Gene Pitney",
-        "#RTXPowersPlay",
-        "Arday",
         "#WorldPhotographyDay",
-        "#bbcbreakfast",
-        "2.9% in July",
+        "Arday",
+        "#RTXPowersPlay",
+        "#RoseWednesday",
+        "ULEZ",
+        "#ASongOrMovieForBeingStylish",
         "Russia",
-        "Tim Montgomerie",
-        "ULEZ"
+        "Manchester",
+        "Matteo Ruggeri"
       ],
       "hashtags": [
         "#Hues",
-        "#RoseWednesday",
-        "#RTXPowersPlay",
         "#WorldPhotographyDay",
-        "#bbcbreakfast"
+        "#RTXPowersPlay",
+        "#RoseWednesday",
+        "#ASongOrMovieForBeingStylish"
       ],
       "regular_topics": [
         "Gene Pitney",
         "Arday",
-        "2.9% in July",
-        "Russia",
-        "Tim Montgomerie",
         "ULEZ",
+        "Russia",
+        "Manchester",
+        "Matteo Ruggeri",
+        "2.9% in July",
         "Glasgow",
+        "Tim Montgomerie",
         "ADHD",
-        "Watkins",
-        "Blaq",
-        "Wande"
+        "Watkins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 07:42:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 08:33:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "PSPP",
-        "Keystone",
         "Taco Tuesday",
+        "Keystone XL",
         "#RTXPowersPlay",
         "Natalie",
         "Quebec",
@@ -105,14 +105,14 @@
       "hashtags": [
         "#RTXPowersPlay",
         "#DWCS",
+        "#BINI_SIGNALS_VANCOUVER",
         "#monarch",
-        "#BINI_SIGNALS_WORLDTOUR_2026",
         "#monthlymillionaire"
       ],
       "regular_topics": [
         "PSPP",
-        "Keystone",
         "Taco Tuesday",
+        "Keystone XL",
         "Natalie",
         "Quebec",
         "Ossoff",
@@ -127,72 +127,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 07:39:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 08:30:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
+        "#GATECH_NEAR_52W_BREAKOUT",
         "#NewAiMultibagger",
-        "#BHUDEVI_INFRA_STOCK_NEWS",
-        "#VandeMataram150",
+        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
+        "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
+        "Manav Suthar",
         "Real Estate Expansion",
-        "#WorldPhotographyDay",
-        "Bhudevi Infra Projects",
+        "#BHUDEVI_INFRA_STOCK_NEWS",
+        "GACM TECH",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
-        "Bhudevi Aurum Phase-1",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "200 Cr"
+        "Bhudevi Infra Projects",
+        "Bhudevi Aurum Phase-1"
       ],
       "hashtags": [
-        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
+        "#GATECH_NEAR_52W_BREAKOUT",
         "#NewAiMultibagger",
-        "#BHUDEVI_INFRA_STOCK_NEWS",
-        "#VandeMataram150",
-        "#WorldPhotographyDay"
+        "#\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940_\u0938\u0939\u092f\u094b\u0917_\u092a\u094b\u0930\u094d\u091f\u0932",
+        "#MP_\u0915\u093e_\u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928_\u0909\u092a\u0939\u093e\u0930",
+        "#BHUDEVI_INFRA_STOCK_NEWS"
       ],
       "regular_topics": [
+        "Manav Suthar",
         "Real Estate Expansion",
-        "Bhudevi Infra Projects",
+        "GACM TECH",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
+        "Bhudevi Infra Projects",
         "Bhudevi Aurum Phase-1",
+        "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
         "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
+        "$GATECH",
         "200 Cr",
-        "\u0906\u091c\u092e \u0916\u093e\u0928",
-        "Himayat Nagar",
-        "Dickwella",
-        "\u0907\u092e\u0930\u093e\u0928 \u092e\u0938\u0942\u0926",
-        "TGPA"
+        "\u0906\u091c\u092e \u0916\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 07:37:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 08:28:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Wande",
         "Poco Lee",
-        "Amen",
-        "Jamal Musiala",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Odumodu",
         "Blaq",
-        "GM CT",
-        "Wizkid",
+        "Bella",
         "Kai Cenat",
         "$1.57 MILLION",
-        "Wike",
-        "KC Luxury"
+        "#NSPPD",
+        "The PL",
+        "Ang\u00e9lique Kidjo",
+        "Jos\u00e9 Mourinho"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#NSPPD",
+        "#KoyinSanusi",
+        "#PowerOilxBBNaija"
+      ],
       "regular_topics": [
-        "Wande",
         "Poco Lee",
-        "Amen",
-        "Jamal Musiala",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Odumodu",
         "Blaq",
-        "GM CT",
-        "Wizkid",
+        "Bella",
         "Kai Cenat",
         "$1.57 MILLION",
-        "Wike",
-        "KC Luxury"
+        "The PL",
+        "Ang\u00e9lique Kidjo",
+        "Jos\u00e9 Mourinho",
+        "Hollywood Walk of Fame"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
