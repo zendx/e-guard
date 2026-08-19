@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-19T05:52:00.111119+00:00",
+  "generated_at_utc": "2026-08-19T06:21:02.369417+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 04:51:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 05:42:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Florida",
         "Vindman",
@@ -14,15 +14,15 @@
         "Jolly",
         "Angie Nixon",
         "Fishback",
-        "#WWENXT",
+        "#mcrdc",
         "Donalds",
-        "Dan Wilson"
+        "#WWENXT"
       ],
       "hashtags": [
+        "#mcrdc",
         "#WWENXT",
         "#DWCS",
-        "#mcrdc",
-        "#WhiteSox",
+        "#Cory",
         "#FlyTheW"
       ],
       "regular_topics": [
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 05:16:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:08:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#RTXPowersPlay",
         "Arday",
-        "#mcrdc",
         "#WWENXT",
-        "Tim Montgomerie",
-        "Russia",
-        "Glasgow",
-        "#DWCS",
-        "Dusty Springfield",
         "#Wordle1887",
-        "GTA 6"
+        "Russia",
+        "Tim Montgomerie",
+        "#DWCS",
+        "Glasgow",
+        "Dusty Springfield",
+        "ULEZ",
+        "Wande"
       ],
       "hashtags": [
         "#RTXPowersPlay",
-        "#mcrdc",
         "#WWENXT",
+        "#Wordle1887",
         "#DWCS",
-        "#Wordle1887"
+        "#thechase"
       ],
       "regular_topics": [
         "Arday",
-        "Tim Montgomerie",
         "Russia",
+        "Tim Montgomerie",
         "Glasgow",
         "Dusty Springfield",
-        "GTA 6",
+        "ULEZ",
         "Wande",
         "Watkins",
+        "GTA 6",
         "Cofnas",
-        "ADHD",
-        "Viana"
+        "ADHD"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 05:09:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 06:00:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Keystone XL",
         "PSPP",
@@ -92,16 +92,16 @@
         "Natalie",
         "#DWCS",
         "Ossoff",
-        "Mariners",
         "Waldron",
-        "Frank Beard"
+        "Frank Beard",
+        "ZZ Top"
       ],
       "hashtags": [
         "#RTXPowersPlay",
         "#DWCS",
         "#monarch",
-        "#AMO2026",
-        "#BINI_SIGNALS_VANCOUVER"
+        "#BINI_SIGNALS_VANCOUVER",
+        "#AMO2026"
       ],
       "regular_topics": [
         "Keystone XL",
@@ -110,89 +110,87 @@
         "Quebec",
         "Natalie",
         "Ossoff",
-        "Mariners",
         "Waldron",
         "Frank Beard",
         "ZZ Top",
-        "Alejandro Kirk"
+        "Alejandro Kirk",
+        "Mariners"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 05:04:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 05:56:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BHUDEVI_INFRA_STOCK_NEWS",
         "#AiStockInLimelight",
+        "#WorldPhotographyDay",
+        "Real Estate Expansion",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "#WorldHumanitarianDay",
         "#NHC_52WeekBreakout",
         "NHC FOOD PE InFocus",
-        "#WorldPhotographyDay",
-        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "Dera Sacha Sauda",
-        "Saint Gurmeet Ram Rahim Ji",
-        "#GodMorningWednesday",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e"
+        "Bhudevi Infra Projects",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936"
       ],
       "hashtags": [
+        "#BHUDEVI_INFRA_STOCK_NEWS",
         "#AiStockInLimelight",
-        "#WorldHumanitarianDay",
-        "#NHC_52WeekBreakout",
         "#WorldPhotographyDay",
-        "#GodMorningWednesday"
+        "#WorldHumanitarianDay",
+        "#NHC_52WeekBreakout"
       ],
       "regular_topics": [
+        "Real Estate Expansion",
         "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "NHC FOOD PE InFocus",
+        "Bhudevi Infra Projects",
+        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "Dera Sacha Sauda",
-        "Saint Gurmeet Ram Rahim Ji",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
-        "\u091c\u094c\u0939\u0930 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940",
-        "\u0936\u0902\u0915\u0930 \u0926\u092f\u093e\u0932 \u0936\u0930\u094d\u092e\u093e",
-        "Kartick Satyanarayan",
-        "\u0906\u091a\u093e\u0930\u094d\u092f \u0939\u091c\u093e\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940",
-        "149.25 Cr"
+        "Bhudevi Aurum Phase-1",
+        "\u0906\u091c\u092e \u0916\u093e\u0928",
+        "149.25 Cr",
+        "Q1 FY27 PAT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 05:03:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 05:54:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wande",
         "Jamal Musiala",
+        "$AXO",
         "Wizkid",
-        "Osun",
         "MLLE",
         "Kodiak",
         "Wike",
         "Toto",
-        "Ogogo",
-        "Blaq",
-        "Morayo"
+        "$1.57 MILLION",
+        "Golden Hours",
+        "KC Luxury"
       ],
       "hashtags": [
         "#sweet16movie",
-        "#buyingcontent",
-        "#Lazyfunds",
         "#PowerOilxBBNaija",
-        "#23yrsofglonigeria"
+        "#Lazyfunds"
       ],
       "regular_topics": [
         "Wande",
         "Jamal Musiala",
+        "$AXO",
         "Wizkid",
-        "Osun",
         "MLLE",
         "Kodiak",
         "Wike",
         "Toto",
-        "Ogogo",
-        "Blaq",
-        "Morayo"
+        "$1.57 MILLION",
+        "Golden Hours",
+        "KC Luxury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
