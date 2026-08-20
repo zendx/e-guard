@@ -1,40 +1,39 @@
 {
-  "generated_at_utc": "2026-08-20T19:07:05.567372+00:00",
+  "generated_at_utc": "2026-08-20T19:51:08.538867+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 18:40:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 19:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WhatsShopinX",
         "Ilja",
-        "Lee Pace",
-        "James Harden",
-        "Eric Swalwell",
         "George Kirby",
-        "Lindsay Clancy",
-        "Bessent",
-        "Matt Smith",
+        "James Harden",
+        "Lee Pace",
+        "Dane Myers",
+        "#HoldTheCrooksAccountable",
+        "Eric Swalwell",
         "Golden Axe",
-        "#HoldTheCrooksAccountable"
+        "Bessent",
+        "Lindsay Clancy"
       ],
       "hashtags": [
         "#WhatsShopinX",
         "#HoldTheCrooksAccountable",
-        "#NationalRadioDay",
-        "#ConElDi\u00e1logoVenezuelaRenace"
+        "#NationalRadioDay"
       ],
       "regular_topics": [
         "Ilja",
-        "Lee Pace",
-        "James Harden",
-        "Eric Swalwell",
         "George Kirby",
-        "Lindsay Clancy",
-        "Bessent",
-        "Matt Smith",
+        "James Harden",
+        "Lee Pace",
+        "Dane Myers",
+        "Eric Swalwell",
         "Golden Axe",
-        "Tulsi",
+        "Bessent",
+        "Lindsay Clancy",
+        "Jessica Bowie",
         "Karmelo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -42,76 +41,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 18:13:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 19:04:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Minteh",
         "Stadlen",
-        "Mbaye",
-        "Ilja Dragunov",
         "Balde",
-        "Resign",
-        "Lee Pace",
+        "Hirsty",
+        "Mbaye",
+        "#BHAFC",
+        "Ilja",
+        "Heggebo",
         "Osman",
-        "Bellis",
-        "#thechase",
-        "Savinho"
+        "Harwood-Bellis",
+        "Resign"
       ],
       "hashtags": [
-        "#thechase",
         "#BHAFC",
-        "#ENGvPAK"
+        "#thechase",
+        "#ENGvPAK",
+        "#loveisblinduk"
       ],
       "regular_topics": [
         "Minteh",
         "Stadlen",
-        "Mbaye",
-        "Ilja Dragunov",
         "Balde",
-        "Resign",
-        "Lee Pace",
+        "Hirsty",
+        "Mbaye",
+        "Ilja",
+        "Heggebo",
         "Osman",
-        "Bellis",
-        "Savinho",
-        "Richard Hughes"
+        "Harwood-Bellis",
+        "Resign",
+        "Lee Pace"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 18:06:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 18:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Daz Cameron",
         "Sanchez",
         "Carney",
         "Keystone",
+        "NATHAN LUKES",
         "Kory",
-        "Ilja",
         "Meghan",
-        "Lee Pace",
+        "Ilja",
         "Loblaws",
-        "Minteh",
         "Quebec",
-        "James Harden"
+        "Tony"
       ],
       "hashtags": [
-        "#KingRezaPahlavi\u200cForIran",
         "#XAUUSD",
-        "#TradingSetup",
+        "#KingRezaPahlavi\u200cForIran",
         "#GoldTrading",
+        "#MeetOurKing",
         "#ForexSignals"
       ],
       "regular_topics": [
+        "Daz Cameron",
         "Sanchez",
         "Carney",
         "Keystone",
+        "NATHAN LUKES",
         "Kory",
-        "Ilja",
         "Meghan",
-        "Lee Pace",
+        "Ilja",
         "Loblaws",
-        "Minteh",
         "Quebec",
-        "James Harden"
+        "Tony"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
