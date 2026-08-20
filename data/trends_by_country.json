@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-20T04:59:18.404282+00:00",
+  "generated_at_utc": "2026-08-20T05:27:47.110385+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 04:04:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 04:56:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AEWDynamite",
-        "Cavs",
-        "Nuggets",
-        "Gabby Williams",
-        "Jokic",
-        "Peyton Watson",
         "Olivia Miles",
-        "Meghan",
-        "Kenny",
+        "Gabby Williams",
         "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
-        "Sabalenka"
+        "Nuggets",
+        "Sabalenka",
+        "Jokic",
+        "Cavs",
+        "Lynx",
+        "Meghan",
+        "Peyton Watson"
       ],
       "hashtags": [
         "#AEWDynamite",
         "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
         "#TheValley",
-        "#LetEmKnow",
+        "#LAGalaxy",
         "#Clock"
       ],
       "regular_topics": [
-        "Cavs",
-        "Nuggets",
-        "Gabby Williams",
-        "Jokic",
-        "Peyton Watson",
         "Olivia Miles",
-        "Meghan",
-        "Kenny",
+        "Gabby Williams",
+        "Nuggets",
         "Sabalenka",
-        "Vesia",
-        "Strus"
+        "Jokic",
+        "Cavs",
+        "Lynx",
+        "Meghan",
+        "Peyton Watson",
+        "Kayla McBride",
+        "Kenny Omega"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,26 +82,26 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 04:21:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 05:15:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Keystone",
         "Carney",
         "#VWFC",
         "Quebec",
-        "#AEWDynamite",
         "PSPP",
         "Scherzer",
-        "Meghan",
         "$MRNA",
-        "Baleba"
+        "#AEWDynamite",
+        "Baleba",
+        "Tiafoe"
       ],
       "hashtags": [
         "#VWFC",
         "#AEWDynamite",
         "#VANvHOU",
-        "#RTXPowersPlay",
-        "#TFCLive"
+        "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
         "Sanchez",
@@ -110,10 +110,10 @@
         "Quebec",
         "PSPP",
         "Scherzer",
-        "Meghan",
         "$MRNA",
         "Baleba",
         "Tiafoe",
+        "Loblaws",
         "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,47 +121,46 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 04:18:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 05:09:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#RajdeepSardesai",
+        "#UPCreatorsSummit",
+        "#Day3_upper_circuit_stock",
         "#NHCFOODSValuationOpportunity",
         "#fii_favorite_stocks",
-        "Spiritual Hub",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
-        "#RajivGandhi",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
-        "#SaveAshram",
-        "#GodMorningThursday",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Spiritual Hub",
+        "Save Goa and Enough is Enough",
         "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923"
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
       ],
       "hashtags": [
+        "#RajdeepSardesai",
+        "#UPCreatorsSummit",
+        "#Day3_upper_circuit_stock",
         "#NHCFOODSValuationOpportunity",
-        "#fii_favorite_stocks",
-        "#RajivGandhi",
-        "#SaveAshram",
-        "#GodMorningThursday",
-        "#WorldMosquitoDay"
+        "#fii_favorite_stocks"
       ],
       "regular_topics": [
-        "Spiritual Hub",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Spiritual Hub",
+        "Save Goa and Enough is Enough",
         "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "Omega",
         "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
-        "Omega Interactive Technologies",
-        "\u0938\u0902\u091a\u093e\u0930 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
-        "\u0938\u0942\u091a\u0928\u093e \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
-        "Motera Ashram"
+        "149.25 Cr",
+        "9.03 Cr",
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 04:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 05:08:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
         "Blaq",
@@ -171,16 +170,16 @@
         "Konsa",
         "Okocha",
         "Joao Pedro",
-        "Inter Miami",
         "Davido",
-        "Brighton"
+        "Brighton",
+        "#67MAXXING"
       ],
       "hashtags": [
         "#67MAXXING",
-        "#prophetjeremiahfufeyin",
         "#ColgateXBBnaija",
         "#GloNeverSettle4Less",
-        "#osununityoverdivision"
+        "#prophetjeremiahfufeyin",
+        "#WorldHumanitarianDay"
       ],
       "regular_topics": [
         "Baleba",
@@ -191,9 +190,9 @@
         "Konsa",
         "Okocha",
         "Joao Pedro",
-        "Inter Miami",
         "Davido",
-        "Brighton"
+        "Brighton",
+        "Hamza"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
