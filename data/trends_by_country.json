@@ -1,124 +1,123 @@
 {
-  "generated_at_utc": "2026-08-20T15:00:21.702768+00:00",
+  "generated_at_utc": "2026-08-20T15:53:54.325318+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 14:21:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 15:13:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Abraham",
         "Good Thursday",
-        "Happy Friday Eve",
-        "#ThursdayVibes",
-        "#NationalRadioDay",
-        "$WMT",
         "Tulsi",
-        "Rockstar",
-        "thirsty thursday",
-        "Brody",
+        "#NationalRadioDay",
+        "Harvard",
+        "#ThursdayVibes",
+        "$WMT",
+        "Happy Friday Eve",
+        "San Francisco Airport",
         "Meghan",
-        "Cleo Sol"
+        "Rockstar"
       ],
       "hashtags": [
-        "#ThursdayVibes",
         "#NationalRadioDay",
-        "#ThursdayMotivation",
-        "#ThursdayThoughts",
-        "#DDDUnlockBetterLivingXLingOrm"
+        "#ThursdayVibes",
+        "#LSA50ICONS2026",
+        "#LSA50ICONSxFayeAtom",
+        "#ThursdayMotivation"
       ],
       "regular_topics": [
+        "Abraham",
         "Good Thursday",
-        "Happy Friday Eve",
-        "$WMT",
         "Tulsi",
-        "Rockstar",
-        "thirsty thursday",
-        "Brody",
-        "Meghan",
-        "Cleo Sol",
         "Harvard",
-        "Happy Birthday Yomi"
+        "$WMT",
+        "Happy Friday Eve",
+        "San Francisco Airport",
+        "Meghan",
+        "Rockstar",
+        "Brody",
+        "Thirsty Thursday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 14:48:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 15:39:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sun Goddess",
+        "Balde",
         "GCSE",
         "Kalpana",
-        "Libertango",
-        "The Lost King",
-        "Meghan",
-        "RESIGN",
         "Savinho",
-        "Woolsington Hall",
+        "Meghan",
         "Impossible",
-        "Billy Loughnane"
+        "Resign",
+        "Ghent University",
+        "Minteh",
+        "the lost king"
       ],
       "hashtags": [
-        "#wato",
-        "#thismorning"
+        "#ENGvPAK"
       ],
       "regular_topics": [
         "Sun Goddess",
+        "Balde",
         "GCSE",
         "Kalpana",
-        "Libertango",
-        "The Lost King",
-        "Meghan",
-        "RESIGN",
         "Savinho",
-        "Woolsington Hall",
+        "Meghan",
         "Impossible",
-        "Billy Loughnane"
+        "Resign",
+        "Ghent University",
+        "Minteh",
+        "the lost king"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 14:40:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 15:31:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Keystone",
         "Carney",
-        "#XAUUSD",
-        "M. Legault",
+        "entry zone",
+        "Kory",
         "Quebec",
         "Meghan",
-        "Stop Loss",
-        "Kory",
-        "Entry Zone",
-        "Loblaws"
+        "Loblaws",
+        "Taco Tuesday",
+        "PSPP",
+        "$MRNA"
       ],
       "hashtags": [
         "#XAUUSD",
-        "#AEWDynamite",
-        "#Gold",
-        "#WorldPhotographyDay",
-        "#ForexSignals"
+        "#GoldTrading",
+        "#LSA50ICONS2026",
+        "#ForexSignals",
+        "#AEWDynamite"
       ],
       "regular_topics": [
         "Sanchez",
         "Keystone",
         "Carney",
-        "M. Legault",
+        "entry zone",
+        "Kory",
         "Quebec",
         "Meghan",
-        "Stop Loss",
-        "Kory",
-        "Entry Zone",
         "Loblaws",
-        "Sinc\u00e8res"
+        "Taco Tuesday",
+        "PSPP",
+        "$MRNA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 14:36:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 15:27:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
@@ -126,11 +125,11 @@
         "#TestMuConf",
         "#GangstarMirageCityIndia",
         "#LOPRajasthan",
+        "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c",
+        "Balde",
         "ABHISHEK OWNED TRAITORS",
-        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
         "\u092a\u0936\u0941 \u092c\u0932\u093f",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
-        "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c"
+        "\u0938\u0924\u094d\u092f \u092e\u093e\u0930\u094d\u0917"
       ],
       "hashtags": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
@@ -141,55 +140,53 @@
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
-        "ABHISHEK OWNED TRAITORS",
-        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "\u092a\u0936\u0941 \u092c\u0932\u093f",
-        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c",
+        "Balde",
+        "ABHISHEK OWNED TRAITORS",
+        "\u092a\u0936\u0941 \u092c\u0932\u093f",
+        "\u0938\u0924\u094d\u092f \u092e\u093e\u0930\u094d\u0917",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u092a\u094d\u0930\u0947\u0938 \u0915\u094d\u0932\u092c",
         "\u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Premiers",
-        "\u0938\u0924\u094d\u092f \u092e\u093e\u0930\u094d\u0917",
-        "\u0938\u0941\u0916\u0940 \u0938\u092e\u093e\u091c"
+        "\u0938\u0941\u0916\u0940 \u0938\u092e\u093e\u091c",
+        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 14:34:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 15:27:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Okocha",
         "Ronaldo",
+        "Balde",
         "#BetOnChampions",
         "Savinho",
-        "#NoMoreFuture",
+        "Haaland",
+        "Bella",
         "Kanu",
-        "Enzo is a Chelsea",
-        "Bolton",
+        "#NoMoreFuture",
         "PrEP",
-        "Jo\u00e3o Cancelo",
-        "Ibrahima Konat\u00e9"
+        "Jo\u00e3o Cancelo"
       ],
       "hashtags": [
         "#BetOnChampions",
         "#NoMoreFuture",
-        "#Joann",
-        "#BASIS",
-        "#tcaugustmeeting2026"
+        "#KuCoin"
       ],
       "regular_topics": [
         "Okocha",
         "Ronaldo",
+        "Balde",
         "Savinho",
+        "Haaland",
+        "Bella",
         "Kanu",
-        "Enzo is a Chelsea",
-        "Bolton",
         "PrEP",
         "Jo\u00e3o Cancelo",
-        "Ibrahima Konat\u00e9",
-        "Calvin Ramsay",
-        "Betking"
+        "Enzo is a Chelsea",
+        "Asu Ekiye"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
