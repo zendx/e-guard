@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T23:13:44.691831+00:00",
+  "generated_at_utc": "2026-08-20T23:45:51.083711+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,37 +43,37 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 22:32:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 23:24:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bcafc",
         "#swfc",
         "Devlin",
         "Tony",
         "Valery",
-        "Dan Neil",
         "Pederson",
+        "Dan Neil",
         "Stadlen",
-        "Bradford",
         "Naderi",
-        "Kabore"
+        "Bradford",
+        "Gassama"
       ],
       "hashtags": [
         "#bcafc",
         "#swfc",
-        "#dragonsden",
         "#Irumudi",
-        "#Newsnight"
+        "#Newsnight",
+        "#dragonsden"
       ],
       "regular_topics": [
         "Devlin",
         "Tony",
         "Valery",
-        "Dan Neil",
         "Pederson",
+        "Dan Neil",
         "Stadlen",
-        "Bradford",
         "Naderi",
-        "Kabore",
+        "Bradford",
+        "Gassama",
         "Otegbayo",
         "Minteh"
       ],
@@ -82,37 +82,37 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 22:25:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 23:16:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
         "Kinew",
+        "#WWELondon",
         "Sanchez",
-        "NATHAN LUKES",
         "Keystone",
-        "Riot",
-        "Meghan",
         "Kory",
+        "Meghan",
         "Tony",
-        "#secretstory",
+        "Riot",
+        "Ryan Hurst",
         "Loblaws"
       ],
       "hashtags": [
+        "#WWELondon",
         "#secretstory",
         "#XAUUSD",
         "#GoldTrading",
-        "#ForexSignals",
-        "#tradesetup"
+        "#ForexSignals"
       ],
       "regular_topics": [
         "Carney",
         "Kinew",
         "Sanchez",
-        "NATHAN LUKES",
         "Keystone",
-        "Riot",
-        "Meghan",
         "Kory",
+        "Meghan",
         "Tony",
+        "Riot",
+        "Ryan Hurst",
         "Loblaws",
         "Rockstar"
       ],
@@ -121,7 +121,7 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 22:20:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 23:12:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
@@ -160,35 +160,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 22:20:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 23:12:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tony",
+        "Temi and Tram",
         "Ronaldo",
         "Okocha",
-        "Balde",
+        "Tram and Temi",
         "Rome",
+        "Balde",
         "Chairman",
         "Romans",
-        "Tram and Sheba",
-        "Sheba and Tram",
-        "Team 2",
-        "Oyinbo"
+        "#starlife",
+        "Tram and Sheba"
       ],
       "hashtags": [
-        "#BBNaijaXSmirnoff",
-        "#ProjectNewNigeria"
+        "#starlife",
+        "#BBNaijaXSmirnoff"
       ],
       "regular_topics": [
         "Tony",
+        "Temi and Tram",
         "Ronaldo",
         "Okocha",
-        "Balde",
+        "Tram and Temi",
         "Rome",
+        "Balde",
         "Chairman",
         "Romans",
         "Tram and Sheba",
-        "Sheba and Tram",
-        "Team 2",
         "Oyinbo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
