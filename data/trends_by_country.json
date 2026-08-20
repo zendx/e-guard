@@ -1,66 +1,66 @@
 {
-  "generated_at_utc": "2026-08-20T02:50:54.337771+00:00",
+  "generated_at_utc": "2026-08-20T03:35:37.211859+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 02:21:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 03:12:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AEWDynamite",
         "Cavs",
         "Nuggets",
-        "Peyton Watson",
         "Jokic",
+        "Peyton Watson",
+        "Kenny",
         "Meghan",
         "Strus",
-        "Jay White",
         "Darby",
-        "Kevin Knight",
-        "Willow"
+        "Ospreay",
+        "Kevin Knight"
       ],
       "hashtags": [
         "#AEWDynamite",
+        "#TheValley",
         "#cinemzel26",
         "#LetEmKnow",
-        "#LLWS",
-        "#YUUKA"
+        "#Clock"
       ],
       "regular_topics": [
         "Cavs",
         "Nuggets",
-        "Peyton Watson",
         "Jokic",
+        "Peyton Watson",
+        "Kenny",
         "Meghan",
         "Strus",
-        "Jay White",
         "Darby",
+        "Ospreay",
         "Kevin Knight",
-        "Willow",
-        "Cam Whitmore"
+        "Jay White"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 01:54:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 02:45:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
         "Konsa",
-        "Meghan",
         "#AEWDynamite",
+        "Meghan",
         "Marmoush",
         "Villa",
         "ADHD",
         "Duran",
         "Saliba",
         "Mosquera",
-        "Jay White"
+        "#loveisblinduk"
       ],
       "hashtags": [
         "#AEWDynamite",
-        "#AVFC",
         "#loveisblinduk",
+        "#avfc",
         "#RTXPowersPlay",
         "#ENGvPAK"
       ],
