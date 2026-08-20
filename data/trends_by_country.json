@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T17:19:50.068540+00:00",
+  "generated_at_utc": "2026-08-20T17:51:59.481920+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,153 +41,154 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 16:30:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 17:21:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Minteh",
-        "Balde",
         "Mbaye",
-        "Sun Goddess",
-        "Savinho",
-        "GCSE",
+        "Balde",
+        "#thechase",
         "Impossible",
-        "Meghan",
+        "Savinho",
         "Richard Hughes",
-        "Ghent",
-        "Kalpana"
+        "GCSE",
+        "Ghent University",
+        "Meghan",
+        "Resign"
       ],
       "hashtags": [
         "#thechase",
-        "#ENGvPAK"
+        "#ENGvPAK",
+        "#BHAFC"
       ],
       "regular_topics": [
         "Minteh",
-        "Balde",
         "Mbaye",
-        "Sun Goddess",
-        "Savinho",
-        "GCSE",
+        "Balde",
         "Impossible",
-        "Meghan",
+        "Savinho",
         "Richard Hughes",
-        "Ghent",
-        "Kalpana"
+        "GCSE",
+        "Ghent University",
+        "Meghan",
+        "Resign",
+        "Sun Goddess"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 16:24:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 17:15:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
-        "Keystone",
         "Carney",
-        "#XAUUSD",
+        "Keystone",
+        "Minteh",
         "Kory",
         "Meghan",
         "Loblaws",
         "Quebec",
-        "Minteh",
         "Taco Tuesday",
-        "Entry Zone"
+        "#XAUUSD",
+        "Iranian"
       ],
       "hashtags": [
         "#XAUUSD",
-        "#Gold",
-        "#signals",
-        "#TradeSetup",
-        "#StellCrazy"
+        "#TradingSetup",
+        "#ForexSignals",
+        "#StellCrazy",
+        "#TradeSetup"
       ],
       "regular_topics": [
         "Sanchez",
-        "Keystone",
         "Carney",
+        "Keystone",
+        "Minteh",
         "Kory",
         "Meghan",
         "Loblaws",
         "Quebec",
-        "Minteh",
         "Taco Tuesday",
-        "Entry Zone",
-        "$MRNA"
+        "Iranian",
+        "Rockstar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 16:18:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 17:10:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
-        "#EkamBawaYogiAyaSong",
         "#Dial1975",
-        "#TestMuConf",
+        "#EkamBawaYogiAyaSong",
         "Balde",
         "#AmeerLog",
+        "#Spirit",
+        "Minteh",
         "Joe Root",
         "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c",
-        "\u092a\u0936\u0941 \u092c\u0932\u093f",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "hashtags": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
-        "#EkamBawaYogiAyaSong",
         "#Dial1975",
-        "#TestMuConf",
-        "#AmeerLog"
+        "#EkamBawaYogiAyaSong",
+        "#AmeerLog",
+        "#Spirit"
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
         "Balde",
+        "Minteh",
         "Joe Root",
         "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c",
-        "\u092a\u0936\u0941 \u092c\u0932\u093f",
         "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
         "Mauritius",
-        "\u0938\u0924\u094d\u092f \u092e\u093e\u0930\u094d\u0917",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e",
-        "\u0938\u0924\u094d\u092f \u091c\u094d\u091e\u093e\u0928",
-        "SRM Trichy"
+        "THE VAMPIRE STORY CONTINUES",
+        "\u092a\u0936\u0941 \u092c\u0932\u093f",
+        "Sachin",
+        "\u0938\u0924\u094d\u092f \u091c\u094d\u091e\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 16:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 17:09:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ronaldo",
+        "Tony",
         "Okocha",
         "Balde",
-        "#GuinnessOpenForMore",
-        "#BetOnChampions",
-        "Minteh",
         "#ProjectNewNigeria",
-        "Savinho",
+        "Minteh",
+        "#BetOnChampions",
+        "#GuinnessOpenForMore",
         "Bella",
-        "Puffins",
-        "Trade $AEON"
+        "Savinho",
+        "#stocks"
       ],
       "hashtags": [
-        "#GuinnessOpenForMore",
-        "#BetOnChampions",
         "#ProjectNewNigeria",
-        "#NoMoreFuture",
+        "#BetOnChampions",
+        "#GuinnessOpenForMore",
+        "#stocks",
         "#KuCoin"
       ],
       "regular_topics": [
         "Ronaldo",
+        "Tony",
         "Okocha",
         "Balde",
         "Minteh",
-        "Savinho",
         "Bella",
+        "Savinho",
         "Puffins",
-        "Trade $AEON",
         "Kanu",
-        "Sheggz",
-        "Divine Mukasa"
+        "Bolton",
+        "Trade $AEON"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
