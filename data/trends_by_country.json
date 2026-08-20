@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T04:23:08.032557+00:00",
+  "generated_at_utc": "2026-08-20T04:59:18.404282+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,7 +43,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 03:36:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 04:28:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
         "Konsa",
@@ -60,7 +60,7 @@
       "hashtags": [
         "#AEWDynamite",
         "#loveisblinduk",
-        "#AVFC",
+        "#avfc",
         "#RTXPowersPlay",
         "#ENGvPAK"
       ],
@@ -74,34 +74,34 @@
         "Duran",
         "Saliba",
         "Mosquera",
-        "Jay White",
-        "ULEZ"
+        "ULEZ",
+        "Watkins"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 03:30:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 04:21:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Keystone",
-        "#AEWDynamite",
         "Carney",
+        "#VWFC",
         "Quebec",
+        "#AEWDynamite",
         "PSPP",
-        "#CFMTL",
-        "#TFCLive",
         "Scherzer",
+        "Meghan",
         "$MRNA",
         "Baleba"
       ],
       "hashtags": [
+        "#VWFC",
         "#AEWDynamite",
-        "#CFMTL",
-        "#TFCLive",
-        "#BlueJays",
-        "#RTXPowersPlay"
+        "#VANvHOU",
+        "#RTXPowersPlay",
+        "#TFCLive"
       ],
       "regular_topics": [
         "Sanchez",
@@ -110,63 +110,58 @@
         "Quebec",
         "PSPP",
         "Scherzer",
+        "Meghan",
         "$MRNA",
         "Baleba",
-        "Streit",
-        "Schneider",
-        "Meghan"
+        "Tiafoe",
+        "Taco Tuesday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 03:27:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 04:18:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#NHCFOODSValuationOpportunity",
         "#fii_favorite_stocks",
         "Spiritual Hub",
-        "#GodMorningThursday",
-        "#SaveAshram",
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "#RajivGandhi",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
-        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "#SaveAshram",
+        "#GodMorningThursday",
         "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923"
+        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923"
       ],
       "hashtags": [
+        "#NHCFOODSValuationOpportunity",
         "#fii_favorite_stocks",
-        "#GodMorningThursday",
-        "#SaveAshram",
         "#RajivGandhi",
-        "#SadbhavanaDiwas",
-        "#ThursdayThoughts",
-        "#INDvsPAK",
-        "#Always_With_ENHYPEN_7",
-        "#cortisdisband",
-        "#HWC2026",
-        "#HockeyWorldCup"
+        "#SaveAshram",
+        "#GodMorningThursday",
+        "#WorldMosquitoDay"
       ],
       "regular_topics": [
         "Spiritual Hub",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
         "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
         "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
         "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
         "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
+        "Omega Interactive Technologies",
         "\u0938\u0902\u091a\u093e\u0930 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
         "\u0938\u0942\u091a\u0928\u093e \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
-        "Motera Ashram",
-        "\u092d\u0917\u0935\u093e\u0928 \u0935\u093f\u0937\u094d\u0923\u0941"
+        "Motera Ashram"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 03:24:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 04:16:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Baleba",
         "Blaq",
@@ -175,10 +170,10 @@
         "Poco Lee",
         "Konsa",
         "Okocha",
-        "Inter Miami",
         "Joao Pedro",
-        "Brighton",
-        "Davido"
+        "Inter Miami",
+        "Davido",
+        "Brighton"
       ],
       "hashtags": [
         "#67MAXXING",
@@ -195,10 +190,10 @@
         "Poco Lee",
         "Konsa",
         "Okocha",
-        "Inter Miami",
         "Joao Pedro",
-        "Brighton",
-        "Davido"
+        "Inter Miami",
+        "Davido",
+        "Brighton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
