@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-20T13:23:36.793122+00:00",
+  "generated_at_utc": "2026-08-20T14:04:33.327321+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 12:39:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 13:30:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Thursday",
         "Happy Friday Eve",
         "#ThursdayVibes",
-        "LING SPARKLE ORM LESASHA",
+        "$WMT",
         "#ThursdayMotivation",
-        "#DDDUnlockBetterLivingXLingOrm",
+        "#NationalRadioDay",
+        "Cleo Sol",
         "#LSA50ICONSxFayeAtom",
-        "#HerinFramePremiereNight",
-        "Rockstar",
-        "LENA AT FIRST FRAME PREMIERE",
-        "Cleo Sol"
+        "FAYEATOM GLOBAL RISING ICONS",
+        "Thirsty Thursday",
+        "Meghan"
       ],
       "hashtags": [
         "#ThursdayVibes",
         "#ThursdayMotivation",
-        "#DDDUnlockBetterLivingXLingOrm",
+        "#NationalRadioDay",
         "#LSA50ICONSxFayeAtom",
-        "#HerinFramePremiereNight"
+        "#ThursdayThoughts"
       ],
       "regular_topics": [
         "Good Thursday",
         "Happy Friday Eve",
-        "LING SPARKLE ORM LESASHA",
-        "Rockstar",
-        "LENA AT FIRST FRAME PREMIERE",
-        "Cleo Sol",
-        "Meghan",
-        "\"LEEK\"",
         "$WMT",
+        "Cleo Sol",
+        "FAYEATOM GLOBAL RISING ICONS",
         "Thirsty Thursday",
-        "National Radio Day"
+        "Meghan",
+        "Rockstar",
+        "LING SPARKLE ORM LESASHA",
+        "LENA AT FIRST FRAME PREMIERE",
+        "Brody"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,18 +82,18 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 12:57:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 13:48:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "SANCHEZ",
+        "Sanchez",
         "Keystone",
         "Carney",
-        "Stop Loss",
-        "Entry Zone",
         "#XAUUSD",
-        "M. Legault",
-        "Good Thursday",
+        "Stop Loss",
+        "Sinc\u00e8res",
         "Quebec",
+        "Good Thursday",
         "#GoldTrading",
+        "m. legault",
         "Meghan"
       ],
       "hashtags": [
@@ -104,95 +104,95 @@
         "#TradeSetup"
       ],
       "regular_topics": [
-        "SANCHEZ",
+        "Sanchez",
         "Keystone",
         "Carney",
         "Stop Loss",
-        "Entry Zone",
-        "M. Legault",
-        "Good Thursday",
+        "Sinc\u00e8res",
         "Quebec",
+        "Good Thursday",
+        "m. legault",
         "Meghan",
-        "PSPP",
-        "Kory"
+        "Kory",
+        "PSPP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 12:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 13:44:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
+        "Sa News YouTube Channel",
         "#GangstarMirageCityIndia",
         "#LOPRajasthan",
-        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "#GemsofIndiaChallenge",
-        "Sa News YouTube Channel",
         "ABHISHEK OWNED TRAITORS",
+        "#Manasavacha",
         "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "#SajjanKumar",
-        "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
         "\u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "ICICI"
+        "\u092a\u0936\u0941 \u092c\u0932\u093f",
+        "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930"
       ],
       "hashtags": [
+        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "#GangstarMirageCityIndia",
         "#LOPRajasthan",
-        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "#GemsofIndiaChallenge",
-        "#SajjanKumar"
+        "#Manasavacha"
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
         "ABHISHEK OWNED TRAITORS",
         "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
         "\u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "ICICI",
+        "\u092a\u0936\u0941 \u092c\u0932\u093f",
+        "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
         "\u092a\u094d\u0930\u0947\u0938 \u0915\u094d\u0932\u092c",
-        "MMDR Amendment Act 2026",
-        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
-        "Modi Chalisa",
-        "Adani Ports"
+        "\u092e\u0941\u0915\u094d\u0924 \u0938\u092e\u093e\u091c",
+        "\u092e\u091c\u0926\u0942\u0930 \u092c\u091a\u093e\u0913 \u0905\u092d\u093f\u092f\u093e\u0928",
+        "ICICI",
+        "\u0938\u0924\u094d\u092f \u091c\u094d\u091e\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 12:51:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 13:43:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Okocha",
         "Ronaldo",
         "#NoMoreFuture",
+        "Enzo is a Chelsea",
         "Kanu",
-        "#TCAugustMeeting2026",
-        "Wilmer",
         "Bolton",
-        "Adam Wharton",
-        "Obito",
-        "Crystal Palace",
-        "Atiku"
+        "Ibrahima Konat\u00e9",
+        "St Mirren",
+        "Calvin Ramsay",
+        "Jo\u00e3o Cancelo",
+        "Adam Wharton"
       ],
       "hashtags": [
         "#NoMoreFuture",
-        "#TCAugustMeeting2026",
-        "#BASIS",
         "#Joann",
-        "#YelloStreet"
+        "#BASIS",
+        "#MTNAt25",
+        "#TCAugustMeeting2026"
       ],
       "regular_topics": [
         "Okocha",
         "Ronaldo",
+        "Enzo is a Chelsea",
         "Kanu",
-        "Wilmer",
         "Bolton",
+        "Ibrahima Konat\u00e9",
+        "St Mirren",
+        "Calvin Ramsay",
+        "Jo\u00e3o Cancelo",
         "Adam Wharton",
-        "Obito",
-        "Crystal Palace",
-        "Atiku",
-        "Chidimma Adetshina",
-        "Adeife"
+        "Josip \u0160utalo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
