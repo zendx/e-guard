@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-20T22:13:09.957877+00:00",
+  "generated_at_utc": "2026-08-20T22:50:00.223829+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 21:15:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:06:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "2xko",
         "Riot",
-        "Ilja",
-        "#ZombiesArtworkSweepstakes",
         "Karmelo",
-        "Grant Holmes",
-        "Polymarket",
+        "#ZombiesArtworkSweepstakes",
+        "Ilja",
         "Jessica Bowie",
-        "Reds",
-        "#WhatsShopinX",
-        "Dane Myers"
+        "Calvin",
+        "Polymarket",
+        "Donell",
+        "New York State Capitol",
+        "Beto"
       ],
       "hashtags": [
         "#ZombiesArtworkSweepstakes",
@@ -26,144 +26,139 @@
       "regular_topics": [
         "2xko",
         "Riot",
-        "Ilja",
         "Karmelo",
-        "Grant Holmes",
-        "Polymarket",
+        "Ilja",
         "Jessica Bowie",
-        "Reds",
-        "Dane Myers",
-        "Weston Wilson",
-        "Lindsay Clancy"
+        "Calvin",
+        "Polymarket",
+        "Donell",
+        "New York State Capitol",
+        "Beto",
+        "Fostering the Future"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 21:40:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:32:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bcafc",
         "#swfc",
         "Devlin",
-        "Dan Neil",
         "Tony",
-        "Naderi",
-        "Stadlen",
         "Valery",
-        "Minteh",
+        "Dan Neil",
         "Pederson",
-        "Bradford"
+        "Stadlen",
+        "Bradford",
+        "Naderi",
+        "Kabore"
       ],
       "hashtags": [
         "#bcafc",
         "#swfc",
         "#dragonsden",
-        "#Ludwig",
-        "#loveyoutodeath"
+        "#Irumudi",
+        "#Newsnight"
       ],
       "regular_topics": [
         "Devlin",
-        "Dan Neil",
         "Tony",
-        "Naderi",
-        "Stadlen",
         "Valery",
-        "Minteh",
+        "Dan Neil",
         "Pederson",
+        "Stadlen",
         "Bradford",
-        "Gassama",
-        "James Wilson"
+        "Naderi",
+        "Kabore",
+        "Otegbayo",
+        "Minteh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 21:32:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:25:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
+        "Kinew",
         "Sanchez",
-        "Nathan Lukes",
+        "NATHAN LUKES",
         "Keystone",
-        "Wab Kinew",
-        "Kory",
-        "Daz Cameron",
-        "Meghan",
         "Riot",
+        "Meghan",
+        "Kory",
         "Tony",
+        "#secretstory",
         "Loblaws"
       ],
       "hashtags": [
+        "#secretstory",
         "#XAUUSD",
         "#GoldTrading",
-        "#secretstory",
-        "#ForexSignals"
+        "#ForexSignals",
+        "#tradesetup"
       ],
       "regular_topics": [
         "Carney",
+        "Kinew",
         "Sanchez",
-        "Nathan Lukes",
+        "NATHAN LUKES",
         "Keystone",
-        "Wab Kinew",
-        "Kory",
-        "Daz Cameron",
-        "Meghan",
         "Riot",
+        "Meghan",
+        "Kory",
         "Tony",
-        "Loblaws"
+        "Loblaws",
+        "Rockstar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 21:28:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:20:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
-        "#Dial1975",
-        "Balde",
-        "Sachin",
-        "Harry Brook",
-        "9 IPS",
-        "#Spirit",
-        "#AmeerLogReview",
-        "Minteh",
-        "#Welcome_To_Our_Paradise"
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "#RajivGandhi",
+        "#nhcfoodsvaluationopportunity",
+        "#UPCreatorsSummit",
+        "#ai_data_centre_stock",
+        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "banni",
+        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Omega"
       ],
       "hashtags": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
-        "#Dial1975",
-        "#Spirit",
-        "#AmeerLogReview",
-        "#Welcome_To_Our_Paradise",
-        "#ENGENE_Fly_High_With_ENHYPEN",
-        "#zanjeerain",
-        "#21AugReservationHataoAndolan",
-        "#sarbiya",
-        "#GTA6",
-        "#Nayanthara"
+        "#RajivGandhi",
+        "#nhcfoodsvaluationopportunity",
+        "#UPCreatorsSummit",
+        "#ai_data_centre_stock"
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
-        "Balde",
-        "Sachin",
-        "Harry Brook",
-        "9 IPS",
-        "Minteh",
-        "Joe Root",
-        "THE VAMPIRE STORY CONTINUES",
-        "Sugar",
-        "Starlink",
-        "Kohli"
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "banni",
+        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
+        "Omega",
+        "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
+        "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
+        "ABHISHEK OWNED TRAITORS",
+        "spiritual hub",
+        "\u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 21:28:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tony",
         "Ronaldo",
@@ -171,15 +166,14 @@
         "Balde",
         "Rome",
         "Chairman",
-        "#BBNaijaXSmirnoff",
         "Romans",
+        "Tram and Sheba",
+        "Sheba and Tram",
         "Team 2",
-        "Gen Z",
         "Oyinbo"
       ],
       "hashtags": [
         "#BBNaijaXSmirnoff",
-        "#MTNAt25",
         "#ProjectNewNigeria"
       ],
       "regular_topics": [
@@ -190,10 +184,10 @@
         "Rome",
         "Chairman",
         "Romans",
+        "Tram and Sheba",
+        "Sheba and Tram",
         "Team 2",
-        "Gen Z",
-        "Oyinbo",
-        "Minteh"
+        "Oyinbo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
