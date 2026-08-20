@@ -1,40 +1,42 @@
 {
-  "generated_at_utc": "2026-08-20T22:50:00.223829+00:00",
+  "generated_at_utc": "2026-08-20T23:13:44.691831+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 22:06:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 22:57:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "2xko",
         "Riot",
+        "Kratos",
+        "Ryan Hurst",
+        "Dave Bautista",
+        "Kade Anderson",
         "Karmelo",
+        "Dover",
         "#ZombiesArtworkSweepstakes",
-        "Ilja",
-        "Jessica Bowie",
         "Calvin",
-        "Polymarket",
-        "Donell",
-        "New York State Capitol",
-        "Beto"
+        "Jessica Bowie"
       ],
       "hashtags": [
         "#ZombiesArtworkSweepstakes",
-        "#WhatsShopinX",
-        "#HoldTheCrooksAccountable"
+        "#DEwx",
+        "#MAFS",
+        "#HoldTheCrooksAccountable",
+        "#LYKNDuskAndDawnxChicago"
       ],
       "regular_topics": [
         "2xko",
         "Riot",
+        "Kratos",
+        "Ryan Hurst",
+        "Dave Bautista",
+        "Kade Anderson",
         "Karmelo",
-        "Ilja",
-        "Jessica Bowie",
+        "Dover",
         "Calvin",
-        "Polymarket",
-        "Donell",
-        "New York State Capitol",
-        "Beto",
-        "Fostering the Future"
+        "Jessica Bowie",
+        "Ilja"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
