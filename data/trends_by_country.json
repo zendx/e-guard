@@ -1,48 +1,47 @@
 {
-  "generated_at_utc": "2026-08-20T10:52:55.170402+00:00",
+  "generated_at_utc": "2026-08-20T11:14:37.793564+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 10:04:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:56:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Thursday",
-        "#rafe",
-        "#Glitter25",
-        "#Joann",
-        "#rauw",
-        "#Forerunners",
+        "Happy Friday Eve",
+        "rafe",
+        "#HerinFramePremiereNight",
+        "LENA AT FIRST FRAME PREMIERE",
         "john b",
-        "groff",
-        "Barker",
-        "The Nothing",
-        "Meghan"
+        "\"LEEK\"",
+        "#Forerunners",
+        "#Schanz",
+        "#obx5",
+        "#Glitter25"
       ],
       "hashtags": [
-        "#rafe",
+        "#HerinFramePremiereNight",
+        "#Forerunners",
+        "#Schanz",
+        "#obx5",
         "#Glitter25",
         "#Joann",
-        "#rauw",
-        "#Forerunners",
         "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
-        "#Schanz",
-        "#OBX5",
-        "#Drew",
-        "#AEWDynamite",
-        "#Olivia"
+        "#rauw",
+        "#FilmClip",
+        "#daddydom"
       ],
       "regular_topics": [
         "Good Thursday",
+        "Happy Friday Eve",
+        "rafe",
+        "LENA AT FIRST FRAME PREMIERE",
         "john b",
+        "\"LEEK\"",
         "groff",
+        "Meghan",
         "Barker",
         "The Nothing",
-        "Meghan",
-        "Nick Shirley Act",
-        "$40 Trillion",
-        "Magic Lover Worship",
-        "Melody and Mallory",
-        "Clock"
+        "Iptv"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
