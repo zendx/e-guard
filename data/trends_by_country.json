@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T20:51:32.624174+00:00",
+  "generated_at_utc": "2026-08-20T21:15:32.361694+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,38 +42,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 19:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 20:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Minteh",
-        "#dragonsden",
+        "Devlin",
         "Dan Neil",
-        "Stadlen",
-        "Naderi",
-        "Tony",
+        "#dragonsden",
+        "Minteh",
         "#bcafc",
-        "Kabore",
-        "Balde",
-        "Hirsty",
-        "Mbaye"
+        "Tony",
+        "Naderi",
+        "Stadlen",
+        "Gassama",
+        "James Wilson",
+        "Kabore"
       ],
       "hashtags": [
         "#dragonsden",
         "#bcafc",
-        "#loveisblinduk",
-        "#ENGvPAK"
+        "#Ludwig",
+        "#UECL",
+        "#ImranKhan"
       ],
       "regular_topics": [
-        "Minteh",
+        "Devlin",
         "Dan Neil",
-        "Stadlen",
-        "Naderi",
+        "Minteh",
         "Tony",
+        "Naderi",
+        "Stadlen",
+        "Gassama",
+        "James Wilson",
         "Kabore",
-        "Balde",
-        "Hirsty",
-        "Mbaye",
-        "Ilja",
-        "Heggebo"
+        "Bradford",
+        "Easter Road"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
