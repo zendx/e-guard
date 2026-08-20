@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-19T23:42:24.868388+00:00",
+  "generated_at_utc": "2026-08-20T00:28:34.887788+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 19 2026 22:54:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:45:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Mickey Gasper",
+        "Meghan",
+        "Moran",
+        "ECONOMIC D-DAY",
         "Chauvin",
-        "#OlandriaxCharlotteTilbury",
         "$40 Trillion",
-        "Prince Harry",
+        "Mickey Gasper",
         "Rory",
+        "#OlandriaxCharlotteTilbury",
         "Weissert",
-        "Azzi",
-        "Heat 2",
-        "Tommy Paul",
-        "Yair"
+        "Will Warren",
+        "Montecito"
       ],
       "hashtags": [
         "#OlandriaxCharlotteTilbury",
@@ -26,93 +26,94 @@
         "#Higgins"
       ],
       "regular_topics": [
-        "Mickey Gasper",
+        "Meghan",
+        "Moran",
+        "ECONOMIC D-DAY",
         "Chauvin",
         "$40 Trillion",
-        "Prince Harry",
+        "Mickey Gasper",
         "Rory",
         "Weissert",
-        "Azzi",
-        "Heat 2",
-        "Tommy Paul",
-        "Yair",
-        "Zverev"
+        "Will Warren",
+        "Montecito",
+        "mRNA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 19 2026 23:19:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 00:10:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Meghan",
         "Duran",
         "Donovan",
+        "Catherine",
+        "Spurs",
         "Marmoush",
         "Baur",
-        "Spurs",
         "Nygren",
+        "Sussexes",
         "#loveisblinduk",
-        "William and Catherine",
-        "Home Office",
-        "LASK"
+        "SBMM"
       ],
       "hashtags": [
         "#loveisblinduk",
         "#Newsnight",
+        "#ESTLondon",
         "#celebritymasterchef",
-        "#CelticFC",
-        "#WorldPhotographyDay"
+        "#CelticFC"
       ],
       "regular_topics": [
         "Meghan",
         "Duran",
         "Donovan",
+        "Catherine",
+        "Spurs",
         "Marmoush",
         "Baur",
-        "Spurs",
         "Nygren",
-        "William and Catherine",
-        "Home Office",
-        "LASK",
-        "Montecito"
+        "Sussexes",
+        "SBMM",
+        "LASK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 19 2026 23:12:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 00:03:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sanchez",
         "Keystone",
+        "Scherzer",
         "Carney",
+        "#BlueJays",
         "Kory",
-        "PSPP",
         "Quebec",
-        "Meghan",
+        "PSPP",
         "Taco Tuesday",
-        "Baleba",
-        "Jesus Sanchez",
-        "#RTXPowersPlay",
-        "Konsa"
+        "Meghan",
+        "Baleba"
       ],
       "hashtags": [
+        "#BlueJays",
         "#RTXPowersPlay",
-        "#BINI_SIGNALS_VANCOUVER",
-        "#WorldPhotographyDay",
-        "#OlandriaxCharlotteTilbury"
+        "#CFMTL",
+        "#TFCLive",
+        "#WorldPhotographyDay"
       ],
       "regular_topics": [
+        "Sanchez",
         "Keystone",
+        "Scherzer",
         "Carney",
         "Kory",
-        "PSPP",
         "Quebec",
-        "Meghan",
+        "PSPP",
         "Taco Tuesday",
+        "Meghan",
         "Baleba",
-        "Jesus Sanchez",
-        "Konsa",
         "$MRNA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,36 +121,36 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 19 2026 23:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 00:00:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "banni",
         "#WorldPhotographyDay",
-        "#Vantara",
+        "#vantara",
         "#bhudevi_infra_stock_news",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "real estate expansion",
         "#aistockinlimelight",
-        "#WorldHumanitarianDay",
+        "#japantrustsyogi",
         "kartick satyanarayan",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "bhudevi infra projects",
         "nhc food pe infocus"
       ],
       "hashtags": [
         "#WorldPhotographyDay",
-        "#Vantara",
+        "#vantara",
         "#bhudevi_infra_stock_news",
         "#aistockinlimelight",
-        "#WorldHumanitarianDay"
+        "#japantrustsyogi"
       ],
       "regular_topics": [
         "banni",
-        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "real estate expansion",
         "kartick satyanarayan",
+        "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
         "bhudevi infra projects",
         "nhc food pe infocus",
-        "PM CARES",
         "\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u092f\u093e\u0926\u0935",
+        "PM CARES",
         "Sergio Gor",
         "Sa True Story YtChannel",
         "FUKRA MADE TRAITORS ICONIC"
@@ -159,36 +160,36 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 19 2026 23:07:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 19 2026 23:57:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$FAITH",
         "Kang-in Lee",
         "NELFUND",
-        "Hamza",
-        "Joao Pedro",
-        "Atletico Madrid",
-        "Alex Baena",
-        "Okocha",
-        "Tottenham",
         "NSNV",
-        "$HYPE",
-        "#ColgateXBBNaija"
+        "Okocha",
+        "Hamza",
+        "Alex Baena",
+        "$BKN",
+        "Atletico Madrid",
+        "Joao Pedro",
+        "$HYPE"
       ],
       "hashtags": [
         "#ColgateXBBNaija",
         "#67MAXXING"
       ],
       "regular_topics": [
+        "$FAITH",
         "Kang-in Lee",
         "NELFUND",
-        "Hamza",
-        "Joao Pedro",
-        "Atletico Madrid",
-        "Alex Baena",
-        "Okocha",
-        "Tottenham",
         "NSNV",
-        "$HYPE",
-        "Malaga"
+        "Okocha",
+        "Hamza",
+        "Alex Baena",
+        "$BKN",
+        "Atletico Madrid",
+        "Joao Pedro",
+        "$HYPE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
