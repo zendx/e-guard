@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-20T15:53:54.325318+00:00",
+  "generated_at_utc": "2026-08-20T16:18:32.259918+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 15:13:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 16:04:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Abraham",
+        "Eric Swalwell",
+        "Nick Shirley",
+        "Golden Axe",
         "Good Thursday",
-        "Tulsi",
-        "#NationalRadioDay",
         "Harvard",
-        "#ThursdayVibes",
-        "$WMT",
-        "Happy Friday Eve",
-        "San Francisco Airport",
-        "Meghan",
-        "Rockstar"
+        "#NationalRadioDay",
+        "Balde",
+        "Bessent",
+        "Lindsay Clancy",
+        "$WMT"
       ],
       "hashtags": [
         "#NationalRadioDay",
         "#ThursdayVibes",
         "#LSA50ICONS2026",
-        "#LSA50ICONSxFayeAtom",
+        "#ConElDi\u00e1logoVenezuelaRenace",
         "#ThursdayMotivation"
       ],
       "regular_topics": [
         "Abraham",
+        "Eric Swalwell",
+        "Nick Shirley",
+        "Golden Axe",
         "Good Thursday",
-        "Tulsi",
         "Harvard",
+        "Balde",
+        "Bessent",
+        "Lindsay Clancy",
         "$WMT",
-        "Happy Friday Eve",
-        "San Francisco Airport",
-        "Meghan",
-        "Rockstar",
-        "Brody",
-        "Thirsty Thursday"
+        "Minteh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
