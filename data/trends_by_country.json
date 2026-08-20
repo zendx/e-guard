@@ -1,113 +1,113 @@
 {
-  "generated_at_utc": "2026-08-20T10:17:02.605836+00:00",
+  "generated_at_utc": "2026-08-20T10:52:55.170402+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 09:13:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:04:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Thursday",
         "#rafe",
         "#Glitter25",
+        "#Joann",
         "#rauw",
         "#Forerunners",
-        "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
         "john b",
+        "groff",
         "Barker",
         "The Nothing",
-        "$40 Trillion",
-        "Meghan",
-        "Nick Shirley Act"
+        "Meghan"
       ],
       "hashtags": [
         "#rafe",
         "#Glitter25",
+        "#Joann",
         "#rauw",
         "#Forerunners",
         "#\u0e1a\u0e27\u0e07\u0e2a\u0e23\u0e27\u0e07MagicLover",
         "#Schanz",
-        "#Joann",
         "#OBX5",
-        "#LAGalaxy",
         "#Drew",
-        "#AEWDynamite"
+        "#AEWDynamite",
+        "#Olivia"
       ],
       "regular_topics": [
+        "Good Thursday",
         "john b",
+        "groff",
         "Barker",
         "The Nothing",
-        "$40 Trillion",
         "Meghan",
         "Nick Shirley Act",
+        "$40 Trillion",
         "Magic Lover Worship",
-        "Cavs",
-        "P\u00e9rez",
-        "Nuggets",
-        "Prince Harry"
+        "Melody and Mallory",
+        "Clock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 09:39:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:30:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "GCSE",
         "Meghan",
         "Resign",
+        "Home Office",
         "#ASongOrMovieForAllAboutBacon",
         "William",
-        "Home Office",
         "Royal",
+        "#popmaster",
         "Sue Gray",
         "Rwanda",
-        "Charles",
-        "Prince Harry"
+        "#jeremyvine"
       ],
       "hashtags": [
         "#ASongOrMovieForAllAboutBacon",
-        "#Imprint",
+        "#popmaster",
         "#jeremyvine",
-        "#AdoorableThursday",
-        "#popmaster"
+        "#Imprint",
+        "#AdoorableThursday"
       ],
       "regular_topics": [
         "GCSE",
         "Meghan",
         "Resign",
-        "William",
         "Home Office",
+        "William",
         "Royal",
         "Sue Gray",
         "Rwanda",
         "Charles",
-        "Prince Harry",
-        "Montecito"
+        "Shabana Mahmood",
+        "Freedland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 09:32:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:24:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Keystone",
-        "#GoldTrading",
         "Carney",
         "Stop Loss",
         "#XAUUSD",
         "#ForexSignals",
         "#TradeSetup",
         "Quebec",
+        "Scherzer",
         "PSPP",
-        "Scherzer"
+        "TACO Tuesday"
       ],
       "hashtags": [
-        "#GoldTrading",
         "#XAUUSD",
         "#ForexSignals",
         "#TradeSetup",
-        "#VWFC"
+        "#AEWDynamite",
+        "#RTXPowersPlay"
       ],
       "regular_topics": [
         "Sanchez",
@@ -115,91 +115,90 @@
         "Carney",
         "Stop Loss",
         "Quebec",
-        "PSPP",
         "Scherzer",
+        "PSPP",
         "TACO Tuesday",
         "Loblaws",
-        "Pro Tip",
-        "Meghan"
+        "Meghan",
+        "Pro Tip"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 09:28:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:19:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "#SajjanKumar",
-        "#UPCreatorsSummit",
-        "#Ai_data_centre_stock",
         "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
-        "#RajivGandhi",
-        "#Khalifa",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "#SajjanKumar",
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "ICICI"
+        "ICICI",
+        "#RajivGandhi",
+        "#Ai_data_centre_stock",
+        "\u092a\u0924\u093f \u092e\u093e\u0928\u0938",
+        "#UPCreatorsSummit",
+        "#Vantara"
       ],
       "hashtags": [
         "#SajjanKumar",
-        "#UPCreatorsSummit",
-        "#Ai_data_centre_stock",
         "#RajivGandhi",
-        "#Khalifa"
+        "#Ai_data_centre_stock",
+        "#UPCreatorsSummit",
+        "#Vantara"
       ],
       "regular_topics": [
-        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
         "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
         "ICICI",
         "\u092a\u0924\u093f \u092e\u093e\u0928\u0938",
         "\u0917\u094b\u092e\u0924\u0940 \u0928\u0917\u0930",
-        "Banni",
         "\u0924\u093f\u0939\u093e\u0921\u093c \u091c\u0947\u0932",
-        "\u0938\u093f\u0916 \u0935\u093f\u0930\u094b\u0927\u0940"
+        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "\u0938\u093f\u0916 \u0935\u093f\u0930\u094b\u0927\u0940",
+        "No Delimitation"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 09:27:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 10:18:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Okocha",
         "#TCAugustMeeting2026",
-        "#MTNAt25",
+        "#BASIS",
         "#ThreeCrownsMilk",
-        "#YelloStreet",
+        "#MTNAt25",
+        "Haaland",
         "#BetwayClubhouse",
-        "Blessed Thursday",
-        "Happy Isese",
-        "Dr. Adedeji Adeleke",
-        "Mapema",
-        "DJ Chicken"
+        "BLUEPRINTS X BLUETHOPIA",
+        "WE LOVE BLUETHOPIA",
+        "Matty",
+        "Kambwala"
       ],
       "hashtags": [
         "#TCAugustMeeting2026",
-        "#MTNAt25",
+        "#BASIS",
         "#ThreeCrownsMilk",
-        "#YelloStreet",
-        "#BetwayClubhouse",
-        "#NSPPD"
+        "#MTNAt25",
+        "#BetwayClubhouse"
       ],
       "regular_topics": [
         "Okocha",
-        "Blessed Thursday",
+        "Haaland",
+        "BLUEPRINTS X BLUETHOPIA",
+        "WE LOVE BLUETHOPIA",
+        "Matty",
+        "Kambwala",
+        "DJ Chicken",
         "Happy Isese",
         "Dr. Adedeji Adeleke",
-        "Mapema",
-        "DJ Chicken",
-        "Today is Thursday",
-        "Gemhalla Extreme",
-        "Moise Kean",
-        "HYPE",
-        "Inter Miami"
+        "Bolton",
+        "Roy Keane"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
