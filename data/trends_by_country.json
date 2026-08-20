@@ -1,42 +1,40 @@
 {
-  "generated_at_utc": "2026-08-20T16:56:50.859334+00:00",
+  "generated_at_utc": "2026-08-20T17:19:50.068540+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 16:04:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 16:56:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Abraham",
         "Eric Swalwell",
-        "Nick Shirley",
-        "Golden Axe",
-        "Good Thursday",
+        "Abraham",
         "Harvard",
-        "#NationalRadioDay",
-        "Balde",
+        "Minteh",
+        "Golden Axe",
         "Bessent",
+        "Balde",
         "Lindsay Clancy",
-        "$WMT"
+        "Nick Shirley",
+        "Ilja",
+        "Cleo Sol"
       ],
       "hashtags": [
         "#NationalRadioDay",
         "#ThursdayVibes",
-        "#LSA50ICONS2026",
-        "#ConElDi\u00e1logoVenezuelaRenace",
-        "#ThursdayMotivation"
+        "#StellCrazy"
       ],
       "regular_topics": [
-        "Abraham",
         "Eric Swalwell",
-        "Nick Shirley",
-        "Golden Axe",
-        "Good Thursday",
+        "Abraham",
         "Harvard",
-        "Balde",
+        "Minteh",
+        "Golden Axe",
         "Bessent",
+        "Balde",
         "Lindsay Clancy",
-        "$WMT",
-        "Minteh"
+        "Nick Shirley",
+        "Ilja",
+        "Cleo Sol"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
