@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-08-21T04:59:33.442137+00:00",
+  "generated_at_utc": "2026-08-21T05:30:42.083949+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 04:08:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 05:00:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
         "Donell",
         "Raiders",
         "Paige",
         "Big Rich Town",
+        "Adrian Martinez",
         "Mendoza",
-        "Jacob Cowing",
-        "Where I Wanna Be",
-        "Stribling",
         "Trey Lance",
-        "Stutter"
+        "Jacob Cowing",
+        "Chargers",
+        "Stribling"
       ],
       "hashtags": [
         "#Verzuz",
-        "#RaiderNation",
         "#FTTB",
-        "#TNAiMPACT",
+        "#THE_SIN_BLISS_OutNow",
+        "#BloodyParadise",
         "#49ers"
       ],
       "regular_topics": [
@@ -30,13 +30,13 @@
         "Raiders",
         "Paige",
         "Big Rich Town",
+        "Adrian Martinez",
         "Mendoza",
-        "Jacob Cowing",
-        "Where I Wanna Be",
-        "Stribling",
         "Trey Lance",
-        "Stutter",
-        "Big Pun"
+        "Jacob Cowing",
+        "Chargers",
+        "Stribling",
+        "Where I Wanna Be"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,85 +82,85 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 04:25:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 05:16:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
-        "#bb28",
-        "Donell",
         "Kinew",
-        "Vance",
+        "Donell",
         "Jivani",
-        "Awak",
+        "#bb28",
+        "Vance",
         "Sanchez",
-        "Meghan",
         "Tony",
-        "Kory"
+        "Kory",
+        "Meghan",
+        "Manitoba"
       ],
       "hashtags": [
         "#Verzuz",
         "#bb28",
-        "#Alouettes",
         "#WWELondon",
-        "#ForexSignals"
+        "#THE_SIN_BLISS",
+        "#Alouettes"
       ],
       "regular_topics": [
-        "Donell",
         "Kinew",
-        "Vance",
+        "Donell",
         "Jivani",
-        "Awak",
+        "Vance",
         "Sanchez",
-        "Meghan",
         "Tony",
         "Kory",
+        "Meghan",
         "Manitoba",
-        "Keystone"
+        "Keystone",
+        "Rockstar"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 04:20:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 05:12:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Breaking_news_Omega",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
-        "#GodMorningFriday",
         "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
         "#Irumudi",
         "Starlink",
+        "#GodMorningFriday",
         "#KalyanSingh",
-        "#Varamahalakshmi",
+        "#VaralakshmiVratham",
+        "\u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u092d\u093e\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0906\u092f\u094b\u0917",
-        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f \u0906\u0902\u0926\u094b\u0932\u0928",
-        "Arnab"
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f \u0906\u0902\u0926\u094b\u0932\u0928"
       ],
       "hashtags": [
         "#Breaking_news_Omega",
-        "#GodMorningFriday",
         "#Irumudi",
+        "#GodMorningFriday",
         "#KalyanSingh",
-        "#Varamahalakshmi"
+        "#VaralakshmiVratham"
       ],
       "regular_topics": [
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
         "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
         "Starlink",
+        "\u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u092d\u093e\u091f\u0940",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0906\u092f\u094b\u0917",
         "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f \u0906\u0902\u0926\u094b\u0932\u0928",
         "Arnab",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u0906\u0902\u0926\u094b\u0932\u0928",
-        "\u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u092d\u093e\u091f\u0940",
-        "Board",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0902\u0917\u0940\u0924",
-        "Sharmila Tagore"
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u0906\u0902\u0926\u094b\u0932\u0928",
+        "\u0909\u0938\u094d\u0924\u093e\u0926 \u092c\u093f\u0938\u094d\u092e\u093f\u0932\u094d\u0932\u093e\u0939 \u0916\u093c\u093e\u0901",
+        "\u0905\u0935\u093f\u0928\u093e\u0936 \u092a\u093e\u0902\u0921\u0947\u092f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 04:20:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 05:12:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Okocha",
         "Tony",
@@ -172,13 +172,13 @@
         "Baleba",
         "Bella",
         "Savinho",
-        "Tram"
+        "Temi"
       ],
       "hashtags": [
         "#starlife",
         "#buyingcontent",
         "#BetOnChampions",
-        "#BBNaija",
+        "#latina",
         "#67MAXXING"
       ],
       "regular_topics": [
@@ -192,7 +192,7 @@
         "Baleba",
         "Bella",
         "Savinho",
-        "Tram"
+        "Temi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
