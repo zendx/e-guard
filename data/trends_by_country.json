@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T17:20:24.215663+00:00",
+  "generated_at_utc": "2026-08-21T17:51:27.085683+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 16:33:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:27:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Minteh",
         "Ezri",
-        "Mudryk",
-        "Bacio",
-        "Coventry",
-        "Alvarez",
-        "Arapaho Gold",
-        "Fire TV",
         "#thechase",
-        "Welcome to the Arsenal",
-        "Mahmic",
-        "Nunthorpe"
+        "Mudryk",
+        "#FPLCommunity",
+        "Coventry",
+        "Bacio",
+        "Signing of the Season",
+        "Fire TV",
+        "Nygren",
+        "Bench Boost"
       ],
       "hashtags": [
         "#thechase",
+        "#FPLCommunity",
         "#LastFourWatched",
-        "#DutchGP",
-        "#PondPhuwinConcertD1",
-        "#FPLCommunity"
+        "#ARSCOV",
+        "#PondPhuwinConcertD1"
       ],
       "regular_topics": [
+        "Minteh",
         "Ezri",
         "Mudryk",
-        "Bacio",
         "Coventry",
-        "Alvarez",
-        "Arapaho Gold",
+        "Bacio",
+        "Signing of the Season",
         "Fire TV",
-        "Welcome to the Arsenal",
-        "Mahmic",
-        "Nunthorpe",
-        "Nygren"
+        "Nygren",
+        "Bench Boost",
+        "Player of the Season",
+        "Alvarez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 16:27:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:18:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinew",
         "Jivani",
@@ -90,18 +90,18 @@
         "Meghan",
         "Tony",
         "Fally",
-        "#Verzuz",
-        "LINGORM ILF EP10",
         "Nathan Lukes",
         "Lindsay Clancy",
+        "LINGORM ILF EP10",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "Kory"
       ],
       "hashtags": [
-        "#Verzuz",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
+        "#Verzuz",
+        "#PondPhuwinConcertD1",
         "#XAUUSD",
-        "#\u0e41\u0e2e\u0e1b\u0e1b\u0e35\u0e49\u0e41\u0e17\u0e17",
-        "#PondPhuwinConcertD1"
+        "#bb28"
       ],
       "regular_topics": [
         "Kinew",
@@ -110,34 +110,34 @@
         "Meghan",
         "Tony",
         "Fally",
-        "LINGORM ILF EP10",
         "Nathan Lukes",
         "Lindsay Clancy",
+        "LINGORM ILF EP10",
         "Kory",
-        "Quebec"
+        "langdon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 16:21:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:15:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#UPRise2026",
         "#HERinsurance",
+        "#UPRise2026",
         "#TestMuConf2026",
         "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
-        "#HBDGhanshyamGiri",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "#HBDGhanshyamGiri",
         "WE WANT SVC63 UPDATE",
-        "Kanpur",
         "Raksha Bandhan",
         "Aditya Birla",
+        "Kanpur",
         "Jantar Mantar"
       ],
       "hashtags": [
-        "#UPRise2026",
         "#HERinsurance",
+        "#UPRise2026",
         "#TestMuConf2026",
         "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
         "#HBDGhanshyamGiri"
@@ -145,54 +145,54 @@
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "WE WANT SVC63 UPDATE",
-        "Kanpur",
         "Raksha Bandhan",
         "Aditya Birla",
+        "Kanpur",
         "Jantar Mantar",
-        "\u0938\u093e\u0924 \u0918\u0902\u091f\u0947",
         "ENGENE STAND WITH SEVEN",
         "Delhi Police",
-        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0917\u093f\u0930\u0940",
-        "Kalyan Singh"
+        "\u0938\u093e\u0924 \u0918\u0902\u091f\u0947",
+        "Roadies",
+        "Production Linked Punishment"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 16:21:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:13:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
+        "#InsidiousNG",
         "#MTNZigiRewards",
         "Shakhtar Donetsk",
+        "Vouch",
         "Paredes",
-        "#BKByBetwinner",
         "Ezri Konsa",
         "Welcome to the Arsenal",
-        "#AfroCentricCulturalExpo",
         "Molina",
         "Mykhailo Mudryk",
-        "#GuinnessWin1Million"
+        "#BetOnChampions"
       ],
       "hashtags": [
+        "#InsidiousNG",
         "#MTNZigiRewards",
+        "#BetOnChampions",
         "#BKByBetwinner",
-        "#AfroCentricCulturalExpo",
-        "#GuinnessWin1Million",
-        "#Winpesa"
+        "#AfroCentricCulturalExpo"
       ],
       "regular_topics": [
         "Coventry",
         "Shakhtar Donetsk",
+        "Vouch",
         "Paredes",
         "Ezri Konsa",
         "Welcome to the Arsenal",
         "Molina",
         "Mykhailo Mudryk",
-        "Gavi",
         "Stamford",
         "Mawlid",
-        "Free Bet"
+        "Gavi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
