@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-08-21T20:10:44.698027+00:00",
+  "generated_at_utc": "2026-08-21T20:44:46.475927+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 19:34:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 20:27:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Klay",
         "Tzolis",
         "Arsenal",
         "Coventry",
-        "Kai Havertz",
+        "Giannis",
+        "Odegaard",
         "#ARSCOV",
-        "Gorilla Grodd",
-        "QC P",
-        "American Vandal",
         "Miami Heat",
-        "Saka"
+        "Saka",
+        "Roberts",
+        "Gorilla Grodd"
       ],
       "hashtags": [
         "#ARSCOV",
         "#COYG",
-        "#FursuitFriday",
         "#Tesla",
+        "#FursuitFriday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10"
       ],
       "regular_topics": [
@@ -30,13 +30,13 @@
         "Tzolis",
         "Arsenal",
         "Coventry",
-        "Kai Havertz",
-        "Gorilla Grodd",
-        "QC P",
-        "American Vandal",
+        "Giannis",
+        "Odegaard",
         "Miami Heat",
         "Saka",
-        "John Roberts"
+        "Roberts",
+        "Gorilla Grodd",
+        "Madison Keys"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
