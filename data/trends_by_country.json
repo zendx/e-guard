@@ -1,49 +1,47 @@
 {
-  "generated_at_utc": "2026-08-21T02:14:36.969787+00:00",
+  "generated_at_utc": "2026-08-21T03:26:07.962205+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 01:32:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 02:24:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
         "Donell",
+        "Big Rich Town",
         "Mendoza",
+        "Where I Wanna Be",
+        "Paige",
+        "Big Pun",
         "Raiders",
-        "Faded Pictures",
-        "Woody Marks",
-        "Mike Washington",
-        "Good Girls",
-        "Kamu",
-        "Awak",
-        "Texans"
+        "Stutter",
+        "G-Unit",
+        "Love Scene"
       ],
       "hashtags": [
         "#Verzuz",
-        "#RaiderNation",
         "#TNAiMPACT",
-        "#MAFS",
-        "#HTownMade"
+        "#RaiderNation"
       ],
       "regular_topics": [
         "Donell",
+        "Big Rich Town",
         "Mendoza",
+        "Where I Wanna Be",
+        "Paige",
+        "Big Pun",
         "Raiders",
-        "Faded Pictures",
-        "Woody Marks",
-        "Mike Washington",
-        "Good Girls",
-        "Kamu",
-        "Awak",
-        "Texans",
-        "Kratos"
+        "Stutter",
+        "G-Unit",
+        "Love Scene",
+        "More & More"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 01:57:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 02:49:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
         "Donell",
@@ -59,7 +57,7 @@
       ],
       "hashtags": [
         "#Verzuz",
-        "#loveisblinduk",
+        "#LoveIsBlindUK",
         "#bcafc",
         "#swfc",
         "#bb28"
@@ -82,26 +80,26 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 01:51:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 02:42:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
-        "#bb28",
         "Donell",
+        "#bb28",
         "Carney",
         "Kinew",
         "Vance",
         "Jivani",
         "#WWELondon",
         "Sanchez",
-        "Angela",
-        "Kory"
+        "Awak",
+        "Paige"
       ],
       "hashtags": [
         "#Verzuz",
         "#bb28",
         "#WWELondon",
         "#Alouettes",
-        "#XAUUSD"
+        "#ForexSignals"
       ],
       "regular_topics": [
         "Donell",
@@ -110,69 +108,69 @@
         "Vance",
         "Jivani",
         "Sanchez",
-        "Angela",
-        "Kory",
+        "Awak",
         "Paige",
-        "Meghan",
-        "Tony"
+        "Kory",
+        "Angela",
+        "Meghan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 01:46:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 02:36:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GodMorningFriday",
+        "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
-        "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
+        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
+        "#Irumudi",
+        "#KalyanSingh",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "#RajivGandhi",
-        "#Irumudi",
-        "#UPCreatorsSummit",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f \u0906\u0902\u0926\u094b\u0932\u0928",
         "\u091c\u0917\u0924 \u091c\u0928\u0928\u0940"
       ],
       "hashtags": [
         "#GodMorningFriday",
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
-        "#RajivGandhi",
         "#Irumudi",
-        "#UPCreatorsSummit"
+        "#KalyanSingh",
+        "#RajivGandhi"
       ],
       "regular_topics": [
-        "Sa News YouTube Channel",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
-        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "Sa News YouTube Channel",
         "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f \u0906\u0902\u0926\u094b\u0932\u0928",
         "\u091c\u0917\u0924 \u091c\u0928\u0928\u0940",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0906\u092f\u094b\u0917",
+        "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
         "nhc foods",
         "banni",
-        "Omega",
-        "Ameer Log",
-        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e"
+        "\u0915\u093e\u0915\u093e \u0915\u093e\u0932\u0947\u0932\u0915\u0930"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 01:45:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 02:36:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tony",
-        "Temi and Tram",
         "Keivo",
+        "Temi and Tram",
         "Tram and Temi",
         "#starlife",
-        "Tottenham",
         "Kievo",
-        "Okocha",
+        "Tottenham",
         "Savinho",
-        "Rome",
-        "#BBNaijaseason11"
+        "#BBNaijaseason11",
+        "Balde",
+        "Rome"
       ],
       "hashtags": [
         "#starlife",
@@ -180,16 +178,16 @@
       ],
       "regular_topics": [
         "Tony",
-        "Temi and Tram",
         "Keivo",
+        "Temi and Tram",
         "Tram and Temi",
-        "Tottenham",
         "Kievo",
-        "Okocha",
+        "Tottenham",
         "Savinho",
-        "Rome",
         "Balde",
-        "Romans"
+        "Rome",
+        "Romans",
+        "Chairman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
