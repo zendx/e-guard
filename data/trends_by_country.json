@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T21:43:57.517373+00:00",
+  "generated_at_utc": "2026-08-21T22:10:03.296184+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 20:52:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 21:44:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
         "Coventry",
         "#ARSCOV",
-        "Odegaard",
         "#TOTP",
+        "Odegaard",
         "Saka",
-        "Lampard",
-        "Havertz",
-        "Simms",
         "#PUSB",
+        "Lampard",
+        "Simms",
+        "Havertz",
         "Rushworth"
       ],
       "hashtags": [
         "#ARSCOV",
         "#TOTP",
         "#PUSB",
-        "#BodyUpABandOrArtist",
-        "#COYG"
+        "#COYG",
+        "#BodyUpABandOrArtist"
       ],
       "regular_topics": [
         "Tzolis",
@@ -70,51 +70,51 @@
         "Odegaard",
         "Saka",
         "Lampard",
-        "Havertz",
         "Simms",
+        "Havertz",
         "Rushworth",
-        "Gabriel",
-        "Calafiori",
-        "Minteh"
+        "Merino",
+        "Goretzka",
+        "Gabriel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 20:45:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 21:37:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
-        "Coventry",
         "Kinew",
         "Arsenal",
+        "Coventry",
         "Jivani",
-        "Klay",
         "Keegan",
-        "Odegaard",
         "Vance",
-        "Kai Havertz",
-        "Lampard"
+        "Madueke",
+        "Klay",
+        "Lampard",
+        "Saka"
       ],
       "hashtags": [
         "#ARSCOV",
         "#Verzuz",
         "#PondPhuwinConcertD1",
-        "#bb28",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
+        "#bb28"
       ],
       "regular_topics": [
         "Tzolis",
-        "Coventry",
         "Kinew",
         "Arsenal",
+        "Coventry",
         "Jivani",
-        "Klay",
         "Keegan",
-        "Odegaard",
         "Vance",
-        "Kai Havertz",
-        "Lampard"
+        "Madueke",
+        "Klay",
+        "Lampard",
+        "Saka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -164,39 +164,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 20:40:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 21:32:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
         "Tzolis",
         "#ARSCOV",
         "Vouch",
-        "Kai Havertz",
         "Lampard",
+        "Kai Havertz",
+        "Odegaard",
         "Saka",
-        "Carlos Baleba",
-        "Martin Odegaard",
         "#COYG",
+        "Carlos Baleba",
         "Championship"
       ],
       "hashtags": [
         "#ARSCOV",
         "#COYG",
-        "#5kprediction",
         "#EPL2026",
-        "#PremierLeague"
+        "#PremierLeague",
+        "#5kprediction"
       ],
       "regular_topics": [
         "Arsenal",
         "Tzolis",
         "Vouch",
-        "Kai Havertz",
         "Lampard",
+        "Kai Havertz",
+        "Odegaard",
         "Saka",
         "Carlos Baleba",
-        "Martin Odegaard",
         "Championship",
-        "Odegard",
-        "Cristiano Ronaldo"
+        "Merino",
+        "Gunners"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
