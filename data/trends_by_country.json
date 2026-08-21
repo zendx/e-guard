@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-21T16:56:48.016649+00:00",
+  "generated_at_utc": "2026-08-21T17:20:24.215663+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 16:09:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:00:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "LINGORM ILF EP10",
-        "Good Friday",
         "#LetterboxdFriday",
+        "#FursuitFriday",
         "#LastFourWatched",
         "#FridayVibes",
-        "#FursuitFriday",
         "Rovert",
+        "Good Friday",
+        "Apple Pay",
         "Beef",
-        "RED Friday",
-        "Marc Lore"
+        "langdon"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#LetterboxdFriday",
+        "#FursuitFriday",
         "#LastFourWatched",
-        "#FridayVibes",
-        "#FursuitFriday"
+        "#FridayVibes"
       ],
       "regular_topics": [
         "LINGORM ILF EP10",
-        "Good Friday",
         "Rovert",
+        "Good Friday",
+        "Apple Pay",
         "Beef",
-        "RED Friday",
-        "Marc Lore",
-        "Friyay",
-        "Class of 2022",
         "langdon",
-        "Brandon Roy",
-        "Chester"
+        "Happy Friyay",
+        "London Johnson",
+        "Trimble",
+        "robby",
+        "Mark Mitchell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
