@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-21T17:51:27.085683+00:00",
+  "generated_at_utc": "2026-08-21T18:18:04.955274+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 17:00:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 17:52:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "QC P",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "LINGORM ILF EP10",
-        "#LetterboxdFriday",
-        "#FursuitFriday",
-        "#LastFourWatched",
-        "#FridayVibes",
         "Rovert",
-        "Good Friday",
+        "#FursuitFriday",
         "Apple Pay",
+        "#LetterboxdFriday",
         "Beef",
+        "#FridayVibes",
+        "#LastFourWatched",
         "langdon"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
-        "#LetterboxdFriday",
         "#FursuitFriday",
-        "#LastFourWatched",
-        "#FridayVibes"
+        "#LetterboxdFriday",
+        "#FridayVibes",
+        "#LastFourWatched"
       ],
       "regular_topics": [
+        "QC P",
         "LINGORM ILF EP10",
         "Rovert",
-        "Good Friday",
         "Apple Pay",
         "Beef",
         "langdon",
-        "Happy Friyay",
-        "London Johnson",
-        "Trimble",
         "robby",
-        "Mark Mitchell"
+        "Trimble",
+        "London Johnson",
+        "PRIME Act",
+        "Cooper Thissen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 17:13:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:04:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Coventry",
-        "#InsidiousNG",
-        "#MTNZigiRewards",
-        "Shakhtar Donetsk",
+        "Arsenal",
         "Vouch",
+        "#InsidiousNG",
+        "Shakhtar Donetsk",
+        "Stamford Bridge",
+        "Al Nassr",
+        "Minteh",
+        "#BetOnChampions",
+        "#MTNZigiRewards",
         "Paredes",
-        "Ezri Konsa",
-        "Welcome to the Arsenal",
-        "Molina",
-        "Mykhailo Mudryk",
-        "#BetOnChampions"
+        "Ezri Konsa"
       ],
       "hashtags": [
         "#InsidiousNG",
-        "#MTNZigiRewards",
         "#BetOnChampions",
+        "#MTNZigiRewards",
         "#BKByBetwinner",
-        "#AfroCentricCulturalExpo"
+        "#ARSCOV"
       ],
       "regular_topics": [
-        "Coventry",
-        "Shakhtar Donetsk",
+        "Arsenal",
         "Vouch",
+        "Shakhtar Donetsk",
+        "Stamford Bridge",
+        "Al Nassr",
+        "Minteh",
         "Paredes",
         "Ezri Konsa",
-        "Welcome to the Arsenal",
-        "Molina",
         "Mykhailo Mudryk",
-        "Stamford",
-        "Mawlid",
-        "Gavi"
+        "Molina",
+        "Michele Di Gregorio"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
