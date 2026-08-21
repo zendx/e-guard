@@ -1,42 +1,44 @@
 {
-  "generated_at_utc": "2026-08-21T10:53:47.366292+00:00",
+  "generated_at_utc": "2026-08-21T11:14:26.421511+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 10:09:25 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 11:00:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "RED Friday",
         "#PondPhuwinConcertD1",
         "PONDPHUWIN STAR VOYAGE",
-        "RED Friday",
+        "Ox Alpha",
         "#Verzuz",
         "Lala",
-        "Ox Alpha",
         "Donell",
         "IPTV",
-        "Brandon Roy",
-        "dee hoh",
-        "Raiders"
+        "The Duskbloods",
+        "Collar",
+        "Game Day"
       ],
       "hashtags": [
         "#PondPhuwinConcertD1",
         "#Verzuz",
         "#THE_SIN_BLISS_OutNow",
         "#BloodyParadise",
-        "#ENHYPEN"
+        "#ENHYPEN",
+        "#Irumudi",
+        "#FTTB"
       ],
       "regular_topics": [
-        "PONDPHUWIN STAR VOYAGE",
         "RED Friday",
-        "Lala",
+        "PONDPHUWIN STAR VOYAGE",
         "Ox Alpha",
+        "Lala",
         "Donell",
         "IPTV",
+        "The Duskbloods",
+        "Collar",
+        "Game Day",
         "Brandon Roy",
-        "dee hoh",
-        "Raiders",
-        "Grant Hill",
-        "Paige"
+        "Michael Cohen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
