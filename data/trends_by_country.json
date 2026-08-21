@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-21T07:13:23.873251+00:00",
+  "generated_at_utc": "2026-08-21T08:01:44.767204+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 06:42:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 07:33:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Verzuz",
         "Donell",
         "#PondPhuwinConcertD1",
         "PONDPHUWIN STAR VOYAGE",
-        "Raiders",
-        "DEE HOH",
-        "Adrian Martinez",
-        "Paige",
-        "Chargers",
         "Lala",
+        "Dee HOH",
+        "Raiders",
+        "Paige",
+        "Brandon Roy",
+        "#ENHYPEN",
         "#THE_SIN_BLISS_OutNow"
       ],
       "hashtags": [
         "#Verzuz",
         "#PondPhuwinConcertD1",
-        "#THE_SIN_BLISS_OutNow",
         "#ENHYPEN",
+        "#THE_SIN_BLISS_OutNow",
         "#BloodyParadise"
       ],
       "regular_topics": [
         "Donell",
         "PONDPHUWIN STAR VOYAGE",
-        "Raiders",
-        "DEE HOH",
-        "Adrian Martinez",
-        "Paige",
-        "Chargers",
         "Lala",
+        "Dee HOH",
+        "Raiders",
+        "Paige",
+        "Brandon Roy",
+        "Adrian Martinez",
         "Trey Lance",
-        "Mendoza",
-        "Jacob Cowing"
+        "Jacob Cowing",
+        "Ox Alpha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 06:16:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 07:06:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Meghan",
-        "#Verzuz",
+        "Marmoush",
         "GCSE",
         "Minteh",
-        "Marmoush",
         "Spurs",
         "Resign",
-        "#PondPhuwinConcertD1",
         "PONDPHUWIN STAR VOYAGE",
+        "#FingerpostFriday",
+        "#Verzuz",
         "Baleba",
-        "Donell"
+        "Home Office"
       ],
       "hashtags": [
+        "#FingerpostFriday",
         "#Verzuz",
         "#PondPhuwinConcertD1",
         "#loveisblinduk",
-        "#bcafc",
-        "#swfc"
+        "#FridayFeeling"
       ],
       "regular_topics": [
         "Meghan",
+        "Marmoush",
         "GCSE",
         "Minteh",
-        "Marmoush",
         "Spurs",
         "Resign",
         "PONDPHUWIN STAR VOYAGE",
         "Baleba",
-        "Donell",
+        "Home Office",
         "Villa",
-        "Home Office"
+        "Konsa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 07:00:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 07:51:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinew",
         "#bb28",
@@ -113,84 +113,85 @@
         "Kory",
         "Manitoba",
         "Keystone",
-        "Fally",
-        "Rockstar"
+        "Rockstar",
+        "Loblaws"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 06:54:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 07:46:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#day4_upper_circuit_omega",
-        "#IndiaMauritiusUrjaMaitri",
+        "#InMobiEncore26",
+        "#NHCFOODSUndervaluedValuePick",
+        "#YogiConnectsUPJapanGenZ",
+        "#\u092d\u094d\u0930\u0937\u094d\u091f_\u091a\u0941\u0928\u093e\u0935_\u0905\u0927\u093f\u0915\u093e\u0930\u0940",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
-        "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
-        "#AkhileshKalyanJiSeKyunDvesh",
-        "#Irumudi",
-        "4.36 Cr",
-        "9.03 Cr PAT",
+        "#day4_upper_circuit_omega",
         "Ashutosh Ranka",
-        "149.25 Cr",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940"
+        "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
+        "Rajasthan",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
+        "4.36 Cr"
       ],
       "hashtags": [
-        "#day4_upper_circuit_omega",
-        "#IndiaMauritiusUrjaMaitri",
-        "#AkhileshKalyanJiSeKyunDvesh",
-        "#Irumudi",
-        "#Vantara"
+        "#InMobiEncore26",
+        "#NHCFOODSUndervaluedValuePick",
+        "#YogiConnectsUPJapanGenZ",
+        "#\u092d\u094d\u0930\u0937\u094d\u091f_\u091a\u0941\u0928\u093e\u0935_\u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+        "#day4_upper_circuit_omega"
       ],
       "regular_topics": [
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
+        "Ashutosh Ranka",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
+        "Rajasthan",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
         "4.36 Cr",
         "9.03 Cr PAT",
-        "Ashutosh Ranka",
+        "\u0936\u094d\u0930\u0940 \u0938\u093e\u0908\u0902",
         "149.25 Cr",
-        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940",
-        "Starlink",
-        "Rajasthan",
-        "\u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u092d\u093e\u091f\u0940",
-        "Bagru"
+        "Bagru",
+        "\u092a\u0942\u0930\u094d\u0935 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 06:54:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 07:45:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Coventry",
         "Jummah Mubarak",
         "Tony",
-        "Mr Stark",
-        "Today is Friday",
         "THE PREMIER LEAGUE IS BACK",
-        "Coventry",
+        "EPL IS BACK",
         "Savinho",
-        "Aiden",
+        "Today is Friday",
+        "Axel Disasi",
         "Spurs",
-        "Tottenham",
-        "Nyesom Wike"
+        "Mr Stark",
+        "Blessed Friday"
       ],
       "hashtags": [
         "#THFC",
         "#starlife",
+        "#CPFC",
         "#BingX"
       ],
       "regular_topics": [
+        "Coventry",
         "Jummah Mubarak",
         "Tony",
-        "Mr Stark",
-        "Today is Friday",
         "THE PREMIER LEAGUE IS BACK",
-        "Coventry",
+        "EPL IS BACK",
         "Savinho",
-        "Aiden",
+        "Today is Friday",
+        "Axel Disasi",
         "Spurs",
-        "Tottenham",
-        "Nyesom Wike"
+        "Mr Stark",
+        "Blessed Friday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
