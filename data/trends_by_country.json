@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T19:03:07.146063+00:00",
+  "generated_at_utc": "2026-08-21T19:43:23.887842+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,77 +43,77 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 18:18:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 19:09:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Minteh",
-        "#FPLCommunity",
-        "Coventry",
         "#ARSCOV",
-        "Bench Boost",
-        "Ezri",
+        "Coventry",
+        "Minteh",
+        "North London Forever",
+        "#FPLCommunity",
+        "Guy Ritchie",
         "The Gentlemen",
-        "#thechase",
-        "Saka and Rice",
-        "Mudryk",
-        "No Haaland"
+        "Bench Boost",
+        "Curtis",
+        "#COYG",
+        "#thechase"
       ],
       "hashtags": [
-        "#FPLCommunity",
         "#ARSCOV",
+        "#FPLCommunity",
+        "#COYG",
         "#thechase",
-        "#PremierLeague",
-        "#LastFourWatched"
+        "#PUSB"
       ],
       "regular_topics": [
-        "Minteh",
         "Coventry",
-        "Bench Boost",
-        "Ezri",
+        "Minteh",
+        "North London Forever",
+        "Guy Ritchie",
         "The Gentlemen",
+        "Bench Boost",
+        "Curtis",
+        "Ezri",
         "Saka and Rice",
-        "Mudryk",
-        "No Haaland",
-        "Signing of the Season",
-        "Player of the Season",
-        "Rice and Saka"
+        "COME ON YOU GUNNERS",
+        "Mbaye"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 18:09:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 19:03:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinew",
         "Jivani",
         "Vance",
         "Olivier Primeau",
-        "Meghan",
-        "Tony",
-        "Fally",
         "Arsenal",
-        "Lindsay Clancy",
         "Sant\u00e9 Qu\u00e9bec",
+        "Meghan",
+        "Fally",
+        "Tony",
+        "Lindsay Clancy",
         "Nathan Lukes"
       ],
       "hashtags": [
         "#Verzuz",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#PondPhuwinConcertD1",
         "#XAUUSD",
-        "#bb28"
+        "#bb28",
+        "#WWELondon"
       ],
       "regular_topics": [
         "Kinew",
         "Jivani",
         "Vance",
         "Olivier Primeau",
-        "Meghan",
-        "Tony",
-        "Fally",
         "Arsenal",
-        "Lindsay Clancy",
         "Sant\u00e9 Qu\u00e9bec",
+        "Meghan",
+        "Fally",
+        "Tony",
+        "Lindsay Clancy",
         "Nathan Lukes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 18:06:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:57:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HBDMegaStarChiranjeevi",
         "#HERinsurance",
         "#UPRise2026",
+        "Vouch",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "#TestMuConf2026",
-        "#HBDMegaStarChiranjeevi",
-        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
+        "#ReservationDebate",
         "WE WANT SVC63 UPDATE",
-        "Jantar Mantar",
         "ENGENE STAND WITH SEVEN",
-        "Vouch",
-        "Raksha Bandhan"
+        "Top 1,000",
+        "Aditya Birla"
       ],
       "hashtags": [
+        "#HBDMegaStarChiranjeevi",
         "#HERinsurance",
         "#UPRise2026",
         "#TestMuConf2026",
-        "#HBDMegaStarChiranjeevi",
-        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939"
+        "#ReservationDebate"
       ],
       "regular_topics": [
+        "Vouch",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "WE WANT SVC63 UPDATE",
-        "Jantar Mantar",
         "ENGENE STAND WITH SEVEN",
-        "Vouch",
-        "Raksha Bandhan",
+        "Top 1,000",
         "Aditya Birla",
+        "Neeraj Chopra",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "Delhi Police",
-        "PONDPHUWIN STAR VOYAGE",
-        "Kanpur",
-        "\u0938\u093e\u0924 \u0918\u0902\u091f\u0947"
+        "Raksha Bandhan",
+        "iPhone 15"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 18:04:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:56:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
         "Vouch",
-        "#InsidiousNG",
-        "Shakhtar Donetsk",
-        "Stamford Bridge",
+        "Arsenal",
+        "#5kprediction",
+        "Cristiano Ronaldo",
+        "#ARSCOV",
         "Al Nassr",
         "Minteh",
         "#BetOnChampions",
-        "#MTNZigiRewards",
-        "Paredes",
-        "Ezri Konsa"
+        "Shakhtar Donetsk",
+        "Player of the Year",
+        "Stamford Bridge"
       ],
       "hashtags": [
-        "#InsidiousNG",
+        "#5kprediction",
+        "#ARSCOV",
         "#BetOnChampions",
-        "#MTNZigiRewards",
-        "#BKByBetwinner",
-        "#ARSCOV"
+        "#InsidiousNG",
+        "#COYG"
       ],
       "regular_topics": [
-        "Arsenal",
         "Vouch",
-        "Shakhtar Donetsk",
-        "Stamford Bridge",
+        "Arsenal",
+        "Cristiano Ronaldo",
         "Al Nassr",
         "Minteh",
-        "Paredes",
-        "Ezri Konsa",
-        "Mykhailo Mudryk",
-        "Molina",
-        "Michele Di Gregorio"
+        "Shakhtar Donetsk",
+        "Player of the Year",
+        "Stamford Bridge",
+        "Top 1k",
+        "Road to 1000",
+        "Golden Boot"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
