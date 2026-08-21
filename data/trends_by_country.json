@@ -1,43 +1,42 @@
 {
-  "generated_at_utc": "2026-08-21T13:22:49.761621+00:00",
+  "generated_at_utc": "2026-08-21T14:02:55.868851+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 12:44:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 13:36:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
+        "LINGORM ILF EP10",
+        "#FridayVibes",
         "RED Friday",
         "Happy Friyay",
-        "#FridayVibes",
         "#PondPhuwinConcertD1",
-        "Remember Everyone Deployed",
+        "Game Day",
         "PONDPHUWIN STAR VOYAGE",
-        "GAME DAY",
-        "#FridayMotivation",
-        "#FursuitFriday",
-        "Ox Alpha"
+        "Remember Everyone Deployed",
+        "#FridayMotivation"
       ],
       "hashtags": [
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#FridayVibes",
         "#PondPhuwinConcertD1",
         "#FridayMotivation",
-        "#FursuitFriday",
-        "#ENHYPEN",
-        "#Irumudi"
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "Good Friday",
+        "LINGORM ILF EP10",
         "RED Friday",
         "Happy Friyay",
-        "Remember Everyone Deployed",
+        "Game Day",
         "PONDPHUWIN STAR VOYAGE",
-        "GAME DAY",
-        "Ox Alpha",
-        "Scrappy",
-        "Finally Friday",
-        "Michael Cohen",
-        "Doris Miller"
+        "Remember Everyone Deployed",
+        "Imported",
+        "Brandon Roy",
+        "HAPPY FRIDAY EVERYONE",
+        "Burks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -83,117 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 13:00:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 13:52:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Chester",
         "Kinew",
         "Jivani",
         "Good Friday",
-        "#Verzuz",
-        "Donell",
+        "Chester",
+        "Vance",
         "Meghan",
+        "#Verzuz",
         "Tony",
-        "Manitoba",
-        "Sanchez",
-        "Vance"
+        "Kory",
+        "nathan lukes",
+        "#XAUUSD"
       ],
       "hashtags": [
         "#Verzuz",
-        "#PondPhuwinConcertD1",
-        "#bb28",
         "#XAUUSD",
-        "#WWELondon"
+        "#WWELondon",
+        "#PondPhuwinConcertD1",
+        "#bb28"
       ],
       "regular_topics": [
-        "Chester",
         "Kinew",
         "Jivani",
         "Good Friday",
-        "Donell",
+        "Chester",
+        "Vance",
         "Meghan",
         "Tony",
-        "Manitoba",
-        "Sanchez",
-        "Vance",
-        "Kory"
+        "Kory",
+        "nathan lukes",
+        "Lindsay Clancy",
+        "Donell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 12:56:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 13:48:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
         "#SunidhiOnKBCTonight",
         "#InMobiEncore26",
-        "#WelcomeToTheJungleJioHotstar",
         "#RoyalStagMantri",
-        "FARHANA DEFINES HYPE",
-        "#YogiConnectsUPJapanGenZ",
-        "Dialogue Builds Bridges",
-        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
+        "#WelcomeToTheJungleJioHotstar",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Rajasthan",
-        "paresh rawal"
+        "FARHANA DEFINES HYPE",
+        "Kalyan Singh",
+        "Dialogue Builds Bridges",
+        "PONDPHUWIN STAR VOYAGE",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917"
       ],
       "hashtags": [
+        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
         "#SunidhiOnKBCTonight",
         "#InMobiEncore26",
-        "#WelcomeToTheJungleJioHotstar",
         "#RoyalStagMantri",
-        "#YogiConnectsUPJapanGenZ"
+        "#WelcomeToTheJungleJioHotstar"
       ],
       "regular_topics": [
-        "FARHANA DEFINES HYPE",
-        "Dialogue Builds Bridges",
-        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Rajasthan",
-        "paresh rawal",
-        "Akshay",
+        "FARHANA DEFINES HYPE",
+        "Kalyan Singh",
+        "Dialogue Builds Bridges",
         "PONDPHUWIN STAR VOYAGE",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
+        "Rajasthan",
+        "Paresh Rawal",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
-        "Jaipur",
-        "Ashutosh Ranka"
+        "Akshay",
+        "Jaipur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 12:54:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 13:45:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
+        "#Winpesa",
         "#DTN100",
-        "#PastorChrisOyakhilome",
         "Josh2Funny Album",
+        "#PastorChrisOyakhilome",
+        "Thomas Partey",
+        "Al Shabab",
         "#DonCrucifixtoOmoOniDodo",
+        "Mawlid",
         "Premier League",
-        "Tony",
-        "#AskBinance",
-        "#gloneversettle4less",
-        "Agent OS",
-        "Aaron Wan-Bissaka"
+        "GCSE"
       ],
       "hashtags": [
+        "#Winpesa",
         "#DTN100",
         "#PastorChrisOyakhilome",
         "#DonCrucifixtoOmoOniDodo",
-        "#AskBinance",
-        "#gloneversettle4less"
+        "#AskBinance"
       ],
       "regular_topics": [
         "Coventry",
         "Josh2Funny Album",
+        "Thomas Partey",
+        "Al Shabab",
+        "Mawlid",
         "Premier League",
-        "Tony",
-        "Agent OS",
-        "Aaron Wan-Bissaka",
-        "Diana Eneje",
+        "GCSE",
+        "Andoni Iraola",
         "Isaac Fayose",
-        "Savinho",
-        "Even Spider-Man",
-        "$MESSY"
+        "Agent OS",
+        "Skel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
