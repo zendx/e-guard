@@ -1,104 +1,104 @@
 {
-  "generated_at_utc": "2026-08-21T18:18:04.955274+00:00",
+  "generated_at_utc": "2026-08-21T19:03:07.146063+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 17:52:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:43:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "QC P",
+        "Gorilla Grodd",
+        "American Vandal",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
-        "LINGORM ILF EP10",
         "Rovert",
+        "#Tesla",
         "#FursuitFriday",
-        "Apple Pay",
-        "#LetterboxdFriday",
         "Beef",
-        "#FridayVibes",
-        "#LastFourWatched",
-        "langdon"
+        "Apple Pay",
+        "LINGORM ILF EP10",
+        "robby"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
+        "#Tesla",
         "#FursuitFriday",
         "#LetterboxdFriday",
-        "#FridayVibes",
-        "#LastFourWatched"
+        "#FridayVibes"
       ],
       "regular_topics": [
         "QC P",
-        "LINGORM ILF EP10",
+        "Gorilla Grodd",
+        "American Vandal",
         "Rovert",
-        "Apple Pay",
         "Beef",
-        "langdon",
+        "Apple Pay",
+        "LINGORM ILF EP10",
         "robby",
-        "Trimble",
-        "London Johnson",
-        "PRIME Act",
-        "Cooper Thissen"
+        "Jake Bobo",
+        "langdon",
+        "Ranchers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 17:27:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:18:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Minteh",
-        "Ezri",
-        "#thechase",
-        "Mudryk",
         "#FPLCommunity",
         "Coventry",
-        "Bacio",
-        "Signing of the Season",
-        "Fire TV",
-        "Nygren",
-        "Bench Boost"
+        "#ARSCOV",
+        "Bench Boost",
+        "Ezri",
+        "The Gentlemen",
+        "#thechase",
+        "Saka and Rice",
+        "Mudryk",
+        "No Haaland"
       ],
       "hashtags": [
-        "#thechase",
         "#FPLCommunity",
-        "#LastFourWatched",
         "#ARSCOV",
-        "#PondPhuwinConcertD1"
+        "#thechase",
+        "#PremierLeague",
+        "#LastFourWatched"
       ],
       "regular_topics": [
         "Minteh",
-        "Ezri",
-        "Mudryk",
         "Coventry",
-        "Bacio",
-        "Signing of the Season",
-        "Fire TV",
-        "Nygren",
         "Bench Boost",
+        "Ezri",
+        "The Gentlemen",
+        "Saka and Rice",
+        "Mudryk",
+        "No Haaland",
+        "Signing of the Season",
         "Player of the Season",
-        "Alvarez"
+        "Rice and Saka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 17:18:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:09:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinew",
         "Jivani",
         "Vance",
+        "Olivier Primeau",
         "Meghan",
         "Tony",
         "Fally",
-        "Nathan Lukes",
+        "Arsenal",
         "Lindsay Clancy",
-        "LINGORM ILF EP10",
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
-        "Kory"
+        "Sant\u00e9 Qu\u00e9bec",
+        "Nathan Lukes"
       ],
       "hashtags": [
-        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#Verzuz",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#PondPhuwinConcertD1",
         "#XAUUSD",
         "#bb28"
@@ -107,53 +107,53 @@
         "Kinew",
         "Jivani",
         "Vance",
+        "Olivier Primeau",
         "Meghan",
         "Tony",
         "Fally",
-        "Nathan Lukes",
+        "Arsenal",
         "Lindsay Clancy",
-        "LINGORM ILF EP10",
-        "Kory",
-        "langdon"
+        "Sant\u00e9 Qu\u00e9bec",
+        "Nathan Lukes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 17:15:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 18:06:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HERinsurance",
         "#UPRise2026",
-        "#TestMuConf2026",
-        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "#HBDGhanshyamGiri",
+        "#TestMuConf2026",
+        "#HBDMegaStarChiranjeevi",
+        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
         "WE WANT SVC63 UPDATE",
-        "Raksha Bandhan",
-        "Aditya Birla",
-        "Kanpur",
-        "Jantar Mantar"
+        "Jantar Mantar",
+        "ENGENE STAND WITH SEVEN",
+        "Vouch",
+        "Raksha Bandhan"
       ],
       "hashtags": [
         "#HERinsurance",
         "#UPRise2026",
         "#TestMuConf2026",
-        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
-        "#HBDGhanshyamGiri"
+        "#HBDMegaStarChiranjeevi",
+        "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939"
       ],
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "WE WANT SVC63 UPDATE",
-        "Raksha Bandhan",
-        "Aditya Birla",
-        "Kanpur",
         "Jantar Mantar",
         "ENGENE STAND WITH SEVEN",
+        "Vouch",
+        "Raksha Bandhan",
+        "Aditya Birla",
         "Delhi Police",
-        "\u0938\u093e\u0924 \u0918\u0902\u091f\u0947",
-        "Roadies",
-        "Production Linked Punishment"
+        "PONDPHUWIN STAR VOYAGE",
+        "Kanpur",
+        "\u0938\u093e\u0924 \u0918\u0902\u091f\u0947"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
