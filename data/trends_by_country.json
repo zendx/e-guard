@@ -1,181 +1,181 @@
 {
-  "generated_at_utc": "2026-08-20T23:45:51.083711+00:00",
+  "generated_at_utc": "2026-08-21T00:31:47.087483+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Aug 20 2026 22:57:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Aug 20 2026 23:48:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "2xko",
-        "Riot",
         "Kratos",
-        "Ryan Hurst",
-        "Dave Bautista",
+        "2xko",
         "Kade Anderson",
+        "Riot",
+        "Bautista",
+        "Ryan Hurst",
         "Karmelo",
+        "Doris Miller",
         "Dover",
-        "#ZombiesArtworkSweepstakes",
-        "Calvin",
-        "Jessica Bowie"
+        "Verzuz",
+        "#MAFS"
       ],
       "hashtags": [
-        "#ZombiesArtworkSweepstakes",
-        "#DEwx",
         "#MAFS",
-        "#HoldTheCrooksAccountable",
-        "#LYKNDuskAndDawnxChicago"
+        "#ZombiesArtworkSweepstakes",
+        "#LYKNDuskAndDawnxChicago",
+        "#DEwx",
+        "#tornado"
       ],
       "regular_topics": [
-        "2xko",
-        "Riot",
         "Kratos",
-        "Ryan Hurst",
-        "Dave Bautista",
+        "2xko",
         "Kade Anderson",
+        "Riot",
+        "Bautista",
+        "Ryan Hurst",
         "Karmelo",
+        "Doris Miller",
         "Dover",
-        "Calvin",
-        "Jessica Bowie",
-        "Ilja"
+        "Verzuz",
+        "Calvin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Aug 20 2026 23:24:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 00:15:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#bcafc",
         "#swfc",
         "Devlin",
+        "Savinho",
         "Tony",
-        "Valery",
+        "Marmoush",
         "Pederson",
+        "Valery",
         "Dan Neil",
         "Stadlen",
-        "Naderi",
-        "Bradford",
-        "Gassama"
+        "Naderi"
       ],
       "hashtags": [
         "#bcafc",
         "#swfc",
         "#Irumudi",
         "#Newsnight",
-        "#dragonsden"
+        "#loveyoutodeath"
       ],
       "regular_topics": [
         "Devlin",
+        "Savinho",
         "Tony",
-        "Valery",
+        "Marmoush",
         "Pederson",
+        "Valery",
         "Dan Neil",
         "Stadlen",
         "Naderi",
-        "Bradford",
-        "Gassama",
-        "Otegbayo",
-        "Minteh"
+        "Bannan",
+        "Gassama"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Aug 20 2026 23:16:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 00:08:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Carney",
         "Kinew",
         "#WWELondon",
+        "Carney",
         "Sanchez",
+        "Kratos",
+        "Jivani",
         "Keystone",
         "Kory",
+        "Vance",
         "Meghan",
-        "Tony",
-        "Riot",
-        "Ryan Hurst",
-        "Loblaws"
+        "Tony"
       ],
       "hashtags": [
         "#WWELondon",
-        "#secretstory",
-        "#XAUUSD",
         "#GoldTrading",
+        "#XAUUSD",
         "#ForexSignals"
       ],
       "regular_topics": [
-        "Carney",
         "Kinew",
+        "Carney",
         "Sanchez",
+        "Kratos",
+        "Jivani",
         "Keystone",
         "Kory",
+        "Vance",
         "Meghan",
         "Tony",
-        "Riot",
-        "Ryan Hurst",
-        "Loblaws",
-        "Rockstar"
+        "Loblaws"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Aug 20 2026 23:12:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 00:04:00 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "Sa News YouTube Channel",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "#RajivGandhi",
-        "#nhcfoodsvaluationopportunity",
         "#UPCreatorsSummit",
         "#ai_data_centre_stock",
+        "#gangstarmiragecityindia",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "nhc foods",
         "banni",
-        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Omega"
+        "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e"
       ],
       "hashtags": [
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
         "#RajivGandhi",
-        "#nhcfoodsvaluationopportunity",
         "#UPCreatorsSummit",
-        "#ai_data_centre_stock"
+        "#ai_data_centre_stock",
+        "#gangstarmiragecityindia"
       ],
       "regular_topics": [
         "Sa News YouTube Channel",
         "\u0930\u093e\u091c\u0940\u0935 \u0917\u093e\u0902\u0927\u0940",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u092d\u093e\u0930\u0924",
+        "nhc foods",
         "banni",
         "\u0926\u093f\u0935\u094d\u092f\u093e \u092e\u093f\u0936\u094d\u0930\u093e",
         "Omega",
         "\u0905\u0915\u094d\u0937\u092f \u090a\u0930\u094d\u091c\u093e",
         "\u0938\u091c\u094d\u091c\u0928 \u0915\u0941\u092e\u093e\u0930",
-        "ABHISHEK OWNED TRAITORS",
-        "spiritual hub",
-        "\u092a\u094d\u0930\u091c\u094d\u091e\u093e \u092e\u093f\u0936\u094d\u0930\u093e"
+        "abhishek owned traitors",
+        "spiritual hub"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Aug 20 2026 23:12:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 00:03:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tony",
+        "#starlife",
         "Temi and Tram",
         "Ronaldo",
         "Okocha",
+        "Tottenham",
         "Tram and Temi",
+        "Savinho",
         "Rome",
-        "Balde",
-        "Chairman",
-        "Romans",
-        "#starlife",
-        "Tram and Sheba"
+        "#BBNaijaseason11",
+        "Balde"
       ],
       "hashtags": [
         "#starlife",
+        "#BBNaijaseason11",
         "#BBNaijaXSmirnoff"
       ],
       "regular_topics": [
@@ -183,13 +183,13 @@
         "Temi and Tram",
         "Ronaldo",
         "Okocha",
+        "Tottenham",
         "Tram and Temi",
+        "Savinho",
         "Rome",
         "Balde",
         "Chairman",
-        "Romans",
-        "Tram and Sheba",
-        "Oyinbo"
+        "Romans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
