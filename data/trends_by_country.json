@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T14:58:49.668263+00:00",
+  "generated_at_utc": "2026-08-21T15:29:00.806930+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,46 +43,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 14:00:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:51:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Bacio",
+        "arapaho gold",
         "Al Nayyir",
+        "Nunthorpe",
         "Micky van de Ven",
-        "Maddison",
-        "Pedro Porro",
         "Coventry",
-        "#PondPhuwinConcertD1",
-        "Roberto De Zerbi",
-        "Fury",
-        "Savinho",
-        "Ben Davies",
-        "Madders"
+        "Maddison",
+        "Marco Polo",
+        "Alvarez",
+        "Mykhailo Mudryk",
+        "Fury"
       ],
       "hashtags": [
         "#PondPhuwinConcertD1",
-        "#pilotstwtselfieday",
         "#DutchGP",
-        "#FlowersOnFriday",
-        "#ARSCOV"
+        "#ENGvPAK",
+        "#pilotstwtselfieday",
+        "#aplaceinthesun"
       ],
       "regular_topics": [
+        "Bacio",
+        "arapaho gold",
         "Al Nayyir",
+        "Nunthorpe",
         "Micky van de Ven",
-        "Maddison",
-        "Pedro Porro",
         "Coventry",
-        "Roberto De Zerbi",
-        "Fury",
-        "Savinho",
-        "Ben Davies",
-        "Madders",
-        "Archie Gray"
+        "Maddison",
+        "Marco Polo",
+        "Alvarez",
+        "Mykhailo Mudryk",
+        "Fury"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 13:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:44:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Kinew",
         "Jivani",
@@ -90,18 +90,18 @@
         "Chester",
         "Vance",
         "Meghan",
-        "#Verzuz",
         "Tony",
-        "Kory",
-        "nathan lukes",
-        "#XAUUSD"
+        "#RiskManagement",
+        "#Verzuz",
+        "Fally",
+        "Kory"
       ],
       "hashtags": [
+        "#RiskManagement",
         "#Verzuz",
         "#XAUUSD",
-        "#WWELondon",
         "#PondPhuwinConcertD1",
-        "#bb28"
+        "#FridayVibes"
       ],
       "regular_topics": [
         "Kinew",
@@ -111,10 +111,10 @@
         "Vance",
         "Meghan",
         "Tony",
+        "Fally",
         "Kory",
-        "nathan lukes",
-        "Lindsay Clancy",
-        "Donell"
+        "Nathan Lukes",
+        "Lindsay Clancy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
