@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-21T14:02:55.868851+00:00",
+  "generated_at_utc": "2026-08-21T14:58:49.668263+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 13:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:27:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Friday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
@@ -13,69 +13,69 @@
         "RED Friday",
         "Happy Friyay",
         "#PondPhuwinConcertD1",
-        "Game Day",
-        "PONDPHUWIN STAR VOYAGE",
-        "Remember Everyone Deployed",
-        "#FridayMotivation"
+        "#FursuitFriday",
+        "#LetterboxdFriday",
+        "Brandon Roy",
+        "Chester"
       ],
       "hashtags": [
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
         "#FridayVibes",
         "#PondPhuwinConcertD1",
-        "#FridayMotivation",
-        "#FursuitFriday"
+        "#FursuitFriday",
+        "#LetterboxdFriday"
       ],
       "regular_topics": [
         "Good Friday",
         "LINGORM ILF EP10",
         "RED Friday",
         "Happy Friyay",
+        "Brandon Roy",
+        "Chester",
         "Game Day",
+        "Imported",
         "PONDPHUWIN STAR VOYAGE",
         "Remember Everyone Deployed",
-        "Imported",
-        "Brandon Roy",
-        "HAPPY FRIDAY EVERYONE",
-        "Burks"
+        "Neen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 13:08:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:00:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Al Nayyir",
         "Micky van de Ven",
-        "Savinho",
-        "Ethel",
+        "Maddison",
         "Pedro Porro",
-        "Taemin",
         "Coventry",
         "#PondPhuwinConcertD1",
-        "Andoni Iraola",
-        "Frankfurt",
+        "Roberto De Zerbi",
         "Fury",
-        "#pilotstwtselfieday"
+        "Savinho",
+        "Ben Davies",
+        "Madders"
       ],
       "hashtags": [
         "#PondPhuwinConcertD1",
         "#pilotstwtselfieday",
         "#DutchGP",
-        "#ASongOrMovieForVacationWear",
-        "#FlowersOnFriday"
+        "#FlowersOnFriday",
+        "#ARSCOV"
       ],
       "regular_topics": [
+        "Al Nayyir",
         "Micky van de Ven",
-        "Savinho",
-        "Ethel",
+        "Maddison",
         "Pedro Porro",
-        "Taemin",
         "Coventry",
-        "Andoni Iraola",
-        "Frankfurt",
+        "Roberto De Zerbi",
         "Fury",
-        "Marmoush",
-        "PONDPHUWIN STAR VOYAGE"
+        "Savinho",
+        "Ben Davies",
+        "Madders",
+        "Archie Gray"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -121,38 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 13:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:39:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HERinsurance",
+        "#TesMuConf26",
+        "#HBDGhanshyamGiri",
         "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
-        "#SunidhiOnKBCTonight",
-        "#InMobiEncore26",
         "#RoyalStagMantri",
-        "#WelcomeToTheJungleJioHotstar",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "FARHANA DEFINES HYPE",
-        "Kalyan Singh",
-        "Dialogue Builds Bridges",
+        "Aditya Birla",
+        "Raksha Bandhan",
         "PONDPHUWIN STAR VOYAGE",
-        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917"
+        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0917\u093f\u0930\u0940",
+        "Rajasthan"
       ],
       "hashtags": [
+        "#HERinsurance",
+        "#TesMuConf26",
+        "#HBDGhanshyamGiri",
         "#\u0935\u0940\u0930_\u0932\u094b\u0927_\u0915\u0932\u094d\u092f\u093e\u0923_\u0938\u093f\u0902\u0939",
-        "#SunidhiOnKBCTonight",
-        "#InMobiEncore26",
-        "#RoyalStagMantri",
-        "#WelcomeToTheJungleJioHotstar"
+        "#RoyalStagMantri"
       ],
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "FARHANA DEFINES HYPE",
-        "Kalyan Singh",
-        "Dialogue Builds Bridges",
+        "Aditya Birla",
+        "Raksha Bandhan",
         "PONDPHUWIN STAR VOYAGE",
-        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
+        "\u0918\u0928\u0936\u094d\u092f\u093e\u092e \u0917\u093f\u0930\u0940",
         "Rajasthan",
-        "Paresh Rawal",
-        "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
-        "Akshay",
+        "kalyan singh",
+        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
+        "FARHANA DEFINES HYPE",
+        "\u091b\u093e\u0924\u094d\u0930 \u0938\u093e\u0939\u093f\u0932",
         "Jaipur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 13:45:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 14:39:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
         "#Winpesa",
-        "#DTN100",
-        "Josh2Funny Album",
-        "#PastorChrisOyakhilome",
+        "#AfroCentricCulturalExpo",
         "Thomas Partey",
-        "Al Shabab",
-        "#DonCrucifixtoOmoOniDodo",
+        "#GuinnessWin1Million",
         "Mawlid",
-        "Premier League",
-        "GCSE"
+        "#dtn100",
+        "Al Shabab",
+        "Paredes",
+        "Josh2Funny Album",
+        "Free Bet"
       ],
       "hashtags": [
         "#Winpesa",
-        "#DTN100",
-        "#PastorChrisOyakhilome",
-        "#DonCrucifixtoOmoOniDodo",
-        "#AskBinance"
+        "#AfroCentricCulturalExpo",
+        "#GuinnessWin1Million",
+        "#dtn100",
+        "#PastorChrisOyakhilome"
       ],
       "regular_topics": [
         "Coventry",
-        "Josh2Funny Album",
         "Thomas Partey",
-        "Al Shabab",
         "Mawlid",
-        "Premier League",
+        "Al Shabab",
+        "Paredes",
+        "Josh2Funny Album",
+        "Free Bet",
         "GCSE",
+        "Premier League",
         "Andoni Iraola",
-        "Isaac Fayose",
-        "Agent OS",
-        "Skel"
+        "Launchpool"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
