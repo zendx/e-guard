@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T20:44:46.475927+00:00",
+  "generated_at_utc": "2026-08-21T21:11:20.179858+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,156 +43,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Aug 21 2026 20:00:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 20:52:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
         "Coventry",
         "#ARSCOV",
+        "Odegaard",
+        "#TOTP",
         "Saka",
-        "Kai Havertz",
         "Lampard",
-        "#PUSB",
-        "Gabriel",
+        "Havertz",
         "Simms",
-        "Minteh",
-        "Calafiori"
+        "#PUSB",
+        "Rushworth"
       ],
       "hashtags": [
         "#ARSCOV",
+        "#TOTP",
         "#PUSB",
         "#BodyUpABandOrArtist",
-        "#COYG",
-        "#FPLCommunity"
+        "#COYG"
       ],
       "regular_topics": [
         "Tzolis",
         "Coventry",
+        "Odegaard",
         "Saka",
-        "Kai Havertz",
         "Lampard",
-        "Gabriel",
+        "Havertz",
         "Simms",
-        "Minteh",
+        "Rushworth",
+        "Gabriel",
         "Calafiori",
-        "North London Forever",
-        "Curtis"
+        "Minteh"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 19:54:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 20:45:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tzolis",
         "Coventry",
-        "Klay",
         "Kinew",
         "Arsenal",
-        "Keegan",
         "Jivani",
-        "Kai Havertz",
+        "Klay",
+        "Keegan",
+        "Odegaard",
         "Vance",
-        "#ARSCOV",
-        "Saka"
+        "Kai Havertz",
+        "Lampard"
       ],
       "hashtags": [
         "#ARSCOV",
-        "#PondPhuwinConcertD1",
         "#Verzuz",
+        "#PondPhuwinConcertD1",
         "#bb28",
-        "#COYG"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10"
       ],
       "regular_topics": [
         "Tzolis",
         "Coventry",
-        "Klay",
         "Kinew",
         "Arsenal",
-        "Keegan",
         "Jivani",
-        "Kai Havertz",
+        "Klay",
+        "Keegan",
+        "Odegaard",
         "Vance",
-        "Saka",
-        "Odegaard"
+        "Kai Havertz",
+        "Lampard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 19:51:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 20:42:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HBDMegaStarChiranjeevi",
         "Tzolis",
-        "#HERinsurance",
+        "#HBDMegaStarChiranjeevi",
         "Vouch",
-        "#UPRise2026",
-        "#ARSCOV",
         "Arsenal",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Kai Havertz",
+        "#ARSCOV",
+        "#HERinsurance",
+        "#UPRise2026",
+        "Saka",
         "Coventry",
-        "Neeraj Chopra"
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "Kai Havertz"
       ],
       "hashtags": [
         "#HBDMegaStarChiranjeevi",
+        "#ARSCOV",
         "#HERinsurance",
         "#UPRise2026",
-        "#ARSCOV",
         "#ENconnected_By_FATE"
       ],
       "regular_topics": [
         "Tzolis",
         "Vouch",
         "Arsenal",
+        "Saka",
+        "Coventry",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "Kai Havertz",
-        "Coventry",
         "Neeraj Chopra",
-        "Top 1,000",
-        "Reservation",
-        "Saka",
-        "Jantar Mantar"
+        "Odegaard",
+        "Lila",
+        "Top 1,000"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 19:49:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 20:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "Vouch",
-        "#ARSCOV",
-        "Kai Havertz",
         "Tzolis",
-        "Saka",
+        "#ARSCOV",
+        "Vouch",
+        "Kai Havertz",
         "Lampard",
-        "#5kprediction",
+        "Saka",
         "Carlos Baleba",
-        "Cristiano Ronaldo",
-        "King Kai"
+        "Martin Odegaard",
+        "#COYG",
+        "Championship"
       ],
       "hashtags": [
         "#ARSCOV",
-        "#5kprediction",
         "#COYG",
+        "#5kprediction",
         "#EPL2026",
-        "#InsidiousNG"
+        "#PremierLeague"
       ],
       "regular_topics": [
         "Arsenal",
+        "Tzolis",
         "Vouch",
         "Kai Havertz",
-        "Tzolis",
-        "Saka",
         "Lampard",
+        "Saka",
         "Carlos Baleba",
-        "Cristiano Ronaldo",
-        "King Kai",
-        "The GOAT",
-        "Welcome to Manchester United"
+        "Martin Odegaard",
+        "Championship",
+        "Odegard",
+        "Cristiano Ronaldo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
