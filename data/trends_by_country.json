@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T08:52:42.543371+00:00",
+  "generated_at_utc": "2026-08-22T09:14:54.985853+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,31 +43,31 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 08:03:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:54:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
-        "MATCH DAY",
-        "Tzolis",
         "#ARSCOV",
+        "Tzolis",
+        "MATCH DAY",
         "Minteh",
         "#Caturday",
         "Meghan",
-        "#PostboxSaturday",
+        "#ASongOrMovieForFarmEquipment",
         "Spurs",
-        "#KeepLooking",
+        "#PostboxSaturday",
         "Savinho"
       ],
       "hashtags": [
         "#ARSCOV",
         "#Caturday",
+        "#ASongOrMovieForFarmEquipment",
         "#PostboxSaturday",
-        "#KeepLooking",
         "#PUSB"
       ],
       "regular_topics": [
         "Coventry",
-        "MATCH DAY",
         "Tzolis",
+        "MATCH DAY",
         "Minteh",
         "Meghan",
         "Spurs",
@@ -75,23 +75,23 @@
         "Marmoush",
         "Premier League",
         "GAME DAY",
-        "PONDPHUWIN SOUL ODYSSEY"
+        "Martinelli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 07:56:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:48:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Lutnick",
         "Canada",
-        "Carney",
+        "Lutnick",
         "#DuelClav",
+        "Carney",
         "#DuelMogs",
         "#stakescam",
-        "Trump",
         "Kinew",
+        "Trump",
         "Jivani",
         "Manitoba",
         "#SmackDown"
@@ -104,56 +104,56 @@
         "#BINI_SIGNALS_CALGARY"
       ],
       "regular_topics": [
-        "Lutnick",
         "Canada",
+        "Lutnick",
         "Carney",
-        "Trump",
         "Kinew",
+        "Trump",
         "Jivani",
         "Manitoba",
         "Vance",
-        "Nutlick",
         "Coventry",
-        "Elks"
+        "Keegan",
+        "Nutlick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 07:51:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:43:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HappyBirthdayManavManglani",
         "Joymoti",
+        "#ResignHarshSanghavi",
         "Vantara",
-        "#KAAKA",
         "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
-        "#Jio299Continues",
-        "#globalup",
+        "#Dial1975",
+        "#KAAKA",
         "Shoriful Islam",
-        "Mitchell Starc",
         "PONDPHUWIN SOUL ODYSSEY",
+        "SWIM",
         "iPhone"
       ],
       "hashtags": [
         "#HappyBirthdayManavManglani",
-        "#KAAKA",
+        "#ResignHarshSanghavi",
         "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
-        "#Jio299Continues",
-        "#globalup"
+        "#Dial1975",
+        "#KAAKA"
       ],
       "regular_topics": [
         "Joymoti",
         "Vantara",
         "Shoriful Islam",
-        "Mitchell Starc",
         "PONDPHUWIN SOUL ODYSSEY",
+        "SWIM",
         "iPhone",
         "Vouch",
-        "Cameron Green",
-        "Rain Water",
-        "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
-        "ISRO"
+        "ISRO",
+        "Bhavnagar",
+        "Mitchell Starc",
+        "DUNK NAVORI AT OSMEP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
