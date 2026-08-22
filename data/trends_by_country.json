@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-22T09:14:54.985853+00:00",
+  "generated_at_utc": "2026-08-22T09:47:37.893327+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 08:30:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 09:21:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#PondPhuwinConcertD2",
         "PONDPHUWIN SOUL ODYSSEY",
         "Michael Wright",
-        "#DuelClav",
+        "Carney",
         "#stakescam",
-        "Leo Rivas",
         "Alek Thomas",
         "Zeferjahn",
+        "#DuelClav",
         "Nick Chubb",
-        "Henry Davis",
-        "TOMMY EDMAN"
+        "TOMMY EDMAN",
+        "Petticoat Junction"
       ],
       "hashtags": [
         "#PondPhuwinConcertD2",
-        "#DuelClav",
         "#stakescam",
-        "#ROHDBD",
-        "#SmackDown"
+        "#DuelClav",
+        "#SmackDown",
+        "#ROHDBD"
       ],
       "regular_topics": [
         "PONDPHUWIN SOUL ODYSSEY",
         "Michael Wright",
-        "Leo Rivas",
+        "Carney",
         "Alek Thomas",
         "Zeferjahn",
         "Nick Chubb",
-        "Henry Davis",
         "TOMMY EDMAN",
-        "Bregman",
-        "Carney",
-        "Petticoat Junction"
+        "Petticoat Junction",
+        "Henry Davis",
+        "The Five Heartbeats",
+        "Leo Rivas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
