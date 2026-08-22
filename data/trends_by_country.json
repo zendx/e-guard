@@ -1,40 +1,39 @@
 {
-  "generated_at_utc": "2026-08-22T22:08:13.460125+00:00",
+  "generated_at_utc": "2026-08-22T22:43:22.896591+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 21:24:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 22:16:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#UFCSacramento",
         "Canada",
         "Vini",
         "Deshaun Watson",
-        "Shedeur",
         "Get Smart",
+        "Espi",
         "Maxwell Smart",
-        "Tyrone Tracy",
-        "Orihime",
-        "Jack Strand",
-        "#UFCSacramento",
-        "Carney"
+        "Shedeur",
+        "Browns",
+        "Dorsainvil",
+        "Real Madrid"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#Browns",
-        "#Falcons",
+        "#RamsHouse",
         "#DawgPound"
       ],
       "regular_topics": [
         "Canada",
         "Vini",
         "Deshaun Watson",
-        "Shedeur",
         "Get Smart",
+        "Espi",
         "Maxwell Smart",
-        "Tyrone Tracy",
-        "Orihime",
-        "Jack Strand",
-        "Carney",
+        "Shedeur",
+        "Browns",
+        "Dorsainvil",
+        "Real Madrid",
         "Mbappe"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -120,26 +119,26 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 21:36:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 22:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Espi",
-        "#OperationKayakalp",
         "Mbappe",
         "Espanyol",
+        "#OperationKayakalp",
         "Mourinho",
+        "Konate",
+        "#RealMadrid",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "#ChhatronKiGoonj",
-        "Spurs",
         "Arda Guler",
-        "#RealMadrid"
+        "Trent"
       ],
       "hashtags": [
         "#OperationKayakalp",
+        "#RealMadrid",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
-        "#RealMadrid",
-        "#BELIFT_Uphold_Artist_Rights"
+        "#HalaMadrid"
       ],
       "regular_topics": [
         "Vini",
@@ -147,51 +146,51 @@
         "Mbappe",
         "Espanyol",
         "Mourinho",
-        "Spurs",
-        "Arda Guler",
         "Konate",
-        "Dumfries",
+        "Arda Guler",
         "Trent",
-        "Brentford"
+        "Spurs",
+        "Fede",
+        "Dumfries"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 21:36:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 22:28:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Espi",
         "Vini",
+        "Espi",
         "Espanyol",
         "Mourinho",
-        "Big Wiz",
         "Konate",
-        "Tottenham",
+        "Big Wiz",
         "Diomande",
-        "Spurs",
-        "#SmirnoffParty",
-        "Arda Guler"
+        "#ESPRMA",
+        "Arda Guler",
+        "Bellingham",
+        "Tottenham"
       ],
       "hashtags": [
-        "#SmirnoffParty",
         "#ESPRMA",
+        "#SmirnoffParty",
+        "#LaLiga",
         "#Sweet16Movie",
-        "#BRETOT",
-        "#LaLiga"
+        "#BRETOT"
       ],
       "regular_topics": [
-        "Espi",
         "Vini",
+        "Espi",
         "Espanyol",
         "Mourinho",
-        "Big Wiz",
         "Konate",
-        "Tottenham",
+        "Big Wiz",
         "Diomande",
-        "Spurs",
         "Arda Guler",
-        "Wizzy"
+        "Bellingham",
+        "Tottenham",
+        "Valverde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
