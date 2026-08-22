@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-22T16:08:28.176193+00:00",
+  "generated_at_utc": "2026-08-22T16:45:29.360061+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 15:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 16:16:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Hull",
+        "Canada",
+        "Stanton",
+        "Hull City",
         "Carrick",
         "Manchester United",
-        "Man U",
-        "Good Saturday",
         "Carney",
-        "Dorgu",
-        "#Caturday",
-        "Tielemans",
-        "Maguire",
-        "Rashford"
+        "Orihime",
+        "Man U",
+        "#BLEACH",
+        "Good Saturday",
+        "Keelon Russell"
       ],
       "hashtags": [
+        "#BLEACH",
         "#Caturday",
-        "#MUFC",
         "#SaturdayVibes",
-        "#HULMUN",
-        "#PondPhuwinConcertD2"
+        "#MUFC",
+        "#Tesla"
       ],
       "regular_topics": [
-        "Hull",
+        "Canada",
+        "Stanton",
+        "Hull City",
         "Carrick",
         "Manchester United",
+        "Carney",
+        "Orihime",
         "Man U",
         "Good Saturday",
-        "Carney",
-        "Dorgu",
-        "Tielemans",
-        "Maguire",
-        "Rashford",
-        "Everton"
+        "Keelon Russell",
+        "Balde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,117 +82,117 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 15:39:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 16:31:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
+        "The US",
         "Carrick",
         "Hull",
-        "Manchester United",
-        "Dorgu",
         "Lutnick",
-        "The US",
+        "Manchester United",
+        "Team Canada",
+        "Orihime",
         "Man U",
-        "Maguire",
-        "#HULMUN",
-        "Team Canada"
+        "Dorgu",
+        "#CanadaStrong"
       ],
       "hashtags": [
+        "#CanadaStrong",
+        "#ElbowsUp",
+        "#Caturday",
         "#HULMUN",
-        "#elbowsup",
-        "#MUFC",
-        "#CanadaStrong"
+        "#MUFC"
       ],
       "regular_topics": [
         "Carney",
+        "The US",
         "Carrick",
         "Hull",
-        "Manchester United",
-        "Dorgu",
         "Lutnick",
-        "The US",
-        "Man U",
-        "Maguire",
+        "Manchester United",
         "Team Canada",
-        "Tielemans"
+        "Orihime",
+        "Man U",
+        "Dorgu",
+        "Balde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 15:36:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 16:27:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "Sant Rampal Ji Maharaj",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
         "#ChhatronKiGoonj",
+        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
+        "#PondPhuwinConcertD2",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u0936\u0947\u0921",
-        "Carrick",
-        "Hull City",
         "\u091c\u093f\u0932\u093e \u092d\u093f\u0935\u093e\u0928\u0940",
-        "#HULMUN",
-        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928"
+        "#BoycottHYBE_EndTheNeglect",
+        "#BELIFT_Uphold_Artist_Rights",
+        "SEVEN REMAINS INSEPARABLE"
       ],
       "hashtags": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
-        "#HULMUN",
-        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
-        "#PondPhuwinConcertD2"
+        "#PondPhuwinConcertD2",
+        "#BoycottHYBE_EndTheNeglect",
+        "#BELIFT_Uphold_Artist_Rights"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u0936\u0947\u0921",
+        "\u091c\u093f\u0932\u093e \u092d\u093f\u0935\u093e\u0928\u0940",
+        "SEVEN REMAINS INSEPARABLE",
+        "Balde",
         "Carrick",
         "Hull City",
-        "\u091c\u093f\u0932\u093e \u092d\u093f\u0935\u093e\u0928\u0940",
-        "Manchester United",
-        "Joymoti",
         "\u091c\u093f\u0932\u093e \u091a\u0942\u0930\u0942",
-        "\u091a\u093e\u0930\u093e \u0922\u0941\u0932\u093e\u0908"
+        "PONDPHUWIN SOUL ODYSSEY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 15:33:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 16:27:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Man U",
         "Manchester United",
+        "Hull City",
         "Maguire",
         "Dorgu",
         "Rashford",
         "Tielemans",
-        "Cunha",
-        "Ajayi",
-        "Bruno Fernandes",
-        "#MUFC"
+        "Balde",
+        "#BuildWealthWithYield",
+        "Cunha"
       ],
       "hashtags": [
-        "#MUFC",
         "#BuildWealthWithYield",
+        "#MUFC",
+        "#KnorrXGlovoJollofDay",
         "#BBNaijaXPepsi",
-        "#GGMU",
-        "#EVECRY",
-        "#SaturdayVibes"
+        "#EVECRY"
       ],
       "regular_topics": [
         "Carrick",
         "Man U",
         "Manchester United",
+        "Hull City",
         "Maguire",
         "Dorgu",
         "Rashford",
         "Tielemans",
+        "Balde",
         "Cunha",
-        "Ajayi",
-        "Bruno Fernandes",
-        "Balde"
+        "Shaw"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
