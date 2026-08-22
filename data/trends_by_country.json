@@ -1,40 +1,40 @@
 {
-  "generated_at_utc": "2026-08-22T23:08:35.797481+00:00",
+  "generated_at_utc": "2026-08-22T23:40:49.599409+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 22:16:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 23:08:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCSacramento",
         "Canada",
-        "Vini",
         "Deshaun Watson",
         "Get Smart",
-        "Espi",
-        "Maxwell Smart",
-        "Shedeur",
+        "Vini",
         "Browns",
+        "Maxwell Smart",
+        "Padilla",
         "Dorsainvil",
-        "Real Madrid"
+        "Jake Lang",
+        "Espi"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#RamsHouse",
-        "#DawgPound"
+        "#UFCFightNight",
+        "#RamsHouse"
       ],
       "regular_topics": [
         "Canada",
-        "Vini",
         "Deshaun Watson",
         "Get Smart",
-        "Espi",
-        "Maxwell Smart",
-        "Shedeur",
+        "Vini",
         "Browns",
+        "Maxwell Smart",
+        "Padilla",
         "Dorsainvil",
-        "Real Madrid",
-        "Mbappe"
+        "Jake Lang",
+        "Espi",
+        "Shedeur"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -80,46 +80,45 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 22:32:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 23:27:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "China",
-        "Carney",
         "#UFCSacramento",
         "Vini",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "The US",
         "Espi",
-        "Louis Varland",
         "#onstorm",
-        "Dylan Cease",
-        "Mbappe",
-        "CUSMA"
+        "Lutnick",
+        "CUSMA",
+        "Cease",
+        "Orihime"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#onstorm",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#CanadaUnited",
-        "#CanadaStrong"
+        "#onstorm",
+        "#CanadaUnited"
       ],
       "regular_topics": [
         "China",
-        "Carney",
         "Vini",
         "The US",
         "Espi",
-        "Louis Varland",
-        "Dylan Cease",
-        "Mbappe",
+        "Lutnick",
         "CUSMA",
-        "Mourinho",
-        "Guler"
+        "Cease",
+        "Orihime",
+        "Mbappe",
+        "Guler",
+        "Mourinho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 22:28:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 23:20:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Espi",
@@ -131,14 +130,20 @@
         "#RealMadrid",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "Arda Guler",
-        "Trent"
+        "Fede"
       ],
       "hashtags": [
         "#OperationKayakalp",
         "#RealMadrid",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
-        "#HalaMadrid"
+        "#HalaMadrid",
+        "#MohsinKhan",
+        "#BELIFT_Uphold_Artist_Rights",
+        "#BoycottHYBE_EndTheNeglect",
+        "#BLEACH",
+        "#KiaraAdvani",
+        "#PondPhuwinConcertD2"
       ],
       "regular_topics": [
         "Vini",
@@ -148,9 +153,9 @@
         "Mourinho",
         "Konate",
         "Arda Guler",
-        "Trent",
-        "Spurs",
         "Fede",
+        "Spurs",
+        "Trent",
         "Dumfries"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -158,7 +163,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 22:28:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 23:20:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Espi",
@@ -168,16 +173,15 @@
         "Big Wiz",
         "Diomande",
         "#ESPRMA",
-        "Arda Guler",
         "Bellingham",
-        "Tottenham"
+        "Arda Guler",
+        "Valverde"
       ],
       "hashtags": [
         "#ESPRMA",
         "#SmirnoffParty",
         "#LaLiga",
-        "#Sweet16Movie",
-        "#BRETOT"
+        "#Sweet16Movie"
       ],
       "regular_topics": [
         "Vini",
@@ -187,10 +191,10 @@
         "Konate",
         "Big Wiz",
         "Diomande",
-        "Arda Guler",
         "Bellingham",
-        "Tottenham",
-        "Valverde"
+        "Arda Guler",
+        "Valverde",
+        "Tottenham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
