@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-08-22T20:44:08.060541+00:00",
+  "generated_at_utc": "2026-08-22T21:09:17.678687+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 19:42:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 20:33:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
-        "Spurs",
+        "Deshaun Watson",
         "Jack Strand",
-        "Tottenham",
-        "Brentford",
+        "Shedeur",
+        "Vini",
         "Orihime",
         "Carney",
-        "Shedeur",
-        "Weathers",
-        "Stanton",
-        "Kyle Allen"
+        "Spurs",
+        "Tottenham",
+        "#Browns",
+        "Maxwell Smart"
       ],
       "hashtags": [
         "#Browns",
-        "#COYS",
-        "#RaiseHail",
-        "#Caturday",
-        "#BRETOT"
+        "#DawgPound",
+        "#Falcons",
+        "#COYS"
       ],
       "regular_topics": [
         "Canada",
-        "Spurs",
+        "Deshaun Watson",
         "Jack Strand",
-        "Tottenham",
-        "Brentford",
+        "Shedeur",
+        "Vini",
         "Orihime",
         "Carney",
-        "Shedeur",
-        "Weathers",
-        "Stanton",
-        "Kyle Allen"
+        "Spurs",
+        "Tottenham",
+        "Maxwell Smart",
+        "Brentford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,46 +81,46 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 19:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 20:48:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
         "China",
-        "Canadians",
-        "Spurs",
         "The US",
-        "Brentford",
-        "Tottenham",
-        "Dylan Cease",
+        "Cease",
+        "Vladdy",
+        "Nathan Lukes",
+        "Spurs",
         "CUSMA",
-        "#CanadaUnited",
-        "Lutnick"
+        "Tottenham",
+        "Brentford",
+        "Orihime"
       ],
       "hashtags": [
         "#CanadaUnited",
         "#CanadaStrong",
-        "#Caturday",
+        "#UFCSacramento",
         "#ElbowsUp",
-        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO"
+        "#Caturday"
       ],
       "regular_topics": [
         "Carney",
         "China",
-        "Canadians",
-        "Spurs",
         "The US",
-        "Brentford",
-        "Tottenham",
-        "Dylan Cease",
+        "Cease",
+        "Vladdy",
+        "Nathan Lukes",
+        "Spurs",
         "CUSMA",
-        "Lutnick",
-        "De Zerbi"
+        "Tottenham",
+        "Brentford",
+        "Orihime"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 19:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 20:44:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
@@ -129,70 +128,70 @@
         "Spurs",
         "Sant Rampal Ji Maharaj",
         "Brentford",
+        "Espanyol",
+        "Arda Guler",
         "Manusmriti",
         "Orihime",
-        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Mohsin"
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "hashtags": [
         "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
         "#BRETOT",
-        "#Yash"
+        "#BELIFT_Uphold_Artist_Rights"
       ],
       "regular_topics": [
         "Spurs",
         "Sant Rampal Ji Maharaj",
         "Brentford",
+        "Espanyol",
+        "Arda Guler",
         "Manusmriti",
         "Orihime",
-        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "Mohsin",
-        "Tottenham",
-        "Joymoti",
-        "\u091a\u093f\u0930\u093e\u0917 \u092a\u093e\u0938\u0935\u093e\u0928"
+        "Trent",
+        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 19:52:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 20:44:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tottenham",
         "Big Wiz",
+        "Tottenham",
+        "Espanyol",
         "Spurs",
         "Wizzy",
-        "Manchester United",
-        "Man U",
-        "Balde",
-        "De Zerbi",
+        "#SmirnoffParty",
+        "Arda Guler",
+        "Vinicius",
         "Bellingham",
-        "Popsy",
-        "Espanyol"
+        "Man U",
+        "Popsy"
       ],
       "hashtags": [
-        "#BRETOT",
+        "#SmirnoffParty",
         "#Sweet16Movie",
-        "#KnorrXGlovoJollofDay",
-        "#BuildWealthWithYield",
-        "#ThirstyForMore"
+        "#BRETOT",
+        "#ESPRMA",
+        "#BuildWealthWithYield"
       ],
       "regular_topics": [
-        "Tottenham",
         "Big Wiz",
+        "Tottenham",
+        "Espanyol",
         "Spurs",
         "Wizzy",
-        "Manchester United",
-        "Man U",
-        "Balde",
-        "De Zerbi",
+        "Arda Guler",
+        "Vinicius",
         "Bellingham",
+        "Man U",
         "Popsy",
-        "Espanyol"
+        "Balde"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
