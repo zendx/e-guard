@@ -1,81 +1,81 @@
 {
-  "generated_at_utc": "2026-08-22T08:13:57.458033+00:00",
+  "generated_at_utc": "2026-08-22T08:52:42.543371+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 07:39:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:30:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DuelClav",
-        "#stakescam",
-        "#DuelMogs",
         "#PondPhuwinConcertD2",
         "PONDPHUWIN SOUL ODYSSEY",
         "Michael Wright",
-        "Henry Davis",
-        "Tommy Edman",
-        "Leo Rivas",
-        "Alek Thomas",
-        "Nick Chubb"
-      ],
-      "hashtags": [
         "#DuelClav",
         "#stakescam",
-        "#DuelMogs",
+        "Leo Rivas",
+        "Alek Thomas",
+        "Zeferjahn",
+        "Nick Chubb",
+        "Henry Davis",
+        "TOMMY EDMAN"
+      ],
+      "hashtags": [
         "#PondPhuwinConcertD2",
-        "#ROHDBD"
+        "#DuelClav",
+        "#stakescam",
+        "#ROHDBD",
+        "#SmackDown"
       ],
       "regular_topics": [
         "PONDPHUWIN SOUL ODYSSEY",
         "Michael Wright",
-        "Henry Davis",
-        "Tommy Edman",
         "Leo Rivas",
         "Alek Thomas",
-        "Nick Chubb",
         "Zeferjahn",
+        "Nick Chubb",
+        "Henry Davis",
+        "TOMMY EDMAN",
         "Bregman",
-        "Kyle Hurt",
-        "Carney"
+        "Carney",
+        "Petticoat Junction"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 07:12:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:03:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
+        "MATCH DAY",
         "Tzolis",
         "#ARSCOV",
-        "MATCH DAY",
-        "#PostboxSaturday",
         "Minteh",
         "#Caturday",
         "Meghan",
+        "#PostboxSaturday",
         "Spurs",
-        "Savinho",
-        "Marmoush"
+        "#KeepLooking",
+        "Savinho"
       ],
       "hashtags": [
         "#ARSCOV",
-        "#PostboxSaturday",
         "#Caturday",
-        "#PUSB",
-        "#ROHDBD"
+        "#PostboxSaturday",
+        "#KeepLooking",
+        "#PUSB"
       ],
       "regular_topics": [
         "Coventry",
-        "Tzolis",
         "MATCH DAY",
+        "Tzolis",
         "Minteh",
         "Meghan",
         "Spurs",
         "Savinho",
         "Marmoush",
         "Premier League",
-        "Frankfurt",
-        "Saka"
+        "GAME DAY",
+        "PONDPHUWIN SOUL ODYSSEY"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
@@ -160,38 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 07:51:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 08:42:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Hull City",
         "#3rdYearOfBTO",
         "#TinubuInMOI",
-        "Hull City",
-        "Olubunmi Tunji-Ojo",
+        "#YariEmergesPCCDG",
         "#SuperPoweredbyiLOTBet",
-        "Ministry of Interior",
+        "Olubunmi Tunji-Ojo",
         "Ed Craven",
-        "Vouch",
         "Stake and Kick",
+        "Ministry of Interior",
         "Federal Fire Service",
-        "Nigeria Immigration Service"
+        "Vouch"
       ],
       "hashtags": [
         "#3rdYearOfBTO",
         "#TinubuInMOI",
+        "#YariEmergesPCCDG",
         "#SuperPoweredbyiLOTBet",
         "#GGMU"
       ],
       "regular_topics": [
         "Hull City",
         "Olubunmi Tunji-Ojo",
-        "Ministry of Interior",
         "Ed Craven",
-        "Vouch",
         "Stake and Kick",
+        "Ministry of Interior",
         "Federal Fire Service",
+        "Vouch",
         "Nigeria Immigration Service",
+        "Martinelli",
         "Patreon",
-        "Pastor Jerry",
-        "Martinelli"
+        "Pastor Jerry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
