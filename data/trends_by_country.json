@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T19:13:02.545988+00:00",
+  "generated_at_utc": "2026-08-22T19:41:48.926612+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 18:24:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:15:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "Brentford",
-        "#BRETOT",
-        "Bergvall",
         "Tottenham",
+        "Bergvall",
+        "#BRETOT",
         "Moore",
         "Richarlison",
-        "Sangare",
         "Gallagher",
         "De Zerbi",
-        "Igor Thiago"
+        "Sangare",
+        "Tonali"
       ],
       "hashtags": [
         "#BRETOT",
         "#THFC",
-        "#nffc",
+        "#TheVoiceUK",
         "#COYS",
-        "#cafc"
+        "#nffc"
       ],
       "regular_topics": [
         "Spurs",
         "Brentford",
-        "Bergvall",
         "Tottenham",
+        "Bergvall",
         "Moore",
         "Richarlison",
-        "Sangare",
         "Gallagher",
         "De Zerbi",
-        "Igor Thiago",
-        "Tonali"
+        "Sangare",
+        "Tonali",
+        "Van Hecke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
