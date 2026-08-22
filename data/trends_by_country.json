@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-21T23:44:02.672241+00:00",
+  "generated_at_utc": "2026-08-22T00:28:52.770705+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Aug 21 2026 23:00:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Aug 21 2026 23:52:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Klay",
-        "Demar",
-        "Tzolis",
+        "David Bailey",
+        "Geno Smith",
+        "Broderick Jones",
+        "#ROHDBD",
         "Stars and Stripes",
-        "Coventry",
-        "Arsenal",
         "Mully",
-        "Giannis",
-        "Fritz",
-        "Acuna",
-        "Bateman"
+        "Demar",
+        "Devers",
+        "Spencer Jones",
+        "Cuban"
       ],
       "hashtags": [
+        "#ROHDBD",
         "#BudSummerOf250",
-        "#NationalHawaiianShirtDay",
-        "#ARSCOV",
-        "#COYG",
-        "#FursuitFriday"
+        "#JetUp",
+        "#SkylineSerenade",
+        "#NationalHawaiianShirtDay"
       ],
       "regular_topics": [
         "Klay",
-        "Demar",
-        "Tzolis",
+        "David Bailey",
+        "Geno Smith",
+        "Broderick Jones",
         "Stars and Stripes",
-        "Coventry",
-        "Arsenal",
         "Mully",
-        "Giannis",
-        "Fritz",
-        "Acuna",
-        "Bateman"
+        "Demar",
+        "Devers",
+        "Spencer Jones",
+        "Cuban",
+        "Raffy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,75 +82,75 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Aug 21 2026 23:20:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 00:12:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SmackDown",
         "Kinew",
         "Jivani",
         "Manitoba",
-        "Coventry",
         "Vance",
+        "Coventry",
+        "Schlittler",
         "Tzolis",
         "Arsenal",
-        "Martinelli",
-        "Sant\u00e9 Qu\u00e9bec",
         "Keegan",
-        "Demar"
+        "Sant\u00e9 Qu\u00e9bec"
       ],
       "hashtags": [
         "#SmackDown",
         "#ARSCOV",
         "#Verzuz",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4cEP10",
-        "#PondPhuwinConcertD1"
+        "#FursuitFriday"
       ],
       "regular_topics": [
         "Kinew",
         "Jivani",
         "Manitoba",
-        "Coventry",
         "Vance",
+        "Coventry",
+        "Schlittler",
         "Tzolis",
         "Arsenal",
-        "Martinelli",
-        "Sant\u00e9 Qu\u00e9bec",
         "Keegan",
-        "Demar"
+        "Sant\u00e9 Qu\u00e9bec",
+        "Martinelli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Aug 21 2026 23:16:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 00:08:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#InMobiEncore26",
+        "#inmobiencore26",
         "#day4_upper_circuit_omega",
         "#Irumudi",
-        "#YogiConnectsUPJapanGenZ",
         "#herinsurance",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
+        "#YogiConnectsUPJapanGenZ",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Rajasthan",
-        "Sa News YouTube Channel",
         "149.25 cr"
       ],
       "hashtags": [
-        "#InMobiEncore26",
+        "#inmobiencore26",
         "#day4_upper_circuit_omega",
         "#Irumudi",
-        "#YogiConnectsUPJapanGenZ",
-        "#herinsurance"
+        "#herinsurance",
+        "#YogiConnectsUPJapanGenZ"
       ],
       "regular_topics": [
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
+        "\u0936\u0928\u093f \u0926\u0947\u0935",
         "Rajasthan",
-        "Sa News YouTube Channel",
         "149.25 cr",
+        "Sa News YouTube Channel",
         "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
-        "Vouch",
         "4.36 cr",
         "q1 fy27 pat",
         "Tzolis"
@@ -160,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Aug 21 2026 23:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 00:06:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vouch",
         "Arsenal",
@@ -168,9 +168,9 @@
         "#ARSCOV",
         "Martinelli",
         "Lampard",
+        "Odegaard",
         "Saka",
         "Kai Havertz",
-        "Odegaard",
         "Madueke",
         "#COYG"
       ],
@@ -178,8 +178,7 @@
         "#ARSCOV",
         "#COYG",
         "#PremierLeague",
-        "#EPL2026",
-        "#5kprediction"
+        "#EPL2026"
       ],
       "regular_topics": [
         "Vouch",
@@ -187,12 +186,12 @@
         "Tzolis",
         "Martinelli",
         "Lampard",
+        "Odegaard",
         "Saka",
         "Kai Havertz",
-        "Odegaard",
         "Madueke",
-        "Championship",
-        "Ian Wright"
+        "Ian Wright",
+        "Slash"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
