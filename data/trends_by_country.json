@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T20:08:26.969101+00:00",
+  "generated_at_utc": "2026-08-22T20:44:08.060541+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 19:15:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 20:06:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "Brentford",
-        "Tottenham",
         "Bergvall",
-        "#BRETOT",
         "Moore",
+        "#BRETOT",
         "Richarlison",
-        "Gallagher",
         "De Zerbi",
         "Sangare",
-        "Tonali"
+        "Gallagher",
+        "Tonali",
+        "Van Hecke"
       ],
       "hashtags": [
         "#BRETOT",
         "#THFC",
         "#TheVoiceUK",
-        "#COYS",
-        "#nffc"
+        "#nffc",
+        "#COYS"
       ],
       "regular_topics": [
         "Spurs",
         "Brentford",
-        "Tottenham",
         "Bergvall",
         "Moore",
         "Richarlison",
-        "Gallagher",
         "De Zerbi",
         "Sangare",
+        "Gallagher",
         "Tonali",
-        "Van Hecke"
+        "Van Hecke",
+        "Thiago"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 19:06:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:57:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
+        "China",
         "Canadians",
         "Spurs",
         "The US",
-        "Tottenham",
         "Brentford",
+        "Tottenham",
+        "Dylan Cease",
         "CUSMA",
-        "Lutnick",
-        "De Zerbi",
-        "Team Canada",
-        "#CanadaStrong"
+        "#CanadaUnited",
+        "Lutnick"
       ],
       "hashtags": [
+        "#CanadaUnited",
         "#CanadaStrong",
-        "#BLEACH",
-        "#ElbowsUp",
         "#Caturday",
+        "#ElbowsUp",
         "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO"
       ],
       "regular_topics": [
         "Carney",
+        "China",
         "Canadians",
         "Spurs",
         "The US",
-        "Tottenham",
         "Brentford",
+        "Tottenham",
+        "Dylan Cease",
         "CUSMA",
         "Lutnick",
-        "De Zerbi",
-        "Team Canada",
-        "Dylan Cease"
+        "De Zerbi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
