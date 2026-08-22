@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-22T06:17:12.819242+00:00",
+  "generated_at_utc": "2026-08-22T07:05:38.847528+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 05:56:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 06:48:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#DuelClav",
         "#stakescam",
         "#DuelMogs",
-        "#SmackDown",
-        "Henry Davis",
-        "Leo Rivas",
-        "Zeferjahn",
         "#ROHDBD",
-        "Nick Chubb",
+        "Henry Davis",
         "Bregman",
-        "Tommy Edman"
+        "Zeferjahn",
+        "Leo Rivas",
+        "Tommy Edman",
+        "#SmackDown",
+        "Nick Chubb"
       ],
       "hashtags": [
         "#DuelClav",
         "#stakescam",
         "#DuelMogs",
-        "#SmackDown",
-        "#ROHDBD"
+        "#ROHDBD",
+        "#SmackDown"
       ],
       "regular_topics": [
         "Henry Davis",
-        "Leo Rivas",
-        "Zeferjahn",
-        "Nick Chubb",
         "Bregman",
+        "Zeferjahn",
+        "Leo Rivas",
         "Tommy Edman",
+        "Nick Chubb",
         "Michael Wright",
+        "Alek Thomas",
         "Kyle Hurt",
-        "Conforto",
-        "Serrano",
-        "Tommy Tanks"
+        "PONDPHUWIN SOUL ODYSSEY",
+        "Serrano"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 05:28:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 06:20:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
-        "Tzolis",
         "#ARSCOV",
-        "#SmackDown",
+        "Tzolis",
         "Minteh",
+        "#PostboxSaturday",
         "Meghan",
         "Spurs",
         "Savinho",
         "Marmoush",
-        "#ROHDBD",
-        "#mcrdetroit"
+        "#PUSB",
+        "Premier League"
       ],
       "hashtags": [
         "#ARSCOV",
+        "#PostboxSaturday",
+        "#PUSB",
         "#SmackDown",
-        "#ROHDBD",
-        "#mcrdetroit",
-        "#PUSB"
+        "#ROHDBD"
       ],
       "regular_topics": [
         "Coventry",
@@ -73,8 +73,8 @@
         "Savinho",
         "Marmoush",
         "Premier League",
-        "Nick Wayne",
         "Frankfurt",
+        "Sami Zayn",
         "Saka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,38 +82,38 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 05:21:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 06:12:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#DuelClav",
+        "#DuelMogs",
+        "#stakescam",
         "Lutnick",
-        "Kinew",
         "Canada",
-        "Elks",
         "Carney",
-        "Manitoba",
+        "Kinew",
+        "Trump",
         "#SmackDown",
-        "Jivani",
-        "Bombers",
-        "Vance",
-        "#ROHDBD"
+        "Manitoba",
+        "Jivani"
       ],
       "hashtags": [
+        "#DuelClav",
+        "#DuelMogs",
+        "#stakescam",
         "#SmackDown",
-        "#ROHDBD",
-        "#ForTheW",
-        "#BINI_SIGNALS_CALGARY",
-        "#NoValkoNoMoney"
+        "#ForTheW"
       ],
       "regular_topics": [
         "Lutnick",
-        "Kinew",
         "Canada",
-        "Elks",
         "Carney",
+        "Kinew",
+        "Trump",
         "Manitoba",
         "Jivani",
-        "Bombers",
         "Vance",
-        "Sami",
+        "Canadians",
+        "Elks",
         "Coventry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,52 +121,48 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 05:16:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 06:08:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#KAAKA",
-        "#MaghaNakshatra",
-        "Rain Water",
-        "Mitchell Starc",
-        "#GodMorningSaturday",
-        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "#Jio299Continues",
         "#globalup",
+        "#MaghaNakshatra",
+        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "Mitchell Starc",
+        "Rain Water",
         "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
         "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u090f\u0915\u0928\u093e\u0925 \u0930\u093e\u0928\u093e\u0921\u0947",
-        "Marnus Labuschagne"
+        "Vouch",
+        "iPhone"
       ],
       "hashtags": [
         "#KAAKA",
-        "#MaghaNakshatra",
-        "#GodMorningSaturday",
-        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "#Jio299Continues",
         "#globalup",
-        "#AUSvsBAN",
-        "#MadrasDay",
-        "#Mega158",
-        "#NeerajChopra",
-        "#ChennaiDay",
-        "#\u091c\u092f_\u092c\u091c\u0930\u0902\u0917\u092c\u0932\u0940"
+        "#MaghaNakshatra",
+        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "#GodMorningSaturday",
+        "#AUSvsBAN"
       ],
       "regular_topics": [
-        "Rain Water",
         "Mitchell Starc",
+        "Rain Water",
         "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
         "\u0936\u0928\u093f \u0926\u0947\u0935",
-        "\u090f\u0915\u0928\u093e\u0925 \u0930\u093e\u0928\u093e\u0921\u0947",
-        "Marnus Labuschagne",
-        "iPhone",
-        "\u092a\u0935\u093f\u0924\u094d\u0930 \u092e\u093e\u0928\u093e",
-        "Jai Shani Dev",
         "Vouch",
-        "\u091c\u093e\u091f \u0938\u092e\u093e\u091c"
+        "iPhone",
+        "\u090f\u0915\u0928\u093e\u0925 \u0930\u093e\u0928\u093e\u0921\u0947",
+        "Shoriful Islam",
+        "Mark Carney",
+        "\u091c\u093e\u091f \u0938\u092e\u093e\u091c",
+        "Amit Shah ji"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 05:16:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 06:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Coventry",
         "#3rdYearOfBTO",
@@ -175,10 +171,10 @@
         "Tony",
         "Okocha",
         "#ARSCOV",
-        "Ronaldo",
-        "Tzolis",
         "Ministry of Interior",
-        "Olubunmi Tunji-Ojo"
+        "Olubunmi Tunji-Ojo",
+        "Ronaldo",
+        "Tzolis"
       ],
       "hashtags": [
         "#3rdYearOfBTO",
@@ -192,13 +188,13 @@
         "Vouch",
         "Tony",
         "Okocha",
-        "Ronaldo",
-        "Tzolis",
         "Ministry of Interior",
         "Olubunmi Tunji-Ojo",
+        "Ronaldo",
+        "Tzolis",
+        "Ed Craven",
         "Premier League",
-        "Lampard",
-        "Kai Havertz"
+        "Stake and Kick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
