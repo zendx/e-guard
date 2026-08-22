@@ -1,100 +1,100 @@
 {
-  "generated_at_utc": "2026-08-22T17:09:30.407138+00:00",
+  "generated_at_utc": "2026-08-22T17:41:19.206562+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 16:16:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 17:08:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Stanton",
-        "Hull City",
-        "Carrick",
-        "Manchester United",
-        "Carney",
+        "Brentford",
+        "Dobbs",
         "Orihime",
-        "Man U",
+        "Spurs",
+        "Tottenham",
+        "Carney",
+        "Bergvall",
         "#BLEACH",
-        "Good Saturday",
-        "Keelon Russell"
+        "Ichigo"
       ],
       "hashtags": [
         "#BLEACH",
         "#Caturday",
+        "#COYS",
         "#SaturdayVibes",
-        "#MUFC",
-        "#Tesla"
+        "#OnePride"
       ],
       "regular_topics": [
         "Canada",
         "Stanton",
-        "Hull City",
-        "Carrick",
-        "Manchester United",
-        "Carney",
+        "Brentford",
+        "Dobbs",
         "Orihime",
-        "Man U",
-        "Good Saturday",
-        "Keelon Russell",
-        "Balde"
+        "Spurs",
+        "Tottenham",
+        "Carney",
+        "Bergvall",
+        "Ichigo",
+        "Hull City"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 16:39:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 17:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Spurs",
+        "Bergvall",
+        "Brentford",
+        "Gallagher",
+        "Richarlison",
+        "#BRETOT",
+        "Sangare",
         "Hull",
-        "FULL TIME",
-        "Carrick",
         "Nuno",
-        "Jack Clarke",
-        "Bowen",
-        "#lufc",
-        "#nffc",
-        "#oafc",
-        "Maguire",
-        "Taty"
+        "Tottenham",
+        "Moore"
       ],
       "hashtags": [
-        "#lufc",
+        "#BRETOT",
         "#nffc",
-        "#oafc",
         "#cafc",
-        "#SAFC"
+        "#lufc",
+        "#oafc"
       ],
       "regular_topics": [
+        "Spurs",
+        "Bergvall",
+        "Brentford",
+        "Gallagher",
+        "Richarlison",
+        "Sangare",
         "Hull",
-        "FULL TIME",
-        "Carrick",
         "Nuno",
-        "Jack Clarke",
-        "Bowen",
-        "Maguire",
-        "Taty",
-        "HALF TIME",
-        "Charlton",
-        "Tielemans"
+        "Tottenham",
+        "Moore",
+        "Kinsky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 16:31:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 17:24:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
+        "Canadians",
         "The US",
-        "Carrick",
-        "Hull",
+        "Spurs",
+        "Brentford",
+        "Tottenham",
         "Lutnick",
-        "Manchester United",
         "Team Canada",
-        "Orihime",
-        "Man U",
-        "Dorgu",
-        "#CanadaStrong"
+        "CUSMA",
+        "Hull City",
+        "Carrick"
       ],
       "hashtags": [
         "#CanadaStrong",
@@ -105,94 +105,94 @@
       ],
       "regular_topics": [
         "Carney",
+        "Canadians",
         "The US",
-        "Carrick",
-        "Hull",
+        "Spurs",
+        "Brentford",
+        "Tottenham",
         "Lutnick",
-        "Manchester United",
         "Team Canada",
-        "Orihime",
-        "Man U",
-        "Dorgu",
-        "Balde"
+        "CUSMA",
+        "Hull City",
+        "Carrick"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 16:27:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 17:19:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "Sant Rampal Ji Maharaj",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
+        "Joymoti",
         "#PondPhuwinConcertD2",
-        "\u0906\u0927\u0941\u0928\u093f\u0915 \u0936\u0947\u0921",
-        "\u091c\u093f\u0932\u093e \u092d\u093f\u0935\u093e\u0928\u0940",
-        "#BoycottHYBE_EndTheNeglect",
         "#BELIFT_Uphold_Artist_Rights",
-        "SEVEN REMAINS INSEPARABLE"
+        "Brentford",
+        "#BoycottHYBE_EndTheNeglect",
+        "Balde"
       ],
       "hashtags": [
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
         "#PondPhuwinConcertD2",
-        "#BoycottHYBE_EndTheNeglect",
-        "#BELIFT_Uphold_Artist_Rights"
+        "#BELIFT_Uphold_Artist_Rights",
+        "#BoycottHYBE_EndTheNeglect"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
+        "Joymoti",
+        "Brentford",
+        "Balde",
+        "SEVEN REMAINS INSEPARABLE",
         "\u0906\u0927\u0941\u0928\u093f\u0915 \u0936\u0947\u0921",
         "\u091c\u093f\u0932\u093e \u092d\u093f\u0935\u093e\u0928\u0940",
-        "SEVEN REMAINS INSEPARABLE",
-        "Balde",
-        "Carrick",
-        "Hull City",
         "\u091c\u093f\u0932\u093e \u091a\u0942\u0930\u0942",
-        "PONDPHUWIN SOUL ODYSSEY"
+        "Vantara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 16:27:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 17:18:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Carrick",
         "Man U",
+        "Carrick",
         "Manchester United",
         "Hull City",
-        "Maguire",
-        "Dorgu",
-        "Rashford",
-        "Tielemans",
+        "Brentford",
         "Balde",
+        "Spurs",
+        "Maguire",
         "#BuildWealthWithYield",
-        "Cunha"
+        "#BRETOT",
+        "Dorgu"
       ],
       "hashtags": [
         "#BuildWealthWithYield",
-        "#MUFC",
+        "#BRETOT",
         "#KnorrXGlovoJollofDay",
-        "#BBNaijaXPepsi",
-        "#EVECRY"
+        "#HULMUN",
+        "#BBNaijaXPepsi"
       ],
       "regular_topics": [
-        "Carrick",
         "Man U",
+        "Carrick",
         "Manchester United",
         "Hull City",
+        "Brentford",
+        "Balde",
+        "Spurs",
         "Maguire",
         "Dorgu",
-        "Rashford",
         "Tielemans",
-        "Balde",
-        "Cunha",
-        "Shaw"
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
