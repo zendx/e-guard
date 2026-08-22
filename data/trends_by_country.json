@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-22T19:41:48.926612+00:00",
+  "generated_at_utc": "2026-08-22T20:08:26.969101+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 18:51:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:42:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Spurs",
+        "Jack Strand",
         "Tottenham",
         "Brentford",
         "Orihime",
         "Carney",
+        "Shedeur",
+        "Weathers",
         "Stanton",
-        "Shedeur Sanders",
-        "JJ McCarthy",
-        "Bergvall",
-        "Ryan Weathers"
+        "Kyle Allen"
       ],
       "hashtags": [
-        "#COYS",
-        "#BLEACH",
-        "#RaiseHail",
         "#Browns",
-        "#Caturday"
+        "#COYS",
+        "#RaiseHail",
+        "#Caturday",
+        "#BRETOT"
       ],
       "regular_topics": [
         "Canada",
         "Spurs",
+        "Jack Strand",
         "Tottenham",
         "Brentford",
         "Orihime",
         "Carney",
+        "Shedeur",
+        "Weathers",
         "Stanton",
-        "Shedeur Sanders",
-        "JJ McCarthy",
-        "Bergvall",
-        "Ryan Weathers"
+        "Kyle Allen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,19 +121,19 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 19:01:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:52:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "Sant Rampal Ji Maharaj",
-        "Spurs",
         "#ChhatronKiGoonj",
+        "Spurs",
+        "Sant Rampal Ji Maharaj",
         "Brentford",
+        "Manusmriti",
+        "Orihime",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Joymoti",
-        "Orihime",
-        "Tottenham"
+        "Mohsin"
       ],
       "hashtags": [
         "#OperationKayakalp",
@@ -143,16 +143,16 @@
         "#Yash"
       ],
       "regular_topics": [
-        "Sant Rampal Ji Maharaj",
         "Spurs",
+        "Sant Rampal Ji Maharaj",
         "Brentford",
+        "Manusmriti",
+        "Orihime",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Joymoti",
-        "Orihime",
-        "Tottenham",
-        "Manusmriti",
         "Mohsin",
+        "Tottenham",
+        "Joymoti",
         "\u091a\u093f\u0930\u093e\u0917 \u092a\u093e\u0938\u0935\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 19:00:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:52:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
-        "Spurs",
         "Big Wiz",
-        "Man U",
+        "Spurs",
+        "Wizzy",
         "Manchester United",
+        "Man U",
         "Balde",
-        "Carrick",
-        "Igor Thiago",
-        "#BRETOT",
         "De Zerbi",
-        "Hull City"
+        "Bellingham",
+        "Popsy",
+        "Espanyol"
       ],
       "hashtags": [
         "#BRETOT",
-        "#BBNaijaXPepsi",
-        "#BuildWealthWithYield",
         "#Sweet16Movie",
-        "#KnorrXGlovoJollofDay"
+        "#KnorrXGlovoJollofDay",
+        "#BuildWealthWithYield",
+        "#ThirstyForMore"
       ],
       "regular_topics": [
         "Tottenham",
-        "Spurs",
         "Big Wiz",
-        "Man U",
+        "Spurs",
+        "Wizzy",
         "Manchester United",
+        "Man U",
         "Balde",
-        "Carrick",
-        "Igor Thiago",
         "De Zerbi",
-        "Hull City",
-        "2baba"
+        "Bellingham",
+        "Popsy",
+        "Espanyol"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
