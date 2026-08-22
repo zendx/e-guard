@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T16:45:29.360061+00:00",
+  "generated_at_utc": "2026-08-22T17:09:30.407138+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 15:48:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 16:39:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
+        "FULL TIME",
         "Carrick",
+        "Nuno",
+        "Jack Clarke",
+        "Bowen",
+        "#lufc",
+        "#nffc",
+        "#oafc",
         "Maguire",
-        "Tielemans",
-        "#MUFC",
-        "Manchester United",
-        "Dorgu",
-        "Man Utd",
-        "Rashford",
-        "HALF TIME",
-        "#HULMUN"
+        "Taty"
       ],
       "hashtags": [
-        "#MUFC",
-        "#HULMUN",
-        "#hcafc",
+        "#lufc",
+        "#nffc",
         "#oafc",
-        "#bcfc"
+        "#cafc",
+        "#SAFC"
       ],
       "regular_topics": [
         "Hull",
+        "FULL TIME",
         "Carrick",
-        "Maguire",
-        "Tielemans",
-        "Manchester United",
-        "Dorgu",
-        "Man Utd",
-        "Rashford",
-        "HALF TIME",
         "Nuno",
-        "Shaw"
+        "Jack Clarke",
+        "Bowen",
+        "Maguire",
+        "Taty",
+        "HALF TIME",
+        "Charlton",
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
