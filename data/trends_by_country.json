@@ -1,160 +1,159 @@
 {
-  "generated_at_utc": "2026-08-22T01:56:36.508207+00:00",
+  "generated_at_utc": "2026-08-22T02:46:38.108476+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 01:36:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 02:30:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
-        "Howard",
         "Nick Chubb",
+        "Sydney Taylor",
+        "Sami",
+        "Allar",
+        "Howard",
+        "#OPLive",
         "#ROHDBD",
-        "Drew Allar",
-        "Giulia",
-        "Blake Monroe",
-        "Marshawn Lloyd",
-        "Steelers",
-        "Lil Yachty",
-        "Broderick Jones"
+        "Jake Rogers",
+        "Kevin Owens",
+        "Steelers"
       ],
       "hashtags": [
         "#SmackDown",
+        "#OPLive",
         "#ROHDBD",
-        "#SkylineSerenade",
         "#OPNation",
-        "#BroncosCountry"
+        "#GoPackGo"
       ],
       "regular_topics": [
-        "Howard",
         "Nick Chubb",
-        "Drew Allar",
-        "Giulia",
-        "Blake Monroe",
-        "Marshawn Lloyd",
+        "Sydney Taylor",
+        "Sami",
+        "Allar",
+        "Howard",
+        "Jake Rogers",
+        "Kevin Owens",
         "Steelers",
-        "Lil Yachty",
-        "Broderick Jones",
-        "Mark Cuban",
-        "Logan Webb"
+        "Jets",
+        "Punk",
+        "Alec Bohm"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 01:12:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 02:03:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
         "Coventry",
         "Tzolis",
-        "Martinelli",
         "#ARSCOV",
-        "Blake Monroe",
-        "Wrighty",
-        "#TOTP",
-        "Giulia",
-        "Odegaard",
-        "Saka"
+        "Minteh",
+        "Meghan",
+        "Spurs",
+        "Savinho",
+        "Marmoush",
+        "Sami Zayn",
+        "Kevin Owens"
       ],
       "hashtags": [
         "#SmackDown",
         "#ARSCOV",
-        "#TOTP",
         "#PUSB",
-        "#COYG",
-        "#BodyUpABandOrArtist"
+        "#TOTP",
+        "#ROHDBD"
       ],
       "regular_topics": [
         "Coventry",
         "Tzolis",
-        "Martinelli",
-        "Blake Monroe",
-        "Wrighty",
-        "Giulia",
-        "Odegaard",
-        "Saka",
-        "Ian Wright",
-        "Havertz",
-        "Lampard"
+        "Minteh",
+        "Meghan",
+        "Spurs",
+        "Savinho",
+        "Marmoush",
+        "Sami Zayn",
+        "Kevin Owens",
+        "Lil Yachty",
+        "Martinelli"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 01:03:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 01:54:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SmackDown",
         "Kinew",
-        "Jivani",
         "Manitoba",
+        "Jivani",
+        "namjoon",
         "Vance",
         "Coventry",
-        "Schlittler",
-        "Blake Monroe",
-        "Tzolis",
-        "Keegan",
-        "Arsenal"
+        "RISP",
+        "Giulia",
+        "Blake",
+        "Keegan"
       ],
       "hashtags": [
         "#SmackDown",
-        "#ROHDBD",
         "#BlueJays",
+        "#ROHDBD",
         "#ARSCOV",
         "#Verzuz"
       ],
       "regular_topics": [
         "Kinew",
-        "Jivani",
         "Manitoba",
+        "Jivani",
+        "namjoon",
         "Vance",
         "Coventry",
-        "Schlittler",
-        "Blake Monroe",
-        "Tzolis",
+        "RISP",
+        "Giulia",
+        "Blake",
         "Keegan",
-        "Arsenal",
-        "Giulia"
+        "Tzolis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 01:00:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 01:51:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#inmobiencore26",
         "#GodMorningSaturday",
-        "#Irumudi",
         "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "#inmobiencore26",
+        "#Irumudi",
+        "Mitchell Starc",
         "#breaking_news_omega",
         "#HERinsurance",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Starc",
+        "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
-        "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
-        "149.25 cr"
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e"
       ],
       "hashtags": [
-        "#inmobiencore26",
         "#GodMorningSaturday",
+        "#inmobiencore26",
         "#Irumudi",
         "#breaking_news_omega",
         "#HERinsurance"
       ],
       "regular_topics": [
         "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "Mitchell Starc",
         "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938",
-        "Starc",
+        "\u0939\u0930\u093f\u0936\u0902\u0915\u0930 \u092a\u0930\u0938\u093e\u0908",
         "\u0915\u0932\u094d\u092f\u093e\u0923 \u0938\u093f\u0902\u0939",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
         "\u0906\u0936\u0941\u0924\u094b\u0937 \u0930\u093e\u0902\u0915\u093e",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "149.25 cr",
-        "Rajasthan",
-        "Sa News YouTube Channel",
-        "\u0938\u0902\u0938\u0926 \u092e\u093e\u0930\u094d\u0917",
-        "4.36 cr",
-        "q1 fy27 pat"
+        "\u0936\u0928\u093f \u092e\u0939\u093e\u0930\u093e\u091c",
+        "Rajasthan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
