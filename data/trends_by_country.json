@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T21:41:21.806556+00:00",
+  "generated_at_utc": "2026-08-22T22:08:13.460125+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -42,156 +42,156 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 20:57:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 21:48:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
         "Brentford",
+        "Espi",
+        "Espanyol",
+        "Mbappe",
+        "#MOTD",
         "Bergvall",
         "Moore",
-        "#BRETOT",
-        "Richarlison",
         "De Zerbi",
-        "Sangare",
-        "Gallagher",
-        "Tonali",
-        "Van Hecke"
+        "#BRETOT",
+        "Richarlison"
       ],
       "hashtags": [
+        "#MOTD",
         "#BRETOT",
+        "#UFCSacramento",
         "#THFC",
-        "#TheVoiceUK",
-        "#nffc",
-        "#COYS"
+        "#TheVoiceUK"
       ],
       "regular_topics": [
         "Spurs",
         "Brentford",
+        "Espi",
+        "Espanyol",
+        "Mbappe",
         "Bergvall",
         "Moore",
-        "Richarlison",
         "De Zerbi",
-        "Sangare",
+        "Richarlison",
         "Gallagher",
-        "Tonali",
-        "Van Hecke",
-        "Espanyol"
+        "Sangare"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 20:48:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 21:40:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Carney",
         "China",
+        "Carney",
+        "Vini",
+        "Espi",
+        "Dylan Cease",
+        "Louis Varland",
         "The US",
-        "Cease",
-        "Vladdy",
+        "Mbappe",
         "Nathan Lukes",
-        "Spurs",
-        "CUSMA",
-        "Tottenham",
-        "Brentford",
-        "Orihime"
+        "Mourinho",
+        "#UFCSacramento"
       ],
       "hashtags": [
-        "#CanadaUnited",
-        "#CanadaStrong",
         "#UFCSacramento",
-        "#ElbowsUp",
-        "#Caturday"
+        "#onstorm",
+        "#CanadaUnited",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#CanadaStrong"
       ],
       "regular_topics": [
-        "Carney",
         "China",
+        "Carney",
+        "Vini",
+        "Espi",
+        "Dylan Cease",
+        "Louis Varland",
         "The US",
-        "Cease",
-        "Vladdy",
+        "Mbappe",
         "Nathan Lukes",
-        "Spurs",
-        "CUSMA",
-        "Tottenham",
-        "Brentford",
-        "Orihime"
+        "Mourinho",
+        "CUSMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 20:44:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 21:36:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Vini",
+        "Espi",
         "#OperationKayakalp",
+        "Mbappe",
+        "Espanyol",
+        "Mourinho",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
         "Spurs",
-        "Sant Rampal Ji Maharaj",
-        "Brentford",
-        "Espanyol",
         "Arda Guler",
-        "Manusmriti",
-        "Orihime",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928"
+        "#RealMadrid"
       ],
       "hashtags": [
         "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
-        "#BRETOT",
+        "#RealMadrid",
         "#BELIFT_Uphold_Artist_Rights"
       ],
       "regular_topics": [
-        "Spurs",
-        "Sant Rampal Ji Maharaj",
-        "Brentford",
+        "Vini",
+        "Espi",
+        "Mbappe",
         "Espanyol",
+        "Mourinho",
+        "Spurs",
         "Arda Guler",
-        "Manusmriti",
-        "Orihime",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Mohsin",
+        "Konate",
+        "Dumfries",
         "Trent",
-        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947"
+        "Brentford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 20:44:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 21:36:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Big Wiz",
-        "Tottenham",
+        "Espi",
+        "Vini",
         "Espanyol",
+        "Mourinho",
+        "Big Wiz",
+        "Konate",
+        "Tottenham",
+        "Diomande",
         "Spurs",
-        "Wizzy",
         "#SmirnoffParty",
-        "Arda Guler",
-        "Vinicius",
-        "Bellingham",
-        "Man U",
-        "Popsy"
+        "Arda Guler"
       ],
       "hashtags": [
         "#SmirnoffParty",
+        "#ESPRMA",
         "#Sweet16Movie",
         "#BRETOT",
-        "#ESPRMA",
-        "#BuildWealthWithYield"
+        "#LaLiga"
       ],
       "regular_topics": [
-        "Big Wiz",
-        "Tottenham",
+        "Espi",
+        "Vini",
         "Espanyol",
+        "Mourinho",
+        "Big Wiz",
+        "Konate",
+        "Tottenham",
+        "Diomande",
         "Spurs",
-        "Wizzy",
         "Arda Guler",
-        "Vinicius",
-        "Bellingham",
-        "Man U",
-        "Popsy",
-        "Balde"
+        "Wizzy"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
