@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-22T18:53:14.683256+00:00",
+  "generated_at_utc": "2026-08-22T19:13:02.545988+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 22 2026 18:00:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 18:51:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Tottenham",
-        "Spurs",
         "Canada",
+        "Spurs",
+        "Tottenham",
         "Brentford",
-        "Stanton",
         "Orihime",
         "Carney",
-        "Mikey Moore",
+        "Stanton",
+        "Shedeur Sanders",
+        "JJ McCarthy",
         "Bergvall",
-        "Dobbs",
-        "Ichigo"
+        "Ryan Weathers"
       ],
       "hashtags": [
+        "#COYS",
         "#BLEACH",
         "#RaiseHail",
-        "#COYS",
-        "#BRETOT",
+        "#Browns",
         "#Caturday"
       ],
       "regular_topics": [
-        "Tottenham",
-        "Spurs",
         "Canada",
+        "Spurs",
+        "Tottenham",
         "Brentford",
-        "Stanton",
         "Orihime",
         "Carney",
-        "Mikey Moore",
+        "Stanton",
+        "Shedeur Sanders",
+        "JJ McCarthy",
         "Bergvall",
-        "Dobbs",
-        "Ichigo"
+        "Ryan Weathers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 22 2026 18:15:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:06:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carney",
         "Canadians",
@@ -101,7 +101,7 @@
         "#BLEACH",
         "#ElbowsUp",
         "#Caturday",
-        "#HULMUN"
+        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO"
       ],
       "regular_topics": [
         "Carney",
@@ -114,85 +114,85 @@
         "Lutnick",
         "De Zerbi",
         "Team Canada",
-        "As a Canadian"
+        "Dylan Cease"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 22 2026 18:10:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:01:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "Sant Rampal Ji Maharaj",
-        "#ChhatronKiGoonj",
         "Spurs",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
+        "#ChhatronKiGoonj",
         "Brentford",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "Joymoti",
-        "#BRETOT",
-        "Mohsin",
-        "Orihime"
+        "Orihime",
+        "Tottenham"
       ],
       "hashtags": [
+        "#OperationKayakalp",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
         "#ChhatronKiGoonj",
         "#BRETOT",
-        "#BELIFT_Uphold_Artist_Rights",
-        "#BoycottHYBE_EndTheNeglect"
+        "#Yash"
       ],
       "regular_topics": [
         "Sant Rampal Ji Maharaj",
         "Spurs",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "Brentford",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
         "Joymoti",
-        "Mohsin",
         "Orihime",
-        "Vantara",
-        "SEVEN REMAINS INSEPARABLE",
-        "Balde"
+        "Tottenham",
+        "Manusmriti",
+        "Mohsin",
+        "\u091a\u093f\u0930\u093e\u0917 \u092a\u093e\u0938\u0935\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 22 2026 18:09:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 22 2026 19:00:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
         "Spurs",
+        "Big Wiz",
         "Man U",
-        "Carrick",
         "Manchester United",
-        "Hull City",
+        "Balde",
+        "Carrick",
         "Igor Thiago",
         "#BRETOT",
-        "Balde",
         "De Zerbi",
-        "#BuildWealthWithYield"
+        "Hull City"
       ],
       "hashtags": [
         "#BRETOT",
-        "#BuildWealthWithYield",
         "#BBNaijaXPepsi",
-        "#KnorrXGlovoJollofDay",
-        "#HULMUN"
+        "#BuildWealthWithYield",
+        "#Sweet16Movie",
+        "#KnorrXGlovoJollofDay"
       ],
       "regular_topics": [
         "Tottenham",
         "Spurs",
+        "Big Wiz",
         "Man U",
-        "Carrick",
         "Manchester United",
-        "Hull City",
-        "Igor Thiago",
         "Balde",
+        "Carrick",
+        "Igor Thiago",
         "De Zerbi",
-        "Maguire",
-        "Dorgu"
+        "Hull City",
+        "2baba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
