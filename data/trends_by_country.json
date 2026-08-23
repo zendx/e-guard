@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-23T19:12:23.555344+00:00",
+  "generated_at_utc": "2026-08-23T19:41:10.825024+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 18:24:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 19:16:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Liverpool",
         "Jeffries",
         "Kushner",
-        "Newcastle",
-        "Isak",
+        "Liverpool",
         "Canada",
+        "Isak",
+        "Newcastle",
+        "Argentina",
         "#OlandriaxBETVlog",
-        "Wirtz",
-        "Frimpong",
         "#Freedom250",
-        "Lewis Hall"
+        "Wirtz",
+        "Vick"
       ],
       "hashtags": [
         "#OlandriaxBETVlog",
         "#Freedom250",
-        "#NEWLIV",
         "#IndyCar",
-        "#SeductiveSunday"
+        "#NASCAR",
+        "#TeslaPOV"
       ],
       "regular_topics": [
-        "Liverpool",
         "Jeffries",
         "Kushner",
-        "Newcastle",
-        "Isak",
+        "Liverpool",
         "Canada",
-        "Wirtz",
-        "Frimpong",
-        "Lewis Hall",
+        "Isak",
+        "Newcastle",
         "Argentina",
-        "Gravenberch"
+        "Wirtz",
+        "Vick",
+        "Frimpong",
+        "Charmin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,24 +121,24 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 18:36:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 19:28:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liverpool",
-        "Isak",
-        "Newcastle",
-        "#NEWLIV",
         "#KKK15",
+        "Isak",
         "#SevEN_Belongs_Together",
-        "Frimpong",
-        "Munoz",
+        "Newcastle",
         "Wirtz",
-        "#GodNightSunday",
-        "BELIFT ENSURE FAIR TREATMENT"
+        "BELIFT ENSURE FAIR TREATMENT",
+        "#NEWLIV",
+        "Munoz",
+        "Frimpong",
+        "#GodNightSunday"
       ],
       "hashtags": [
-        "#NEWLIV",
         "#KKK15",
         "#SevEN_Belongs_Together",
+        "#NEWLIV",
         "#GodNightSunday",
         "#TheMissingSunshine"
       ],
@@ -146,32 +146,32 @@
         "Liverpool",
         "Isak",
         "Newcastle",
-        "Frimpong",
-        "Munoz",
         "Wirtz",
         "BELIFT ENSURE FAIR TREATMENT",
+        "Munoz",
+        "Frimpong",
         "Gravenberch",
-        "Kerkez",
+        "Szobo",
         "ENDURE LIKE FARRHANA",
-        "Willock"
+        "Kerkez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 18:36:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 19:28:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Liverpool",
         "Ogogo",
-        "#NEWLIV",
+        "Liverpool",
+        "Yusuf",
+        "Ebuka",
+        "Gerard",
         "Isak",
         "Frimpong",
-        "Wirtz",
-        "Gravenberch",
         "Cassi",
-        "Munoz",
-        "Gakpo",
+        "Wirtz",
+        "#NEWLIV",
         "RIP LEGEND"
       ],
       "hashtags": [
@@ -179,17 +179,17 @@
         "#MCIBOU"
       ],
       "regular_topics": [
-        "Liverpool",
         "Ogogo",
+        "Liverpool",
+        "Yusuf",
+        "Ebuka",
+        "Gerard",
         "Isak",
         "Frimpong",
-        "Wirtz",
-        "Gravenberch",
         "Cassi",
-        "Munoz",
-        "Gakpo",
+        "Wirtz",
         "RIP LEGEND",
-        "Willock"
+        "Gravenberch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
