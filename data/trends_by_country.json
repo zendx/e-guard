@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-23T15:42:17.593997+00:00",
+  "generated_at_utc": "2026-08-23T16:09:36.545961+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 14:54:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:45:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Good Sunday",
+        "Jeffries",
         "Canada",
+        "Cherki",
+        "Good Sunday",
         "Bournemouth",
-        "Haaland",
-        "Villa",
-        "Rico Lewis",
-        "#DutchGP",
-        "Guehi",
-        "Maresca",
         "Lando",
-        "Cherki"
+        "Lewis",
+        "Maresca",
+        "#DutchGP",
+        "Haaland",
+        "Newcastle"
       ],
       "hashtags": [
         "#DutchGP",
+        "#NEWLIV",
         "#2yearsofshortnsweet",
-        "#SundayVibes",
-        "#MCIBOU",
-        "#SeductiveSunday"
+        "#SeductiveSunday",
+        "#YNWA"
       ],
       "regular_topics": [
-        "Good Sunday",
+        "Jeffries",
         "Canada",
-        "Bournemouth",
-        "Haaland",
-        "Villa",
-        "Rico Lewis",
-        "Guehi",
-        "Maresca",
-        "Lando",
         "Cherki",
-        "McLaren"
+        "Good Sunday",
+        "Bournemouth",
+        "Lando",
+        "Lewis",
+        "Maresca",
+        "Haaland",
+        "Newcastle",
+        "Liverpool"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 15:06:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:57:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BandhanBankTurns11",
         "ENDURE LIKE FARRHANA",
-        "Cherki",
-        "ANKHON MAI TERI FT YOGANKSHA",
         "Lewis",
-        "AKANKSHA X ANKHO MAI TERI",
-        "#PondPhuwinConcertD3",
-        "Bournemouth",
+        "#DutchGP",
         "#GodNightSunday",
-        "#BandhanDay",
-        "#MCIBOU"
+        "#BandhanBankTurns11",
+        "Cherki",
+        "#SevEN_Belongs_Together",
+        "BELIFT ENSURE FAIR TREATMENT",
+        "#PondPhuwinConcertD3",
+        "Russell",
+        "AKANKSHA X ANKHO MAI TERI"
       ],
       "hashtags": [
-        "#BandhanBankTurns11",
-        "#PondPhuwinConcertD3",
+        "#DutchGP",
         "#GodNightSunday",
-        "#BandhanDay",
-        "#MCIBOU"
+        "#BandhanBankTurns11",
+        "#SevEN_Belongs_Together",
+        "#PondPhuwinConcertD3"
       ],
       "regular_topics": [
         "ENDURE LIKE FARRHANA",
-        "Cherki",
-        "ANKHON MAI TERI FT YOGANKSHA",
         "Lewis",
+        "Cherki",
+        "BELIFT ENSURE FAIR TREATMENT",
+        "Russell",
         "AKANKSHA X ANKHO MAI TERI",
         "Bournemouth",
-        "AAKHON MAI TERI FT YOGESH",
-        "Devdutt Padikkal",
-        "Maresca",
-        "East Bengal",
-        "Haaland"
+        "ANKHON MAI TERI FT YOGANKSHA",
+        "Charles",
+        "Lando",
+        "Ferrari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 15:06:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:57:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bournemouth",
         "Maresca",
         "Cherki",
-        "Aston Villa",
+        "Newcastle",
         "#MCIBOU",
+        "Aston Villa",
         "Guehi",
+        "Manchester City",
         "Foden",
-        "Haaland",
-        "Anderson",
-        "Rico Lewis",
-        "Semenyo"
+        "Elanga",
+        "#NEWLIV"
       ],
       "hashtags": [
         "#MCIBOU",
+        "#NEWLIV",
         "#BuildwithYield",
         "#BHAAVL",
-        "#MCFC",
-        "#DutchGP"
+        "#MCFC"
       ],
       "regular_topics": [
         "Bournemouth",
         "Maresca",
         "Cherki",
+        "Newcastle",
         "Aston Villa",
         "Guehi",
+        "Manchester City",
         "Foden",
-        "Haaland",
+        "Elanga",
         "Anderson",
-        "Rico Lewis",
-        "Semenyo",
-        "Newcastle"
+        "Haaland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
