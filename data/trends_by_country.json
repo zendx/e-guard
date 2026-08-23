@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T11:41:05.584405+00:00",
+  "generated_at_utc": "2026-08-23T12:13:14.537005+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -47,25 +47,25 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 10:52:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 11:48:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
         "Brentford",
         "Carrick",
-        "#HULMUN",
         "Dorgu",
         "Maguire",
         "Bergvall",
+        "#HULMUN",
         "Samson",
         "Arsenal",
-        "Tielemans"
+        "#BRETOT"
       ],
       "hashtags": [
         "#HULMUN",
-        "#UFCSacramento",
         "#BRETOT",
         "#MUFC",
+        "#UFCSacramento",
         "#arscov"
       ],
       "regular_topics": [
@@ -78,105 +78,105 @@
         "Bergvall",
         "Samson",
         "Arsenal",
-        "Tielemans",
-        "Man Utd"
+        "Man Utd",
+        "Tielemans"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 10:45:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 11:39:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
         "Canadians",
-        "China",
-        "The US",
         "Lutnick",
+        "God Valley",
         "#MARTINSoulShaker",
         "MARTIN STOMPED THE STAGE",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#UFCSacramento",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
+        "PRODUCER PRODIGY"
       ],
       "hashtags": [
         "#MARTINSoulShaker",
-        "#UFCSacramento",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#duelclav",
-        "#bcstorm"
+        "#UFCSacramento",
+        "#bcstorm",
+        "#ElbowsUp"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
         "Canadians",
-        "China",
-        "The US",
         "Lutnick",
+        "God Valley",
         "MARTIN STOMPED THE STAGE",
         "PRODUCER PRODIGY",
         "America",
-        "Quebec"
+        "Quebec",
+        "CUSMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 10:42:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 11:33:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#BandhanBankTurns11",
         "#EkamBawa_YogiAyaSong",
         "#NeverStopPlaying",
+        "#BandhanDay",
+        "Devdutt Padikkal",
         "#PropagandaAgainstGadkari",
-        "#ZombieReddy2",
-        "#NationalSpaceDay",
+        "Celebrating 11",
         "Vantara",
-        "Manusmriti",
         "God Valley",
-        "PONDPHUWIN ETERNAL STAR",
-        "NXT LVL",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937"
+        "No. 3",
+        "Manusmriti"
       ],
       "hashtags": [
+        "#BandhanBankTurns11",
         "#EkamBawa_YogiAyaSong",
         "#NeverStopPlaying",
-        "#PropagandaAgainstGadkari",
-        "#ZombieReddy2",
-        "#NationalSpaceDay"
+        "#BandhanDay",
+        "#PropagandaAgainstGadkari"
       ],
       "regular_topics": [
+        "Devdutt Padikkal",
+        "Celebrating 11",
         "Vantara",
-        "Manusmriti",
         "God Valley",
+        "No. 3",
+        "Manusmriti",
         "PONDPHUWIN ETERNAL STAR",
-        "NXT LVL",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
-        "Karn Sharma",
+        "Joymoti",
+        "ISRO",
         "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u0915\u093e\u0930\u094d\u0921",
-        "\u0938\u091c\u0940\u0935 \u092a\u094d\u0930\u0938\u093e\u0930\u0923",
-        "50MP Mode",
-        "Joymoti"
+        "ONE PIECE"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 10:42:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 11:33:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bournemouth",
         "Newcastle",
         "Samson",
         "Erling Haaland",
-        "Blessed Sunday",
-        "Sir J",
         "Elche",
-        "Rain",
+        "Balde",
+        "Blessed Sunday",
         "Delilah",
-        "Inter Miami",
-        "Church"
+        "Church",
+        "Sir J",
+        "Rain"
       ],
       "hashtags": [
         "#NEWLIV",
@@ -188,13 +188,13 @@
         "Newcastle",
         "Samson",
         "Erling Haaland",
-        "Blessed Sunday",
-        "Sir J",
         "Elche",
-        "Rain",
+        "Balde",
+        "Blessed Sunday",
         "Delilah",
-        "Inter Miami",
-        "Church"
+        "Church",
+        "Sir J",
+        "Rain"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
