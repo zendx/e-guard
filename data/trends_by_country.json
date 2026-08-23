@@ -1,47 +1,46 @@
 {
-  "generated_at_utc": "2026-08-23T11:09:41.509968+00:00",
+  "generated_at_utc": "2026-08-23T11:41:05.584405+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 10:28:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 11:20:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Sunday",
-        "Rolly",
         "God Valley",
+        "BAAD",
+        "#PondPhuwinConcertD3",
+        "Blessed Sunday",
         "STILL FOREVER TO GO WITH JAMES",
         "#JAMESFromHereToAlways",
-        "#OtherworldParade",
-        "#PondPhuwinConcertD3",
-        "#PYPD_BIRTHDAY_PARTY",
-        "#Amadeus",
+        "Rolly",
+        "#SundayVibes",
         "PONDPHUWIN ETERNAL STAR",
-        "JAMES CHAO"
+        "#OtherworldParade"
       ],
       "hashtags": [
-        "#JAMESFromHereToAlways",
-        "#OtherworldParade",
         "#PondPhuwinConcertD3",
+        "#JAMESFromHereToAlways",
+        "#SundayVibes",
+        "#OtherworldParade",
         "#PYPD_BIRTHDAY_PARTY",
-        "#Amadeus",
         "#STARDOM",
         "#Toonami",
-        "#boxing",
         "#HawkFire",
-        "#LYKNDuskAndDawnxNewYorkCity"
+        "#boxing"
       ],
       "regular_topics": [
         "Good Sunday",
-        "Rolly",
         "God Valley",
+        "BAAD",
+        "Blessed Sunday",
         "STILL FOREVER TO GO WITH JAMES",
+        "Rolly",
         "PONDPHUWIN ETERNAL STAR",
-        "JAMES CHAO",
-        "Joe Milton",
-        "Get Smart",
         "Finish",
-        "Maxwell Smart",
-        "Nakayama Festa"
+        "Amadeus",
+        "Rina",
+        "Get Smart"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
