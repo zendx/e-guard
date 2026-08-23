@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-08-23T05:51:02.404088+00:00",
+  "generated_at_utc": "2026-08-23T06:18:40.739754+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 05:12:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 06:06:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rolly",
         "Joe Milton",
-        "#UFCSacramento",
         "#OtherworldParade",
         "Canada",
-        "#boxing",
+        "#Boxing",
+        "#UFCSacramento",
         "Robocop",
-        "Mingo",
+        "Nakayama Festa",
         "Austin McBroom",
-        "Fluffy",
-        "Camden Brown"
+        "Mingo",
+        "Get Smart"
       ],
       "hashtags": [
-        "#UFCSacramento",
         "#OtherworldParade",
-        "#boxing",
+        "#Boxing",
+        "#UFCSacramento",
         "#OPLive",
         "#BaeBig5th"
       ],
@@ -30,12 +30,12 @@
         "Joe Milton",
         "Canada",
         "Robocop",
-        "Mingo",
-        "Austin McBroom",
-        "Fluffy",
-        "Camden Brown",
-        "Get Smart",
         "Nakayama Festa",
+        "Austin McBroom",
+        "Mingo",
+        "Get Smart",
+        "Camden Brown",
+        "Fluffy",
         "Barham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -43,31 +43,31 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 04:45:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 05:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "MrBeast",
         "Hull",
         "Spurs",
+        "MrBeast",
         "Brentford",
         "Carrick",
         "Rolly",
-        "#UFCSacramento",
         "Dorgu",
         "#HULMUN",
         "Maguire",
-        "#BRETOT"
+        "#BRETOT",
+        "#UFCSacramento"
       ],
       "hashtags": [
-        "#UFCSacramento",
         "#HULMUN",
         "#BRETOT",
+        "#UFCSacramento",
         "#MUFC",
         "#arscov"
       ],
       "regular_topics": [
-        "MrBeast",
         "Hull",
         "Spurs",
+        "MrBeast",
         "Brentford",
         "Carrick",
         "Rolly",
