@@ -1,67 +1,67 @@
 {
-  "generated_at_utc": "2026-08-23T03:25:53.031132+00:00",
+  "generated_at_utc": "2026-08-23T04:06:22.121225+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 02:37:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 03:28:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCSacramento",
-        "#AEWCollision",
+        "Joe Milton",
+        "Robocop",
         "Canada",
+        "Mingo",
+        "Hernandez",
+        "Camden Brown",
         "Carson Steele",
-        "Butker",
-        "Malik Davis",
-        "Randy Arozarena",
-        "Get Smart",
-        "Jalon Daniels",
-        "Nick Sogard",
-        "Petrino"
+        "#AEWCollision",
+        "Barham",
+        "Butker"
       ],
       "hashtags": [
         "#UFCSacramento",
         "#AEWCollision",
-        "#Svengoolie",
         "#OPLive",
-        "#ChiefsKingdom"
+        "#OtherworldParade",
+        "#RollyTeofimo"
       ],
       "regular_topics": [
+        "Joe Milton",
+        "Robocop",
         "Canada",
+        "Mingo",
+        "Hernandez",
+        "Camden Brown",
         "Carson Steele",
+        "Barham",
         "Butker",
-        "Malik Davis",
-        "Randy Arozarena",
         "Get Smart",
-        "Jalon Daniels",
-        "Nick Sogard",
-        "Petrino",
-        "Roman Dolidze",
-        "Watson"
+        "Malik Davis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 03:00:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 03:54:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
         "Brentford",
-        "#UFCSacramento",
         "Carrick",
+        "#UFCSacramento",
         "#HULMUN",
         "Dorgu",
         "Maguire",
-        "#MUFC",
         "#BRETOT",
-        "Tielemans"
+        "#MUFC",
+        "Bergvall"
       ],
       "hashtags": [
         "#UFCSacramento",
         "#HULMUN",
-        "#MUFC",
         "#BRETOT",
+        "#MUFC",
         "#AEWCollision"
       ],
       "regular_topics": [
@@ -71,8 +71,8 @@
         "Carrick",
         "Dorgu",
         "Maguire",
-        "Tielemans",
         "Bergvall",
+        "Tielemans",
         "Man Utd",
         "Tottenham",
         "Manchester United"
@@ -82,37 +82,37 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 02:54:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 03:48:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
+        "Canadians",
         "China",
         "Lutnick",
         "#UFCSacramento",
         "#duelclav",
-        "#TFCLive",
         "#duelmogs",
         "#stakescam",
-        "CUSMA"
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
       ],
       "hashtags": [
         "#UFCSacramento",
         "#duelclav",
-        "#TFCLive",
         "#duelmogs",
-        "#stakescam"
+        "#stakescam",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
+        "Canadians",
         "China",
         "Lutnick",
         "CUSMA",
         "Jivani",
         "Hull City",
-        "Carrick",
         "Hernandez",
         "Quebec"
       ],
@@ -121,80 +121,84 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 02:48:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 03:40:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SpiritualSunday",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
+        "#NationalSpaceDay",
         "MSG Bhandara",
         "#GodMorningSunday",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "#NationalSpaceDay",
         "Budharwali",
+        "Barnawa",
         "\u0938\u0942\u0930\u094d\u092f \u0928\u093e\u0930\u093e\u092f\u0923",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
-        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
-        "Barnawa"
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928"
       ],
       "hashtags": [
         "#SpiritualSunday",
-        "#GodMorningSunday",
         "#NationalSpaceDay",
+        "#GodMorningSunday",
         "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937_\u0926\u093f\u0935\u0938",
-        "#Chandrayaan3",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#ISRO",
+        "#JapanEarthquake",
         "#SundayVibes",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "#RukminiVasanth",
-        "#KiaraAdvani"
+        "#PutradaEkadashi",
+        "#reservationhataomovement"
       ],
       "regular_topics": [
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "MSG Bhandara",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Budharwali",
+        "Barnawa",
         "\u0938\u0942\u0930\u094d\u092f \u0928\u093e\u0930\u093e\u092f\u0923",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
-        "Barnawa",
-        "\u0938\u0942\u0930\u094d\u092f \u092d\u0917\u0935\u093e\u0928",
+        "Chandrayaan-3",
         "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u0927\u094d\u0930\u0941\u0935",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u094d\u0930\u0940\u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
+        "\u0938\u0942\u0930\u094d\u092f \u092d\u0917\u0935\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 02:48:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 03:40:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vini",
-        "Espi",
-        "Mourinho",
+        "Hull City",
+        "Man U",
+        "Carrick",
+        "Vouch",
+        "Dorgu",
+        "Tottenham",
+        "#HULMUN",
         "Espanyol",
-        "Toronto",
-        "Mbappe",
-        "Konate",
-        "Madrid",
-        "Tram",
-        "Big Wiz",
-        "Casemiro"
+        "Brentford",
+        "Maguire",
+        "Spurs"
       ],
       "hashtags": [
-        "#LaLiga"
+        "#HULMUN",
+        "#3rdyearofbto",
+        "#tinubuinmoi",
+        "#PremierLeague",
+        "#MUFC"
       ],
       "regular_topics": [
-        "Vini",
-        "Espi",
-        "Mourinho",
+        "Hull City",
+        "Man U",
+        "Carrick",
+        "Vouch",
+        "Dorgu",
+        "Tottenham",
         "Espanyol",
-        "Toronto",
-        "Mbappe",
-        "Konate",
-        "Madrid",
-        "Tram",
-        "Big Wiz",
-        "Casemiro"
+        "Brentford",
+        "Maguire",
+        "Spurs",
+        "Coventry"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
