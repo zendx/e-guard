@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T18:53:11.671790+00:00",
+  "generated_at_utc": "2026-08-23T19:12:23.555344+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,26 +43,26 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 17:57:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 18:48:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
         "Frimpong",
         "Liverpool",
-        "#NEWLIV",
         "Munoz",
         "Wissa",
-        "Gravenberch",
-        "Lewis Hall",
+        "#NEWLIV",
         "#NUFC",
+        "Gravenberch",
         "Gakpo",
-        "Willock"
+        "Lewis Hall",
+        "Iraola"
       ],
       "hashtags": [
         "#NEWLIV",
         "#NUFC",
         "#NutritiousNovels",
-        "#avfc",
-        "#YNWA"
+        "#YNWA",
+        "#avfc"
       ],
       "regular_topics": [
         "Isak",
@@ -71,11 +71,11 @@
         "Munoz",
         "Wissa",
         "Gravenberch",
-        "Lewis Hall",
         "Gakpo",
-        "Willock",
+        "Lewis Hall",
         "Iraola",
-        "Jacquet"
+        "Szobo",
+        "Willock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
