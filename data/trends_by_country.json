@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T07:07:27.810071+00:00",
+  "generated_at_utc": "2026-08-23T07:52:41.497896+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,37 +43,37 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 06:32:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 07:24:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
         "Brentford",
-        "MrBeast",
         "Carrick",
-        "#RollyTeofimo",
+        "Rolly",
         "Dorgu",
         "#HULMUN",
+        "Maguire",
+        "#MUFC",
         "#BRETOT",
-        "#UFCSacramento",
-        "Maguire"
+        "Bergvall"
       ],
       "hashtags": [
-        "#RollyTeofimo",
         "#HULMUN",
+        "#MUFC",
         "#BRETOT",
         "#UFCSacramento",
-        "#MUFC"
+        "#SundayYellow"
       ],
       "regular_topics": [
         "Hull",
         "Spurs",
         "Brentford",
-        "MrBeast",
         "Carrick",
+        "Rolly",
         "Dorgu",
         "Maguire",
-        "Tielemans",
         "Bergvall",
+        "Tielemans",
         "Man Utd",
         "Tottenham"
       ],
@@ -82,24 +82,24 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 06:24:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 07:15:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Canadians",
-        "Lutnick",
+        "China",
         "#bcstorm",
-        "#UFCSacramento",
+        "Lutnick",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#UFCSacramento",
         "#duelclav",
         "#duelmogs",
-        "jungkook",
         "CUSMA"
       ],
       "hashtags": [
         "#bcstorm",
-        "#UFCSacramento",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#UFCSacramento",
         "#duelclav",
         "#duelmogs"
       ],
@@ -107,60 +107,60 @@
         "Canada",
         "Trump",
         "Canadians",
+        "China",
         "Lutnick",
-        "jungkook",
         "CUSMA",
-        "Hull",
-        "Jivani",
         "Quebec",
+        "Jivani",
         "Rolly",
-        "Hobi"
+        "jungkook",
+        "Hull"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 06:18:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 07:09:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#LiveTimesTurns2",
         "#NationalSpaceDay",
         "#NivinPauly",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
+        "#Dial1975",
+        "#ISRO",
         "Bethlehem Kudumba Unit",
-        "#SpiritualSunday",
-        "#CosmicSamson",
         "Chandrayaan-3",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "Saransh Jain",
-        "Manusmriti"
+        "Manusmriti",
+        "Yashasvi Jaiswal",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
       ],
       "hashtags": [
         "#LiveTimesTurns2",
         "#NationalSpaceDay",
         "#NivinPauly",
-        "#SpiritualSunday",
-        "#CosmicSamson"
+        "#Dial1975",
+        "#ISRO"
       ],
       "regular_topics": [
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "Bethlehem Kudumba Unit",
         "Chandrayaan-3",
+        "Manusmriti",
+        "Yashasvi Jaiswal",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Saransh Jain",
-        "Manusmriti",
-        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
-        "MSG Bhandara",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
-        "\u0905\u092e\u0930 \u0936\u0939\u0940\u0926 \u0917\u0941\u0932\u093e\u092c \u0938\u093f\u0902\u0939 \u0932\u094b\u0927\u0940",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u094d\u0930\u0940\u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941"
+        "WAVES OTT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 06:18:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 07:09:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull City",
         "Man U",
@@ -168,18 +168,18 @@
         "Vouch",
         "Blessed Sunday",
         "Dorgu",
+        "Amen",
         "Tottenham",
         "#HULMUN",
         "Espanyol",
-        "Brentford",
-        "Maguire"
+        "Brentford"
       ],
       "hashtags": [
         "#HULMUN",
         "#PremierLeague",
-        "#MUFC",
         "#3rdYearOfBTO",
-        "#TinubuInMOI"
+        "#TinubuInMOI",
+        "#arscov"
       ],
       "regular_topics": [
         "Hull City",
@@ -188,11 +188,11 @@
         "Vouch",
         "Blessed Sunday",
         "Dorgu",
+        "Amen",
         "Tottenham",
         "Espanyol",
         "Brentford",
-        "Maguire",
-        "Spurs"
+        "Maguire"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
