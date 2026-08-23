@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T15:09:28.300141+00:00",
+  "generated_at_utc": "2026-08-23T15:42:17.593997+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,155 +43,155 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 14:27:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:20:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Villa",
         "Bournemouth",
-        "#avfc",
-        "Joao Gomes",
-        "Brighton",
-        "Rico Lewis",
+        "Cherki",
+        "Villa",
         "#DutchGP",
-        "Guehi",
-        "Emery",
+        "Lewis",
+        "#avfc",
+        "Maresca",
         "#MCIBOU",
-        "Haaland"
+        "Leclerc",
+        "Guehi",
+        "Foden"
       ],
       "hashtags": [
-        "#avfc",
         "#DutchGP",
+        "#avfc",
         "#MCIBOU",
-        "#BHAAVL",
-        "#twitterclarets"
+        "#NEWLIV",
+        "#BHAAVL"
       ],
       "regular_topics": [
-        "Villa",
         "Bournemouth",
-        "Joao Gomes",
-        "Brighton",
-        "Rico Lewis",
+        "Cherki",
+        "Villa",
+        "Lewis",
+        "Maresca",
+        "Leclerc",
         "Guehi",
-        "Emery",
-        "Haaland",
-        "Semenyo",
         "Foden",
-        "Verstappen"
+        "Lando",
+        "Brighton",
+        "Ferrari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 14:20:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:12:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
         "Canadians",
-        "Lutnick",
+        "Cherki",
         "Bournemouth",
-        "Villa",
-        "Brighton",
+        "Maresca",
+        "Lutnick",
         "Guehi",
         "Quebec",
-        "Rico Lewis"
+        "#DutchGP"
       ],
       "hashtags": [
         "#DutchGP",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#ufcsacramento",
-        "#bcstorm",
-        "#ElbowsUp"
+        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
+        "#UFCSacramento",
+        "#MCIBOU",
+        "#bcstorm"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
         "Canadians",
-        "Lutnick",
+        "Cherki",
         "Bournemouth",
-        "Villa",
-        "Brighton",
+        "Maresca",
+        "Lutnick",
         "Guehi",
         "Quebec",
-        "Rico Lewis"
+        "America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 14:15:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:06:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bandhanbankturns11",
+        "#BandhanBankTurns11",
+        "ENDURE LIKE FARRHANA",
+        "Cherki",
         "ANKHON MAI TERI FT YOGANKSHA",
-        "AAKHON MAI TERI FT YOGESH",
-        "#BandhanDay",
+        "Lewis",
         "AKANKSHA X ANKHO MAI TERI",
-        "#EkamBawa_YogiAyaSong",
-        "Devdutt Padikkal",
         "#PondPhuwinConcertD3",
-        "Rico Lewis",
-        "Vantara",
-        "Bournemouth"
+        "Bournemouth",
+        "#GodNightSunday",
+        "#BandhanDay",
+        "#MCIBOU"
       ],
       "hashtags": [
-        "#bandhanbankturns11",
-        "#BandhanDay",
-        "#EkamBawa_YogiAyaSong",
+        "#BandhanBankTurns11",
         "#PondPhuwinConcertD3",
-        "#NeverStopPlaying"
+        "#GodNightSunday",
+        "#BandhanDay",
+        "#MCIBOU"
       ],
       "regular_topics": [
+        "ENDURE LIKE FARRHANA",
+        "Cherki",
         "ANKHON MAI TERI FT YOGANKSHA",
-        "AAKHON MAI TERI FT YOGESH",
+        "Lewis",
         "AKANKSHA X ANKHO MAI TERI",
-        "Devdutt Padikkal",
-        "Rico Lewis",
-        "Vantara",
         "Bournemouth",
-        "Lock Upp",
-        "Brighton",
-        "PONDPHUWIN ETERNAL STAR",
-        "Joymoti"
+        "AAKHON MAI TERI FT YOGESH",
+        "Devdutt Padikkal",
+        "Maresca",
+        "East Bengal",
+        "Haaland"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 14:13:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 15:06:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bournemouth",
-        "Aston Villa",
         "Maresca",
+        "Cherki",
+        "Aston Villa",
         "#MCIBOU",
         "Guehi",
-        "Rico Lewis",
         "Foden",
-        "#BuildwithYield",
         "Haaland",
-        "Cherki",
-        "Joao Gomes"
+        "Anderson",
+        "Rico Lewis",
+        "Semenyo"
       ],
       "hashtags": [
         "#MCIBOU",
         "#BuildwithYield",
         "#BHAAVL",
-        "#avfc",
+        "#MCFC",
         "#DutchGP"
       ],
       "regular_topics": [
         "Bournemouth",
-        "Aston Villa",
         "Maresca",
+        "Cherki",
+        "Aston Villa",
         "Guehi",
-        "Rico Lewis",
         "Foden",
         "Haaland",
-        "Cherki",
-        "Joao Gomes",
-        "Tavernier",
+        "Anderson",
+        "Rico Lewis",
+        "Semenyo",
         "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
