@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-23T09:14:43.942598+00:00",
+  "generated_at_utc": "2026-08-23T09:48:12.309587+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 08:42:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 09:33:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rolly",
         "STILL FOREVER TO GO WITH JAMES",
@@ -12,31 +12,31 @@
         "#OtherworldParade",
         "#PondPhuwinConcertD3",
         "#PYPD_BIRTHDAY_PARTY",
+        "#Amadeus",
         "PONDPHUWIN ETERNAL STAR",
-        "Joe Milton",
         "JAMES CHAO",
-        "$Dinger",
-        "#boxing"
+        "Joe Milton",
+        "$Dinger"
       ],
       "hashtags": [
         "#JAMESFromHereToAlways",
         "#OtherworldParade",
         "#PondPhuwinConcertD3",
         "#PYPD_BIRTHDAY_PARTY",
-        "#boxing"
+        "#Amadeus"
       ],
       "regular_topics": [
         "Rolly",
         "STILL FOREVER TO GO WITH JAMES",
         "PONDPHUWIN ETERNAL STAR",
-        "Joe Milton",
         "JAMES CHAO",
+        "Joe Milton",
         "$Dinger",
         "Get Smart",
-        "Austin McBroom",
         "Mallory",
-        "Nakayama Festa",
-        "Orihime"
+        "Austin McBroom",
+        "Maxwell Smart",
+        "Nakayama Festa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
