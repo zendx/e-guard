@@ -1,195 +1,193 @@
 {
-  "generated_at_utc": "2026-08-23T00:31:04.190927+00:00",
+  "generated_at_utc": "2026-08-23T02:15:34.943713+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 00:00:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 01:45:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCSacramento",
+        "#AEWCollision",
         "Canada",
-        "Andy Dalton",
-        "Watson",
-        "Shipley",
+        "Ty Robinson",
+        "#Svengoolie",
+        "Harrison Butker",
+        "Dolidze",
         "Get Smart",
-        "Browns",
-        "Maxwell Smart",
-        "Lerryan Douglas",
-        "Jake Lang",
-        "Padilla"
+        "Watson",
+        "Mason Jones",
+        "Jalon Daniels"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#MostRequestedLive",
-        "#UFCFightNight"
+        "#AEWCollision",
+        "#Svengoolie",
+        "#ChiefsKingdom",
+        "#MostRequestedLive"
       ],
       "regular_topics": [
         "Canada",
-        "Andy Dalton",
-        "Watson",
-        "Shipley",
+        "Ty Robinson",
+        "Harrison Butker",
+        "Dolidze",
         "Get Smart",
+        "Watson",
+        "Mason Jones",
+        "Jalon Daniels",
         "Browns",
-        "Maxwell Smart",
-        "Lerryan Douglas",
-        "Jake Lang",
-        "Padilla",
-        "Vini"
+        "Andy Dalton",
+        "Maxwell Smart"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 22 2026 23:32:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 01:18:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCSacramento",
-        "Brentford",
-        "Spurs",
+        "Mason Jones",
+        "#AEWCollision",
         "#MOTD",
+        "Brentford",
         "Espi",
-        "Mbappe",
-        "Espanyol",
-        "Diomande",
-        "Lammy",
         "Orihime",
-        "Trent"
+        "Mbappe",
+        "Mark Ruffalo",
+        "Espanyol",
+        "Lammy"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#MOTD",
-        "#THFC",
-        "#BRETOT",
-        "#LiddardMorello"
+        "#AEWCollision",
+        "#MOTD"
       ],
       "regular_topics": [
+        "Mason Jones",
         "Brentford",
-        "Spurs",
         "Espi",
-        "Mbappe",
-        "Espanyol",
-        "Diomande",
-        "Lammy",
         "Orihime",
-        "Trent",
-        "Sangare",
-        "De Zerbi"
+        "Mbappe",
+        "Mark Ruffalo",
+        "Espanyol",
+        "Lammy",
+        "BLEACH",
+        "Ichigo",
+        "Sangare"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 00:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 02:03:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
-        "Lutnick",
         "China",
-        "The US",
+        "Lutnick",
         "#UFCSacramento",
+        "#TFCLive",
         "#duelclav",
+        "#WWEEdmonton",
         "#duelmogs",
-        "#stakescam",
         "Hull"
       ],
       "hashtags": [
         "#UFCSacramento",
+        "#TFCLive",
         "#duelclav",
-        "#duelmogs",
-        "#stakescam",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
+        "#WWEEdmonton",
+        "#duelmogs"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
-        "Lutnick",
         "China",
-        "The US",
+        "Lutnick",
         "Hull",
-        "Jivani",
         "CUSMA",
+        "Jivani",
         "Carrick",
-        "Spurs"
+        "Dolidze",
+        "Lerryan Douglas"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 00:12:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 01:56:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SpiritualSunday",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
-        "joymoti",
+        "#GodMorningSunday",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "MSG Bhandara",
+        "Budharwali",
+        "Joymoti",
         "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
         "Sant Rampal Ji Maharaj",
-        "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
-        "#ChhatronKiGoonj",
-        "Vini",
-        "#Irumudi",
-        "#day4_upper_circuit_omega",
-        "Espi",
-        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928"
+        "#NationalSpaceDay"
       ],
       "hashtags": [
+        "#SpiritualSunday",
         "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#GodMorningSunday",
         "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
-        "#ChhatronKiGoonj",
-        "#Irumudi",
-        "#day4_upper_circuit_omega"
+        "#NationalSpaceDay"
       ],
       "regular_topics": [
-        "joymoti",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
+        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
+        "MSG Bhandara",
+        "Budharwali",
+        "Joymoti",
         "Sant Rampal Ji Maharaj",
         "\u0939\u0930\u094d\u0937 \u0926\u0941\u092c\u0947",
-        "Vini",
-        "Espi",
         "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928",
-        "Mbappe",
-        "Vantara",
         "Vouch",
-        "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938"
+        "Vantara",
+        "Barnawa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 00:12:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 01:56:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vini",
         "Espi",
-        "Mourinho",
+        "Vini",
         "Espanyol",
-        "Big Wiz",
+        "Mourinho",
         "Konate",
-        "Diomande",
-        "Bellingham",
+        "Toronto",
+        "Big Wiz",
+        "Madrid",
         "Tram",
-        "Arda Guler",
-        "#ESPRMA"
+        "Diomande",
+        "Arda Guler"
       ],
       "hashtags": [
-        "#ESPRMA",
         "#LaLiga",
-        "#SmirnoffParty",
-        "#Sweet16Movie"
+        "#SmirnoffParty"
       ],
       "regular_topics": [
-        "Vini",
         "Espi",
-        "Mourinho",
+        "Vini",
         "Espanyol",
-        "Big Wiz",
+        "Mourinho",
         "Konate",
-        "Diomande",
-        "Bellingham",
+        "Toronto",
+        "Big Wiz",
+        "Madrid",
         "Tram",
-        "Arda Guler",
-        "Valverde"
+        "Diomande",
+        "Arda Guler"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
