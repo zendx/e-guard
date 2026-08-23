@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T04:57:36.271002+00:00",
+  "generated_at_utc": "2026-08-23T05:22:08.220219+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,39 +43,39 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 03:54:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 04:45:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "MrBeast",
         "Hull",
         "Spurs",
         "Brentford",
         "Carrick",
+        "Rolly",
         "#UFCSacramento",
-        "#HULMUN",
         "Dorgu",
+        "#HULMUN",
         "Maguire",
-        "#BRETOT",
-        "#MUFC",
-        "Bergvall"
+        "#BRETOT"
       ],
       "hashtags": [
         "#UFCSacramento",
         "#HULMUN",
         "#BRETOT",
         "#MUFC",
-        "#AEWCollision"
+        "#arscov"
       ],
       "regular_topics": [
+        "MrBeast",
         "Hull",
         "Spurs",
         "Brentford",
         "Carrick",
+        "Rolly",
         "Dorgu",
         "Maguire",
         "Bergvall",
         "Tielemans",
-        "Man Utd",
-        "Tottenham",
-        "Manchester United"
+        "Man Utd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
