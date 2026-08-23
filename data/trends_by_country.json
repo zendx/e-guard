@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-23T08:53:28.174614+00:00",
+  "generated_at_utc": "2026-08-23T09:14:43.942598+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 07:48:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 08:42:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rolly",
+        "STILL FOREVER TO GO WITH JAMES",
+        "#JAMESFromHereToAlways",
         "#OtherworldParade",
-        "Joe Milton",
-        "#boxing",
         "#PondPhuwinConcertD3",
-        "Austin McBroom",
-        "Nakayama Festa",
-        "Get Smart",
-        "$Dinger",
+        "#PYPD_BIRTHDAY_PARTY",
         "PONDPHUWIN ETERNAL STAR",
-        "#UFCSacramento"
+        "Joe Milton",
+        "JAMES CHAO",
+        "$Dinger",
+        "#boxing"
       ],
       "hashtags": [
+        "#JAMESFromHereToAlways",
         "#OtherworldParade",
-        "#boxing",
         "#PondPhuwinConcertD3",
-        "#UFCSacramento",
-        "#Toonami"
+        "#PYPD_BIRTHDAY_PARTY",
+        "#boxing"
       ],
       "regular_topics": [
         "Rolly",
-        "Joe Milton",
-        "Austin McBroom",
-        "Nakayama Festa",
-        "Get Smart",
-        "$Dinger",
+        "STILL FOREVER TO GO WITH JAMES",
         "PONDPHUWIN ETERNAL STAR",
+        "Joe Milton",
+        "JAMES CHAO",
+        "$Dinger",
+        "Get Smart",
+        "Austin McBroom",
         "Mallory",
-        "Lala",
-        "Mingo",
-        "Maxwell Smart"
+        "Nakayama Festa",
+        "Orihime"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 08:15:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 09:06:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
@@ -52,17 +52,17 @@
         "#HULMUN",
         "Dorgu",
         "Maguire",
-        "#SundayYellow",
         "#BRETOT",
         "Bergvall",
-        "#MUFC"
+        "#MUFC",
+        "Tielemans"
       ],
       "hashtags": [
         "#HULMUN",
-        "#SundayYellow",
         "#BRETOT",
         "#MUFC",
-        "#Local"
+        "#UFCSacramento",
+        "#ARSCOV"
       ],
       "regular_topics": [
         "Hull",
@@ -75,14 +75,14 @@
         "Tielemans",
         "Man Utd",
         "Tottenham",
-        "Manchester United"
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 08:08:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 09:00:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -94,7 +94,7 @@
         "#MARTINSoulShaker",
         "MARTIN STOMPED THE STAGE",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "PRODUCER PRODIGY"
+        "#UFCSacramento"
       ],
       "hashtags": [
         "#bcstorm",
@@ -121,57 +121,57 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 08:01:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 08:56:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NationalSpaceDay",
         "#Dial1975",
         "#LiveTimesTurns2",
+        "Vantara",
+        "#ZombieReddy2",
+        "#PondPhuwinConcertD3",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
-        "#NivinPauly",
-        "#ISRO",
-        "Jaiswal",
         "PONDPHUWIN ETERNAL STAR",
         "Manusmriti",
-        "Chandrayaan-3",
-        "Bethlehem Kudumba Unit"
+        "Jaiswal",
+        "Joymoti"
       ],
       "hashtags": [
         "#NationalSpaceDay",
         "#Dial1975",
         "#LiveTimesTurns2",
-        "#NivinPauly",
-        "#ISRO"
+        "#ZombieReddy2",
+        "#PondPhuwinConcertD3"
       ],
       "regular_topics": [
+        "Vantara",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
-        "Jaiswal",
         "PONDPHUWIN ETERNAL STAR",
         "Manusmriti",
-        "Chandrayaan-3",
-        "Bethlehem Kudumba Unit",
+        "Jaiswal",
+        "Joymoti",
+        "Hobi",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
-        "WAVES OTT",
-        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
-        "Asitha Fernando",
-        "\u0905\u092e\u0930 \u0936\u0939\u0940\u0926 \u0917\u0941\u0932\u093e\u092c \u0938\u093f\u0902\u0939 \u0932\u094b\u0927\u0940"
+        "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u0915\u093e\u0930\u094d\u0921 \u0935\u093f\u0924\u0930\u0923 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e",
+        "\u0905\u092e\u0930 \u0936\u0939\u0940\u0926 \u0917\u0941\u0932\u093e\u092c \u0938\u093f\u0902\u0939 \u0932\u094b\u0927\u0940",
+        "Chandrayaan-3"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 08:00:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 08:54:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull City",
         "Man U",
         "Carrick",
         "Vouch",
-        "Blessed Sunday",
-        "Amen",
         "Dorgu",
+        "Amen",
+        "Blessed Sunday",
         "Tottenham",
-        "#HULMUN",
         "Espanyol",
+        "#HULMUN",
         "Brentford"
       ],
       "hashtags": [
@@ -179,20 +179,20 @@
         "#PremierLeague",
         "#3rdYearOfBTO",
         "#TinubuInMOI",
-        "#bbnaijaxpepsi"
+        "#superpoweredbyilotbet"
       ],
       "regular_topics": [
         "Hull City",
         "Man U",
         "Carrick",
         "Vouch",
-        "Blessed Sunday",
-        "Amen",
         "Dorgu",
+        "Amen",
+        "Blessed Sunday",
         "Tottenham",
         "Espanyol",
         "Brentford",
-        "Inter Miami"
+        "Arsenal"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
