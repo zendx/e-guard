@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T19:41:10.825024+00:00",
+  "generated_at_utc": "2026-08-23T20:07:53.249876+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,25 +43,25 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 18:48:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 19:42:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
         "Frimpong",
         "Liverpool",
         "Munoz",
         "Wissa",
-        "#NEWLIV",
         "#NUFC",
+        "#NEWLIV",
         "Gravenberch",
         "Gakpo",
         "Lewis Hall",
         "Iraola"
       ],
       "hashtags": [
-        "#NEWLIV",
         "#NUFC",
+        "#NEWLIV",
+        "#sts70s",
         "#NutritiousNovels",
-        "#YNWA",
         "#avfc"
       ],
       "regular_topics": [
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 18:42:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 19:33:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -91,17 +91,17 @@
         "Canadians",
         "The US",
         "Quebec",
-        "Liverpool",
-        "Lutnick",
+        "Soriano",
         "America",
+        "Lutnick",
         "Newcastle"
       ],
       "hashtags": [
-        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
-        "#UFCSacramento",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#NEWLIV",
-        "#DutchGP",
-        "#bcstorm"
+        "#UFCSacramento",
+        "#bcstorm",
+        "#DutchGP"
       ],
       "regular_topics": [
         "Canada",
@@ -111,9 +111,9 @@
         "Canadians",
         "The US",
         "Quebec",
-        "Liverpool",
-        "Lutnick",
+        "Soriano",
         "America",
+        "Lutnick",
         "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
