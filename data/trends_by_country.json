@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-23T16:46:54.830045+00:00",
+  "generated_at_utc": "2026-08-23T17:10:21.305419+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 15:45:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 16:40:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Jeffries",
         "Canada",
+        "Kushner",
+        "Liverpool",
+        "Kerkez",
+        "Frimpong",
         "Cherki",
+        "#OlandriaxBETVlog",
+        "Newcastle",
         "Good Sunday",
-        "Bournemouth",
-        "Lando",
-        "Lewis",
-        "Maresca",
-        "#DutchGP",
-        "Haaland",
-        "Newcastle"
+        "Lewis"
       ],
       "hashtags": [
-        "#DutchGP",
+        "#OlandriaxBETVlog",
         "#NEWLIV",
-        "#2yearsofshortnsweet",
+        "#DutchGP",
         "#SeductiveSunday",
-        "#YNWA"
+        "#2yearsofshortnsweet"
       ],
       "regular_topics": [
         "Jeffries",
         "Canada",
+        "Kushner",
+        "Liverpool",
+        "Kerkez",
+        "Frimpong",
         "Cherki",
-        "Good Sunday",
-        "Bournemouth",
-        "Lando",
-        "Lewis",
-        "Maresca",
-        "Haaland",
         "Newcastle",
-        "Liverpool"
+        "Good Sunday",
+        "Lewis",
+        "Lando"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,38 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 15:57:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 16:52:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "ENDURE LIKE FARRHANA",
-        "Lewis",
-        "#DutchGP",
+        "Newcastle",
         "#GodNightSunday",
-        "#BandhanBankTurns11",
-        "Cherki",
+        "#NEWLIV",
         "#SevEN_Belongs_Together",
-        "BELIFT ENSURE FAIR TREATMENT",
+        "Gravenberch",
         "#PondPhuwinConcertD3",
-        "Russell",
-        "AKANKSHA X ANKHO MAI TERI"
+        "Lewis",
+        "Liverpool",
+        "BELIFT ENSURE FAIR TREATMENT",
+        "Willock"
       ],
       "hashtags": [
-        "#DutchGP",
         "#GodNightSunday",
-        "#BandhanBankTurns11",
+        "#NEWLIV",
         "#SevEN_Belongs_Together",
-        "#PondPhuwinConcertD3"
+        "#PondPhuwinConcertD3",
+        "#TheMissingSunshine"
       ],
       "regular_topics": [
         "ENDURE LIKE FARRHANA",
+        "Newcastle",
+        "Gravenberch",
         "Lewis",
-        "Cherki",
+        "Liverpool",
         "BELIFT ENSURE FAIR TREATMENT",
-        "Russell",
-        "AKANKSHA X ANKHO MAI TERI",
-        "Bournemouth",
-        "ANKHON MAI TERI FT YOGANKSHA",
-        "Charles",
-        "Lando",
+        "Willock",
+        "Kerkez",
+        "Frimpong",
+        "Cherki",
         "Ferrari"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 15:57:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 16:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Liverpool",
+        "Cherki",
         "Bournemouth",
         "Maresca",
-        "Cherki",
-        "Newcastle",
+        "#NEWLIV",
+        "Willock",
+        "Frimpong",
+        "Gravenberch",
         "#MCIBOU",
         "Aston Villa",
-        "Guehi",
-        "Manchester City",
-        "Foden",
-        "Elanga",
-        "#NEWLIV"
+        "Elanga"
       ],
       "hashtags": [
-        "#MCIBOU",
         "#NEWLIV",
+        "#MCIBOU",
         "#BuildwithYield",
         "#BHAAVL",
         "#MCFC"
       ],
       "regular_topics": [
+        "Liverpool",
+        "Cherki",
         "Bournemouth",
         "Maresca",
-        "Cherki",
-        "Newcastle",
+        "Willock",
+        "Frimpong",
+        "Gravenberch",
         "Aston Villa",
-        "Guehi",
-        "Manchester City",
-        "Foden",
         "Elanga",
-        "Anderson",
-        "Haaland"
+        "Guehi",
+        "Gakpo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
