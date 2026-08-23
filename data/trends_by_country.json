@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-23T18:10:41.300483+00:00",
+  "generated_at_utc": "2026-08-23T18:53:11.671790+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 17:32:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 18:24:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liverpool",
         "Jeffries",
-        "Newcastle",
         "Kushner",
+        "Newcastle",
         "Isak",
         "Canada",
         "#OlandriaxBETVlog",
-        "Frimpong",
-        "Lewis Hall",
         "Wirtz",
-        "Gravenberch"
+        "Frimpong",
+        "#Freedom250",
+        "Lewis Hall"
       ],
       "hashtags": [
         "#OlandriaxBETVlog",
         "#Freedom250",
         "#NEWLIV",
-        "#SeductiveSunday",
-        "#IndyCar"
+        "#IndyCar",
+        "#SeductiveSunday"
       ],
       "regular_topics": [
         "Liverpool",
         "Jeffries",
-        "Newcastle",
         "Kushner",
+        "Newcastle",
         "Isak",
         "Canada",
+        "Wirtz",
         "Frimpong",
         "Lewis Hall",
-        "Wirtz",
-        "Gravenberch",
-        "Gakpo"
+        "Argentina",
+        "Gravenberch"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 17:48:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 18:42:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -90,18 +90,18 @@
         "China",
         "Canadians",
         "The US",
-        "Liverpool",
-        "Newcastle",
         "Quebec",
-        "Frimpong",
-        "Lutnick"
+        "Liverpool",
+        "Lutnick",
+        "America",
+        "Newcastle"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
-        "#NEWLIV",
         "#UFCSacramento",
-        "#bcstorm",
-        "#DutchGP"
+        "#NEWLIV",
+        "#DutchGP",
+        "#bcstorm"
       ],
       "regular_topics": [
         "Canada",
@@ -110,88 +110,86 @@
         "China",
         "Canadians",
         "The US",
-        "Liverpool",
-        "Newcastle",
         "Quebec",
-        "Frimpong",
-        "Lutnick"
+        "Liverpool",
+        "Lutnick",
+        "America",
+        "Newcastle"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 17:44:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 18:36:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Newcastle",
         "Liverpool",
         "Isak",
+        "Newcastle",
         "#NEWLIV",
-        "Frimpong",
-        "#GodNightSunday",
-        "#SevEN_Belongs_Together",
-        "BELIFT ENSURE FAIR TREATMENT",
-        "Munoz",
         "#KKK15",
-        "ENDURE LIKE FARRHANA"
+        "#SevEN_Belongs_Together",
+        "Frimpong",
+        "Munoz",
+        "Wirtz",
+        "#GodNightSunday",
+        "BELIFT ENSURE FAIR TREATMENT"
       ],
       "hashtags": [
         "#NEWLIV",
-        "#GodNightSunday",
-        "#SevEN_Belongs_Together",
         "#KKK15",
-        "#PondPhuwinConcertD3"
+        "#SevEN_Belongs_Together",
+        "#GodNightSunday",
+        "#TheMissingSunshine"
       ],
       "regular_topics": [
-        "Newcastle",
         "Liverpool",
         "Isak",
+        "Newcastle",
         "Frimpong",
-        "BELIFT ENSURE FAIR TREATMENT",
         "Munoz",
-        "ENDURE LIKE FARRHANA",
+        "Wirtz",
+        "BELIFT ENSURE FAIR TREATMENT",
         "Gravenberch",
         "Kerkez",
-        "Wirtz",
-        "Lewis"
+        "ENDURE LIKE FARRHANA",
+        "Willock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 17:44:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 18:36:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Liverpool",
+        "Ogogo",
         "#NEWLIV",
-        "Frimpong",
         "Isak",
-        "Willock",
-        "Cherki",
-        "Gravenberch",
+        "Frimpong",
         "Wirtz",
-        "Maresca",
-        "Bournemouth",
-        "Gakpo"
+        "Gravenberch",
+        "Cassi",
+        "Munoz",
+        "Gakpo",
+        "RIP LEGEND"
       ],
       "hashtags": [
         "#NEWLIV",
-        "#MCIBOU",
-        "#BuildwithYield",
-        "#BHAAVL"
+        "#MCIBOU"
       ],
       "regular_topics": [
         "Liverpool",
-        "Frimpong",
+        "Ogogo",
         "Isak",
-        "Willock",
-        "Cherki",
-        "Gravenberch",
+        "Frimpong",
         "Wirtz",
-        "Maresca",
-        "Bournemouth",
+        "Gravenberch",
+        "Cassi",
+        "Munoz",
         "Gakpo",
-        "Wissa"
+        "RIP LEGEND",
+        "Willock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
