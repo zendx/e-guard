@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-08-23T05:22:08.220219+00:00",
+  "generated_at_utc": "2026-08-23T05:51:02.404088+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 04:20:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 05:12:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rolly",
         "Joe Milton",
         "#UFCSacramento",
+        "#OtherworldParade",
         "Canada",
+        "#boxing",
         "Robocop",
         "Mingo",
-        "Hernandez",
-        "#OtherworldParade",
         "Austin McBroom",
-        "#OPLive",
+        "Fluffy",
         "Camden Brown"
       ],
       "hashtags": [
         "#UFCSacramento",
         "#OtherworldParade",
+        "#boxing",
         "#OPLive",
-        "#AEWCollision",
         "#BaeBig5th"
       ],
       "regular_topics": [
@@ -31,12 +31,12 @@
         "Canada",
         "Robocop",
         "Mingo",
-        "Hernandez",
         "Austin McBroom",
+        "Fluffy",
         "Camden Brown",
-        "Barham",
         "Get Smart",
-        "Chivas"
+        "Nakayama Festa",
+        "Barham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 04:39:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 05:30:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -90,16 +90,16 @@
         "Canadians",
         "Lutnick",
         "#UFCSacramento",
-        "#duelclav",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#duelclav",
         "#duelmogs",
-        "Hobi",
-        "#stakescam"
+        "#stakescam",
+        "Hobi"
       ],
       "hashtags": [
         "#UFCSacramento",
-        "#duelclav",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#duelclav",
         "#duelmogs",
         "#stakescam"
       ],
@@ -110,79 +110,76 @@
         "Canadians",
         "Lutnick",
         "Hobi",
+        "Rolly",
         "CUSMA",
-        "Hull City",
-        "Jivani",
+        "Hull",
         "Quebec",
-        "Rolly"
+        "Jivani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 04:33:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 05:27:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#SpiritualSunday",
         "#NationalSpaceDay",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
-        "MSG Bhandara",
+        "#SpiritualSunday",
         "#GodMorningSunday",
+        "MSG Bhandara",
+        "#ISRO",
+        "Chandrayaan-3",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Saransh Jain",
-        "Chandrayaan-3",
-        "#ISRO",
-        "Budharwali",
-        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937_\u0926\u093f\u0935\u0938"
+        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937_\u0926\u093f\u0935\u0938",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928"
       ],
       "hashtags": [
-        "#SpiritualSunday",
         "#NationalSpaceDay",
+        "#SpiritualSunday",
         "#GodMorningSunday",
         "#ISRO",
-        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937_\u0926\u093f\u0935\u0938",
-        "#SundayThoughts",
-        "#JapanEarthquake",
-        "#PutradaEkadashi"
+        "#\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f_\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "MSG Bhandara",
+        "Chandrayaan-3",
         "\u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0935",
         "Saransh Jain",
-        "Chandrayaan-3",
-        "Budharwali",
-        "Barnawa",
         "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
-        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
         "Manusmriti",
-        "Kuldeep Yadav"
+        "Budharwali",
+        "Kuldeep Yadav",
+        "\u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937 \u092f\u093e\u0924\u094d\u0930\u093e",
+        "Barnawa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 04:32:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 05:24:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull City",
         "Man U",
         "Carrick",
         "Vouch",
         "Dorgu",
-        "#HULMUN",
         "Tottenham",
+        "#HulMun",
         "Espanyol",
         "Brentford",
-        "Maguire",
-        "Spurs"
+        "Blessed Sunday",
+        "Maguire"
       ],
       "hashtags": [
-        "#HULMUN",
-        "#3rdyearofbto",
-        "#tinubuinmoi",
+        "#HulMun",
         "#PremierLeague",
-        "#buildwealthwithyield"
+        "#buildwealthwithyield",
+        "#BRETOT",
+        "#MUFC"
       ],
       "regular_topics": [
         "Hull City",
@@ -193,9 +190,9 @@
         "Tottenham",
         "Espanyol",
         "Brentford",
+        "Blessed Sunday",
         "Maguire",
-        "Spurs",
-        "Coventry"
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
