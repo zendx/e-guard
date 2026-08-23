@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T16:09:36.545961+00:00",
+  "generated_at_utc": "2026-08-23T16:46:54.830045+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 15:20:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 16:12:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Kerkez",
+        "#NEWLIV",
+        "Gravenberch",
+        "Kevin Keegan",
+        "Newcastle",
         "Bournemouth",
-        "Cherki",
         "Villa",
-        "#DutchGP",
+        "Cherki",
+        "Elanga",
         "Lewis",
-        "#avfc",
-        "Maresca",
-        "#MCIBOU",
-        "Leclerc",
-        "Guehi",
-        "Foden"
+        "#DutchGP"
       ],
       "hashtags": [
+        "#NEWLIV",
         "#DutchGP",
         "#avfc",
         "#MCIBOU",
-        "#NEWLIV",
-        "#BHAAVL"
+        "#afcb"
       ],
       "regular_topics": [
+        "Kerkez",
+        "Gravenberch",
+        "Kevin Keegan",
+        "Newcastle",
         "Bournemouth",
-        "Cherki",
         "Villa",
+        "Cherki",
+        "Elanga",
         "Lewis",
-        "Maresca",
         "Leclerc",
-        "Guehi",
-        "Foden",
-        "Lando",
-        "Brighton",
-        "Ferrari"
+        "Lando"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 15:12:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 16:03:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
+        "China",
         "Canadians",
+        "The US",
         "Cherki",
-        "Bournemouth",
-        "Maresca",
         "Lutnick",
-        "Guehi",
         "Quebec",
-        "#DutchGP"
+        "Duffy",
+        "Bournemouth"
       ],
       "hashtags": [
         "#DutchGP",
         "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
         "#UFCSacramento",
-        "#MCIBOU",
+        "#NEWLIV",
         "#bcstorm"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "Trump",
+        "China",
         "Canadians",
+        "The US",
         "Cherki",
-        "Bournemouth",
-        "Maresca",
         "Lutnick",
-        "Guehi",
         "Quebec",
-        "America"
+        "Duffy",
+        "Bournemouth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
