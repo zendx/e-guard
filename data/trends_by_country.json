@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T08:14:30.973136+00:00",
+  "generated_at_utc": "2026-08-23T08:53:28.174614+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,78 +43,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 07:24:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 08:15:47 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
         "Brentford",
         "Carrick",
-        "Rolly",
-        "Dorgu",
         "#HULMUN",
+        "Dorgu",
         "Maguire",
-        "#MUFC",
+        "#SundayYellow",
         "#BRETOT",
-        "Bergvall"
+        "Bergvall",
+        "#MUFC"
       ],
       "hashtags": [
         "#HULMUN",
-        "#MUFC",
+        "#SundayYellow",
         "#BRETOT",
-        "#UFCSacramento",
-        "#SundayYellow"
+        "#MUFC",
+        "#Local"
       ],
       "regular_topics": [
         "Hull",
         "Spurs",
         "Brentford",
         "Carrick",
-        "Rolly",
         "Dorgu",
         "Maguire",
         "Bergvall",
         "Tielemans",
         "Man Utd",
-        "Tottenham"
+        "Tottenham",
+        "Manchester United"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 07:15:56 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 08:08:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "Canadians",
         "China",
         "#bcstorm",
+        "The US",
         "Lutnick",
+        "#MARTINSoulShaker",
+        "MARTIN STOMPED THE STAGE",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#UFCSacramento",
-        "#duelclav",
-        "#duelmogs",
-        "CUSMA"
+        "PRODUCER PRODIGY"
       ],
       "hashtags": [
         "#bcstorm",
+        "#MARTINSoulShaker",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#UFCSacramento",
-        "#duelclav",
-        "#duelmogs"
+        "#duelclav"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
         "Canadians",
         "China",
+        "The US",
         "Lutnick",
-        "CUSMA",
-        "Quebec",
-        "Jivani",
-        "Rolly",
+        "MARTIN STOMPED THE STAGE",
+        "PRODUCER PRODIGY",
         "jungkook",
-        "Hull"
+        "CUSMA",
+        "Quebec"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
