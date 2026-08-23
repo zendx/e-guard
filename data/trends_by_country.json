@@ -1,42 +1,40 @@
 {
-  "generated_at_utc": "2026-08-23T22:43:25.933980+00:00",
+  "generated_at_utc": "2026-08-23T23:08:19.580896+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 21:52:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 22:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Phillies",
         "Kushner",
-        "Gordon",
+        "Jeanty",
+        "#TNALockdown",
         "Jeffries",
-        "Fermin",
-        "Adeyemi",
-        "Lamine",
-        "Kyle Kirkwood",
-        "Barca",
-        "Ashton Jeanty",
-        "ilya"
+        "Blaney",
+        "Mike Washington",
+        "Phillies",
+        "Gordon",
+        "#NASCAR",
+        "ilya",
+        "Fermin"
       ],
       "hashtags": [
-        "#NASCAR",
         "#TNALockdown",
-        "#Freedom250",
-        "#DollarTree301",
-        "#SeductiveSunday"
+        "#NASCAR",
+        "#DollarTree301"
       ],
       "regular_topics": [
-        "Phillies",
         "Kushner",
-        "Gordon",
+        "Jeanty",
         "Jeffries",
+        "Blaney",
+        "Mike Washington",
+        "Phillies",
+        "Gordon",
+        "ilya",
         "Fermin",
-        "Adeyemi",
-        "Lamine",
-        "Kyle Kirkwood",
-        "Barca",
-        "Ashton Jeanty",
-        "ilya"
+        "Wyndham Clark",
+        "connor"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -121,14 +119,14 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 22:08:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:00:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gordon",
         "Fermin",
         "Adeyemi",
         "Lamine",
-        "Gavi",
         "Xavi Espart",
+        "Gavi",
         "Rapha",
         "#ElcheBar\u00e7a",
         "Raphinha",
@@ -140,16 +138,19 @@
         "#SevEN_Belongs_Together",
         "#KKK15",
         "#TheMissingSunshine",
-        "#AsimRiaz",
-        "#AvinashMishra"
+        "#AvinashMishra",
+        "#GodNightSunday",
+        "#RubinaDilaik",
+        "#PondPhuwinConcertD3",
+        "#ONEPIECE"
       ],
       "regular_topics": [
         "Gordon",
         "Fermin",
         "Adeyemi",
         "Lamine",
-        "Gavi",
         "Xavi Espart",
+        "Gavi",
         "Rapha",
         "Raphinha",
         "Pedri",
