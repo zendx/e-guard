@@ -1,12 +1,14 @@
 {
-  "generated_at_utc": "2026-08-23T10:10:43.430707+00:00",
+  "generated_at_utc": "2026-08-23T10:46:05.987413+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 09:33:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 10:28:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Good Sunday",
         "Rolly",
+        "God Valley",
         "STILL FOREVER TO GO WITH JAMES",
         "#JAMESFromHereToAlways",
         "#OtherworldParade",
@@ -14,27 +16,30 @@
         "#PYPD_BIRTHDAY_PARTY",
         "#Amadeus",
         "PONDPHUWIN ETERNAL STAR",
-        "JAMES CHAO",
-        "Joe Milton",
-        "$Dinger"
+        "JAMES CHAO"
       ],
       "hashtags": [
         "#JAMESFromHereToAlways",
         "#OtherworldParade",
         "#PondPhuwinConcertD3",
         "#PYPD_BIRTHDAY_PARTY",
-        "#Amadeus"
+        "#Amadeus",
+        "#STARDOM",
+        "#Toonami",
+        "#boxing",
+        "#HawkFire",
+        "#LYKNDuskAndDawnxNewYorkCity"
       ],
       "regular_topics": [
+        "Good Sunday",
         "Rolly",
+        "God Valley",
         "STILL FOREVER TO GO WITH JAMES",
         "PONDPHUWIN ETERNAL STAR",
         "JAMES CHAO",
         "Joe Milton",
-        "$Dinger",
         "Get Smart",
-        "Mallory",
-        "Austin McBroom",
+        "Finish",
         "Maxwell Smart",
         "Nakayama Festa"
       ],
@@ -43,7 +48,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 09:06:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 10:00:37 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Hull",
         "Spurs",
@@ -52,10 +57,10 @@
         "#HULMUN",
         "Dorgu",
         "Maguire",
-        "#BRETOT",
         "Bergvall",
-        "#MUFC",
-        "Tielemans"
+        "Tielemans",
+        "#BRETOT",
+        "#MUFC"
       ],
       "hashtags": [
         "#HULMUN",
@@ -73,9 +78,9 @@
         "Maguire",
         "Bergvall",
         "Tielemans",
+        "Arsenal",
         "Man Utd",
-        "Tottenham",
-        "Arsenal"
+        "Tottenham"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
