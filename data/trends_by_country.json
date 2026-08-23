@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T23:08:19.580896+00:00",
+  "generated_at_utc": "2026-08-23T23:40:46.738048+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,46 +41,46 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 22:20:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:12:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wirtz",
         "Liverpool",
         "Che Adams",
-        "Fermin",
+        "Gordon",
         "#thepiano",
-        "Frimpong",
+        "Fermin",
+        "Barca",
         "#NUFC",
-        "Anthony Gordon",
-        "Wissa",
         "Ferran Torres",
-        "Adeyemi"
+        "Adeyemi",
+        "Wissa"
       ],
       "hashtags": [
         "#thepiano",
         "#NUFC",
-        "#NEWLIV",
+        "#TNALockdown",
         "#CatChatBookClub",
-        "#wildflowerhour"
+        "#NEWLIV"
       ],
       "regular_topics": [
         "Wirtz",
         "Liverpool",
         "Che Adams",
+        "Gordon",
         "Fermin",
-        "Frimpong",
-        "Anthony Gordon",
-        "Wissa",
+        "Barca",
         "Ferran Torres",
         "Adeyemi",
-        "Munoz",
-        "Hall"
+        "Wissa",
+        "Frimpong",
+        "Munoz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 22:12:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:04:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -90,16 +90,16 @@
         "The US",
         "Quebec",
         "America",
-        "Gordon",
         "Lutnick",
-        "Soriano"
+        "CUSMA",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#UFCSacramento",
-        "#bcstorm",
+        "#TNALockdown",
         "#DutchGP",
-        "#NEWLIV"
+        "#bcstorm"
       ],
       "regular_topics": [
         "Canada",
@@ -110,9 +110,9 @@
         "The US",
         "Quebec",
         "America",
-        "Gordon",
         "Lutnick",
-        "Soriano"
+        "CUSMA",
+        "Gordon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -162,7 +162,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 22:06:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 22:57:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gordon",
         "Ferran Torres",
@@ -171,14 +171,13 @@
         "Ogogo",
         "Raphinha",
         "Lamine",
-        "Gavi",
         "Xavi Espart",
-        "Yamal",
-        "Alvarez"
+        "Gavi",
+        "Alvarez",
+        "Pedri"
       ],
       "hashtags": [
-        "#FCBarcelona",
-        "#LaLiga"
+        "#FCBarcelona"
       ],
       "regular_topics": [
         "Gordon",
@@ -188,10 +187,10 @@
         "Ogogo",
         "Raphinha",
         "Lamine",
-        "Gavi",
         "Xavi Espart",
-        "Yamal",
-        "Alvarez"
+        "Gavi",
+        "Alvarez",
+        "Pedri"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
