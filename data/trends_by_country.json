@@ -1,105 +1,105 @@
 {
-  "generated_at_utc": "2026-08-23T23:40:46.738048+00:00",
+  "generated_at_utc": "2026-08-24T00:30:16.304328+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Aug 23 2026 22:48:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:39:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Kushner",
-        "Jeanty",
         "#TNALockdown",
+        "Jeanty",
+        "Kushner",
         "Jeffries",
-        "Blaney",
         "Mike Washington",
-        "Phillies",
-        "Gordon",
-        "#NASCAR",
+        "Blaney",
         "ilya",
-        "Fermin"
+        "Shelley Fabares",
+        "#NASCAR",
+        "Phillies",
+        "connor"
       ],
       "hashtags": [
         "#TNALockdown",
         "#NASCAR",
+        "#BaddiesUSAChapter2",
         "#DollarTree301"
       ],
       "regular_topics": [
-        "Kushner",
         "Jeanty",
+        "Kushner",
         "Jeffries",
-        "Blaney",
         "Mike Washington",
-        "Phillies",
-        "Gordon",
+        "Blaney",
         "ilya",
-        "Fermin",
-        "Wyndham Clark",
-        "connor"
+        "Shelley Fabares",
+        "Phillies",
+        "connor",
+        "Gordon",
+        "Fermin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Aug 23 2026 23:12:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 00:04:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Wirtz",
         "Liverpool",
-        "Che Adams",
+        "#TNALockdown",
         "Gordon",
-        "#thepiano",
+        "Newcastle",
+        "#ThePiano",
         "Fermin",
+        "Che Adams",
         "Barca",
         "#NUFC",
-        "Ferran Torres",
-        "Adeyemi",
-        "Wissa"
+        "Ferran Torres"
       ],
       "hashtags": [
-        "#thepiano",
-        "#NUFC",
         "#TNALockdown",
-        "#CatChatBookClub",
-        "#NEWLIV"
+        "#ThePiano",
+        "#NUFC",
+        "#catchatbookclub"
       ],
       "regular_topics": [
         "Wirtz",
         "Liverpool",
-        "Che Adams",
         "Gordon",
+        "Newcastle",
         "Fermin",
+        "Che Adams",
         "Barca",
         "Ferran Torres",
         "Adeyemi",
-        "Wissa",
-        "Frimpong",
-        "Munoz"
+        "ilya",
+        "Ogogo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Aug 23 2026 23:04:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:56:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "Trump",
         "China",
         "Canadians",
-        "The US",
         "Quebec",
+        "The US",
         "America",
         "Lutnick",
-        "CUSMA",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "CUSMA"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#UFCSacramento",
         "#TNALockdown",
         "#DutchGP",
-        "#bcstorm"
+        "#bcstorm",
+        "#NEWLIV"
       ],
       "regular_topics": [
         "Canada",
@@ -107,62 +107,58 @@
         "Trump",
         "China",
         "Canadians",
-        "The US",
         "Quebec",
+        "The US",
         "America",
         "Lutnick",
         "CUSMA",
-        "Gordon"
+        "Jivani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Aug 23 2026 23:00:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:52:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Joymoti",
         "Gordon",
+        "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#NationalSpaceDay",
+        "Vantara",
+        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "#neverstopplaying",
+        "#ekambawa_yogiayasong",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "Fermin",
-        "Adeyemi",
-        "Lamine",
-        "Xavi Espart",
-        "Gavi",
-        "Rapha",
-        "#ElcheBar\u00e7a",
-        "Raphinha",
-        "Pedri",
-        "Bernal"
+        "Manusmriti"
       ],
       "hashtags": [
-        "#ElcheBar\u00e7a",
-        "#SevEN_Belongs_Together",
-        "#KKK15",
-        "#TheMissingSunshine",
-        "#AvinashMishra",
-        "#GodNightSunday",
-        "#RubinaDilaik",
-        "#PondPhuwinConcertD3",
-        "#ONEPIECE"
+        "#\u0917\u094c_\u0938\u0941\u0930\u0915\u094d\u0937\u093e_\u0905\u092d\u093f\u092f\u093e\u0928",
+        "#NationalSpaceDay",
+        "#ReservationReform\u0906\u0902\u0926\u094b\u0932\u0928",
+        "#neverstopplaying",
+        "#ekambawa_yogiayasong"
       ],
       "regular_topics": [
+        "Joymoti",
         "Gordon",
+        "Vantara",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0905\u0902\u0924\u0930\u093f\u0915\u094d\u0937",
         "Fermin",
+        "Manusmriti",
         "Adeyemi",
-        "Lamine",
+        "ISRO",
         "Xavi Espart",
-        "Gavi",
-        "Rapha",
-        "Raphinha",
-        "Pedri",
-        "Bernal",
-        "Julian"
+        "Lamine",
+        "\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Aug 23 2026 22:57:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Aug 23 2026 23:52:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Gordon",
         "Ferran Torres",
@@ -170,9 +166,9 @@
         "Fermin",
         "Ogogo",
         "Raphinha",
-        "Lamine",
-        "Xavi Espart",
+        "Yamal",
         "Gavi",
+        "Xavi Espart",
         "Alvarez",
         "Pedri"
       ],
@@ -186,9 +182,9 @@
         "Fermin",
         "Ogogo",
         "Raphinha",
-        "Lamine",
-        "Xavi Espart",
+        "Yamal",
         "Gavi",
+        "Xavi Espart",
         "Alvarez",
         "Pedri"
       ],
