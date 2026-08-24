@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T09:32:58.709197+00:00",
+  "generated_at_utc": "2026-08-24T10:25:07.280960+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,7 +43,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 08:48:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 09:42:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
         "Ukraine",
@@ -52,17 +52,17 @@
         "Newcastle",
         "Gravenberch",
         "Wissa",
-        "Munoz",
         "#NUFC",
-        "#bbcbreakfast",
-        "Lewis"
+        "Munoz",
+        "Lewis",
+        "#popmaster"
       ],
       "hashtags": [
         "#NEWLIV",
         "#NUFC",
-        "#bbcbreakfast",
+        "#popmaster",
         "#DutchGP",
-        "#MySummer"
+        "#jeremyvine"
       ],
       "regular_topics": [
         "Isak",
@@ -74,15 +74,15 @@
         "Munoz",
         "Lewis",
         "Bournemouth",
-        "Kevin Keegan",
-        "Storm Shadow"
+        "Russia",
+        "Kevin Keegan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 08:40:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 09:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -98,10 +98,10 @@
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "#BLINGY",
         "#WWECalgary",
-        "#NEWLIV",
-        "#TNALockdown",
-        "#90dayfiance"
+        "#newliv",
+        "#TNALockdown"
       ],
       "regular_topics": [
         "Canada",
@@ -114,65 +114,66 @@
         "America",
         "Entry Zone",
         "Lutnick",
-        "CUSMA"
+        "Enes Kanter"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 08:36:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 09:28:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#cheapest_listed_AI_stock",
         "#Mahakali",
+        "#ShukracharyaWarCry",
+        "#cheapest_listed_AI_stock",
+        "#UPPolice",
         "#Dial1975",
-        "#SamrastaSankalpAbhiyan",
-        "#Day5_Upper_Circuit_Stock",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "Parandur",
         "9.03 Cr PAT",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "149.25 Cr Revenue",
-        "Rishabh Pant"
-      ],
-      "hashtags": [
-        "#cheapest_listed_AI_stock",
-        "#Mahakali",
-        "#Dial1975",
-        "#SamrastaSankalpAbhiyan",
-        "#Day5_Upper_Circuit_Stock"
-      ],
-      "regular_topics": [
-        "Parandur",
-        "9.03 Cr PAT",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
         "149.25 Cr Revenue",
         "Rishabh Pant",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
-        "4.36 Cr",
-        "NHC Foods",
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940"
+      ],
+      "hashtags": [
+        "#Mahakali",
+        "#ShukracharyaWarCry",
+        "#cheapest_listed_AI_stock",
+        "#UPPolice",
+        "#Dial1975",
+        "#POCOF9Series"
+      ],
+      "regular_topics": [
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "Parandur",
+        "9.03 Cr PAT",
+        "149.25 Cr Revenue",
+        "Rishabh Pant",
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940",
+        "Ajeet Bharti",
+        "PVCU",
+        "Dhruv Jurel",
         "Omega",
-        "Ajeet Bharti"
+        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 08:36:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 09:27:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy New Week",
         "Fulham",
-        "RAIN OF ANSWERS",
         "#MondayMotivation",
-        "Today is Monday",
+        "RAIN OF ANSWERS",
         "Aunty Funke",
-        "$PHYS",
-        "Another Monday",
+        "Today is Monday",
         "Prop Firm Match",
+        "#FULCHE",
         "Xabi Alonso",
-        "#FULCHE"
+        "The World Champions",
+        "Craven Cottage"
       ],
       "hashtags": [
         "#MondayMotivation",
@@ -185,14 +186,14 @@
         "Happy New Week",
         "Fulham",
         "RAIN OF ANSWERS",
-        "Today is Monday",
         "Aunty Funke",
-        "$PHYS",
-        "Another Monday",
+        "Today is Monday",
         "Prop Firm Match",
         "Xabi Alonso",
+        "The World Champions",
         "Craven Cottage",
-        "The World Champions"
+        "Ilaro",
+        "$PHYS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
