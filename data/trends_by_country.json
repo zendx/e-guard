@@ -1,42 +1,41 @@
 {
-  "generated_at_utc": "2026-08-24T19:49:53.618097+00:00",
+  "generated_at_utc": "2026-08-24T20:14:57.259272+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 18:55:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 19:48:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Jed York",
-        "Browns",
-        "49ers",
         "Boutte",
+        "Jed York",
+        "Sanchez",
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "Browns",
         "East Palestine",
-        "Watson",
-        "WNBA",
-        "Robert Kraft",
-        "Caicedo",
-        "Operation Economic Outcast",
-        "Shedeur"
+        "49ers",
+        "Jaylen Reed",
+        "Josh King"
       ],
       "hashtags": [
-        "#BrinityxMaybelline",
+        "#FULCHE",
         "#stayselcaday",
-        "#CashInWithRitas",
-        "#MondayMotivation",
-        "#coerselcaday"
+        "#BrinityxMaybelline",
+        "#CashInWithRitas"
       ],
       "regular_topics": [
-        "Jed York",
-        "Browns",
-        "49ers",
         "Boutte",
+        "Jed York",
+        "Sanchez",
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "Browns",
         "East Palestine",
-        "Watson",
-        "WNBA",
-        "Robert Kraft",
-        "Caicedo",
-        "Operation Economic Outcast",
-        "Shedeur"
+        "49ers",
+        "Jaylen Reed",
+        "Josh King"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -116,76 +115,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 19:08:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 20:00:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sanchez",
         "#StopMisuseOfSCSTAct",
+        "Palmer",
+        "Fulham",
         "#UPSSSC",
+        "Chelsea",
         "Answer Key",
         "1YR OF FARHANA BHATT SEASON",
+        "#FULCHE",
         "1 YEAR OF AMAAL BB ERA",
-        "ONE YEAR ONE VIRAL QUEEN TANYA",
-        "#DNHandDDmonsoonFestival2026",
-        "#BoycottHYBE_ForFairness",
-        "ENGENE DEMAND ANSWERS",
-        "#VVAAN",
-        "Joao Pedro"
+        "Lacroix"
       ],
       "hashtags": [
         "#StopMisuseOfSCSTAct",
         "#UPSSSC",
-        "#DNHandDDmonsoonFestival2026",
+        "#FULCHE",
         "#BoycottHYBE_ForFairness",
-        "#VVAAN"
+        "#SevEN_Still_Stand"
       ],
       "regular_topics": [
+        "Sanchez",
+        "Palmer",
+        "Fulham",
+        "Chelsea",
         "Answer Key",
         "1YR OF FARHANA BHATT SEASON",
         "1 YEAR OF AMAAL BB ERA",
-        "ONE YEAR ONE VIRAL QUEEN TANYA",
-        "ENGENE DEMAND ANSWERS",
-        "Joao Pedro",
-        "\u0905\u091c\u092f \u0906\u0932\u094b\u0915",
-        "Caicedo",
-        "Fulham",
-        "WE STAND WITH ASIM RIAZ",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940"
+        "Lacroix",
+        "Rogers",
+        "Josh King",
+        "Joao Pedro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 19:08:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 20:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Caicedo",
-        "Fulham",
+        "Sanchez",
+        "Palmer",
+        "Chelsea",
         "#FULCHE",
+        "Rogers",
+        "Joao Pedro",
+        "Caicedo",
         "Alonso",
-        "Lavia",
-        "Poco Lee",
-        "Gakpo",
-        "Hato",
-        "Ritzman Smart Homes",
-        "Number 9",
-        "Amaechi"
+        "Lacroix",
+        "Josh King",
+        "Lavia"
       ],
       "hashtags": [
         "#FULCHE",
+        "#itelPower80",
         "#OmoOlorun",
-        "#itelPower80"
+        "#CHEFUL"
       ],
       "regular_topics": [
+        "Sanchez",
+        "Palmer",
+        "Chelsea",
+        "Rogers",
+        "Joao Pedro",
         "Caicedo",
-        "Fulham",
         "Alonso",
+        "Lacroix",
+        "Josh King",
         "Lavia",
-        "Poco Lee",
-        "Gakpo",
-        "Hato",
-        "Ritzman Smart Homes",
-        "Number 9",
-        "Amaechi",
-        "Sowore"
+        "Hato"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
