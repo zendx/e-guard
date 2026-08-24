@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-24T22:12:03.197763+00:00",
+  "generated_at_utc": "2026-08-24T22:49:00.711303+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 21:31:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 22:24:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Boutte",
         "Sanchez",
         "Palmer",
-        "Fulham",
         "Jed York",
         "Durk",
+        "Fulham",
+        "The Supreme Court",
+        "Girl Scouts",
         "The Batman",
-        "49ers",
-        "East Palestine",
-        "#FULCHE"
+        "East Palestine"
       ],
       "hashtags": [
         "#FULCHE",
@@ -27,13 +27,13 @@
         "Boutte",
         "Sanchez",
         "Palmer",
-        "Fulham",
         "Jed York",
         "Durk",
+        "Fulham",
+        "The Supreme Court",
+        "Girl Scouts",
         "The Batman",
-        "49ers",
-        "East Palestine",
-        "Operation Economic Outcast"
+        "East Palestine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
