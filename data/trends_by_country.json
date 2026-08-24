@@ -1,114 +1,114 @@
 {
-  "generated_at_utc": "2026-08-24T20:14:57.259272+00:00",
+  "generated_at_utc": "2026-08-24T20:53:50.442253+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 19:48:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 20:39:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Boutte",
-        "Jed York",
-        "Sanchez",
         "Chelsea",
-        "Fulham",
+        "Sanchez",
+        "Boutte",
         "Palmer",
-        "Browns",
+        "Jed York",
+        "Fulham",
         "East Palestine",
         "49ers",
-        "Jaylen Reed",
-        "Josh King"
+        "#FULCHE",
+        "Josh King",
+        "Joao Pedro"
       ],
       "hashtags": [
         "#FULCHE",
-        "#stayselcaday",
-        "#BrinityxMaybelline",
-        "#CashInWithRitas"
+        "#jimromeonx",
+        "#stayselcaday"
       ],
       "regular_topics": [
-        "Boutte",
-        "Jed York",
-        "Sanchez",
         "Chelsea",
-        "Fulham",
+        "Sanchez",
+        "Boutte",
         "Palmer",
-        "Browns",
+        "Jed York",
+        "Fulham",
         "East Palestine",
         "49ers",
-        "Jaylen Reed",
-        "Josh King"
+        "Josh King",
+        "Joao Pedro",
+        "Robert Kraft"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 19:20:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 20:12:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Joao Pedro",
-        "Sanchez",
-        "Fulham",
-        "#FULCHE",
-        "Caicedo",
-        "Lavia",
         "Palmer",
-        "Ukraine",
-        "Driver",
-        "Arbeloa",
-        "Gakpo"
+        "Sanchez",
+        "Chelsea",
+        "#FULCHE",
+        "Josh King",
+        "Joao Pedro",
+        "Lavia",
+        "Lacroix",
+        "Penders",
+        "Colwill",
+        "Caicedo"
       ],
       "hashtags": [
         "#FULCHE",
+        "#universitychallenge",
         "#onlyconnect",
-        "#stayselcaday"
+        "#mastermind"
       ],
       "regular_topics": [
-        "Joao Pedro",
-        "Sanchez",
-        "Fulham",
-        "Caicedo",
-        "Lavia",
         "Palmer",
-        "Ukraine",
-        "Driver",
-        "Arbeloa",
-        "Gakpo",
-        "Colwill"
+        "Sanchez",
+        "Chelsea",
+        "Josh King",
+        "Joao Pedro",
+        "Lavia",
+        "Lacroix",
+        "Penders",
+        "Colwill",
+        "Caicedo",
+        "Arbeloa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 19:12:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 20:04:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
         "China",
         "Trump",
-        "Ford",
+        "Palmer",
         "Canadians",
+        "Sanchez",
+        "Chelsea",
+        "Fulham",
         "The US",
-        "America",
-        "Caicedo",
-        "Maine",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
+        "America"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#MondayMotivation"
+        "#FULCHE"
       ],
       "regular_topics": [
         "Canada",
         "Carney",
         "China",
         "Trump",
-        "Ford",
+        "Palmer",
         "Canadians",
+        "Sanchez",
+        "Chelsea",
+        "Fulham",
         "The US",
-        "America",
-        "Caicedo",
-        "Maine",
-        "Enes"
+        "America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
