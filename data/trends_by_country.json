@@ -1,80 +1,80 @@
 {
-  "generated_at_utc": "2026-08-24T15:05:48.693140+00:00",
+  "generated_at_utc": "2026-08-24T16:00:15.051422+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 14:33:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 15:27:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Browns",
+        "Watson",
         "WNBA",
-        "Enes",
-        "Deshaun Watson",
-        "Good Monday",
         "Shedeur",
+        "Enes",
+        "Jed York",
+        "Good Monday",
+        "Monken",
         "Cloud",
-        "Bagwell",
-        "#MondayMotivation",
-        "#Tesla",
-        "Faizon Brandon"
+        "Jimmy Haslam",
+        "Bagwell"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#Tesla",
-        "#DawgPound",
         "#stayselcaday",
+        "#DawgPound",
         "#APlagueTale"
       ],
       "regular_topics": [
         "Browns",
+        "Watson",
         "WNBA",
-        "Enes",
-        "Deshaun Watson",
-        "Good Monday",
         "Shedeur",
+        "Enes",
+        "Jed York",
+        "Good Monday",
+        "Monken",
         "Cloud",
-        "Bagwell",
-        "Faizon Brandon",
-        "Dana Brown",
-        "Todd Monken"
+        "Jimmy Haslam",
+        "Bagwell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 14:06:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 15:00:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
         "Isak",
-        "Russia",
         "Frimpong",
+        "Russia",
         "Newcastle",
         "#NEWLIV",
         "Gravenberch",
-        "Zelensky",
         "Wissa",
-        "#NUFC",
-        "Canada"
+        "Zelensky",
+        "Canada",
+        "Graeme Dott"
       ],
       "hashtags": [
         "#NEWLIV",
         "#NUFC",
-        "#MCIBOU",
-        "#DutchGP",
-        "#HULMUN"
+        "#mcibou",
+        "#hulmun",
+        "#DutchGP"
       ],
       "regular_topics": [
         "Ukraine",
         "Isak",
-        "Russia",
         "Frimpong",
+        "Russia",
         "Newcastle",
         "Gravenberch",
-        "Zelensky",
         "Wissa",
+        "Zelensky",
         "Canada",
-        "Munoz",
+        "Graeme Dott",
         "Lewis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 14:54:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 15:45:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -93,14 +93,14 @@
         "The US",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "America",
-        "Avan\u00e7ons",
-        "Enes"
+        "Enes",
+        "Browns"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#MondayMotivation",
         "#NEWLIV",
-        "#wwecalgary",
+        "#WWECalgary",
         "#TNALockdown"
       ],
       "regular_topics": [
@@ -112,8 +112,8 @@
         "Quebec",
         "The US",
         "America",
-        "Avan\u00e7ons",
         "Enes",
+        "Browns",
         "CUSMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,78 +121,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 14:48:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 15:40:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DNHandDDmonsoonFestival2026",
-        "#WazirXAI",
         "#StopMisuseOfSCSTAct",
-        "#ShukracharyaWarCry",
-        "#IndianGameShowTonight",
-        "Daman",
-        "Vantara",
+        "#dnhandddmonsoonfestival2026",
+        "#WazirXAI",
+        "1YR OF FARHANA BHATT SEASON",
+        "#STAYLOST",
+        "#GodNightMonday",
         "Joymoti",
-        "Dhruv Jurel",
-        "ONE YEAR OF ABHINOOR",
-        "ASHNOOR BB19 QUEEN"
+        "Vantara",
+        "Daman",
+        "ENGENE DEMAND ANSWERS",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940"
       ],
       "hashtags": [
-        "#DNHandDDmonsoonFestival2026",
-        "#WazirXAI",
         "#StopMisuseOfSCSTAct",
-        "#ShukracharyaWarCry",
-        "#IndianGameShowTonight"
+        "#dnhandddmonsoonfestival2026",
+        "#WazirXAI",
+        "#STAYLOST",
+        "#GodNightMonday"
       ],
       "regular_topics": [
-        "Daman",
-        "Vantara",
+        "1YR OF FARHANA BHATT SEASON",
         "Joymoti",
-        "Dhruv Jurel",
+        "Vantara",
+        "Daman",
+        "ENGENE DEMAND ANSWERS",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "ONE YEAR OF ABHINOOR",
         "ASHNOOR BB19 QUEEN",
-        "BPSC",
+        "Dhruv Jurel",
         "anandiben patel",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Hon'ble Governor Smt",
-        "India Gate"
+        "Gurgaon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 14:48:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 15:39:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fulham",
-        "dj cuppy",
+        "Ritzman Smart Homes",
+        "#itelPower80",
+        "DJ Cuppy",
+        "Bells",
+        "Chimsom Chuka",
+        "Ezege",
         "#SorbetByIleIyanByPODs",
-        "Ogogo",
-        "Yinka Quadri",
         "Funke Akindele",
-        "Ikire",
-        "Habbyfx",
-        "Ilaro",
-        "Freddie",
-        "bellivore"
+        "Congratulations Chimsom",
+        "Ogogo"
       ],
       "hashtags": [
+        "#itelPower80",
         "#SorbetByIleIyanByPODs",
-        "#MondayMotivation",
         "#FULCHE",
-        "#Lanterns",
-        "#FreeJuli\u00e1n"
+        "#tellonym",
+        "#MondayMotivation"
       ],
       "regular_topics": [
         "Fulham",
-        "dj cuppy",
-        "Ogogo",
-        "Yinka Quadri",
+        "Ritzman Smart Homes",
+        "DJ Cuppy",
+        "Bells",
+        "Chimsom Chuka",
+        "Ezege",
         "Funke Akindele",
+        "Congratulations Chimsom",
+        "Ogogo",
         "Ikire",
-        "Habbyfx",
-        "Ilaro",
-        "Freddie",
-        "bellivore",
-        "Marc Cucurella"
+        "Gerard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
