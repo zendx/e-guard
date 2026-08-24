@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-24T17:52:52.030044+00:00",
+  "generated_at_utc": "2026-08-24T18:20:16.023273+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 17:09:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 18:01:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Browns",
         "Jed York",
+        "Browns",
         "Watson",
         "WNBA",
-        "Shedeur",
+        "49ers",
         "East Palestine",
         "Robert Kraft",
-        "Enes",
-        "Monken",
-        "Serayah",
-        "Cloud"
+        "Shedeur",
+        "Caicedo",
+        "Operation Economic Outcast",
+        "Enes"
       ],
       "hashtags": [
         "#stayselcaday",
+        "#BrinityxMaybelline",
+        "#CashInWithRitas",
         "#DawgPound",
-        "#MondayMotivation",
-        "#coerselcaday",
-        "#cosd"
+        "#MondayMotivation"
       ],
       "regular_topics": [
-        "Browns",
         "Jed York",
+        "Browns",
         "Watson",
         "WNBA",
-        "Shedeur",
+        "49ers",
         "East Palestine",
         "Robert Kraft",
-        "Enes",
-        "Monken",
-        "Serayah",
-        "Cloud"
+        "Shedeur",
+        "Caicedo",
+        "Operation Economic Outcast",
+        "Enes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
