@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T21:49:09.241139+00:00",
+  "generated_at_utc": "2026-08-24T22:12:03.197763+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -40,151 +40,152 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 21:04:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 22:01:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Palmer",
         "Chelsea",
         "#FULCHE",
-        "Josh King",
-        "Colwill",
-        "Enzo",
         "Penders",
+        "Enzo",
+        "Josh King",
         "Lacroix",
+        "Alonso",
         "Joao Pedro",
-        "Alonso"
+        "Lavia"
       ],
       "hashtags": [
         "#FULCHE",
-        "#UniversityChallenge",
-        "#onlyconnect",
-        "#Mastermind"
+        "#universitychallenge",
+        "#onlyconnect"
       ],
       "regular_topics": [
         "Sanchez",
         "Palmer",
         "Chelsea",
-        "Josh King",
-        "Colwill",
-        "Enzo",
         "Penders",
+        "Enzo",
+        "Josh King",
         "Lacroix",
-        "Joao Pedro",
         "Alonso",
-        "Arbeloa"
+        "Joao Pedro",
+        "Lavia",
+        "Caicedo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 20:56:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 21:49:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ford",
         "Palmer",
-        "Sanchez",
         "Chelsea",
+        "Sanchez",
         "Fulham",
         "Colwill",
         "Lacroix",
         "Maine",
-        "Marissal",
         "Taschereau",
-        "Enzo"
+        "Xabi",
+        "Vance"
       ],
       "hashtags": [
-        "#FULCHE"
+        "#FULCHE",
+        "#TradeWar"
       ],
       "regular_topics": [
         "Ford",
         "Palmer",
-        "Sanchez",
         "Chelsea",
+        "Sanchez",
         "Fulham",
         "Colwill",
         "Lacroix",
         "Maine",
-        "Marissal",
         "Taschereau",
-        "Enzo"
+        "Xabi",
+        "Vance"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 20:52:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 21:45:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Palmer",
         "Chelsea",
         "Fulham",
-        "#StopMisuseOfSCSTAct",
-        "#UPSSSC",
         "#FULCHE",
-        "1YR OF FARHANA BHATT SEASON",
+        "#StopMisuseOfSCSTAct",
+        "Xabi",
         "Rogers",
-        "Josh King",
-        "Lacroix"
+        "#UPSSSC",
+        "Lacroix",
+        "Arbeloa"
       ],
       "hashtags": [
+        "#FULCHE",
         "#StopMisuseOfSCSTAct",
         "#UPSSSC",
-        "#FULCHE",
         "#BoycottHYBE_ForFairness",
         "#SevEN_Still_Stand",
         "#DNHandDDmonsoonFestival2026",
         "#VVAAN",
-        "#VigneshShivan"
+        "#aikmohabbataur",
+        "#XiaomiCare",
+        "#ReservationReformAndolan"
       ],
       "regular_topics": [
         "Sanchez",
         "Palmer",
         "Chelsea",
         "Fulham",
-        "1YR OF FARHANA BHATT SEASON",
+        "Xabi",
         "Rogers",
-        "Josh King",
         "Lacroix",
-        "Enzo",
         "Arbeloa",
-        "1 YEAR OF AMAAL BB ERA"
+        "Colwill",
+        "Enzo",
+        "Joao Pedro"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 20:51:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 21:44:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
-        "Palmer",
         "Chelsea",
+        "Palmer",
         "#FULCHE",
         "Joao Pedro",
         "Alonso",
-        "Colwill",
         "Lacroix",
         "Caicedo",
-        "Lavia",
-        "Josh King"
+        "Penders",
+        "Acheampong",
+        "Arbeloa"
       ],
       "hashtags": [
         "#FULCHE",
-        "#CHEFUL",
-        "#OmoOlorun"
+        "#CHEFUL"
       ],
       "regular_topics": [
         "Sanchez",
-        "Palmer",
         "Chelsea",
+        "Palmer",
         "Joao Pedro",
         "Alonso",
-        "Colwill",
         "Lacroix",
         "Caicedo",
-        "Lavia",
-        "Josh King",
+        "Penders",
+        "Acheampong",
+        "Arbeloa",
         "Hato"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
