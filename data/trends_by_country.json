@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-24T10:25:07.280960+00:00",
+  "generated_at_utc": "2026-08-24T10:58:33.899981+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 09:15:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 10:08:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Enes",
         "Good Monday",
-        "#Lanterns",
+        "Enes",
         "#BLINGY",
-        "#LaCasaDeLosFamososM\u00e9xico",
-        "Natasha Cloud",
-        "Karina",
+        "#MondayMotivation",
         "The WNBA",
-        "Massad",
-        "#NCT127",
-        "Mallory"
+        "Natasha Cloud",
+        "#Lanterns",
+        "Karina",
+        "#LaCasaDeLosFamososM\u00e9xico",
+        "Mallory",
+        "Massad"
       ],
       "hashtags": [
-        "#Lanterns",
         "#BLINGY",
+        "#MondayMotivation",
+        "#Lanterns",
         "#LaCasaDeLosFamososM\u00e9xico",
-        "#NCT127",
         "#BaddiesUSA"
       ],
       "regular_topics": [
-        "Enes",
         "Good Monday",
+        "Enes",
+        "The WNBA",
         "Natasha Cloud",
         "Karina",
-        "The WNBA",
-        "Massad",
         "Mallory",
+        "Massad",
+        "$CYBERLEEK",
         "Ese P\u00e9rez",
-        "Milroe",
-        "Mariana",
-        "Sean Grayson"
+        "Sean Grayson",
+        "Sonya Massey"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 09:42:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 10:33:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Isak",
         "Ukraine",
+        "Isak",
         "Frimpong",
         "#NEWLIV",
+        "#popmaster",
         "Newcastle",
         "Gravenberch",
         "Wissa",
+        "Russia",
         "#NUFC",
-        "Munoz",
-        "Lewis",
-        "#popmaster"
+        "Munoz"
       ],
       "hashtags": [
         "#NEWLIV",
-        "#NUFC",
         "#popmaster",
+        "#NUFC",
         "#DutchGP",
-        "#jeremyvine"
+        "#MCIBOU"
       ],
       "regular_topics": [
-        "Isak",
         "Ukraine",
+        "Isak",
         "Frimpong",
         "Newcastle",
         "Gravenberch",
         "Wissa",
+        "Russia",
         "Munoz",
         "Lewis",
-        "Bournemouth",
-        "Russia",
-        "Kevin Keegan"
+        "Canada",
+        "Bournemouth"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 09:32:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 10:28:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -93,14 +93,14 @@
         "The US",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "America",
-        "Entry Zone",
+        "#BLINGY",
         "Lutnick"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#BLINGY",
         "#WWECalgary",
-        "#newliv",
+        "#NEWLIV",
         "#TNALockdown"
       ],
       "regular_topics": [
@@ -112,88 +112,92 @@
         "Quebec",
         "The US",
         "America",
-        "Entry Zone",
         "Lutnick",
-        "Enes Kanter"
+        "Enes Kanter",
+        "CUSMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 09:28:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 10:24:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Mahakali",
         "#ShukracharyaWarCry",
-        "#cheapest_listed_AI_stock",
         "#UPPolice",
-        "#Dial1975",
+        "#cheapest_listed_AI_stock",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "PVCU",
+        "#POCOF9Series",
         "Parandur",
-        "9.03 Cr PAT",
-        "149.25 Cr Revenue",
-        "Rishabh Pant",
+        "Raktabeej",
+        "Ajeet Bharti",
         "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940"
       ],
       "hashtags": [
         "#Mahakali",
         "#ShukracharyaWarCry",
-        "#cheapest_listed_AI_stock",
         "#UPPolice",
+        "#cheapest_listed_AI_stock",
+        "#POCOF9Series",
         "#Dial1975",
-        "#POCOF9Series"
+        "#Day5_Upper_Circuit_Stock",
+        "#Samuk",
+        "#SamrastaSankalpAbhiyan",
+        "#THEVVAAN",
+        "#Gurugram"
       ],
       "regular_topics": [
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "PVCU",
         "Parandur",
+        "Raktabeej",
+        "Ajeet Bharti",
+        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940",
         "9.03 Cr PAT",
         "149.25 Cr Revenue",
+        "\u0905\u091c\u092f \u0930\u093e\u092f",
         "Rishabh Pant",
-        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940",
-        "Ajeet Bharti",
-        "PVCU",
-        "Dhruv Jurel",
-        "Omega",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940"
+        "Dhruv Jurel"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 09:27:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 10:24:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Week",
         "Fulham",
+        "Happy New Week",
         "#MondayMotivation",
+        "Yinka Quadri",
         "RAIN OF ANSWERS",
         "Aunty Funke",
         "Today is Monday",
-        "Prop Firm Match",
+        "Ogogo",
+        "Craven Cottage",
         "#FULCHE",
-        "Xabi Alonso",
-        "The World Champions",
-        "Craven Cottage"
+        "Prop Firm Match"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#FULCHE",
         "#Lanterns",
-        "#COYB",
-        "#FreeJuli\u00e1n"
+        "#COYB"
       ],
       "regular_topics": [
-        "Happy New Week",
         "Fulham",
+        "Happy New Week",
+        "Yinka Quadri",
         "RAIN OF ANSWERS",
         "Aunty Funke",
         "Today is Monday",
-        "Prop Firm Match",
-        "Xabi Alonso",
-        "The World Champions",
+        "Ogogo",
         "Craven Cottage",
+        "Prop Firm Match",
         "Ilaro",
-        "$PHYS"
+        "Xabi Alonso"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
