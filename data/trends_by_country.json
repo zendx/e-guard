@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-08-24T04:12:16.750354+00:00",
+  "generated_at_utc": "2026-08-24T05:07:00.145248+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 04:00:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 04:52:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enes",
         "#Lanterns",
+        "The WNBA",
         "Natasha Cloud",
-        "Titans",
         "Milroe",
+        "Titans",
         "Jeanty",
-        "Toronto",
         "Mallory",
+        "Toronto",
         "Cam Ward",
-        "Will Levis",
-        "Seahawks"
+        "#BaddiesUSA"
       ],
       "hashtags": [
         "#Lanterns",
         "#BaddiesUSA",
         "#RHUGT",
-        "#TitanUp",
-        "#90DayFiance"
+        "#90DayFiance",
+        "#TitanUp"
       ],
       "regular_topics": [
         "Enes",
+        "The WNBA",
         "Natasha Cloud",
-        "Titans",
         "Milroe",
+        "Titans",
         "Jeanty",
-        "Toronto",
         "Mallory",
+        "Toronto",
         "Cam Ward",
-        "Will Levis",
-        "Seahawks",
-        "Sprained"
+        "Flor",
+        "Seahawks"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 03:33:37 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 04:27:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
-        "Frimpong",
         "#NEWLIV",
+        "Frimpong",
         "Newcastle",
         "Gravenberch",
         "Wissa",
-        "#DutchGP",
         "Bournemouth",
-        "Munoz",
         "Kevin Keegan",
-        "Hull"
+        "Hull",
+        "#DutchGP",
+        "Munoz"
       ],
       "hashtags": [
         "#NEWLIV",
         "#DutchGP",
         "#NUFC",
-        "#MCIBOU",
-        "#TNALockdown"
+        "#mcibou",
+        "#AVFC"
       ],
       "regular_topics": [
         "Isak",
@@ -71,9 +71,9 @@
         "Gravenberch",
         "Wissa",
         "Bournemouth",
-        "Munoz",
         "Kevin Keegan",
         "Hull",
+        "Munoz",
         "Lewis",
         "Brentford"
       ],
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 03:28:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 04:20:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -92,16 +92,16 @@
         "Quebec",
         "The US",
         "Enes Kanter",
-        "WNBA",
-        "America",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO"
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
+        "Tear",
+        "WNBA"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#Lanterns",
         "#WWECalgary",
         "#90DayFiance",
-        "#Riders"
+        "#NEWLIV"
       ],
       "regular_topics": [
         "Canada",
@@ -112,17 +112,18 @@
         "Quebec",
         "The US",
         "Enes Kanter",
+        "Tear",
         "WNBA",
-        "America",
-        "Tear"
+        "America"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 03:24:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 04:15:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#AI_Sector_Stock",
         "#JusticeForBapuji",
         "Sant Samaj Ki Awaaz",
         "Nirdosh Ko Riha Karo",
@@ -130,74 +131,74 @@
         "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "#\u0939\u0930_\u0939\u0930_\u092e\u0939\u093e\u0926\u0947\u0935_\u091c\u092f_\u0936\u093f\u0935_\u0936\u092e\u094d\u092d\u0942",
         "#ArunJaitley",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
+        "149.25 Cr",
         "\u0936\u093f\u0935\u0930\u093e\u092e \u0939\u0930\u093f \u0930\u093e\u091c\u0917\u0941\u0930\u0941",
-        "GIFT Nifty",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940"
+        "9.03 Cr"
       ],
       "hashtags": [
+        "#AI_Sector_Stock",
         "#JusticeForBapuji",
         "#GodMorningMonday",
         "#\u0939\u0930_\u0939\u0930_\u092e\u0939\u093e\u0926\u0947\u0935_\u091c\u092f_\u0936\u093f\u0935_\u0936\u092e\u094d\u092d\u0942",
         "#ArunJaitley",
         "#SawanSomwar",
         "#Rajguru",
-        "#\u0950\u0928\u092e\u0903\u0936\u093f\u0935\u093e\u092f",
         "#Amravati",
         "#MondayMotivation",
-        "#\u091a\u0924\u0941\u0930\u094d\u0925_\u0938\u094b\u092e\u0935\u093e\u0930",
-        "#HospitalFire"
+        "#HospitalFire",
+        "#\u0950\u0928\u092e\u0903\u0936\u093f\u0935\u093e\u092f"
       ],
       "regular_topics": [
         "Sant Samaj Ki Awaaz",
         "Nirdosh Ko Riha Karo",
         "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
+        "149.25 Cr",
         "\u0936\u093f\u0935\u0930\u093e\u092e \u0939\u0930\u093f \u0930\u093e\u091c\u0917\u0941\u0930\u0941",
-        "GIFT Nifty",
+        "9.03 Cr",
+        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0924\u094d\u0924 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "\u0936\u093f\u0935 \u0936\u0902\u0915\u0930",
-        "\u092a\u093e\u0935\u0928 \u091a\u0924\u0941\u0930\u094d\u0925",
-        "\u0938\u093e\u0935\u0928 \u092e\u093e\u0939"
+        "Omega",
+        "GIFT Nifty",
+        "4.36 Cr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 03:20:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 04:12:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Bournemouth",
         "Newcastle",
+        "Bournemouth",
         "Elche",
         "Ogogo",
-        "Hull City",
         "Balde",
+        "Hull City",
         "Man U",
         "Cherki",
-        "Vouch",
         "#NEWLIV",
+        "Vouch",
         "Adeyemi"
       ],
       "hashtags": [
         "#NEWLIV",
-        "#MCIBOU",
+        "#mcibou",
         "#HULMUN",
+        "#latina",
         "#buildwithyield"
       ],
       "regular_topics": [
-        "Bournemouth",
         "Newcastle",
+        "Bournemouth",
         "Elche",
         "Ogogo",
-        "Hull City",
         "Balde",
+        "Hull City",
         "Man U",
         "Cherki",
         "Vouch",
         "Adeyemi",
-        "Carrick"
+        "Gordon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
