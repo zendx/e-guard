@@ -1,26 +1,27 @@
 {
-  "generated_at_utc": "2026-08-24T11:49:07.165046+00:00",
+  "generated_at_utc": "2026-08-24T12:20:12.253914+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 11:00:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 11:54:39 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Monday",
+        "WNBA",
         "Enes",
         "#MondayMotivation",
-        "Solana $SOL",
-        "The WNBA",
-        "#BLINGY",
         "Cloud",
-        "#Lanterns",
-        "#gtav\u0131leak",
-        "Karina",
-        "$CYBERLEEK"
+        "Solana $SOL",
+        "#BLINGY",
+        "#MondayVibes",
+        "Corvair",
+        "$CYBERLEEK",
+        "#Lanterns"
       ],
       "hashtags": [
         "#MondayMotivation",
         "#BLINGY",
+        "#MondayVibes",
         "#Lanterns",
         "#gtav\u0131leak",
         "#LaCasaDeLosFamososM\u00e9xico",
@@ -28,16 +29,16 @@
       ],
       "regular_topics": [
         "Good Monday",
+        "WNBA",
         "Enes",
-        "Solana $SOL",
-        "The WNBA",
         "Cloud",
-        "Karina",
+        "Solana $SOL",
+        "Corvair",
         "$CYBERLEEK",
-        "Massad",
+        "Karina",
+        "Toaster",
         "Bobbin",
-        "Sean Grayson",
-        "Sonya Massey"
+        "D-Day"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -83,7 +84,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 11:20:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 12:12:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -95,13 +96,13 @@
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "Good Monday",
         "America",
-        "Lutnick"
+        "#MondayMotivation"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#MondayMotivation",
-        "#BLINGY",
         "#wwecalgary",
+        "#BLINGY",
         "#NEWLIV"
       ],
       "regular_topics": [
@@ -122,61 +123,64 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 11:16:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 12:06:56 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WazirXAI",
+        "#IndianGameShowTonight",
+        "#SchoolTheekKaroGujarat",
         "#Mahakali",
         "#ShukracharyaWarCry",
-        "#EmbassyREITFitandProper",
         "Dhruv Jurel",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "#UPPolice",
+        "Harssh",
         "PVCU",
         "Vigil Aunty",
-        "Parandur",
-        "Raktabeej"
+        "Jai Jawan"
       ],
       "hashtags": [
         "#WazirXAI",
+        "#IndianGameShowTonight",
+        "#SchoolTheekKaroGujarat",
         "#Mahakali",
         "#ShukracharyaWarCry",
         "#EmbassyREITFitandProper",
-        "#UPPolice",
-        "#POCOF9Series"
+        "#POCOF9Series",
+        "#RambaOorvasiMenaka"
       ],
       "regular_topics": [
         "Dhruv Jurel",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "Harssh",
         "PVCU",
         "Vigil Aunty",
+        "Jai Jawan",
         "Parandur",
-        "Raktabeej",
         "Ajeet Bharti",
-        "\u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u093e\u0925\u0940",
-        "9.03 Cr PAT",
-        "149.25 Cr Revenue",
-        "\u0905\u091c\u092f \u0930\u093e\u092f"
+        "Raktabeej",
+        "BPSC",
+        "Marathi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 11:15:46 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 12:06:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fulham",
         "Yinka Quadri",
+        "#SorbetByIleIyanByPODs",
         "Happy New Week",
         "#MondayMotivation",
         "Ogogo",
+        "Funke Akindele",
         "Ilaro",
-        "Craven Cottage",
         "#FULCHE",
-        "Aunty Funke",
-        "Prop Firm Match",
-        "NSPPD"
+        "Craven Cottage",
+        "Mykhailo Mudryk"
       ],
       "hashtags": [
+        "#SorbetByIleIyanByPODs",
         "#MondayMotivation",
         "#FULCHE",
         "#Lanterns",
@@ -187,13 +191,13 @@
         "Yinka Quadri",
         "Happy New Week",
         "Ogogo",
+        "Funke Akindele",
         "Ilaro",
         "Craven Cottage",
-        "Aunty Funke",
-        "Prop Firm Match",
+        "Mykhailo Mudryk",
         "NSPPD",
-        "RAIN OF ANSWERS",
-        "Xabi Alonso"
+        "Xabi Alonso",
+        "Dele Odule"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
