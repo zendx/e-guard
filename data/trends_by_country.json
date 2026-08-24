@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-08-24T08:32:52.892707+00:00",
+  "generated_at_utc": "2026-08-24T09:32:58.709197+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 07:31:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 09:15:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Enes",
+        "Good Monday",
         "#Lanterns",
+        "#BLINGY",
         "#LaCasaDeLosFamososM\u00e9xico",
-        "Karina",
         "Natasha Cloud",
+        "Karina",
         "The WNBA",
-        "Mallory",
         "Massad",
-        "Milroe",
-        "Ese P\u00e9rez",
-        "Flor"
+        "#NCT127",
+        "Mallory"
       ],
       "hashtags": [
         "#Lanterns",
+        "#BLINGY",
         "#LaCasaDeLosFamososM\u00e9xico",
-        "#BaddiesUSA",
-        "#LCDLFMX",
-        "#RHUGT"
+        "#NCT127",
+        "#BaddiesUSA"
       ],
       "regular_topics": [
         "Enes",
-        "Karina",
+        "Good Monday",
         "Natasha Cloud",
+        "Karina",
         "The WNBA",
-        "Mallory",
         "Massad",
-        "Milroe",
+        "Mallory",
         "Ese P\u00e9rez",
-        "Flor",
+        "Milroe",
         "Mariana",
-        "Jeanty"
+        "Sean Grayson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 07:54:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 08:48:43 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
+        "Ukraine",
         "Frimpong",
         "#NEWLIV",
-        "Ukraine",
         "Newcastle",
         "Gravenberch",
-        "#bbcbreakfast",
         "Wissa",
         "Munoz",
-        "Lewis",
-        "Bournemouth"
+        "#NUFC",
+        "#bbcbreakfast",
+        "Lewis"
       ],
       "hashtags": [
         "#NEWLIV",
-        "#bbcbreakfast",
         "#NUFC",
+        "#bbcbreakfast",
         "#DutchGP",
         "#MySummer"
       ],
       "regular_topics": [
         "Isak",
-        "Frimpong",
         "Ukraine",
+        "Frimpong",
         "Newcastle",
         "Gravenberch",
         "Wissa",
         "Munoz",
         "Lewis",
         "Bournemouth",
-        "Storm Shadow",
-        "Kevin Keegan"
+        "Kevin Keegan",
+        "Storm Shadow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 07:48:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 08:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -93,15 +93,15 @@
         "The US",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "America",
-        "Tear",
+        "Entry Zone",
         "Lutnick"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#WWECalgary",
         "#NEWLIV",
-        "#Lanterns",
-        "#XAUUSD"
+        "#TNALockdown",
+        "#90dayfiance"
       ],
       "regular_topics": [
         "Canada",
@@ -112,87 +112,87 @@
         "Quebec",
         "The US",
         "America",
-        "Tear",
+        "Entry Zone",
         "Lutnick",
-        "Enes"
+        "CUSMA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 07:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 08:36:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#cheapest_listed_AI_stock",
+        "#Mahakali",
+        "#Dial1975",
         "#SamrastaSankalpAbhiyan",
         "#Day5_Upper_Circuit_Stock",
-        "#Mahakali",
-        "9.03 Cr PAT",
         "Parandur",
-        "149.25 Cr",
-        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "9.03 Cr PAT",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Rishabh Pant",
-        "4.36 Cr"
+        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "149.25 Cr Revenue",
+        "Rishabh Pant"
       ],
       "hashtags": [
         "#cheapest_listed_AI_stock",
-        "#SamrastaSankalpAbhiyan",
-        "#Day5_Upper_Circuit_Stock",
         "#Mahakali",
-        "#NHCFoodsBullRun"
+        "#Dial1975",
+        "#SamrastaSankalpAbhiyan",
+        "#Day5_Upper_Circuit_Stock"
       ],
       "regular_topics": [
-        "9.03 Cr PAT",
         "Parandur",
-        "149.25 Cr",
-        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "9.03 Cr PAT",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "149.25 Cr Revenue",
         "Rishabh Pant",
-        "4.36 Cr",
-        "Omega FY26",
         "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Q1 FY27 PAT"
+        "4.36 Cr",
+        "NHC Foods",
+        "Omega",
+        "Ajeet Bharti"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 07:42:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 08:36:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Amen",
         "Happy New Week",
-        "Newcastle",
-        "Bournemouth",
-        "Elche",
-        "RAIN OF ANSWERS",
-        "Ogogo",
-        "GM CT",
         "Fulham",
-        "Balde",
-        "#NSPPD"
-      ],
-      "hashtags": [
-        "#NSPPD",
+        "RAIN OF ANSWERS",
         "#MondayMotivation",
-        "#mcibou",
-        "#NEWLIV",
+        "Today is Monday",
+        "Aunty Funke",
+        "$PHYS",
+        "Another Monday",
+        "Prop Firm Match",
+        "Xabi Alonso",
         "#FULCHE"
       ],
+      "hashtags": [
+        "#MondayMotivation",
+        "#FULCHE",
+        "#Lanterns",
+        "#COYB",
+        "#FreeJuli\u00e1n"
+      ],
       "regular_topics": [
-        "Amen",
         "Happy New Week",
-        "Newcastle",
-        "Bournemouth",
-        "Elche",
-        "RAIN OF ANSWERS",
-        "Ogogo",
-        "GM CT",
         "Fulham",
-        "Balde",
-        "Hull City"
+        "RAIN OF ANSWERS",
+        "Today is Monday",
+        "Aunty Funke",
+        "$PHYS",
+        "Another Monday",
+        "Prop Firm Match",
+        "Xabi Alonso",
+        "Craven Cottage",
+        "The World Champions"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
