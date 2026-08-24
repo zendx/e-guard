@@ -1,89 +1,87 @@
 {
-  "generated_at_utc": "2026-08-24T17:01:09.717754+00:00",
+  "generated_at_utc": "2026-08-24T17:52:52.030044+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 16:18:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 17:09:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Browns",
+        "Jed York",
         "Watson",
         "WNBA",
-        "Jed York",
         "Shedeur",
+        "East Palestine",
+        "Robert Kraft",
         "Enes",
         "Monken",
-        "East Palestine",
-        "Cloud",
-        "Good Monday",
-        "Jimmy Haslam"
+        "Serayah",
+        "Cloud"
       ],
       "hashtags": [
         "#stayselcaday",
-        "#Tesla",
         "#DawgPound",
         "#MondayMotivation",
-        "#APlagueTale"
+        "#coerselcaday",
+        "#cosd"
       ],
       "regular_topics": [
         "Browns",
+        "Jed York",
         "Watson",
         "WNBA",
-        "Jed York",
         "Shedeur",
+        "East Palestine",
+        "Robert Kraft",
         "Enes",
         "Monken",
-        "East Palestine",
-        "Cloud",
-        "Good Monday",
-        "Jimmy Haslam"
+        "Serayah",
+        "Cloud"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 16:44:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 17:36:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
-        "#thechase",
+        "#TheChase",
         "O'Brien",
-        "Tarkowski",
         "Keane",
+        "Gakpo",
         "Branthwaite",
+        "Tarkowski",
+        "Driver",
         "Zelensky",
         "#stayselcaday",
-        "Graeme Dott",
-        "Ukrainians",
-        "Tarky"
+        "Truro"
       ],
       "hashtags": [
-        "#thechase",
+        "#TheChase",
         "#stayselcaday",
-        "#APlagueTale",
         "#MondayMotivation",
-        "#Lanterns",
-        "#gtav\u0131leak"
+        "#Lanterns"
       ],
       "regular_topics": [
         "Ukraine",
         "O'Brien",
-        "Tarkowski",
         "Keane",
+        "Gakpo",
         "Branthwaite",
+        "Tarkowski",
+        "Driver",
         "Zelensky",
-        "Graeme Dott",
-        "Ukrainians",
-        "Tarky",
         "Truro",
-        "Ferdi"
+        "Graeme Dott",
+        "Ukrainians"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 16:36:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 17:28:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -115,85 +113,85 @@
         "America",
         "Enes",
         "CUSMA",
-        "Lutnick"
+        "USMCA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 16:31:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 17:24:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#StopMisuseOfSCSTAct",
         "1 YEAR OF AMAAL BB ERA",
         "#DNHandDDmonsoonFestival2026",
         "ONE YEAR ONE VIRAL QUEEN TANYA",
+        "#UPSSSC",
         "1YR OF FARHANA BHATT SEASON",
-        "#WazirXAI",
-        "#STAYLOST",
-        "#GodNightMonday",
-        "Daman",
+        "#VVAAN",
+        "Answer Key",
+        "#BoycottHYBE_ForFairness",
         "ENGENE DEMAND ANSWERS",
-        "Vantara"
+        "daman"
       ],
       "hashtags": [
         "#StopMisuseOfSCSTAct",
         "#DNHandDDmonsoonFestival2026",
-        "#WazirXAI",
-        "#STAYLOST",
-        "#GodNightMonday"
+        "#UPSSSC",
+        "#VVAAN",
+        "#BoycottHYBE_ForFairness"
       ],
       "regular_topics": [
         "1 YEAR OF AMAAL BB ERA",
         "ONE YEAR ONE VIRAL QUEEN TANYA",
         "1YR OF FARHANA BHATT SEASON",
-        "Daman",
+        "Answer Key",
         "ENGENE DEMAND ANSWERS",
+        "daman",
         "Vantara",
+        "\u0930\u093e\u091c\u0942 \u0926\u093e\u0938",
         "Joymoti",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Dhruv Jurel",
-        "Gurgaon",
-        "\u0930\u093e\u091c\u0942 \u0926\u093e\u0938"
+        "H-1B",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 16:31:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 17:24:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Fulham",
-        "Ritzman Smart Homes",
         "#OmoOlorun",
+        "Fulham",
         "#itelPower80",
-        "Bells",
-        "Chimsom Chuka",
+        "Yolat",
+        "Ritzman Smart Homes",
+        "Gakpo",
+        "Alex Scott",
+        "Amaechi",
         "Ink Chain",
-        "Nico Gonz\u00e1lez",
-        "DJ Cuppy",
-        "Funke Akindele",
-        "#FULCHE"
+        "Bells",
+        "Chimsom Chuka"
       ],
       "hashtags": [
         "#OmoOlorun",
         "#itelPower80",
         "#FULCHE",
-        "#tellonym",
-        "#NecheMaduagwu"
+        "#NecheMaduagwu",
+        "#tellonym"
       ],
       "regular_topics": [
         "Fulham",
+        "Yolat",
         "Ritzman Smart Homes",
+        "Gakpo",
+        "Alex Scott",
+        "Amaechi",
+        "Ink Chain",
         "Bells",
         "Chimsom Chuka",
-        "Ink Chain",
         "Nico Gonz\u00e1lez",
-        "DJ Cuppy",
-        "Funke Akindele",
-        "Gerard",
-        "Ikire",
-        "Ezege"
+        "Funke Akindele"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
