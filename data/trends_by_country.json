@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T05:58:35.742545+00:00",
+  "generated_at_utc": "2026-08-24T06:50:19.643860+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,7 +43,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 05:18:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 06:12:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
         "Frimpong",
@@ -55,14 +55,14 @@
         "Munoz",
         "#DutchGP",
         "Lewis",
-        "Hull"
+        "#NUFC"
       ],
       "hashtags": [
         "#NEWLIV",
         "#DutchGP",
         "#NUFC",
         "#mcibou",
-        "#AVFC"
+        "#hulmun"
       ],
       "regular_topics": [
         "Isak",
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 05:12:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 06:04:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -94,14 +94,14 @@
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "Tear",
         "America",
-        "Enes Kanter"
+        "Enes"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#Lanterns",
-        "#NEWLIV",
         "#WWECalgary",
-        "#TNALockdown"
+        "#NEWLIV",
+        "#XAUUSD"
       ],
       "regular_topics": [
         "Canada",
@@ -113,7 +113,7 @@
         "The US",
         "Tear",
         "America",
-        "Enes Kanter",
+        "Enes",
         "WNBA"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,83 +121,77 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 05:06:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 06:00:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Day5_Upper_Circuit_Stock",
         "#NHCFoodsBullRun",
         "#AI_Sector_Stock",
+        "Omega",
         "#JusticeForBapuji",
+        "Parandur",
+        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "Sant Samaj Ki Awaaz",
         "Nirdosh Ko Riha Karo",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "#GodMorningMonday",
-        "#DrishyamTheConclusion",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Parandur",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940"
+        "200 Cr"
       ],
       "hashtags": [
+        "#Day5_Upper_Circuit_Stock",
         "#NHCFoodsBullRun",
         "#AI_Sector_Stock",
         "#JusticeForBapuji",
-        "#GodMorningMonday",
-        "#DrishyamTheConclusion",
-        "#ArunJaitley",
-        "#\u0939\u0930_\u0939\u0930_\u092e\u0939\u093e\u0926\u0947\u0935_\u091c\u092f_\u0936\u093f\u0935_\u0936\u092e\u094d\u092d\u0942",
-        "#HarHarMahadev",
-        "#SawanSomwar",
-        "#Rajguru",
-        "#Amravati"
+        "#GodMorningMonday"
       ],
       "regular_topics": [
+        "Omega",
+        "Parandur",
+        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "Sant Samaj Ki Awaaz",
         "Nirdosh Ko Riha Karo",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
+        "200 Cr",
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Parandur",
-        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940",
-        "\u0936\u093f\u0935\u0930\u093e\u092e \u0939\u0930\u093f \u0930\u093e\u091c\u0917\u0941\u0930\u0941",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "149.25 Cr",
         "9.03 Cr",
-        "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0935\u093f\u0924\u094d\u0924 \u092e\u0902\u0924\u094d\u0930\u0940",
-        "GIFT Nifty"
+        "\u092e\u0939\u093e\u0928 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 05:04:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 06:00:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Newcastle",
-        "Bournemouth",
-        "Elche",
         "Happy New Week",
+        "Bournemouth",
+        "Newcastle",
+        "Amen",
+        "Elche",
         "Ogogo",
         "Balde",
         "Hull City",
+        "GM CT",
         "Cherki",
-        "Man U",
-        "Vouch",
-        "#NEWLIV"
+        "Man U"
       ],
       "hashtags": [
         "#NEWLIV",
         "#mcibou",
-        "#HULMUN",
-        "#buildwithyield"
+        "#MondayMotivation",
+        "#hulmun"
       ],
       "regular_topics": [
-        "Newcastle",
-        "Bournemouth",
-        "Elche",
         "Happy New Week",
+        "Bournemouth",
+        "Newcastle",
+        "Amen",
+        "Elche",
         "Ogogo",
         "Balde",
         "Hull City",
+        "GM CT",
         "Cherki",
-        "Man U",
-        "Vouch",
-        "Adeyemi"
+        "Man U"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
