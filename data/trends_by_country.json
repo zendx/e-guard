@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T07:46:27.013573+00:00",
+  "generated_at_utc": "2026-08-24T08:32:52.892707+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,38 +43,38 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 07:03:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 07:54:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Isak",
         "Frimpong",
         "#NEWLIV",
+        "Ukraine",
         "Newcastle",
         "Gravenberch",
-        "Wissa",
         "#bbcbreakfast",
-        "Bournemouth",
+        "Wissa",
         "Munoz",
-        "#DutchGP",
-        "Lewis"
+        "Lewis",
+        "Bournemouth"
       ],
       "hashtags": [
         "#NEWLIV",
         "#bbcbreakfast",
-        "#DutchGP",
         "#NUFC",
-        "#mcibou"
+        "#DutchGP",
+        "#MySummer"
       ],
       "regular_topics": [
         "Isak",
         "Frimpong",
+        "Ukraine",
         "Newcastle",
         "Gravenberch",
         "Wissa",
-        "Bournemouth",
         "Munoz",
         "Lewis",
-        "Ukraine",
-        "Hull",
+        "Bournemouth",
+        "Storm Shadow",
         "Kevin Keegan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -82,7 +82,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 06:56:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 07:48:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Carney",
@@ -94,14 +94,14 @@
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "America",
         "Tear",
-        "Enes"
+        "Lutnick"
       ],
       "hashtags": [
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#Lanterns",
         "#WWECalgary",
         "#NEWLIV",
-        "#TNALockdown"
+        "#Lanterns",
+        "#XAUUSD"
       ],
       "regular_topics": [
         "Canada",
@@ -113,85 +113,86 @@
         "The US",
         "America",
         "Tear",
-        "Enes",
-        "Lutnick"
+        "Lutnick",
+        "Enes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 06:52:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 07:44:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#cheapest_listed_AI_stock",
         "#SamrastaSankalpAbhiyan",
         "#Day5_Upper_Circuit_Stock",
+        "#Mahakali",
+        "9.03 Cr PAT",
         "Parandur",
+        "149.25 Cr",
         "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "#NHCFoodsBullRun",
-        "#AI_Sector_Stock",
-        "Omega",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
-        "#JusticeForBapuji",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Rishabh Pant"
-      ],
-      "hashtags": [
-        "#SamrastaSankalpAbhiyan",
-        "#Day5_Upper_Circuit_Stock",
-        "#NHCFoodsBullRun",
-        "#AI_Sector_Stock",
-        "#JusticeForBapuji"
-      ],
-      "regular_topics": [
-        "Parandur",
-        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
-        "Omega",
-        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "Rishabh Pant",
-        "Sant Samaj Ki Awaaz",
+        "4.36 Cr"
+      ],
+      "hashtags": [
+        "#cheapest_listed_AI_stock",
+        "#SamrastaSankalpAbhiyan",
+        "#Day5_Upper_Circuit_Stock",
+        "#Mahakali",
+        "#NHCFoodsBullRun"
+      ],
+      "regular_topics": [
+        "9.03 Cr PAT",
+        "Parandur",
+        "149.25 Cr",
+        "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u092e\u0939\u093e\u0930\u093e\u091c",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "Rishabh Pant",
+        "4.36 Cr",
+        "Omega FY26",
+        "\u0905\u0930\u0941\u0923 \u091c\u0947\u091f\u0932\u0940",
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
-        "Nirdosh Ko Riha Karo",
-        "\u092a\u093e\u0935\u0928 \u091c\u092f\u0902\u0924\u0940",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935"
+        "Q1 FY27 PAT"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 24 2026 06:51:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 07:42:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Happy New Week",
         "Amen",
+        "Happy New Week",
         "Newcastle",
         "Bournemouth",
         "Elche",
-        "GM CT",
+        "RAIN OF ANSWERS",
         "Ogogo",
+        "GM CT",
+        "Fulham",
         "Balde",
-        "Hull City",
-        "Wishing",
-        "Cherki"
+        "#NSPPD"
       ],
       "hashtags": [
+        "#NSPPD",
+        "#MondayMotivation",
         "#mcibou",
         "#NEWLIV",
-        "#MondayMotivation",
-        "#hulmun"
+        "#FULCHE"
       ],
       "regular_topics": [
-        "Happy New Week",
         "Amen",
+        "Happy New Week",
         "Newcastle",
         "Bournemouth",
         "Elche",
-        "GM CT",
+        "RAIN OF ANSWERS",
         "Ogogo",
+        "GM CT",
+        "Fulham",
         "Balde",
-        "Hull City",
-        "Wishing",
-        "Cherki"
+        "Hull City"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
