@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-25T17:50:49.818862+00:00",
+  "generated_at_utc": "2026-08-25T18:19:37.231282+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 17:00:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Jelly Roll",
         "Lake America",
         "Moscow",
-        "ORO 3M",
-        "Jelly Roll",
-        "#1YearOfMansBestFriend",
-        "Gulf of Mexico",
-        "#lun\u00e9selcaday",
         "#skel",
-        "Panthers",
-        "John Ratcliffe",
-        "Big Ten"
+        "Gulf of Mexico",
+        "#1YearOfMansBestFriend",
+        "Starbase Louisiana",
+        "#BlueWaveIn70Days",
+        "#lun\u00e9selcaday",
+        "Oilers",
+        "John Ratcliffe"
       ],
       "hashtags": [
-        "#1YearOfMansBestFriend",
-        "#lun\u00e9selcaday",
         "#skel",
-        "#LUN\u00c9JidoriDay",
-        "#TuesdayVibes"
+        "#1YearOfMansBestFriend",
+        "#BlueWaveIn70Days",
+        "#lun\u00e9selcaday",
+        "#LUN\u00c9JidoriDay"
       ],
       "regular_topics": [
+        "Jelly Roll",
         "Lake America",
         "Moscow",
-        "ORO 3M",
-        "Jelly Roll",
         "Gulf of Mexico",
-        "Panthers",
-        "John Ratcliffe",
-        "Big Ten",
+        "Starbase Louisiana",
         "Oilers",
-        "Rivalries",
-        "Jags"
+        "John Ratcliffe",
+        "ORO 3M",
+        "Vikings",
+        "Big Ten",
+        "Panthers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -120,77 +120,78 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 17:12:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 18:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#38YearsOfSalmanKhanEra",
-        "#HaiwaanTrailer",
         "#UPCabinet",
+        "#38YearsOfSalmanKhanEra",
         "#skel",
-        "#HallaBolOnFakeNews",
-        "Flipkart Minutes",
+        "#HaiwaanTrailer",
         "Kriti Sanon",
+        "#Spirit",
         "INDIA'S BIGGEST SUPERSTAR",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e",
+        "Flipkart Minutes",
         "BELIFT RESPECT ARTIST RIGHTS",
-        "AHEAD Forum"
+        "HAPPY BIRTHDAY ABHISHEK",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e"
       ],
       "hashtags": [
-        "#38YearsOfSalmanKhanEra",
-        "#HaiwaanTrailer",
         "#UPCabinet",
+        "#38YearsOfSalmanKhanEra",
         "#skel",
-        "#HallaBolOnFakeNews"
+        "#HaiwaanTrailer",
+        "#Spirit"
       ],
       "regular_topics": [
-        "Flipkart Minutes",
         "Kriti Sanon",
         "INDIA'S BIGGEST SUPERSTAR",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e",
+        "Flipkart Minutes",
         "BELIFT RESPECT ARTIST RIGHTS",
+        "HAPPY BIRTHDAY ABHISHEK",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e",
         "AHEAD Forum",
-        "Aadrniy Mohan Bhagwat Ji",
-        "JPNIC",
-        "Vasudhaiva Kutumbakam",
         "Kirana Hills",
-        "Anant Ambani ji"
+        "Aadrniy Mohan Bhagwat Ji",
+        "Vasudhaiva Kutumbakam",
+        "Anil Chauhan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 17:08:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 18:01:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#skel",
+        "Liam Delap",
         "Carlos Baleba",
-        "#AbilityByKdel",
+        "#betPawa",
         "Headies",
+        "#AbilityByKdel",
         "Welcome to Manchester United",
         "Network Score",
-        "Fola",
-        "Season 0",
-        "#betPawa",
-        "Legacy",
-        "Bruno Fernandes"
+        "#BBNaijaXAquafina",
+        "Forest",
+        "Season 0"
       ],
       "hashtags": [
         "#skel",
-        "#AbilityByKdel",
         "#betPawa",
-        "#AfroCentricCulturalExpo"
+        "#AbilityByKdel",
+        "#BBNaijaXAquafina",
+        "#nffc"
       ],
       "regular_topics": [
+        "Liam Delap",
         "Carlos Baleba",
         "Headies",
         "Welcome to Manchester United",
         "Network Score",
-        "Fola",
+        "Forest",
         "Season 0",
-        "Legacy",
         "Bruno Fernandes",
-        "Mavo",
-        "Declan Rice",
-        "PFA Player of the Year"
+        "Fola",
+        "PFA Awards",
+        "\u00a345m for Delap"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
