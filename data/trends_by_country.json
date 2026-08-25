@@ -1,56 +1,55 @@
 {
-  "generated_at_utc": "2026-08-25T13:24:08.379482+00:00",
+  "generated_at_utc": "2026-08-25T14:09:57.408366+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 12:36:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 13:28:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lake America",
         "Good Tuesday",
-        "For the Lord",
+        "Taco Tuesday",
         "Lake Trump",
         "Callaway",
-        "#PutThatInYourPipe",
-        "Mebounds",
-        "UCMJ",
+        "Gulf of Mexico",
+        "For the Lord",
+        "Jared Curtis",
+        "HAMES",
         "Target",
-        "Jesse",
-        "Happy Taco"
+        "Jesse"
       ],
       "hashtags": [
         "#PutThatInYourPipe",
-        "#TacoTuesday",
         "#TuesdayVibes",
         "#TuesdayMotivation",
-        "#SpaceX",
-        "#WilliamEst"
+        "#Aaliyah",
+        "#SpaceX"
       ],
       "regular_topics": [
         "Lake America",
         "Good Tuesday",
-        "For the Lord",
+        "Taco Tuesday",
         "Lake Trump",
         "Callaway",
-        "Mebounds",
-        "UCMJ",
+        "Gulf of Mexico",
+        "For the Lord",
+        "Jared Curtis",
+        "HAMES",
         "Target",
-        "Jesse",
-        "Happy Taco",
-        "And His"
+        "Jesse"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 13:00:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 13:51:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ukraine",
         "Sanchez",
         "Palmer",
-        "Fulham",
         "Russia",
+        "fulham",
         "Chelsea",
         "#FULCHE",
         "$TOESCOIN",
@@ -60,17 +59,17 @@
       ],
       "hashtags": [
         "#FULCHE",
-        "#thismorning",
-        "#ThickTrunkTuesday",
+        "#thicktrunktuesday",
         "#WWERaw",
-        "#NUFC"
+        "#NUFC",
+        "#popmaster"
       ],
       "regular_topics": [
         "Ukraine",
         "Sanchez",
         "Palmer",
-        "Fulham",
         "Russia",
+        "fulham",
         "Chelsea",
         "$TOESCOIN",
         "Wirtz",
@@ -83,115 +82,115 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 12:54:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 13:45:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lake Ontario",
-        "Ford",
         "China",
         "Canadians",
         "The US",
-        "Palmer",
-        "Maine",
         "Good Tuesday",
+        "Maine",
+        "Palmer",
+        "As a Canadian",
         "Fulham",
         "Enes",
-        "As a Canadian"
+        "Moscow"
       ],
       "hashtags": [
         "#WWERaw",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#BINI_SIGNALS_WINNIPEG"
+        "#XAUUSD",
+        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
+        "#BINI_SIGNALS_WINNIPEG",
+        "#kroniisekai"
       ],
       "regular_topics": [
         "Lake Ontario",
-        "Ford",
         "China",
         "Canadians",
         "The US",
-        "Palmer",
-        "Maine",
         "Good Tuesday",
+        "Maine",
+        "Palmer",
+        "As a Canadian",
         "Fulham",
         "Enes",
-        "As a Canadian"
+        "Moscow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 12:49:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 13:40:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#HaiwaanTrailer",
         "#DrishyamTheConclusion",
-        "Harikesh Patel",
         "#youthwithyogi",
+        "Harikesh Patel",
         "#VantaraIndonesia27",
+        "#MissionRojgar",
         "Jaideep Ahlawat",
-        "BJP COOKED CONGRESS",
         "Prakash Raj",
-        "Meera",
-        "#10YearsOfUPI",
-        "\u0906\u092f\u0941\u0937 \u0936\u0941\u0915\u094d\u0932\u093e",
-        "#winiQOOZ11"
+        "Saif",
+        "BJP COOKED CONGRESS",
+        "\u0906\u092f\u0941\u0937 \u0936\u0941\u0915\u094d\u0932\u093e"
       ],
       "hashtags": [
+        "#HaiwaanTrailer",
         "#DrishyamTheConclusion",
         "#youthwithyogi",
         "#VantaraIndonesia27",
-        "#10YearsOfUPI",
-        "#winiQOOZ11"
+        "#MissionRojgar"
       ],
       "regular_topics": [
         "Harikesh Patel",
         "Jaideep Ahlawat",
-        "BJP COOKED CONGRESS",
         "Prakash Raj",
-        "Meera",
+        "Saif",
+        "BJP COOKED CONGRESS",
         "\u0906\u092f\u0941\u0937 \u0936\u0941\u0915\u094d\u0932\u093e",
-        "\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0938\u0939\u092f\u094b\u0917",
-        "Mridul",
+        "Meera",
+        "Kriti Sanon",
         "Jamnagar to Indonesia",
-        "Sonal Dinusha",
-        "Kriti Sanon"
+        "Akshay",
+        "\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0938\u0939\u092f\u094b\u0917"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 12:48:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 13:39:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Headies",
         "Fola",
+        "Headies",
         "#AfroCentricCulturalExpo",
-        "#GloNeverSettle4Less",
         "Mavo",
-        "#EidElMaulud",
         "Fido",
+        "#GloNeverSettle4Less",
+        "Declan Rice",
+        "Footballers",
         "With You",
-        "Kidd carder",
-        "Prophet Muhammad",
-        "Declan Rice"
+        "VeryDarkMan",
+        "#EidElMaulud"
       ],
       "hashtags": [
         "#AfroCentricCulturalExpo",
         "#GloNeverSettle4Less",
-        "#EidElMaulud",
-        "#noahkahan",
-        "#WilliamEst"
+        "#EidElMaulud"
       ],
       "regular_topics": [
-        "Headies",
         "Fola",
+        "Headies",
         "Mavo",
         "Fido",
-        "With You",
-        "Kidd carder",
-        "Prophet Muhammad",
         "Declan Rice",
-        "NEXT RATED",
+        "Footballers",
+        "With You",
+        "VeryDarkMan",
+        "Kidd carder",
         "Llona",
-        "ALBUM OF THE YEAR"
+        "NEXT RATED"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
