@@ -1,27 +1,25 @@
 {
-  "generated_at_utc": "2026-08-25T21:14:43.777713+00:00",
+  "generated_at_utc": "2026-08-25T21:48:54.121235+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 20:27:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 21:20:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Jolene",
         "Jelly Roll",
         "I Will Always Love You",
         "Tennessee",
-        "Coat of Many Colors",
+        "Witcher 3",
         "Steel Magnolias",
+        "Coat of Many Colors",
         "Islands in the Stream",
-        "First Hayden",
         "Carl",
-        "#gamescom"
+        "Icon"
       ],
       "hashtags": [
-        "#gamescom",
-        "#BlueWaveIn70Days",
-        "#skel"
+        "#BlueWaveIn70Days"
       ],
       "regular_topics": [
         "Dolly",
@@ -29,10 +27,10 @@
         "Jelly Roll",
         "I Will Always Love You",
         "Tennessee",
-        "Coat of Many Colors",
+        "Witcher 3",
         "Steel Magnolias",
+        "Coat of Many Colors",
         "Islands in the Stream",
-        "First Hayden",
         "Carl",
         "Icon"
       ],
@@ -117,7 +115,7 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 20:40:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 21:36:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
         "#UPCabinet",
@@ -126,10 +124,10 @@
         "#ToxicTheMovie",
         "#skel",
         "#SevEN_Complete_ENHYPEN",
-        "BELIFT RESPECT ARTIST RIGHTS",
         "Happy Onam",
-        "Al Nassr",
-        "INDIA'S BIGGEST SUPERSTAR"
+        "BELIFT RESPECT ARTIST RIGHTS",
+        "Serena",
+        "Al Nassr"
       ],
       "hashtags": [
         "#UPCabinet",
@@ -137,19 +135,24 @@
         "#ToxicTheMovie",
         "#skel",
         "#SevEN_Complete_ENHYPEN",
-        "#Yash"
+        "#ToxicwithTelugubit",
+        "#Spirit",
+        "#Mandaadi",
+        "#AvengersEndgameEncore",
+        "#HaiwaanTrailer",
+        "#TheVvaan"
       ],
       "regular_topics": [
         "Dolly Parton",
         "Kriti Sanon",
-        "BELIFT RESPECT ARTIST RIGHTS",
         "Happy Onam",
-        "Al Nassr",
-        "INDIA'S BIGGEST SUPERSTAR",
-        "Kirana Hills",
+        "BELIFT RESPECT ARTIST RIGHTS",
         "Serena",
-        "Mohan Bhagwat",
+        "Al Nassr",
         "Bruno Fernandes",
+        "INDIA'S BIGGEST SUPERSTAR",
+        "Mohan Bhagwat",
+        "Kirana Hills",
         "HAPPY BIRTHDAY ABHISHEK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -157,39 +160,38 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 20:39:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 21:30:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
         "Al Nassr",
         "Bruno Fernandes",
-        "#skel",
-        "Player of the Year",
         "Declan Rice",
+        "Player of the Year",
+        "#skel",
         "Jolene",
         "Delap",
-        "#IsaacBalamiat42",
-        "Congratulations Bruno",
-        "Sadio"
+        "Aquafina",
+        "Betis",
+        "#IsaacBalamiat42"
       ],
       "hashtags": [
         "#skel",
         "#IsaacBalamiat42",
-        "#BBNaijaXAquafina",
         "#PFAAwards",
-        "#betPawa"
+        "#BBNaija2026"
       ],
       "regular_topics": [
         "Dolly Parton",
         "Al Nassr",
         "Bruno Fernandes",
-        "Player of the Year",
         "Declan Rice",
+        "Player of the Year",
         "Jolene",
         "Delap",
+        "Aquafina",
+        "Betis",
         "Congratulations Bruno",
-        "Sadio",
-        "Bento",
-        "Betis"
+        "Sadio Mane"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
