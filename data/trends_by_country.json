@@ -1,40 +1,42 @@
 {
-  "generated_at_utc": "2026-08-25T10:55:59.913559+00:00",
+  "generated_at_utc": "2026-08-25T11:16:18.406637+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 09:55:01 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 10:51:26 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$TOESCOIN",
         "Canada",
         "WNBA",
         "Enes",
         "Browns",
+        "Good Tuesday",
         "Jed York",
         "Watson",
         "Jeffries",
         "#WWERaw",
         "Kushner",
-        "Good Tuesday"
+        "Canadians"
       ],
       "hashtags": [
         "#WWERaw",
-        "#MondayMotivation",
-        "#mcrminneapolis"
+        "#SpaceX",
+        "#mondaymotivation",
+        "#5rt5as",
+        "#UranusClinicxJoongDunk"
       ],
       "regular_topics": [
-        "$TOESCOIN",
         "Canada",
         "WNBA",
         "Enes",
         "Browns",
+        "Good Tuesday",
         "Jed York",
         "Watson",
         "Jeffries",
         "Kushner",
-        "Good Tuesday",
-        "Canadians"
+        "Canadians",
+        "Carney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -158,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 10:08:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 11:03:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#EidElMaulud",
         "Prophet Muhammad",
         "Enzo",
-        "Taco Tuesday",
+        "Declan Rice",
         "Wembley Stadium",
         "I Told Them",
-        "Congratulations Steph",
-        "Omari Kellyman",
+        "Taco Tuesday",
         "PFA Players",
-        "Quip WRLD",
-        "Player of the Year"
+        "With You",
+        "Player of the Year",
+        "#Blessings"
       ],
       "hashtags": [
         "#EidElMaulud",
-        "#oott",
+        "#Blessings",
         "#WilliamEst",
-        "#alt\u0131\u00fcst\u00fcistanbul",
-        "#RespectKatsinaMandate"
+        "#oott",
+        "#alt\u0131\u00fcst\u00fcistanbul"
       ],
       "regular_topics": [
         "Prophet Muhammad",
         "Enzo",
-        "Taco Tuesday",
+        "Declan Rice",
         "Wembley Stadium",
         "I Told Them",
-        "Congratulations Steph",
-        "Omari Kellyman",
+        "Taco Tuesday",
         "PFA Players",
-        "Quip WRLD",
+        "With You",
         "Player of the Year",
-        "Ad\u00e9la"
+        "Steph",
+        "Omari Kellyman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
