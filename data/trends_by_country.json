@@ -1,113 +1,118 @@
 {
-  "generated_at_utc": "2026-08-25T03:22:47.431608+00:00",
+  "generated_at_utc": "2026-08-25T04:04:56.542299+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 02:48:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:44:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
-        "Jesse",
         "Wheeler",
+        "Jesse",
+        "#WWERaw",
         "Abdul",
-        "Supreme Court",
         "#kroniisekai",
-        "Valkyries",
+        "Supreme Court",
+        "#mcrminneapolis",
         "USPS",
         "Girl Scouts",
         "SCOTUS",
-        "Royce Keys"
+        "Durk"
       ],
       "hashtags": [
         "#WWERaw",
         "#kroniisekai",
-        "#DWTSNextPro",
         "#mcrminneapolis",
+        "#DWTSNextPro",
         "#AllAmerican"
       ],
       "regular_topics": [
-        "Jesse",
         "Wheeler",
+        "Jesse",
         "Abdul",
         "Supreme Court",
-        "Valkyries",
         "USPS",
         "Girl Scouts",
         "SCOTUS",
-        "Royce Keys",
         "Durk",
-        "TONY SEAGULLS"
+        "Valkyries",
+        "UCMJ",
+        "Royce Keys"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 02:24:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:16:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#WWERaw",
-        "Palmer",
         "Sanchez",
+        "Palmer",
+        "Ukraine",
         "Chelsea",
-        "Fulham",
-        "Rey Fenix",
-        "Dragon Lee",
-        "Rogers",
-        "Penders",
-        "Enzo",
-        "Lacroix"
+        "#FULCHE",
+        "Wirtz",
+        "#WWERaw",
+        "Josh King",
+        "Russia",
+        "Isak",
+        "Zelensky"
       ],
       "hashtags": [
-        "#WWERaw"
+        "#FULCHE",
+        "#WWERaw",
+        "#mcrminneapolis",
+        "#NEWLIV",
+        "#mcibou"
       ],
       "regular_topics": [
-        "Palmer",
         "Sanchez",
+        "Palmer",
+        "Ukraine",
         "Chelsea",
-        "Fulham",
-        "Rey Fenix",
-        "Dragon Lee",
-        "Rogers",
-        "Penders",
-        "Enzo",
-        "Lacroix",
-        "Colwill"
+        "Wirtz",
+        "Josh King",
+        "Russia",
+        "Isak",
+        "Zelensky",
+        "Gakpo",
+        "Penders"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 02:16:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:08:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
+        "Carney",
         "China",
         "Canadians",
         "The US",
-        "#WWERaw",
         "America",
         "Palmer",
-        "Fulham",
+        "#WWERaw",
         "Maine",
-        "Chelsea"
+        "Fulham"
       ],
       "hashtags": [
         "#WWERaw",
-        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
+        "#kroniisekai",
+        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#FULCHE"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
+        "Carney",
         "China",
         "Canadians",
         "The US",
         "America",
         "Palmer",
-        "Fulham",
         "Maine",
-        "Chelsea",
+        "Fulham",
         "Enes"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -154,35 +159,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 03:03:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:54:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Fulham",
         "Sanchez",
-        "Chelsea",
         "Palmer",
-        "Rogers",
-        "$BATON",
         "#FULCHE",
-        "Lacroix",
-        "Joao Pedro",
+        "Rogers",
+        "Ogogo",
         "Alonso",
-        "Colwill",
-        "Technocore"
+        "Caicedo",
+        "Happy New Week",
+        "Arbeloa",
+        "Lacroix"
       ],
       "hashtags": [
-        "#FULCHE"
+        "#FULCHE",
+        "#CHEFUL",
+        "#MondayMotivation",
+        "#NEWLIV",
+        "#buyingcontent"
       ],
       "regular_topics": [
+        "Fulham",
         "Sanchez",
-        "Chelsea",
         "Palmer",
         "Rogers",
-        "$BATON",
-        "Lacroix",
-        "Joao Pedro",
+        "Ogogo",
         "Alonso",
-        "Colwill",
-        "Technocore",
-        "Enzo"
+        "Caicedo",
+        "Happy New Week",
+        "Arbeloa",
+        "Lacroix",
+        "Craven Cottage"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
