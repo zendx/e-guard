@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T10:23:08.228164+00:00",
+  "generated_at_utc": "2026-08-25T10:55:59.913559+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,78 +41,78 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 09:30:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 10:21:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "$TOESCOIN",
         "Sanchez",
         "Ukraine",
         "Palmer",
         "Chelsea",
         "Russia",
+        "Sir Billy",
         "#FULCHE",
-        "Wirtz",
+        "Savio",
         "Noah Kahan",
-        "Zelensky",
-        "Josh King"
+        "$TOESCOIN",
+        "Wirtz"
       ],
       "hashtags": [
         "#FULCHE",
-        "#ThickTrunkTuesday",
-        "#Q2Earnings",
+        "#popmaster",
+        "#thicktrunktuesday",
         "#WWERaw",
-        "#Robotics"
+        "#XPENG"
       ],
       "regular_topics": [
-        "$TOESCOIN",
         "Sanchez",
         "Ukraine",
         "Palmer",
         "Chelsea",
         "Russia",
-        "Wirtz",
+        "Sir Billy",
+        "Savio",
         "Noah Kahan",
-        "Zelensky",
-        "Josh King",
-        "Canada"
+        "$TOESCOIN",
+        "Wirtz",
+        "Zelensky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 09:21:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 10:15:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
-        "China",
         "Carney",
         "Canadians",
         "America",
         "The US",
         "Palmer",
         "Maine",
+        "Fulham",
         "Enes",
-        "Fulham"
+        "Line 5"
       ],
       "hashtags": [
         "#WWERaw",
-        "#BINI_SIGNALS_WINNIPEG",
         "#BTS_WORLDTOUR_ARIRANG_TORONTO",
         "#XAUUSD",
+        "#BINI_SIGNALS_WINNIPEG",
         "#kroniisekai"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
-        "China",
         "Carney",
         "Canadians",
         "America",
         "The US",
         "Palmer",
         "Maine",
+        "Fulham",
         "Enes",
-        "Fulham"
+        "Line 5"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -158,39 +158,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 09:16:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 10:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#EidElMaulud",
-        "Eid Mubarak",
         "Prophet Muhammad",
         "Enzo",
         "Taco Tuesday",
-        "#EidUlMawlid",
-        "Omari Kellyman",
+        "Wembley Stadium",
         "I Told Them",
-        "Quip WRLD",
         "Congratulations Steph",
-        "RAIN OF ANSWERS"
+        "Omari Kellyman",
+        "PFA Players",
+        "Quip WRLD",
+        "Player of the Year"
       ],
       "hashtags": [
         "#EidElMaulud",
-        "#EidUlMawlid",
-        "#Adela",
-        "#RespectKatsinaMandate",
-        "#alt\u0131\u00fcst\u00fcistanbul"
+        "#oott",
+        "#WilliamEst",
+        "#alt\u0131\u00fcst\u00fcistanbul",
+        "#RespectKatsinaMandate"
       ],
       "regular_topics": [
-        "Eid Mubarak",
         "Prophet Muhammad",
         "Enzo",
         "Taco Tuesday",
-        "Omari Kellyman",
+        "Wembley Stadium",
         "I Told Them",
-        "Quip WRLD",
         "Congratulations Steph",
-        "RAIN OF ANSWERS",
-        "$CATECOIN",
-        "Happy Taco"
+        "Omari Kellyman",
+        "PFA Players",
+        "Quip WRLD",
+        "Player of the Year",
+        "Ad\u00e9la"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
