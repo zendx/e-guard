@@ -1,62 +1,62 @@
 {
-  "generated_at_utc": "2026-08-25T23:14:03.622937+00:00",
+  "generated_at_utc": "2026-08-25T23:44:09.516273+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 23:04:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Jolene",
         "Jelly Roll",
+        "Imagination Library",
         "I Will Always Love You",
         "Tennessee",
         "Witcher 3",
-        "Steel Magnolias",
-        "Coat of Many Colors",
         "Kennedy Center",
-        "Islands in the Stream",
-        "Carl"
+        "Coat of Many Colors",
+        "Steel Magnolias",
+        "Mickey Gasper"
       ],
       "hashtags": [],
       "regular_topics": [
         "Dolly",
         "Jolene",
         "Jelly Roll",
+        "Imagination Library",
         "I Will Always Love You",
         "Tennessee",
         "Witcher 3",
-        "Steel Magnolias",
-        "Coat of Many Colors",
         "Kennedy Center",
-        "Islands in the Stream",
-        "Carl"
+        "Coat of Many Colors",
+        "Steel Magnolias",
+        "Mickey Gasper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 22:39:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 23:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "McCowan",
         "LASK",
         "Murray",
-        "#bcfc",
         "Ralston",
-        "#nffc",
+        "#bcfc",
         "Tounekti",
-        "Hogh",
+        "#nffc",
         "Nygren",
-        "Tounetki"
+        "Hogh",
+        "Hassan"
       ],
       "hashtags": [
         "#bcfc",
         "#nffc",
         "#lufc",
         "#saintsfc",
-        "#pufc"
+        "#DWCS"
       ],
       "regular_topics": [
         "Dolly",
@@ -65,46 +65,47 @@
         "Murray",
         "Ralston",
         "Tounekti",
-        "Hogh",
         "Nygren",
-        "Tounetki",
+        "Hogh",
+        "Hassan",
         "McGregor",
-        "Hassan"
+        "Jolene"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 22:32:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 23:27:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
+        "Carney",
         "Canadians",
-        "China",
         "Gulf of Mexico",
-        "Jolene",
+        "China",
         "Quebec",
-        "Witcher 3",
+        "Jolene",
+        "Scherzer",
         "The US",
-        "I Will Always Love You",
         "Maine"
       ],
       "hashtags": [
-        "#XAUUSD",
+        "#DWCS",
+        "#BlueJays50",
         "#skel"
       ],
       "regular_topics": [
         "Dolly",
         "Canada",
+        "Carney",
         "Canadians",
-        "China",
         "Gulf of Mexico",
-        "Jolene",
+        "China",
         "Quebec",
-        "Witcher 3",
+        "Jolene",
+        "Scherzer",
         "The US",
-        "I Will Always Love You",
         "Maine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -112,38 +113,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 22:28:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 23:20:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#10YearsOfUPI",
-        "Dolly Parton",
         "#HaiwaanTrailer",
-        "Vantara",
-        "#youthwithyogi",
+        "Dolly Parton",
+        "vantara",
         "#DrishyamTheConclusion",
         "#ToxicTheMovie",
-        "Joymoti",
+        "joymoti",
+        "#bolttmobile",
         "Kriti Sanon",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Flipkart Minutes"
+        "Flipkart Minutes",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940"
       ],
       "hashtags": [
         "#10YearsOfUPI",
         "#HaiwaanTrailer",
-        "#youthwithyogi",
         "#DrishyamTheConclusion",
-        "#ToxicTheMovie"
+        "#ToxicTheMovie",
+        "#bolttmobile"
       ],
       "regular_topics": [
         "Dolly Parton",
-        "Vantara",
-        "Joymoti",
+        "vantara",
+        "joymoti",
         "Kriti Sanon",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "Flipkart Minutes",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
         "Manusmriti",
-        "Marathi",
         "harikesh patel",
         "Happy Onam",
+        "Marathi",
         "Hindu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -151,7 +152,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 22:27:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 23:18:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
         "Bruno Fernandes",
@@ -161,9 +162,9 @@
         "Player of the Year",
         "#skel",
         "Aquafina",
-        "Delap",
-        "Congratulations Bruno",
-        "Coat of Many Colors"
+        "Coat of Many Colors",
+        "$Pistacio",
+        "RIP Queen"
       ],
       "hashtags": [
         "#skel",
@@ -179,10 +180,10 @@
         "Jolene",
         "Player of the Year",
         "Aquafina",
-        "Delap",
-        "Congratulations Bruno",
         "Coat of Many Colors",
-        "Betis"
+        "$Pistacio",
+        "RIP Queen",
+        "Sheba"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
