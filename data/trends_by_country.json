@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T20:51:04.138314+00:00",
+  "generated_at_utc": "2026-08-25T21:14:43.777713+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -41,52 +41,53 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 20:00:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 20:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
+        "#nffc",
+        "#bcfc",
+        "#saintsfc",
         "Jolene",
-        "Longstaff",
-        "Delap",
         "Stephens",
-        "Elvedi",
-        "I Will Always Love You",
+        "Longstaff",
         "Ajala",
-        "Bruno Fernandes",
-        "Islands in the Stream",
-        "#gamescom"
+        "Donovan",
+        "McCowan",
+        "Bruno Fernandes"
       ],
       "hashtags": [
+        "#nffc",
+        "#bcfc",
+        "#saintsfc",
         "#gamescom",
-        "#CarabaoCup",
-        "#CountryMusic",
-        "#thechase"
+        "#watfordfc"
       ],
       "regular_topics": [
         "Dolly",
         "Jolene",
-        "Longstaff",
-        "Delap",
         "Stephens",
-        "Elvedi",
-        "I Will Always Love You",
+        "Longstaff",
         "Ajala",
+        "Donovan",
+        "McCowan",
         "Bruno Fernandes",
-        "Islands in the Stream",
-        "Imagination Library"
+        "Veltman",
+        "Delap",
+        "Nygren"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 19:54:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 20:45:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
         "Canadians",
-        "Jolene",
         "China",
         "Gulf of Mexico",
+        "Jolene",
         "Quebec",
         "I Will Always Love You",
         "Imagination Library",
@@ -94,18 +95,17 @@
         "Maine"
       ],
       "hashtags": [
-        "#RTXPowersPlay",
-        "#gamescom",
         "#XAUUSD",
+        "#RTXPowersPlay",
         "#skel"
       ],
       "regular_topics": [
         "Dolly",
         "Canada",
         "Canadians",
-        "Jolene",
         "China",
         "Gulf of Mexico",
+        "Jolene",
         "Quebec",
         "I Will Always Love You",
         "Imagination Library",
@@ -117,39 +117,40 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 19:48:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 20:40:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
         "#UPCabinet",
         "#38YearsOfSalmanKhanEra",
-        "#skel",
         "Kriti Sanon",
         "#ToxicTheMovie",
-        "#HappyOnam",
+        "#skel",
+        "#SevEN_Complete_ENHYPEN",
         "BELIFT RESPECT ARTIST RIGHTS",
-        "INDIA'S BIGGEST SUPERSTAR",
-        "Kirana Hills",
-        "Universal Oneness Celebration"
+        "Happy Onam",
+        "Al Nassr",
+        "INDIA'S BIGGEST SUPERSTAR"
       ],
       "hashtags": [
         "#UPCabinet",
         "#38YearsOfSalmanKhanEra",
-        "#skel",
         "#ToxicTheMovie",
-        "#HappyOnam"
+        "#skel",
+        "#SevEN_Complete_ENHYPEN",
+        "#Yash"
       ],
       "regular_topics": [
         "Dolly Parton",
         "Kriti Sanon",
         "BELIFT RESPECT ARTIST RIGHTS",
+        "Happy Onam",
+        "Al Nassr",
         "INDIA'S BIGGEST SUPERSTAR",
         "Kirana Hills",
-        "Universal Oneness Celebration",
-        "Flipkart Minutes",
-        "HAPPY BIRTHDAY ABHISHEK",
-        "Rakhi",
-        "Mac mini",
-        "Anil Chauhan"
+        "Serena",
+        "Mohan Bhagwat",
+        "Bruno Fernandes",
+        "HAPPY BIRTHDAY ABHISHEK"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
