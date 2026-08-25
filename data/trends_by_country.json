@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-25T05:30:37.181107+00:00",
+  "generated_at_utc": "2026-08-25T06:22:00.607496+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 04:36:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:28:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Cal Raleigh",
-        "Wheeler",
         "Jesse",
+        "Wheeler",
         "Abdul",
         "#WWERaw",
         "#mcrminneapolis",
-        "#kroniisekai",
-        "Supreme Court",
+        "Jake Cronenworth",
         "Brink",
-        "USPS",
-        "Durk"
+        "Supreme Court",
+        "Nneka",
+        "USPS"
       ],
       "hashtags": [
         "#WWERaw",
         "#mcrminneapolis",
         "#kroniisekai",
-        "#JinxGucci",
-        "#DWTSNextPro"
+        "#LaCasaDeLosFamososM\u00e9xico",
+        "#RossFire"
       ],
       "regular_topics": [
         "Cal Raleigh",
-        "Wheeler",
         "Jesse",
+        "Wheeler",
         "Abdul",
-        "Supreme Court",
+        "Jake Cronenworth",
         "Brink",
+        "Supreme Court",
+        "Nneka",
         "USPS",
         "Durk",
-        "SCOTUS",
-        "Big Dumper",
-        "UCMJ"
+        "Big Dumper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 05:01:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:54:51 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Palmer",
@@ -51,18 +51,18 @@
         "Chelsea",
         "#FULCHE",
         "Wirtz",
-        "Josh King",
+        "#thicktrunktuesday",
         "Russia",
+        "Josh King",
         "Isak",
-        "#WWERaw",
         "Zelensky"
       ],
       "hashtags": [
         "#FULCHE",
-        "#WWERaw",
+        "#thicktrunktuesday",
         "#mcrminneapolis",
-        "#NEWLIV",
-        "#mcibou"
+        "#newliv",
+        "#WWERaw"
       ],
       "regular_topics": [
         "Sanchez",
@@ -70,24 +70,24 @@
         "Ukraine",
         "Chelsea",
         "Wirtz",
-        "Josh King",
         "Russia",
+        "Josh King",
         "Isak",
         "Zelensky",
-        "Gakpo",
-        "Penders"
+        "Penders",
+        "Canada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 04:54:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:48:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
-        "Carney",
         "China",
+        "Carney",
         "Canadians",
         "The US",
         "America",
@@ -101,13 +101,13 @@
         "#WWERaw",
         "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
         "#FULCHE",
-        "#XAUUSD"
+        "#BINI_SIGNALS_WINNIPEG"
       ],
       "regular_topics": [
         "Canada",
         "Trump",
-        "Carney",
         "China",
+        "Carney",
         "Canadians",
         "The US",
         "America",
@@ -121,44 +121,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 04:48:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:40:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#10YearsOfUPI",
+        "#bolttmobile",
+        "Pak Terror Nexus",
         "#NHCFoodsBullish",
         "#35PercentCompensationForFMGE",
-        "#10YearsOfUPI",
         "#GodMorningTuesday",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "#\u092e\u0947\u0930\u0947_\u0906\u0926\u0930\u094d\u0936_\u0939\u0948\u0902_\u092c\u093e\u092a\u0942",
         "\u0930\u093e\u092e \u0930\u0939\u0940\u092e",
-        "Answer Key",
         "\u0921\u093f\u091c\u093f\u091f\u0932 \u092d\u0941\u0917\u0924\u093e\u0928",
-        "St. George Hospital",
-        "GIFT Nifty"
+        "\u0921\u093f\u091c\u093f\u091f\u0932 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Ram Rahim"
       ],
       "hashtags": [
+        "#10YearsOfUPI",
+        "#bolttmobile",
         "#NHCFoodsBullish",
         "#35PercentCompensationForFMGE",
-        "#10YearsOfUPI",
-        "#GodMorningTuesday",
-        "#\u092e\u0947\u0930\u0947_\u0906\u0926\u0930\u094d\u0936_\u0939\u0948\u0902_\u092c\u093e\u092a\u0942",
-        "#UPSSSC",
-        "#RamRahim",
-        "#Vijayakanth",
-        "#H1BVisa",
-        "#\u091c\u092f_\u0936\u094d\u0930\u0940_\u0930\u093e\u092e",
-        "#Hindcopper"
+        "#GodMorningTuesday"
       ],
       "regular_topics": [
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Pak Terror Nexus",
         "\u0930\u093e\u092e \u0930\u0939\u0940\u092e",
-        "Answer Key",
         "\u0921\u093f\u091c\u093f\u091f\u0932 \u092d\u0941\u0917\u0924\u093e\u0928",
-        "St. George Hospital",
-        "GIFT Nifty",
-        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
         "\u0921\u093f\u091c\u093f\u091f\u0932 \u0915\u094d\u0930\u093e\u0902\u0924\u093f",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "Ram Rahim",
+        "St. George Hospital",
         "\u0936\u094d\u0930\u0940 \u0938\u0902\u091c\u092f \u0938\u0947\u0920",
-        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0930\u0915\u094d\u0937\u093e \u0930\u093e\u091c\u094d\u092f \u092e\u0902\u0924\u094d\u0930\u0940",
+        "\u0921\u093f\u091c\u093f\u091f\u0932 \u092d\u093e\u0930\u0924",
+        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
         "\u092e\u0902\u0921\u0932 \u0906\u092f\u094b\u0917"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -166,7 +160,7 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 04:48:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:40:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fulham",
         "Sanchez",
@@ -175,17 +169,16 @@
         "Rogers",
         "Alonso",
         "Ogogo",
+        "Taco Tuesday",
         "Caicedo",
-        "Arbeloa",
         "Happy New Week",
-        "Lacroix"
+        "Arbeloa"
       ],
       "hashtags": [
         "#FULCHE",
         "#CHEFUL",
         "#MondayMotivation",
-        "#NEWLIV",
-        "#buyingcontent"
+        "#newliv"
       ],
       "regular_topics": [
         "Fulham",
@@ -194,11 +187,11 @@
         "Rogers",
         "Alonso",
         "Ogogo",
+        "Taco Tuesday",
         "Caicedo",
-        "Arbeloa",
         "Happy New Week",
-        "Lacroix",
-        "Craven Cottage"
+        "Arbeloa",
+        "Lacroix"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
