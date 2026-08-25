@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-25T08:03:42.782117+00:00",
+  "generated_at_utc": "2026-08-25T09:04:12.850020+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 07:12:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 08:08:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$TOESCOIN",
         "Jesse",
+        "Mexicali",
         "Cal Raleigh",
         "Merrill",
         "#LaCasaDeLosFamososM\u00e9xico",
-        "Mexicali",
+        "Yanet",
         "Wheeler",
         "Abdul",
-        "Yanet",
-        "#mcrminneapolis",
-        "Jake Cronenworth",
-        "Estrada"
+        "Flor",
+        "UCMJ"
       ],
       "hashtags": [
         "#LaCasaDeLosFamososM\u00e9xico",
@@ -25,45 +25,46 @@
         "#kroniisekai"
       ],
       "regular_topics": [
+        "$TOESCOIN",
         "Jesse",
+        "Mexicali",
         "Cal Raleigh",
         "Merrill",
-        "Mexicali",
+        "Yanet",
         "Wheeler",
         "Abdul",
-        "Yanet",
-        "Jake Cronenworth",
-        "Estrada",
-        "Brink",
-        "Flor"
+        "Flor",
+        "UCMJ",
+        "Estrada"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 07:39:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 08:33:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "$TOESCOIN",
         "Sanchez",
         "Palmer",
         "Ukraine",
         "Chelsea",
         "#FULCHE",
-        "#thicktrunktuesday",
         "Russia",
+        "#ThickTrunkTuesday",
         "Wirtz",
         "Josh King",
-        "Zelensky",
-        "Isak"
+        "Zelensky"
       ],
       "hashtags": [
         "#FULCHE",
-        "#thicktrunktuesday",
-        "#TongueOutTuesday",
+        "#ThickTrunkTuesday",
         "#bbcbreakfast",
-        "#mcibou"
+        "#Q2Earnings",
+        "#WWERaw"
       ],
       "regular_topics": [
+        "$TOESCOIN",
         "Sanchez",
         "Palmer",
         "Ukraine",
@@ -72,24 +73,23 @@
         "Wirtz",
         "Josh King",
         "Zelensky",
-        "Isak",
-        "Penders",
-        "Canada"
+        "Canada",
+        "Penders"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 07:30:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 08:28:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "China",
         "Carney",
         "Canadians",
-        "The US",
         "America",
+        "The US",
         "Palmer",
         "Maine",
         "Enes",
@@ -106,8 +106,8 @@
         "China",
         "Carney",
         "Canadians",
-        "The US",
         "America",
+        "The US",
         "Palmer",
         "Maine",
         "Enes",
@@ -118,78 +118,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 07:27:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 08:19:25 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#\u0938\u0936\u0915\u094d\u0924_\u0928\u093e\u0930\u0940_\u0938\u092e\u0943\u0926\u094d\u0927_\u092c\u093f\u0939\u093e\u0930",
         "#bolttmobile",
         "#LeakProofVyavsthaOfUP",
         "Youth With Yogi",
         "#10YearsOfUPI",
         "#winiQOOZ11",
-        "#MissionRojgar",
-        "Pak Terror Nexus",
         "A. Faster Smarter",
+        "B. 7050mAh",
         "B. 3",
-        "\u0930\u093e\u092e \u0930\u0939\u0940\u092e",
-        "B. 7050mAh"
+        "\u0938\u0940\u090f\u092e \u0906\u0935\u093e\u0938",
+        "\u0917\u093e\u0902\u0927\u0940 \u092e\u0948\u0926\u093e\u0928"
       ],
       "hashtags": [
+        "#\u0938\u0936\u0915\u094d\u0924_\u0928\u093e\u0930\u0940_\u0938\u092e\u0943\u0926\u094d\u0927_\u092c\u093f\u0939\u093e\u0930",
         "#bolttmobile",
         "#LeakProofVyavsthaOfUP",
         "#10YearsOfUPI",
-        "#winiQOOZ11",
-        "#MissionRojgar"
+        "#winiQOOZ11"
       ],
       "regular_topics": [
         "Youth With Yogi",
-        "Pak Terror Nexus",
         "A. Faster Smarter",
-        "B. 3",
-        "\u0930\u093e\u092e \u0930\u0939\u0940\u092e",
         "B. 7050mAh",
-        "\u0921\u093f\u091c\u093f\u091f\u0932 \u092d\u0941\u0917\u0924\u093e\u0928",
-        "\u0915\u0943\u0937\u093f \u0935\u093f\u092d\u093e\u0917",
+        "B. 3",
+        "\u0938\u0940\u090f\u092e \u0906\u0935\u093e\u0938",
         "\u0917\u093e\u0902\u0927\u0940 \u092e\u0948\u0926\u093e\u0928",
-        "Prasidh Krishna",
-        "Flipkart Minutes"
+        "\u0930\u093e\u092e \u0930\u0939\u0940\u092e",
+        "Pak Terror Nexus",
+        "\u0921\u093f\u091c\u093f\u091f\u0932 \u092d\u0941\u0917\u0924\u093e\u0928",
+        "70\u0935\u0940\u0902 BPSC",
+        "Kay Kay Menon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 07:25:00 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 08:19:01 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Fulham",
-        "Sanchez",
-        "Palmer",
-        "#FULCHE",
-        "Rogers",
-        "Amen",
         "#EidElMaulud",
         "Taco Tuesday",
-        "Alonso",
-        "Ogogo",
-        "Caicedo"
+        "Eid Mubarak",
+        "Prophet Muhammad",
+        "Quip WRLD",
+        "RAIN OF ANSWERS",
+        "#EidUlMawlid",
+        "$CATECOIN",
+        "Happy Taco",
+        "Blessed Tuesday",
+        "$BKN"
       ],
       "hashtags": [
-        "#FULCHE",
         "#EidElMaulud",
-        "#MondayMotivation",
-        "#KimSooHyunAtMahakaryaRCTI37",
-        "#\u0e04\u0e34\u0e21\u0e0b\u0e39\u0e2e\u0e22\u0e2d\u0e19"
+        "#EidUlMawlid",
+        "#alt\u0131\u00fcst\u00fcistanbul"
       ],
       "regular_topics": [
-        "Fulham",
-        "Sanchez",
-        "Palmer",
-        "Rogers",
-        "Amen",
         "Taco Tuesday",
-        "Alonso",
-        "Ogogo",
-        "Caicedo",
-        "GM CT",
-        "Arbeloa"
+        "Eid Mubarak",
+        "Prophet Muhammad",
+        "Quip WRLD",
+        "RAIN OF ANSWERS",
+        "$CATECOIN",
+        "Happy Taco",
+        "Blessed Tuesday",
+        "$BKN",
+        "I Told Them",
+        "Enzo Fern\u00e1ndez"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
