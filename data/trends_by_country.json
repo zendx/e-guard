@@ -1,66 +1,66 @@
 {
-  "generated_at_utc": "2026-08-24T23:41:51.257469+00:00",
+  "generated_at_utc": "2026-08-25T00:29:41.082946+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 24 2026 23:16:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 00:08:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Dragon Lee",
-        "Boutte",
-        "Lola Vice",
+        "Big Cass",
         "The Supreme Court",
-        "Durk",
-        "Chelsea",
-        "Girl Scouts",
-        "Jed York",
         "SCOTUS",
-        "USPS"
+        "USPS",
+        "Durk",
+        "Lola Vice",
+        "Girl Scouts",
+        "Boutte",
+        "Jed York"
       ],
       "hashtags": [
         "#WWERaw",
         "#RawOnNetflix",
         "#TheFive",
-        "#FULCHE"
+        "#AllAmerican",
+        "#Lacroix"
       ],
       "regular_topics": [
         "Dragon Lee",
-        "Boutte",
-        "Lola Vice",
+        "Big Cass",
         "The Supreme Court",
-        "Durk",
-        "Chelsea",
-        "Girl Scouts",
-        "Jed York",
         "SCOTUS",
         "USPS",
-        "Sanchez"
+        "Durk",
+        "Lola Vice",
+        "Girl Scouts",
+        "Boutte",
+        "Jed York",
+        "Introducing"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 24 2026 22:52:13 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 23:44:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Palmer",
         "Chelsea",
-        "#FULCHE",
         "#WWERaw",
+        "#FULCHE",
         "Penders",
         "Enzo",
-        "Lacroix",
-        "Josh King",
-        "Alonso",
-        "Joao Pedro"
+        "Dragon Lee",
+        "Rey Fenix",
+        "Big Cass",
+        "Colwill"
       ],
       "hashtags": [
-        "#FULCHE",
         "#WWERaw",
-        "#UniversityChallenge",
-        "#onlyconnect"
+        "#FULCHE",
+        "#universitychallenge"
       ],
       "regular_topics": [
         "Sanchez",
@@ -68,67 +68,68 @@
         "Chelsea",
         "Penders",
         "Enzo",
+        "Dragon Lee",
+        "Rey Fenix",
+        "Big Cass",
+        "Colwill",
         "Lacroix",
-        "Josh King",
-        "Alonso",
-        "Joao Pedro",
-        "Arbeloa",
-        "Leao"
+        "Josh King"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 24 2026 22:44:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 23:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ford",
+        "#WWERaw",
+        "Dragon Lee",
         "Palmer",
         "Chelsea",
         "Sanchez",
         "Fulham",
-        "Marissal",
         "Vance",
-        "Lacroix",
+        "Marissal",
         "Colwill",
-        "Maine",
         "Taschereau"
       ],
       "hashtags": [
+        "#WWERaw",
         "#FULCHE",
         "#TradeWar"
       ],
       "regular_topics": [
         "Ford",
+        "Dragon Lee",
         "Palmer",
         "Chelsea",
         "Sanchez",
         "Fulham",
-        "Marissal",
         "Vance",
-        "Lacroix",
+        "Marissal",
         "Colwill",
-        "Maine",
-        "Taschereau"
+        "Taschereau",
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 24 2026 22:39:53 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 24 2026 23:32:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Mahakali",
         "#StopMisuseOfSCSTAct",
         "joymoti",
         "vantara",
-        "Sanchez",
         "#ShukracharyaWarCry",
         "#WazirXAI",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Palmer",
-        "Chelsea",
-        "#DNHandDDmonsoonFestival2026"
+        "#DNHandDDmonsoonFestival2026",
+        "Sanchez",
+        "Fulham",
+        "Palmer"
       ],
       "hashtags": [
         "#Mahakali",
@@ -140,10 +141,10 @@
       "regular_topics": [
         "joymoti",
         "vantara",
-        "Sanchez",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "Sanchez",
+        "Fulham",
         "Palmer",
-        "Chelsea",
         "Parandur",
         "Manusmriti",
         "Dhruv Jurel",
