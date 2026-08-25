@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-25T19:05:01.932196+00:00",
+  "generated_at_utc": "2026-08-25T19:50:49.513016+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 18:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 19:36:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Jolene",
-        "Jelly Roll",
         "I Will Always Love You",
+        "Jelly Roll",
+        "Tennessee",
         "First Hayden",
-        "Lake America",
-        "East Tennessee",
-        "Lake Ontario",
+        "Coat of Many Colors",
+        "Steel Magnolias",
+        "Carl",
         "Icon",
-        "Queen of Country",
-        "Coat of Many Colors"
+        "Miley Cyrus"
       ],
       "hashtags": [
         "#gamescom",
@@ -28,93 +28,93 @@
       "regular_topics": [
         "Dolly",
         "Jolene",
-        "Jelly Roll",
         "I Will Always Love You",
+        "Jelly Roll",
+        "Tennessee",
         "First Hayden",
-        "Lake America",
-        "East Tennessee",
-        "Lake Ontario",
+        "Coat of Many Colors",
+        "Steel Magnolias",
+        "Carl",
         "Icon",
-        "Queen of Country",
-        "Coat of Many Colors"
+        "Miley Cyrus"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 18:15:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 19:06:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dolly Parton",
-        "Delap",
-        "#thechase",
-        "Carlos Baleba",
-        "Maddison",
+        "Dolly",
         "Jolene",
+        "Delap",
+        "Imagination Library",
+        "Islands in the Stream",
+        "I Will Always Love You",
+        "Queen of Country",
+        "Glastonbury",
         "#gamescom",
-        "Rest in Peace",
-        "Anglophobia",
-        "#1YearOfMansBestFriend",
-        "#imabaleba"
+        "Bonnie Tyler",
+        "LASK"
       ],
       "hashtags": [
-        "#thechase",
         "#gamescom",
-        "#1YearOfMansBestFriend",
+        "#thechase",
         "#imabaleba",
-        "#USOpen"
+        "#1YearOfMansBestFriend",
+        "#CarabaoCup"
       ],
       "regular_topics": [
-        "Dolly Parton",
-        "Delap",
-        "Carlos Baleba",
-        "Maddison",
+        "Dolly",
         "Jolene",
-        "Rest in Peace",
-        "Anglophobia",
-        "Nottingham Forest",
-        "Moscow",
-        "Lake Ontario",
-        "Garvaghy Road"
+        "Delap",
+        "Imagination Library",
+        "Islands in the Stream",
+        "I Will Always Love You",
+        "Queen of Country",
+        "Glastonbury",
+        "Bonnie Tyler",
+        "LASK",
+        "Anglophobia"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 18:08:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 19:01:08 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Canada",
         "Dolly",
+        "Canada",
         "Canadians",
         "China",
+        "Jolene",
+        "Gulf of Mexico",
+        "Quebec",
+        "I Will Always Love You",
+        "Imagination Library",
         "The US",
-        "Delap",
-        "Maine",
-        "As a Canadian",
-        "Parliament",
-        "Moscow",
-        "#skel"
+        "Maine"
       ],
       "hashtags": [
+        "#RTXPowersPlay",
         "#skel",
         "#1YearOfMansBestFriend",
-        "#XAUUSD",
-        "#WWERaw",
-        "#gamescom"
+        "#gamescom",
+        "#XAUUSD"
       ],
       "regular_topics": [
-        "Canada",
         "Dolly",
+        "Canada",
         "Canadians",
         "China",
+        "Jolene",
+        "Gulf of Mexico",
+        "Quebec",
+        "I Will Always Love You",
+        "Imagination Library",
         "The US",
-        "Delap",
-        "Maine",
-        "As a Canadian",
-        "Parliament",
-        "Moscow",
-        "Palmer"
+        "Maine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
@@ -160,39 +160,39 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 18:01:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 18:54:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Dolly Parton",
         "#skel",
-        "Liam Delap",
-        "Carlos Baleba",
-        "#betPawa",
-        "Headies",
-        "#AbilityByKdel",
-        "Welcome to Manchester United",
-        "Network Score",
+        "Delap",
         "#BBNaijaXAquafina",
+        "#IsaacBalamiat42",
+        "Jolene",
+        "Carlos Baleba",
+        "Al Nassr",
+        "Nico O\u2019Reilly",
         "Forest",
-        "Season 0"
+        "Headies"
       ],
       "hashtags": [
         "#skel",
-        "#betPawa",
-        "#AbilityByKdel",
         "#BBNaijaXAquafina",
-        "#nffc"
+        "#IsaacBalamiat42",
+        "#betPawa",
+        "#AbilityByKdel"
       ],
       "regular_topics": [
-        "Liam Delap",
+        "Dolly Parton",
+        "Delap",
+        "Jolene",
         "Carlos Baleba",
-        "Headies",
-        "Welcome to Manchester United",
-        "Network Score",
+        "Al Nassr",
+        "Nico O\u2019Reilly",
         "Forest",
-        "Season 0",
-        "Bruno Fernandes",
-        "Fola",
-        "PFA Awards",
-        "\u00a345m for Delap"
+        "Headies",
+        "Bento",
+        "PFA Young Player of the Year",
+        "Olivia Smith"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
