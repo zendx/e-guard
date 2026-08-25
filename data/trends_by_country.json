@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T21:48:54.121235+00:00",
+  "generated_at_utc": "2026-08-25T22:12:08.532525+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -39,62 +39,61 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 20:52:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 21:45:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
+        "McCowan",
+        "LASK",
         "#nffc",
         "#bcfc",
+        "Murray",
+        "Tounekti",
+        "Ralston",
+        "#lufc",
         "#saintsfc",
-        "Jolene",
-        "Stephens",
-        "Longstaff",
-        "Ajala",
-        "Donovan",
-        "McCowan",
-        "Bruno Fernandes"
+        "Hogh"
       ],
       "hashtags": [
         "#nffc",
         "#bcfc",
+        "#lufc",
         "#saintsfc",
-        "#gamescom",
-        "#watfordfc"
+        "#celebrityhunted"
       ],
       "regular_topics": [
         "Dolly",
-        "Jolene",
-        "Stephens",
-        "Longstaff",
-        "Ajala",
-        "Donovan",
         "McCowan",
-        "Bruno Fernandes",
-        "Veltman",
-        "Delap",
-        "Nygren"
+        "LASK",
+        "Murray",
+        "Tounekti",
+        "Ralston",
+        "Hogh",
+        "Jolene",
+        "Donovan",
+        "Davies",
+        "Stephens"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 20:45:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 21:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
         "Canadians",
         "China",
         "Gulf of Mexico",
-        "Jolene",
         "Quebec",
-        "I Will Always Love You",
-        "Imagination Library",
+        "Jolene",
+        "Witcher 3",
         "The US",
+        "I Will Always Love You",
         "Maine"
       ],
       "hashtags": [
         "#XAUUSD",
-        "#RTXPowersPlay",
         "#skel"
       ],
       "regular_topics": [
@@ -103,11 +102,11 @@
         "Canadians",
         "China",
         "Gulf of Mexico",
-        "Jolene",
         "Quebec",
-        "I Will Always Love You",
-        "Imagination Library",
+        "Jolene",
+        "Witcher 3",
         "The US",
+        "I Will Always Love You",
         "Maine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
