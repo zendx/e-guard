@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T04:59:46.935023+00:00",
+  "generated_at_utc": "2026-08-25T05:30:37.181107+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
@@ -43,7 +43,7 @@
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 04:08:05 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 05:01:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
         "Palmer",
@@ -54,13 +54,13 @@
         "Josh King",
         "Russia",
         "Isak",
-        "#mcrminneapolis",
-        "#WWERaw"
+        "#WWERaw",
+        "Zelensky"
       ],
       "hashtags": [
         "#FULCHE",
-        "#mcrminneapolis",
         "#WWERaw",
+        "#mcrminneapolis",
         "#NEWLIV",
         "#mcibou"
       ],
@@ -74,15 +74,15 @@
         "Russia",
         "Isak",
         "Zelensky",
-        "Penders",
-        "Gakpo"
+        "Gakpo",
+        "Penders"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 04:00:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 04:54:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
@@ -99,8 +99,9 @@
       "hashtags": [
         "#kroniisekai",
         "#WWERaw",
-        "#BTS_WORLDTOUR_ARIRANG_TORONTO",
-        "#FULCHE"
+        "#BTS_WORLDTOUR_AR\u0130RANG_TORONTO",
+        "#FULCHE",
+        "#XAUUSD"
       ],
       "regular_topics": [
         "Canada",
@@ -165,18 +166,18 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 03:54:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 04:48:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Fulham",
         "Sanchez",
         "Palmer",
         "#FULCHE",
         "Rogers",
-        "Ogogo",
         "Alonso",
+        "Ogogo",
         "Caicedo",
-        "Happy New Week",
         "Arbeloa",
+        "Happy New Week",
         "Lacroix"
       ],
       "hashtags": [
@@ -191,11 +192,11 @@
         "Sanchez",
         "Palmer",
         "Rogers",
-        "Ogogo",
         "Alonso",
+        "Ogogo",
         "Caicedo",
-        "Happy New Week",
         "Arbeloa",
+        "Happy New Week",
         "Lacroix",
         "Craven Cottage"
       ],
