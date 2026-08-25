@@ -1,106 +1,106 @@
 {
-  "generated_at_utc": "2026-08-25T17:01:22.556723+00:00",
+  "generated_at_utc": "2026-08-25T17:50:49.818862+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 16:04:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:00:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "ORO 3M",
         "Lake America",
         "Moscow",
-        "Gulf of Mexico",
+        "ORO 3M",
+        "Jelly Roll",
         "#1YearOfMansBestFriend",
-        "Big Ten",
+        "Gulf of Mexico",
         "#lun\u00e9selcaday",
+        "#skel",
         "Panthers",
-        "#LUN\u00c9JidoriDay",
         "John Ratcliffe",
-        "Rivalries"
+        "Big Ten"
       ],
       "hashtags": [
         "#1YearOfMansBestFriend",
         "#lun\u00e9selcaday",
+        "#skel",
         "#LUN\u00c9JidoriDay",
-        "#TuesdayVibes",
-        "#GoldenProducerBangChan"
+        "#TuesdayVibes"
       ],
       "regular_topics": [
-        "ORO 3M",
         "Lake America",
         "Moscow",
+        "ORO 3M",
+        "Jelly Roll",
         "Gulf of Mexico",
-        "Big Ten",
         "Panthers",
         "John Ratcliffe",
+        "Big Ten",
+        "Oilers",
         "Rivalries",
-        "Taco Tuesday",
-        "Jags",
-        "Jared Curtis"
+        "Jags"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 16:31:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:24:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Ukraine",
         "ORO 3M",
-        "Sanchez",
-        "Palmer",
-        "Russia",
-        "Fulham",
-        "Chelsea",
-        "Putin",
+        "#thechase",
         "Carlos Baleba",
-        "#FULCHE",
-        "#thechase"
+        "Maddison",
+        "Liam Delap",
+        "#1YearOfMansBestFriend",
+        "#imabaleba",
+        "Moscow",
+        "Lake Ontario",
+        "Gamestation",
+        "Garvaghy Road"
       ],
       "hashtags": [
-        "#FULCHE",
         "#thechase",
         "#1YearOfMansBestFriend",
-        "#lun\u00e9selcaday",
-        "#ThickTrunkTuesday"
+        "#imabaleba",
+        "#USOpen"
       ],
       "regular_topics": [
-        "Ukraine",
         "ORO 3M",
-        "Sanchez",
-        "Palmer",
-        "Russia",
-        "Fulham",
-        "Chelsea",
-        "Putin",
         "Carlos Baleba",
-        "Wirtz",
-        "Canada"
+        "Maddison",
+        "Liam Delap",
+        "Moscow",
+        "Lake Ontario",
+        "Gamestation",
+        "Garvaghy Road",
+        "Mistake",
+        "Kudus",
+        "Camara"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 16:24:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:16:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Canadians",
         "China",
         "The US",
+        "#skel",
         "Moscow",
         "Maine",
         "As a Canadian",
         "Parliament",
-        "New York Times",
         "Palmer",
-        "Fabian"
+        "Enes"
       ],
       "hashtags": [
+        "#skel",
         "#WWERaw",
         "#XAUUSD",
-        "#BINI_SIGNALS_WINNIPEG",
-        "#TradeWar"
+        "#1YearOfMansBestFriend",
+        "#BINI_SIGNALS_WINNIPEG"
       ],
       "regular_topics": [
         "Canada",
@@ -111,87 +111,86 @@
         "Maine",
         "As a Canadian",
         "Parliament",
-        "New York Times",
         "Palmer",
-        "Fabian"
+        "Enes",
+        "Notley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 16:18:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:12:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#38YearsOfSalmanKhanEra",
-        "#HallaBolOnFakeNews",
-        "#Mandaadi",
         "#HaiwaanTrailer",
+        "#UPCabinet",
+        "#skel",
+        "#HallaBolOnFakeNews",
         "Flipkart Minutes",
         "Kriti Sanon",
-        "#DrishyamTheConclusion",
-        "JPNIC",
+        "INDIA'S BIGGEST SUPERSTAR",
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e",
         "BELIFT RESPECT ARTIST RIGHTS",
-        "Anant Ambani ji",
-        "\u0938\u0902\u0938\u0926 \u092d\u0935\u0928"
+        "AHEAD Forum"
       ],
       "hashtags": [
         "#38YearsOfSalmanKhanEra",
-        "#HallaBolOnFakeNews",
-        "#Mandaadi",
         "#HaiwaanTrailer",
-        "#DrishyamTheConclusion"
+        "#UPCabinet",
+        "#skel",
+        "#HallaBolOnFakeNews"
       ],
       "regular_topics": [
         "Flipkart Minutes",
         "Kriti Sanon",
-        "JPNIC",
-        "BELIFT RESPECT ARTIST RIGHTS",
-        "Anant Ambani ji",
-        "\u0938\u0902\u0938\u0926 \u092d\u0935\u0928",
         "INDIA'S BIGGEST SUPERSTAR",
-        "Vantara and Anant Ambani",
-        "Teaser",
-        "Harikesh Patel",
-        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e"
+        "\u0926\u093f\u0932\u094d\u0932\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092f\u094b\u091c\u0928\u093e",
+        "BELIFT RESPECT ARTIST RIGHTS",
+        "AHEAD Forum",
+        "Aadrniy Mohan Bhagwat Ji",
+        "JPNIC",
+        "Vasudhaiva Kutumbakam",
+        "Kirana Hills",
+        "Anant Ambani ji"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 16:16:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 17:08:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#skel",
+        "Carlos Baleba",
+        "#AbilityByKdel",
         "Headies",
-        "#iamabaleba",
-        "Fola",
-        "Network Score",
         "Welcome to Manchester United",
+        "Network Score",
+        "Fola",
         "Season 0",
-        "#areyouabaleba",
-        "Bruno Fernandes",
+        "#betPawa",
         "Legacy",
-        "Declan Rice"
+        "Bruno Fernandes"
       ],
       "hashtags": [
         "#skel",
-        "#iamabaleba",
-        "#areyouabaleba",
         "#AbilityByKdel",
+        "#betPawa",
         "#AfroCentricCulturalExpo"
       ],
       "regular_topics": [
+        "Carlos Baleba",
         "Headies",
-        "Fola",
-        "Network Score",
         "Welcome to Manchester United",
+        "Network Score",
+        "Fola",
         "Season 0",
-        "Bruno Fernandes",
         "Legacy",
-        "Declan Rice",
+        "Bruno Fernandes",
         "Mavo",
-        "PFA Player of the Year",
-        "Fido"
+        "Declan Rice",
+        "PFA Player of the Year"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
