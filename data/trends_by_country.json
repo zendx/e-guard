@@ -1,42 +1,40 @@
 {
-  "generated_at_utc": "2026-08-25T20:13:42.532617+00:00",
+  "generated_at_utc": "2026-08-25T20:51:04.138314+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 19:36:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 20:27:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Jolene",
-        "I Will Always Love You",
         "Jelly Roll",
+        "I Will Always Love You",
         "Tennessee",
-        "First Hayden",
         "Coat of Many Colors",
         "Steel Magnolias",
+        "Islands in the Stream",
+        "First Hayden",
         "Carl",
-        "Icon",
-        "Miley Cyrus"
+        "#gamescom"
       ],
       "hashtags": [
         "#gamescom",
         "#BlueWaveIn70Days",
-        "#skel",
-        "#1YearOfMansBestFriend",
-        "#lun\u00e9selcaday"
+        "#skel"
       ],
       "regular_topics": [
         "Dolly",
         "Jolene",
-        "I Will Always Love You",
         "Jelly Roll",
+        "I Will Always Love You",
         "Tennessee",
-        "First Hayden",
         "Coat of Many Colors",
         "Steel Magnolias",
+        "Islands in the Stream",
+        "First Hayden",
         "Carl",
-        "Icon",
-        "Miley Cyrus"
+        "Icon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -158,19 +156,19 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 19:48:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 20:39:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
-        "#skel",
-        "Bruno Fernandes",
         "Al Nassr",
-        "Delap",
-        "Jolene",
-        "#IsaacBalamiat42",
+        "Bruno Fernandes",
+        "#skel",
         "Player of the Year",
         "Declan Rice",
+        "Jolene",
+        "Delap",
+        "#IsaacBalamiat42",
         "Congratulations Bruno",
-        "Bento"
+        "Sadio"
       ],
       "hashtags": [
         "#skel",
@@ -181,16 +179,16 @@
       ],
       "regular_topics": [
         "Dolly Parton",
-        "Bruno Fernandes",
         "Al Nassr",
-        "Delap",
-        "Jolene",
+        "Bruno Fernandes",
         "Player of the Year",
         "Declan Rice",
+        "Jolene",
+        "Delap",
         "Congratulations Bruno",
+        "Sadio",
         "Bento",
-        "Nico O'Reilly",
-        "Coat of Many Colors"
+        "Betis"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
