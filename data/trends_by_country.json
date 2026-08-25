@@ -1,76 +1,75 @@
 {
-  "generated_at_utc": "2026-08-25T02:00:50.074579+00:00",
+  "generated_at_utc": "2026-08-25T03:22:47.431608+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 01:01:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 02:48:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Jesse",
+        "Wheeler",
+        "Abdul",
         "Supreme Court",
-        "Royce Keys",
-        "Dragon Lee",
-        "Big Cass",
+        "#kroniisekai",
+        "Valkyries",
         "USPS",
         "Girl Scouts",
-        "Introducing",
-        "Durk",
-        "SCOTUS"
+        "SCOTUS",
+        "Royce Keys"
       ],
       "hashtags": [
         "#WWERaw",
+        "#kroniisekai",
         "#DWTSNextPro",
-        "#AllAmerican",
-        "#RawOnNetflix",
-        "#BelowDeckMed"
+        "#mcrminneapolis",
+        "#AllAmerican"
       ],
       "regular_topics": [
         "Jesse",
+        "Wheeler",
+        "Abdul",
         "Supreme Court",
-        "Royce Keys",
-        "Dragon Lee",
-        "Big Cass",
+        "Valkyries",
         "USPS",
         "Girl Scouts",
-        "Introducing",
-        "Durk",
         "SCOTUS",
-        "Boutte"
+        "Royce Keys",
+        "Durk",
+        "TONY SEAGULLS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Aug 25 2026 01:30:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 02:24:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#WWERaw",
         "Palmer",
         "Sanchez",
         "Chelsea",
+        "Fulham",
         "Rey Fenix",
-        "Rogers",
-        "#FULCHE",
-        "Big Cass",
         "Dragon Lee",
+        "Rogers",
+        "Penders",
         "Enzo",
-        "Penders"
+        "Lacroix"
       ],
       "hashtags": [
-        "#WWERaw",
-        "#FULCHE"
+        "#WWERaw"
       ],
       "regular_topics": [
         "Palmer",
         "Sanchez",
         "Chelsea",
+        "Fulham",
         "Rey Fenix",
-        "Rogers",
-        "Big Cass",
         "Dragon Lee",
-        "Enzo",
+        "Rogers",
         "Penders",
+        "Enzo",
         "Lacroix",
         "Colwill"
       ],
@@ -79,14 +78,14 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Aug 25 2026 01:21:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 02:16:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Canada",
         "Trump",
         "China",
         "Canadians",
-        "#WWERaw",
         "The US",
+        "#WWERaw",
         "America",
         "Palmer",
         "Fulham",
@@ -116,38 +115,38 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 01:16:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:03:50 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GodMorningTuesday",
+        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+        "#\u092e\u0947\u0930\u0947_\u0906\u0926\u0930\u094d\u0936_\u0939\u0948\u0902_\u092c\u093e\u092a\u0942",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "joymoti",
         "#Mahakali",
         "#StopMisuseOfSCSTAct",
-        "joymoti",
-        "vantara",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "#ShukracharyaWarCry",
         "#WazirXAI",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
-        "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
-        "Parandur"
+        "Vantara",
+        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928"
       ],
       "hashtags": [
         "#GodMorningTuesday",
+        "#\u092e\u0947\u0930\u0947_\u0906\u0926\u0930\u094d\u0936_\u0939\u0948\u0902_\u092c\u093e\u092a\u0942",
         "#Mahakali",
         "#StopMisuseOfSCSTAct",
-        "#ShukracharyaWarCry",
         "#WazirXAI"
       ],
       "regular_topics": [
-        "joymoti",
-        "vantara",
-        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
         "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+        "\u0936\u094d\u0930\u0940 \u0939\u0928\u0941\u092e\u093e\u0928",
+        "joymoti",
+        "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
+        "Vantara",
+        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Parandur",
         "Manusmriti",
-        "Dhruv Jurel",
-        "\u0935\u0940\u0930 \u0939\u0928\u0941\u092e\u093e\u0928",
         "Ajeet Bharti",
+        "Dhruv Jurel",
         "1YR OF FARHANA BHATT SEASON"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -155,36 +154,35 @@
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 01:15:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Aug 25 2026 03:03:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sanchez",
-        "Palmer",
         "Chelsea",
+        "Palmer",
+        "Rogers",
+        "$BATON",
         "#FULCHE",
-        "Alonso",
         "Lacroix",
         "Joao Pedro",
+        "Alonso",
         "Colwill",
-        "Acheampong",
-        "Enzo",
-        "Caicedo"
+        "Technocore"
       ],
       "hashtags": [
-        "#FULCHE",
-        "#CHEFUL"
+        "#FULCHE"
       ],
       "regular_topics": [
         "Sanchez",
-        "Palmer",
         "Chelsea",
-        "Alonso",
+        "Palmer",
+        "Rogers",
+        "$BATON",
         "Lacroix",
         "Joao Pedro",
+        "Alonso",
         "Colwill",
-        "Acheampong",
-        "Enzo",
-        "Caicedo",
-        "Penders"
+        "Technocore",
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
