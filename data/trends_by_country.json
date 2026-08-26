@@ -1,42 +1,42 @@
 {
-  "generated_at_utc": "2026-08-26T05:55:23.800222+00:00",
+  "generated_at_utc": "2026-08-26T06:25:01.940520+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 05:15:55 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 06:12:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Palencia",
         "Webb",
+        "Yanet",
         "Jelly Roll",
         "South Carolina",
         "Mason Miller",
-        "#WWENXT",
-        "Oneil Cruz",
-        "Clay Holmes",
+        "#LaCasaDeLosFamososM\u00e9xico",
         "Ryan Waldschmidt",
-        "Wolfman Jack"
+        "Wolfman Jack",
+        "Clay Holmes"
       ],
       "hashtags": [
+        "#LaCasaDeLosFamososM\u00e9xico",
         "#WWENXT",
-        "#DWCS",
         "#PhantomBountyNotice",
-        "#Pratt",
-        "#AGT"
+        "#DWCS",
+        "#Pratt"
       ],
       "regular_topics": [
         "Dolly",
         "Palencia",
         "Webb",
+        "Yanet",
         "Jelly Roll",
         "South Carolina",
         "Mason Miller",
-        "Oneil Cruz",
-        "Clay Holmes",
         "Ryan Waldschmidt",
         "Wolfman Jack",
-        "Jolene"
+        "Clay Holmes",
+        "Oneil Cruz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
