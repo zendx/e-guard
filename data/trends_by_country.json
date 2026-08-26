@@ -1,67 +1,67 @@
 {
-  "generated_at_utc": "2026-08-26T02:15:46.995864+00:00",
+  "generated_at_utc": "2026-08-26T03:29:04.921832+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 01:45:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 02:39:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
-        "#DWCS",
         "#WWENXT",
-        "Bella Mir",
+        "#DWCS",
         "Jelly Roll",
+        "South Carolina",
+        "Bella Mir",
+        "Jarren Duran",
         "Jolene",
-        "Mickey Gasper",
-        "Alex Apodaca",
-        "Fernando Cruz",
         "Connor Wong",
-        "#AGT"
+        "Lindor",
+        "Darline Graham"
       ],
       "hashtags": [
-        "#DWCS",
         "#WWENXT",
+        "#DWCS",
         "#AGT",
+        "#DirtyWater",
         "#dunkman"
       ],
       "regular_topics": [
         "Dolly",
-        "Bella Mir",
         "Jelly Roll",
-        "Jolene",
-        "Mickey Gasper",
-        "Alex Apodaca",
-        "Fernando Cruz",
-        "Connor Wong",
-        "Darline Graham",
         "South Carolina",
-        "Will Warren"
+        "Bella Mir",
+        "Jarren Duran",
+        "Jolene",
+        "Connor Wong",
+        "Lindor",
+        "Darline Graham",
+        "Gavin Williams",
+        "Mickey Gasper"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 01:16:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 03:03:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
+        "#DWCS",
         "McCowan",
         "LASK",
-        "#DWCS",
-        "Murray",
         "#WWENXT",
+        "Murray",
         "Ralston",
-        "#bcfc",
-        "Tounekti",
         "Nygren",
-        "Hogh"
+        "#bcfc",
+        "Hogh",
+        "Jolene"
       ],
       "hashtags": [
         "#DWCS",
         "#WWENXT",
         "#bcfc",
-        "#nffc",
-        "#lufc"
+        "#pufc"
       ],
       "regular_topics": [
         "Dolly",
@@ -69,127 +69,133 @@
         "LASK",
         "Murray",
         "Ralston",
-        "Tounekti",
         "Nygren",
         "Hogh",
-        "Hassan",
         "Jolene",
-        "Tounetki"
+        "Tounekti",
+        "Hassan",
+        "Kairat"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 26 2026 01:09:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 02:56:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
-        "Canadians",
-        "#DWCS",
         "Vladdy",
+        "Lukes",
         "#BlueJays",
         "Gulf of Mexico",
         "China",
         "Jolene",
-        "Bella Mir",
+        "#DWCS",
+        "#WWENXT",
         "Quebec"
       ],
       "hashtags": [
-        "#DWCS",
         "#BlueJays",
-        "#WWENXT",
-        "#LLWS"
+        "#DWCS",
+        "#WWENXT"
       ],
       "regular_topics": [
         "Dolly",
         "Canada",
-        "Canadians",
         "Vladdy",
+        "Lukes",
         "Gulf of Mexico",
         "China",
         "Jolene",
-        "Bella Mir",
         "Quebec",
-        "Scherzer",
-        "The US"
+        "RISP",
+        "Ernie",
+        "Bella Mir"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 26 2026 01:57:44 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 02:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#OnamSpecial26",
+        "#VedicRakshaBandhan",
+        "Raksha Sutra",
         "Gyan Ganga Book",
-        "#GodMorningWednesday",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "#ToxicReview",
+        "#GodMorningWednesday",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "\u092e\u0939\u093f\u0932\u093e \u0938\u092e\u093e\u0928\u0924\u093e",
-        "#10YearsOfUPI",
-        "#ToxicTheMovie",
-        "joymoti",
-        "show time"
+        "#EidMiladUnNabi",
+        "\u092e\u0926\u0930 \u091f\u0947\u0930\u0947\u0938\u093e"
       ],
       "hashtags": [
         "#OnamSpecial26",
-        "#GodMorningWednesday",
+        "#VedicRakshaBandhan",
         "#ToxicReview",
-        "#10YearsOfUPI",
-        "#ToxicTheMovie"
+        "#GodMorningWednesday",
+        "#EidMiladUnNabi",
+        "#ToxicTheMovie",
+        "#ToxicFilm",
+        "#MotherTeresa",
+        "#Yash",
+        "#WomensEqualityDay",
+        "#\u092e\u0939\u093f\u0932\u093e_\u0938\u092e\u093e\u0928\u0924\u093e_\u0926\u093f\u0935\u0938"
       ],
       "regular_topics": [
+        "Raksha Sutra",
         "Gyan Ganga Book",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "\u092e\u0939\u093f\u0932\u093e \u0938\u092e\u093e\u0928\u0924\u093e",
-        "joymoti",
-        "show time",
         "\u092e\u0926\u0930 \u091f\u0947\u0930\u0947\u0938\u093e",
-        "Kriti Sanon",
-        "Vantara",
         "Dolly Parton",
-        "harikesh patel"
+        "\u092a\u0935\u093f\u0924\u094d\u0930 \u0938\u0902\u0915\u0932\u094d\u092a",
+        "Eid Mubarak",
+        "\u092d\u0917\u0935\u093e\u0928 \u0917\u0923\u0947\u0936",
+        "show time"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 26 2026 01:56:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 02:51:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
-        "$Pistacio",
-        "Jolene",
-        "Al Nassr",
-        "Bruno Fernandes",
-        "Sheba",
         "#skel",
-        "Rice",
-        "Coat of Many Colors",
-        "Player of the Year",
-        "Hello God"
+        "Sanchez",
+        "Bruno Fernandes",
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "Declan Rice",
+        "Al Nassr",
+        "Headies",
+        "Player of the Year"
       ],
       "hashtags": [
         "#skel",
-        "#IsaacBalamiat42",
-        "#BBNaija2026",
-        "#PFAAwards"
+        "#FULCHE",
+        "#eidelmaulud",
+        "#BBNaijaXAquafina",
+        "#IsaacBalamiat42"
       ],
       "regular_topics": [
         "Dolly Parton",
-        "$Pistacio",
-        "Jolene",
-        "Al Nassr",
+        "Sanchez",
         "Bruno Fernandes",
-        "Sheba",
-        "Rice",
-        "Coat of Many Colors",
+        "Chelsea",
+        "Fulham",
+        "Palmer",
+        "Declan Rice",
+        "Al Nassr",
+        "Headies",
         "Player of the Year",
-        "Hello God",
-        "Aquafina"
+        "Enzo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
