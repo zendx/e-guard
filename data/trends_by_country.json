@@ -1,191 +1,191 @@
 {
-  "generated_at_utc": "2026-08-26T16:40:51.120483+00:00",
+  "generated_at_utc": "2026-08-26T18:31:05.424500+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 15:52:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 17:39:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tim Curry",
-        "Nepal",
-        "First Dolly",
-        "National Dog Day",
         "Home Alone 2",
-        "Meta",
         "Clue",
-        "Mathurin",
         "Rocky Horror",
+        "Nepal",
         "Pennywise",
-        "Pelicans"
+        "Xbox",
+        "Muppet Treasure Island",
+        "National Dog Day",
+        "Meta",
+        "Dr. Frank"
       ],
       "hashtags": [
-        "#WomensEqualityDay",
-        "#MoonshadowSeriesEP3",
-        "#DollyPatron",
-        "#WednesdayVibes",
-        "#AniyaxEbony"
+        "#TrumpsCorruptionCostsUS",
+        "#WomensEqualityDay"
       ],
       "regular_topics": [
         "Tim Curry",
-        "Nepal",
-        "First Dolly",
-        "National Dog Day",
         "Home Alone 2",
-        "Meta",
         "Clue",
-        "Mathurin",
         "Rocky Horror",
+        "Nepal",
         "Pennywise",
-        "Pelicans"
+        "Xbox",
+        "Muppet Treasure Island",
+        "National Dog Day",
+        "Meta",
+        "Dr. Frank"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 16:18:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 18:04:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tim Curry",
-        "RIP Tim Curry",
-        "Home Alone 2",
-        "Sarr",
-        "Martinez",
         "Rocky Horror",
-        "Pennywise",
-        "Sanchez",
+        "Home Alone 2",
+        "Todibo",
+        "Clue",
         "Nepal",
-        "Penders",
-        "Jack Grealish"
+        "Pennywise",
+        "Xbox",
+        "Grealish",
+        "Ordonez",
+        "Palestine Action"
       ],
       "hashtags": [
-        "#InternationalDogDay"
+        "#BBUK",
+        "#InternationalDogDay",
+        "#thechase",
+        "#APlagueTale"
       ],
       "regular_topics": [
         "Tim Curry",
-        "RIP Tim Curry",
-        "Home Alone 2",
-        "Sarr",
-        "Martinez",
         "Rocky Horror",
-        "Pennywise",
-        "Sanchez",
+        "Home Alone 2",
+        "Todibo",
+        "Clue",
         "Nepal",
-        "Penders",
-        "Jack Grealish"
+        "Pennywise",
+        "Xbox",
+        "Grealish",
+        "Ordonez",
+        "Palestine Action"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 26 2026 16:12:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 18:00:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tim Curry",
-        "Canada",
+        "Trump",
         "Carney",
-        "Nepal",
         "China",
         "Home Alone 2",
-        "Gulf of Mexico",
-        "Jolene",
-        "Quebec",
-        "Rocky Horror Picture Show",
-        "National Dog Day"
+        "Clue",
+        "Nepal",
+        "Rocky Horror",
+        "Navarro",
+        "Xbox",
+        "Gulf of Mexico"
       ],
       "hashtags": [
+        "#NationalDogDay",
         "#DWCS"
       ],
       "regular_topics": [
         "Tim Curry",
-        "Canada",
+        "Trump",
         "Carney",
-        "Nepal",
         "China",
         "Home Alone 2",
-        "Gulf of Mexico",
-        "Jolene",
-        "Quebec",
-        "Rocky Horror Picture Show",
-        "National Dog Day"
+        "Clue",
+        "Nepal",
+        "Rocky Horror",
+        "Navarro",
+        "Xbox",
+        "Gulf of Mexico"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 26 2026 16:04:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 17:51:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Nepal",
+        "Nepal",
         "#BhuvanBam",
-        "#MohanBhagwatInUSA",
-        "#UniversalOneness",
-        "#\u0938\u092a\u093e_\u0930\u093e\u091c_\u092e\u0947\u0902_\u092e\u0939\u093f\u0932\u093e\u090f\u0901",
-        "SHKH HITS 200",
-        "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940",
-        "\u0938\u093f\u0902\u0917\u0930 \u0905\u0902\u0915\u093f\u0924",
         "Tim Curry",
-        "\u0924\u093f\u092c\u094d\u092c\u0924 \u0938\u0940\u092e\u093e",
-        "GLM-5.3-Flash"
+        "#TheVVAAN",
+        "#\u0938\u092a\u093e_\u0930\u093e\u091c_\u092e\u0947\u0902_\u092e\u0939\u093f\u0932\u093e\u090f\u0901",
+        "\u0938\u093f\u0902\u0917\u0930 \u0905\u0902\u0915\u093f\u0924",
+        "#XAUTonCoinDCX",
+        "HADR",
+        "SHKH HITS 200",
+        "#AppleEvent",
+        "iPhone 18 Pro"
       ],
       "hashtags": [
-        "#Nepal",
         "#BhuvanBam",
-        "#MohanBhagwatInUSA",
-        "#UniversalOneness",
+        "#TheVVAAN",
         "#\u0938\u092a\u093e_\u0930\u093e\u091c_\u092e\u0947\u0902_\u092e\u0939\u093f\u0932\u093e\u090f\u0901",
-        "#UnmaskingUN"
+        "#XAUTonCoinDCX",
+        "#AppleEvent"
       ],
       "regular_topics": [
-        "SHKH HITS 200",
-        "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940",
-        "\u0938\u093f\u0902\u0917\u0930 \u0905\u0902\u0915\u093f\u0924",
+        "Nepal",
         "Tim Curry",
-        "\u0924\u093f\u092c\u094d\u092c\u0924 \u0938\u0940\u092e\u093e",
-        "GLM-5.3-Flash",
-        "Manu Ashokan",
-        "Rash Behari Bose",
-        "BELIFT PUT ENHYPEN OVER PROFIT",
+        "\u0938\u093f\u0902\u0917\u0930 \u0905\u0902\u0915\u093f\u0924",
         "HADR",
-        "105 Indians"
+        "SHKH HITS 200",
+        "iPhone 18 Pro",
+        "BELIFT PUT ENHYPEN OVER PROFIT",
+        "\u092d\u092f\u093e\u0928\u0915 \u092c\u093e\u0922\u093c",
+        "\u0924\u093f\u092c\u094d\u092c\u0924 \u0938\u0940\u092e\u093e",
+        "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940",
+        "C-130J"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 26 2026 16:04:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 17:49:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Sanchez",
         "Martinez",
-        "Penders",
-        "Sarr",
-        "Nepal",
+        "Sanchez",
         "Tim Curry",
+        "Username",
+        "Nepal",
+        "Penders",
+        "Okin",
+        "Orlando",
+        "Mike Perry",
         "Alvarez",
-        "Laporta",
-        "#FP300M",
-        "Real Sociedad",
-        "Atletico"
+        "Duel Arena"
       ],
       "hashtags": [
         "#FP300M",
-        "#FutureMakersByNASENI",
         "#ItsTimeToAddme",
-        "#Zealy",
-        "#atikuabubakar2027"
+        "#FutureMakersByNASENI",
+        "#CPFC",
+        "#Zealy"
       ],
       "regular_topics": [
-        "Sanchez",
         "Martinez",
-        "Penders",
-        "Sarr",
-        "Nepal",
+        "Sanchez",
         "Tim Curry",
+        "Username",
+        "Nepal",
+        "Penders",
+        "Okin",
+        "Orlando",
+        "Mike Perry",
         "Alvarez",
-        "Laporta",
-        "Real Sociedad",
-        "Atletico",
-        "Orlando"
+        "Duel Arena"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
