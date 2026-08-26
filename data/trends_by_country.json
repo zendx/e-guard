@@ -1,56 +1,60 @@
 {
-  "generated_at_utc": "2026-08-26T10:02:40.421810+00:00",
+  "generated_at_utc": "2026-08-26T10:56:23.370951+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 09:45:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 10:36:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GISELLExKiwoomHeroes",
         "Good Wednesday",
+        "#GISELLExKiwoomHeroes",
         "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
-        "#Yanet",
-        "GRABFOOD TRIP X GFSNPP",
-        "#Waldy",
-        "#Palencia",
-        "Jelly Roll",
-        "Theresa",
         "Hump Day",
-        "National Dog Day"
+        "Theresa",
+        "GRABFOOD TRIP X GFSNPP",
+        "#Yanet",
+        "#NationalDogDay",
+        "#Waldy",
+        "Jelly Roll",
+        "Wolfman Jack"
       ],
       "hashtags": [
         "#GISELLExKiwoomHeroes",
         "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
         "#Yanet",
+        "#NationalDogDay",
         "#Waldy",
-        "#Palencia"
+        "#Palencia",
+        "#Kwan",
+        "#Mason",
+        "#PhantomBountyNotice"
       ],
       "regular_topics": [
         "Good Wednesday",
+        "Hump Day",
+        "Theresa",
         "GRABFOOD TRIP X GFSNPP",
         "Jelly Roll",
-        "Theresa",
-        "Hump Day",
-        "National Dog Day",
-        "Webb",
         "Wolfman Jack",
         "Wuyang",
         "$Pistacio",
-        "Waldschmidt"
+        "Webb",
+        "Onam",
+        "Kenny Rogers"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 09:18:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 10:09:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Ukraine",
         "LASK",
         "McCowan",
-        "Russia",
         "#InternationalDogDay",
+        "Russia",
         "Ofgem",
         "Jolene",
         "oro 3m",
@@ -59,10 +63,10 @@
       ],
       "hashtags": [
         "#InternationalDogDay",
-        "#RoseWednesday",
         "#nffc",
-        "#overhead",
-        "#ASongOrMovieForLendingAHand"
+        "#popmaster",
+        "#ASongOrMovieForLendingAHand",
+        "#TheChase"
       ],
       "regular_topics": [
         "Dolly",
@@ -82,7 +86,7 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 26 2026 09:09:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 10:04:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
@@ -92,9 +96,9 @@
         "Quebec",
         "#DWCS",
         "The US",
-        "Moscow",
         "Jelly Roll",
-        "Scherzer"
+        "Moscow",
+        "scherzer"
       ],
       "hashtags": [
         "#DWCS",
@@ -109,68 +113,68 @@
         "Jolene",
         "Quebec",
         "The US",
-        "Moscow",
         "Jelly Roll",
-        "Scherzer",
-        "I Will Always Love You"
+        "Moscow",
+        "scherzer",
+        "Notley"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 26 2026 09:06:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 09:57:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BiharKiPoliceDidi",
+        "#ISAAfricaRCMZimbabwe",
         "#HanumanAnshBoxOfficeMiracle",
         "#realmeP4sLaunchToday",
-        "#ANANDREKHI",
         "Happy Onam",
-        "#DelhiLakshmiYojana",
+        "#ANANDREKHI",
         "GIVA",
         "Yash",
         "Samrat Bhaiya",
-        "GRABFOOD TRIP X GFSNPP",
-        "Anant Ambani ji"
+        "Tibet",
+        "GRABFOOD TRIP X GFSNPP"
       ],
       "hashtags": [
         "#BiharKiPoliceDidi",
+        "#ISAAfricaRCMZimbabwe",
         "#HanumanAnshBoxOfficeMiracle",
         "#realmeP4sLaunchToday",
-        "#ANANDREKHI",
-        "#DelhiLakshmiYojana"
+        "#ANANDREKHI"
       ],
       "regular_topics": [
         "Happy Onam",
         "GIVA",
         "Yash",
         "Samrat Bhaiya",
+        "Tibet",
         "GRABFOOD TRIP X GFSNPP",
-        "Anant Ambani ji",
-        "WAVES OTT",
-        "\u092b\u093e\u092f\u0930 \u092c\u094d\u0930\u093f\u0917\u0947\u0921",
         "\u092e\u0939\u093f\u0932\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e",
-        "Vantara and Anant Ambani",
-        "144Hz"
+        "\u092f\u093e\u0924\u094d\u0930\u093e \u092f\u094b\u091c\u0928\u093e",
+        "\u0905\u0928\u0902\u0924 \u0938\u093f\u0902\u0939",
+        "\u0915\u094b\u0936\u0940 \u0928\u0926\u0940",
+        "\u092b\u093e\u092f\u0930 \u092c\u094d\u0930\u093f\u0917\u0947\u0921"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 26 2026 09:04:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 09:56:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "THE MERCY OF GOD HAS PREVAILED",
         "Dolly Parton",
-        "PrimeDesk",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Theresa",
         "Apodex",
+        "Scott",
         "Jonathan David",
-        "Happy Hump",
-        "Happy Midweek",
-        "Blord",
         "ALL HAIL MUYEEZ",
-        "MEXC",
-        "Blessed Wednesday"
+        "PrimeDesk",
+        "Alicia",
+        "Blord",
+        "Happy Hump"
       ],
       "hashtags": [
         "#adela",
@@ -178,17 +182,17 @@
         "#br\u00f8ndby"
       ],
       "regular_topics": [
-        "THE MERCY OF GOD HAS PREVAILED",
         "Dolly Parton",
-        "PrimeDesk",
+        "THE MERCY OF GOD HAS PREVAILED",
+        "Theresa",
         "Apodex",
+        "Scott",
         "Jonathan David",
-        "Happy Hump",
-        "Happy Midweek",
-        "Blord",
         "ALL HAIL MUYEEZ",
-        "MEXC",
-        "Blessed Wednesday"
+        "PrimeDesk",
+        "Alicia",
+        "Blord",
+        "Happy Hump"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
