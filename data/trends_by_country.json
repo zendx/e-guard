@@ -1,36 +1,38 @@
 {
-  "generated_at_utc": "2026-08-25T23:44:09.516273+00:00",
+  "generated_at_utc": "2026-08-26T00:30:54.490359+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Aug 25 2026 23:04:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 00:01:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Jolene",
+        "#DWCS",
         "Jelly Roll",
+        "Ronald Humphrey",
         "Imagination Library",
         "I Will Always Love You",
         "Tennessee",
-        "Witcher 3",
         "Kennedy Center",
-        "Coat of Many Colors",
-        "Steel Magnolias",
-        "Mickey Gasper"
+        "Will Warren",
+        "Witcher 3"
       ],
-      "hashtags": [],
+      "hashtags": [
+        "#DWCS"
+      ],
       "regular_topics": [
         "Dolly",
         "Jolene",
         "Jelly Roll",
+        "Ronald Humphrey",
         "Imagination Library",
         "I Will Always Love You",
         "Tennessee",
-        "Witcher 3",
         "Kennedy Center",
-        "Coat of Many Colors",
-        "Steel Magnolias",
-        "Mickey Gasper"
+        "Will Warren",
+        "Witcher 3",
+        "Glasnow"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
@@ -113,77 +115,76 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Aug 25 2026 23:20:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 00:12:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#10YearsOfUPI",
         "#HaiwaanTrailer",
-        "Dolly Parton",
         "vantara",
-        "#DrishyamTheConclusion",
+        "Dolly Parton",
         "#ToxicTheMovie",
+        "#DrishyamTheConclusion",
         "joymoti",
         "#bolttmobile",
         "Kriti Sanon",
-        "Flipkart Minutes",
+        "flipkart minutes",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940"
       ],
       "hashtags": [
         "#10YearsOfUPI",
         "#HaiwaanTrailer",
-        "#DrishyamTheConclusion",
         "#ToxicTheMovie",
+        "#DrishyamTheConclusion",
         "#bolttmobile"
       ],
       "regular_topics": [
-        "Dolly Parton",
         "vantara",
+        "Dolly Parton",
         "joymoti",
         "Kriti Sanon",
-        "Flipkart Minutes",
+        "flipkart minutes",
         "\u0905\u091c\u0940\u0924 \u092d\u093e\u0930\u0924\u0940",
-        "Manusmriti",
-        "harikesh patel",
         "Happy Onam",
+        "harikesh patel",
+        "Manusmriti",
         "Marathi",
-        "Hindu"
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Aug 25 2026 23:18:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 00:09:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
-        "Bruno Fernandes",
         "Al Nassr",
-        "Rice",
+        "Bruno Fernandes",
         "Jolene",
+        "$Pistacio",
+        "Rice",
         "Player of the Year",
         "#skel",
-        "Aquafina",
+        "Sheba",
         "Coat of Many Colors",
-        "$Pistacio",
-        "RIP Queen"
+        "Aquafina"
       ],
       "hashtags": [
         "#skel",
-        "#IsaacBalamiat42",
         "#PFAAwards",
         "#BBNaija2026"
       ],
       "regular_topics": [
         "Dolly Parton",
-        "Bruno Fernandes",
         "Al Nassr",
-        "Rice",
+        "Bruno Fernandes",
         "Jolene",
-        "Player of the Year",
-        "Aquafina",
-        "Coat of Many Colors",
         "$Pistacio",
-        "RIP Queen",
-        "Sheba"
+        "Rice",
+        "Player of the Year",
+        "Sheba",
+        "Coat of Many Colors",
+        "Aquafina",
+        "Hello God"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
