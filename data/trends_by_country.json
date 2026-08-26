@@ -1,199 +1,194 @@
 {
-  "generated_at_utc": "2026-08-26T12:22:39.001940+00:00",
+  "generated_at_utc": "2026-08-26T13:29:42.341156+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 11:31:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 12:24:03 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Wednesday",
+        "National Dog Day",
         "Hump Day",
-        "#NationalDogDay",
+        "Nepal",
         "Happy Hump",
         "GISELLE FIRST PITCH",
-        "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
-        "Theresa",
-        "GRABFOOD TRIP X GFSNPP",
+        "Sarr",
+        "Tibet",
         "South Carolina",
-        "Jelly Roll",
-        "Nepal"
+        "#WednesdayMotivation",
+        "ORM X YOUNG OTOP"
       ],
       "hashtags": [
-        "#NationalDogDay",
+        "#WednesdayMotivation",
         "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
-        "#PutThatInYourPipe",
-        "#PhantomBountyNotice",
-        "#LaCasaDeLosFamososM\u00e9xico",
-        "#Betty",
-        "#Jolene"
+        "#dollypartontribute",
+        "#WednesdayVibes",
+        "#PutThatInYourPipe"
       ],
       "regular_topics": [
         "Good Wednesday",
+        "National Dog Day",
         "Hump Day",
+        "Nepal",
         "Happy Hump",
         "GISELLE FIRST PITCH",
-        "Theresa",
-        "GRABFOOD TRIP X GFSNPP",
+        "Sarr",
+        "Tibet",
         "South Carolina",
-        "Jelly Roll",
-        "Nepal",
-        "Krasner",
-        "Love the Lord"
+        "ORM X YOUNG OTOP",
+        "Jelly Roll"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 11:56:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 12:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Dolly",
-        "Ukraine",
-        "LASK",
-        "Russia",
-        "McCowan",
-        "Jolene",
+        "Sarr",
+        "Minteh",
+        "Richard Hughes",
+        "Nepal",
         "#InternationalDogDay",
-        "oro 3m",
-        "Putin",
+        "Sainsbury",
         "Ofgem",
-        "Chelsea"
+        "He's 28",
+        "Rayan",
+        "Diouf",
+        "Rockstar Games"
       ],
       "hashtags": [
         "#InternationalDogDay",
-        "#nffc",
-        "#thechase",
-        "#bcfc",
-        "#gamescom"
+        "#LunchPun",
+        "#OBINGO",
+        "#RoseWednesday"
       ],
       "regular_topics": [
-        "Dolly",
-        "Ukraine",
-        "LASK",
-        "Russia",
-        "McCowan",
-        "Jolene",
-        "oro 3m",
-        "Putin",
+        "Sarr",
+        "Minteh",
+        "Richard Hughes",
+        "Nepal",
+        "Sainsbury",
         "Ofgem",
-        "Chelsea",
-        "Nepal"
+        "He's 28",
+        "Rayan",
+        "Diouf",
+        "Rockstar Games",
+        "Marseille"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 26 2026 11:48:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 12:40:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
-        "Carney",
+        "Trump",
+        "Core PCE Price Index",
+        "Prelim GDP",
         "China",
         "Gulf of Mexico",
-        "Jolene",
-        "Good Wednesday",
-        "Quebec",
-        "#DWCS",
         "Nepal",
-        "daily xauusd"
+        "Jolene",
+        "Quebec",
+        "Sarr"
       ],
       "hashtags": [
-        "#DWCS",
-        "#llws"
+        "#DWCS"
       ],
       "regular_topics": [
         "Dolly",
         "Canada",
-        "Carney",
+        "Trump",
+        "Core PCE Price Index",
+        "Prelim GDP",
         "China",
         "Gulf of Mexico",
-        "Jolene",
-        "Good Wednesday",
-        "Quebec",
         "Nepal",
-        "daily xauusd",
-        "The US"
+        "Jolene",
+        "Quebec",
+        "Sarr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 26 2026 11:44:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 12:36:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Nepal",
         "#UnmaskingUN",
-        "#RinggGetsItDone",
-        "#VishalMishraMusical",
-        "#WCL2026",
         "Biased United Nations",
+        "#VishalMishraMusical",
+        "#RinggGetsItDone",
+        "#WCL2026",
         "WCL Season 3",
+        "105 Indians",
         "Happy Onam",
-        "105 Indian",
-        "\u0915\u094b\u0936\u0940 \u0928\u0926\u0940",
-        "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940"
+        "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940",
+        "\u0915\u094b\u0936\u0940 \u0928\u0926\u0940"
       ],
       "hashtags": [
         "#Nepal",
         "#UnmaskingUN",
-        "#RinggGetsItDone",
         "#VishalMishraMusical",
+        "#RinggGetsItDone",
         "#WCL2026",
-        "#ISAAfricaRCMZimbabwe",
-        "#BiharKiPoliceDidi"
+        "#\u0938\u092a\u093e_\u0930\u093e\u091c_\u092e\u0947\u0902_\u092e\u0939\u093f\u0932\u093e\u090f\u0901",
+        "#ISAAfricaRCMZimbabwe"
       ],
       "regular_topics": [
         "Biased United Nations",
         "WCL Season 3",
+        "105 Indians",
         "Happy Onam",
-        "105 Indian",
-        "\u0915\u094b\u0936\u0940 \u0928\u0926\u0940",
         "\u0917\u0902\u0921\u0915 \u0928\u0926\u0940",
-        "GIVA",
-        "Yash",
+        "\u0915\u094b\u0936\u0940 \u0928\u0926\u0940",
+        "Jhooth Ki Goonj",
+        "\u0928\u0947\u092a\u093e\u0932 \u092c\u093e\u0922\u093c",
         "The UN",
-        "Prabhas anna",
-        "Dr. Priti Adani"
+        "\u0924\u093f\u092c\u094d\u092c\u0924 \u0938\u0940\u092e\u093e",
+        "\u092d\u092f\u093e\u0928\u0915 \u092c\u093e\u0922\u093c"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 26 2026 11:43:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 12:34:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Sarr",
         "#AtikuAbubakar2027",
-        "Ayyoub Bouaddi",
         "Diouf",
+        "Ayyoub Bouaddi",
+        "Babatunde",
         "Axel Disasi",
+        "Richard Hughes",
         "#ItsTimeToAddme",
         "Moussa Diaby",
-        "Dolly Parton",
-        "Theresa",
-        "Deadline Day",
-        "Scott",
-        "Omar Marmoush"
+        "Airdrop Round 1",
+        "#NPFL27"
       ],
       "hashtags": [
         "#AtikuAbubakar2027",
         "#ItsTimeToAddme",
         "#NPFL27",
-        "#Ticketmaster",
-        "#adela"
+        "#Ticketmaster"
       ],
       "regular_topics": [
-        "Ayyoub Bouaddi",
+        "Sarr",
         "Diouf",
+        "Ayyoub Bouaddi",
+        "Babatunde",
         "Axel Disasi",
+        "Richard Hughes",
         "Moussa Diaby",
-        "Dolly Parton",
-        "Theresa",
-        "Deadline Day",
-        "Scott",
-        "Omar Marmoush",
-        "Steppenwolf",
-        "Happy Hump"
+        "Airdrop Round 1",
+        "$Priceless",
+        "Bayer Leverkusen",
+        "Dolly Parton"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
