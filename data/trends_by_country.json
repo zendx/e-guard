@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-08-26T05:01:03.059850+00:00",
+  "generated_at_utc": "2026-08-26T05:55:23.800222+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 04:21:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 05:15:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Palencia",
+        "Webb",
         "Jelly Roll",
         "South Carolina",
-        "#WWENXT",
         "Mason Miller",
+        "#WWENXT",
         "Oneil Cruz",
         "Clay Holmes",
-        "#DWCS",
-        "Jolene",
-        "Jacob Webb"
+        "Ryan Waldschmidt",
+        "Wolfman Jack"
       ],
       "hashtags": [
         "#WWENXT",
         "#DWCS",
         "#PhantomBountyNotice",
-        "#AGT",
-        "#RaiseIt"
+        "#Pratt",
+        "#AGT"
       ],
       "regular_topics": [
         "Dolly",
         "Palencia",
+        "Webb",
         "Jelly Roll",
         "South Carolina",
         "Mason Miller",
         "Oneil Cruz",
         "Clay Holmes",
-        "Jolene",
-        "Jacob Webb",
-        "George Kirby",
-        "Wolfman Jack"
+        "Ryan Waldschmidt",
+        "Wolfman Jack",
+        "Jolene"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 04:48:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 05:44:05 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Ukraine",
@@ -51,18 +51,18 @@
         "LASK",
         "Russia",
         "Sanchez",
-        "Chelsea",
         "Jolene",
+        "Chelsea",
         "Palmer",
         "oro 3m",
         "Putin"
       ],
       "hashtags": [
         "#nffc",
-        "#WWENXT",
-        "#bcfc",
         "#DWCS",
-        "#thechase"
+        "#bcfc",
+        "#thechase",
+        "#fulche"
       ],
       "regular_topics": [
         "Dolly",
@@ -71,8 +71,8 @@
         "LASK",
         "Russia",
         "Sanchez",
-        "Chelsea",
         "Jolene",
+        "Chelsea",
         "Palmer",
         "oro 3m",
         "Putin"
@@ -82,22 +82,21 @@
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Aug 26 2026 04:42:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 05:36:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Canada",
         "China",
         "Gulf of Mexico",
-        "Lukes",
         "Jolene",
-        "Vladdy",
-        "#WWENXT",
         "Quebec",
+        "Lukes",
+        "Vladdy",
         "#DWCS",
+        "The US",
         "#BlueJays"
       ],
       "hashtags": [
-        "#WWENXT",
         "#DWCS",
         "#BlueJays",
         "#LLWS"
@@ -107,39 +106,45 @@
         "Canada",
         "China",
         "Gulf of Mexico",
-        "Lukes",
         "Jolene",
-        "Vladdy",
         "Quebec",
+        "Lukes",
+        "Vladdy",
         "The US",
         "Moscow",
-        "I Will Always Love You"
+        "RISP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Aug 26 2026 04:36:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 05:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Happy Onam",
         "#NHCFoodsIncreasingStake",
-        "#VedicRakshaBandhan",
         "#ToxicReview",
-        "Raksha Sutra",
         "#EidMiladUnNabi",
+        "#VedicRakshaBandhan",
+        "#TheVVAANTeaser",
+        "Raksha Sutra",
         "Gyan Ganga Book",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
         "\u092e\u0939\u093f\u0932\u093e \u0938\u092e\u093e\u0928\u0924\u093e",
-        "#TheVVAANTeaser",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e"
       ],
       "hashtags": [
         "#NHCFoodsIncreasingStake",
-        "#VedicRakshaBandhan",
         "#ToxicReview",
         "#EidMiladUnNabi",
-        "#TheVVAANTeaser"
+        "#VedicRakshaBandhan",
+        "#TheVVAANTeaser",
+        "#ToxicTheMovie",
+        "#Yash",
+        "#Athimanoharam",
+        "#EidMubarak",
+        "#MotherTeresa",
+        "#Prosperity"
       ],
       "regular_topics": [
         "Happy Onam",
@@ -149,47 +154,47 @@
         "\u092e\u0939\u093f\u0932\u093e \u0938\u092e\u093e\u0928\u0924\u093e",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "\u092e\u0926\u0930 \u091f\u0947\u0930\u0947\u0938\u093e",
-        "Sant Shri Asharamji Bapu",
-        "\u0928\u092c\u0940 \u092e\u0941\u092c\u093e\u0930\u0915",
         "Prophet Muhammad",
-        "Dolly Parton"
+        "Dolly Parton",
+        "\u0928\u092c\u0940 \u092e\u0941\u092c\u093e\u0930\u0915",
+        "Sonal Dinusha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Aug 26 2026 04:33:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 05:27:59 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly Parton",
         "#skel",
-        "Sanchez",
         "Bruno Fernandes",
+        "Sanchez",
         "Chelsea",
         "Fulham",
         "Palmer",
-        "Headies",
         "Declan Rice",
         "Al Nassr",
+        "Headies",
         "Player of the Year"
       ],
       "hashtags": [
         "#skel",
-        "#FULCHE",
+        "#fulche",
         "#EidElMaulud",
         "#BBNaijaXAquafina",
         "#isaacbalamiat42"
       ],
       "regular_topics": [
         "Dolly Parton",
-        "Sanchez",
         "Bruno Fernandes",
+        "Sanchez",
         "Chelsea",
         "Fulham",
         "Palmer",
-        "Headies",
         "Declan Rice",
         "Al Nassr",
+        "Headies",
         "Player of the Year",
         "Jolene"
       ],
