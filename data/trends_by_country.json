@@ -1,85 +1,83 @@
 {
-  "generated_at_utc": "2026-08-26T11:19:40.003548+00:00",
+  "generated_at_utc": "2026-08-26T11:51:56.013274+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Aug 26 2026 10:36:40 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 11:31:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Good Wednesday",
-        "#GISELLExKiwoomHeroes",
-        "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
         "Hump Day",
+        "#NationalDogDay",
+        "Happy Hump",
+        "GISELLE FIRST PITCH",
+        "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
         "Theresa",
         "GRABFOOD TRIP X GFSNPP",
-        "#Yanet",
-        "#NationalDogDay",
-        "#Waldy",
+        "South Carolina",
         "Jelly Roll",
-        "Wolfman Jack"
+        "Nepal"
       ],
       "hashtags": [
-        "#GISELLExKiwoomHeroes",
-        "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
-        "#Yanet",
         "#NationalDogDay",
-        "#Waldy",
-        "#Palencia",
-        "#Kwan",
-        "#Mason",
-        "#PhantomBountyNotice"
+        "#GrabFood\u0e16\u0e39\u0e01\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e31\u0e27\u0e23\u0e4cTRIP",
+        "#PutThatInYourPipe",
+        "#PhantomBountyNotice",
+        "#LaCasaDeLosFamososM\u00e9xico",
+        "#Betty",
+        "#Jolene"
       ],
       "regular_topics": [
         "Good Wednesday",
         "Hump Day",
+        "Happy Hump",
+        "GISELLE FIRST PITCH",
         "Theresa",
         "GRABFOOD TRIP X GFSNPP",
+        "South Carolina",
         "Jelly Roll",
-        "Wolfman Jack",
-        "Wuyang",
-        "$Pistacio",
-        "Webb",
-        "Onam",
-        "Kenny Rogers"
+        "Nepal",
+        "Krasner",
+        "Love the Lord"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Aug 26 2026 10:09:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Aug 26 2026 11:04:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Dolly",
         "Ukraine",
         "LASK",
+        "Russia",
         "McCowan",
         "#InternationalDogDay",
-        "Russia",
-        "Ofgem",
         "Jolene",
         "oro 3m",
         "Putin",
+        "Ofgem",
         "Chelsea"
       ],
       "hashtags": [
         "#InternationalDogDay",
         "#nffc",
-        "#popmaster",
-        "#ASongOrMovieForLendingAHand",
-        "#TheChase"
+        "#TheChase",
+        "#GISELLExKiwoomHeroes",
+        "#bcfc"
       ],
       "regular_topics": [
         "Dolly",
         "Ukraine",
         "LASK",
-        "McCowan",
         "Russia",
-        "Ofgem",
+        "McCowan",
         "Jolene",
         "oro 3m",
         "Putin",
+        "Ofgem",
         "Chelsea",
-        "Sanchez"
+        "Ayyoub Bouaddi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
