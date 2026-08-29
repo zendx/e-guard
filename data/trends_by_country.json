@@ -1,198 +1,198 @@
 {
-  "generated_at_utc": "2026-08-29T19:49:51.293465+00:00",
+  "generated_at_utc": "2026-08-29T22:03:36.939337+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Aug 29 2026 18:54:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 29 2026 21:40:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Rosario",
-        "Tottenham",
-        "Jaden Craig",
-        "Rodon",
-        "Ali Sanchez",
-        "GemRadar",
+        "CJ Bailey",
+        "NC State",
+        "Virginia",
+        "Beau Pribula",
+        "Trent Mosley",
         "Sonny Dykes",
-        "Anne Hathaway",
-        "Days of Thunder",
-        "Newcastle",
-        "Ireland"
+        "GemRadar",
+        "San Jose State",
+        "Jaden Craig",
+        "Bazardo",
+        "Rosario"
       ],
       "hashtags": [
+        "#MVPete",
+        "#FightOn",
         "#MrFanboyEP1",
-        "#TOTNEW",
-        "#COYS",
-        "#YouManiacSeriesEP1",
-        "#Caturday"
+        "#FlyTheW",
+        "#MVPCA"
       ],
       "regular_topics": [
-        "Rosario",
-        "Tottenham",
-        "Jaden Craig",
-        "Rodon",
-        "Ali Sanchez",
-        "GemRadar",
+        "CJ Bailey",
+        "NC State",
+        "Virginia",
+        "Beau Pribula",
+        "Trent Mosley",
         "Sonny Dykes",
-        "Anne Hathaway",
-        "Days of Thunder",
-        "Newcastle",
-        "Ireland"
+        "GemRadar",
+        "San Jose State",
+        "Jaden Craig",
+        "Bazardo",
+        "Rosario"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Aug 29 2026 19:24:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 29 2026 21:12:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Spurs",
+        "Gakpo",
+        "Sarr",
         "Tonali",
-        "#TOTNEW",
         "De Zerbi",
-        "Elanga",
         "Tottenham",
+        "Elanga",
+        "#TOTNEW",
         "Porro",
-        "Dedic",
-        "Gray",
-        "Mathys Tel",
-        "#TheVoiceUK"
+        "#THFC",
+        "Henderson"
       ],
       "hashtags": [
         "#TOTNEW",
-        "#TheVoiceUK",
-        "#swfc",
-        "#bbcproms",
-        "#oafc"
+        "#THFC",
+        "#BBCProms",
+        "#thevoice",
+        "#ItaumaHrgovic"
       ],
       "regular_topics": [
         "Spurs",
+        "Gakpo",
+        "Sarr",
         "Tonali",
         "De Zerbi",
-        "Elanga",
         "Tottenham",
+        "Elanga",
         "Porro",
+        "Henderson",
         "Dedic",
-        "Gray",
-        "Mathys Tel",
-        "Nico",
-        "Eddie Howe"
+        "Gray"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Aug 29 2026 19:15:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 29 2026 21:04:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Venezuela",
         "Lake Ontario",
+        "Buck",
         "Spurs",
-        "Tottenham",
-        "De Zerbi",
-        "#UFCShanghai",
-        "Buck Martinez",
         "Makar",
-        "Newcastle",
+        "#UFCShanghai",
         "Milo",
-        "Elanga"
+        "Tottenham",
+        "The CBC",
+        "#TOTNEW",
+        "De Zerbi"
       ],
       "hashtags": [
         "#UFCShanghai",
         "#TOTNEW",
-        "#MrFanboyEP1",
         "#Caturday",
-        "#YouManiacSeriesEP1"
+        "#YouManiacSeriesEP1",
+        "#Ranchiki"
       ],
       "regular_topics": [
         "Venezuela",
         "Lake Ontario",
+        "Buck",
         "Spurs",
-        "Tottenham",
-        "De Zerbi",
-        "Buck Martinez",
         "Makar",
-        "Newcastle",
         "Milo",
-        "Elanga",
-        "The CBC"
+        "Tottenham",
+        "The CBC",
+        "De Zerbi",
+        "Soriano",
+        "Gakpo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Aug 29 2026 19:08:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 29 2026 21:00:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UniversalOneness",
-        "#MohanBhagwatInUSA",
-        "Spurs",
         "#YouManiacSeriesEP1",
-        "#\u0935\u093e\u0939\u0930\u0947_\u0938\u092e\u093e\u091c_\u0928\u093e\u0936\u0915_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
+        "#MohanBhagwatInUSA",
         "MANIAC OPENING NITE",
-        "#\u0938\u0935\u0930\u094d\u0923_\u0906\u092f\u094b\u0917_\u092c\u0928\u093e\u0913",
+        "Spurs",
+        "Gakpo",
+        "#MrFanboyEP1",
+        "#\u0935\u093e\u0939\u0930\u0947_\u0938\u092e\u093e\u091c_\u0928\u093e\u0936\u0915_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
         "Tottenham",
-        "Newcastle",
-        "One Humanity",
-        "One World"
+        "MR FANBOY CHAPTER 1",
+        "One Humanity"
       ],
       "hashtags": [
         "#UniversalOneness",
-        "#MohanBhagwatInUSA",
         "#YouManiacSeriesEP1",
-        "#\u0935\u093e\u0939\u0930\u0947_\u0938\u092e\u093e\u091c_\u0928\u093e\u0936\u0915_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
-        "#\u0938\u0935\u0930\u094d\u0923_\u0906\u092f\u094b\u0917_\u092c\u0928\u093e\u0913"
+        "#MohanBhagwatInUSA",
+        "#MrFanboyEP1",
+        "#\u0935\u093e\u0939\u0930\u0947_\u0938\u092e\u093e\u091c_\u0928\u093e\u0936\u0915_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926"
       ],
       "regular_topics": [
-        "Spurs",
         "MANIAC OPENING NITE",
+        "Spurs",
+        "Gakpo",
         "Tottenham",
-        "Newcastle",
-        "One Humanity",
-        "One World",
-        "De Zerbi",
         "MR FANBOY CHAPTER 1",
-        "Tom Cruise",
-        "Elanga",
-        "Dean"
+        "One Humanity",
+        "Newcastle",
+        "One World",
+        "Kapil",
+        "Dean",
+        "New York"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Aug 29 2026 19:06:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Aug 29 2026 20:57:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Tottenham",
         "#skel",
+        "Gakpo",
+        "Lyon",
         "De Zerbi",
+        "Juventus",
+        "Ademola Lookman",
         "#TOTNEW",
-        "Rain",
+        "Tram and Nomy",
         "Tonali",
-        "Elanga",
-        "#ABFBlockAndChill",
-        "Liverpool",
-        "#hoodmaths",
-        "Mateus Fernandes"
+        "#ABFBlockAndChill"
       ],
       "hashtags": [
         "#skel",
         "#TOTNEW",
         "#ABFBlockAndChill",
         "#hoodmaths",
-        "#AvivHairDripCoat"
+        "#YouManiacSeriesEP1"
       ],
       "regular_topics": [
         "Tottenham",
+        "Gakpo",
+        "Lyon",
         "De Zerbi",
-        "Rain",
+        "Juventus",
+        "Ademola Lookman",
+        "Tram and Nomy",
         "Tonali",
         "Elanga",
-        "Liverpool",
-        "Mateus Fernandes",
-        "Wissa",
-        "Marmoush",
-        "Mathys Tel",
-        "Leverkusen"
+        "Dimarco",
+        "Sevilla"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
