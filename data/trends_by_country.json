@@ -1,107 +1,107 @@
 {
-  "generated_at_utc": "2026-08-31T03:22:54.698093+00:00",
+  "generated_at_utc": "2026-08-31T09:56:04.535134+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Aug 31 2026 03:04:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 31 2026 09:30:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Lanterns",
-        "#RHUGT",
-        "Shota",
+        "Good Monday",
+        "GemRadar",
         "John Stewart",
+        "Kharg Island",
+        "Hal Jordan",
         "Djokovic",
-        "Rams",
-        "Gizelle",
-        "#90DayFiance",
-        "Trey Gowdy",
-        "Votto",
-        "Kharg Island"
+        "Venus Williams",
+        "#mcrsandiego",
+        "Gema",
+        "KOLs"
       ],
       "hashtags": [
         "#Lanterns",
-        "#RHUGT",
-        "#90DayFiance",
-        "#BaddiesUSA",
-        "#DICEGOAT"
+        "#mcrsandiego",
+        "#USOpen",
+        "#mcrsd",
+        "#RHUGT"
       ],
       "regular_topics": [
-        "Shota",
+        "Good Monday",
+        "GemRadar",
         "John Stewart",
-        "Djokovic",
-        "Rams",
-        "Gizelle",
-        "Trey Gowdy",
-        "Votto",
         "Kharg Island",
+        "Hal Jordan",
+        "Djokovic",
+        "Venus Williams",
+        "Gema",
+        "KOLs",
         "Navone",
-        "Aaron Donald",
-        "Nene"
+        "Miku"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Aug 31 2026 02:39:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 31 2026 09:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#AEWAllIn",
         "Iceland",
         "Ndiaye",
+        "Bank Holiday Monday",
         "Ipswich",
         "Richarlison",
+        "Larry Grayson",
         "Mainoo",
-        "#MUNIPS",
-        "Hrgovic",
-        "Sarr",
-        "Luke Shaw",
-        "Armstrong"
+        "Wordle 1,899 X",
+        "Lake Ontario",
+        "#MUNIPS"
       ],
       "hashtags": [
         "#AEWAllIn",
         "#MUNIPS",
-        "#MUFC",
-        "#CHEBHA",
-        "#Lanterns"
+        "#ASongOrMovieForConsidering",
+        "#Unfurl",
+        "#CHEBHA"
       ],
       "regular_topics": [
         "Iceland",
         "Ndiaye",
+        "Bank Holiday Monday",
         "Ipswich",
         "Richarlison",
+        "Larry Grayson",
         "Mainoo",
-        "Hrgovic",
+        "Wordle 1,899 X",
+        "Lake Ontario",
         "Sarr",
-        "Luke Shaw",
-        "Armstrong",
-        "Everton",
-        "Rashford"
+        "Hrgovic"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Aug 31 2026 02:31:02 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 31 2026 09:48:09 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Lake Ontario",
         "Google",
         "#AEWAllIn",
         "Venezuela",
-        "#DICEGOAT",
         "Max Scherzer",
-        "#Lanterns",
-        "#90DayFiance",
+        "#DICEGOAT",
         "Iceland",
-        "Nike",
-        "Ipswich"
+        "#Lanterns",
+        "Mainoo",
+        "#NXTHeatwave",
+        "Apple Maps"
       ],
       "hashtags": [
         "#AEWAllIn",
         "#DICEGOAT",
         "#Lanterns",
-        "#90DayFiance",
-        "#NXTHeatwave"
+        "#NXTHeatwave",
+        "#LionSunRise"
       ],
       "regular_topics": [
         "Lake Ontario",
@@ -109,87 +109,88 @@
         "Venezuela",
         "Max Scherzer",
         "Iceland",
-        "Nike",
-        "Ipswich",
         "Mainoo",
         "Apple Maps",
-        "Mad Max",
-        "Redblacks"
+        "Nike",
+        "Hydro One",
+        "Ipswich",
+        "Mad Max"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Aug 31 2026 02:27:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 31 2026 09:42:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#GodMorningMonday",
-        "#DICEGOAT",
-        "#5DayWeekandFairPLI",
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "#BiharTeachersNeed7thPay",
-        "#AIBOC",
+        "#CBNfulfillsVeligondaDream",
+        "#FYERSAutomate",
         "Subhash Chandra",
-        "\u092a\u094d\u0930\u0923\u092c \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "Jordan",
-        "\u0936\u093f\u0935 \u0936\u0902\u0915\u0930",
-        "Uzbekistan"
+        "#winViratV1Pro",
+        "#LavaViratV1Pro",
+        "#ToolkitAgainstGadkari",
+        "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+        "\u0932\u093e\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u092f\u093e\u0926\u0935",
+        "B. IP64",
+        "\u092a\u0930\u0940 \u091a\u094c\u0915",
+        "INS Nipun"
       ],
       "hashtags": [
-        "#GodMorningMonday",
-        "#DICEGOAT",
-        "#5DayWeekandFairPLI",
-        "#BiharTeachersNeed7thPay",
-        "#AIBOC"
+        "#CBNfulfillsVeligondaDream",
+        "#FYERSAutomate",
+        "#winViratV1Pro",
+        "#LavaViratV1Pro",
+        "#ToolkitAgainstGadkari"
       ],
       "regular_topics": [
-        "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
         "Subhash Chandra",
-        "\u092a\u094d\u0930\u0923\u092c \u092e\u0941\u0916\u0930\u094d\u091c\u0940",
-        "Jordan",
-        "\u0936\u093f\u0935 \u0936\u0902\u0915\u0930",
-        "Uzbekistan",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935",
-        "MANIAC OPENING NITE",
-        "paras bhai ji",
-        "Larak Island",
-        "Har Har Mahadev"
+        "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+        "\u0932\u093e\u0932 \u092c\u093f\u0939\u093e\u0930\u0940 \u092f\u093e\u0926\u0935",
+        "B. IP64",
+        "\u092a\u0930\u0940 \u091a\u094c\u0915",
+        "INS Nipun",
+        "A. 128GB",
+        "A. 6000mAh",
+        "BRING BACK RIYAA",
+        "Bishkek",
+        "B. Android 16"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Aug 31 2026 02:24:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Aug 31 2026 09:40:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#DICEGOAT",
-        "Stake ID",
-        "Flora",
-        "Aikou",
-        "Original Brokers",
-        "Nomy",
-        "Sportybet",
+        "Happy New Week",
         "Old Messi",
         "Young Messi",
-        "$CHAIR",
-        "Beto"
+        "#MondayMotivation",
+        "IT HAS ENDED IN PRAISE",
+        "Mikael Baza",
+        "Tacha",
+        "May September",
+        "Another Monday",
+        "Villa Park",
+        "Abuja City Gate"
       ],
       "hashtags": [
+        "#MondayMotivation",
         "#DICEGOAT",
-        "#RealMadridM\u00e1laga"
+        "#Lanterns"
       ],
       "regular_topics": [
-        "Stake ID",
-        "Flora",
-        "Aikou",
-        "Original Brokers",
-        "Nomy",
-        "Sportybet",
+        "Happy New Week",
         "Old Messi",
         "Young Messi",
-        "$CHAIR",
-        "Beto",
-        "Mavo"
+        "IT HAS ENDED IN PRAISE",
+        "Mikael Baza",
+        "Tacha",
+        "May September",
+        "Another Monday",
+        "Villa Park",
+        "Abuja City Gate",
+        "Today is Monday"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
