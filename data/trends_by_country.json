@@ -1,194 +1,199 @@
 {
-  "generated_at_utc": "2026-09-01T21:28:12.462471+00:00",
+  "generated_at_utc": "2026-09-01T23:26:59.143285+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Sep 01 2026 20:27:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 01 2026 23:09:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Angels",
+        "Monaco",
+        "Mickey Gasper",
         "Fable 5.1",
-        "Stan Kroenke",
+        "Angels",
+        "Enzo",
+        "Camara",
         "Arte Moreno",
-        "Bank of America",
-        "Franklin Richards",
-        "Somalian",
-        "Clancy",
-        "Beyonder",
-        "Coachella",
-        "Enzo"
+        "Stan Kroenke",
+        "Thune",
+        "Balogun",
+        "Koivun"
       ],
       "hashtags": [
-        "#RepTheHalo",
-        "#arsd"
+        "#WorldCowDay"
       ],
       "regular_topics": [
-        "Angels",
+        "Monaco",
+        "Mickey Gasper",
         "Fable 5.1",
-        "Stan Kroenke",
+        "Angels",
+        "Enzo",
+        "Camara",
         "Arte Moreno",
-        "Bank of America",
-        "Franklin Richards",
-        "Somalian",
-        "Clancy",
-        "Beyonder",
-        "Coachella",
-        "Enzo"
+        "Stan Kroenke",
+        "Thune",
+        "Balogun",
+        "Koivun"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Sep 01 2026 20:56:10 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 01 2026 22:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zirkzee",
+        "Monaco",
+        "Camara",
         "Balogun",
-        "Toti",
+        "Zirkzee",
+        "Enzo",
         "#ncfc",
+        "#bcfc",
+        "Toti",
+        "#pnefc",
         "#bwfc",
-        "#wwfc",
-        "#pafc",
-        "Everton",
-        "#oafc",
-        "Beto",
-        "Monaco"
+        "Barron"
       ],
       "hashtags": [
         "#ncfc",
+        "#bcfc",
+        "#pnefc",
         "#bwfc",
-        "#wwfc",
-        "#pafc",
-        "#oafc"
+        "#swfc"
       ],
       "regular_topics": [
-        "Zirkzee",
-        "Balogun",
-        "Toti",
-        "Everton",
-        "Beto",
         "Monaco",
         "Camara",
+        "Balogun",
+        "Zirkzee",
         "Enzo",
-        "Pablo",
-        "Mukasa",
-        "INEOS"
+        "Toti",
+        "Barron",
+        "INEOS",
+        "Lavia",
+        "Wilcox",
+        "Donovan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Sep 01 2026 20:48:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 01 2026 22:36:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Cadets",
         "Hegseth",
+        "Monaco",
+        "Cadets",
         "Lake Ontario",
-        "Chicoutimi",
         "#momsonn",
+        "Chicoutimi",
         "Dominic Barton",
-        "#loveislandusa",
-        "Fable 5.1",
         "#teenageer",
-        "Melanie",
-        "Kayda"
+        "Fable 5.1",
+        "Camara",
+        "#loveislandusa"
       ],
       "hashtags": [
         "#momsonn",
-        "#loveislandusa",
         "#teenageer",
+        "#loveislandusa",
         "#loveislandreunion"
       ],
       "regular_topics": [
-        "Cadets",
         "Hegseth",
+        "Monaco",
+        "Cadets",
         "Lake Ontario",
         "Chicoutimi",
         "Dominic Barton",
         "Fable 5.1",
+        "Camara",
+        "Enzo",
         "Melanie",
-        "Kayda",
-        "Lake America",
-        "Bessent",
-        "jungkook"
+        "Chelsea"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Sep 01 2026 20:40:03 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 01 2026 22:30:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDJanaSenaniPawanKalyan",
         "Fable 5.1",
         "#HBDKicchaSudeep",
+        "Monaco",
         "Jauhar",
+        "Balogun",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_Vs_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
-        "#FindTonish",
-        "#AnuragKumarSaveTonish",
+        "Everton",
         "Swara",
-        "Power Star",
-        "Happy Birthday Anna",
-        "Apple"
+        "Enzo",
+        "Lamine Camara"
       ],
       "hashtags": [
         "#HBDJanaSenaniPawanKalyan",
         "#HBDKicchaSudeep",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_Vs_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
         "#FindTonish",
-        "#AnuragKumarSaveTonish"
+        "#TonishIsKidnapped",
+        "#AnuragKumarSaveTonish",
+        "#YSRLivesOn",
+        "#6YearsOfBNBChain",
+        "#SidharthShukla",
+        "#YSRVardanthi",
+        "#JoharYSR"
       ],
       "regular_topics": [
         "Fable 5.1",
+        "Monaco",
         "Jauhar",
-        "Swara",
-        "Power Star",
-        "Happy Birthday Anna",
-        "Apple",
-        "\u0938\u094d\u0935\u0930\u093e \u092d\u093e\u0938\u094d\u0915\u0930",
-        "Enzo",
         "Balogun",
-        "Halala",
-        "\u0917\u0902\u0917\u093e \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947"
+        "Everton",
+        "Swara",
+        "Enzo",
+        "Lamine Camara",
+        "Happy Birthday Anna",
+        "Power Star",
+        "Apple"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Sep 01 2026 20:39:24 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 01 2026 22:28:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Enzo",
-        "Lamine Camara",
-        "#OsbornUmahi",
-        "#jawwar2026",
-        "Henderson",
-        "#OPayIsOkay",
         "Monaco",
-        "Lavia",
-        "Balogun",
-        "INEOS",
-        "BlueCo"
-      ],
-      "hashtags": [
-        "#OsbornUmahi",
-        "#jawwar2026",
-        "#OPayIsOkay",
-        "#SmirnoffXBBN26",
-        "#6YearsOfBNBChain"
-      ],
-      "regular_topics": [
         "Enzo",
-        "Lamine Camara",
-        "Henderson",
-        "Monaco",
-        "Lavia",
+        "Camara",
         "Balogun",
+        "Everton",
         "INEOS",
         "BlueCo",
-        "Caicedo",
-        "Mount",
-        "Everton"
+        "#jawwar2026",
+        "Zirkzee",
+        "Bakayoko",
+        "#OPayIsOkay"
+      ],
+      "hashtags": [
+        "#jawwar2026",
+        "#OPayIsOkay",
+        "#OsbornUmahi",
+        "#DeadlineDay",
+        "#SmirnoffXBBN26"
+      ],
+      "regular_topics": [
+        "Monaco",
+        "Enzo",
+        "Camara",
+        "Balogun",
+        "Everton",
+        "INEOS",
+        "BlueCo",
+        "Zirkzee",
+        "Bakayoko",
+        "Norwich",
+        "Henderson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
