@@ -1,195 +1,194 @@
 {
-  "generated_at_utc": "2026-09-02T23:24:35.638502+00:00",
+  "generated_at_utc": "2026-09-03T01:14:07.704522+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Sep 02 2026 22:51:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 03 2026 00:33:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clippers",
+        "#AEWDynamite",
         "Kawhi",
+        "Minneapolis",
         "Pablo",
         "Ballmer",
+        "Uncle Dennis",
         "#TwinDEX",
         "Adam Silver",
-        "Uncle Dennis",
-        "Raptors",
-        "The NBA",
-        "Juneteenth",
-        "Tillis"
+        "Tillis",
+        "Juneteenth"
       ],
       "hashtags": [
+        "#AEWDynamite",
         "#TwinDEX",
-        "#GalaxyZFold",
-        "#BTS_WORLDTOUR_ARIRANG",
-        "#TRUSTMEPP"
+        "#GalaxyZFold"
       ],
       "regular_topics": [
         "Clippers",
         "Kawhi",
+        "Minneapolis",
         "Pablo",
         "Ballmer",
-        "Adam Silver",
         "Uncle Dennis",
-        "Raptors",
-        "The NBA",
-        "Juneteenth",
+        "Adam Silver",
         "Tillis",
-        "Paul George"
+        "Juneteenth",
+        "So Anxious",
+        "Gabe Kidd"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Sep 02 2026 22:24:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 03 2026 01:00:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Clippers",
-        "Falkirk",
+        "#AEWDynamite",
+        "$CHUMP",
+        "#Martians",
+        "Monaco",
+        "#PMQs",
+        "Thatcher",
+        "Starmer",
+        "Balogun",
         "Malanda",
-        "#readingfc",
-        "Fernandez",
-        "Shankland",
-        "Kawhi",
-        "Devlin",
-        "McCrorie",
-        "Duran",
-        "Makhanya"
+        "Chelsea",
+        "#readingfc"
       ],
       "hashtags": [
+        "#AEWDynamite",
+        "#Martians",
+        "#PMQs",
         "#readingfc",
-        "#twitterclarets",
-        "#wafc",
-        "#Boro",
-        "#Millwall"
+        "#wafc"
       ],
       "regular_topics": [
-        "Clippers",
-        "Falkirk",
+        "$CHUMP",
+        "Monaco",
+        "Thatcher",
+        "Starmer",
+        "Balogun",
         "Malanda",
-        "Fernandez",
-        "Shankland",
-        "Kawhi",
-        "Devlin",
-        "McCrorie",
-        "Duran",
-        "Makhanya",
-        "Leon"
+        "Chelsea",
+        "Gabe Kidd",
+        "Raskin",
+        "Clippers",
+        "Falkirk"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Sep 02 2026 23:09:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 03 2026 00:52:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clippers",
         "Kawhi",
         "#onstorm",
-        "Pablo",
-        "Uncle Dennis",
+        "Vladdy",
+        "Raptors",
+        "#AEWDynamite",
+        "Josh Smith",
         "Hegseth",
-        "Ballmer",
-        "Cadets",
-        "Adam Silver",
-        "#TRUSTMEPP",
-        "Bessent"
+        "Uncle Dennis",
+        "#BlueJays50",
+        "#PLAKATA"
       ],
       "hashtags": [
         "#onstorm",
-        "#TRUSTMEPP",
-        "#onwx",
-        "#momsonn",
-        "#teenageer"
+        "#AEWDynamite",
+        "#BlueJays50",
+        "#PLAKATA",
+        "#onwx"
       ],
       "regular_topics": [
         "Clippers",
         "Kawhi",
-        "Pablo",
-        "Uncle Dennis",
+        "Vladdy",
+        "Raptors",
+        "Josh Smith",
         "Hegseth",
-        "Ballmer",
+        "Uncle Dennis",
         "Cadets",
-        "Adam Silver",
         "Bessent",
-        "Fable 5.1",
-        "Raps"
+        "Ballmer",
+        "Pablo Torre"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Sep 02 2026 23:03:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 03 2026 00:45:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HBDJanaSenaniPawanKalyan",
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "#GodMorningThursday",
         "#vivoT5",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_Vs_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
-        "#TRUSTMEPP",
         "#deepajewellersipolive",
+        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
         "Jauhar",
+        "subhash chandra",
         "\u0938\u094d\u0935\u0930\u093e \u092d\u093e\u0938\u094d\u0915\u0930",
-        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u091f\u094d\u0930\u0938\u094d\u091f",
-        "Subhash Chandra",
-        "7.8% GDP",
-        "4.36 cr"
+        "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u091f\u094d\u0930\u0938\u094d\u091f"
       ],
       "hashtags": [
         "#HBDJanaSenaniPawanKalyan",
+        "#GodMorningThursday",
         "#vivoT5",
         "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_Vs_\u092e\u0939\u0930\u094d\u0937\u093f\u0926\u092f\u093e\u0928\u0902\u0926",
-        "#TRUSTMEPP",
         "#deepajewellersipolive"
       ],
       "regular_topics": [
+        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f \u0935\u093f\u0937\u094d\u0923\u0941",
+        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
         "Jauhar",
+        "subhash chandra",
         "\u0938\u094d\u0935\u0930\u093e \u092d\u093e\u0938\u094d\u0915\u0930",
         "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u091f\u094d\u0930\u0938\u094d\u091f",
-        "Subhash Chandra",
         "7.8% GDP",
+        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
+        "\u0936\u094d\u0930\u0940 \u0935\u093f\u0937\u094d\u0923\u0941",
         "4.36 cr",
-        "\u090f\u092f\u0930 \u092e\u093e\u0930\u094d\u0936\u0932 \u091c\u093f\u0924\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
-        "Fable 5.1",
-        "77.55 cr",
-        "$CHUMP",
-        "268.41% yoy"
+        "77.55 cr"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Sep 02 2026 23:00:50 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 03 2026 00:44:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TRUSTMEPP",
         "Erigga",
+        "#TRUSTMEPP",
         "Uber",
-        "Erriga",
+        "GOAT DEBATE SETTLED",
         "$COIN",
-        "GOAT DEBATE",
-        "Bolt",
+        "Imisi",
         "Kawhi",
         "Clippers",
-        "Stake ID",
-        "Thun"
+        "Bolt",
+        "Kola",
+        "Tipped"
       ],
       "hashtags": [
         "#TRUSTMEPP",
-        "#Goka",
-        "#PalmPayIsAlwaysOn"
+        "#875ticketsale",
+        "#Goka"
       ],
       "regular_topics": [
         "Erigga",
         "Uber",
-        "Erriga",
+        "GOAT DEBATE SETTLED",
         "$COIN",
-        "GOAT DEBATE",
-        "Bolt",
+        "Imisi",
         "Kawhi",
         "Clippers",
-        "Stake ID",
-        "Thun",
-        "PAOK"
+        "Bolt",
+        "Kola",
+        "Tipped",
+        "Luka Modri\u0107"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
