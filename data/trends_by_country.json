@@ -1,204 +1,200 @@
 {
-  "generated_at_utc": "2026-09-05T04:43:55.823288+00:00",
+  "generated_at_utc": "2026-09-05T08:40:29.489783+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Sep 05 2026 04:18:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 07:44:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Cudi",
         "Malachi Toney",
         "Stanford",
-        "Toledo",
-        "#SmackDown",
+        "Kanye",
         "Andy Ruiz",
-        "Venus",
-        "Heisman",
-        "Miami",
-        "Michigan State",
+        "Lupe",
         "Doug Eddings",
-        "UTEP"
+        "Boots",
+        "Miami",
+        "Fresno State",
+        "Heisman"
       ],
       "hashtags": [
-        "#SmackDown",
         "#Scalability",
-        "#FightOn",
         "#CloudNative",
-        "#GoCanes"
+        "#SmackDown",
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\u0e15\u0e2d\u0e19\u0e08\u0e1a",
+        "#SystemDesign"
       ],
       "regular_topics": [
+        "Cudi",
         "Malachi Toney",
         "Stanford",
-        "Toledo",
+        "Kanye",
         "Andy Ruiz",
-        "Venus",
-        "Heisman",
-        "Miami",
-        "Michigan State",
+        "Lupe",
         "Doug Eddings",
-        "UTEP",
-        "Mason Miller"
+        "Boots",
+        "Miami",
+        "Fresno State",
+        "Heisman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Sep 05 2026 03:51:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 08:09:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Argentina",
         "Reform",
         "Falklands",
+        "MATCH DAY",
         "Channel 4",
         "Isak",
+        "#Caturday",
+        "#PostboxSaturday",
+        "Dover",
         "#IPSLIV",
-        "#SmackDown",
-        "Richard O'Sullivan",
-        "Ipswich",
-        "#TOTP",
-        "Astra"
+        "Johnny Briggs"
       ],
       "hashtags": [
+        "#Caturday",
+        "#PostboxSaturday",
         "#IPSLIV",
-        "#SmackDown",
-        "#TOTP",
-        "#RuizKnyba",
-        "#burndownthedisco"
+        "#\u9152\u5e97\u60c5\u4fa3",
+        "#CoupleSex"
       ],
       "regular_topics": [
         "Argentina",
         "Reform",
         "Falklands",
+        "MATCH DAY",
         "Channel 4",
         "Isak",
-        "Richard O'Sullivan",
-        "Ipswich",
-        "Astra",
+        "Dover",
+        "Johnny Briggs",
         "Labour",
-        "Milei",
-        "Araujo"
+        "Astra",
+        "Ipswich"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Sep 05 2026 03:44:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 08:03:21 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Astra",
-        "Tigers",
         "Lindsay Clancy",
-        "Sean Keys",
-        "#SmackDown",
-        "Labour Day",
         "Buium",
-        "Malachi Toney",
+        "Labour Day",
         "Putin",
-        "Serena",
-        "Lorenzen"
+        "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\u0e15\u0e2d\u0e19\u0e08\u0e1a",
+        "LINGORM ILF FINAL EP",
+        "Via Rail",
+        "Betis",
+        "Falklands",
+        "Cudi"
       ],
       "hashtags": [
-        "#SmackDown",
-        "#BlueJays50",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\u0e15\u0e2d\u0e19\u0e08\u0e1a",
         "#PYPD_IN_JAPAN",
-        "#Canucks"
+        "#SmackDown",
+        "#Canucks",
+        "#fursuitfriday"
       ],
       "regular_topics": [
         "Astra",
-        "Tigers",
         "Lindsay Clancy",
-        "Sean Keys",
-        "Labour Day",
         "Buium",
-        "Malachi Toney",
+        "Labour Day",
         "Putin",
-        "Serena",
-        "Lorenzen",
-        "Via Rail"
+        "LINGORM ILF FINAL EP",
+        "Via Rail",
+        "Betis",
+        "Falklands",
+        "Cudi",
+        "Espi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Sep 05 2026 04:30:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 07:56:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#TeachersDay",
+        "#ToyotaDealersFakePromises",
+        "#WorstToyotaExperience",
         "\u0938\u0930\u094d\u0935\u092a\u0932\u094d\u0932\u0940 \u0930\u093e\u0927\u093e\u0915\u0943\u0937\u094d\u0923\u0928",
-        "#\u0936\u093f\u0915\u094d\u0937\u0915_\u0926\u093f\u0935\u0938",
+        "#IntlDayAgainstChildMarriage",
+        "#HBDPorfRakeshSinha",
+        "Sameer Shaikh",
         "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "#GodMorningSaturday",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "\u0907\u0915\u0930\u093e \u0939\u0938\u0928",
         "Dr. Sarvepalli Radhakrishnan",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
-        "\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0936\u093f\u0915\u094d\u0937\u0915",
-        "ABHI"
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0936\u093f\u0915\u094d\u0937\u0915 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930"
       ],
       "hashtags": [
         "#TeachersDay",
+        "#ToyotaDealersFakePromises",
+        "#WorstToyotaExperience",
+        "#IntlDayAgainstChildMarriage",
+        "#HBDPorfRakeshSinha",
         "#\u0936\u093f\u0915\u094d\u0937\u0915_\u0926\u093f\u0935\u0938",
-        "#GodMorningSaturday",
-        "#Gratitude",
-        "#DrRadhakrishnan",
-        "#Mentorship",
-        "#KNNehru",
-        "#MotherTeresa",
-        "#Soori",
-        "#Mandadi",
-        "#Thrissur"
+        "#RunUdhayRun"
       ],
       "regular_topics": [
         "\u0938\u0930\u094d\u0935\u092a\u0932\u094d\u0932\u0940 \u0930\u093e\u0927\u093e\u0915\u0943\u0937\u094d\u0923\u0928",
+        "Sameer Shaikh",
         "\u092a\u0942\u0930\u094d\u0935 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "\u0936\u0928\u093f \u0926\u0947\u0935",
+        "\u0907\u0915\u0930\u093e \u0939\u0938\u0928",
         "Dr. Sarvepalli Radhakrishnan",
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0936\u093f\u0915\u094d\u0937\u0915 \u092a\u0941\u0930\u0938\u094d\u0915\u093e\u0930",
+        "\u092a\u0941\u0930\u093e\u0928\u0940 \u092e\u0938\u094d\u091c\u093f\u0926",
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923",
-        "\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
-        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0936\u093f\u0915\u094d\u0937\u0915",
-        "ABHI",
-        "\u092e\u0926\u0930 \u091f\u0947\u0930\u0947\u0938\u093e",
-        "President of India",
-        "Guru"
+        "\u0939\u093e\u091c\u0940 \u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u0909\u0938\u094d\u092e\u093e\u0928",
+        "\u0938\u0930\u094d\u0915\u093f\u091f \u0939\u093e\u0909\u0938",
+        "\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Sep 05 2026 04:27:51 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 07:54:35 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Betis",
         "Mbappe",
+        "#ByAnyMeansNGA",
         "Isak",
-        "Erigga",
-        "Davido",
-        "Espi",
-        "Mourinho",
         "#skel",
         "Rufai",
-        "#IPSLIV",
-        "Slovido"
+        "Mourinho",
+        "Amen",
+        "Erigga",
+        "Espi",
+        "Davido"
       ],
       "hashtags": [
+        "#ByAnyMeansNGA",
         "#skel",
         "#IPSLIV",
         "#FREEPP",
-        "#BETRMA",
-        "#playbugagames"
+        "#kudiwavepalmpay"
       ],
       "regular_topics": [
         "Betis",
         "Mbappe",
         "Isak",
-        "Erigga",
-        "Davido",
-        "Espi",
-        "Mourinho",
         "Rufai",
-        "Slovido",
-        "FomoPluse Sniper",
-        "Odumodu"
+        "Mourinho",
+        "Amen",
+        "Erigga",
+        "Espi",
+        "Davido",
+        "Lere",
+        "Slovido"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
