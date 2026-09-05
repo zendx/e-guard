@@ -1,198 +1,204 @@
 {
-  "generated_at_utc": "2026-09-05T21:24:07.156547+00:00",
+  "generated_at_utc": "2026-09-05T23:01:54.881311+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Sep 05 2026 20:39:42 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 22:21:40 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "DJ Lagway",
-        "#UFCParis",
-        "Legend Bey",
         "Oregon",
         "Boise State",
-        "Baylor",
         "Auburn",
-        "Jeremiah Smith",
-        "#ElonIsAMartian",
-        "Ryan Williams",
-        "#UFC332"
+        "#UFCParis",
+        "DJ Lagway",
+        "Dante Moore",
+        "Dan Hooker",
+        "Oklahoma State",
+        "Koby Howard",
+        "Dan Lanning",
+        "Cam Coleman"
       ],
       "hashtags": [
         "#UFCParis",
-        "#ElonIsAMartian",
-        "#UFC332",
         "#HookEm",
-        "#Quant"
+        "#Quant",
+        "#FinancialAlchemy",
+        "#Wealth"
       ],
       "regular_topics": [
-        "DJ Lagway",
-        "Legend Bey",
         "Oregon",
         "Boise State",
-        "Baylor",
         "Auburn",
-        "Jeremiah Smith",
-        "Ryan Williams",
+        "DJ Lagway",
+        "Dante Moore",
+        "Dan Hooker",
+        "Oklahoma State",
+        "Koby Howard",
+        "Dan Lanning",
         "Cam Coleman",
-        "Ball State",
-        "Koby Howard"
+        "Tulsa"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Sep 05 2026 21:04:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 22:48:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#TaylorPili",
-        "#Casualty",
-        "Carty",
         "Katie Taylor",
-        "#TheBox",
-        "#ElonIsAMartian",
+        "#TaylorPili",
         "#UFCParis",
+        "Croke Park",
+        "#Casualty",
         "St Mirren",
-        "Scales",
         "Dover",
-        "Westlife"
+        "Dan Hooker",
+        "Carty",
+        "Scales",
+        "#TheBox"
       ],
       "hashtags": [
         "#TaylorPili",
+        "#UFCParis",
         "#Casualty",
         "#TheBox",
-        "#ElonIsAMartian",
-        "#UFCParis"
+        "#MOTD"
       ],
       "regular_topics": [
-        "Carty",
         "Katie Taylor",
-        "St Mirren",
-        "Scales",
-        "Dover",
-        "Westlife",
-        "$CHUMP",
         "Croke Park",
-        "Russell Martin",
-        "Wigan",
-        "Antifa"
+        "St Mirren",
+        "Dover",
+        "Dan Hooker",
+        "Carty",
+        "Scales",
+        "Antifa",
+        "Hassan",
+        "Tounekti",
+        "Wigan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Sep 05 2026 20:57:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 22:40:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#UFCParis",
         "Astra",
-        "Lindsay Clancy",
-        "Keita",
+        "Salahdine Parnasse",
         "Putin",
+        "Lindsay Clancy",
         "Nanos",
-        "#UFC332",
+        "Axel Sola",
+        "Dan Hooker",
+        "Ziam",
         "Witkoff",
-        "Buium",
-        "#Caturday",
-        "Labour Day"
+        "Buium"
       ],
       "hashtags": [
         "#UFCParis",
-        "#UFC332",
         "#Caturday",
         "#\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\u0e15\u0e2d\u0e19\u0e08\u0e1a",
-        "#YouManiacSeriesEP2"
+        "#YouManiacSeriesEP2",
+        "#MrFanboyEP2"
       ],
       "regular_topics": [
         "Astra",
-        "Lindsay Clancy",
-        "Keita",
+        "Salahdine Parnasse",
         "Putin",
+        "Lindsay Clancy",
         "Nanos",
+        "Axel Sola",
+        "Dan Hooker",
+        "Ziam",
         "Witkoff",
         "Buium",
-        "Labour Day",
-        "LINGORM ILF FINAL EP",
-        "Jeremiah Smith",
-        "Lima"
+        "Labour Day"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Sep 05 2026 20:51:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 22:33:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#YouManiacSeriesEP2",
         "FARHANA SETS KKK15 ABLAZE",
         "\u0926\u093f\u0928\u0947\u0936 \u0936\u0930\u094d\u092e\u093e",
-        "#INDvsPAK",
-        "#PMModiAtSRCC",
-        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
+        "#UFCParis",
         "\u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
-        "Sa News YouTube Channel",
-        "#MrFanboyEP2",
+        "#INDvsPAK",
+        "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
+        "#PMModiAtSRCC",
         "Dean",
-        "VOTE FOR TEAM ELVISH IN PG"
+        "Sa News YouTube Channel",
+        "MR FANBOY CHAPTER 2"
       ],
       "hashtags": [
         "#YouManiacSeriesEP2",
+        "#UFCParis",
         "#INDvsPAK",
-        "#PMModiAtSRCC",
         "#\u091c\u0917\u0924_\u0909\u0926\u094d\u0927\u093e\u0930\u0915_\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940",
-        "#MrFanboyEP2"
+        "#PMModiAtSRCC",
+        "#MrFanboyEP2",
+        "#BoycottHYBE_RespectOurSevEN",
+        "#Heeseung_Our_Resilient_Light",
+        "#WomensAsiaCup",
+        "#KyaKiyaHaiAsharamjiBapuNe",
+        "#BiggBossTamil10"
       ],
       "regular_topics": [
         "FARHANA SETS KKK15 ABLAZE",
         "\u0926\u093f\u0928\u0947\u0936 \u0936\u0930\u094d\u092e\u093e",
         "\u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
-        "Sa News YouTube Channel",
         "Dean",
-        "VOTE FOR TEAM ELVISH IN PG",
+        "Sa News YouTube Channel",
         "MR FANBOY CHAPTER 2",
-        "\u0938\u091a\u093f\u0928 \u092a\u093e\u092f\u0932\u091f",
         "\u0905\u0902\u0921\u092e\u093e\u0928 \u0928\u093f\u0915\u094b\u092c\u093e\u0930",
-        "\u092a\u0902\u091c\u093e\u092c \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
-        "ENGENE HONORS EVERY BATTLE"
+        "ENGENE HONORS EVERY BATTLE",
+        "\u0938\u091a\u093f\u0928 \u092a\u093e\u092f\u0932\u091f",
+        "Basic",
+        "\u0917\u0941\u091c\u0930\u093e\u0924 \u092a\u0941\u0932\u093f\u0938"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Sep 05 2026 20:48:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 05 2026 22:32:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bayern",
         "Ahmed",
         "Habby",
+        "Aubameyang",
         "Tiny",
-        "#BBNaijaXSmirnoff",
-        "Al Nassr",
+        "Dj Neptune",
         "Pete Edochie",
-        "Merlin",
+        "#BBNaijaXSmirnoff",
         "$RAIN",
         "Thailand",
-        "Dj Neptune"
+        "Al Nassr"
       ],
       "hashtags": [
         "#BBNaijaXSmirnoff",
-        "#skel",
-        "#MissWorld2026",
+        "#bbnnaija2026",
         "#jawwar2026",
-        "#YouManiacSeriesEP2"
+        "#UFCParis",
+        "#hookedonthefaminus"
       ],
       "regular_topics": [
         "Bayern",
         "Ahmed",
         "Habby",
+        "Aubameyang",
         "Tiny",
-        "Al Nassr",
+        "Dj Neptune",
         "Pete Edochie",
-        "Merlin",
         "$RAIN",
         "Thailand",
-        "Dj Neptune",
-        "Coventry"
+        "Al Nassr",
+        "Merlin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
