@@ -1,64 +1,65 @@
 {
-  "generated_at_utc": "2026-09-06T22:57:40.330385+00:00",
+  "generated_at_utc": "2026-09-07T00:36:42.789247+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Sep 06 2026 22:27:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 07 2026 00:09:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#SNME",
+        "Wisconsin",
+        "Ciara",
         "New America",
         "Washington",
+        "Louisville",
+        "Big Foe",
+        "McDowell",
         "Germany",
         "New Mexico",
-        "Miami International Airport",
-        "Gerrit Cole",
-        "Team USA",
-        "Italy",
-        "Demond Williams",
-        "Space Force",
-        "Apple Cup"
+        "Amy Acton"
       ],
       "hashtags": [
-        "#NASCAR",
         "#SNME",
-        "#Southern500"
+        "#BadBoysCancun",
+        "#BaddiesUSA",
+        "#NASCAR",
+        "#GoIrish"
       ],
       "regular_topics": [
+        "Wisconsin",
+        "Ciara",
         "New America",
         "Washington",
+        "Louisville",
+        "Big Foe",
+        "McDowell",
         "Germany",
         "New Mexico",
-        "Miami International Airport",
-        "Gerrit Cole",
-        "Team USA",
-        "Italy",
-        "Demond Williams",
-        "Space Force",
-        "Apple Cup"
+        "Amy Acton",
+        "Demond Williams"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Sep 06 2026 22:00:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 06 2026 23:42:52 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Portsmouth",
         "RNLI",
         "Germany",
         "Arsenal",
-        "Rogers",
-        "Gabriel",
         "Danny Tommo",
+        "Patriots",
+        "Rogers",
+        "Tiafoe",
+        "Gabriel",
         "Palmer",
-        "Eastney",
-        "Rice",
-        "#24hoursinpolicecustody"
+        "Rice"
       ],
       "hashtags": [
         "#24hoursinpolicecustody",
         "#PatriotPlatform",
-        "#fruits",
         "#StopTheBoats",
         "#wildflowerhour"
       ],
@@ -67,134 +68,128 @@
         "RNLI",
         "Germany",
         "Arsenal",
-        "Rogers",
-        "Gabriel",
         "Danny Tommo",
+        "Patriots",
+        "Rogers",
+        "Tiafoe",
+        "Gabriel",
         "Palmer",
-        "Eastney",
-        "Rice",
-        "Patriots"
+        "Rice"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Sep 06 2026 21:52:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 06 2026 23:36:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Arsenal",
-        "Sanchez",
-        "Arrighetti",
-        "Kushner",
         "Germany",
+        "Arrighetti",
+        "Arsenal",
+        "Kushner",
         "Putin",
+        "#odpanama",
+        "Sanchez",
         "Western Michigan",
         "Astra",
-        "GEAT",
         "Everton",
-        "New America"
+        "Dorgu"
       ],
       "hashtags": [
+        "#odpanama",
         "#martinhighvelocity",
-        "#ItalianGP",
         "#UFCParis",
-        "#momsonn",
-        "#COYG"
+        "#ItalianGP",
+        "#EVEMUN"
       ],
       "regular_topics": [
-        "Arsenal",
-        "Sanchez",
-        "Arrighetti",
-        "Kushner",
         "Germany",
+        "Arrighetti",
+        "Arsenal",
+        "Kushner",
         "Putin",
+        "Sanchez",
         "Western Michigan",
         "Astra",
-        "GEAT",
         "Everton",
-        "New America"
+        "Dorgu",
+        "MARTIN EDWARDS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Sep 06 2026 22:39:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 07 2026 00:21:19 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928",
         "#BiggBoss20",
-        "Arsenal",
-        "Miami International Airport",
-        "#BB20",
-        "#Mela",
-        "AMAAL X THE PREGAME SHOW",
-        "Chelsea",
-        "SCOUTOP REIGN BEGINS",
-        "ABVP",
         "#SatyaNiketan",
-        "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928"
+        "#\u0927\u0930\u0924\u0940_\u092a\u0930_\u0905\u0935\u0924\u093e\u0930",
+        "#BB20GrandPremiere",
+        "2Days Left Avataran Diwas",
+        "#DrugsFreeBharat",
+        "Jio Hotstar",
+        "kanika mann era begins",
+        "AMAAL X THE PREGAME SHOW",
+        "SRCC"
       ],
       "hashtags": [
         "#BiggBoss20",
-        "#BB20",
-        "#Mela",
         "#SatyaNiketan",
-        "#HappyBirthdayMammukka",
-        "#Gullu",
-        "#ArishfaKhan",
-        "#Mammootty",
-        "#SmartLearningEndlessFun",
-        "#InfinixXPAD30Pro"
+        "#\u0927\u0930\u0924\u0940_\u092a\u0930_\u0905\u0935\u0924\u093e\u0930",
+        "#BB20GrandPremiere",
+        "#DrugsFreeBharat"
       ],
       "regular_topics": [
-        "Arsenal",
-        "Miami International Airport",
-        "AMAAL X THE PREGAME SHOW",
-        "Chelsea",
-        "SCOUTOP REIGN BEGINS",
-        "ABVP",
         "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928",
-        "Rogers",
-        "Gabriel",
-        "NSUI",
-        "Havertz"
+        "2Days Left Avataran Diwas",
+        "Jio Hotstar",
+        "kanika mann era begins",
+        "AMAAL X THE PREGAME SHOW",
+        "SRCC",
+        "nitish samvad",
+        "Miami International Airport",
+        "Sa News YouTube Channel",
+        "\u0915\u0941\u092e\u093e\u0930 \u0938\u094b\u0928\u0942",
+        "\u0938\u093e\u0909\u0925 \u0915\u0948\u0902\u092a\u0938"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Sep 06 2026 22:36:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 06 2026 23:28:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
-        "Alonso",
-        "Neto",
-        "Tomorrow is Monday",
         "Konsa",
+        "Tomorrow is Monday",
         "Rogers",
+        "Alonso",
         "Estevao",
-        "Havertz",
+        "Neto",
         "Arteta",
-        "Ebuka",
-        "Gabriel"
+        "Havertz",
+        "Ciara",
+        "Medvedev"
       ],
       "hashtags": [
         "#ARSvsCHE",
         "#COYG",
-        "#ARSvCFC",
-        "#FamsUpTasks"
+        "#ARSvCFC"
       ],
       "regular_topics": [
         "Chelsea",
-        "Alonso",
-        "Neto",
-        "Tomorrow is Monday",
         "Konsa",
+        "Tomorrow is Monday",
         "Rogers",
+        "Alonso",
         "Estevao",
-        "Havertz",
+        "Neto",
         "Arteta",
-        "Ebuka",
-        "Gabriel"
+        "Havertz",
+        "Ciara",
+        "Medvedev"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
