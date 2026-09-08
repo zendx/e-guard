@@ -1,192 +1,196 @@
 {
-  "generated_at_utc": "2026-09-08T17:40:14.464185+00:00",
+  "generated_at_utc": "2026-09-08T20:23:06.897296+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Sep 08 2026 17:27:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 20:03:27 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Zelda",
+        "Ocarina of Time",
         "Nintendo",
+        "#RHOP",
+        "Mamdani",
+        "Navier-Stokes",
         "Switch 2",
-        "Ghidorah",
-        "Gorr",
-        "Stacey",
-        "Twilight Princess",
-        "Jhene",
         "Ground Zero",
-        "BOTW",
-        "akilah"
+        "The SEC",
+        "Sankey",
+        "Muse"
       ],
       "hashtags": [
         "#RHOP",
-        "#ONEPIECE1193",
-        "#3YearsOfGUTS"
+        "#3YearsOfGUTS",
+        "#SmartContract"
       ],
       "regular_topics": [
         "Zelda",
+        "Ocarina of Time",
         "Nintendo",
+        "Mamdani",
+        "Navier-Stokes",
         "Switch 2",
-        "Ghidorah",
-        "Gorr",
-        "Stacey",
-        "Twilight Princess",
-        "Jhene",
         "Ground Zero",
-        "BOTW",
-        "akilah"
+        "The SEC",
+        "Sankey",
+        "Muse",
+        "The MAC"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Sep 08 2026 17:00:23 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 19:33:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Israel",
-        "West Bank",
-        "Zelda",
+        "#NTAs",
+        "Trent",
         "British Jews",
-        "Ocarina of Time",
-        "RNLI",
-        "Ed Miliband",
-        "Hamas",
-        "Gatwick",
-        "Nintendo",
-        "Isreal"
+        "Curtis Jones",
+        "Inter Milan",
+        "Gomes",
+        "West Bank",
+        "Hemmings",
+        "#RMAINT",
+        "Miliband"
       ],
       "hashtags": [
-        "#UCLFantasy",
-        "#thechase",
-        "#tippingpoint"
+        "#NTAs",
+        "#RMAINT",
+        "#MillionaireHotSeat",
+        "#BRUAVL",
+        "#EastEnders"
       ],
       "regular_topics": [
         "Israel",
-        "West Bank",
-        "Zelda",
+        "Trent",
         "British Jews",
-        "Ocarina of Time",
-        "RNLI",
-        "Ed Miliband",
-        "Hamas",
-        "Gatwick",
-        "Nintendo",
-        "Isreal"
+        "Curtis Jones",
+        "Inter Milan",
+        "Gomes",
+        "West Bank",
+        "Hemmings",
+        "Miliband",
+        "Zelda",
+        "Peck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Sep 08 2026 16:51:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 19:28:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bombardier",
         "Zelda",
         "Ocarina of Time",
+        "China",
         "Germany",
         "Labour Day",
         "Nintendo",
-        "China",
         "Gulfstream",
         "Minten",
-        "Switch 2",
-        "Boeing"
+        "Allison Inquiry",
+        "Sapporo"
       ],
       "hashtags": [
-        "#WWERaw",
         "#momsonn",
-        "#SNMe"
+        "#SNME",
+        "#WWERaw",
+        "#ONEPIECE1193",
+        "#DeportIRGCDiplomats"
       ],
       "regular_topics": [
         "Bombardier",
         "Zelda",
         "Ocarina of Time",
+        "China",
         "Germany",
         "Labour Day",
         "Nintendo",
-        "China",
         "Gulfstream",
         "Minten",
-        "Switch 2",
-        "Boeing"
+        "Allison Inquiry",
+        "Sapporo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Sep 08 2026 16:44:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 19:21:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SwachhataSeSwagat",
-        "#NationalShameAngomcha",
-        "#UPRise2026",
+        "#HappyBirthdayAkshayKumar",
         "#EPIC",
-        "#SwapYourAtta",
-        "Angomcha Bimol Akoijam",
-        "Vadodara",
+        "#NationalShameAngomcha",
         "HAPPY BIRTHDAY AKKI",
-        "Ballon",
-        "Integral University",
-        "BELIFT ENFORCE PROTECTION"
+        "Trent",
+        "#UPRise2026",
+        "BELIFT ENFORCE PROTECTION",
+        "Angomcha Bimol Akoijam",
+        "Navier",
+        "Vadodara"
       ],
       "hashtags": [
         "#SwachhataSeSwagat",
-        "#NationalShameAngomcha",
-        "#UPRise2026",
+        "#HappyBirthdayAkshayKumar",
         "#EPIC",
-        "#SwapYourAtta"
+        "#NationalShameAngomcha",
+        "#UPRise2026"
       ],
       "regular_topics": [
-        "Angomcha Bimol Akoijam",
-        "Vadodara",
         "HAPPY BIRTHDAY AKKI",
-        "Ballon",
-        "Integral University",
+        "Trent",
         "BELIFT ENFORCE PROTECTION",
-        "DRISHYAM TRAILER TOMORROW",
+        "Angomcha Bimol Akoijam",
+        "Navier",
+        "Vadodara",
+        "Godzilla",
         "\u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u0941\u0932\u093f\u0938",
-        "\u0917\u094c\u0930\u0935 \u092d\u093e\u091f\u093f\u092f\u093e",
-        "BATTERY",
-        "Narendra Modi Ji"
+        "Revenue Sharing",
+        "Ballon",
+        "Sabalenka"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Sep 08 2026 16:42:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 19:20:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Benue",
+        "Trent",
+        "Inter Milan",
         "Ballon",
+        "Porto",
+        "#KudiWaveVsPalmPay",
+        "Nicolas Jackson",
+        "#RMAINT",
+        "Club Brugge",
         "World Cup",
-        "Pedri",
-        "#StarlomoByKamo",
-        "Peter Obi",
-        "Yamal",
-        "#NoToFoodPoison",
-        "Keeper of the Ancient Hatchery",
-        "Mane",
-        "Ferran"
+        "Kylian Mbappe"
       ],
       "hashtags": [
-        "#StarlomoByKamo",
-        "#NoToFoodPoison",
-        "#3v3rydayp3opl3",
-        "#GloCafeApp",
-        "#GuinnessWin1Million"
+        "#KudiWaveVsPalmPay",
+        "#RMAINT",
+        "#Bettorian",
+        "#CryptoGaming",
+        "#StarlomoByKamo"
       ],
       "regular_topics": [
         "Benue",
+        "Trent",
+        "Inter Milan",
         "Ballon",
+        "Porto",
+        "Nicolas Jackson",
+        "Club Brugge",
         "World Cup",
+        "Kylian Mbappe",
         "Pedri",
-        "Peter Obi",
-        "Yamal",
-        "Keeper of the Ancient Hatchery",
-        "Mane",
-        "Ferran",
-        "Quinones",
-        "Real Madrid"
+        "Guinness"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
