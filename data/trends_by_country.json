@@ -1,201 +1,194 @@
 {
-  "generated_at_utc": "2026-09-08T22:46:33.383343+00:00",
+  "generated_at_utc": "2026-09-09T00:46:21.050308+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Sep 08 2026 21:45:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 00:20:29 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Zelda",
+        "Big Foe",
         "Tiafoe",
+        "#DWCS",
+        "#WWENXT",
         "Baker",
-        "Nintendo",
+        "Zelda",
+        "Sean Burke",
         "Muse",
-        "Ocarina of Time",
-        "Courtois",
+        "Gomes",
         "Mamdani",
-        "Michelsen",
-        "WATT",
-        "Navier-Stokes"
+        "Kwon"
       ],
       "hashtags": [
-        "#RHOP",
-        "#CodeFreedom",
-        "#SmartContract",
-        "#Cypherpunk",
-        "#TechLiberty"
+        "#DWCS",
+        "#WWENXT",
+        "#RHONY",
+        "#USOpen",
+        "#RHOP"
       ],
       "regular_topics": [
-        "Zelda",
+        "Big Foe",
         "Tiafoe",
         "Baker",
-        "Nintendo",
+        "Zelda",
+        "Sean Burke",
         "Muse",
-        "Ocarina of Time",
-        "Courtois",
+        "Gomes",
         "Mamdani",
-        "Michelsen",
-        "WATT",
-        "Navier-Stokes"
+        "Kwon",
+        "Nintendo",
+        "AJSS"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Sep 08 2026 22:09:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 23:52:07 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NTAs",
         "Israel",
+        "Tiafoe",
         "Murphy",
-        "Mrs Brown",
-        "Porto",
-        "Semenyo",
+        "Big Foe",
         "British Jews",
-        "#bcafc",
+        "Michelsen",
+        "Porto",
+        "Mrs Brown",
         "Bouaddi",
-        "Bowen",
-        "Millwall"
+        "Bowen"
       ],
       "hashtags": [
         "#NTAs",
         "#bcafc",
-        "#RMAINT",
         "#watfordfc",
-        "#NationalTelevisionAwards"
+        "#NationalTelevisionAwards",
+        "#RMAINT"
       ],
       "regular_topics": [
         "Israel",
+        "Tiafoe",
         "Murphy",
-        "Mrs Brown",
-        "Porto",
-        "Semenyo",
+        "Big Foe",
         "British Jews",
+        "Michelsen",
+        "Porto",
+        "Mrs Brown",
         "Bouaddi",
         "Bowen",
-        "Millwall",
-        "Trent",
-        "Kante"
+        "Millwall"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Sep 08 2026 22:03:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 08 2026 23:45:28 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Bombardier",
         "Zelda",
         "Ocarina of Time",
         "China",
-        "Germany",
+        "Big Foe",
+        "Tiafoe",
         "Nintendo",
-        "Minten",
+        "Germany",
         "Allison Inquiry",
         "Sapporo",
-        "Labour Day",
-        "The EU"
+        "Minten"
       ],
       "hashtags": [
         "#momsonn",
-        "#SNMe",
-        "#WWERaw"
+        "#DWCS",
+        "#SNME"
       ],
       "regular_topics": [
         "Bombardier",
         "Zelda",
         "Ocarina of Time",
         "China",
-        "Germany",
+        "Big Foe",
+        "Tiafoe",
         "Nintendo",
-        "Minten",
+        "Germany",
         "Allison Inquiry",
         "Sapporo",
-        "Labour Day",
-        "The EU"
+        "Minten"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Sep 08 2026 21:57:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 00:32:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Courtois",
-        "Real Madrid",
-        "Inter Milan",
-        "Brahim",
         "#SwachhataSeSwagat",
-        "#HappyBirthdayAkshayKumar",
-        "Trent",
-        "Valverde",
-        "#RMAINT",
-        "Muse",
-        "Haaland"
+        "#Savior_Of_The_World",
+        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_\u0905\u0935\u0924\u0930\u0923_\u0926\u093f\u0935\u0938",
+        "#Namo4ViksitBharat",
+        "#myleadermodi",
+        "BAPS",
+        "Sant RampalJi Avataran Diwas",
+        "16 Pro",
+        "\u0915\u0948\u092a\u094d\u091f\u0928 \u0935\u093f\u0915\u094d\u0930\u092e \u092c\u0924\u094d\u0930\u093e",
+        "Vadodara",
+        "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928"
       ],
       "hashtags": [
         "#SwachhataSeSwagat",
-        "#HappyBirthdayAkshayKumar",
-        "#RMAINT",
-        "#NationalShameAngomcha",
-        "#QaziTouqeer",
-        "#EPIC",
-        "#ChampionsLeague",
-        "#SevEN_Stand_As_One",
-        "#femboy",
-        "#UditiSingh",
-        "#Sigma"
+        "#Savior_Of_The_World",
+        "#\u0938\u0902\u0924\u0930\u093e\u092e\u092a\u093e\u0932\u091c\u0940_\u0905\u0935\u0924\u0930\u0923_\u0926\u093f\u0935\u0938",
+        "#Namo4ViksitBharat",
+        "#myleadermodi"
       ],
       "regular_topics": [
-        "Courtois",
-        "Real Madrid",
-        "Inter Milan",
-        "Brahim",
-        "Trent",
-        "Valverde",
-        "Muse",
-        "Haaland",
-        "Porto",
-        "Semenyo",
-        "ChatGPT Images 2.5"
+        "BAPS",
+        "Sant RampalJi Avataran Diwas",
+        "16 Pro",
+        "\u0915\u0948\u092a\u094d\u091f\u0928 \u0935\u093f\u0915\u094d\u0930\u092e \u092c\u0924\u094d\u0930\u093e",
+        "Vadodara",
+        "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928",
+        "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
+        "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
+        "Eiffel Tower",
+        "\u0915\u093e\u0930\u0917\u093f\u0932 \u092f\u0941\u0926\u094d\u0927",
+        "Jordan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Sep 08 2026 21:54:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 00:30:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Valverde",
         "Inter Milan",
         "Porto",
         "Courtois",
+        "Big Foe",
         "Haaland",
-        "#RMAINT",
-        "Dortmund",
+        "Tiafoe",
         "Semenyo",
-        "Trent",
+        "Michelsen",
         "Benue",
-        "Bisseck"
+        "#RMAINT"
       ],
       "hashtags": [
         "#RMAINT",
         "#UCL2026",
-        "#PORMCI",
-        "#KudiWaveVsPalmPay"
+        "#PORMCI"
       ],
       "regular_topics": [
         "Valverde",
         "Inter Milan",
         "Porto",
         "Courtois",
+        "Big Foe",
         "Haaland",
-        "Dortmund",
+        "Tiafoe",
         "Semenyo",
-        "Trent",
+        "Michelsen",
         "Benue",
-        "Bisseck",
-        "Guirassy"
+        "59 Champions League"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
