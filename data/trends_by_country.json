@@ -1,118 +1,121 @@
 {
-  "generated_at_utc": "2026-09-09T22:38:16.429128+00:00",
+  "generated_at_utc": "2026-09-10T00:41:01.112115+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Sep 09 2026 21:48:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 10 2026 00:24:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Seahawks",
+        "#AEWDynamite",
         "iPhone",
         "Apple",
         "Samsung",
-        "Coco",
-        "Brock Bowers",
+        "Pats",
+        "Lombard",
         "iPad",
-        "Kirby",
-        "Seahawks",
-        "Mayer",
-        "Odegaard",
-        "Metroid"
+        "Bowers",
+        "Tim Scott",
+        "Mike Tomlin"
       ],
       "hashtags": [
-        "#NAPARS",
-        "#YNWA"
+        "#AEWDynamite",
+        "#NEvsSEA",
+        "#RebelHeart",
+        "#CoachNYxLoverrukk",
+        "#NFLKickoff"
       ],
       "regular_topics": [
+        "Seahawks",
         "iPhone",
         "Apple",
         "Samsung",
-        "Coco",
-        "Brock Bowers",
+        "Pats",
+        "Lombard",
         "iPad",
-        "Kirby",
-        "Seahawks",
-        "Mayer",
-        "Odegaard",
-        "Metroid"
+        "Bowers",
+        "Tim Scott",
+        "Mike Tomlin",
+        "Foster Griffin"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Sep 09 2026 22:16:21 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 10 2026 00:00:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Odegaard",
         "#lufc",
-        "Farke",
         "Araujo",
-        "Barco",
+        "iPhone",
         "Leeds",
+        "Farke",
+        "Barco",
         "Welbeck",
-        "Saka",
-        "Madueke",
-        "Kerkez",
-        "iPhone"
+        "Apple",
+        "#Dispatches",
+        "Samsung"
       ],
       "hashtags": [
         "#lufc",
+        "#Dispatches",
         "#dcfc",
         "#bcfc",
-        "#NAPARS",
-        "#Dispatches"
+        "#NAPARS"
       ],
       "regular_topics": [
         "Odegaard",
-        "Farke",
         "Araujo",
-        "Barco",
-        "Leeds",
-        "Welbeck",
-        "Saka",
-        "Madueke",
-        "Kerkez",
         "iPhone",
-        "Napoli"
+        "Leeds",
+        "Farke",
+        "Barco",
+        "Welbeck",
+        "Apple",
+        "Samsung",
+        "harry styles",
+        "Madueke"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Sep 09 2026 22:09:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 23:51:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "iPhone Duo",
-        "Vladdy",
+        "iPhone",
         "Apple",
         "Samsung",
-        "Odegaard",
-        "Leeds",
-        "Rogers",
-        "Napoli",
+        "Vladdy",
         "Bills",
-        "Bowers",
-        "Sportsnet"
+        "Niagara Falls",
+        "Rogers",
+        "Sportsnet",
+        "Buffalo",
+        "Seahawks",
+        "Odegaard"
       ],
       "hashtags": [],
       "regular_topics": [
-        "iPhone Duo",
-        "Vladdy",
+        "iPhone",
         "Apple",
         "Samsung",
-        "Odegaard",
-        "Leeds",
-        "Rogers",
-        "Napoli",
+        "Vladdy",
         "Bills",
-        "Bowers",
-        "Sportsnet"
+        "Niagara Falls",
+        "Rogers",
+        "Sportsnet",
+        "Buffalo",
+        "Seahawks",
+        "Odegaard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Sep 09 2026 22:03:20 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 23:45:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "iPhone Duo",
         "Apple",
@@ -121,17 +124,22 @@
         "Llorente",
         "Anfield",
         "A20 Pro",
-        "AirPods 5",
-        "Barcola",
         "Napoli",
-        "Odegaard"
+        "Barcola",
+        "AirPods 5",
+        "Welbeck"
       ],
       "hashtags": [
         "#NAPARS",
         "#\u092c\u093f\u0928_\u092b\u0947\u0930\u0947_\u0939\u092e_\u0924\u0947\u0930\u0947",
         "#TaehyungxDazed",
         "#80sVibes",
-        "#ScoutOP"
+        "#BoycottHYBE_EndArtistOverwork",
+        "#SevEN_Stronger_Together",
+        "#ScoutOP",
+        "#Gandhinagar",
+        "#zanjeerain",
+        "#Qazi"
       ],
       "regular_topics": [
         "iPhone Duo",
@@ -141,29 +149,29 @@
         "Llorente",
         "Anfield",
         "A20 Pro",
-        "AirPods 5",
-        "Barcola",
         "Napoli",
-        "Odegaard"
+        "Barcola",
+        "AirPods 5",
+        "Welbeck"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Sep 09 2026 22:00:26 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 09 2026 23:42:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Leeds",
+        "Rogers",
         "Barco",
         "Welbeck",
-        "Rogers",
         "Samsung",
-        "Odegaard",
         "iPhone",
         "Apple",
+        "Madueke",
+        "Odegaard",
         "Saka",
-        "#CHELEE",
-        "Madueke"
+        "#CHELEE"
       ],
       "hashtags": [
         "#CHELEE",
@@ -173,15 +181,15 @@
       ],
       "regular_topics": [
         "Leeds",
+        "Rogers",
         "Barco",
         "Welbeck",
-        "Rogers",
         "Samsung",
-        "Odegaard",
         "iPhone",
         "Apple",
-        "Saka",
         "Madueke",
+        "Odegaard",
+        "Saka",
         "Ferran Torres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
