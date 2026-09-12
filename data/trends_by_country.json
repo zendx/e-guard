@@ -1,200 +1,204 @@
 {
-  "generated_at_utc": "2026-09-12T21:44:36.411996+00:00",
+  "generated_at_utc": "2026-09-12T23:28:56.913639+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Sep 12 2026 21:12:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 12 2026 22:56:10 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Oregon",
-        "Mateer",
-        "Oklahoma",
-        "Michigan",
-        "Dante Moore",
-        "Dan Lanning",
-        "Kentucky",
+        "Oklahoma State",
         "Bama",
-        "Sunderland",
-        "#GoBlue",
-        "#NocheUFC"
+        "Kentucky",
+        "Dan Lanning",
+        "Dante Moore",
+        "Grasso",
+        "#NocheUFC",
+        "Mateer",
+        "Tulsa",
+        "Stein"
       ],
       "hashtags": [
-        "#GoBlue",
         "#NocheUFC",
-        "#SUNARS"
+        "#RollTide"
       ],
       "regular_topics": [
         "Oregon",
-        "Mateer",
-        "Oklahoma",
-        "Michigan",
-        "Dante Moore",
-        "Dan Lanning",
-        "Kentucky",
+        "Oklahoma State",
         "Bama",
-        "Sunderland",
-        "Drew Mestemaker",
-        "Grubb"
+        "Kentucky",
+        "Dan Lanning",
+        "Dante Moore",
+        "Grasso",
+        "Mateer",
+        "Tulsa",
+        "Stein",
+        "Michigan"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Sep 12 2026 20:45:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 12 2026 22:30:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Raya",
         "Sunderland",
+        "Raya",
+        "Saka",
+        "Konsa",
+        "Gabriel",
         "#SUNARS",
         "Bruno G",
-        "Saka",
-        "Spurs",
-        "Brobbey",
-        "Ballard",
         "#lastnightoftheproms",
+        "Arteta",
         "Xhaka",
-        "De Zerbi"
+        "#SNLUK"
       ],
       "hashtags": [
         "#SUNARS",
         "#lastnightoftheproms",
-        "#TOTEVE",
-        "#THFC",
+        "#SNLUK",
+        "#COYG",
         "#misfits"
       ],
       "regular_topics": [
-        "Raya",
         "Sunderland",
-        "Bruno G",
+        "Raya",
         "Saka",
-        "Spurs",
-        "Brobbey",
-        "Ballard",
+        "Konsa",
+        "Gabriel",
+        "Bruno G",
+        "Arteta",
         "Xhaka",
-        "De Zerbi",
-        "John Brooks",
-        "Ben White"
+        "Ballard",
+        "Brobbey",
+        "Spurs"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Sep 12 2026 21:30:59 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 12 2026 22:21:41 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Kreider",
+        "Habs",
         "Sunderland",
-        "Chris Kreider",
+        "Price",
         "Raya",
-        "Saka",
         "Bruno G",
+        "Saka",
+        "#NocheUFC",
+        "Konsa",
         "#COYG",
-        "Carey Price",
-        "Brett Bateman",
-        "#SUNARS",
-        "#GoHabsGo",
-        "Oregon"
+        "Bolduc"
       ],
       "hashtags": [
+        "#NocheUFC",
         "#COYG",
         "#SUNARS",
-        "#GoHabsGo",
-        "#NocheUFC",
         "#Arsenal",
         "#BanjoBowl",
-        "#GoBlue",
         "#ForTheW",
+        "#Bombers",
         "#Redblacks",
         "#blizzcon",
-        "#NHLJets"
+        "#Caturday"
       ],
       "regular_topics": [
+        "Kreider",
+        "Habs",
         "Sunderland",
-        "Chris Kreider",
+        "Price",
         "Raya",
-        "Saka",
         "Bruno G",
-        "Carey Price",
-        "Brett Bateman",
-        "Oregon",
+        "Saka",
         "Konsa",
-        "Xhaka",
-        "Brobbey"
+        "Bolduc",
+        "Demidov",
+        "Brett Bateman"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Sep 12 2026 21:24:30 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 12 2026 23:08:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sunderland",
+        "Elena Rybakina",
+        "#YouManiacSeriesEP3",
+        "Sabalenka",
         "David Raya",
         "Saka",
-        "#YouManiacSeriesEP3",
         "#SUNARS",
         "SALMAN PRAISED QAZI IN BB20",
         "Bruno G",
-        "#COYG",
-        "Xhaka",
-        "Ballard",
-        "#AjithKumar"
+        "#Arsenal",
+        "#COYG"
       ],
       "hashtags": [
         "#YouManiacSeriesEP3",
         "#SUNARS",
+        "#Arsenal",
         "#COYG",
+        "#MrFanboyEP3",
         "#AjithKumar",
-        "#\u0938\u092a\u093e_\u0915\u0947_\u0926\u0930\u092c\u093e\u0930\u0940_\u092a\u0924\u094d\u0930\u0915\u093e\u0930"
+        "#\u0915\u0932\u092f\u0941\u0917\u092e\u0947\u0902_\u0938\u0924\u092f\u0941\u0917\u0915\u0940_\u0936\u0941\u0930\u0941\u0906\u0924_\u092d\u093e\u09178",
+        "#\u0938\u092a\u093e_\u0915\u0947_\u0926\u0930\u092c\u093e\u0930\u0940_\u092a\u0924\u094d\u0930\u0915\u093e\u0930",
+        "#Jay_CarriesTheFire",
+        "#BoycottHYBE_HaltAllFunding",
+        "#\u092a\u0902\u091a\u093e\u092f\u0924_\u0938\u0939\u093e\u092f\u0915_\u0938\u0902\u0918\u0930\u094d\u0937"
       ],
       "regular_topics": [
         "Sunderland",
+        "Elena Rybakina",
+        "Sabalenka",
         "David Raya",
         "Saka",
         "SALMAN PRAISED QAZI IN BB20",
         "Bruno G",
-        "Xhaka",
-        "Ballard",
+        "Arda Guler",
         "Dario",
-        "Spurs",
-        "Dean",
-        "Diomande"
+        "Xhaka",
+        "Ballard"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Sep 12 2026 21:22:06 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 12 2026 23:06:42 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Sunderland",
         "Raya",
+        "#CASHPENGU",
         "#SUNARS",
         "Saka",
+        "Konsa",
         "Bruno G",
         "Xhaka",
-        "Konsa",
         "#COYG",
         "Brobbey",
-        "Ballard",
-        "Tottenham"
+        "Rybakina"
       ],
       "hashtags": [
+        "#CASHPENGU",
         "#SUNARS",
-        "#COYG",
-        "#RMARAY"
+        "#COYG"
       ],
       "regular_topics": [
         "Sunderland",
         "Raya",
         "Saka",
+        "Konsa",
         "Bruno G",
         "Xhaka",
-        "Konsa",
         "Brobbey",
+        "Rybakina",
         "Ballard",
-        "Tottenham",
-        "Arda Guler",
-        "Liverpool"
+        "Sabalenka",
+        "Arda Guler"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
