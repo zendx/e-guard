@@ -1,135 +1,135 @@
 {
-  "generated_at_utc": "2026-09-13T21:10:20.287085+00:00",
+  "generated_at_utc": "2026-09-13T23:15:20.233579+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Sep 13 2026 20:28:22 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 13 2026 22:12:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Josh Allen",
-        "Texans",
-        "Bears",
-        "Bills",
-        "Browns",
-        "Panthers",
-        "CJ Stroud",
+        "Kyler Murray",
         "Saints",
+        "Bears",
         "Lions",
-        "Ravens",
-        "Caleb Williams"
+        "Josh Allen",
+        "Packers",
+        "Wicks",
+        "Vikings",
+        "Texans",
+        "Chargers",
+        "Christian Watson"
       ],
       "hashtags": [
-        "#HereWeGo",
-        "#OnePride",
-        "#KeepPounding"
+        "#GoPackGo",
+        "#skol",
+        "#RaiseHail"
       ],
       "regular_topics": [
-        "Josh Allen",
-        "Texans",
-        "Bears",
-        "Bills",
-        "Browns",
-        "Panthers",
-        "CJ Stroud",
+        "Kyler Murray",
         "Saints",
+        "Bears",
         "Lions",
-        "Ravens",
-        "Caleb Williams"
+        "Josh Allen",
+        "Packers",
+        "Wicks",
+        "Vikings",
+        "Texans",
+        "Chargers",
+        "Christian Watson"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Sep 13 2026 20:54:32 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 13 2026 22:39:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#BBUK",
+        "Zverev",
         "Carrick",
-        "Foden",
-        "Enzo",
-        "Rashford",
-        "Rochelle",
-        "Haaland",
         "#bigbrother",
-        "Dorgu",
-        "Yasmin",
-        "Cunha"
+        "Rashford",
+        "Pro Ref",
+        "Enzo",
+        "Shelton",
+        "Samuel",
+        "Foden",
+        "Haaland"
       ],
       "hashtags": [
         "#BBUK",
         "#bigbrother",
-        "#MUFC",
-        "#MUNMCI",
-        "#Apocalypse"
+        "#USOpen",
+        "#Apocalypse",
+        "#MUFC"
       ],
       "regular_topics": [
+        "Zverev",
         "Carrick",
-        "Foden",
-        "Enzo",
         "Rashford",
-        "Rochelle",
+        "Pro Ref",
+        "Enzo",
+        "Shelton",
+        "Samuel",
+        "Foden",
         "Haaland",
-        "Dorgu",
-        "Yasmin",
-        "Cunha",
-        "Pauline",
-        "Pro Ref"
+        "Rochelle",
+        "Tays"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Sep 13 2026 20:48:07 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 13 2026 22:30:46 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Europe",
+        "Zverev",
         "Bills",
+        "Kyler Murray",
+        "The EU",
+        "Takes 3",
+        "Chargers",
         "Josh Allen",
         "CJ Stroud",
-        "Carrick",
-        "Saints",
-        "Texans",
-        "Bears",
-        "The EU",
-        "Kyler Murray",
-        "Lions",
-        "Caleb Williams"
+        "Christian Watson",
+        "Bears"
       ],
       "hashtags": [
-        "#OnePride",
-        "#MUNMCI",
-        "#GoPackGo"
+        "#skol",
+        "#GoPackGo",
+        "#OnePride"
       ],
       "regular_topics": [
+        "Europe",
+        "Zverev",
         "Bills",
+        "Kyler Murray",
+        "The EU",
+        "Takes 3",
+        "Chargers",
         "Josh Allen",
         "CJ Stroud",
-        "Carrick",
-        "Saints",
-        "Texans",
-        "Bears",
-        "The EU",
-        "Kyler Murray",
-        "Lions",
-        "Caleb Williams"
+        "Christian Watson",
+        "Bears"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Sep 13 2026 20:40:11 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 13 2026 22:24:14 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#HappyBirthdayElvish",
         "Mohsin Naqvi",
+        "#HappyBirthdayElvish",
+        "Zverev",
         "#AsiaCup",
-        "Carrick",
         "Happy Ganesh Chaturthi",
+        "Shelton",
         "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
+        "Carrick",
         "#INDvsSL",
-        "INVINCIBLE FARRHANA BHATT",
-        "Enzo",
-        "Rashford",
-        "#TeamIndia"
+        "Trophy",
+        "INVINCIBLE FARRHANA BHATT"
       ],
       "hashtags": [
         "#HappyBirthdayElvish",
@@ -140,52 +140,53 @@
       ],
       "regular_topics": [
         "Mohsin Naqvi",
-        "Carrick",
+        "Zverev",
         "Happy Ganesh Chaturthi",
-        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
-        "INVINCIBLE FARRHANA BHATT",
-        "Enzo",
-        "Rashford",
-        "Trophy",
         "Shelton",
-        "Manchester United",
-        "\u092e\u0939\u093f\u0932\u093e \u090f\u0936\u093f\u092f\u093e"
+        "\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0939\u093f\u0932\u093e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u091f\u0940\u092e",
+        "Carrick",
+        "Trophy",
+        "INVINCIBLE FARRHANA BHATT",
+        "\u092e\u0939\u093f\u0932\u093e \u090f\u0936\u093f\u092f\u093e",
+        "Enzo",
+        "Rashford"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Sep 13 2026 20:39:34 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sun Sep 13 2026 22:21:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Manchester United",
-        "Rashford",
-        "Man U",
-        "#AskIceKingOchacho",
-        "Dorgu",
         "Flora",
-        "#MUNMCI",
-        "Foden",
-        "Haaland",
-        "Bottom 3"
+        "#AskIceKingOchacho",
+        "Rashford",
+        "Zverev",
+        "Man U",
+        "Shelton",
+        "Cunha",
+        "Pro Ref",
+        "Juventus"
       ],
       "hashtags": [
         "#AskIceKingOchacho",
-        "#MUNMCI"
+        "#MUNMCI",
+        "#USOpen"
       ],
       "regular_topics": [
         "Carrick",
         "Manchester United",
-        "Rashford",
-        "Man U",
-        "Dorgu",
         "Flora",
-        "Foden",
-        "Haaland",
-        "Bottom 3",
-        "Araga",
-        "Man City"
+        "Rashford",
+        "Zverev",
+        "Man U",
+        "Shelton",
+        "Cunha",
+        "Pro Ref",
+        "Juventus",
+        "Dorgu"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
