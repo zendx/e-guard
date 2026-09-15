@@ -1,134 +1,135 @@
 {
-  "generated_at_utc": "2026-09-14T22:09:52.118904+00:00",
+  "generated_at_utc": "2026-09-15T00:43:05.758146+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Mon Sep 14 2026 21:27:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 00:00:17 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Mitch McConnell",
         "Macklemore",
-        "$Edel",
-        "Ed Sheeran",
-        "Robert Kraft",
-        "Atria Dawn",
-        "Free Palestine",
         "Chiefs",
         "Broncos",
-        "Bob Mackie",
-        "Mitch McConnell",
-        "iOS 27"
+        "#Emmys",
+        "Ed Sheeran",
+        "Robert Kraft",
+        "Pete Alonso",
+        "Retire",
+        "Karl Rove",
+        "Zendaya"
       ],
       "hashtags": [
-        "#Cybertruck",
-        "#BetrPicks",
-        "#BlueWaveIn50Days",
-        "#NUFC"
+        "#Emmys",
+        "#JeopardyBlindGuess",
+        "#TruthAboutEternity",
+        "#DENvsKC",
+        "#OLFDreamOninSaoPaulo"
       ],
       "regular_topics": [
+        "Mitch McConnell",
         "Macklemore",
-        "$Edel",
-        "Ed Sheeran",
-        "Robert Kraft",
-        "Atria Dawn",
-        "Free Palestine",
         "Chiefs",
         "Broncos",
-        "Bob Mackie",
-        "Mitch McConnell",
-        "iOS 27"
+        "Ed Sheeran",
+        "Robert Kraft",
+        "Pete Alonso",
+        "Retire",
+        "Karl Rove",
+        "Zendaya",
+        "Free Palestine"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Mon Sep 14 2026 21:51:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 14 2026 23:33:38 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#NUFC",
-        "$Edel",
+        "Ed Sheeran",
         "Leeds",
         "#lufc",
-        "Ed Sheeran",
+        "Macklemore",
         "Murphy",
         "Toure",
-        "Macklemore",
         "Jaissle",
+        "Bahoya",
         "#LEENEW",
-        "Bahoya"
+        "Botman"
       ],
       "hashtags": [
         "#NUFC",
         "#lufc",
         "#LEENEW",
         "#BBUK",
-        "#UniversityChallenge"
+        "#Emmys"
       ],
       "regular_topics": [
-        "$Edel",
-        "Leeds",
         "Ed Sheeran",
+        "Leeds",
+        "Macklemore",
         "Murphy",
         "Toure",
-        "Macklemore",
         "Jaissle",
         "Bahoya",
         "Botman",
+        "Bogle",
         "Pardo",
-        "Howe"
+        "Elland Road"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Mon Sep 14 2026 21:44:12 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 00:18:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Ed Sheeran",
         "Macklemore",
+        "#Emmys",
         "Europe",
-        "The EU",
         "#candid",
-        "Kawhi",
-        "Raptors",
-        "#smno",
+        "Soriano",
+        "#WWERaw",
         "#brosis",
-        "Cowboys",
+        "MW by 2028",
+        "Zendaya",
         "Robert Kraft"
       ],
       "hashtags": [
+        "#Emmys",
         "#candid",
-        "#smno",
+        "#WWERaw",
         "#brosis",
-        "#ometv",
-        "#WeTheNorth"
+        "#ometv"
       ],
       "regular_topics": [
         "Ed Sheeran",
         "Macklemore",
         "Europe",
-        "The EU",
-        "Kawhi",
-        "Raptors",
-        "Cowboys",
-        "Robert Kraft",
+        "Soriano",
         "MW by 2028",
-        "Ireland",
-        "Giants"
+        "Zendaya",
+        "Robert Kraft",
+        "Broncos",
+        "Chiefs",
+        "Cowboys",
+        "Mariska"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Mon Sep 14 2026 21:36:57 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 00:12:45 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#GaneshChaturthi",
         "\u0917\u0923\u092a\u0924\u093f \u092c\u092a\u094d\u092a\u093e",
         "Madhuri",
         "#GalaxyS26FE",
         "\u0936\u094d\u0930\u0940 \u0917\u0923\u0947\u0936",
-        "#GanpatiBappaMorya",
         "Vantara",
+        "#GanpatiBappaMorya",
         "#\u0906\u0926\u093f\u0917\u0923\u0947\u0936_\u0938\u0930\u094d\u0935_\u0926\u0947\u0935\u094b\u0902_\u0915\u093e_\u0938\u094d\u0935\u093e\u092e\u0940",
         "#HindiDiwas",
         "Sant RampalJi YouTube Channel",
@@ -148,49 +149,50 @@
         "Vantara",
         "Sant RampalJi YouTube Channel",
         "KING ROARS IN 100 DAYS",
-        "iOS 27",
         "\u092d\u0917\u0935\u093e\u0928 \u0917\u0923\u0947\u0936",
         "BRICS",
         "Mohsin Naqvi",
-        "\u092d\u0917\u0935\u093e\u0928 \u0936\u093f\u0935"
+        "Asia Cup",
+        "iOS 27"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Mon Sep 14 2026 21:36:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 00:12:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Newcastle",
-        "Barry",
-        "Udinese",
+        "Leeds",
+        "#Emmys",
         "Vangrid",
-        "Braga",
-        "Lewin",
-        "#LEENEW",
+        "Barry",
+        "Chiefs",
         "Soludo",
-        "The Power of Legacy",
-        "Dangote",
-        "Fenerbahce"
+        "Lewin",
+        "Braga",
+        "Udinese",
+        "Dangote"
       ],
       "hashtags": [
+        "#Emmys",
         "#LEENEW",
+        "#niceflip",
         "#NUFC",
-        "#ChowdeckxKwaraUnited",
-        "#SerieA"
+        "#brosis"
       ],
       "regular_topics": [
         "Newcastle",
-        "Barry",
-        "Udinese",
+        "Leeds",
         "Vangrid",
-        "Braga",
-        "Lewin",
+        "Barry",
+        "Chiefs",
         "Soludo",
-        "The Power of Legacy",
+        "Lewin",
+        "Braga",
+        "Udinese",
         "Dangote",
-        "Fenerbahce",
-        "Future Investment Initiative"
+        "Broncos"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
