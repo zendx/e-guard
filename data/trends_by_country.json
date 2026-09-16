@@ -1,195 +1,195 @@
 {
-  "generated_at_utc": "2026-09-16T21:48:50.497052+00:00",
+  "generated_at_utc": "2026-09-16T23:55:47.829365+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Wed Sep 16 2026 20:57:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 23:32:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Cancelo",
-        "The Fed",
-        "Warsh",
-        "Tommy Pham",
+        "Blake Snell",
         "Carrick",
+        "The Fed",
+        "Adeyemi",
+        "Warsh",
         "Brighton",
-        "#OlandriaxDrGroot",
-        "Powell",
-        "Rashford",
-        "Mike Johnson",
-        "Paramount"
+        "Ron White",
+        "Manchester United",
+        "Cary",
+        "Paramount",
+        "Powell"
       ],
       "hashtags": [
         "#OlandriaxDrGroot",
-        "#GuardsBall",
-        "#MUNBRI",
-        "#Bar\u00e7aRacing",
-        "#MUNBHA"
+        "#hltspoilers",
+        "#NationalTattooStoryDay",
+        "#MUFC"
       ],
       "regular_topics": [
-        "Cancelo",
-        "The Fed",
-        "Warsh",
-        "Tommy Pham",
+        "Blake Snell",
         "Carrick",
+        "The Fed",
+        "Adeyemi",
+        "Warsh",
         "Brighton",
-        "Powell",
-        "Rashford",
-        "Mike Johnson",
+        "Ron White",
+        "Manchester United",
+        "Cary",
         "Paramount",
-        "Anthony Volpe"
+        "Powell"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Wed Sep 16 2026 21:21:48 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 23:06:44 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Brighton",
         "#MUFC",
+        "Fleetwood",
         "Rashford",
         "Dalot",
-        "Zirkzee",
         "Manchester United",
-        "Sesko",
-        "Lacey",
-        "#MUNBHA",
-        "Darlow"
+        "Zirkzee",
+        "Amorim",
+        "Highbury",
+        "Wilcox"
       ],
       "hashtags": [
         "#MUFC",
         "#MUNBHA",
         "#BBUK",
-        "#MUNBRI",
-        "#BHAFC"
+        "#BHAFC",
+        "#MUNBRI"
       ],
       "regular_topics": [
         "Carrick",
         "Brighton",
+        "Fleetwood",
         "Rashford",
         "Dalot",
-        "Zirkzee",
         "Manchester United",
-        "Sesko",
-        "Lacey",
-        "Darlow",
-        "Yoro",
-        "Old Trafford"
+        "Zirkzee",
+        "Amorim",
+        "Highbury",
+        "Wilcox",
+        "Sesko"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Wed Sep 16 2026 21:16:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 23:00:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Brighton",
         "Manchester United",
+        "Adeyemi",
         "Rashford",
-        "Cancelo",
-        "Sesko",
-        "Europe",
-        "#MUFC",
+        "Ryan Reaves",
+        "Susan Collins",
+        "Man United",
         "Zirkzee",
-        "Lacey",
-        "Raphinha"
+        "#MUFC",
+        "Amorim"
       ],
       "hashtags": [
-        "#MUFC",
-        "#CanMNT"
+        "#MUFC"
       ],
       "regular_topics": [
         "Carrick",
         "Brighton",
         "Manchester United",
+        "Adeyemi",
         "Rashford",
-        "Cancelo",
-        "Sesko",
-        "Europe",
+        "Ryan Reaves",
+        "Susan Collins",
+        "Man United",
         "Zirkzee",
-        "Lacey",
-        "Raphinha",
-        "Susan Collins"
+        "Amorim",
+        "Cancelo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Wed Sep 16 2026 21:09:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 22:54:12 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#HappyBdayPMModi",
-        "Cancelo",
-        "#HappyBirthdayModiJi",
+        "Adeyemi",
         "Carrick",
+        "#HappyBirthdayModiJi",
+        "Cancelo",
+        "Lamine",
         "Brighton",
-        "Rapha",
-        "Lacey",
-        "Dalot",
-        "#MUNBHA",
-        "Zirkzee",
-        "Adeyemi"
+        "#MUFC",
+        "Rashford",
+        "Balde",
+        "Manchester United"
       ],
       "hashtags": [
         "#HappyBdayPMModi",
         "#HappyBirthdayModiJi",
-        "#MUNBHA",
+        "#MUFC",
         "#CarabaoCup",
-        "#UPIFee"
+        "#MUNBHA",
+        "#HappyBirthdayPMModi",
+        "#manutd",
+        "#UPIFee",
+        "#pzchat"
       ],
       "regular_topics": [
-        "Cancelo",
-        "Carrick",
-        "Brighton",
-        "Rapha",
-        "Lacey",
-        "Dalot",
-        "Zirkzee",
         "Adeyemi",
-        "Sesko",
-        "\u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940",
-        "Darlow"
+        "Carrick",
+        "Cancelo",
+        "Lamine",
+        "Brighton",
+        "Rashford",
+        "Balde",
+        "Manchester United",
+        "Zirkzee",
+        "Gabriel Jesus",
+        "Rapha"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Wed Sep 16 2026 21:08:16 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 23:42:36 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Carrick",
         "Manchester United",
         "Man U",
-        "Rashford",
-        "Cancelo",
-        "#MUNBRI",
-        "Lacey",
-        "Sesko",
         "Adeyemi",
-        "#MUNBHA",
-        "Zirkzee"
+        "Rashford",
+        "Barca",
+        "Cancelo",
+        "Barcelona",
+        "Gabriel Jesus",
+        "Todd Boehly",
+        "Amorim"
       ],
       "hashtags": [
         "#MUNBRI",
         "#MUNBHA",
-        "#CarabaoCup",
-        "#MunchitSnackGames",
-        "#BHAFC"
+        "#Raphinha"
       ],
       "regular_topics": [
         "Carrick",
         "Manchester United",
         "Man U",
-        "Rashford",
-        "Cancelo",
-        "Lacey",
-        "Sesko",
         "Adeyemi",
-        "Zirkzee",
-        "Dalot",
-        "Yoro"
+        "Rashford",
+        "Barca",
+        "Cancelo",
+        "Barcelona",
+        "Gabriel Jesus",
+        "Todd Boehly",
+        "Amorim"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
