@@ -1,142 +1,144 @@
 {
-  "generated_at_utc": "2026-09-15T22:21:03.091439+00:00",
+  "generated_at_utc": "2026-09-16T00:32:54.418835+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Tue Sep 15 2026 21:39:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Wed Sep 16 2026 00:15:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Massie",
+        "#DWTS",
+        "#DWCS",
+        "#Asentum",
         "Ed Sheeran",
-        "Vini",
-        "Espi",
+        "Massie",
+        "Macklemore",
         "Kennedy Center",
-        "Clarity Act",
-        "Elche",
-        "Hegseth",
         "Booker",
         "Kash",
-        "Red Bull"
+        "Hegseth",
+        "Harry Styles"
       ],
       "hashtags": [
-        "#Olatember",
-        "#GetReadyToVote",
-        "#CarabaoCup",
-        "#LIVTOT"
+        "#DWTS",
+        "#DWCS",
+        "#Asentum",
+        "#DeepWork",
+        "#Caffeine"
       ],
       "regular_topics": [
-        "Massie",
         "Ed Sheeran",
-        "Vini",
-        "Espi",
+        "Massie",
+        "Macklemore",
         "Kennedy Center",
-        "Clarity Act",
-        "Elche",
-        "Hegseth",
         "Booker",
         "Kash",
-        "Red Bull"
+        "Hegseth",
+        "Harry Styles",
+        "Luis Hernandez",
+        "Vini",
+        "Sydney Sweeney"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Tue Sep 15 2026 22:06:49 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 23:48:48 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#BBUK",
+        "#Asentum",
         "Gyokeres",
+        "Ed Sheeran",
+        "#BBUK",
         "Max Dowman",
-        "Rochelle",
         "Nyoni",
-        "Gallagher",
+        "Rochelle",
         "Koumas",
-        "#LIVTOT",
+        "Gallagher",
         "Macca",
-        "Jacquet",
-        "Szoboszlai"
+        "#70Up"
       ],
       "hashtags": [
+        "#Asentum",
         "#BBUK",
-        "#LIVTOT",
         "#70Up",
-        "#IPSARS",
+        "#LIVTOT",
         "#COYS"
       ],
       "regular_topics": [
         "Gyokeres",
+        "Ed Sheeran",
         "Max Dowman",
-        "Rochelle",
         "Nyoni",
-        "Gallagher",
+        "Rochelle",
         "Koumas",
+        "Gallagher",
         "Macca",
-        "Jacquet",
-        "Szoboszlai",
-        "Espi",
-        "Tosin"
+        "Szobo",
+        "Vini",
+        "Gakpo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Tue Sep 15 2026 21:57:52 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 23:42:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Vini",
-        "Alex Newhook",
+        "Harper",
+        "#DWCS",
         "Ed Sheeran",
-        "Elche",
+        "Alex Newhook",
+        "Vini",
         "Espi",
+        "Elche",
         "Arber Xhekaj",
-        "Gyokeres",
-        "Harry Styles",
-        "Brookfield",
-        "Anthony Santander",
-        "Pearson"
+        "Macklemore",
+        "Kennedy Center",
+        "Diomande"
       ],
       "hashtags": [
+        "#DWCS",
+        "#GoHabsGo",
         "#FREEPALEST\u0130NE",
         "#CanMNT"
       ],
       "regular_topics": [
-        "Vini",
-        "Alex Newhook",
+        "Harper",
         "Ed Sheeran",
-        "Elche",
+        "Alex Newhook",
+        "Vini",
         "Espi",
+        "Elche",
         "Arber Xhekaj",
-        "Gyokeres",
-        "Harry Styles",
-        "Brookfield",
-        "Anthony Santander",
-        "Pearson"
+        "Macklemore",
+        "Kennedy Center",
+        "Diomande",
+        "Gyokeres"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Tue Sep 15 2026 21:51:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 23:34:02 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Vini",
         "Espi",
         "Elche",
         "Harry Brook",
         "NATION STANDS WITH ARISHFA",
-        "0.4% MDR",
+        "Diomande",
         "Nyoni",
-        "#Rare_Interview_SantRampalJi",
         "Max Dowman",
-        "#ScoutOP",
-        "Arda Guler"
+        "0.4% MDR",
+        "Arda Guler",
+        "#ENGvSL"
       ],
       "hashtags": [
+        "#ENGvSL",
         "#Rare_Interview_SantRampalJi",
         "#ScoutOP",
-        "#ENGvSL",
-        "#CarabaoCup",
-        "#SuJo"
+        "#UPICharges"
       ],
       "regular_topics": [
         "Vini",
@@ -144,51 +146,51 @@
         "Elche",
         "Harry Brook",
         "NATION STANDS WITH ARISHFA",
-        "0.4% MDR",
+        "Diomande",
         "Nyoni",
         "Max Dowman",
+        "0.4% MDR",
         "Arda Guler",
-        "Diomande",
-        "Jumper"
+        "Ed Sheeran"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Tue Sep 15 2026 21:51:18 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Tue Sep 15 2026 23:33:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Espi",
-        "Elche",
         "Vini",
+        "Elche",
+        "Espi",
         "Max Dowman",
-        "Diomande",
         "Gyokeres",
+        "Dangote",
+        "Diomande",
         "Tottenham",
         "Arda Guler",
-        "Dangote",
         "Ipswich",
-        "Spurs"
+        "Hala Madrid"
       ],
       "hashtags": [
         "#IPSARS",
         "#LIVTOT",
         "#CarabaoCup",
-        "#ELCRMA",
-        "#Gordonsbbnaija11"
+        "#LaLiga",
+        "#ELCRMA"
       ],
       "regular_topics": [
-        "Espi",
-        "Elche",
         "Vini",
+        "Elche",
+        "Espi",
         "Max Dowman",
-        "Diomande",
         "Gyokeres",
+        "Dangote",
+        "Diomande",
         "Tottenham",
         "Arda Guler",
-        "Dangote",
         "Ipswich",
-        "Spurs"
+        "Hala Madrid"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
