@@ -1,50 +1,52 @@
 {
-  "generated_at_utc": "2026-09-18T21:58:53.559432+00:00",
+  "generated_at_utc": "2026-09-18T23:51:48.654130+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Fri Sep 18 2026 21:15:41 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Sep 18 2026 22:57:32 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Greenland",
+        "White House",
         "Chelsea",
-        "Brentford",
         "Politico",
         "First Amendment",
-        "Forever Young",
-        "Estevao",
-        "Xabi",
-        "Fig Newtons",
-        "#BRECHE",
+        "Brentford",
+        "Fake News",
         "#MillionDollarPitch",
+        "Ausar Thompson",
+        "Fig Newtons",
         "Freedom of the Press"
       ],
       "hashtags": [
-        "#BRECHE",
         "#MillionDollarPitch",
+        "#BRECHE",
+        "#OlandriaxMedicube",
         "#FursuitFriday"
       ],
       "regular_topics": [
+        "Greenland",
+        "White House",
         "Chelsea",
-        "Brentford",
         "Politico",
         "First Amendment",
-        "Forever Young",
-        "Estevao",
-        "Xabi",
+        "Brentford",
+        "Fake News",
+        "Ausar Thompson",
         "Fig Newtons",
         "Freedom of the Press",
-        "Fofana",
-        "Jake Paul"
+        "Xabi"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Fri Sep 18 2026 21:39:36 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Sep 18 2026 23:21:53 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Alonso",
+        "Greenland",
         "#BBUK",
         "#BRECHE",
         "Henderson",
@@ -52,8 +54,7 @@
         "Neto",
         "Igor Thiago",
         "Estevao",
-        "Fofana",
-        "Millie"
+        "Fofana"
       ],
       "hashtags": [
         "#BBUK",
@@ -65,6 +66,7 @@
       "regular_topics": [
         "Chelsea",
         "Alonso",
+        "Greenland",
         "Henderson",
         "Keith Andrews",
         "Neto",
@@ -72,46 +74,45 @@
         "Estevao",
         "Fofana",
         "Millie",
-        "Colwill",
-        "Tays"
+        "Denmark"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Fri Sep 18 2026 21:32:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Sep 18 2026 23:16:13 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Greenland",
         "Chelsea",
-        "Brentford",
         "Europe",
-        "Alonso",
         "#nolimitt",
         "Buffalo",
+        "Brentford",
         "Estevao",
-        "Igor Thiago",
+        "Alonso",
+        "White House",
         "Henderson",
-        "Neto",
-        "White House"
+        "#smno"
       ],
       "hashtags": [
         "#nolimitt",
         "#smno",
         "#bbtvi",
-        "#BRECHE",
+        "#AI\u77ed\u5267",
         "#bb28"
       ],
       "regular_topics": [
+        "Greenland",
         "Chelsea",
-        "Brentford",
         "Europe",
-        "Alonso",
         "Buffalo",
+        "Brentford",
         "Estevao",
-        "Igor Thiago",
-        "Henderson",
-        "Neto",
+        "Alonso",
         "White House",
+        "Henderson",
+        "895% YoY",
         "Josh Allen"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -119,84 +120,74 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Fri Sep 18 2026 21:27:28 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Sep 18 2026 23:09:34 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "Brentford",
-        "#BRECHE",
-        "Xabi",
-        "Henderson",
-        "#\u0906\u0926\u093f\u0917\u0923\u0947\u0936_\u092f\u0947_\u0939\u0948",
-        "#THEVVAAN",
-        "Kabir is God",
-        "Estevao",
-        "#vantara",
         "#madhuri",
-        "Hendo"
+        "#\u0906\u0926\u093f\u0917\u0923\u0947\u0936_\u092f\u0947_\u0939\u0948",
+        "#vantara",
+        "#uppercircuitstock",
+        "#BallotNo2_DeepanshuForDUSU",
+        "Kabir is God",
+        "19.56 cr",
+        "Chelsea",
+        "14 cr",
+        "Brentford",
+        "Shehzad"
       ],
       "hashtags": [
-        "#BRECHE",
-        "#\u0906\u0926\u093f\u0917\u0923\u0947\u0936_\u092f\u0947_\u0939\u0948",
-        "#THEVVAAN",
-        "#vantara",
         "#madhuri",
-        "#ENHYPEN_Is_SevEN_Since_I_Land",
-        "#BoycottHYBE_RespectTheArtists",
-        "#Sigma",
-        "#PlsLove\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21EP2",
-        "#WeekendKaVaar",
-        "#BRSLootedTelangana"
+        "#\u0906\u0926\u093f\u0917\u0923\u0947\u0936_\u092f\u0947_\u0939\u0948",
+        "#vantara",
+        "#uppercircuitstock",
+        "#BallotNo2_DeepanshuForDUSU"
       ],
       "regular_topics": [
-        "Brentford",
-        "Xabi",
-        "Henderson",
         "Kabir is God",
-        "Estevao",
-        "Hendo",
-        "Kane",
-        "Uditi",
-        "Qazi",
-        "BELIFT SHOW SOME INTEGRITY",
-        "White House"
+        "19.56 cr",
+        "Chelsea",
+        "14 cr",
+        "Brentford",
+        "Shehzad",
+        "continental securities limited",
+        "deepanshu shokeen",
+        "haus of intelligence",
+        "Greenland",
+        "\u0938\u0947\u0935\u093e \u0938\u0902\u0915\u0932\u094d\u092a \u0905\u092d\u093f\u092f\u093e\u0928"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Fri Sep 18 2026 21:24:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Fri Sep 18 2026 23:08:20 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsea",
         "Alonso",
-        "#BRECHE",
         "Neto",
-        "Henderson",
-        "Igor Thiago",
+        "#BRECHE",
         "Martinez",
-        "Estevao",
         "Sanchez",
+        "Henderson",
+        "Estevao",
+        "Igor Thiago",
         "Fofana",
         "JP Morgan"
       ],
       "hashtags": [
-        "#BRECHE",
-        "#NNPCNaija66",
-        "#BurgerKingJollof",
-        "#oraimoAniFast",
-        "#BetwayLeaderboard"
+        "#BRECHE"
       ],
       "regular_topics": [
         "Chelsea",
         "Alonso",
         "Neto",
-        "Henderson",
-        "Igor Thiago",
         "Martinez",
-        "Estevao",
         "Sanchez",
+        "Henderson",
+        "Estevao",
+        "Igor Thiago",
         "Fofana",
         "JP Morgan",
-        "Colwill"
+        "Congratulations Keivo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
