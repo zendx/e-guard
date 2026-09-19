@@ -1,196 +1,197 @@
 {
-  "generated_at_utc": "2026-09-19T21:50:11.400235+00:00",
+  "generated_at_utc": "2026-09-19T23:42:08.708222+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Sep 19 2026 21:33:08 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 23:18:11 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "Kentucky",
+        "Bama",
         "NC State",
-        "Vandy",
-        "CJ Bailey",
-        "UTEP",
-        "Vanderbilt",
-        "Dave Doeren",
-        "White House",
-        "Clemson",
-        "Raphinha",
+        "Texas A&M",
         "Marcel Reed",
-        "Jared Curtis"
+        "Stein",
+        "#UFC331",
+        "Rutgers",
+        "Vandy",
+        "UTEP",
+        "Tommy Carr"
       ],
       "hashtags": [
-        "#iufb",
         "#UFC331",
-        "#AnchorDown",
-        "#BatmanDay"
+        "#RollTide",
+        "#iufb"
       ],
       "regular_topics": [
+        "Kentucky",
+        "Bama",
         "NC State",
-        "Vandy",
-        "CJ Bailey",
-        "UTEP",
-        "Vanderbilt",
-        "Dave Doeren",
-        "White House",
-        "Clemson",
-        "Raphinha",
+        "Texas A&M",
         "Marcel Reed",
-        "Jared Curtis"
+        "Stein",
+        "Rutgers",
+        "Vandy",
+        "UTEP",
+        "Tommy Carr",
+        "Aggies"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Sep 19 2026 21:06:38 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 22:52:22 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#Strictly",
+        "#SNLUK",
+        "#UFC331",
         "Emma",
         "Josh",
-        "#nffc",
-        "Johannes",
         "Raphinha",
+        "Pat Brown",
+        "Johannes",
         "Brighton",
-        "#PUSB",
-        "#wisdomofthecrowd",
-        "Coventry",
-        "Tess"
+        "#nffc",
+        "#HedgesBrown"
       ],
       "hashtags": [
         "#Strictly",
+        "#SNLUK",
+        "#UFC331",
         "#nffc",
-        "#PUSB",
-        "#wisdomofthecrowd",
-        "#NFOCOV"
+        "#HedgesBrown"
       ],
       "regular_topics": [
         "Emma",
         "Josh",
-        "Johannes",
         "Raphinha",
+        "Pat Brown",
+        "Johannes",
         "Brighton",
-        "Coventry",
-        "Tess",
-        "Vito",
-        "Sevilla",
+        "Casey O'Neill",
+        "Andros Townsend",
         "Rylan",
-        "Dianne"
+        "Coventry",
+        "Vito"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Sep 19 2026 20:57:54 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 23:36:06 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Greenland",
         "Brighton",
-        "Raphinha",
+        "#UFC331",
+        "Arsenal",
         "White House",
         "NATO",
-        "NC State",
         "Europe",
-        "Gordon",
-        "Pedri",
-        "Rapha",
-        "Chad Kelly"
+        "#GoHabsGo",
+        "Gulf of Mexico",
+        "#LeafsForever",
+        "Raphinha"
       ],
       "hashtags": [
+        "#UFC331",
+        "#GoHabsGo",
+        "#LeafsForever",
         "#BatmanDay",
-        "#YouManiacSeriesEP4",
-        "#Caturday",
-        "#BHAARS",
-        "#Argos"
+        "#YouManiacSeriesEP4"
       ],
       "regular_topics": [
         "Greenland",
         "Brighton",
-        "Raphinha",
+        "Arsenal",
         "White House",
         "NATO",
-        "NC State",
         "Europe",
-        "Gordon",
+        "Gulf of Mexico",
+        "Raphinha",
+        "Resident Evil",
         "Pedri",
-        "Rapha",
-        "Chad Kelly"
+        "Kentucky"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Sep 19 2026 20:52:27 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 23:30:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "#SalmanKhan",
+        "Raphinha",
         "Gordon",
         "Christensen",
-        "Raphinha",
         "Rapha",
         "Sevilla",
         "#YouManiacSeriesEP4",
         "Pedri",
+        "Rodri",
         "Rahul Gandhi",
-        "Lamine",
-        "#FamilyFullHouseWithRohit"
+        "Lamine"
       ],
       "hashtags": [
         "#SalmanKhan",
         "#YouManiacSeriesEP4",
-        "#FamilyFullHouseWithRohit",
         "#\u092e\u093e\u0938\u0942\u092e_\u0936\u0930\u094d\u092e\u093e_\u0939\u0930\u093f\u092f\u093e\u0923\u093e_\u0928\u093e\u0936\u0915",
-        "#\u091d\u0942\u0920_\u0915\u0940_\u0917\u0942\u0902\u091c_\u0907\u0902\u0926\u094c\u0930"
+        "#MrFanboyEP4",
+        "#LaLiga",
+        "#ENGENE_Stands_With_SevEN",
+        "#FinancialBoycottHYBE",
+        "#WeekendKaVaar",
+        "#Monster",
+        "#ByHeartMV"
       ],
       "regular_topics": [
+        "Raphinha",
         "Gordon",
         "Christensen",
-        "Raphinha",
         "Rapha",
         "Sevilla",
         "Pedri",
+        "Rodri",
         "Rahul Gandhi",
         "Lamine",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "Arsenal",
-        "Balatkari Bhand Masoom Sharma"
+        "Eric",
+        "\u092e\u093e\u0938\u0942\u092e \u0936\u0930\u094d\u092e\u093e"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Sep 19 2026 20:51:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 23:28:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Raphinha",
-        "Arsenal",
         "Sevilla",
         "Gordon",
+        "Brighton",
         "Christensen",
+        "Pedri",
+        "Yusuf and Bells",
         "Saka",
-        "Rapha",
-        "Havertz",
-        "Mo Salah",
-        "Galatasaray",
-        "#SEVBAR"
+        "$JEANPHIL",
+        "DJ Phatt",
+        "Bells and Yusuf"
       ],
       "hashtags": [
-        "#SEVBAR",
-        "#BHAARS",
-        "#HappyBirthdayDrSavealife",
-        "#BRIARS"
+        "#SEVBAR"
       ],
       "regular_topics": [
         "Raphinha",
-        "Arsenal",
         "Sevilla",
         "Gordon",
+        "Brighton",
         "Christensen",
+        "Pedri",
+        "Yusuf and Bells",
         "Saka",
-        "Rapha",
-        "Havertz",
-        "Mo Salah",
-        "Galatasaray",
-        "Arteta"
+        "$JEANPHIL",
+        "DJ Phatt",
+        "Bells and Yusuf"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
