@@ -1,198 +1,195 @@
 {
-  "generated_at_utc": "2026-09-19T17:32:00.602300+00:00",
+  "generated_at_utc": "2026-09-19T19:40:03.119275+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sat Sep 19 2026 17:12:17 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 18:56:16 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Clemson",
-        "Arsenal",
         "Dabo",
-        "Brighton",
         "White House",
-        "Morgan Freeman",
         "Arkansas",
-        "Greenland",
-        "Saka",
-        "College Gameday",
-        "Supreme Intelligence"
+        "Arsenal",
+        "Brighton",
+        "Kent State",
+        "Vandy",
+        "Georgia",
+        "Chris Marshall",
+        "American Intelligence"
       ],
       "hashtags": [
+        "#BatmanDay",
         "#MrFanboyEP4",
-        "#BHAARS",
-        "#Caturday",
-        "#SmartContract",
-        "#YouManiacSeriesEP4"
+        "#kufball",
+        "#GoDawgs"
       ],
       "regular_topics": [
         "Clemson",
-        "Arsenal",
         "Dabo",
-        "Brighton",
         "White House",
-        "Morgan Freeman",
         "Arkansas",
-        "Greenland",
-        "Saka",
-        "College Gameday",
-        "Supreme Intelligence"
+        "Arsenal",
+        "Brighton",
+        "Kent State",
+        "Vandy",
+        "Georgia",
+        "Chris Marshall",
+        "American Intelligence"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sat Sep 19 2026 16:45:47 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 19:24:04 GMT+0000 (Coordinated Universal Time)",
       "topics": [
+        "#Strictly",
         "Brighton",
-        "Saka",
-        "Arteta",
-        "Havertz",
-        "Spurs",
-        "#BHAARS",
-        "FULL TIME",
-        "Raya",
-        "Tzolis",
-        "#dcfc",
-        "#saintsfc"
+        "#nffc",
+        "#PUSB",
+        "Johannes",
+        "Emma",
+        "Coventry",
+        "Vito",
+        "Josh",
+        "Tess",
+        "Saka"
       ],
       "hashtags": [
-        "#BHAARS",
-        "#dcfc",
-        "#saintsfc",
-        "#swfc",
-        "#htafc"
+        "#Strictly",
+        "#nffc",
+        "#PUSB",
+        "#NFOCOV",
+        "#swfc"
       ],
       "regular_topics": [
         "Brighton",
+        "Johannes",
+        "Emma",
+        "Coventry",
+        "Vito",
+        "Josh",
+        "Tess",
         "Saka",
-        "Arteta",
-        "Havertz",
-        "Spurs",
-        "FULL TIME",
-        "Raya",
-        "Tzolis",
-        "Beadle",
-        "Merino",
-        "De Zerbi"
+        "Ndoye",
+        "Glasner",
+        "Arteta"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sat Sep 19 2026 16:39:43 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 19:15:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Greenland",
         "Brighton",
-        "Saka",
-        "Arteta",
-        "Havertz",
         "#nolimitt",
-        "#BHAARS",
+        "NATO",
+        "White House",
         "Europe",
-        "Spurs",
-        "Gyokeres",
-        "NATO"
+        "#bbtvi",
+        "895% yoy",
+        "Saka",
+        "Coventry",
+        "Arteta"
       ],
       "hashtags": [
         "#nolimitt",
-        "#BHAARS",
         "#bbtvi",
         "#BatmanDay",
-        "#COYG"
+        "#BHAARS",
+        "#YouManiacSeriesEP4"
       ],
       "regular_topics": [
         "Greenland",
         "Brighton",
-        "Saka",
-        "Arteta",
-        "Havertz",
-        "Europe",
-        "Spurs",
-        "Gyokeres",
         "NATO",
         "White House",
-        "Raya"
+        "Europe",
+        "895% yoy",
+        "Saka",
+        "Coventry",
+        "Arteta",
+        "Lautaro",
+        "Havertz"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sat Sep 19 2026 16:33:14 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 19:08:24 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#\u092e\u093e\u0938\u0942\u092e_\u0936\u0930\u094d\u092e\u093e_\u0939\u0930\u093f\u092f\u093e\u0923\u093e_\u0928\u093e\u0936\u0915",
-        "#\u091d\u0942\u0920_\u0915\u0940_\u0917\u0942\u0902\u091c_\u0907\u0902\u0926\u094c\u0930",
-        "Balatkari Bhand Masoom Sharma",
-        "Arsenal",
+        "#SalmanKhan",
         "#FamilyFullHouseWithRohit",
-        "\u092e\u093e\u0938\u0942\u092e \u0936\u0930\u094d\u092e\u093e",
-        "Brighton",
-        "#GodBlessHim",
+        "#\u092e\u093e\u0938\u0942\u092e_\u0936\u0930\u094d\u092e\u093e_\u0939\u0930\u093f\u092f\u093e\u0923\u093e_\u0928\u093e\u0936\u0915",
+        "Balatkari Bhand Masoom Sharma",
         "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
-        "#RohitSharmaOnSonyTV",
-        "That's the SPIRIT"
+        "Rahul Gandhi",
+        "#YouManiacSeriesEP4",
+        "Arsenal",
+        "#\u091d\u0942\u0920_\u0915\u0940_\u0917\u0942\u0902\u091c_\u0907\u0902\u0926\u094c\u0930",
+        "\u092e\u093e\u0938\u0942\u092e \u0936\u0930\u094d\u092e\u093e",
+        "Brighton"
       ],
       "hashtags": [
-        "#\u092e\u093e\u0938\u0942\u092e_\u0936\u0930\u094d\u092e\u093e_\u0939\u0930\u093f\u092f\u093e\u0923\u093e_\u0928\u093e\u0936\u0915",
-        "#\u091d\u0942\u0920_\u0915\u0940_\u0917\u0942\u0902\u091c_\u0907\u0902\u0926\u094c\u0930",
+        "#SalmanKhan",
         "#FamilyFullHouseWithRohit",
-        "#GodBlessHim",
-        "#RohitSharmaOnSonyTV"
+        "#\u092e\u093e\u0938\u0942\u092e_\u0936\u0930\u094d\u092e\u093e_\u0939\u0930\u093f\u092f\u093e\u0923\u093e_\u0928\u093e\u0936\u0915",
+        "#YouManiacSeriesEP4",
+        "#\u091d\u0942\u0920_\u0915\u0940_\u0917\u0942\u0902\u091c_\u0907\u0902\u0926\u094c\u0930"
       ],
       "regular_topics": [
         "Balatkari Bhand Masoom Sharma",
+        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
+        "Rahul Gandhi",
         "Arsenal",
         "\u092e\u093e\u0938\u0942\u092e \u0936\u0930\u094d\u092e\u093e",
         "Brighton",
-        "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940",
         "That's the SPIRIT",
-        "\u0906\u0930\u094d\u092f \u0938\u092e\u093e\u091c",
-        "ABVP",
+        "DUSU",
         "Great Harassment",
-        "NSUI",
-        "\u0926\u092f\u093e\u0928\u0902\u0926 \u0938\u0930\u0938\u094d\u0935\u0924\u0940"
+        "\u0906\u0930\u094d\u092f \u0938\u092e\u093e\u091c",
+        "MR FANBOY CHAPTER 4"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sat Sep 19 2026 16:30:58 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Sat Sep 19 2026 19:06:30 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Arsenal",
-        "#BHAARS",
         "Saka",
+        "#BHAARS",
         "Arteta",
         "Raya",
-        "Tottenham",
-        "#BRIARS",
+        "Coventry",
+        "Aunty Esther",
         "Bournemouth",
-        "Spurs",
-        "Amex",
-        "Assnal"
+        "Galatasaray",
+        "Mo Salah",
+        "Sevilla"
       ],
       "hashtags": [
         "#BHAARS",
-        "#BRIARS",
-        "#TOTAVL",
-        "#YouManiacSeriesEP4",
-        "#TOTAST"
+        "#HappyBirthdayDrSavealife",
+        "#BRIARS"
       ],
       "regular_topics": [
         "Arsenal",
         "Saka",
         "Arteta",
         "Raya",
-        "Tottenham",
+        "Coventry",
+        "Aunty Esther",
         "Bournemouth",
-        "Spurs",
-        "Amex",
-        "Assnal",
-        "Odegaard",
-        "Gunners"
+        "Galatasaray",
+        "Mo Salah",
+        "Sevilla",
+        "Roma"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
