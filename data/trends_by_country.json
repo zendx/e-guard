@@ -1,119 +1,119 @@
 {
-  "generated_at_utc": "2026-09-20T23:38:36.787679+00:00",
+  "generated_at_utc": "2026-09-21T01:55:50.006855+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Sun Sep 20 2026 23:00:29 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 21 2026 01:36:57 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chargers",
-        "Jayden Daniels",
-        "Justin Herbert",
+        "Colts",
         "Raiders",
+        "Herbert",
+        "Jayden Daniels",
+        "Daniel Jones",
+        "Kelce",
+        "Alec Pierce",
+        "Keenan Allen",
         "Dan Quinn",
-        "Browns",
-        "Caleb",
-        "Jets",
-        "Ravens",
-        "Tom Brady",
-        "Bucs"
+        "Tom Brady"
       ],
       "hashtags": [
-        "#RaiseHail",
         "#RaiderNation",
-        "#DallasCowboys",
-        "#WASvsDAL",
-        "#Seahawks"
+        "#OlandriaxCreateAndCultivate",
+        "#90DayFiance",
+        "#BadBoysCancun",
+        "#ForTheShoe"
       ],
       "regular_topics": [
         "Chargers",
-        "Jayden Daniels",
-        "Justin Herbert",
+        "Colts",
         "Raiders",
+        "Herbert",
+        "Jayden Daniels",
+        "Daniel Jones",
+        "Kelce",
+        "Alec Pierce",
+        "Keenan Allen",
         "Dan Quinn",
-        "Browns",
-        "Caleb",
-        "Jets",
-        "Ravens",
-        "Tom Brady",
-        "Bucs"
+        "Tom Brady"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Sun Sep 20 2026 23:27:45 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 21 2026 01:09:58 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chelsey",
         "Rochelle",
         "Chargers",
-        "Johanne",
         "Carrick",
-        "Herbert",
         "Jayden Daniels",
+        "Herbert",
+        "Johanne",
         "#TheBlame",
         "Omar",
-        "Lynx",
-        "Rashford"
+        "Rashford",
+        "Tom Brady"
       ],
       "hashtags": [
         "#TheBlame",
         "#Seahawks",
+        "#RaiderNation",
         "#RaiseHail",
-        "#FTTB",
-        "#TheSplitUp"
+        "#FTTB"
       ],
       "regular_topics": [
         "Chelsey",
         "Rochelle",
         "Chargers",
-        "Johanne",
         "Carrick",
-        "Herbert",
         "Jayden Daniels",
+        "Herbert",
+        "Johanne",
         "Omar",
-        "Lynx",
         "Rashford",
-        "Rhianna"
+        "Tom Brady",
+        "Colts"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Sun Sep 20 2026 23:18:33 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 21 2026 01:03:23 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Chargers",
-        "Justin Herbert",
-        "Jayden Daniels",
-        "Raiders",
         "#odpanama",
-        "#Seahawks",
+        "Colts",
+        "Herbert",
+        "Raiders",
+        "Jayden Daniels",
+        "Kelce",
         "Kerry",
-        "Ravens",
-        "#RaiderNation",
-        "Browns",
-        "Caleb Williams"
+        "#Seahawks",
+        "OneBC",
+        "Aaron Gunn"
       ],
       "hashtags": [
         "#odpanama",
         "#Seahawks",
         "#RaiderNation",
         "#BroncosCountry",
-        "#GoPackGo"
+        "#DallasCowboys"
       ],
       "regular_topics": [
         "Chargers",
-        "Justin Herbert",
-        "Jayden Daniels",
+        "Colts",
+        "Herbert",
         "Raiders",
+        "Jayden Daniels",
+        "Kelce",
         "Kerry",
-        "Ravens",
-        "Browns",
-        "Caleb Williams",
         "OneBC",
-        "BC Conservatives",
+        "Aaron Gunn",
+        "Ravens",
         "Drew Lock"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
@@ -121,12 +121,12 @@
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Sun Sep 20 2026 23:12:19 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 21 2026 00:56:15 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#hbd_ravindrachavan",
-        "#justicefordusustudent",
+        "#youthdemandrecountingdusu",
         "#happybirthdayravidada",
         "#\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930_\u0906\u090f_\u0926\u092f\u093e_\u0915\u0930\u0940",
+        "#hbd_ravindrachavan",
         "Merciful Sant RampalJi Maharaj",
         "#5DayBankingNow",
         "\u0926\u092f\u093e \u0915\u0930\u0940",
@@ -136,10 +136,10 @@
         "Himesh Reshammiya"
       ],
       "hashtags": [
-        "#hbd_ravindrachavan",
-        "#justicefordusustudent",
+        "#youthdemandrecountingdusu",
         "#happybirthdayravidada",
         "#\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930_\u0906\u090f_\u0926\u092f\u093e_\u0915\u0930\u0940",
+        "#hbd_ravindrachavan",
         "#5DayBankingNow"
       ],
       "regular_topics": [
@@ -153,46 +153,46 @@
         "tehalka bigcricket operations",
         "\u0930\u0935\u093f \u0926\u093e\u0926\u093e",
         "Butibori",
-        "Balatkari Bhand Masoom Sharma"
+        "ABVP"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Sun Sep 20 2026 23:09:39 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Mon Sep 21 2026 01:45:49 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "Rashford",
-        "#10thAFRIMA",
-        "Madrid",
-        "Tomorrow is Monday",
-        "UNGA",
+        "Fulham",
+        "Audrey",
+        "Brighton",
+        "#FULMUN",
+        "Bournemouth",
+        "Sunderland",
+        "Real Madrid",
+        "Inter Miami",
         "Cunha",
-        "Chimsom Chuka",
-        "World War III",
-        "Yusuf",
-        "Mourinho",
-        "The Anthem"
+        "UNGA"
       ],
       "hashtags": [
-        "#10thAFRIMA",
         "#FULMUN",
-        "#BBNNAIJA2026",
-        "#CarrickOut",
-        "#Lioness"
+        "#MCISUN",
+        "#BHAARS",
+        "#BOULIV",
+        "#ATMRMA"
       ],
       "regular_topics": [
         "Rashford",
-        "Madrid",
-        "Tomorrow is Monday",
-        "UNGA",
+        "Fulham",
+        "Audrey",
+        "Brighton",
+        "Bournemouth",
+        "Sunderland",
+        "Real Madrid",
+        "Inter Miami",
         "Cunha",
-        "Chimsom Chuka",
-        "World War III",
-        "Yusuf",
-        "Mourinho",
-        "The Anthem",
-        "Keivo"
+        "UNGA",
+        "Mourinho"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
