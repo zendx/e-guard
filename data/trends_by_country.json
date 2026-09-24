@@ -1,88 +1,88 @@
 {
-  "generated_at_utc": "2026-09-24T05:34:30.956324+00:00",
+  "generated_at_utc": "2026-09-24T10:36:19.565321+00:00",
   "source": "trends24.in (public web scrape)",
   "countries": {
     "USA": {
       "slug": "united-states",
-      "timeline_timestamp": "Thu Sep 24 2026 04:44:15 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 24 2026 09:57:54 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#Survivor51",
-        "#AEWDynamite",
-        "#AEWCollision",
-        "Cubs",
-        "Lawrence Tanter",
-        "Peltola",
-        "Brett Baty",
-        "Salas",
-        "#OlandriaxOffWhite",
-        "AARON NOMINADO ELIOT AWARDS",
-        "Yamamoto"
+        "#ADifferentWorld",
+        "Good Thursday",
+        "#JUNGKOOKxHUBLOT",
+        "Hader",
+        "Shaquille",
+        "New Listing Around the Corner",
+        "Moonshot V2 Launchpad",
+        "Listing ID",
+        "Timothy Kelly",
+        "Mid-Autumn Festival",
+        "#MSBREEWC"
       ],
       "hashtags": [
+        "#ADifferentWorld",
+        "#JUNGKOOKxHUBLOT",
+        "#MSBREEWC",
         "#Survivor51",
-        "#AEWDynamite",
-        "#AEWCollision",
-        "#OlandriaxOffWhite",
-        "#MercurialsEstamosDeVuelta"
+        "#FullVideo"
       ],
       "regular_topics": [
-        "Cubs",
+        "Good Thursday",
+        "Hader",
+        "Shaquille",
+        "New Listing Around the Corner",
+        "Moonshot V2 Launchpad",
+        "Listing ID",
+        "Timothy Kelly",
+        "Mid-Autumn Festival",
         "Lawrence Tanter",
-        "Peltola",
-        "Brett Baty",
-        "Salas",
-        "AARON NOMINADO ELIOT AWARDS",
-        "Yamamoto",
-        "David Morgan",
-        "John Danganronpa",
-        "Ace Attorney",
-        "Marlins"
+        "Whitley",
+        "Mariners"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-states/"
     },
     "UK": {
       "slug": "united-kingdom",
-      "timeline_timestamp": "Thu Sep 24 2026 05:10:09 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 24 2026 10:24:55 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#bbuk",
         "Ministry of Truth",
-        "Chelsey",
         "#BoycottUnited",
-        "Pauline",
-        "Gosport",
-        "Russia",
+        "#popmaster",
+        "Burnham",
         "Starlink",
-        "Chagos",
-        "#granddesigns",
-        "Trump"
+        "Russia",
+        "Clifford Lee",
+        "Pauline",
+        "Trump",
+        "#BBUK",
+        "CHELSEY"
       ],
       "hashtags": [
-        "#bbuk",
         "#BoycottUnited",
-        "#granddesigns",
-        "#GBBO",
-        "#malaswap"
+        "#popmaster",
+        "#BBUK",
+        "#malaswap",
+        "#GrandDesigns"
       ],
       "regular_topics": [
         "Ministry of Truth",
-        "Chelsey",
-        "Pauline",
-        "Gosport",
-        "Russia",
-        "Starlink",
-        "Chagos",
-        "Trump",
         "Burnham",
-        "Lynx",
-        "Opus 5.5"
+        "Starlink",
+        "Russia",
+        "Clifford Lee",
+        "Pauline",
+        "Trump",
+        "CHELSEY",
+        "Chagos",
+        "Gosport",
+        "Danny Tommo"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/united-kingdom/"
     },
     "Canada": {
       "slug": "canada",
-      "timeline_timestamp": "Thu Sep 24 2026 05:03:31 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 24 2026 10:18:31 GMT+0000 (Coordinated Universal Time)",
       "topics": [
         "MAID",
         "OneBC",
@@ -94,14 +94,14 @@
         "Halo",
         "Opus 5.5",
         "McKenna",
-        "Belarus"
+        "DRIPA"
       ],
       "hashtags": [
         "#OlandriaxOffWhite",
         "#Survivor51",
-        "#dwts",
-        "#D\u00e9batDesChefs",
-        "#PPxSHUFFLE"
+        "#PPxSHUFFLE",
+        "#AEWDynamite",
+        "#DWTS"
       ],
       "regular_topics": [
         "MAID",
@@ -112,87 +112,87 @@
         "Halo",
         "Opus 5.5",
         "McKenna",
-        "Belarus",
         "DRIPA",
-        "British Columbians"
+        "Belarus",
+        "Messier"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/canada/"
     },
     "India": {
       "slug": "india",
-      "timeline_timestamp": "Thu Sep 24 2026 04:56:04 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 24 2026 10:09:33 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#3Cr_MYBharatParivar",
-        "#Suraag2OnDDNational",
-        "#NSEIPO",
-        "#Nse_Under_10_UC_Stock",
+        "#NSEListing",
+        "#AdaniWithBengal",
+        "#RungtaSteelEkdumSolid",
         "#ZMILGFIN",
+        "#MahaRPETAbhiyaan2026",
+        "Snapdragon",
+        "Adani Arogya Mandir",
         "Milgrey Finance",
-        "\u092f\u092e\u0941\u0928\u093e \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947",
-        "Fidus Parkland",
-        "\u0917\u094d\u0930\u0947\u091f\u0930 \u0928\u094b\u090f\u0921\u093e",
-        "83 Cr",
-        "500 Cr"
+        "New Town",
+        "Big Billion Days",
+        "Fidus Parkland Pvt"
       ],
       "hashtags": [
-        "#3Cr_MYBharatParivar",
-        "#Suraag2OnDDNational",
-        "#NSEIPO",
-        "#Nse_Under_10_UC_Stock",
-        "#ZMILGFIN"
+        "#NSEListing",
+        "#AdaniWithBengal",
+        "#RungtaSteelEkdumSolid",
+        "#ZMILGFIN",
+        "#MahaRPETAbhiyaan2026"
       ],
       "regular_topics": [
+        "Snapdragon",
+        "Adani Arogya Mandir",
         "Milgrey Finance",
-        "\u092f\u092e\u0941\u0928\u093e \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938\u0935\u0947",
-        "Fidus Parkland",
-        "\u0917\u094d\u0930\u0947\u091f\u0930 \u0928\u094b\u090f\u0921\u093e",
-        "83 Cr",
-        "500 Cr",
-        "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
-        "49.80 Cr",
-        "\u0936\u094d\u0930\u0940 \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0928\u093e\u0930\u093e\u092f\u0923",
-        "\u0928\u092e\u094b \u0928\u093e\u0930\u093e\u092f\u0923",
-        "Satnam Singh"
+        "New Town",
+        "Big Billion Days",
+        "Fidus Parkland Pvt",
+        "EXTREME WITH EST",
+        "PB Fintech",
+        "Omkar",
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0938\u0902\u0917\u0920\u0928",
+        "Gautam Adani"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/india/"
     },
     "Nigeria": {
       "slug": "nigeria",
-      "timeline_timestamp": "Thu Sep 24 2026 04:54:35 GMT+0000 (Coordinated Universal Time)",
+      "timeline_timestamp": "Thu Sep 24 2026 10:08:18 GMT+0000 (Coordinated Universal Time)",
       "topics": [
-        "#PPxSHUFFLE",
-        "Mavo",
-        "UNGA",
-        "Sumo",
-        "Friends",
-        "The Office",
+        "Erica",
+        "Leny Yoro",
+        "ALL BATTLES HAVE ENDED",
+        "#BinanceSummerCamp",
+        "#WikiBit",
+        "#Aylio",
+        "Portugal",
+        "$HYPE",
+        "Ibrahima Konat\u00e9",
         "$JUMP",
-        "#OlandriaxOffWhite",
-        "Itel",
-        "Slippy",
-        "Orangie"
+        "Ivory Coast"
       ],
       "hashtags": [
-        "#PPxSHUFFLE",
-        "#OlandriaxOffWhite",
-        "#xidengames",
-        "#segunshowunmi",
-        "#BoycottUnited"
+        "#BinanceSummerCamp",
+        "#WikiBit",
+        "#Aylio",
+        "#NSPPD",
+        "#\u30a4\u30fc\u30d5\u30c8"
       ],
       "regular_topics": [
-        "Mavo",
-        "UNGA",
-        "Sumo",
-        "Friends",
-        "The Office",
+        "Erica",
+        "Leny Yoro",
+        "ALL BATTLES HAVE ENDED",
+        "Portugal",
+        "$HYPE",
+        "Ibrahima Konat\u00e9",
         "$JUMP",
-        "Itel",
-        "Slippy",
-        "Orangie",
-        "Wike",
-        "Portugal"
+        "Ivory Coast",
+        "Lucky Drive",
+        "Netherlands",
+        "Laycon"
       ],
       "source_selector": "ol.trend-card__list li .trend-name a.trend-link",
       "source_url": "https://trends24.in/nigeria/"
